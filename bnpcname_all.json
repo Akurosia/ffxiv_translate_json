@@ -22591,7 +22591,7 @@
     },
     "12256": {
         "0xID": "2FE0",
-        "Singular_cn": "_rsv",
+        "Singular_cn": "阿尔法欧米茄",
         "Singular_de": "Alpha-Omega",
         "Singular_en": "Alpha Omega",
         "Singular_fr": "Alpha-Oméga",
@@ -22600,7 +22600,7 @@
     },
     "12257": {
         "0xID": "2FE1",
-        "Singular_cn": "",
+        "Singular_cn": "欧米茄M",
         "Singular_de": "Omega-M",
         "Singular_en": "Omega-M",
         "Singular_fr": "Oméga-M",
@@ -22609,7 +22609,7 @@
     },
     "12258": {
         "0xID": "2FE2",
-        "Singular_cn": "",
+        "Singular_cn": "欧米茄F",
         "Singular_de": "Omega-W",
         "Singular_en": "Omega-F",
         "Singular_fr": "Oméga-F",
@@ -22618,7 +22618,7 @@
     },
     "12259": {
         "0xID": "2FE3",
-        "Singular_cn": "_rsv",
+        "Singular_cn": "宇宙流星",
         "Singular_de": "Kosmosmeteor",
         "Singular_en": "cosmo meteor",
         "Singular_fr": "cosmométéore",
@@ -23852,55 +23852,55 @@
     "12382": {
         "0xID": "305E",
         "Singular_cn": "",
-        "Singular_de": "_rsv_12382_-1_2_0_0_S64755250_E64755250",
+        "Singular_de": "Pallas Athena",
         "Singular_en": "Pallas Athena",
-        "Singular_fr": "_rsv_12382_-1_3_0_0_S64755250_E64755250",
-        "Singular_ja": "_rsv_12382_-1_0_0_0_S64755250_E64755250",
+        "Singular_fr": "Pallas Athéna",
+        "Singular_ja": "パラスアテナ",
         "Singular_ko": ""
     },
     "12383": {
         "0xID": "305F",
         "Singular_cn": "",
-        "Singular_de": "_rsv_12383_-1_2_0_0_S64755250_E64755250",
+        "Singular_de": "Hemitheos",
         "Singular_en": "hemitheos",
-        "Singular_fr": "_rsv_12383_-1_3_0_0_S64755250_E64755250",
-        "Singular_ja": "_rsv_12383_-1_0_0_0_S64755250_E64755250",
+        "Singular_fr": "hémithéos",
+        "Singular_ja": "ヘーミテオス",
         "Singular_ko": ""
     },
     "12384": {
         "0xID": "3060",
         "Singular_cn": "",
-        "Singular_de": "_rsv_12384_-1_2_0_0_S64755250_E64755250",
+        "Singular_de": "Substanz des Feuers",
         "Singular_en": "concept of fire",
-        "Singular_fr": "_rsv_12384_-1_3_0_0_S64755250_E64755250",
-        "Singular_ja": "_rsv_12384_-1_0_0_0_S64755250_E64755250",
+        "Singular_fr": "concept du feu",
+        "Singular_ja": "火の概念",
         "Singular_ko": ""
     },
     "12385": {
         "0xID": "3061",
         "Singular_cn": "",
-        "Singular_de": "_rsv_12385_-1_2_0_0_S64755250_E64755250",
+        "Singular_de": "Substanz des Wassers",
         "Singular_en": "concept of water",
-        "Singular_fr": "_rsv_12385_-1_3_0_0_S64755250_E64755250",
-        "Singular_ja": "_rsv_12385_-1_0_0_0_S64755250_E64755250",
+        "Singular_fr": "concept de l'eau",
+        "Singular_ja": "水の概念",
         "Singular_ko": ""
     },
     "12386": {
         "0xID": "3062",
         "Singular_cn": "",
-        "Singular_de": "_rsv_12386_-1_2_0_0_S64755250_E64755250",
+        "Singular_de": "Substanz der Erde",
         "Singular_en": "concept of earth",
-        "Singular_fr": "_rsv_12386_-1_3_0_0_S64755250_E64755250",
-        "Singular_ja": "_rsv_12386_-1_0_0_0_S64755250_E64755250",
+        "Singular_fr": "concept de la terre",
+        "Singular_ja": "土の概念",
         "Singular_ko": ""
     },
     "12387": {
         "0xID": "3063",
         "Singular_cn": "",
-        "Singular_de": "_rsv_12387_-1_2_0_0_S64755250_E64755250",
+        "Singular_de": "Tabu",
         "Singular_en": "forbidden factor",
-        "Singular_fr": "_rsv_12387_-1_3_0_0_S64755250_E64755250",
-        "Singular_ja": "_rsv_12387_-1_0_0_0_S64755250_E64755250",
+        "Singular_fr": "facteur tabou",
+        "Singular_ja": "禁忌因子",
         "Singular_ko": ""
     },
     "12388": {
