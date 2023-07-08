@@ -1,0 +1,866 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "\u76ae\u9769\u9646\u884c\u9e1f\u978d",
+        "Name_de": "Ledersattel",
+        "Name_en": "Leather Saddle",
+        "Name_fr": "Harnachement en cuir",
+        "Name_ja": "\u30ec\u30b6\u30fc\u30b5\u30c9\u30eb",
+        "Name_ko": "\uac00\uc8fd \uc548\uc7a5"
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u78a7\u6d77\u9646\u884c\u9e1f\u978d",
+        "Name_de": "Limsisches Sattelzeug",
+        "Name_en": "Lominsan Saddle",
+        "Name_fr": "Harnachement du Maelstrom",
+        "Name_ja": "\u30ed\u30df\u30f3\u30b5\u30f3\u30fb\u30b5\u30c9\u30eb",
+        "Name_ko": "\ub9bc\uc0ac \ub85c\ubbfc\uc0ac \uc548\uc7a5"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u9ec4\u6c99\u9646\u884c\u9e1f\u534a\u88c5\u7532",
+        "Name_de": "Leichter ul'dhischer Rossharnisch",
+        "Name_en": "Ul'dahn Half Barding",
+        "Name_fr": "Demi-barde des Immortels",
+        "Name_ja": "\u30a6\u30eb\u30c0\u30cf\u30f3\u30fb\u30cf\u30fc\u30d5\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc6b8\ub2e4\ud558 \uacbd\uac11\uc8fc"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u9ec4\u6c99\u9646\u884c\u9e1f\u88c5\u7532",
+        "Name_de": "Ul'dhischer Rossharnisch",
+        "Name_en": "Ul'dahn Barding",
+        "Name_fr": "Barde des Immortels",
+        "Name_ja": "\u30a6\u30eb\u30c0\u30cf\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc6b8\ub2e4\ud558 \uac11\uc8fc"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u9ec4\u6c99\u9646\u884c\u9e1f\u6b66\u88c5\u7532",
+        "Name_de": "Schwerer ul'dhischer Rossharnisch",
+        "Name_en": "Ul'dahn Crested Barding",
+        "Name_fr": "Barde lourde des Immortels",
+        "Name_ja": "\u30a6\u30eb\u30c0\u30cf\u30f3\u30fb\u30af\u30ec\u30b9\u30c6\u30c3\u30c9\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc6b8\ub2e4\ud558 \ubb38\uc7a5\uac11\uc8fc"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u9646\u884c\u9e1f\u9a91\u58eb\u88c5\u7532",
+        "Name_de": "Paladin-Rossharnisch",
+        "Name_en": "Paladin Barding",
+        "Name_fr": "Barde de paladin",
+        "Name_ja": "\u30d1\u30e9\u30c7\u30a3\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc131\uae30\uc0ac \uac11\uc8fc"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u9646\u884c\u9e1f\u9f99\u9a91\u58eb\u88c5\u7532",
+        "Name_de": "Dragoon-Rossharnisch",
+        "Name_en": "Dragoon Barding",
+        "Name_fr": "Barde de chevalier dragon",
+        "Name_ja": "\u30c9\u30e9\u30b0\u30fc\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc6a9\uae30\uc0ac \uac11\uc8fc"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u9646\u884c\u9e1f\u767d\u9b54\u88c5\u7532",
+        "Name_de": "Wei\u00dfmagier-Rossharnisch",
+        "Name_en": "White Mage Barding",
+        "Name_fr": "Barde de mage blanc",
+        "Name_ja": "\u30db\u30ef\u30a4\u30c8\u30e1\u30a4\u30b8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ubc31\ub9c8\ub3c4\uc0ac \uac11\uc8fc"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u65af\u83b1\u666e\u5c3c\u5c14\u88c5\u7532",
+        "Name_de": "Sleipnir-Rossharnisch",
+        "Name_en": "Sleipnir Barding",
+        "Name_fr": "Barde de Sleipnir",
+        "Name_ja": "\u30b9\u30ec\u30a4\u30d7\u30cb\u30eb\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc2ac\ub808\uc774\ud504\ub2c8\ub974 \uac11\uc8fc"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u8d1d\u5e0c\u6469\u65af\u88c5\u7532",
+        "Name_de": "Behemoth-Rossharnisch",
+        "Name_en": "Behemoth Barding",
+        "Name_fr": "Barde de b\u00e9h\u00e9moth",
+        "Name_ja": "\u30d9\u30d2\u30fc\u30e2\u30b9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ubca0\ud788\ubaa8\uc2a4 \uac11\uc8fc"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u822a\u7a7a\u515c\u5e3d",
+        "Name_de": "Chocobo-Fliegerhaube",
+        "Name_en": "Flyer Shaffron",
+        "Name_fr": "Chanfrein d'aviateur",
+        "Name_ja": "\u30d5\u30e9\u30a4\u30e4\u30fc\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ube44\ud589\ub300 \uac11\uc8fc"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u9646\u884c\u9e1f\u9ed1\u9b54\u88c5\u7532",
+        "Name_de": "Schwarzmagier-Rossharnisch",
+        "Name_en": "Black Mage Barding",
+        "Name_fr": "Barde de mage noir",
+        "Name_ja": "\u30d6\u30e9\u30c3\u30af\u30e1\u30a4\u30b8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ud751\ub9c8\ub3c4\uc0ac \uac11\uc8fc"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u78a7\u6d77\u9646\u884c\u9e1f\u534a\u88c5\u7532",
+        "Name_de": "Leichter limsischer Rossharnisch",
+        "Name_en": "Lominsan Half Barding",
+        "Name_fr": "Demi-barde du Maelstrom",
+        "Name_ja": "\u30ed\u30df\u30f3\u30b5\u30f3\u30fb\u30cf\u30fc\u30d5\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub9bc\uc0ac \ub85c\ubbfc\uc0ac \uacbd\uac11\uc8fc"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u9646\u884c\u9e1f\u738b\u88c5\u7532",
+        "Name_de": "K\u00f6niglicher Rossharnisch",
+        "Name_en": "Sovereign Barding",
+        "Name_fr": "Chanfrein du roi chocobo",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30ad\u30f3\u30b0\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ucd08\ucf54\ub300\uc655 \uac11\uc8fc"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u661f\u8292\u88c5\u7532",
+        "Name_de": "Sternenlicht-Rossharnisch",
+        "Name_en": "Starlight Barding",
+        "Name_fr": "Barde de la f\u00eate des \u00e9toiles",
+        "Name_ja": "\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ubcc4\ube5b\ucd95\uc81c \uac11\uc8fc"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u5229\u7ef4\u4e9a\u6851\u88c5\u7532",
+        "Name_de": "Wogen-Rossharnisch",
+        "Name_en": "Tidal Barding",
+        "Name_fr": "Barde de L\u00e9viathan",
+        "Name_ja": "\u30ea\u30f4\u30a1\u30a4\u30a2\u30b5\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub9ac\ubc14\uc774\uc5b4\uc120 \uac11\uc8fc"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u5149\u4e4b\u9e1f\u7532",
+        "Name_de": "Harnisch des Lichts",
+        "Name_en": "Barding of Light",
+        "Name_fr": "Barde de la Lumi\u00e8re",
+        "Name_ja": "\u30d0\u30fc\u30c9\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Name_ko": "\ube5b\uc758 \uac11\uc8fc"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u730e\u86cb\u88c5\u7532",
+        "Name_de": "Saliah-Harnisch",
+        "Name_en": "Egg Barding",
+        "Name_fr": "Chanfrein ovo\u00efde",
+        "Name_ja": "\u30a8\u30c3\u30ac\u30fc\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub2ec\uac40 \uac11\uc8fc"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u62c9\u59c6\u88c5\u7532",
+        "Name_de": "Blitz-Rossharnisch",
+        "Name_en": "Levin Barding",
+        "Name_fr": "Barde de Ramuh",
+        "Name_ja": "\u30e9\u30e0\u30a6\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub77c\ubb34 \uac11\uc8fc"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u7fbd\u9970\u88c5\u7532",
+        "Name_de": "Gefiederter Rossharnisch",
+        "Name_en": "Plumed Barding",
+        "Name_fr": "Chanfrein \u00e0 panache",
+        "Name_ja": "\u30d7\u30eb\u30fc\u30e0\u30c9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uae43\ud138\uc7a5\uc2dd \uac11\uc8fc"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u602a\u8bde\u88c5\u7532",
+        "Name_de": "Schauriger Rossharnisch",
+        "Name_en": "Eerie Barding",
+        "Name_fr": "Barde d'effroi",
+        "Name_ja": "\u30a4\u30a2\u30ea\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub9c8\ub140 \uac11\uc8fc"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u5e0c\u74e6\u88c5\u7532",
+        "Name_de": "Eis-Rossharnisch",
+        "Name_en": "Ice Barding",
+        "Name_fr": "Barde de Shiva",
+        "Name_ja": "\u30b7\u30f4\u30a1\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc2dc\ubc14 \uac11\uc8fc"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u80dc\u8d1f\u5e08\u88c5\u7532",
+        "Name_de": "Gl\u00fccksspieler-Rossharnisch",
+        "Name_en": "Gambler Barding",
+        "Name_fr": "Barde de flambeur",
+        "Name_ja": "\u30ae\u30e3\u30f3\u30d6\u30e9\u30fc\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub3c4\ubc15\uc0ac \uac11\uc8fc"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u78a7\u6d77\u9646\u884c\u9e1f\u88c5\u7532",
+        "Name_de": "Limsischer Rossharnisch",
+        "Name_en": "Lominsan Barding",
+        "Name_fr": "Barde du Maelstrom",
+        "Name_ja": "\u30ed\u30df\u30f3\u30b5\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub9bc\uc0ac \ub85c\ubbfc\uc0ac \uac11\uc8fc"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u60c5\u4eba\u88c5\u7532",
+        "Name_de": "Buhlen-Rossharnisch",
+        "Name_en": "Paramour Barding",
+        "Name_fr": "Barde de soupirant",
+        "Name_ja": "\u30d1\u30e9\u30e0\u30fc\u30eb\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc5f0\uc778\uc758 \uac11\uc8fc"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u5d07\u5c71\u9646\u884c\u9e1f\u534a\u88c5\u7532",
+        "Name_de": "Leichter Ishgarder Rossharnisch",
+        "Name_en": "Ishgardian Half Barding",
+        "Name_fr": "Demi-barde ishgardaise",
+        "Name_ja": "\u30a4\u30b7\u30e5\u30ac\u30eb\u30c7\u30a3\u30a2\u30f3\u30fb\u30cf\u30fc\u30d5\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc774\uc288\uac00\ub974\ub4dc \uacbd\uac11\uc8fc"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u5d07\u5c71\u9646\u884c\u9e1f\u88c5\u7532",
+        "Name_de": "Ishgarder Rossharnisch",
+        "Name_en": "Ishgardian Barding",
+        "Name_fr": "Barde ishgardaise",
+        "Name_ja": "\u30a4\u30b7\u30e5\u30ac\u30eb\u30c7\u30a3\u30a2\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc774\uc288\uac00\ub974\ub4dc \uac11\uc8fc"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u4ffe\u65af\u9ea6\u88c5\u7532",
+        "Name_de": "Bismarck-Rossharnisch",
+        "Name_en": "Expanse Barding",
+        "Name_fr": "Barde de Bismarck",
+        "Name_ja": "\u30d3\u30b9\u30de\u30eb\u30af\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ube44\uc2a4\ub9c8\ub974\ud06c \uac11\uc8fc"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u7f57\u6ce2\u90a3\u88c5\u7532",
+        "Name_de": "Ravana-Rossharnisch",
+        "Name_en": "Hive Barding",
+        "Name_fr": "Barde de Ravana",
+        "Name_ja": "\u30e9\u30fc\u30f4\u30a1\u30ca\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub77c\ubc14\ub098 \uac11\uc8fc"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u8d35\u65cf\u88c5\u7532",
+        "Name_de": "Adeligen-Rossharnisch",
+        "Name_en": "Noble Barding",
+        "Name_fr": "Barde noble",
+        "Name_ja": "\u30ce\u30fc\u30d6\u30eb\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uadc0\uc871\uc758 \uac11\uc8fc"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u6b63\u6559\u88c5\u7532",
+        "Name_de": "Orthodoxer Rossharnisch",
+        "Name_en": "Orthodox Barding",
+        "Name_fr": "Barde orthodoxe",
+        "Name_ja": "\u30aa\u30fc\u30bd\u30c9\u30c3\u30af\u30b9\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc815\uad50\ub3c4 \uac11\uc8fc"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u9ad8\u5730\u88c5\u7532",
+        "Name_de": "Hochland-Rossharnisch",
+        "Name_en": "Highland Barding",
+        "Name_fr": "Barde des Hautes terres",
+        "Name_ja": "\u30cf\u30a4\u30e9\u30f3\u30c9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uace0\uc6d0 \uac11\uc8fc"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u91ce\u73ab\u7470\u88c5\u7532",
+        "Name_de": "Wildrosen-Harnisch",
+        "Name_en": "Wild Rose Barding",
+        "Name_fr": "Barde de la rose sauvage",
+        "Name_ja": "\u30ef\u30a4\u30eb\u30c9\u30ed\u30fc\u30ba\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub4e4\uc7a5\ubbf8 \uac11\uc8fc"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u78a7\u6d77\u9646\u884c\u9e1f\u6b66\u88c5\u7532",
+        "Name_de": "Schwerer limsischer Rossharnisch",
+        "Name_en": "Lominsan Crested Barding",
+        "Name_fr": "Barde lourde du Maelstrom",
+        "Name_ja": "\u30ed\u30df\u30f3\u30b5\u30f3\u30fb\u30af\u30ec\u30b9\u30c6\u30c3\u30c9\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub9bc\uc0ac \ub85c\ubbfc\uc0ac \ubb38\uc7a5\uac11\uc8fc"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u5706\u684c\u88c5\u7532",
+        "Name_de": "Tafelrunden-Rossharnisch",
+        "Name_en": "Round Table Barding",
+        "Name_fr": "Barde de la Table ronde",
+        "Name_ja": "\u30d0\u30fc\u30c9\u30fb\u30aa\u30d6\u30fb\u30e9\u30a6\u30f3\u30c9",
+        "Name_ko": "\uae30\uc0ac\uc2e0 \uac11\uc8fc"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u8428\u83f2\u6d1b\u7279\u88c5\u7532",
+        "Name_de": "Sephirot-Rossharnisch",
+        "Name_en": "Sephirotic Barding",
+        "Name_fr": "Barde de Sephirot",
+        "Name_ja": "\u30bb\u30d5\u30a3\u30ed\u30c8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc138\ud53c\ub85c\ud2b8 \uac11\uc8fc"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u730e\u86cb\u4eba\u88c5\u7532",
+        "Name_de": "Eierj\u00e4ger-Rossharnisch",
+        "Name_en": "Egg Hunter Barding",
+        "Name_fr": "Barde de chasseur de Pr\u0153ufs",
+        "Name_ja": "\u30a8\u30c3\u30b0\u30cf\u30f3\u30bf\u30fc\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc54c \uc0ac\ub0e5 \uac11\uc8fc"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u4e1c\u65b9\u88c5\u7532",
+        "Name_de": "Fern\u00f6stlicher Rossharnisch",
+        "Name_en": "Far Eastern Barding",
+        "Name_fr": "Barde orientale",
+        "Name_ja": "\u30d5\u30a1\u30fc\u30a4\u30fc\u30b9\u30c8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub3d9\ubc29 \uac11\uc8fc"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u7ade\u8d5b\u88c5\u7532",
+        "Name_de": "Renn-Rossharnisch",
+        "Name_en": "Race Barding",
+        "Name_fr": "Barde de course",
+        "Name_ja": "\u30ec\u30fc\u30b7\u30f3\u30b0\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uacbd\uc8fc\uc6a9 \uac11\uc8fc"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u90aa\u9f99\u88c5\u7532",
+        "Name_de": "Nidhogg-Rossharnisch",
+        "Name_en": "Horde Barding",
+        "Name_fr": "Barde de Nidhogg",
+        "Name_ja": "\u30cb\u30fc\u30ba\u30d8\u30c3\u30b0\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub2c8\ub4dc\ud638\uadf8 \uac11\uc8fc"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u7ba1\u5bb6\u88c5\u7532",
+        "Name_de": "Butler-Rossharnisch",
+        "Name_en": "Butlery Barding",
+        "Name_fr": "Barde de majordome",
+        "Name_ja": "\u30d0\u30c8\u30e9\u30fc\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc9d1\uc0ac \uac11\uc8fc"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u7d22\u83f2\u5a05\u88c5\u7532",
+        "Name_de": "Sophia-Rossharnisch",
+        "Name_en": "Sophic Barding",
+        "Name_fr": "Barde de Sophia",
+        "Name_ja": "\u30bd\u30d5\u30a3\u30a2\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc18c\ud53c\uc544 \uac11\uc8fc"
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u5973\u4ec6\u88c5\u7532",
+        "Name_de": "Zimmerm\u00e4dchen-Rossharnisch",
+        "Name_en": "Abigail Barding",
+        "Name_fr": "Barde de servante",
+        "Name_ja": "\u30e1\u30a4\u30c9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uba54\uc774\ub4dc \uac11\uc8fc"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u66fc\u5fb7\u7ef4\u5c14\u5973\u4ec6\u88c5\u7532",
+        "Name_de": "Manderville-Rossharnisch",
+        "Name_en": "Mandervillian Barding",
+        "Name_fr": "Barde de servante des Manderville",
+        "Name_ja": "\u30de\u30f3\u30c0\u30f4\u30a3\u30eb\u30e1\u30a4\u30c9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub9e8\ub354\ube4c \uba54\uc774\ub4dc \uac11\uc8fc"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u5bc6\u6797\u9646\u884c\u9e1f\u978d",
+        "Name_de": "Gridanisches Sattelzeug",
+        "Name_en": "Gridanian Saddle",
+        "Name_fr": "Harnachement des Deux Vip\u00e8res",
+        "Name_ja": "\u30b0\u30ea\u30c0\u30cb\u30a2\u30f3\u30fb\u30b5\u30c9\u30eb",
+        "Name_ko": "\uadf8\ub9ac\ub2e4\ub2c8\uc544 \uc548\uc7a5"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u5929\u4f7f\u88c5\u7532",
+        "Name_de": "Himmlischer Rossharnisch",
+        "Name_en": "Angelic Barding",
+        "Name_fr": "Barde ang\u00e9lique",
+        "Name_ja": "\u30a8\u30f3\u30b8\u30a7\u30eb\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ucc9c\uc0ac \uac11\uc8fc"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u6076\u9b54\u88c5\u7532",
+        "Name_de": "D\u00e4monischer Rossharnisch",
+        "Name_en": "Demonic Barding",
+        "Name_fr": "Barde d\u00e9moniaque",
+        "Name_ja": "\u30c7\u30e2\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc545\ub9c8 \uac11\uc8fc"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "\u7956\u5c14\u5b9b\u88c5\u7532",
+        "Name_de": "Zurvan-Rossharnisch",
+        "Name_en": "Zurvanite Barding",
+        "Name_fr": "Barde de Zurvan",
+        "Name_ja": "\u30ba\u30eb\u30ef\u30fc\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc8fc\ub974\ubc18 \uac11\uc8fc"
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u8c6a\u795e\u88c5\u7532",
+        "Name_de": "Susano-Rossharnisch",
+        "Name_en": "Reveler's Barding",
+        "Name_fr": "Barde de Susano",
+        "Name_ja": "\u30b9\u30b5\u30ce\u30aa\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc2a4\uc0ac\ub178\uc624 \uac11\uc8fc"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "\u963f\u62c9\u7c73\u683c\u88c5\u7532",
+        "Name_de": "Mhigischer Rossharnisch",
+        "Name_en": "Ala Mhigan Barding",
+        "Name_fr": "Barde mhigoise",
+        "Name_ja": "\u30a2\u30e9\u30df\u30ac\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc54c\ub77c\ubbf8\uace0 \uac11\uc8fc"
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u7f8e\u795e\u88c5\u7532",
+        "Name_de": "Lakshmi-Rossharnisch",
+        "Name_en": "Blissful Barding",
+        "Name_fr": "Barde de Lakshmi",
+        "Name_ja": "\u30e9\u30af\u30b7\u30e5\u30df\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub77d\uc288\ubbf8 \uac11\uc8fc"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u8fdc\u4e1c\u88c5\u7532",
+        "Name_de": "Hingashi-Harnisch \u201eChocobo\u201c",
+        "Name_en": "Hingan Barding",
+        "Name_fr": "Barde chocobo hingashienne",
+        "Name_ja": "\u30a4\u30fc\u30b9\u30bf\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub3d9\uad6d \uac11\uc8fc"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u4e1c\u6d0b\u88c5\u7532",
+        "Name_de": "Hingashi-Harnisch \u201eMogry\u201c",
+        "Name_en": "Oriental Barding",
+        "Name_fr": "Barde mog hingashienne",
+        "Name_ja": "\u30aa\u30ea\u30a8\u30f3\u30bf\u30eb\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub3d9\uc591 \uac11\uc8fc"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u54ea\u5412\u88c5\u7532",
+        "Name_de": "Nezha-Rossharnisch",
+        "Name_en": "Nezha Barding",
+        "Name_fr": "Barde de Nezha",
+        "Name_ja": "\u30ca\u30bf\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub098\ud0c0 \uac11\uc8fc"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u795e\u9f99\u88c5\u7532",
+        "Name_de": "Shinryu-Rossharnisch",
+        "Name_en": "Shinryu Barding",
+        "Name_fr": "Barde de Shinryu",
+        "Name_ja": "\u30b7\u30f3\u30ea\u30e5\u30a6\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc2e0\ub8e1 \uac11\uc8fc"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u5bc6\u6797\u9646\u884c\u9e1f\u534a\u88c5\u7532",
+        "Name_de": "Leichter gridanischer Rossharnisch",
+        "Name_en": "Gridanian Half Barding",
+        "Name_fr": "Demi-barde des Deux Vip\u00e8res",
+        "Name_ja": "\u30b0\u30ea\u30c0\u30cb\u30a2\u30f3\u30fb\u30cf\u30fc\u30d5\u30d0\u30fc\u30c9",
+        "Name_ko": "\uadf8\ub9ac\ub2e4\ub2c8\uc544 \uacbd\uac11\uc8fc"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "\u4f0a\u514b\u897f\u7fc1\u88c5\u7532",
+        "Name_de": "Ixion-Rossharnisch",
+        "Name_en": "Ixion Barding",
+        "Name_fr": "Barde d'Ixion",
+        "Name_ja": "\u30a4\u30af\u30b7\u30aa\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc775\uc2dc\uc628 \uac11\uc8fc"
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u8d64\u7ea2\u88c5\u7532",
+        "Name_de": "Rotmagier-Rossharnisch",
+        "Name_en": "Red Mage Barding",
+        "Name_fr": "Barde de mage rouge",
+        "Name_ja": "\u30ec\u30c3\u30c9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc801\ub9c8\ub3c4\uc0ac \uac11\uc8fc"
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u767d\u864e\u88c5\u7532",
+        "Name_de": "Byakko-Rossharnisch",
+        "Name_en": "Byakko Barding",
+        "Name_fr": "Barde de Byakko",
+        "Name_ja": "\u30d3\u30e3\u30c3\u30b3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ubc31\ud638 \uac11\uc8fc"
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "\u9632\u96e8\u88c5\u7532",
+        "Name_de": "Chocobo-Regenmantel",
+        "Name_en": "Chocobo Raincoat",
+        "Name_fr": "Barde imperm\u00e9able",
+        "Name_ja": "\u30ec\u30a4\u30f3\u30b3\u30fc\u30c8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uc6b0\ube44"
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "\u6708\u8bfb\u88c5\u7532",
+        "Name_de": "Tsukuyomi-Rossharnisch",
+        "Name_en": "Lunar Barding",
+        "Name_fr": "Barde de Tsukuyomi",
+        "Name_ja": "\u30c4\u30af\u30e8\u30df\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uce20\ucfe0\uc694\ubbf8 \uac11\uc8fc"
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "\u6731\u96c0\u88c5\u7532",
+        "Name_de": "Suzaku-Rossharnisch",
+        "Name_en": "Suzaku Barding",
+        "Name_fr": "Barde de Suzaku",
+        "Name_ja": "\u30b9\u30b6\u30af\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc8fc\uc791 \uac11\uc8fc"
+    },
+    "66": {
+        "0xID": "42",
+        "Name_cn": "\u6b66\u58eb\u88c5\u7532",
+        "Name_de": "Samurai-Rossharnisch",
+        "Name_en": "Samurai Barding",
+        "Name_fr": "Barde de samoura\u00ef",
+        "Name_ja": "\u30b5\u30e0\u30e9\u30a4\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc0ac\ubb34\ub77c\uc774 \uac11\uc8fc"
+    },
+    "67": {
+        "0xID": "43",
+        "Name_cn": "\u9752\u9f99\u88c5\u7532",
+        "Name_de": "Seiryu-Rossharnisch",
+        "Name_en": "Seiryu Barding",
+        "Name_fr": "Barde de Seiry\u00fb",
+        "Name_ja": "\u30bb\u30a4\u30ea\u30e5\u30a6\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uccad\ub8e1 \uac11\uc8fc"
+    },
+    "68": {
+        "0xID": "44",
+        "Name_cn": "\u4fdd\u9556\u88c5\u7532",
+        "Name_de": "Yojinbo-Rossharnisch",
+        "Name_en": "Yojimbo Barding",
+        "Name_fr": "Barde de Yojimbo",
+        "Name_ja": "\u30e8\u30a6\u30b8\u30f3\u30dc\u30a6\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc694\uc6b0\uc9c4\ubcf4 \uac11\uc8fc"
+    },
+    "69": {
+        "0xID": "45",
+        "Name_cn": "\u7f07\u5766\u59ae\u96c5\u88c5\u7532",
+        "Name_de": "Titania-Rossharnisch",
+        "Name_en": "Titania Barding",
+        "Name_fr": "Barde de Titania",
+        "Name_ja": "\u30c6\u30a3\u30bf\u30fc\u30cb\u30a2\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ud2f0\ud0c0\ub2c8\uc544 \uac11\uc8fc"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5bc6\u6797\u9646\u884c\u9e1f\u88c5\u7532",
+        "Name_de": "Gridanischer Rossharnisch",
+        "Name_en": "Gridanian Barding",
+        "Name_fr": "Barde des Deux Vip\u00e8res",
+        "Name_ja": "\u30b0\u30ea\u30c0\u30cb\u30a2\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uadf8\ub9ac\ub2e4\ub2c8\uc544 \uac11\uc8fc"
+    },
+    "70": {
+        "0xID": "46",
+        "Name_cn": "\u65e0\u7455\u7075\u541b\u88c5\u7532",
+        "Name_de": "Innozenz-Rossharnisch",
+        "Name_en": "Innocence Barding",
+        "Name_fr": "Barde d'Innocence",
+        "Name_ja": "\u30a4\u30ce\u30bb\u30f3\u30b9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc774\ub178\uc13c\uc2a4 \uac11\uc8fc"
+    },
+    "71": {
+        "0xID": "47",
+        "Name_cn": "\u821e\u8005\u88c5\u7532",
+        "Name_de": "T\u00e4nzer-Rossharnisch",
+        "Name_en": "Dancer Barding",
+        "Name_fr": "Barde de danseur",
+        "Name_ja": "\u30c0\u30f3\u30b5\u30fc\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ubb34\ub3c4\uac00 \uac11\uc8fc"
+    },
+    "72": {
+        "0xID": "48",
+        "Name_cn": "\u5f71\u6e0a\u88c5\u7532",
+        "Name_de": "Dunkelschatten-Rossharnisch",
+        "Name_en": "Deepshadow Barding",
+        "Name_fr": "Barde de la Pleine-ombre",
+        "Name_ja": "\u30c7\u30a3\u30fc\u30d7\u30b7\u30e3\u30c9\u30a6\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc554\uc601 \uac11\uc8fc"
+    },
+    "73": {
+        "0xID": "49",
+        "Name_cn": "\u54c8\u8fea\u65af\u88c5\u7532",
+        "Name_de": "Hades-Rossharnisch",
+        "Name_en": "Hades Barding",
+        "Name_fr": "Barde d'Had\u00e8s",
+        "Name_ja": "\u30cf\u30fc\u30c7\u30b9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ud558\ub370\uc2a4 \uac11\uc8fc"
+    },
+    "74": {
+        "0xID": "4A",
+        "Name_cn": "\u5723\u4eba\u88c5\u7532",
+        "Name_de": "Santabo-Rossharnisch",
+        "Name_en": "Saintly Barding",
+        "Name_fr": "Barde sainte",
+        "Name_ja": "\u30bb\u30a4\u30f3\u30c8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc131\uc778\uc758 \uc218\ud589\uc6d0 \uac11\uc8fc"
+    },
+    "75": {
+        "0xID": "4B",
+        "Name_cn": "\u7ea2\u5b9d\u77f3\u795e\u5175\u88c5\u7532",
+        "Name_de": "Rubin-Rossharnisch",
+        "Name_en": "Ruby Barding",
+        "Name_fr": "Barde Rubinus",
+        "Name_ja": "\u30eb\u30d3\u30fc\u30a6\u30a7\u30dd\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub8e8\ube44 \uc6e8\ud3f0 \uac11\uc8fc"
+    },
+    "76": {
+        "0xID": "4C",
+        "Name_cn": "\u673a\u5de5\u58eb\u88c5\u7532",
+        "Name_de": "Maschinisten-Rossharnisch",
+        "Name_en": "Machinist Barding",
+        "Name_fr": "Barde de machiniste",
+        "Name_ja": "\u30de\u30b7\u30cb\u30b9\u30c8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uae30\uacf5\uc0ac \uac11\uc8fc"
+    },
+    "77": {
+        "0xID": "4D",
+        "Name_cn": "\u771f\u00b7\u5149\u4e4b\u6218\u58eb\u88c5\u7532",
+        "Name_de": "Rossharnisch des Lichts",
+        "Name_en": "True Barding of Light",
+        "Name_fr": "Barde de la Lumi\u00e8re v\u00e9ritable",
+        "Name_ja": "\u30c8\u30a5\u30eb\u30fc\u30d0\u30fc\u30c9\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Name_ko": "\uc9c4\uc815\ud55c \ube5b\uc758 \uac11\uc8fc"
+    },
+    "78": {
+        "0xID": "4E",
+        "Name_cn": "\u7eff\u5b9d\u77f3\u795e\u5175\u88c5\u7532",
+        "Name_de": "Smaragd-Rossharnisch",
+        "Name_en": "Emerald Barding",
+        "Name_fr": "Barde Smaragdus",
+        "Name_ja": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc5d0\uba54\ub784\ub4dc \uc6e8\ud3f0 \uac11\uc8fc"
+    },
+    "79": {
+        "0xID": "4F",
+        "Name_cn": "\u5929\u4f51\u88c5\u7532",
+        "Name_de": "K\u00f6niginnenwache-Rossharnisch",
+        "Name_en": "Queen's Guard Barding",
+        "Name_fr": "Barde-la-Reine",
+        "Name_ja": "\u30bb\u30a4\u30d6\u30fb\u30b6\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc138\uc774\ube0c \ub354 \ud038 \uac11\uc8fc"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u5bc6\u6797\u9646\u884c\u9e1f\u6b66\u88c5\u7532",
+        "Name_de": "Schwerer gridanischer Rossharnisch",
+        "Name_en": "Gridanian Crested Barding",
+        "Name_fr": "Barde lourde des Deux Vip\u00e8res",
+        "Name_ja": "\u30b0\u30ea\u30c0\u30cb\u30a2\u30f3\u30fb\u30af\u30ec\u30b9\u30c6\u30c3\u30c9\u30d0\u30fc\u30c9",
+        "Name_ko": "\uadf8\ub9ac\ub2e4\ub2c8\uc544 \ubb38\uc7a5\uac11\uc8fc"
+    },
+    "80": {
+        "0xID": "50",
+        "Name_cn": "\u535a\u5179\u96c5\u88c5\u7532",
+        "Name_de": "Bozja-Rossharnisch",
+        "Name_en": "Bozjan Barding",
+        "Name_fr": "Barde bozjienne",
+        "Name_ja": "\u30dc\u30ba\u30e4\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ubcf4\uc988\uc57c \uac11\uc8fc"
+    },
+    "81": {
+        "0xID": "51",
+        "Name_cn": "\u94bb\u77f3\u795e\u5175\u88c5\u7532",
+        "Name_de": "Diamant-Rossharnisch",
+        "Name_en": "Diamond Barding",
+        "Name_fr": "Barde Adamas",
+        "Name_ja": "\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub2e4\uc774\uc544\ubaac\ub4dc \uc6e8\ud3f0 \uac11\uc8fc"
+    },
+    "82": {
+        "0xID": "52",
+        "Name_cn": "\u6c38\u6697\u88c5\u7532",
+        "Name_de": "Rossharnisch der ewigen Dunkelheit",
+        "Name_en": "Barding of Eternal Darkness",
+        "Name_fr": "Barde des T\u00e9n\u00e8bres \u00e9ternelles",
+        "Name_ja": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30c0\u30fc\u30af\u30cd\u30b9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc601\uc6d0\ud55c \uc5b4\ub460 \uac11\uc8fc"
+    },
+    "83": {
+        "0xID": "53",
+        "Name_cn": "\u5723\u5149\u88c5\u7532",
+        "Name_de": "Rossharnisch des g\u00f6ttlichen Lichts",
+        "Name_en": "Barding of Divine Light",
+        "Name_fr": "Barde de la Lumi\u00e8re divine",
+        "Name_ja": "\u30c7\u30a3\u30f4\u30a1\u30a4\u30f3\u30e9\u30a4\u30c8\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc2e0\uc131\ud55c \ube5b \uac11\uc8fc"
+    },
+    "84": {
+        "0xID": "54",
+        "Name_cn": "\u90ae\u5dee\u88c5\u7532",
+        "Name_de": "Postdirektor-Rossharnisch",
+        "Name_en": "Postmoogle Barding",
+        "Name_fr": "Barde de postier",
+        "Name_ja": "\u30dd\u30b9\u30c8\u30de\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ubc30\ub2ec\ubd80 \uac11\uc8fc"
+    },
+    "85": {
+        "0xID": "55",
+        "Name_cn": "\u8428\u7ef4\u5948\u88c5\u7532",
+        "Name_de": "Thavnair-Rossharnisch",
+        "Name_en": "Thavnairian Barding",
+        "Name_fr": "Barde thavnairoise",
+        "Name_ja": "\u30b5\u30d9\u30cd\u30a2\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc0ac\ubca0\ub124\uc5b4 \uac11\uc8fc"
+    },
+    "86": {
+        "0xID": "56",
+        "Name_cn": "\u84dd\u7fbd\u9646\u884c\u9e1f\u88c5\u7532",
+        "Name_de": "Blaufeder-Rossharnisch",
+        "Name_en": "Bluefeather Barding",
+        "Name_fr": "Barde \u00e0 plumes bleues",
+        "Name_ja": "\u30d6\u30eb\u30fc\u30d5\u30a7\u30b6\u30fc\u30c9\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ud30c\ub780\uae43 \uac11\uc8fc"
+    },
+    "87": {
+        "0xID": "57",
+        "Name_cn": "\u997f\u72fc\u9646\u884c\u9e1f\u88c5\u7532",
+        "Name_de": "Wolf-Rossharnisch",
+        "Name_en": "Wolf Barding",
+        "Name_fr": "Barde de loup",
+        "Name_ja": "\u30a6\u30eb\u30d5\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ub291\ub300 \uac11\uc8fc"
+    },
+    "88": {
+        "0xID": "58",
+        "Name_cn": "\u715e\u98ce\u88c5\u7532",
+        "Name_de": "Barbarizia-Rossharnisch",
+        "Name_en": "Windswept Barding",
+        "Name_fr": "Barde de Barbariccia",
+        "Name_ja": "\u30d0\u30eb\u30d0\u30ea\u30b7\u30a2\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\ubc14\ub974\ubc14\ub9ac\ucc28 \uac11\uc8fc"
+    },
+    "89": {
+        "0xID": "59",
+        "Name_cn": "\u6d77\u5c9b\u5f00\u62d3\u8005\u88c5\u7532",
+        "Name_de": "Inselpionier-Rossharnisch",
+        "Name_en": "Isle Pioneer's Barding",
+        "Name_fr": "Barde de pionnier insulaire",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d1\u30a4\u30aa\u30cb\u30a2\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": "\uc12c \uac1c\ucc99\uc790 \uac11\uc8fc"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u9ec4\u6c99\u9646\u884c\u9e1f\u978d",
+        "Name_de": "Ul'dhisches Sattelzeug",
+        "Name_en": "Ul'dahn Saddle",
+        "Name_fr": "Harnachement des Immortels",
+        "Name_ja": "\u30a6\u30eb\u30c0\u30cf\u30f3\u30fb\u30b5\u30c9\u30eb",
+        "Name_ko": "\uc6b8\ub2e4\ud558 \uc548\uc7a5"
+    },
+    "90": {
+        "0xID": "5A",
+        "Name_cn": "\u7080\u706b\u88c5\u7532",
+        "Name_de": "Rubicante-Rossharnisch",
+        "Name_en": "Flamecloaked Barding",
+        "Name_fr": "Barde de Rubicante",
+        "Name_ja": "\u30eb\u30d3\u30ab\u30f3\u30c6\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": ""
+    },
+    "91": {
+        "0xID": "5B",
+        "Name_cn": "",
+        "Name_de": "Allagischer Rossharnisch",
+        "Name_en": "Allagan Barding",
+        "Name_fr": "Barde allagoise",
+        "Name_ja": "\u30a2\u30e9\u30ac\u30f3\u30fb\u30d0\u30fc\u30c9",
+        "Name_ko": ""
+    },
+    "92": {
+        "0xID": "5C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "93": {
+        "0xID": "5D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "94": {
+        "0xID": "5E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "95": {
+        "0xID": "5F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/062000/062501.png",
+        "Name_cn": "\u4f63\u5175\u4f5c\u4e1a",
+        "Name_de": "S\u00f6ldner",
+        "Name_en": "Battlecraft",
+        "Name_fr": "Mercenariat",
+        "Name_ja": "\u50ad\u5175\u7a3c\u696d",
+        "Name_ko": "\uc6a9\ubcd1\uc5c5"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/062000/062507.png",
+        "Name_cn": "\u88c1\u8863\u5320",
+        "Name_de": "Weber",
+        "Name_en": "Weaver",
+        "Name_fr": "Couturier",
+        "Name_ja": "\u88c1\u7e2b\u5e2b",
+        "Name_ko": "\uc7ac\ubd09\uc0ac"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/062000/062508.png",
+        "Name_cn": "\u70bc\u91d1\u672f\u58eb",
+        "Name_de": "Alchemist",
+        "Name_en": "Alchemist",
+        "Name_fr": "Alchimiste",
+        "Name_ja": "\u932c\u91d1\u8853\u5e2b",
+        "Name_ko": "\uc5f0\uae08\uc220\uc0ac"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/062000/062509.png",
+        "Name_cn": "\u70f9\u8c03\u5e08",
+        "Name_de": "Gourmet",
+        "Name_en": "Culinarian",
+        "Name_fr": "Cuisinier",
+        "Name_ja": "\u8abf\u7406\u5e2b",
+        "Name_ko": "\uc694\ub9ac\uc0ac"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/061000/061451.png",
+        "Name_cn": "\u7834\u5203\u4e4b\u5251\u4e2d\u961f",
+        "Name_de": "Bruderschaft der gebrochenen Klinge",
+        "Name_en": "Brotherhood of the Broken Blade",
+        "Name_fr": "La Phratrie des lames cass\u00e9es",
+        "Name_ja": "\u30d6\u30ed\u30fc\u30af\u30f3\u30d6\u30ec\u30fc\u30c9\u968a",
+        "Name_ko": "\ubd80\uc11c\uc9c4 \uce7c\ub0a0 \ubd80\ub300"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/061000/061452.png",
+        "Name_cn": "\u963f\u6cfd\u739b\u4e4b\u76fe\u4e2d\u961f",
+        "Name_de": "Azeymas Schilde",
+        "Name_en": "Azeyma's Shields",
+        "Name_fr": "Les Boucliers d'Azeyma",
+        "Name_ja": "\u30a2\u30fc\u30bc\u30de\u30b7\u30fc\u30eb\u30ba\u968a",
+        "Name_ko": "\uc544\uc81c\ub9c8\uc758 \ubc29\ud328 \ubd80\ub300"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/061000/061453.png",
+        "Name_cn": "\u72ec\u89d2\u4e4b\u624b\u5c0f\u961f",
+        "Name_de": "Ruhmreicher H\u00f6rnerschall",
+        "Name_en": "The Horn and Hand",
+        "Name_fr": "L'association de la Corne et la Main",
+        "Name_ja": "\u30cf\u30f3\u30ba\u30a2\u30a4\u968a",
+        "Name_ko": "\ubfd4\uacfc \uc190 \ubd80\ub300"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/061000/061461.png",
+        "Name_cn": "\u9ed1\u6da1\u56e2",
+        "Name_de": "Der Mahlstrom",
+        "Name_en": "The Maelstrom",
+        "Name_fr": "Le Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3",
+        "Name_ko": "\ud751\uc640\ub2e8"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/061000/061462.png",
+        "Name_cn": "\u53cc\u86c7\u515a",
+        "Name_de": "Bruderschaft der Morgenviper",
+        "Name_en": "Order of the Twin Adder",
+        "Name_fr": "L'ordre des Deux Vip\u00e8res",
+        "Name_ja": "\u53cc\u86c7\u515a",
+        "Name_ko": "\uc30d\uc0ac\ub2f9"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/061000/061463.png",
+        "Name_cn": "\u6052\u8f89\u961f",
+        "Name_de": "Legion der Unsterblichen",
+        "Name_en": "Immortal Flames",
+        "Name_fr": "Les Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a",
+        "Name_ko": "\ubd88\uba78\ub300"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/062000/062510.png",
+        "Name_cn": "\u91c7\u77ff\u5de5",
+        "Name_de": "Minenarbeiter",
+        "Name_en": "Miner",
+        "Name_fr": "Mineur",
+        "Name_ja": "\u63a1\u6398\u5e2b",
+        "Name_ko": "\uad11\ubd80"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/062000/062511.png",
+        "Name_cn": "\u56ed\u827a\u5de5",
+        "Name_de": "G\u00e4rtner",
+        "Name_en": "Botanist",
+        "Name_fr": "Botaniste",
+        "Name_ja": "\u5712\u82b8\u5e2b",
+        "Name_ko": "\uc6d0\uc608\uac00"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/062000/062512.png",
+        "Name_cn": "\u6355\u9c7c\u4eba",
+        "Name_de": "Fischer",
+        "Name_en": "Fisher",
+        "Name_fr": "P\u00eacheur",
+        "Name_ja": "\u6f01\u5e2b",
+        "Name_ko": "\uc5b4\ubd80"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/062000/062502.png",
+        "Name_cn": "\u523b\u6728\u5320",
+        "Name_de": "Zimmerer",
+        "Name_en": "Carpenter",
+        "Name_fr": "Menuisier",
+        "Name_ja": "\u6728\u5de5\u5e2b",
+        "Name_ko": "\ubaa9\uc218"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/062000/062503.png",
+        "Name_cn": "\u953b\u94c1\u5320",
+        "Name_de": "Grobschmied",
+        "Name_en": "Blacksmith",
+        "Name_fr": "Forgeron",
+        "Name_ja": "\u935b\u51b6\u5e2b",
+        "Name_ko": "\ub300\uc7a5\uc7a5\uc774"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/062000/062504.png",
+        "Name_cn": "\u94f8\u7532\u5320",
+        "Name_de": "Plattner",
+        "Name_en": "Armorer",
+        "Name_fr": "Armurier",
+        "Name_ja": "\u7532\u5191\u5e2b",
+        "Name_ko": "\uac11\uc8fc\uc81c\uc791\uc0ac"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/062000/062505.png",
+        "Name_cn": "\u96d5\u91d1\u5320",
+        "Name_de": "Goldschmied",
+        "Name_en": "Goldsmith",
+        "Name_fr": "Orf\u00e8vre",
+        "Name_ja": "\u5f6b\u91d1\u5e2b",
+        "Name_ko": "\ubcf4\uc11d\uacf5\uc608\uac00"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/062000/062506.png",
+        "Name_cn": "\u5236\u9769\u5320",
+        "Name_de": "Gerber",
+        "Name_en": "Leatherworker",
+        "Name_fr": "Tanneur",
+        "Name_ja": "\u9769\u7d30\u5de5\u5e2b",
+        "Name_ko": "\uac00\uc8fd\uacf5\uc608\uac00"
+    }
+}

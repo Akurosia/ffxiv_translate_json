@@ -1,0 +1,47 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u52a8\u7269",
+        "Name_de": "Tier",
+        "Name_en": "Critter",
+        "Name_fr": "Cr\u00e9ature",
+        "Name_ja": "\u30a2\u30cb\u30de\u30eb",
+        "Name_ko": "\ub3d9\ubb3c"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u9b54\u7269",
+        "Name_de": "Monster",
+        "Name_en": "Monster",
+        "Name_fr": "Monstre",
+        "Name_ja": "\u30e2\u30f3\u30b9\u30bf\u30fc",
+        "Name_ko": "\ub9c8\ubb3c"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u73a9\u5076",
+        "Name_de": "Puppe",
+        "Name_en": "Poppet",
+        "Name_fr": "Poup\u00e9e",
+        "Name_ja": "\u30c9\u30fc\u30eb",
+        "Name_ko": "\uc778\ud615"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u673a\u4ef6",
+        "Name_de": "Apparat",
+        "Name_en": "Gadget",
+        "Name_fr": "M\u00e9canisme",
+        "Name_ja": "\u30ac\u30b8\u30a7\u30c3\u30c8",
+        "Name_ko": "\uae30\uacc4"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/016000/016801.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u5931\u660e",
+        "Name_de": "Ebeneneffekt: Blind",
+        "Name_en": "Floor Effect: Blindness",
+        "Name_fr": "Aura : C\u00e9cit\u00e9",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u6697\u95c7",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \uc2e4\uba85"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/016000/016810.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u7981\u6b62\u4f53\u529b\u81ea\u7136\u6062\u590d",
+        "Name_de": "Ebeneneffekt: LP-Regeneration unwirksam",
+        "Name_en": "Floor Effect: Auto-heal Penalty",
+        "Name_fr": "Aura : Auto-r\u00e9cup\u00e9ration des PV d\u00e9sactiv\u00e9e",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\uff28\uff30\u81ea\u7136\u56de\u5fa9\u7981\u6b62",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: HP \uc790\uc5f0 \ud68c\ubcf5 \uae08\uc9c0"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/016000/016811.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u5996\u96fe\u5f25\u6f2b",
+        "Name_de": "Ebeneneffekt: Nichtsnebel",
+        "Name_en": "Floor Effect: Gloom",
+        "Name_fr": "Aura : Brume du n\u00e9ant",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u5996\u9727",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \uc694\ub9c8\uc758 \uc548\uac1c"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/016000/016812.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u51b2\u523a",
+        "Name_de": "Ebeneneffekt: Sprint",
+        "Name_en": "Floor Effect: Sprint",
+        "Name_fr": "Aura : Sprint",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30b9\u30d7\u30ea\u30f3\u30c8",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \uc804\ub825 \uc9c8\uc8fc"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/016000/016813.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u7981\u6b62\u4f7f\u7528\u9b54\u77f3",
+        "Name_de": "Ebeneneffekt: Zaubersteine verboten",
+        "Name_en": "Floor Effect: Magicite Penalty",
+        "Name_fr": "Aura : Magilithes inutilisables",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u9b54\u77f3\u7981\u6b62",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \ub9c8\uc11d \uae08\uc9c0"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/016000/016814.png",
+        "Name_cn": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u7981\u6b62",
+        "Name_de": "Ebeneneffekt: Demiklone blockiert",
+        "Name_en": "Floor Effect: Demiclone Penalty",
+        "Name_fr": "Aura : Semi-clones inutilisables",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u7981\u6b62",
+        "Name_ko": ""
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/016000/016802.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u6700\u5927\u4f53\u529b\u51cf\u5c11",
+        "Name_de": "Ebeneneffekt: LP-Malus",
+        "Name_en": "Floor Effect: HP Penalty",
+        "Name_fr": "Aura : PV maximums r\u00e9duits",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u6700\u5927\uff28\uff30\u4f4e\u4e0b",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \ucd5c\ub300 HP \uac10\uc18c"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/016000/016803.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u4f24\u5bb3\u964d\u4f4e",
+        "Name_de": "Ebeneneffekt: Schadensmalus",
+        "Name_en": "Floor Effect: Damage Penalty",
+        "Name_fr": "Aura : D\u00e9g\u00e2ts inflig\u00e9s r\u00e9duits",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30c0\u30e1\u30fc\u30b8\u4f4e\u4e0b",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \uc8fc\ub294 \ud53c\ud574\ub7c9 \uac10\uc18c"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/016000/016804.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u80fd\u529b\u5c01\u5370",
+        "Name_de": "Ebeneneffekt: Fertigkeiten unwirksam",
+        "Name_en": "Floor Effect: Inability",
+        "Name_fr": "Aura : Aptitudes inutilisables",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30a2\u30d3\u30ea\u30c6\u30a3\u4f7f\u7528\u4e0d\u53ef",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \ub2a5\ub825 \uc0ac\uc6a9\ubd88\uac00"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/016000/016805.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u52a0\u901f",
+        "Name_de": "Ebeneneffekt: Hast",
+        "Name_en": "Floor Effect: Haste",
+        "Name_fr": "Aura : H\u00e2te",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30d8\u30a4\u30b9\u30c8",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \ud5e4\uc774\uc2a4\ud2b8"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/016000/016806.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u6700\u5927\u4f53\u529b\u9b54\u529b\u63d0\u5347",
+        "Name_de": "Ebeneneffekt: LP-/MP-Bonus",
+        "Name_en": "Floor Effect: HP/MP Boost",
+        "Name_fr": "Aura : PV et PM maximums augment\u00e9s",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u6700\u5927\uff28\uff30\uff0f\uff2d\uff30\u4e0a\u6607",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \ucd5c\ub300 HP/MP \uc99d\uac00"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/016000/016807.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u7981\u6b62\u4f7f\u7528\u9053\u5177",
+        "Name_de": "Ebeneneffekt: Gegenst\u00e4nde verboten",
+        "Name_en": "Floor Effect: Item Penalty",
+        "Name_fr": "Aura : Objets d\u00e9sactiv\u00e9s",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30a2\u30a4\u30c6\u30e0\u7981\u6b62",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \uc544\uc774\ud15c \uc0ac\uc6a9 \uae08\uc9c0"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/016000/016808.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u7981\u6b62\u51b2\u523a",
+        "Name_de": "Ebeneneffekt: Sprint unm\u00f6glich",
+        "Name_en": "Floor Effect: Sprint Penalty",
+        "Name_fr": "Aura : Sprint d\u00e9sactiv\u00e9",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30b9\u30d7\u30ea\u30f3\u30c8\u7981\u6b62",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \uc804\ub825 \uc9c8\uc8fc \uae08\uc9c0"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/016000/016809.png",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u7981\u6b62\u51fb\u9000",
+        "Name_de": "Ebeneneffekt: R\u00fccksto\u00df unwirksam",
+        "Name_en": "Floor Effect: Knockback Penalty",
+        "Name_fr": "Aura : Projections d\u00e9sactiv\u00e9es",
+        "Name_ja": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30ce\u30c3\u30af\u30d0\u30c3\u30af\u7981\u6b62",
+        "Name_ko": "\ub9c8\ubc95 \ud6a8\uacfc: \ubc00\uccd0\ub0b4\uae30 \uae08\uc9c0"
+    }
+}

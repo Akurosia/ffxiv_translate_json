@@ -1,0 +1,173 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u81ea\u52a8\u653b\u51fb",
+        "Name_de": "Auto-Attacke",
+        "Name_en": "Auto-attack",
+        "Name_fr": "Attaque automatique",
+        "Name_ja": "\u30aa\u30fc\u30c8\u30a2\u30bf\u30c3\u30af",
+        "Name_ko": "\uc790\ub3d9 \uacf5\uaca9"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u7cfb\u7edf",
+        "Name_de": "System",
+        "Name_en": "System",
+        "Name_fr": "Syst\u00e8me",
+        "Name_ja": "\u30b7\u30b9\u30c6\u30e0",
+        "Name_ko": "\uc2dc\uc2a4\ud15c"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u7cfb\u7edf",
+        "Name_de": "System",
+        "Name_en": "System",
+        "Name_fr": "Syst\u00e8me",
+        "Name_ja": "\u30b7\u30b9\u30c6\u30e0",
+        "Name_ko": "\uc2dc\uc2a4\ud15c"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u5750\u9a91",
+        "Name_de": "Reittier",
+        "Name_en": "Mount",
+        "Name_fr": "Monture",
+        "Name_ja": "\u30de\u30a6\u30f3\u30c8",
+        "Name_ko": "\ud0c8\uac83"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u7279\u6b8a\u6280\u80fd",
+        "Name_de": "Extrakommando",
+        "Name_en": "Special",
+        "Name_fr": "Action sp\u00e9ciale",
+        "Name_ja": "EX\u30a2\u30af\u30b7\u30e7\u30f3",
+        "Name_ko": "\ud2b9\uc218 \uae30\uc220"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u9053\u5177\u64cd\u4f5c",
+        "Name_de": "Umgestaltung",
+        "Name_en": "Item Manipulation",
+        "Name_fr": "Manipulation d'objet",
+        "Name_ja": "\u30a2\u30a4\u30c6\u30e0\u64cd\u4f5c",
+        "Name_ko": "\uc544\uc774\ud15c \uc870\uc791"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u6781\u9650\u6280",
+        "Name_de": "Limitrausch",
+        "Name_en": "Limit Break",
+        "Name_fr": "Transcendance",
+        "Name_ja": "\u30ea\u30df\u30c3\u30c8\u30d6\u30ec\u30a4\u30af",
+        "Name_ko": "\ub9ac\ubbf8\ud2b8 \ube0c\ub808\uc774\ud06c"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u5f29\u70ae",
+        "Name_de": "Artillerie",
+        "Name_en": "Artillery",
+        "Name_fr": "Baliste",
+        "Name_ja": "\u30d0\u30ea\u30b9\u30bf",
+        "Name_ko": "\ud3ec\uaca9"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u9b54\u6cd5",
+        "Name_de": "Zauber",
+        "Name_en": "Spell",
+        "Name_fr": "Sort",
+        "Name_ja": "\u9b54\u6cd5",
+        "Name_ko": "\ub9c8\ubc95"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u6218\u6280",
+        "Name_de": "Waffenfertigkeit",
+        "Name_en": "Weaponskill",
+        "Name_fr": "Technique d'arme",
+        "Name_ja": "\u30a6\u30a7\u30dd\u30f3\u30b9\u30ad\u30eb",
+        "Name_ko": "\ubb34\uae30 \uae30\uc220"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u80fd\u529b",
+        "Name_de": "Talent",
+        "Name_en": "Ability",
+        "Name_fr": "Aptitude",
+        "Name_ja": "\u30a2\u30d3\u30ea\u30c6\u30a3",
+        "Name_ko": "\ub2a5\ub825"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u9053\u5177",
+        "Name_de": "Gegenstand",
+        "Name_en": "Item",
+        "Name_fr": "Objet",
+        "Name_ja": "\u30a2\u30a4\u30c6\u30e0",
+        "Name_ko": "\uc544\uc774\ud15c"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u91c7\u96c6\u80fd\u529b",
+        "Name_de": "Talent (Sammeln)",
+        "Name_en": "DoL Ability",
+        "Name_fr": "Aptitude de r\u00e9colte",
+        "Name_ja": "\u63a1\u96c6\u30a2\u30d3\u30ea\u30c6\u30a3",
+        "Name_ko": "\ucc44\uc9d1 \uae30\uc220"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5236\u4f5c\u80fd\u529b",
+        "Name_de": "Talent (Synthese)",
+        "Name_en": "DoH Ability",
+        "Name_fr": "Aptitude d'artisanat",
+        "Name_ja": "\u88fd\u4f5c\u30a2\u30d3\u30ea\u30c6\u30a3",
+        "Name_ko": "\uc81c\uc791 \uae30\uc220"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u4efb\u52a1",
+        "Name_de": "Ereignis",
+        "Name_en": "Event",
+        "Name_fr": "\u00c9v\u00e9nement",
+        "Name_ja": "\u30a4\u30d9\u30f3\u30c8",
+        "Name_ko": "\uc784\ubb34"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u6781\u9650\u6280",
+        "Name_de": "Limitrausch",
+        "Name_en": "Limit Break",
+        "Name_fr": "Transcendance",
+        "Name_ja": "\u30ea\u30df\u30c3\u30c8\u30d6\u30ec\u30a4\u30af",
+        "Name_ko": "\ub9ac\ubbf8\ud2b8 \ube0c\ub808\uc774\ud06c"
+    }
+}

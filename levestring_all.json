@@ -1,0 +1,326 @@
+{
+    "0": {
+        "0xID": "0",
+        "Objective_cn": "",
+        "Objective_de": "",
+        "Objective_en": "",
+        "Objective_fr": "",
+        "Objective_ja": "",
+        "Objective_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Objective_cn": "\u8ba8\u4f10\u654c\u4eba",
+        "Objective_de": "Besiege die Gegner",
+        "Objective_en": "Defeat target enemies.",
+        "Objective_fr": "Vaincre les cibles",
+        "Objective_ja": "\u5bfe\u8c61\u3092\u8a0e\u4f10",
+        "Objective_ko": "\ub300\uc0c1 \ucc98\uce58"
+    },
+    "10": {
+        "0xID": "A",
+        "Objective_cn": "\u5230\u6240\u6709\u76ee\u6807\u5730\u70b9\u8fdb\u884c\u91c7\u96c6\n\u968f\u7740\u8bc4\u4ef7\u63d0\u9ad8\u4f1a\u6709\u76f8\u5e94\u62a5\u916c\n320\u4ee5\u4e0a\u3000+25%\n303\u4ee5\u4e0a\u3000+10%\n286\u4ee5\u4e0a\u3000+05%",
+        "Objective_de": "Sammle die Gegenst\u00e4nde in allen Zielgebieten\n\nBonus f\u00fcr Bewertung von\n\nmin. 320: +25 %\n\nmin. 303: +10 %\n\nmin. 286: +5 %",
+        "Objective_en": "Gather items at all the specified locations.\n\nEvaluation Bonus:\n\n320\uff5e +25%\n\n303\uff5e +10%\n\n286\uff5e  +5%",
+        "Objective_fr": "R\u00e9colter aux endroits d\u00e9sign\u00e9s\n\nBonus de r\u00e9compense selon l'\u00e9valuation :\n\n286 ou plus : +   5%\n\n303 ou plus : + 10%\n\n320 ou plus : + 25%",
+        "Objective_ja": "\u3059\u3079\u3066\u306e\u76ee\u6a19\u5730\u70b9\u3092\u63a1\u96c6\u3057\u3064\u304f\u305b\n\n\u8a55\u4fa1\u5024\u306b\u3088\u308a\u5831\u916c\u30dc\u30fc\u30ca\u30b9\uff1a\n\n320\u4ee5\u4e0a\u3000+25%\n\n303\u4ee5\u4e0a\u3000+10%\n\n286\u4ee5\u4e0a\u3000+05%",
+        "Objective_ko": "\ubaa8\ub4e0 \ubaa9\ud45c \uc9c0\uc810\uc5d0\uc11c \ucc44\uc9d1\ud558\ub77c\n\ud3c9\uac00\uc5d0 \ub530\ub978 \ubcf4\uc0c1 \ubcf4\ub108\uc2a4:\n320\uc774\uc0c1  +25%\n303\uc774\uc0c1  +10%\n286\uc774\uc0c1  +05%"
+    },
+    "11": {
+        "0xID": "B",
+        "Objective_cn": "\u83b7\u5f97\u76ee\u6807\u7269\u54c1",
+        "Objective_de": "Besorge die Gegenst\u00e4nde",
+        "Objective_en": "Obtain target items.",
+        "Objective_fr": "Obtenir tous les objets d\u00e9sign\u00e9s",
+        "Objective_ja": "\u76ee\u6a19\u7269\u3092\u5165\u624b\u305b\u3088",
+        "Objective_ko": "\ubaa9\ud45c\ubb3c\uc744 \uc785\uc218\ud558\ub77c"
+    },
+    "12": {
+        "0xID": "C",
+        "Objective_cn": "\u5230\u6240\u6709\u76ee\u6807\u5730\u70b9\u8fdb\u884c\u91c7\u96c6\uff0c\u5e76\u83b7\u5f97\u76ee\u6807\u7269\u54c1",
+        "Objective_de": "Gehe in alle Zielgebiete und besorge die Gegenst\u00e4nde",
+        "Objective_en": "Travel to all the specified locations and obtain the target items.",
+        "Objective_fr": "Aller dans tous les lieux sp\u00e9cifi\u00e9s pour r\u00e9cup\u00e9rer les objets d\u00e9sign\u00e9s",
+        "Objective_ja": "\u3059\u3079\u3066\u306e\u76ee\u6a19\u5730\u70b9\u3092\u63a1\u96c6\u3057\u3064\u304f\u3057\u3001\u76ee\u6a19\u7269\u3092\u5165\u624b\u305b\u3088",
+        "Objective_ko": "\ubaa8\ub4e0 \ubaa9\ud45c \uc9c0\uc810\uc5d0\uc11c \ucc44\uc9d1\ud558\uace0 \ubaa9\ud45c\ubb3c\uc744 \uc785\uc218\ud558\ub77c"
+    },
+    "13": {
+        "0xID": "D",
+        "Objective_cn": "\u8bb0\u5f55\u6240\u6709\u76ee\u6807\u5730\u70b9\u7684\u91c7\u96c6\u7ed3\u679c\n\u968f\u7740\u8bc4\u4ef7\u63d0\u9ad8\u4f1a\u6709\u76f8\u5e94\u62a5\u916c\n160\u4ee5\u4e0a\u3000+25%\n152\u4ee5\u4e0a\u3000+10%\n143\u4ee5\u4e0a\u3000+05%",
+        "Objective_de": "Vermerke die Sammelarbeiten\n\nBonus f\u00fcr Bewertung von\n\nmin. 160: +25 %\n\nmin. 152: +10 %\n\nmin. 143: +5 %",
+        "Objective_en": "Survey target areas.\n\nEvaluation Bonus:\n\n160\uff5e +25%\n\n152\uff5e +10%\n\n143\uff5e  +5%",
+        "Objective_fr": "Inspecter les lieux d\u00e9sign\u00e9s\n\nBonus de r\u00e9compense selon l'\u00e9valuation :\n\n143 ou plus : +   5%\n\n152 ou plus : + 10%\n\n160 ou plus : + 25%",
+        "Objective_ja": "\u3059\u3079\u3066\u306e\u76ee\u6a19\u5730\u70b9\u3067\u3001\u63a1\u96c6\u7d50\u679c\u3092\u8a18\u9332\u305b\u3088\n\n\u8a55\u4fa1\u5024\u306b\u3088\u308a\u5831\u916c\u30dc\u30fc\u30ca\u30b9\uff1a\n\n160\u4ee5\u4e0a\u3000+25%\n\n152\u4ee5\u4e0a\u3000+10%\n\n143\u4ee5\u4e0a\u3000+05%",
+        "Objective_ko": "\ubaa8\ub4e0 \ubaa9\ud45c \uc9c0\uc810\uc5d0\uc11c \ucc44\uc9d1 \uacb0\uacfc\ub97c \uae30\ub85d\ud558\ub77c\n\ud3c9\uac00\uc5d0 \ub530\ub978 \ubcf4\uc0c1 \ubcf4\ub108\uc2a4:\n160\uc774\uc0c1  +25%\n152\uc774\uc0c1  +10%\n143\uc774\uc0c1  +05%"
+    },
+    "14": {
+        "0xID": "E",
+        "Objective_cn": "\u5c06\u59d4\u6258\u54c1\u8bbe\u7f6e\u5230\u76ee\u6807\u4e0a",
+        "Objective_de": "Bring das Geforderte am Zielobjekt an",
+        "Objective_en": "Deliver the items to the specified locations.",
+        "Objective_fr": "Apporter les objets aux lieux d\u00e9sign\u00e9s",
+        "Objective_ja": "\u4f9d\u983c\u54c1\u3092\u5bfe\u8c61\u306b\u8a2d\u7f6e\u305b\u3088",
+        "Objective_ko": "\uc758\ub8b0\ud488\uc744 \ub300\uc0c1\uc5d0 \uc124\uce58\ud558\ub77c"
+    },
+    "15": {
+        "0xID": "F",
+        "Objective_cn": "\u76ee\u6807\u7269\u54c1\u4e0d\u8db3\u5219\u4efb\u52a1\u5931\u8d25",
+        "Objective_de": "Bei zu wenigen Gegenst\u00e4nden scheitert die Mission",
+        "Objective_en": "Levequest deemed a failure if too few items are obtained.",
+        "Objective_fr": "Le mandat \u00e9choue si trop peu d'objets sont obtenus",
+        "Objective_ja": "\u76ee\u6a19\u7269\u304c\u8db3\u308a\u306a\u3044\u5834\u5408\u306f\u4efb\u52d9\u5931\u6557",
+        "Objective_ko": "\ubaa9\ud45c\ubb3c\uc774 \ubd80\uc871\ud558\uba74 \uc784\ubb34 \uc2e4\ud328"
+    },
+    "16": {
+        "0xID": "10",
+        "Objective_cn": "\u641c\u7d22\u76ee\u6807\u5730\u70b9",
+        "Objective_de": "Such am Zielort",
+        "Objective_en": "Survey target areas.",
+        "Objective_fr": "Inspecter le lieu d\u00e9sign\u00e9",
+        "Objective_ja": "\u76ee\u6a19\u5730\u70b9\u3092\u635c\u7d22",
+        "Objective_ko": "\ubaa9\ud45c \uc9c0\uc810 \uc218\uc0c9"
+    },
+    "17": {
+        "0xID": "11",
+        "Objective_cn": "\u5f15\u8bf1\u51fa\u76ee\u6807\u5e76\u5c06\u5176\u6253\u5012",
+        "Objective_de": "Lock das Ziel hervor und vernichte es.",
+        "Objective_en": "Lure target from hiding and slay it.",
+        "Objective_fr": "Attirer puis \u00e9liminer les cibles",
+        "Objective_ja": "\u5bfe\u8c61\u3092\u8a98\u3044\u51fa\u3057\u3066\u5012\u305b",
+        "Objective_ko": "\ub300\uc0c1\uc744 \uc720\uc778\ud574\uc11c \uc4f0\ub7ec\ub728\ub824\ub77c"
+    },
+    "18": {
+        "0xID": "12",
+        "Objective_cn": "\u5230\u6240\u6709\u76ee\u6807\u5730\u70b9\u8fdb\u884c\u91c7\u96c6\n\u968f\u7740\u8bc4\u4ef7\u63d0\u9ad8\u4f1a\u6709\u76f8\u5e94\u62a5\u916c\n479\u4ee5\u4e0a\u3000+25%\n454\u4ee5\u4e0a\u3000+10%\n429\u4ee5\u4e0a\u3000+05%",
+        "Objective_de": "Sammle die Gegenst\u00e4nde in allen Zielgebieten\n\nBonus f\u00fcr Bewertung von\n\nmin. 479: +25 %\n\nmin. 454: +10 %\n\nmin. 429: +5 %",
+        "Objective_en": "Gather items at all the specified locations.\n\nEvaluation Bonus:\n\n479\uff5e +25%\n\n454\uff5e +10%\n\n429\uff5e  +5%",
+        "Objective_fr": "R\u00e9colter aux endroits d\u00e9sign\u00e9s\n\nBonus de r\u00e9compense selon l'\u00e9valuation :\n\n429 ou plus : +   5%\n\n454 ou plus : + 10%\n\n479 ou plus : + 25%",
+        "Objective_ja": "\u3059\u3079\u3066\u306e\u76ee\u6a19\u5730\u70b9\u3092\u63a1\u96c6\u3057\u3064\u304f\u305b\n\n\u8a55\u4fa1\u5024\u306b\u3088\u308a\u5831\u916c\u30dc\u30fc\u30ca\u30b9\uff1a\n\n479\u4ee5\u4e0a\u3000+25%\n\n454\u4ee5\u4e0a\u3000+10%\n\n429\u4ee5\u4e0a\u3000+05%",
+        "Objective_ko": "\ubaa8\ub4e0 \ubaa9\ud45c \uc9c0\uc810\uc5d0\uc11c \ucc44\uc9d1\ud558\ub77c\n\ud3c9\uac00\uc5d0 \ub530\ub978 \ubcf4\uc0c1 \ubcf4\ub108\uc2a4:\n479\uc774\uc0c1  +25%\n454\uc774\uc0c1  +10%\n429\uc774\uc0c1  +05%"
+    },
+    "19": {
+        "0xID": "13",
+        "Objective_cn": "\u8bb0\u5f55\u6240\u6709\u76ee\u6807\u5730\u70b9\u7684\u91c7\u96c6\u7ed3\u679c\n\u968f\u7740\u8bc4\u4ef7\u63d0\u9ad8\u4f1a\u6709\u76f8\u5e94\u62a5\u916c\n240\u4ee5\u4e0a\u3000+25%\n227\u4ee5\u4e0a\u3000+10%\n215\u4ee5\u4e0a\u3000+05%",
+        "Objective_de": "Untersuche alle Zielgebiete\n\nBonus f\u00fcr Bewertung von\n\nmin. 240: +25 %\n\nmin. 227: +10 %\n\nmin. 215: +5 %",
+        "Objective_en": "Survey target areas.\n\nEvaluation Bonus:\n\n240\uff5e +25%\n\n227\uff5e +10%\n\n215\uff5e  +5%",
+        "Objective_fr": "Inspecter les lieux d\u00e9sign\u00e9s\n\nBonus de r\u00e9compense selon l'\u00e9valuation :\n\n215 ou plus : +   5%\n\n227 ou plus : + 10%\n\n240 ou plus : + 25%",
+        "Objective_ja": "\u3059\u3079\u3066\u306e\u76ee\u6a19\u5730\u70b9\u3067\u3001\u63a1\u96c6\u7d50\u679c\u3092\u8a18\u9332\u305b\u3088\n\n\u8a55\u4fa1\u5024\u306b\u3088\u308a\u5831\u916c\u30dc\u30fc\u30ca\u30b9\uff1a\n\n240\u4ee5\u4e0a\u3000+25%\n\n227\u4ee5\u4e0a\u3000+10%\n\n215\u4ee5\u4e0a\u3000+05%",
+        "Objective_ko": "\ubaa8\ub4e0 \ubaa9\ud45c \uc9c0\uc810\uc5d0\uc11c \ucc44\uc9d1 \uacb0\uacfc\ub97c \uae30\ub85d\ud558\ub77c\n\ud3c9\uac00\uc5d0 \ub530\ub978 \ubcf4\uc0c1 \ubcf4\ub108\uc2a4:\n240\uc774\uc0c1  +25%\n227\uc774\uc0c1  +10%\n215\uc774\uc0c1  +05%"
+    },
+    "2": {
+        "0xID": "2",
+        "Objective_cn": "\u5bfb\u627e\u9053\u5177",
+        "Objective_de": "Besorge die Gegenst\u00e4nde",
+        "Objective_en": "Obtain target items.",
+        "Objective_fr": "R\u00e9cup\u00e9rer les objets d\u00e9sign\u00e9s",
+        "Objective_ja": "\u76ee\u6a19\u7269\u3092\u5165\u624b",
+        "Objective_ko": "\ubaa9\ud45c\ubb3c \uc785\uc218"
+    },
+    "20": {
+        "0xID": "14",
+        "Objective_cn": "\u6253\u5012\u51fa\u73b0\u7684\u9b54\u7269\u56de\u6536\u00ab\u5996\u5f02\u5168\u96c6\u00bb\u7684\u4e66\u9875\n\u53ec\u5524\u51fa\u88ab\u5c01\u5370\u7684\u9b54\u7269\u5e76\u5c06\u5176\u6253\u5012",
+        "Objective_de": "Sammle die Seiten des \u201eNekrologs\u201c und besiege das daraus erscheinende Monster",
+        "Objective_en": "Gather all missing pages of the Necrologos and defeat the creature summoned from within.",
+        "Objective_fr": "R\u00e9unir les pages du N\u00e9crologos en terrassant les ennemis et vaincre la cr\u00e9ature invoqu\u00e9e",
+        "Objective_ja": "\u51fa\u73fe\u3059\u308b\u9b54\u7269\u3092\u5012\u3057\u3066\n\n\u300c\u5996\u7570\u5168\u96c6\u300d\u306e\u7d19\u7247\u3092\u56de\u53ce\u3057\n\n\u5c01\u3058\u3089\u308c\u305f\u9b54\u7269\u3092\u53ec\u559a\u3057\u3066\u5012\u305b",
+        "Objective_ko": "\ub098\ud0c0\ub09c \ub9c8\ubb3c\uc744 \ucc98\uce58\ud558\uace0\n\ud769\uc5b4\uc9c4 '\uc694\ub9c8 \uc804\uc9d1'\uc744 \ud68c\uc218\ud55c \ud6c4\n\ubd09\uc778\ub41c \ub9c8\ubb3c\uc744 \ubd88\ub7ec\ub0b4\uc5b4 \uc4f0\ub7ec\ub728\ub824\ub77c"
+    },
+    "21": {
+        "0xID": "15",
+        "Objective_cn": "\u8fdb\u5ea6",
+        "Objective_de": "Fortschritt",
+        "Objective_en": "Progress",
+        "Objective_fr": "Progression ",
+        "Objective_ja": "\u9032\u6357\u7387",
+        "Objective_ko": "\uc9c4\ud589\ub960"
+    },
+    "22": {
+        "0xID": "16",
+        "Objective_cn": "\u5de1\u903b\u76ee\u7684\u5730",
+        "Objective_de": "Abgesuchte Gebiete",
+        "Objective_en": "Locations visited",
+        "Objective_fr": "Zones s\u00e9curis\u00e9es ",
+        "Objective_ja": "\u5de1\u56de\u3057\u305f\u76ee\u7684\u5730",
+        "Objective_ko": "\ubaa9\uc801\uc9c0 \uc21c\ucc30"
+    },
+    "23": {
+        "0xID": "17",
+        "Objective_cn": "\u8fc7\u65e9\u5c1d\u8bd5\u9a6f\u670d\u4f1a\u8d77\u5230\u76f8\u53cd\u7684\u6548\u679c\n\u76ee\u6807\u4f1a\u9677\u5165\u5174\u594b\u72b6\u6001\n\u6253\u5012\u9a6f\u670d\u76ee\u6807\u4e5f\u4f1a\u5bfc\u81f4\u4efb\u52a1\u5931\u8d25",
+        "Objective_de": "Schw\u00e4che das Ziel vorm Bes\u00e4nftigen, aber schlag es nicht k. o. ",
+        "Objective_en": "Targets will grow frenzied if pacification is attempted too early.\n\nLevequest deemed a failure if targets accidentally killed.",
+        "Objective_fr": "Les cibles se mettront en col\u00e8re si vous tentez de les apaiser trop t\u00f4t\n\n(Le mandat \u00e9choue si les cibles sont tu\u00e9es)",
+        "Objective_ja": "\u5f31\u3089\u305b\u305a\u306b\u61d0\u67d4\u3092\u8a66\u307f\u308b\u3068\n\n\u5bfe\u8c61\u304c\u8208\u596e\u72b6\u614b\u306b\u9665\u308b\u305f\u3081\u6ce8\u610f\u305b\u3088\n\n\u61d0\u67d4\u5bfe\u8c61\u3092\u5012\u3059\u3068\u4efb\u52d9\u5931\u6557",
+        "Objective_ko": "\uc57d\ud574\uc9c4 \ud6c4\uc5d0 \ud68c\uc720\ud558\uc9c0 \uc54a\uc73c\uba74\n\ub300\uc0c1\uc774 \ud765\ubd84 \uc0c1\ud0dc\uc5d0 \ube60\uc9c0\ubbc0\ub85c \uc8fc\uc758\ud558\ub77c\n\ud68c\uc720 \ub300\uc0c1\uc744 \uc4f0\ub7ec\ub728\ub9ac\uba74 \uc784\ubb34 \uc2e4\ud328"
+    },
+    "24": {
+        "0xID": "18",
+        "Objective_cn": "\u4f7f\u7528\u6253\u5012<Sheet(BNpcName,IntegerParameter(1),0)/>\u540e\u83b7\u5f97\u7684<Sheet(EventItem,IntegerParameter(2),0)/>\uff0c\u8bc6\u7834\u9b54\u7269\u7684\u771f\u8eab",
+        "Objective_de": "Ringe <SheetDe(BNpcName,2,IntegerParameter(1),2,3,1)/> <SheetDe(EventItem,5,IntegerParameter(2),2,4,1)/> ab, um Monster zu enttarnen",
+        "Objective_en": "Defeat <SheetEn(BNpcName,1,IntegerParameter(1),2,1)/> to obtain glamour-dispelling <SheetEn(EventItem,1,IntegerParameter(2),2,1)/>.",
+        "Objective_fr": "Vaincre des <SheetFr(BNpcName,12,IntegerParameter(1),2,1)/> pour obtenir des <SheetFr(EventItem,12,IntegerParameter(2),2,1)/>",
+        "Objective_ja": "<Sheet(BNpcName,IntegerParameter(1),0)/>\u3092\u5012\u3059\u3068\u624b\u306b\u5165\u308b\n\n<Sheet(EventItem,IntegerParameter(2),0)/>\u3092\u4f7f\u7528\u3057\n\n\u9b54\u7269\u306e\u6b63\u4f53\u3092\u898b\u7834\u308c",
+        "Objective_ko": "<Sheet(BNpcName,IntegerParameter(1),0)/><13>FF1202280EFF09424E70634E616D65E8020103FF04EBA5BCFF04EC9D84</13> \uc4f0\ub7ec\ub728\ub9ac\uba74 \uc5bb\uc744 \uc218 \uc788\ub294\n<Sheet(EventItem,IntegerParameter(2),0)/><14>FF170210010302280FFF0A4576656E744974656DE8030103FF04EBA19CFF07EC9CBCEBA19C</14>\n\ub9c8\ubb3c\uc758 \uc815\uccb4\ub97c \ubc1d\ud600\ub0b4\ub77c"
+    },
+    "25": {
+        "0xID": "19",
+        "Objective_cn": "<Sheet(BNpcName,IntegerParameter(1),0)/>\u88ab\u6253\u5012\u5219\u4efb\u52a1\u5931\u8d25",
+        "Objective_de": "Wenn <SheetDe(BNpcName,2,IntegerParameter(1),1,1,1)/> k. o. geht, scheitert die Mission",
+        "Objective_en": "Levequest deemed a failure if <SheetEn(BNpcName,2,IntegerParameter(1),1,1)/> is slain.",
+        "Objective_fr": "Le mandat \u00e9choue \u00e0 la mort <SheetFr(BNpcName,9,IntegerParameter(1),1,1)/>",
+        "Objective_ja": "<Sheet(BNpcName,IntegerParameter(1),0)/>\u304c\u5012\u3055\u308c\u308b\u3068\u4efb\u52d9\u5931\u6557",
+        "Objective_ko": "<Sheet(BNpcName,IntegerParameter(1),0)/><13>FF1202280EFF09424E70634E616D65E8020103FF04EAB080FF04EC9DB4</13> \uc4f0\ub7ec\uc9c0\uba74 \uc784\ubb34 \uc2e4\ud328"
+    },
+    "26": {
+        "0xID": "1A",
+        "Objective_cn": "\u4fdd\u62a4\u76ee\u6807\u7684\u540c\u65f6\u51fb\u9000\u654c\u4eba",
+        "Objective_de": "Besch\u00fctze das Missionsobjekt und besiege die Gegner",
+        "Objective_en": "Defeat the enemies while protecting your charge.",
+        "Objective_fr": "Prot\u00e9ger l'objet de la mission et vaincre les ennemis",
+        "Objective_ja": "\u5bfe\u8c61\u3092\u5b88\u308a\u3064\u3064\u6575\u3092\u6483\u9000\u305b\u3088",
+        "Objective_ko": "\ub300\uc0c1\uc744 \uc9c0\ud0a4\uba70 \uc801\uc744 \ubb3c\ub9ac\uccd0\ub77c"
+    },
+    "27": {
+        "0xID": "1B",
+        "Objective_cn": "\u5728\u9650\u5236\u65f6\u95f4\u5185\u5c3d\u53ef\u80fd\u6253\u5012\u66f4\u591a\u7684\u654c\u4eba",
+        "Objective_de": "Besiege so viele Gegner wie m\u00f6glich",
+        "Objective_en": "Defeat as many enemies as possible within the allotted time.",
+        "Objective_fr": "Vaincre autant d'ennemis que possible dans le temps imparti",
+        "Objective_ja": "\u5236\u9650\u6642\u9593\u5185\u306b\u3001\u3088\u308a\u591a\u304f\u306e\u6575\u3092\u5012\u305b",
+        "Objective_ko": "\uc81c\ud55c\uc2dc\uac04 \uc548\uc5d0 \ub418\ub3c4\ub85d \ub9ce\uc740 \uc801\uc744 \uc4f0\ub7ec\ub728\ub824\ub77c"
+    },
+    "28": {
+        "0xID": "1C",
+        "Objective_cn": "\u627e\u5230<Sheet(EventItem,IntegerParameter(1),0)/>\u7684\u6301\u6709\u8005\n\u8bc6\u7834\u5176\u672c\u4f53\u5e76\u5c06\u5176\u6d88\u706d",
+        "Objective_de": "Finde den Gegner mit <SheetDe(EventItem,5,IntegerParameter(1),2,3,1)/> und besiege ihn",
+        "Objective_en": "Discover who is carrying <SheetEn(EventItem,2,IntegerParameter(1),2,1)/> and slay the target.",
+        "Objective_fr": "D\u00e9couvrir l'ennemi qui poss\u00e8de <SheetFr(EventItem,2,IntegerParameter(1),2,1)/> et le vaincre",
+        "Objective_ja": "<Sheet(EventItem,IntegerParameter(1),0)/>\u306e\u4fdd\u6709\u8005\u3092\u767a\u898b\u3057\n\n\u6b63\u4f53\u3092\u898b\u7834\u3063\u3066\u5012\u305b",
+        "Objective_ko": "<Sheet(EventItem,IntegerParameter(1),0)/><13>FF1302280FFF0A4576656E744974656DE8020103FF04EBA5BCFF04EC9D84</13> \ucc3e\uc544\ub0b4\uace0\n\uc815\uccb4\ub97c \ubc1d\ud78c \ub2e4\uc74c \uc4f0\ub7ec\ub728\ub824\ub77c"
+    },
+    "29": {
+        "0xID": "1D",
+        "Objective_cn": "",
+        "Objective_de": "",
+        "Objective_en": "",
+        "Objective_fr": "",
+        "Objective_ja": "",
+        "Objective_ko": ""
+    },
+    "3": {
+        "0xID": "3",
+        "Objective_cn": "\u6b7c\u706d\u654c\u4eba",
+        "Objective_de": "Vernichte alle Gegner",
+        "Objective_en": "Eliminate target enemies.",
+        "Objective_fr": "\u00c9liminer les cibles",
+        "Objective_ja": "\u5bfe\u8c61\u3092\u305b\u3093\u6ec5",
+        "Objective_ko": "\ub300\uc0c1 \uc12c\uba78"
+    },
+    "30": {
+        "0xID": "1E",
+        "Objective_cn": "\u6253\u5012\u547c\u53eb\u589e\u63f4\u7684\u654c\u4eba",
+        "Objective_de": "Besiege die Gegner, die Verst\u00e4rkung rufen",
+        "Objective_en": "Defeat any enemies summoning reinforcements.",
+        "Objective_fr": "Abattre l'ennemi qui appelle des renforts",
+        "Objective_ja": "\u5897\u63f4\u3092\u547c\u3073\u51fa\u3059\u6575\u3092\u5012\u305b",
+        "Objective_ko": "\uc9c0\uc6d0\uad70\uc744 \ubd80\ub974\ub294 \uc801\uc744 \uc4f0\ub7ec\ub728\ub824\ub77c"
+    },
+    "31": {
+        "0xID": "1F",
+        "Objective_cn": "\u5931\u8d25\u6761\u4ef6\uff1a\u6ca1\u6709\u8fbe\u5230\u76ee\u6807\u6570\u91cf",
+        "Objective_de": "Bei zu wenig besiegten Gegnern scheitert die Mission",
+        "Objective_en": "Objective failed if insufficient number of enemies slain.",
+        "Objective_fr": "Le mandat \u00e9choue si trop peu d'ennemis sont \u00e9limin\u00e9s",
+        "Objective_ja": "\u5931\u6557\u6761\u4ef6\uff1a\u76ee\u6a19\u8a0e\u4f10\u6570\u306b\u9054\u3057\u306a\u3044",
+        "Objective_ko": "\uc2e4\ud328 \uc870\uac74: \ubaa9\ud45c \ucc98\uce58 \uc218\uc5d0 \ub3c4\ub2ec\ud558\uc9c0 \ubabb\ud568"
+    },
+    "32": {
+        "0xID": "20",
+        "Objective_cn": "\u6253\u5012\u5bf9\u201c\u6233\u6307\u201d\u52a8\u4f5c\u6709\u53cd\u5e94\u7684\u654c\u4eba\n\u83b7\u5f97<Sheet(EventItem,IntegerParameter(2),0)/>",
+        "Objective_de": "Besiege Gegner, die auf das /stups Emote reagieren und sammle <SheetDe(EventItem,2,IntegerParameter(2),2,4,1)/> auf.",
+        "Objective_en": "Slay enemies that respond to the /poke emote and collect <SheetEn(EventItem,1,IntegerParameter(2),2,1)/>.",
+        "Objective_fr": "\u00c9liminer les ennemis qui r\u00e9pondent \u00e0 l'emote /toucher et r\u00e9cup\u00e9rer <SheetFr(EventItem,1,IntegerParameter(2),2,1)/>",
+        "Objective_ja": "\u30a8\u30e2\u30fc\u30c8\u300c\u3064\u3064\u304f\u300d\u306b\u53cd\u5fdc\u3057\u305f\u6575\u3092\u5012\u3057\n\n<Sheet(EventItem,IntegerParameter(2),0)/>\u3092\u5165\u624b\u305b\u3088",
+        "Objective_ko": "\uac10\uc815 \ud45c\ud604 '/\ucfe1\ucfe1'\uc5d0 \ubc18\uc751\ud55c \ub300\uc0c1\uc744 \uc4f0\ub7ec\ub728\ub9ac\uace0\n<Sheet(EventItem,IntegerParameter(2),0)/><13>FF170210010302280FFF0A4576656E744974656DE8030103FF04EBA5BCFF04EC9D84</13> \uc785\uc218\ud558\ub77c"
+    },
+    "33": {
+        "0xID": "21",
+        "Objective_cn": "\u5931\u8d25\u6761\u4ef6\uff1a\u5931\u53bb\u6240\u6709<Sheet(BNpcName,IntegerParameter(1),0)/>",
+        "Objective_de": "Mission misslingt, wenn alle <SheetDe(BNpcName,5,IntegerParameter(1),2,1,1)/> verloren gehen",
+        "Objective_en": "Objective failed if all <SheetEn(BNpcName,1,IntegerParameter(1),2,1)/> are lost.",
+        "Objective_fr": "Le mandat \u00e9choue si )>toutes <SheetFr(BNpcName,2,IntegerParameter(1),2,1)/> sont )>perdues",
+        "Objective_ja": "\u5931\u6557\u6761\u4ef6\uff1a<Sheet(BNpcName,IntegerParameter(1),0)/>\u304c\u5168\u3066\u5931\u308f\u308c\u308b",
+        "Objective_ko": "\uc2e4\ud328 \uc870\uac74: <Sheet(BNpcName,IntegerParameter(1),0)/><13>FF1202280EFF09424E70634E616D65E8020103FF04EBA5BCFF04EC9D84</13> \ubaa8\ub450 \uc783\uc74c"
+    },
+    "34": {
+        "0xID": "22",
+        "Objective_cn": "\u4ece<Sheet(BNpcName,IntegerParameter(1),0)/>\u8eab\u4e0a\u83b7\u5f97<Sheet(EventItem,IntegerParameter(2),0)/>\n\u5e76\u5bf9<Sheet(EObj,IntegerParameter(3),0)/>\u4f7f\u7528\n\u5c06<Sheet(BNpcName,IntegerParameter(4),0)/>\u5f15\u8bf1\u51fa\u6765",
+        "Objective_de": "Benutze <SheetDe(EventItem,2,IntegerParameter(2),2,4,1)/> von <SheetDe(BNpcName,2,IntegerParameter(1),2,3,1)/> an <SheetDe(EObj,2,IntegerParameter(3),2,3,1)/>, um <SheetDe(BNpcName,5,IntegerParameter(4),2,4,1)/> anzulocken",
+        "Objective_en": "Use <SheetEn(EventItem,3,IntegerParameter(2),2,1)/> obtained from <SheetEn(BNpcName,3,IntegerParameter(1),2,1)/> on <SheetEn(EObj,3,IntegerParameter(3),2,1)/> to lure out <SheetEn(BNpcName,3,IntegerParameter(4),2,1)/>.",
+        "Objective_fr": "Obtenir <SheetFr(EventItem,1,IntegerParameter(2),1,1)/> sur <SheetFr(BNpcName,1,IntegerParameter(1),1,1)/> et l'utiliser sur <SheetFr(EObj,1,IntegerParameter(3),1,1)/> pour attirer <SheetFr(BNpcName,1,IntegerParameter(4),1,1)/>",
+        "Objective_ja": "<Sheet(BNpcName,IntegerParameter(1),0)/>\u304b\u3089\u624b\u306b\u5165\u308b\n\n<Sheet(EventItem,IntegerParameter(2),0)/>\u3092<Sheet(EObj,IntegerParameter(3),0)/>\u306b\u4f7f\u7528\u3057\n\n<Sheet(BNpcName,IntegerParameter(4),0)/>\u3092\u8a98\u3044\u51fa\u305b",
+        "Objective_ko": "<Sheet(BNpcName,IntegerParameter(1),0)/>\uc5d0\uac8c\uc11c \uc5bb\uc744 \uc218 \uc788\ub294\n<Sheet(EventItem,IntegerParameter(2),0)/><13>FF170210010302280FFF0A4576656E744974656DE8030103FF04EBA5BCFF04EC9D84</13> <Sheet(EObj,IntegerParameter(3),0)/>\uc5d0 \uc0ac\uc6a9\ud574\uc11c\n<Sheet(BNpcName,IntegerParameter(4),0)/><13>FF160210010302280EFF09424E70634E616D65E8050103FF04EBA5BCFF04EC9D84</13> \uc720\uc778\ud558\ub77c"
+    },
+    "35": {
+        "0xID": "23",
+        "Objective_cn": "\u8fc7\u65e9\u5c1d\u8bd5\u9a6f\u670d\u4f1a\u8d77\u5230\u76f8\u53cd\u7684\u6548\u679c\n\u76ee\u6807\u4f1a\u9677\u5165\u5174\u594b\u72b6\u6001",
+        "Objective_de": "Schw\u00e4che das Ziel vor dem Bes\u00e4nftigen, sonst rastet es aus",
+        "Objective_en": "Targets will grow frenzied if pacification is attempted too early.",
+        "Objective_fr": "Les cibles se mettront en col\u00e8re si vous tentez de les apaiser trop t\u00f4t",
+        "Objective_ja": "\u5f31\u3089\u305b\u305a\u306b\u61d0\u67d4\u3092\u8a66\u307f\u308b\u3068\n\n\u5bfe\u8c61\u304c\u8208\u596e\u72b6\u614b\u306b\u9665\u308b\u305f\u3081\u6ce8\u610f\u305b\u3088",
+        "Objective_ko": "\uc57d\ud574\uc9c4 \ud6c4\uc5d0 \ud68c\uc720\ud558\uc9c0 \uc54a\uc73c\uba74\n\ub300\uc0c1\uc774 \ud765\ubd84 \uc0c1\ud0dc\uc5d0 \ube60\uc9c0\ubbc0\ub85c \uc8fc\uc758\ud558\ub77c"
+    },
+    "4": {
+        "0xID": "4",
+        "Objective_cn": "\u8ffd\u51fb\u654c\u4eba",
+        "Objective_de": "Verfolge und vernichte alle Gegner",
+        "Objective_en": "Pursue and defeat target enemies.",
+        "Objective_fr": "Traquer et \u00e9liminer les cibles",
+        "Objective_ja": "\u5bfe\u8c61\u3092\u8ffd\u6483\u3057\u3066\u5012\u305b",
+        "Objective_ko": "\ub300\uc0c1\uc744 \ucd94\uaca9\ud574\uc11c \uc4f0\ub7ec\ub728\ub824\ub77c"
+    },
+    "5": {
+        "0xID": "5",
+        "Objective_cn": "\u4ee4\u654c\u4eba\u5f31\u5316\uff0c\u5e76\u5229\u7528\u60c5\u611f\u52a8\u4f5c\u201c\u5b89\u629a\u201d\u5c06\u5176\u9a6f\u670d",
+        "Objective_de": "Schw\u00e4che den Gegner und bes\u00e4nftige ihn mit dem Emote \u201eBeruhigen\u201c",
+        "Objective_en": "Weaken target and then pacify it using the /soothe emote.",
+        "Objective_fr": "Affaiblir la cible puis la calmer avec l'emote /apaiser",
+        "Objective_ja": "\u5bfe\u8c61\u3092\u5f31\u3089\u305b\u3066\n\n\u30a8\u30e2\u30fc\u30c8\u300c\u306a\u3060\u3081\u308b\u300d\u3092\u4f7f\u3063\u3066\u624b\u61d0\u3051\u308d",
+        "Objective_ko": "\ub300\uc0c1\uc758 \uccb4\ub825\uc744 \uc904\uc778 \ub4a4\n\uac10\uc815 \ud45c\ud604 '/\uc9c4\uc815'\uc744 \uc0ac\uc6a9\ud574\uc11c \ud68c\uc720\ud558\ub77c"
+    },
+    "6": {
+        "0xID": "6",
+        "Objective_cn": "\u901a\u8fc7\u653b\u51fb\u6765\u8bc6\u7834\u654c\u4eba\u7684\u771f\u8eab\u5e76\u8fdb\u884c\u8ba8\u4f10",
+        "Objective_de": "Greif an, um die Gegner zu enttarnen, und besiege sie",
+        "Objective_en": "Attack target to reveal its true form, then defeat it.",
+        "Objective_fr": "Attaquer la cible pour r\u00e9v\u00e9ler la v\u00e9ritable forme de la cible, puis la vaincre",
+        "Objective_ja": "\u5bfe\u8c61\u3092\u653b\u6483\u3057\n\n\u6b63\u4f53\u3092\u898b\u7834\u3063\u3066\u8a0e\u4f10\u305b\u3088",
+        "Objective_ko": "\ub300\uc0c1\uc744 \uacf5\uaca9\ud558\uc5ec\n\uc815\uccb4\ub97c \ubc1d\ud600\ub0b8 \ub4a4 \ucc98\uce58\ud558\ub77c"
+    },
+    "7": {
+        "0xID": "7",
+        "Objective_cn": "\u5728\u6307\u5b9a\u5730\u70b9\u5de1\u903b\uff0c\u5e76\u51fb\u9000\u654c\u4eba",
+        "Objective_de": "Beseitige die Gegner im Zielgebiet",
+        "Objective_en": "Defeat all targets in the locations specified.",
+        "Objective_fr": "Vaincre toutes les cibles dans les zones d\u00e9sign\u00e9es",
+        "Objective_ja": "\u6240\u5b9a\u306e\u5730\u70b9\u3092\u5de1\u308a\u3001\u6575\u3092\u6483\u9000\u305b\u3088",
+        "Objective_ko": "\uc9c0\uc815 \uc9c0\uc810\uc744 \ub3cc\uba70 \uc801\uc744 \ubb3c\ub9ac\uccd0\ub77c"
+    },
+    "8": {
+        "0xID": "8",
+        "Objective_cn": "\u6536\u96c6\u00ab\u5996\u5f02\u5168\u96c6\u00bb\u7684\u4e66\u9875\n\u53ec\u5524\u51fa\u88ab\u5c01\u5370\u7684\u9b54\u7269\u5e76\u5c06\u5176\u6253\u5012",
+        "Objective_de": "Sammle die Seiten des \u201eNekrologs\u201c und besiege das daraus erscheinende Monster",
+        "Objective_en": "Gather all missing pages of the Necrologos and defeat the creature summoned from within.",
+        "Objective_fr": "R\u00e9unir les pages du N\u00e9crologos et vaincre la cr\u00e9ature invoqu\u00e9e",
+        "Objective_ja": "\u300c\u5996\u7570\u5168\u96c6\u300d\u306e\u7d19\u7247\u3092\u56de\u53ce\u3057\n\n\u5c01\u3058\u3089\u308c\u305f\u9b54\u7269\u3092\u53ec\u559a\u3057\u3066\u5012\u305b",
+        "Objective_ko": "\ud769\uc5b4\uc9c4 '\uc694\ub9c8 \uc804\uc9d1'\uc744 \ud68c\uc218\ud558\uace0\n\ubd09\uc778\ub41c \ub9c8\ubb3c\uc744 \ubd88\ub7ec\ub0b4\uc5b4 \uc4f0\ub7ec\ub728\ub824\ub77c"
+    },
+    "9": {
+        "0xID": "9",
+        "Objective_cn": "\u4f7f\u7528\u60c5\u611f\u52a8\u4f5c\u201c\u62db\u624b\u201d\uff0c\u5c06<Sheet(BNpcName,IntegerParameter(1),0)/>\u5e26\u9886\u5230\u76ee\u7684\u5730",
+        "Objective_de": "Geleite <SheetDe(BNpcName,2,IntegerParameter(1),1,4,1)/> zum Ziel",
+        "Objective_en": "Use the /beckon emote to lead <SheetEn(BNpcName,2,IntegerParameter(1),1,1)/> safely to the specified location.",
+        "Objective_fr": "Utiliser l'emote /viens (Inviter) pour mener <SheetFr(BNpcName,2,IntegerParameter(1),1,1)/> en lieu s\u00fbr",
+        "Objective_ja": "\u30a8\u30e2\u30fc\u30c8\u300c\u624b\u307e\u306d\u304d\u3059\u308b\u300d\u3092\u4f7f\u3063\u3066\n\n<Sheet(BNpcName,IntegerParameter(1),0)/>\u3092\u76ee\u7684\u5730\u307e\u3067\u5c0e\u3051",
+        "Objective_ko": "\uac10\uc815 \ud45c\ud604 '/\uc190\uc9d3'\uc73c\ub85c\n<Sheet(BNpcName,IntegerParameter(1),0)/><13>FF160210010302280EFF09424E70634E616D65E8020103FF04EBA5BCFF04EC9D84</13> \ubaa9\uc801\uc9c0\uae4c\uc9c0 \ub370\ub824\uac00\ub77c"
+    }
+}

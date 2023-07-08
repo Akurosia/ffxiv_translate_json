@@ -1,0 +1,3202 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/004000/004001.png",
+        "Singular_cn": "\u4e13\u5c5e\u9646\u884c\u9e1f",
+        "Singular_de": "Gesellschafts-Chocobo",
+        "Singular_en": "company chocobo",
+        "Singular_fr": "chocobo destrier",
+        "Singular_ja": "\u30de\u30a4\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ub0b4 \ucd08\ucf54\ubcf4"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "100": {
+        "0xID": "64",
+        "Icon": "ui/icon/004000/004072.png",
+        "Singular_cn": "\u9ed1\u5929\u9a6c",
+        "Singular_de": "Schwarzer Pegasus",
+        "Singular_en": "black pegasus",
+        "Singular_fr": "p\u00e9gase des t\u00e9n\u00e8bres",
+        "Singular_ja": "\u30d6\u30e9\u30c3\u30af\u30da\u30ac\u30b5\u30b9",
+        "Singular_ko": "\uac80\uc740 \ud398\uac00\uc218\uc2a4"
+    },
+    "101": {
+        "0xID": "65",
+        "Icon": "ui/icon/004000/004073.png",
+        "Singular_cn": "\u963f\u91cc\u8fbe\u4e4c\u65af",
+        "Singular_de": "Arrhidaios",
+        "Singular_en": "Arrhidaeus",
+        "Singular_fr": "messager d'Arrhab\u00e9e",
+        "Singular_ja": "\u30a2\u30ea\u30c0\u30a4\u30aa\u30b9",
+        "Singular_ko": "\uc544\ub9ac\ub2e4\uc774\uc624\uc2a4"
+    },
+    "102": {
+        "0xID": "66",
+        "Icon": "ui/icon/004000/004076.png",
+        "Singular_cn": "\u96f7\u521a",
+        "Singular_de": "Raigo",
+        "Singular_en": "Raigo",
+        "Singular_fr": "Raigo",
+        "Singular_ja": "\u96f7\u525b",
+        "Singular_ko": "\ub77c\uc774\uace0"
+    },
+    "103": {
+        "0xID": "67",
+        "Icon": "",
+        "Singular_cn": "\u5c3c\u7984\u4e13\u7528\u9b54\u5bfc\u88c5\u7532",
+        "Singular_de": "Roter Baron",
+        "Singular_en": "Red Baron",
+        "Singular_fr": "armure magitek de Nero",
+        "Singular_ja": "\u30cd\u30ed\u5c02\u7528\u9b54\u5c0e\u30a2\u30fc\u30de\u30fc",
+        "Singular_ko": "\ub124\ub85c \uc804\uc6a9 \ub9c8\ub3c4 \uc544\uba38"
+    },
+    "104": {
+        "0xID": "68",
+        "Icon": "ui/icon/004000/004077.png",
+        "Singular_cn": "\u5389\u9b3c\u730e\u9e70",
+        "Singular_de": "D\u00e4monen-Lanner",
+        "Singular_en": "Demonic lanner",
+        "Singular_fr": "faucon zurvanique",
+        "Singular_ja": "\u30c7\u30e2\u30f3\u30e9\u30ca\u30fc",
+        "Singular_ko": "\uadc0\uc2e0\uc1a1\uace8\ub9e4"
+    },
+    "105": {
+        "0xID": "69",
+        "Icon": "ui/icon/004000/004078.png",
+        "Singular_cn": "\u51e4\u51f0",
+        "Singular_de": "Feuervogel",
+        "Singular_en": "Firebird",
+        "Singular_fr": "H\u00f4\u00f4",
+        "Singular_ja": "\u9cf3\u51f0",
+        "Singular_ko": "\ubd09\ud669"
+    },
+    "106": {
+        "0xID": "6A",
+        "Icon": "ui/icon/004000/004079.png",
+        "Singular_cn": "\u5f69\u86cb\u7cfb\u7edf",
+        "Singular_de": "Wundereisystem",
+        "Singular_en": "eggshilaration system",
+        "Singular_fr": "L\u00e9vit\u0153uf",
+        "Singular_ja": "\u30a8\u30c3\u30b0\u30b7\u30b9\u30c6\u30e0",
+        "Singular_ko": "\uc54c \uc2dc\uc2a4\ud15c"
+    },
+    "107": {
+        "0xID": "6B",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "108": {
+        "0xID": "6C",
+        "Icon": "ui/icon/004000/004080.png",
+        "Singular_cn": "\u5b64\u50b2\u5730\u72f1\u72ac",
+        "Singular_de": "H\u00f6llenhund-Einzelg\u00e4nger",
+        "Singular_en": "lone hellhound",
+        "Singular_fr": "limier des enfers solitaire",
+        "Singular_ja": "\u30ed\u30fc\u30f3\u30fb\u30d8\u30eb\u30cf\u30a6\u30f3\u30c9",
+        "Singular_ko": "\uace0\ub3c5\ud55c \uc9c0\uc625\uacac"
+    },
+    "109": {
+        "0xID": "6D",
+        "Icon": "ui/icon/004000/004081.png",
+        "Singular_cn": "\u9996\u9886\u5730\u72f1\u72ac",
+        "Singular_de": "H\u00f6llenhund-Alphatier",
+        "Singular_en": "pack hellhound",
+        "Singular_fr": "limier des enfers de meute",
+        "Singular_ja": "\u30d1\u30c3\u30af\u30fb\u30d8\u30eb\u30cf\u30a6\u30f3\u30c9",
+        "Singular_ko": "\ubb34\ub9ac \uc9c0\uc625\uacac"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "110": {
+        "0xID": "6E",
+        "Icon": "ui/icon/004000/004084.png",
+        "Singular_cn": "\u8d24\u8005\u5ea7\u6905",
+        "Singular_de": "Exegeten-Thron",
+        "Singular_en": "Archon throne",
+        "Singular_fr": "chaise des Preux",
+        "Singular_ja": "\u30a2\u30eb\u30b3\u30f3\u30ba\u30fb\u30c1\u30a7\u30a2\u30fc",
+        "Singular_ko": "\ud604\uc790\uc758 \uc758\uc790"
+    },
+    "111": {
+        "0xID": "6F",
+        "Icon": "ui/icon/004000/004085.png",
+        "Singular_cn": "\u5e0c\u5c14\u5fb7\u62c9",
+        "Singular_de": "Syldra",
+        "Singular_en": "Syldra",
+        "Singular_fr": "Syldra",
+        "Singular_ja": "\u30b7\u30eb\u30c9\u30e9",
+        "Singular_ko": "\uc2e4\ub4dc\ub77c"
+    },
+    "112": {
+        "0xID": "70",
+        "Icon": "ui/icon/004000/004086.png",
+        "Singular_cn": "\u98de\u96bc\u53f7",
+        "Singular_de": "Falke",
+        "Singular_en": "Falcon",
+        "Singular_fr": "mini a\u00e9ronef Faucon",
+        "Singular_ja": "\u30d5\u30a1\u30eb\u30b3\u30f3\u53f7",
+        "Singular_ko": "\ubcf4\ub77c\ub9e4\ud638"
+    },
+    "113": {
+        "0xID": "71",
+        "Icon": "ui/icon/004000/004082.png",
+        "Singular_cn": "\u5b64\u50b2\u5996\u7cbe\u72ac",
+        "Singular_de": "Feenhund-Einzelg\u00e4nger",
+        "Singular_en": "lone faehound",
+        "Singular_fr": "limier fantasmagorique solitaire",
+        "Singular_ja": "\u30ed\u30fc\u30f3\u30fb\u30d5\u30a7\u30a4\u30cf\u30a6\u30f3\u30c9",
+        "Singular_ko": "\uace0\ub3c5\ud55c \uc694\uc815\uacac"
+    },
+    "114": {
+        "0xID": "72",
+        "Icon": "ui/icon/004000/004083.png",
+        "Singular_cn": "\u9996\u9886\u5996\u7cbe\u72ac",
+        "Singular_de": "Feenhund-Alphatier",
+        "Singular_en": "pack faehound",
+        "Singular_fr": "limier fantasmagorique de meute",
+        "Singular_ja": "\u30d1\u30c3\u30af\u30fb\u30d5\u30a7\u30a4\u30cf\u30a6\u30f3\u30c9",
+        "Singular_ko": "\ubb34\ub9ac \uc694\uc815\uacac"
+    },
+    "115": {
+        "0xID": "73",
+        "Icon": "ui/icon/004000/004087.png",
+        "Singular_cn": "\u6781\u4e50\u795e\u5a01",
+        "Singular_de": "Gepflegter Kamuy",
+        "Singular_en": "blissful kamuy",
+        "Singular_fr": "kamuy de la gr\u00e2ce",
+        "Singular_ja": "\u7f8e\u306e\u30ab\u30e0\u30a4",
+        "Singular_ko": "\ub77d\uc288\ubbf8\uc758 \uacac\uc2e0"
+    },
+    "116": {
+        "0xID": "74",
+        "Icon": "ui/icon/004000/004088.png",
+        "Singular_cn": "\u72c2\u6b22\u795e\u5a01",
+        "Singular_de": "Verspielter Kamuy",
+        "Singular_en": "reveling kamuy",
+        "Singular_fr": "kamuy de la splendeur",
+        "Singular_ja": "\u8c6a\u306e\u30ab\u30e0\u30a4",
+        "Singular_ko": "\uc2a4\uc0ac\ub178\uc624\uc758 \uacac\uc2e0"
+    },
+    "117": {
+        "0xID": "75",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "118": {
+        "0xID": "76",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "119": {
+        "0xID": "77",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "120": {
+        "0xID": "78",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "121": {
+        "0xID": "79",
+        "Icon": "ui/icon/004000/004089.png",
+        "Singular_cn": "\u9b54\u5bfc\u730e\u624b",
+        "Singular_de": "Magitek-Pr\u00e4dator",
+        "Singular_en": "magitek predator",
+        "Singular_fr": "pr\u00e9dateur magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30d7\u30ec\u30c7\u30bf\u30fc",
+        "Singular_ko": "\ub9c8\ub3c4 \ud504\ub808\ub370\ud130"
+    },
+    "122": {
+        "0xID": "7A",
+        "Icon": "ui/icon/004000/004090.png",
+        "Singular_cn": "\u6597\u72ee",
+        "Singular_de": "Kampfl\u00f6we",
+        "Singular_en": "battle lion",
+        "Singular_fr": "lion de combat",
+        "Singular_ja": "\u30d0\u30c8\u30eb\u30e9\u30a4\u30aa\u30f3",
+        "Singular_ko": "\uc804\uc7c1\uc0ac\uc790"
+    },
+    "123": {
+        "0xID": "7B",
+        "Icon": "ui/icon/004000/004091.png",
+        "Singular_cn": "\u6597\u718a",
+        "Singular_de": "Kampfb\u00e4r",
+        "Singular_en": "battle bear",
+        "Singular_fr": "ours de combat",
+        "Singular_ja": "\u30d0\u30c8\u30eb\u30d9\u30a2\u30fc",
+        "Singular_ko": "\uc804\uc7c1\uacf0"
+    },
+    "124": {
+        "0xID": "7C",
+        "Icon": "ui/icon/004000/004092.png",
+        "Singular_cn": "\u6597\u8c79",
+        "Singular_de": "Kampfpanther",
+        "Singular_en": "battle panther",
+        "Singular_fr": "panth\u00e8re de combat",
+        "Singular_ja": "\u30d0\u30c8\u30eb\u30d1\u30f3\u30b5\u30fc",
+        "Singular_ko": "\uc804\uc7c1\ud751\ud45c\ubc94"
+    },
+    "125": {
+        "0xID": "7D",
+        "Icon": "ui/icon/004000/004093.png",
+        "Singular_cn": "\u80e1\u9e70",
+        "Singular_de": "Yol",
+        "Singular_en": "yol",
+        "Singular_fr": "yol",
+        "Singular_ja": "\u30e8\u30eb",
+        "Singular_ko": "\uc69c"
+    },
+    "126": {
+        "0xID": "7E",
+        "Icon": "ui/icon/004000/004094.png",
+        "Singular_cn": "\u8001\u8005",
+        "Singular_de": "Alte Roite",
+        "Singular_en": "Alte Roite",
+        "Singular_fr": "Alte Roite",
+        "Singular_ja": "\u30a2\u30eb\u30c6\u30fb\u30ed\u30a4\u30c6",
+        "Singular_ko": "\uc54c\ud14c \ub85c\uc774\ud14c"
+    },
+    "127": {
+        "0xID": "7F",
+        "Icon": "ui/icon/004000/004095.png",
+        "Singular_cn": "\u5175\u56e2\u864e",
+        "Singular_de": "Centurio-Tiger",
+        "Singular_en": "Centurio tiger",
+        "Singular_fr": "tigre centurio",
+        "Singular_ja": "\u30bb\u30f3\u30c8\u30ea\u30aa\u30bf\u30a4\u30ac\u30fc",
+        "Singular_ko": "\uc13c\ucd94\ub9ac\uc624 \ud638\ub791\uc774"
+    },
+    "128": {
+        "0xID": "80",
+        "Icon": "",
+        "Singular_cn": "\u6355\u83b7\u7684\u9b54\u5bfc\u88c5\u7532",
+        "Singular_de": "Erbeutete Magitek-Kampfmaschine",
+        "Singular_en": "commandeered magitek armor",
+        "Singular_fr": "armure magitek confisqu\u00e9e",
+        "Singular_ja": "\u9e75\u7372\u9b54\u5c0e\u30a2\u30fc\u30de\u30fc",
+        "Singular_ko": "\ube7c\uc557\uc740 \ub9c8\ub3c4 \uc544\uba38"
+    },
+    "129": {
+        "0xID": "81",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "130": {
+        "0xID": "82",
+        "Icon": "ui/icon/004000/004096.png",
+        "Singular_cn": "\u4f0a\u514b\u897f\u7fc1",
+        "Singular_de": "Ixion",
+        "Singular_en": "Ixion",
+        "Singular_fr": "Ixion",
+        "Singular_ja": "\u30a4\u30af\u30b7\u30aa\u30f3",
+        "Singular_ko": "\uc775\uc2dc\uc628"
+    },
+    "131": {
+        "0xID": "83",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "132": {
+        "0xID": "84",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "133": {
+        "0xID": "85",
+        "Icon": "ui/icon/004000/004101.png",
+        "Singular_cn": "\u68a6\u5e7b\u795e\u5a01",
+        "Singular_de": "Legend\u00e4rer Kamuy",
+        "Singular_en": "legendary kamuy",
+        "Singular_fr": "kamuy de la divinit\u00e9",
+        "Singular_ja": "\u9f8d\u306e\u30ab\u30e0\u30a4",
+        "Singular_ko": "\uc2e0\ub8e1\uc758 \uacac\uc2e0"
+    },
+    "134": {
+        "0xID": "86",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "135": {
+        "0xID": "87",
+        "Icon": "ui/icon/004000/004097.png",
+        "Singular_cn": "\u98ce\u706b\u8f6e",
+        "Singular_de": "Feuerwind",
+        "Singular_en": "Nezha chariot",
+        "Singular_fr": "roues Feu-et-Vent",
+        "Singular_ja": "\u98a8\u706b\u4e8c\u8f2a",
+        "Singular_ko": "\ud48d\ud654\uc774\ub95c"
+    },
+    "136": {
+        "0xID": "88",
+        "Icon": "ui/icon/004000/004103.png",
+        "Singular_cn": "\u6591\u9cd0",
+        "Singular_de": "Streifenrochen",
+        "Singular_en": "striped ray",
+        "Singular_fr": "raie ray\u00e9e",
+        "Singular_ja": "\u30b7\u30de\u30a8\u30a4",
+        "Singular_ko": "\uc904\uac00\uc624\ub9ac"
+    },
+    "137": {
+        "0xID": "89",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "138": {
+        "0xID": "8A",
+        "Icon": "ui/icon/004000/004104.png",
+        "Singular_cn": "\u6d77\u84dd\u5b9d\u77f3\u517d",
+        "Singular_de": "Aquamarin-Karfunkel",
+        "Singular_en": "Aquamarine Carbuncle",
+        "Singular_fr": "Carbuncle aigue-marine",
+        "Singular_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30a2\u30af\u30a2\u30de\u30ea\u30f3",
+        "Singular_ko": "\uce74\ubc99\ud074 \uc544\ucfe0\uc544\ub9c8\ub9b0"
+    },
+    "139": {
+        "0xID": "8B",
+        "Icon": "ui/icon/004000/004105.png",
+        "Singular_cn": "\u9ec4\u6c34\u6676\u5b9d\u77f3\u517d",
+        "Singular_de": "Citrin-Karfunkel",
+        "Singular_en": "Citrine Carbuncle",
+        "Singular_fr": "Carbuncle citrine",
+        "Singular_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30b7\u30c8\u30ea\u30f3",
+        "Singular_ko": "\uce74\ubc99\ud074 \uc2dc\ud2b8\ub9b0"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "140": {
+        "0xID": "8C",
+        "Icon": "ui/icon/004000/004106.png",
+        "Singular_cn": "\u98de\u884c\u5ea7\u6905",
+        "Singular_de": "Fliegender Sessel",
+        "Singular_en": "flying chair",
+        "Singular_fr": "fauteuil volant",
+        "Singular_ja": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30fb\u30c1\u30a7\u30a2\u30fc",
+        "Singular_ko": "\ube44\ud589\uc758\uc790"
+    },
+    "141": {
+        "0xID": "8D",
+        "Icon": "ui/icon/004000/004107.png",
+        "Singular_cn": "\u9b54\u5bfc\u590d\u4ec7\u8005\u9a91\u4e58\u578b",
+        "Singular_de": "Magitek-R\u00e4cher",
+        "Singular_en": "magitek avenger",
+        "Singular_fr": "vengeur magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30a2\u30f4\u30a7\u30f3\u30b8\u30e3\u30fc\u9a0e\u4e57\u578b",
+        "Singular_ko": "\ub9c8\ub3c4 \uc5b4\ubca4\uc800 \ud0d1\uc2b9\ud615"
+    },
+    "142": {
+        "0xID": "8E",
+        "Icon": "ui/icon/004000/004108.png",
+        "Singular_cn": "\u53f6\u5927\u5996",
+        "Singular_de": "Koloss-Korpokkur",
+        "Singular_en": "korpokkur kolossus",
+        "Singular_fr": "poro-korpokkur",
+        "Singular_ja": "\u30cf\u30b3\u30dc\u30c3\u30af\u30eb",
+        "Singular_ko": "\ud070\uba38\uc704 \uc694\uc815"
+    },
+    "143": {
+        "0xID": "8F",
+        "Icon": "ui/icon/004000/004109.png",
+        "Singular_cn": "\u8d64\u5154\u9a6c",
+        "Singular_de": "Feuerross",
+        "Singular_en": "Red Hare",
+        "Singular_fr": "Li\u00e8vre rouge",
+        "Singular_ja": "\u8d64\u514e\u99ac",
+        "Singular_ko": "\uc801\ud1a0\ub9c8"
+    },
+    "144": {
+        "0xID": "90",
+        "Icon": "ui/icon/004000/004110.png",
+        "Singular_cn": "\u767d\u5e1d\u795e\u5a01",
+        "Singular_de": "Gl\u00fccklicher Kamuy",
+        "Singular_en": "auspicious kamuy",
+        "Singular_fr": "kamuy de l'ouest",
+        "Singular_ja": "\u767d\u306e\u30ab\u30e0\u30a4",
+        "Singular_ko": "\ubc31\ud638\uc758 \uacac\uc2e0"
+    },
+    "145": {
+        "0xID": "91",
+        "Icon": "ui/icon/004000/004111.png",
+        "Singular_cn": "\u62d8\u675f\u578b\u9b54\u5bfc\u6b7b\u4ea1\u722a",
+        "Singular_de": "Magitek-Todesklaue",
+        "Singular_en": "magitek death claw",
+        "Singular_fr": "griffe d'arrestation magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30c7\u30b9\u30af\u30ed\u30fc\u62d8\u675f\u578b",
+        "Singular_ko": "\ub9c8\ub3c4 \uc8fd\uc74c\uc190\uc544\uadc0 \uad6c\uc18d\ud615"
+    },
+    "146": {
+        "0xID": "92",
+        "Icon": "ui/icon/004000/004112.png",
+        "Singular_cn": "\u9b54\u8c61",
+        "Singular_de": "Maride",
+        "Singular_en": "marid",
+        "Singular_fr": "marid",
+        "Singular_ja": "\u30de\u30fc\u30ea\u30c9",
+        "Singular_ko": "\ub9c8\ub9ac\ub4dc"
+    },
+    "147": {
+        "0xID": "93",
+        "Icon": "",
+        "Singular_cn": "\u529b\u6c14\u5927\u7684\u9b54\u8c61",
+        "Singular_de": "Maride",
+        "Singular_en": "marid",
+        "Singular_fr": "marid musculeux",
+        "Singular_ja": "\u529b\u81ea\u6162\u306e\u30de\u30fc\u30ea\u30c9",
+        "Singular_ko": "\ud798\uc13c \ub9c8\ub9ac\ub4dc"
+    },
+    "148": {
+        "0xID": "94",
+        "Icon": "ui/icon/004000/004113.png",
+        "Singular_cn": "\u771f\u72ee\u9e6b",
+        "Singular_de": "Urgreif",
+        "Singular_en": "true griffin",
+        "Singular_fr": "vrai griffon",
+        "Singular_ja": "\u30c8\u30a5\u30eb\u30fc\u30b0\u30ea\u30d5\u30a3\u30f3",
+        "Singular_ko": "\uc21c\uc885 \uadf8\ub9ac\ud540"
+    },
+    "149": {
+        "0xID": "95",
+        "Icon": "",
+        "Singular_cn": "\u771f\u72ee\u9e6b",
+        "Singular_de": "Urgreif",
+        "Singular_en": "true griffin",
+        "Singular_fr": "vrai griffon",
+        "Singular_ja": "\u30c8\u30a5\u30eb\u30fc\u30b0\u30ea\u30d5\u30a3\u30f3",
+        "Singular_ko": "\uc21c\uc885 \uadf8\ub9ac\ud540"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/004000/004007.png",
+        "Singular_cn": "\u72ec\u89d2\u517d",
+        "Singular_de": "Einhorn",
+        "Singular_en": "unicorn",
+        "Singular_fr": "licorne",
+        "Singular_ja": "\u30e6\u30cb\u30b3\u30fc\u30f3",
+        "Singular_ko": "\uc720\ub2c8\ucf58"
+    },
+    "150": {
+        "0xID": "96",
+        "Icon": "ui/icon/004000/004116.png",
+        "Singular_cn": "\u66b4\u9f99",
+        "Singular_de": "Tyrannosaurus",
+        "Singular_en": "tyrannosaur",
+        "Singular_fr": "tyrannosaure",
+        "Singular_ja": "\u30c6\u30a3\u30e9\u30ce\u30b5\u30a6\u30eb\u30b9",
+        "Singular_ko": "\ud2f0\ub77c\ub178\uc0ac\uc6b0\ub8e8\uc2a4"
+    },
+    "151": {
+        "0xID": "97",
+        "Icon": "ui/icon/004000/004138.png",
+        "Singular_cn": "\u96f7\u8fe6\u5229\u4e9aG\u578b",
+        "Singular_de": "Regalia Typ-G",
+        "Singular_en": "Regalia Type-G",
+        "Singular_fr": "Regalia Type-G",
+        "Singular_ja": "\u30ec\u30ac\u30ea\u30a2 TYPE-G",
+        "Singular_ko": "\ub808\uac08\ub9ac\uc544 TYPE-G"
+    },
+    "152": {
+        "0xID": "98",
+        "Icon": "ui/icon/004000/004114.png",
+        "Singular_cn": "\u98de\u5929\u534a\u5fc3\u6905\uff08\u53f3\uff09",
+        "Singular_de": "Gebrochenes Herz (rechts)",
+        "Singular_en": "broken heart (right)",
+        "Singular_fr": "fauteuil demi-c\u0153ur droit volant",
+        "Singular_ja": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30fb\u30e9\u30a4\u30c8\u30cf\u30fc\u30c8",
+        "Singular_ko": "\uc624\ub978\ucabd \ud558\ud2b8 \ube44\ud589\uc758\uc790"
+    },
+    "153": {
+        "0xID": "99",
+        "Icon": "ui/icon/004000/004115.png",
+        "Singular_cn": "\u98de\u5929\u534a\u5fc3\u6905\uff08\u5de6\uff09",
+        "Singular_de": "Gebrochenes Herz (links)",
+        "Singular_en": "broken heart (left)",
+        "Singular_fr": "fauteuil demi-c\u0153ur gauche volant",
+        "Singular_ja": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30fb\u30ec\u30d5\u30c8\u30cf\u30fc\u30c8",
+        "Singular_ko": "\uc67c\ucabd \ud558\ud2b8 \ube44\ud589\uc758\uc790"
+    },
+    "154": {
+        "0xID": "9A",
+        "Icon": "ui/icon/004000/004136.png",
+        "Singular_cn": "\u63d0\u4e30\u8001\u5e08",
+        "Singular_de": "Meister Typhon",
+        "Singular_en": "Typhon",
+        "Singular_fr": "Ma\u00eetre Typhon",
+        "Singular_ja": "\u30c6\u30e5\u30dd\u30fc\u30f3\u5148\u751f",
+        "Singular_ko": "\ud2f0\ud3f0 \uc120\uc0dd\ub2d8"
+    },
+    "155": {
+        "0xID": "9B",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "156": {
+        "0xID": "9C",
+        "Icon": "ui/icon/004000/004117.png",
+        "Singular_cn": "\u7a7a\u519b\u88c5\u7532",
+        "Singular_de": "Luftwaffe",
+        "Singular_en": "Air Force",
+        "Singular_fr": "force a\u00e9rienne",
+        "Singular_ja": "\u30a8\u30a2\u30d5\u30a9\u30fc\u30b9",
+        "Singular_ko": "\uc5d0\uc5b4\ud3ec\uc2a4"
+    },
+    "157": {
+        "0xID": "9D",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "158": {
+        "0xID": "9E",
+        "Icon": "ui/icon/004000/004127.png",
+        "Singular_cn": "\u5e7d\u591c\u795e\u5a01",
+        "Singular_de": "Lunarischer Kamuy",
+        "Singular_en": "lunar kamuy",
+        "Singular_fr": "kamuy de la nuit",
+        "Singular_ja": "\u591c\u306e\u30ab\u30e0\u30a4",
+        "Singular_ko": "\uce20\ucfe0\uc694\ubbf8\uc758 \uacac\uc2e0"
+    },
+    "159": {
+        "0xID": "9F",
+        "Icon": "ui/icon/004000/004122.png",
+        "Singular_cn": "\u6e21\u6e21\u9e1f",
+        "Singular_de": "Dodo",
+        "Singular_en": "dodo",
+        "Singular_fr": "dodo",
+        "Singular_ja": "\u30c9\u30fc\u30c9\u30fc",
+        "Singular_ko": "\ub3c4\ub3c4"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "160": {
+        "0xID": "A0",
+        "Icon": "ui/icon/004000/004119.png",
+        "Singular_cn": "\u987b\u9cb8",
+        "Singular_de": "Indigo-Wal",
+        "Singular_en": "Indigo whale",
+        "Singular_fr": "baleine",
+        "Singular_ja": "\u30db\u30a8\u30fc\u30eb",
+        "Singular_ko": "\uace0\ub798"
+    },
+    "161": {
+        "0xID": "A1",
+        "Icon": "ui/icon/004000/004125.png",
+        "Singular_cn": "\u706b\u9f99",
+        "Singular_de": "Rathalos",
+        "Singular_en": "Rathalos",
+        "Singular_fr": "Rathalos",
+        "Singular_ja": "\u30ea\u30aa\u30ec\u30a6\u30b9",
+        "Singular_ko": "\ub9ac\uc624\ub808\uc6b0\uc2a4"
+    },
+    "162": {
+        "0xID": "A2",
+        "Icon": "ui/icon/004000/004123.png",
+        "Singular_cn": "\u9b54\u5bfc\u8fd0\u8f93\u5668",
+        "Singular_de": "Magitek-Transporter",
+        "Singular_en": "magitek conveyor",
+        "Singular_fr": "transporteur magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30ad\u30e3\u30ea\u30a2\u30fc",
+        "Singular_ko": "\ub9c8\ub3c4 \uce90\ub9ac\uc5b4"
+    },
+    "163": {
+        "0xID": "A3",
+        "Icon": "ui/icon/004000/004124.png",
+        "Singular_cn": "\u539f\u578b\u8fd0\u8f93\u5668",
+        "Singular_de": "Proto-Transporter",
+        "Singular_en": "prototype conveyor",
+        "Singular_fr": "transporteur prototype",
+        "Singular_ja": "\u30d7\u30ed\u30c8\u30ad\u30e3\u30ea\u30a2\u30fc",
+        "Singular_ko": "\ud504\ub85c\ud1a0 \uce90\ub9ac\uc5b4"
+    },
+    "164": {
+        "0xID": "A4",
+        "Icon": "ui/icon/004000/004118.png",
+        "Singular_cn": "\u5de8\u9cb6\u9c7c\u795e\u8f7f",
+        "Singular_de": "Namazuo-Mikoshi",
+        "Singular_en": "mikoshi",
+        "Singular_fr": "mikoshi",
+        "Singular_ja": "\u30aa\u30aa\u30ca\u30de\u30ba\u5fa1\u8f3f",
+        "Singular_ko": "\ud070\uba54\uae30 \uac00\ub9c8"
+    },
+    "165": {
+        "0xID": "A5",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "166": {
+        "0xID": "A6",
+        "Icon": "ui/icon/004000/004126.png",
+        "Singular_cn": "\u7edd\u5730",
+        "Singular_de": "Juedi",
+        "Singular_en": "Juedi",
+        "Singular_fr": "Juedi",
+        "Singular_ja": "\u7d76\u5730",
+        "Singular_ko": "\uc808\uc9c0"
+    },
+    "167": {
+        "0xID": "A7",
+        "Icon": "ui/icon/004000/004121.png",
+        "Singular_cn": "\u8f93\u9001\u7cfb\u7edf",
+        "Singular_de": "Logistikmodul",
+        "Singular_en": "logistics node",
+        "Singular_fr": "module de transport sph\u00e9rique",
+        "Singular_ja": "\u8f38\u9001\u30b7\u30b9\u30c6\u30e0",
+        "Singular_ko": ""
+    },
+    "168": {
+        "0xID": "A8",
+        "Icon": "ui/icon/004000/004120.png",
+        "Singular_cn": "\u62a4\u9001\u7cfb\u7edf",
+        "Singular_de": "Sicherheitssystem",
+        "Singular_en": "safeguard system",
+        "Singular_fr": "module d'escorte sph\u00e9rique",
+        "Singular_ja": "\u8b77\u9001\u30b7\u30b9\u30c6\u30e0",
+        "Singular_ko": "\ud638\uc1a1 \uc2dc\uc2a4\ud15c"
+    },
+    "169": {
+        "0xID": "A9",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "170": {
+        "0xID": "AA",
+        "Icon": "ui/icon/004000/004128.png",
+        "Singular_cn": "\u683c\u62c9\u5c3c",
+        "Singular_de": "Grani",
+        "Singular_en": "Grani",
+        "Singular_fr": "Grani",
+        "Singular_ja": "\u30b0\u30e9\u30cb",
+        "Singular_ko": "\uadf8\ub77c\ub2c8"
+    },
+    "171": {
+        "0xID": "AB",
+        "Icon": "ui/icon/004000/004129.png",
+        "Singular_cn": "\u732b\u5927\u80d6",
+        "Singular_de": "Fette Katze",
+        "Singular_en": "fatter cat",
+        "Singular_fr": "tr\u00e8s gros minou",
+        "Singular_ja": "\u30d3\u30c3\u30b0\u30fb\u30d5\u30a1\u30c3\u30c8\u30ad\u30e3\u30c3\u30c8",
+        "Singular_ko": "\ud070\ub6b1\ub0e5\uc774"
+    },
+    "172": {
+        "0xID": "AC",
+        "Icon": "ui/icon/004000/004130.png",
+        "Singular_cn": "\u6731\u7130\u795e\u5a01",
+        "Singular_de": "Feuriger Kamuy",
+        "Singular_en": "euphonious kamuy",
+        "Singular_fr": "kamuy du sud",
+        "Singular_ja": "\u6731\u306e\u30ab\u30e0\u30a4",
+        "Singular_ko": "\uc8fc\uc791\uc758 \uacac\uc2e0"
+    },
+    "173": {
+        "0xID": "AD",
+        "Icon": "ui/icon/004000/004131.png",
+        "Singular_cn": "\u6b27\u7c73\u8304",
+        "Singular_de": "Modell O",
+        "Singular_en": "Model O",
+        "Singular_fr": "Om\u00e9ga prime",
+        "Singular_ja": "\u30aa\u30e1\u30ac",
+        "Singular_ko": "\uc624\uba54\uac00"
+    },
+    "174": {
+        "0xID": "AE",
+        "Icon": "ui/icon/004000/004132.png",
+        "Singular_cn": "\u9b54\u5bfc\u6d6e\u7a7a\u88c5\u7532",
+        "Singular_de": "Magitek-Himmelspanzer",
+        "Singular_en": "magitek sky armor",
+        "Singular_fr": "armure a\u00e9rienne magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30b9\u30ab\u30a4\u30a2\u30fc\u30de\u30fc",
+        "Singular_ko": "\ub9c8\ub3c4 \uc2a4\uce74\uc774\uc544\uba38"
+    },
+    "175": {
+        "0xID": "AF",
+        "Icon": "ui/icon/004000/004147.png",
+        "Singular_cn": "\u9b54\u6cd5\u98de\u6bef",
+        "Singular_de": "Fliegender Teppich",
+        "Singular_en": "magicked carpet",
+        "Singular_fr": "tapis magique",
+        "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30ab\u30fc\u30da\u30c3\u30c8",
+        "Singular_ko": "\ub9c8\ubc95 \uc591\ud0c4\uc790"
+    },
+    "176": {
+        "0xID": "B0",
+        "Icon": "ui/icon/004000/004133.png",
+        "Singular_cn": "\u9b54\u5bfc\u673a\u8f66\u5927\u9b54",
+        "Singular_de": "Magna Rotula",
+        "Singular_en": "magna roader",
+        "Singular_fr": "magna rouleur magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30de\u30b0\u30ca\u30ed\u30fc\u30c0\u30fc",
+        "Singular_ko": "\ub9c8\ub3c4 \ub9c8\uadf8\ub098\ub85c\ub354"
+    },
+    "177": {
+        "0xID": "B1",
+        "Icon": "ui/icon/004000/004134.png",
+        "Singular_cn": "\u9ed1\u8272\u80d6\u9646\u884c\u9e1f",
+        "Singular_de": "Schwarzer Chocomoppel",
+        "Singular_en": "fat black chocobo",
+        "Singular_fr": "gros chocobo noir",
+        "Singular_ja": "\u3067\u3076\u9ed2\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\uac80\uc740 \ub6b1\ubcf4\ucd08\ucf54\ubcf4"
+    },
+    "178": {
+        "0xID": "B2",
+        "Icon": "ui/icon/004000/004137.png",
+        "Singular_cn": "\u706b\u5de8\u4eba",
+        "Singular_de": "Eldthurs",
+        "Singular_en": "Eldthurs",
+        "Singular_fr": "Eldthurs",
+        "Singular_ja": "\u30a8\u30eb\u30c9\u30b9\u30eb\u30b9",
+        "Singular_ko": "\uc5d8\ub4dc\ud22c\ub974\uc2a4"
+    },
+    "179": {
+        "0xID": "B3",
+        "Icon": "ui/icon/004000/004139.png",
+        "Singular_cn": "\u6539\u826f\u578b\u9b54\u5bfc\u673a\u8f66\u5927\u9b54",
+        "Singular_de": "Magna Rotula X",
+        "Singular_en": "maxima roader",
+        "Singular_fr": "magna rouleur magitek plus",
+        "Singular_ja": "\u9b54\u5c0e\u30de\u30b0\u30ca\u30ed\u30fc\u30c0\u30fc\u6539",
+        "Singular_ko": "\uac1c\ub7c9\ud615 \ub9c8\ub3c4 \ub9c8\uadf8\ub098\ub85c\ub354"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/004000/004008.png",
+        "Singular_cn": "\u8d1d\u5e0c\u6469\u65af",
+        "Singular_de": "Behemoth",
+        "Singular_en": "behemoth",
+        "Singular_fr": "b\u00e9h\u00e9moth",
+        "Singular_ja": "\u30d9\u30d2\u30fc\u30e2\u30b9",
+        "Singular_ko": "\ubca0\ud788\ubaa8\uc2a4"
+    },
+    "180": {
+        "0xID": "B4",
+        "Icon": "ui/icon/004000/004140.png",
+        "Singular_cn": "\u5e1d\u738b\u4ed9\u4eba\u523a",
+        "Singular_de": "Imperator Kaktor",
+        "Singular_en": "Sabotender Emperador",
+        "Singular_fr": "pampa emperador",
+        "Singular_ja": "\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc\u30fb\u30a8\u30f3\u30da\u30e9\u30c9\u30fc\u30eb",
+        "Singular_ko": "\uc0ac\ubcf4\ud150\ub354 \uc81c\uc655"
+    },
+    "181": {
+        "0xID": "B5",
+        "Icon": "ui/icon/004000/004141.png",
+        "Singular_cn": "\u4e5d\u5c3e\u795e\u5a01",
+        "Singular_de": "Neunschw\u00e4nziger Kamuy",
+        "Singular_en": "kamuy of the Nine Tails",
+        "Singular_fr": "kamuy \u00e0 neuf queues",
+        "Singular_ja": "\u4e5d\u5c3e\u306e\u30ab\u30e0\u30a4",
+        "Singular_ko": "\uad6c\ubbf8\ud638"
+    },
+    "182": {
+        "0xID": "B6",
+        "Icon": "ui/icon/004000/004142.png",
+        "Singular_cn": "\u9752\u541b\u795e\u5a01",
+        "Singular_de": "Blauer Kamuy",
+        "Singular_en": "hallowed kamuy",
+        "Singular_fr": "kamuy de l'est",
+        "Singular_ja": "\u9752\u306e\u30ab\u30e0\u30a4",
+        "Singular_ko": "\uccad\ub8e1\uc758 \uacac\uc2e0"
+    },
+    "183": {
+        "0xID": "B7",
+        "Icon": "ui/icon/004000/004143.png",
+        "Singular_cn": "\u6218\u864e",
+        "Singular_de": "S\u00e4belzahntiger",
+        "Singular_en": "war tiger",
+        "Singular_fr": "tigre de guerre",
+        "Singular_ja": "\u30a6\u30a9\u30fc\u30bf\u30a4\u30ac\u30fc",
+        "Singular_ko": "\uc804\ud22c\ud638\ub791\uc774"
+    },
+    "184": {
+        "0xID": "B8",
+        "Icon": "ui/icon/004000/004144.png",
+        "Singular_cn": "\u4f18\u96f7\u5361\u76d0\u84dd\u71d5",
+        "Singular_de": "Eureka-Schwalbe",
+        "Singular_en": "Eurekan petrel",
+        "Singular_fr": "hirondelle d'Eur\u00eaka",
+        "Singular_ja": "\u30a8\u30a6\u30ec\u30ab\u30b9\u30ef\u30ed\u30fc",
+        "Singular_ko": "\uc5d0\uc6b0\ub808\uce74 \uc81c\ube44"
+    },
+    "185": {
+        "0xID": "B9",
+        "Icon": "ui/icon/004000/004145.png",
+        "Singular_cn": "\u9b54\u5bfc\u590d\u4ec7\u8005\u5bd2\u51b7\u5730\u533a\u7279\u5236\u578b",
+        "Singular_de": "K\u00e4lteresistenter Magitek-R\u00e4cher",
+        "Singular_en": "magitek avenger A1",
+        "Singular_fr": "vengeur magitek anti-froid",
+        "Singular_ja": "\u9b54\u5c0e\u30a2\u30f4\u30a7\u30f3\u30b8\u30e3\u30fc\u5bd2\u51b7\u5730\u4ed5\u69d8",
+        "Singular_ko": "\ud55c\ub7ad\uc9c0\uc6a9 \ub9c8\ub3c4 \uc5b4\ubca4\uc800"
+    },
+    "186": {
+        "0xID": "BA",
+        "Icon": "ui/icon/004000/004146.png",
+        "Singular_cn": "\u534a\u7075\u5965\u5179\u739b",
+        "Singular_de": "Demi-Yadis",
+        "Singular_en": "Demi-Ozma",
+        "Singular_fr": "demi-Ozma",
+        "Singular_ja": "\u30c7\u30df\u30aa\u30ba\u30de",
+        "Singular_ko": "\ub370\ubbf8\uc624\uc988\ub9c8"
+    },
+    "187": {
+        "0xID": "BB",
+        "Icon": "ui/icon/004000/004156.png",
+        "Singular_cn": "\u963f\u9a6c\u7f57",
+        "Singular_de": "Amaro",
+        "Singular_en": "amaro",
+        "Singular_fr": "amaro",
+        "Singular_ja": "\u30a2\u30de\u30ed",
+        "Singular_ko": "\uc544\ub9c8\ub85c"
+    },
+    "188": {
+        "0xID": "BC",
+        "Icon": "ui/icon/004000/004149.png",
+        "Singular_cn": "\u6c14\u57ab\u8239",
+        "Singular_de": "W\u00fcstengleiter",
+        "Singular_en": "skyslipper",
+        "Singular_fr": "a\u00e9roglisseur",
+        "Singular_ja": "\u30db\u30d0\u30fc\u8239",
+        "Singular_ko": "\ubd80\uc720\uc120"
+    },
+    "189": {
+        "0xID": "BD",
+        "Icon": "ui/icon/004000/004148.png",
+        "Singular_cn": "\u4ed9\u5b50\u73b2\u9f99",
+        "Singular_de": "Pixie-Gwiber",
+        "Singular_en": "fae gwiber",
+        "Singular_fr": "dragon pixie",
+        "Singular_ja": "\u30d4\u30af\u30b7\u30fc\u30b0\u30a4\u30d9\u30eb",
+        "Singular_ko": "\ud2f0\ud0c0\ub2c8\uc544 \uadc0\ubca0\ub974"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/004000/004009.png",
+        "Singular_cn": "\u5175\u961f\u706b\u86df",
+        "Singular_de": "Reit-Drakon",
+        "Singular_en": "cavalry drake",
+        "Singular_fr": "draconide de cavalerie",
+        "Singular_ja": "\u30ad\u30e3\u30d0\u30eb\u30ea\u30fc\u30fb\u30c9\u30ec\u30a4\u30af",
+        "Singular_ko": "\ud6c8\ub828\ub41c \ub3c4\ub9c8\ubc40"
+    },
+    "190": {
+        "0xID": "BE",
+        "Icon": "ui/icon/004000/004150.png",
+        "Singular_cn": "\u4e09\u89d2\u9f99",
+        "Singular_de": "Triceratops",
+        "Singular_en": "triceratops",
+        "Singular_fr": "tric\u00e9ratops",
+        "Singular_ja": "\u30c8\u30ea\u30b1\u30e9\u30c8\u30d7\u30b9",
+        "Singular_ko": "\ud2b8\ub9ac\ucf00\ub77c\ud1b1\uc2a4"
+    },
+    "191": {
+        "0xID": "BF",
+        "Icon": "ui/icon/004000/004151.png",
+        "Singular_cn": "\u9752\u86d9\u53f7M",
+        "Singular_de": "Eisenfrosch",
+        "Singular_en": "ironfrog mover",
+        "Singular_fr": "grenouilleur M",
+        "Singular_ja": "\u30d5\u30ed\u30c3\u30ac\u30fcM",
+        "Singular_ko": "\ucca0\uac1c\uad6c\ub9ac M"
+    },
+    "192": {
+        "0xID": "C0",
+        "Icon": "ui/icon/004000/004153.png",
+        "Singular_cn": "\u65e0\u7455\u73b2\u9f99",
+        "Singular_de": "Innozenz-Gwiber",
+        "Singular_en": "innocent gwiber",
+        "Singular_fr": "dragon immacul\u00e9",
+        "Singular_ja": "\u30a4\u30ce\u30bb\u30f3\u30c8\u30b0\u30a4\u30d9\u30eb",
+        "Singular_ko": "\uc774\ub178\uc13c\uc2a4 \uadc0\ubca0\ub974"
+    },
+    "193": {
+        "0xID": "C1",
+        "Icon": "ui/icon/004000/004152.png",
+        "Singular_cn": "\u9b54\u6cd5\u98de\u5e8a",
+        "Singular_de": "Zauberbett",
+        "Singular_en": "magicked bed",
+        "Singular_fr": "lit magique",
+        "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30d9\u30c3\u30c9",
+        "Singular_ko": "\ub9c8\ubc95 \uce68\ub300"
+    },
+    "194": {
+        "0xID": "C2",
+        "Icon": "ui/icon/004000/004154.png",
+        "Singular_cn": "\u5927\u9646\u4e4b\u773c",
+        "Singular_de": "Circus-Ahriman",
+        "Singular_en": "Circus ahriman",
+        "Singular_fr": "ahriman du Cirque",
+        "Singular_ja": "\u30b3\u30f3\u30c1\u30cd\u30f3\u30bf\u30eb\u30fb\u30a2\u30fc\u30ea\u30de\u30f3",
+        "Singular_ko": "\ub300\ub959\uae30\uc608\ub2e8 \uc544\ub9ac\ub9cc"
+    },
+    "195": {
+        "0xID": "C3",
+        "Icon": "ui/icon/004000/004155.png",
+        "Singular_cn": "\u91d1\u6597\u4e91",
+        "Singular_de": "Goldener Kumulus",
+        "Singular_en": "sunspun cumulus",
+        "Singular_fr": "nuage magique dor\u00e9",
+        "Singular_ja": "\u91d1\u6597\u96f2",
+        "Singular_ko": "\uae08\ub450\uc6b4"
+    },
+    "196": {
+        "0xID": "C4",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "197": {
+        "0xID": "C5",
+        "Icon": "ui/icon/004000/004157.png",
+        "Singular_cn": "\u6597\u864e",
+        "Singular_de": "Kampftiger",
+        "Singular_en": "battle tiger",
+        "Singular_fr": "tigre de combat",
+        "Singular_ja": "\u30d0\u30c8\u30eb\u30bf\u30a4\u30ac\u30fc",
+        "Singular_ko": "\uc804\uc7c1\ud638\ub791\uc774"
+    },
+    "198": {
+        "0xID": "C6",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "199": {
+        "0xID": "C7",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/004000/004010.png",
+        "Singular_cn": "\u6708\u6842\u51a0\u53e4\u83e9\u7329\u7329",
+        "Singular_de": "Lorbeer-Goobbue",
+        "Singular_en": "laurel goobbue",
+        "Singular_fr": "goobbue couronn\u00e9",
+        "Singular_ja": "\u30ed\u30fc\u30ec\u30eb\u30fb\u30b0\u30a5\u30fc\u30d6\u30fc",
+        "Singular_ko": "\uc6d4\uacc4\uc218 \uad6c\ubd80"
+    },
+    "200": {
+        "0xID": "C8",
+        "Icon": "ui/icon/004000/004158.png",
+        "Singular_cn": "\u9b54\u754c\u82b1",
+        "Singular_de": "Morbol",
+        "Singular_en": "morbol",
+        "Singular_fr": "morbol",
+        "Singular_ja": "\u30e2\u30eb\u30dc\u30eb",
+        "Singular_ko": "\ubab0\ubcfc"
+    },
+    "201": {
+        "0xID": "C9",
+        "Icon": "ui/icon/004000/004159.png",
+        "Singular_cn": "\u732a\u5927\u4ed9",
+        "Singular_de": "Stattliche Quiexie",
+        "Singular_en": "portly porxie",
+        "Singular_fr": "porxie potel\u00e9",
+        "Singular_ja": "\u30d5\u30a1\u30c3\u30c8\u30dd\u30fc\u30af\u30b7\u30fc",
+        "Singular_ko": "\ub6b1\ud3ec\ud06c\uc2dc"
+    },
+    "202": {
+        "0xID": "CA",
+        "Icon": "ui/icon/004000/004160.png",
+        "Singular_cn": "\u5384\u6bd7\u7c73\u4fee\u65af",
+        "Singular_de": "Epimetheus",
+        "Singular_en": "Epimetheus",
+        "Singular_fr": "Epimetheus",
+        "Singular_ja": "\u30a8\u30d4\u30e1\u30c6\u30a6\u30b9",
+        "Singular_ko": "\uc5d0\ud53c\uba54\ud14c\uc6b0\uc2a4"
+    },
+    "203": {
+        "0xID": "CB",
+        "Icon": "ui/icon/004000/004161.png",
+        "Singular_cn": "\u58a8\u8bfa\u63d0\u4fc4\u65af",
+        "Singular_de": "Menoetius",
+        "Singular_en": "Menoetius",
+        "Singular_fr": "Menoetius",
+        "Singular_ja": "\u30e1\u30ce\u30a4\u30c6\u30a3\u30aa\u30b9",
+        "Singular_ko": "\uba54\ub178\uc774\ud2f0\uc624\uc2a4"
+    },
+    "204": {
+        "0xID": "CC",
+        "Icon": "ui/icon/004000/004162.png",
+        "Singular_cn": "\u5efa\u7b517\u53f7",
+        "Singular_de": "Konstrukt7",
+        "Singular_en": "Construct VII",
+        "Singular_fr": "constructeur 07",
+        "Singular_ja": "\u30b3\u30f3\u30b9\u30c8\u30e9\u30af\u30c807",
+        "Singular_ko": "\uac74\uc124 07\ud638"
+    },
+    "205": {
+        "0xID": "CD",
+        "Icon": "ui/icon/004000/004163.png",
+        "Singular_cn": "\u6697\u5f71\u73b2\u9f99",
+        "Singular_de": "Schatten-Gwiber",
+        "Singular_en": "shadow gwiber",
+        "Singular_fr": "dragon ombrag\u00e9",
+        "Singular_ja": "\u30b7\u30e3\u30c9\u30a6\u30b0\u30a4\u30d9\u30eb",
+        "Singular_ko": "\uadf8\ub9bc\uc790 \uadc0\ubca0\ub974"
+    },
+    "206": {
+        "0xID": "CE",
+        "Icon": "ui/icon/004000/004164.png",
+        "Singular_cn": "\u642c\u8fd0\u9b54\u77f3\u7cbe",
+        "Singular_de": "Tr\u00e4ger-Spriggan",
+        "Singular_en": "spriggan stonecarrier",
+        "Singular_fr": "spriggan porte-pierre",
+        "Singular_ja": "\u30b9\u30d7\u30ea\u30ac\u30f3\u30fb\u30ad\u30e3\u30ea\u30a2\u30fc",
+        "Singular_ko": "\uc2a4\ud504\ub9ac\uac74 \uc6b4\ubc18\uafbc"
+    },
+    "207": {
+        "0xID": "CF",
+        "Icon": "ui/icon/004000/004165.png",
+        "Singular_cn": "\u5f97\u5230\u5bbd\u6055\u7684\u6c89\u9ed8",
+        "Singular_de": "Gel\u00e4uterte Sprachlosigkeit",
+        "Singular_en": "forgiven reticence",
+        "Singular_fr": "R\u00e9ticence pardonn\u00e9e",
+        "Singular_ja": "\u30d5\u30a9\u30fc\u30ae\u30f4\u30f3\u30fb\u30ec\u30c6\u30a3\u30bb\u30f3\u30b9",
+        "Singular_ko": "\uba74\uc8c4\ub41c \uacfc\ubb35"
+    },
+    "208": {
+        "0xID": "D0",
+        "Icon": "ui/icon/004000/004166.png",
+        "Singular_cn": "\u957f\u9888\u9a7c",
+        "Singular_de": "Dhalmel",
+        "Singular_en": "dhalmel",
+        "Singular_fr": "dhalmel",
+        "Singular_ja": "\u30c0\u30eb\u30e1\u30eb",
+        "Singular_ko": "\ub2ec\uba5c"
+    },
+    "209": {
+        "0xID": "D1",
+        "Icon": "ui/icon/004000/004167.png",
+        "Singular_cn": "\u767d\u5316\u9ed1\u7f8a",
+        "Singular_de": "Albino-Karakul",
+        "Singular_en": "albino karakul",
+        "Singular_fr": "karakul albinos",
+        "Singular_ja": "\u30a2\u30eb\u30d3\u30ce\u30ab\u30e9\u30af\u30fc\u30eb",
+        "Singular_ko": "\ubc31\uc0c9\uc99d \uac80\uc740\uc591"
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/004000/004011.png",
+        "Singular_cn": "\u9b54\u5bfc\u88c5\u7532\u4e19\u578b",
+        "Singular_de": "Typ C-Magitek-Kampfmaschine",
+        "Singular_en": "gilded magitek armor",
+        "Singular_fr": "armure magitek type C",
+        "Singular_ja": "C\u5f0f\u9b54\u5c0e\u30a2\u30fc\u30de\u30fc",
+        "Singular_ko": "C\uc2dd \ub9c8\ub3c4 \uc544\uba38"
+    },
+    "210": {
+        "0xID": "D2",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "211": {
+        "0xID": "D3",
+        "Icon": "ui/icon/004000/004168.png",
+        "Singular_cn": "\u5deb\u83f2\u63d0",
+        "Singular_de": "Ufiti",
+        "Singular_en": "ufiti",
+        "Singular_fr": "ufiti",
+        "Singular_ja": "\u30a6\u30d5\u30a3\u30c6\u30a3",
+        "Singular_ko": "\uc6b0\ud53c\ud2f0"
+    },
+    "212": {
+        "0xID": "D4",
+        "Icon": "ui/icon/004000/004208.png",
+        "Singular_cn": "\u6050\u722a\u9f99",
+        "Singular_de": "Deinonychus",
+        "Singular_en": "deinonychus",
+        "Singular_fr": "deinonychus",
+        "Singular_ja": "\u30c7\u30a3\u30ce\u30cb\u30af\u30b9",
+        "Singular_ko": "\ub370\uc774\ub178\ub2c8\ucfe0\uc2a4"
+    },
+    "213": {
+        "0xID": "D5",
+        "Icon": "ui/icon/004000/004175.png",
+        "Singular_cn": "\u52b3\u52a8\u5341\u56db\u53f7",
+        "Singular_de": "Automat Nr. 14",
+        "Singular_en": "Construct 14",
+        "Singular_fr": "b\u00e2tisseur n\u00b014",
+        "Singular_ja": "\u52b4\u50cd\u5341\u56db\u53f7",
+        "Singular_ko": "\ub178\ub3d9 14\ud638"
+    },
+    "214": {
+        "0xID": "D6",
+        "Icon": "ui/icon/004000/004176.png",
+        "Singular_cn": "\u738b\u5b54\u96c0",
+        "Singular_de": "K\u00f6nigspfau",
+        "Singular_en": "kingly peacock",
+        "Singular_fr": "paon roi",
+        "Singular_ja": "\u738b\u5b54\u96c0",
+        "Singular_ko": "\uc655\uacf5\uc791"
+    },
+    "215": {
+        "0xID": "D7",
+        "Icon": "ui/icon/004000/004174.png",
+        "Singular_cn": "\u6c34\u86c7\u5927\u4eba\u7684\u7f50\u5b50",
+        "Singular_de": "Urne der Wasserschlange",
+        "Singular_en": "Great Vessel of Ronka",
+        "Singular_fr": "jarre du Serpent marin",
+        "Singular_ja": "\u6c34\u86c7\u69d8\u306e\u58fa",
+        "Singular_ko": "\ubb3c\ubc40\ub2d8 \ud56d\uc544\ub9ac"
+    },
+    "216": {
+        "0xID": "D8",
+        "Icon": "ui/icon/004000/004169.png",
+        "Singular_cn": "\u65e0\u9f7f\u7ffc\u9f99",
+        "Singular_de": "Pteranodon",
+        "Singular_en": "pteranodon",
+        "Singular_fr": "pt\u00e9ranodon",
+        "Singular_ja": "\u30d7\u30c6\u30e9\u30ce\u30c9\u30f3",
+        "Singular_ko": "\ud504\ud14c\ub77c\ub178\ub3c8"
+    },
+    "217": {
+        "0xID": "D9",
+        "Icon": "ui/icon/004000/004170.png",
+        "Singular_cn": "\u7ea2\u5b9d\u77f3\u73b2\u9f99",
+        "Singular_de": "Rubin-Gwiber",
+        "Singular_en": "ruby gwiber",
+        "Singular_fr": "dragon rubis",
+        "Singular_ja": "\u30eb\u30d3\u30fc\u30b0\u30a4\u30d9\u30eb",
+        "Singular_ko": "\ub8e8\ube44 \uadc0\ubca0\ub974"
+    },
+    "218": {
+        "0xID": "DA",
+        "Icon": "ui/icon/004000/004171.png",
+        "Singular_cn": "\u5f13\u9c9b",
+        "Singular_de": "Hybodus",
+        "Singular_en": "hybodus",
+        "Singular_fr": "hybodus",
+        "Singular_ja": "\u30d2\u30dc\u30c9\u30a5\u30b9",
+        "Singular_ko": "\ud788\ubcf4\ub450\uc2a4"
+    },
+    "219": {
+        "0xID": "DB",
+        "Icon": "ui/icon/004000/004172.png",
+        "Singular_cn": "\u62c9\u59c6",
+        "Singular_de": "Ramuh",
+        "Singular_en": "Ramuh",
+        "Singular_fr": "Ramuh",
+        "Singular_ja": "\u30e9\u30e0\u30a6",
+        "Singular_ko": "\ub77c\ubb34"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/004000/004012.png",
+        "Singular_cn": "\u68a6\u9b47",
+        "Singular_de": "Albtraum",
+        "Singular_en": "nightmare",
+        "Singular_fr": "alicorne de jais",
+        "Singular_ja": "\u30ca\u30a4\u30c8\u30e1\u30a2",
+        "Singular_ko": "\ub098\uc774\ud2b8\uba54\uc5b4"
+    },
+    "220": {
+        "0xID": "DC",
+        "Icon": "ui/icon/004000/004173.png",
+        "Singular_cn": "\u7ea2\u7535\u6c14\u5b9d\u77f3\u517d",
+        "Singular_de": "Rubellit-Karfunkel",
+        "Singular_en": "Rubellite Carbuncle",
+        "Singular_fr": "Carbuncle rubellite",
+        "Singular_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30eb\u30d9\u30e9\u30a4\u30c8",
+        "Singular_ko": "\uce74\ubc99\ud074 \ub8e8\ubca8\ub77c\uc774\ud2b8"
+    },
+    "221": {
+        "0xID": "DD",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "222": {
+        "0xID": "DE",
+        "Icon": "ui/icon/004000/004177.png",
+        "Singular_cn": "\u9646\u884c\u9e1f\u7bf7\u8f66",
+        "Singular_de": "Chocobo-Kutsche",
+        "Singular_en": "chocobo carriage",
+        "Singular_fr": "chococaravane",
+        "Singular_ja": "\u30c1\u30e7\u30b3\u30dc\u30ad\u30e3\u30ea\u30c3\u30b8",
+        "Singular_ko": "\ucd08\ucf54\ubcf4 \ub9c8\ucc28"
+    },
+    "223": {
+        "0xID": "DF",
+        "Icon": "ui/icon/004000/004178.png",
+        "Singular_cn": "\u77ee\u4eba\u6218\u8f66",
+        "Singular_de": "Zwergenpanzer",
+        "Singular_en": "Rolling Tankard",
+        "Singular_fr": "automatank",
+        "Singular_ja": "\u30c9\u30ef\u30fc\u30d5\u6226\u8eca",
+        "Singular_ko": "\ub4dc\uc6cc\ud504 \uc804\ucc28"
+    },
+    "224": {
+        "0xID": "E0",
+        "Icon": "ui/icon/004000/004179.png",
+        "Singular_cn": "\u52a0\u767e\u5217\u03b1",
+        "Singular_de": "Gabriel \u03b1",
+        "Singular_en": "Gabriel \u03b1",
+        "Singular_fr": "Gabriel \u03b1",
+        "Singular_ja": "\u30ac\u30d6\u30ea\u30a8\u30eb\u03b1",
+        "Singular_ko": "\uac00\ube0c\ub9ac\uc5d8 \u03b1"
+    },
+    "225": {
+        "0xID": "E1",
+        "Icon": "ui/icon/004000/004180.png",
+        "Singular_cn": "\u7855\u5c71\u7f8a",
+        "Singular_de": "Megalotragus",
+        "Singular_en": "megalotragus",
+        "Singular_fr": "m\u00e9galotragus",
+        "Singular_ja": "\u30e1\u30ac\u30ed\u30c8\u30e9\u30b0\u30b9",
+        "Singular_ko": "\uba54\uac08\ub85c\ud2b8\ub77c\uad6c\uc2a4"
+    },
+    "226": {
+        "0xID": "E2",
+        "Icon": "ui/icon/004000/004181.png",
+        "Singular_cn": "\u5149\u4e4b\u73b2\u9f99",
+        "Singular_de": "Gwiber des Lichts",
+        "Singular_en": "gwiber of light",
+        "Singular_fr": "dragon de la Lumi\u00e8re",
+        "Singular_ja": "\u30b0\u30a4\u30d9\u30eb\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Singular_ko": "\ube5b\uc758 \uadc0\ubca0\ub974"
+    },
+    "227": {
+        "0xID": "E3",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "228": {
+        "0xID": "E4",
+        "Icon": "ui/icon/004000/004182.png",
+        "Singular_cn": "\u5730\u7f1a\u732b\u6c99\u53d1",
+        "Singular_de": "Jibanyan-Sofa",
+        "Singular_en": "Jibanyan couch",
+        "Singular_fr": "fauteuil Jibanyan",
+        "Singular_ja": "\u30b8\u30d0\u30cb\u30e3\u30f3\u30bd\u30d5\u30a1",
+        "Singular_ko": "\uc9c0\ubc14\ub0e5 \uc18c\ud30c"
+    },
+    "229": {
+        "0xID": "E5",
+        "Icon": "ui/icon/004000/004183.png",
+        "Singular_cn": "\u6539\u826f\u578b\u9b54\u5bfc\u8fd0\u8f93\u5668",
+        "Singular_de": "Magitek-Transporter NEO",
+        "Singular_en": "magitek hyperconveyor",
+        "Singular_fr": "transporteur magitek am\u00e9lior\u00e9",
+        "Singular_ja": "\u9b54\u5c0e\u30ad\u30e3\u30ea\u30a2\u30fc\u6539",
+        "Singular_ko": "\uac1c\ub7c9\ud615 \ub9c8\ub3c4 \uce90\ub9ac\uc5b4"
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "230": {
+        "0xID": "E6",
+        "Icon": "ui/icon/004000/004184.png",
+        "Singular_cn": "\u827e\u5c14\u00b7\u56fe",
+        "Singular_de": "Ehll Tou",
+        "Singular_en": "Ehll Tou",
+        "Singular_fr": "Ehll Tou",
+        "Singular_ja": "\u30a8\u30eb\u30fb\u30c8\u30a5",
+        "Singular_ko": "\uc5d8 \ud22c"
+    },
+    "231": {
+        "0xID": "E7",
+        "Icon": "ui/icon/004000/004185.png",
+        "Singular_cn": "\u82f1\u897f\u5854\u571f\u65af",
+        "Singular_de": "Incitatus",
+        "Singular_en": "Incitatus",
+        "Singular_fr": "Incitatus",
+        "Singular_ja": "\u30a4\u30f3\u30ad\u30bf\u30c8\u30a5\u30b9",
+        "Singular_ko": "\uc778\ud0a4\ud0c0\ud22c\uc2a4"
+    },
+    "232": {
+        "0xID": "E8",
+        "Icon": "ui/icon/004000/004186.png",
+        "Singular_cn": "\u96ea\u4eba",
+        "Singular_de": "Schneemann",
+        "Singular_en": "snowman",
+        "Singular_fr": "bonhomme de neige",
+        "Singular_ja": "\u30b9\u30ce\u30fc\u30de\u30f3",
+        "Singular_ko": "\ub208\uc0ac\ub78c"
+    },
+    "233": {
+        "0xID": "E9",
+        "Icon": "ui/icon/004000/004187.png",
+        "Singular_cn": "\u771f\u6708\u9b54\u5bfc\u9cb8",
+        "Singular_de": "Mondwal",
+        "Singular_en": "Lunar Whale",
+        "Singular_fr": "baleine lunaire",
+        "Singular_ja": "\u30eb\u30ca\u30db\u30a8\u30fc\u30eb",
+        "Singular_ko": "\ub2ec\uace0\ub798"
+    },
+    "234": {
+        "0xID": "EA",
+        "Icon": "ui/icon/004000/004188.png",
+        "Singular_cn": "\u4f0a\u7538",
+        "Singular_de": "Eden",
+        "Singular_en": "Eden",
+        "Singular_fr": "\u00c9den",
+        "Singular_ja": "\u30a8\u30c7\u30f3",
+        "Singular_ko": "\uc5d0\ub374"
+    },
+    "235": {
+        "0xID": "EB",
+        "Icon": "ui/icon/004000/004189.png",
+        "Singular_cn": "\u523b\u8033\u67cf\u6d1b\u65af",
+        "Singular_de": "Cerberus",
+        "Singular_en": "Cerberus",
+        "Singular_fr": "Cerb\u00e8re",
+        "Singular_ja": "\u30b1\u30eb\u30d9\u30ed\u30b9",
+        "Singular_ko": "\ucf00\ub974\ubca0\ub85c\uc2a4"
+    },
+    "236": {
+        "0xID": "EC",
+        "Icon": "ui/icon/004000/004190.png",
+        "Singular_cn": "\u5927\u58f3\u87f9",
+        "Singular_de": "Riesenkrabbe",
+        "Singular_en": "big shell",
+        "Singular_fr": "coqu\u00e9norme",
+        "Singular_ja": "\u30d3\u30c3\u30b0\u30b7\u30a7\u30eb",
+        "Singular_ko": "\ud070\ub531\uc9c0\uac8c"
+    },
+    "237": {
+        "0xID": "ED",
+        "Icon": "ui/icon/004000/004191.png",
+        "Singular_cn": "\u963f\u91cc\u7fc1",
+        "Singular_de": "Areion",
+        "Singular_en": "Arion",
+        "Singular_fr": "Arion",
+        "Singular_ja": "\u30a2\u30ec\u30a4\u30aa\u30f3",
+        "Singular_ko": "\uc544\ub9ac\uc628"
+    },
+    "238": {
+        "0xID": "EE",
+        "Icon": "ui/icon/004000/004192.png",
+        "Singular_cn": "\u7eff\u5b9d\u77f3\u73b2\u9f99",
+        "Singular_de": "Smaragd-Gwiber",
+        "Singular_en": "emerald gwiber",
+        "Singular_fr": "dragon \u00e9meraude",
+        "Singular_ja": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30a4\u30d9\u30eb",
+        "Singular_ko": "\uc5d0\uba54\ub784\ub4dc \uadc0\ubca0\ub974"
+    },
+    "239": {
+        "0xID": "EF",
+        "Icon": "ui/icon/004000/004193.png",
+        "Singular_cn": "\u539f\u578b\u9b54\u5bfc\u673a\u8f66\u5927\u9b54",
+        "Singular_de": "Proto-Magna Rotula",
+        "Singular_en": "prototype roader",
+        "Singular_fr": "proto-magna rouleur magitek",
+        "Singular_ja": "\u30d7\u30ed\u30c8\u30de\u30b0\u30ca\u30ed\u30fc\u30c0\u30fc",
+        "Singular_ko": "\ud504\ub85c\ud1a0 \ub9c8\uadf8\ub098\ub85c\ub354"
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "240": {
+        "0xID": "F0",
+        "Icon": "ui/icon/004000/004194.png",
+        "Singular_cn": "\u5de7\u514b\u529b\u5c0f\u5996",
+        "Singular_de": "Chokorpokkur",
+        "Singular_en": "chocorpokkur",
+        "Singular_fr": "choco-korpokkur",
+        "Singular_ja": "\u30c1\u30e7\u30b3\u30ed\u30dd\u30c3\u30af\u30eb",
+        "Singular_ko": "\ucd08\ucf54\uc78e \uc694\uc815"
+    },
+    "241": {
+        "0xID": "F1",
+        "Icon": "ui/icon/004000/004195.png",
+        "Singular_cn": "\u52a0\u767e\u5217III\u53f7\u673a",
+        "Singular_de": "Gabriel III",
+        "Singular_en": "Gabriel Mark III",
+        "Singular_fr": "Gabriel v3",
+        "Singular_ja": "\u30ac\u30d6\u30ea\u30a8\u30ebIII\u53f7\u6a5f",
+        "Singular_ko": "\uac00\ube0c\ub9ac\uc5d8 III\ud638\uae30"
+    },
+    "242": {
+        "0xID": "F2",
+        "Icon": "ui/icon/004000/004197.png",
+        "Singular_cn": "\u96cc\u7f9a\u7f8a",
+        "Singular_de": "Antilopenkuh",
+        "Singular_en": "antelope doe",
+        "Singular_fr": "antilope biche",
+        "Singular_ja": "\u30a2\u30f3\u30c6\u30ed\u30fc\u30d7\u30fb\u30c9\u30a5",
+        "Singular_ko": "\uc554\uc601\uc591"
+    },
+    "243": {
+        "0xID": "F3",
+        "Icon": "ui/icon/004000/004198.png",
+        "Singular_cn": "\u96c4\u7f9a\u7f8a",
+        "Singular_de": "Antilopenbock",
+        "Singular_en": "antelope stag",
+        "Singular_fr": "antilope cerf",
+        "Singular_ja": "\u30a2\u30f3\u30c6\u30ed\u30fc\u30d7\u30fb\u30b9\u30bf\u30c3\u30b0",
+        "Singular_ko": "\uc218\uc601\uc591"
+    },
+    "244": {
+        "0xID": "F4",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "245": {
+        "0xID": "F5",
+        "Icon": "ui/icon/004000/004199.png",
+        "Singular_cn": "\u9ed1\u94a2\u673a\u9f99\u8fde\u8fbe\u5df4\u975e",
+        "Singular_de": "Mechamander",
+        "Singular_en": "Landerwaffe",
+        "Singular_fr": "Landerwaffe",
+        "Singular_ja": "\u30ec\u30f3\u30c0\u30fc\u30d0\u30c3\u30d5\u30a7",
+        "Singular_ko": "\ub80c\ub354\ubc14\ud398"
+    },
+    "246": {
+        "0xID": "F6",
+        "Icon": "ui/icon/004000/004200.png",
+        "Singular_cn": "\u738b\u51a0\u53f7",
+        "Singular_de": "Ikril",
+        "Singular_en": "Al-iklil",
+        "Singular_fr": "Iklil",
+        "Singular_ja": "\u30a4\u30af\u30ea\u30fc\u30eb",
+        "Singular_ko": "\uc774\ud06c\ub9b4"
+    },
+    "247": {
+        "0xID": "F7",
+        "Icon": "ui/icon/004000/004201.png",
+        "Singular_cn": "\u5de1\u822a\u9a71\u9010\u8005",
+        "Singular_de": "Chaser",
+        "Singular_en": "Cruise Chaser",
+        "Singular_fr": "croiseur-chasseur",
+        "Singular_ja": "\u30af\u30eb\u30fc\u30ba\u30c1\u30a7\u30a4\u30b5\u30fc",
+        "Singular_ko": "\uc21c\ud56d\ucd94\uaca9\uae30"
+    },
+    "248": {
+        "0xID": "F8",
+        "Icon": "ui/icon/004000/004196.png",
+        "Singular_cn": "\u5efa\u7b5106S\u53f7",
+        "Singular_de": "Konstrukt6S",
+        "Singular_en": "Construct VI-S",
+        "Singular_fr": "constructeur 06S",
+        "Singular_ja": "\u30b3\u30f3\u30b9\u30c8\u30e9\u30af\u30c806S",
+        "Singular_ko": "\uac74\uc124 06S\ud638"
+    },
+    "249": {
+        "0xID": "F9",
+        "Icon": "ui/icon/004000/004209.png",
+        "Singular_cn": "\u94bb\u77f3\u73b2\u9f99",
+        "Singular_de": "Diamant-Gwiber",
+        "Singular_en": "diamond gwiber",
+        "Singular_fr": "dragon diamant",
+        "Singular_ja": "\u30c0\u30a4\u30e4\u30b0\u30a4\u30d9\u30eb",
+        "Singular_ko": "\ub2e4\uc774\uc544\ubaac\ub4dc \uadc0\ubca0\ub974"
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/004000/004013.png",
+        "Singular_cn": "\u80d6\u9646\u884c\u9e1f",
+        "Singular_de": "Chocomoppel",
+        "Singular_en": "fat chocobo",
+        "Singular_fr": "gros chocobo",
+        "Singular_ja": "\u3067\u3076\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ub6b1\ubcf4\ucd08\ucf54\ubcf4"
+    },
+    "250": {
+        "0xID": "FA",
+        "Icon": "ui/icon/004000/004210.png",
+        "Singular_cn": "\u6781\u5730\u718a",
+        "Singular_de": "Eisb\u00e4r",
+        "Singular_en": "polar bear",
+        "Singular_fr": "ours polaire",
+        "Singular_ja": "\u30dd\u30fc\u30e9\u30fc\u30d9\u30a2\u30fc",
+        "Singular_ko": "\ubd81\uadf9\uacf0"
+    },
+    "251": {
+        "0xID": "FB",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "252": {
+        "0xID": "FC",
+        "Icon": "ui/icon/004000/004211.png",
+        "Singular_cn": "\u5de8\u9cb6\u9c7c\u91d1\u8f7f",
+        "Singular_de": "Gold-Mikoshi",
+        "Singular_en": "gilded mikoshi",
+        "Singular_fr": "mikoshi dor\u00e9",
+        "Singular_ja": "\u30aa\u30aa\u30ca\u30de\u30ad\u30f3\u5fa1\u8f3f",
+        "Singular_ko": "\uae08\ubc15 \ud070\uba54\uae30 \uac00\ub9c8"
+    },
+    "253": {
+        "0xID": "FD",
+        "Icon": "ui/icon/004000/004212.png",
+        "Singular_cn": "\u91d1\u86c7\u5927\u4eba\u7684\u7f50\u5b50",
+        "Singular_de": "Urne der goldenen Wasserschlange",
+        "Singular_en": "Resplendent Vessel of Ronka",
+        "Singular_fr": "jarre du Serpent dor\u00e9",
+        "Singular_ja": "\u91d1\u86c7\u69d8\u306e\u58fa",
+        "Singular_ko": "\uae08\ubc40\ub2d8 \ud56d\uc544\ub9ac"
+    },
+    "254": {
+        "0xID": "FE",
+        "Icon": "ui/icon/004000/004213.png",
+        "Singular_cn": "\u9b54\u6cd5\u5e7b\u5361",
+        "Singular_de": "Magische Karte",
+        "Singular_en": "magicked card",
+        "Singular_fr": "carte magique",
+        "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30ab\u30fc\u30c9",
+        "Singular_ko": "\ub9c8\ubc95 \uce74\ub4dc"
+    },
+    "255": {
+        "0xID": "FF",
+        "Icon": "ui/icon/004000/004202.png",
+        "Singular_cn": "\u6d77\u5c9b\u8513\u5fb7\u62c9",
+        "Singular_de": "Paradies-Mandragora",
+        "Singular_en": "island mandragora",
+        "Singular_fr": "mandragore insulaire",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30fb\u30de\u30f3\u30c9\u30e9\u30b4\u30e9",
+        "Singular_ko": "\uc12c \ub9cc\ub4dc\ub77c\uace0\ub77c"
+    },
+    "256": {
+        "0xID": "100",
+        "Icon": "ui/icon/004000/004203.png",
+        "Singular_cn": "\u6d77\u5c9b\u6d0b\u8471\u738b\u5b50",
+        "Singular_de": "Prinz Paradieszwiebel",
+        "Singular_en": "island Onion Prince",
+        "Singular_fr": "Prince oignon insulaire",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30fb\u30aa\u30cb\u30aa\u30f3\u30d7\u30ea\u30f3\u30b9",
+        "Singular_ko": "\uc12c \uc591\ud30c \uc655\uc790"
+    },
+    "257": {
+        "0xID": "101",
+        "Icon": "ui/icon/004000/004204.png",
+        "Singular_cn": "\u6d77\u5c9b\u8304\u5b50\u9a91\u58eb",
+        "Singular_de": "Ritter Paradiesaubergine",
+        "Singular_en": "island Eggplant Knight",
+        "Singular_fr": "Chevalier aubergine insulaire",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30fb\u30a8\u30c3\u30b0\u30ca\u30a4\u30c8",
+        "Singular_ko": "\uc12c \uac00\uc9c0 \uae30\uc0ac"
+    },
+    "258": {
+        "0xID": "102",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "259": {
+        "0xID": "103",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/004000/004014.png",
+        "Singular_cn": "\u5175\u961f\u6c34\u9f99\u8725",
+        "Singular_de": "Kavallerie-Elbst",
+        "Singular_en": "cavalry elbst",
+        "Singular_fr": "elbst de cavalerie",
+        "Singular_ja": "\u30ad\u30e3\u30d0\u30eb\u30ea\u30fc\u30fb\u30a8\u30eb\u30d6\u30b9\u30c8",
+        "Singular_ko": "\ud6c8\ub828\ub41c \uc5d8\ube0c\uc2a4\ud2b8"
+    },
+    "260": {
+        "0xID": "104",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "261": {
+        "0xID": "105",
+        "Icon": "ui/icon/004000/004214.png",
+        "Singular_cn": "\u6c38\u6697\u731e\u7301",
+        "Singular_de": "Umbral-Luchs",
+        "Singular_en": "lynx of eternal darkness",
+        "Singular_fr": "lynx des T\u00e9n\u00e8bres \u00e9ternelles",
+        "Singular_ja": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30c0\u30fc\u30af\u30cd\u30b9\u30fb\u30ea\u30f3\u30af\u30b9",
+        "Singular_ko": "\uc601\uc6d0\ud55c \uc5b4\ub460 \uc2a4\ub77c\uc18c\ub2c8"
+    },
+    "262": {
+        "0xID": "106",
+        "Icon": "ui/icon/004000/004215.png",
+        "Singular_cn": "\u5723\u5149\u731e\u7301",
+        "Singular_de": "Astral-Luchs",
+        "Singular_en": "lynx of divine light",
+        "Singular_fr": "lynx de la Lumi\u00e8re divine",
+        "Singular_ja": "\u30c7\u30a3\u30f4\u30a1\u30a4\u30f3\u30e9\u30a4\u30c8\u30fb\u30ea\u30f3\u30af\u30b9",
+        "Singular_ko": "\uc2e0\uc131\ud55c \ube5b \uc2a4\ub77c\uc18c\ub2c8"
+    },
+    "263": {
+        "0xID": "107",
+        "Icon": "ui/icon/004000/004216.png",
+        "Singular_cn": "\u963f\u5c14\u6208\u65af",
+        "Singular_de": "Argos",
+        "Singular_en": "Argos",
+        "Singular_fr": "Argos",
+        "Singular_ja": "\u30a2\u30eb\u30b4\u30b9",
+        "Singular_ko": "\uc544\ub974\uace0\uc2a4"
+    },
+    "264": {
+        "0xID": "108",
+        "Icon": "ui/icon/004000/004217.png",
+        "Singular_cn": "\u6050\u614c\u88c5\u7532",
+        "Singular_de": "Brummonaut",
+        "Singular_en": "dreadnaught",
+        "Singular_fr": "cuirass\u00e9 Dreadnaught",
+        "Singular_ja": "\u30c9\u30ec\u30c3\u30c9\u30ce\u30fc\u30c8",
+        "Singular_ko": "\ub4dc\ub808\ub4dc\ub178\ud2b8"
+    },
+    "265": {
+        "0xID": "109",
+        "Icon": "ui/icon/004000/004218.png",
+        "Singular_cn": "\u4e9a\u7075\u83f2\u5c3c\u514b\u53f8",
+        "Singular_de": "Demi-Phoinix",
+        "Singular_en": "Demi-Phoinix",
+        "Singular_fr": "demi-protoph\u00e9nix",
+        "Singular_ja": "\u30c7\u30df\u30d5\u30a7\u30cd\u30af\u30b9",
+        "Singular_ko": "\ub370\ubbf8\ud398\ub125\uc2a4"
+    },
+    "266": {
+        "0xID": "10A",
+        "Icon": "ui/icon/004000/004219.png",
+        "Singular_cn": "\u5361\u5415\u51ac\u5824\u65af",
+        "Singular_de": "Calydontis",
+        "Singular_en": "Calydontis",
+        "Singular_fr": "Calydontis",
+        "Singular_ja": "\u30ab\u30ea\u30e5\u30c9\u30f3\u30c6\u30a3\u30b9",
+        "Singular_ko": "\uce7c\ub9ac\ub3c8\ud2f0\uc2a4"
+    },
+    "267": {
+        "0xID": "10B",
+        "Icon": "ui/icon/004000/004220.png",
+        "Singular_cn": "\u4f18\u80dc\u72ac",
+        "Singular_de": "Victor",
+        "Singular_en": "Victor",
+        "Singular_fr": "Victor",
+        "Singular_ja": "\u30f4\u30a3\u30af\u30c8\u30eb",
+        "Singular_ko": "\ube45\ud1a0\ub974"
+    },
+    "268": {
+        "0xID": "10C",
+        "Icon": "ui/icon/004000/004221.png",
+        "Singular_cn": "\u7b49\u7ea7\u68c0\u6d4b\u4eea",
+        "Singular_de": "Monitor",
+        "Singular_en": "level checker",
+        "Singular_fr": "v\u00e9rifiniveau",
+        "Singular_ja": "\u30ec\u30d9\u30eb\u30c1\u30a7\u30c3\u30ab\u30fc",
+        "Singular_ko": "\ub808\ubca8 \uce21\uc815\uae30"
+    },
+    "269": {
+        "0xID": "10D",
+        "Icon": "ui/icon/004000/004222.png",
+        "Singular_cn": "\u7334\u9762\u7238\u7238",
+        "Singular_de": "Papa Paissa",
+        "Singular_en": "Papa Paissa",
+        "Singular_fr": "Papa Pa\u00efssa",
+        "Singular_ja": "\u30d1\u30d1\u30fb\u30d1\u30a4\u30c3\u30b5",
+        "Singular_ko": "\uc544\ube60 \ud30c\uc774\uc2f8"
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/004000/004015.png",
+        "Singular_cn": "\u7206\u5f39\u540a\u6905",
+        "Singular_de": "Bomber-S\u00e4nfte",
+        "Singular_en": "bomb palanquin",
+        "Singular_fr": "balancelle bombo",
+        "Singular_ja": "\u30dc\u30e0\u30d0\u30eb\u30fc\u30f3",
+        "Singular_ko": "\ubd04 \ubc8c\ub8ec"
+    },
+    "270": {
+        "0xID": "10E",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "271": {
+        "0xID": "10F",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "272": {
+        "0xID": "110",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "273": {
+        "0xID": "111",
+        "Icon": "ui/icon/004000/004223.png",
+        "Singular_cn": "\u7280\u8734",
+        "Singular_de": "Wivre",
+        "Singular_en": "wivre",
+        "Singular_fr": "wivre",
+        "Singular_ja": "\u30a6\u30a3\u30f4\u30eb",
+        "Singular_ko": "\ucf54\ubfd4\ub3c4\ub9c8\ubc40"
+    },
+    "274": {
+        "0xID": "112",
+        "Icon": "ui/icon/004000/004224.png",
+        "Singular_cn": "\u4ed9\u5b50\u732a\u5927\u738b",
+        "Singular_de": "Quiexie-K\u00f6nig",
+        "Singular_en": "porxie king",
+        "Singular_fr": "porxie royal",
+        "Singular_ja": "\u30ad\u30f3\u30b0\u30dd\u30fc\u30af\u30b7\u30fc",
+        "Singular_ko": "\ub300\uc655 \ud3ec\ud06c\uc2dc"
+    },
+    "275": {
+        "0xID": "113",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "276": {
+        "0xID": "114",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "277": {
+        "0xID": "115",
+        "Icon": "ui/icon/004000/004235.png",
+        "Singular_cn": "\u52a0\u9686\u5fb7GL-II",
+        "Singular_de": "Garlond GL-II",
+        "Singular_en": "Garlond GL-II",
+        "Singular_fr": "Garlond GL-II",
+        "Singular_ja": "\u30ac\u30fc\u30ed\u30f3\u30c9GL-II",
+        "Singular_ko": "\uac08\ub860\ub4dc GL-II"
+    },
+    "278": {
+        "0xID": "116",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "279": {
+        "0xID": "117",
+        "Icon": "ui/icon/004000/004098.png",
+        "Singular_cn": "\u673a\u5de7\u83b2\u5ea7",
+        "Singular_de": "Lotusflitzer",
+        "Singular_en": "mechanical lotus",
+        "Singular_fr": "lotus m\u00e9canique",
+        "Singular_ja": "\u7d61\u7e70\u84ee\u83ef",
+        "Singular_ko": "\uae30\uacc4 \uc5f0\uaf43"
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/004000/004016.png",
+        "Singular_cn": "\u706b\u5996\u9a6c\u57c3\u9a6e\u6069",
+        "Singular_de": "Aithon",
+        "Singular_en": "Aithon",
+        "Singular_fr": "Aithon",
+        "Singular_ja": "\u30a2\u30a4\u30c8\u30fc\u30f3",
+        "Singular_ko": "\uc544\uc774\ud1a4"
+    },
+    "280": {
+        "0xID": "118",
+        "Icon": "ui/icon/004000/004225.png",
+        "Singular_cn": "\u83f2\u5c14\u4e9a",
+        "Singular_de": "Fylgja",
+        "Singular_en": "Fylgja",
+        "Singular_fr": "Fylgja",
+        "Singular_ja": "\u30d5\u30a3\u30eb\u30ae\u30e3",
+        "Singular_ko": "\ud4d4\uae30\uc57c"
+    },
+    "281": {
+        "0xID": "119",
+        "Icon": "ui/icon/004000/004226.png",
+        "Singular_cn": "\u963f\u5c14\u79d1\u8bfa\u65af\u7279",
+        "Singular_de": "Alkonost",
+        "Singular_en": "alkonost",
+        "Singular_fr": "alkonost",
+        "Singular_ja": "\u30a2\u30eb\u30b3\u30ce\u30b9\u30c8",
+        "Singular_ko": "\uc54c\ucf54\ub178\uc2a4\ud2b8"
+    },
+    "282": {
+        "0xID": "11A",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "283": {
+        "0xID": "11B",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "284": {
+        "0xID": "11C",
+        "Icon": "ui/icon/004000/004227.png",
+        "Singular_cn": "\u8f85\u52a9\u673a602",
+        "Singular_de": "Pod 602",
+        "Singular_en": "pod 602",
+        "Singular_fr": "pod 602",
+        "Singular_ja": "\u30dd\u30c3\u30c9602",
+        "Singular_ko": "\ud3ec\ub4dc 602"
+    },
+    "285": {
+        "0xID": "11D",
+        "Icon": "ui/icon/004000/004245.png",
+        "Singular_cn": "",
+        "Singular_de": "Mondhopper",
+        "Singular_en": "moon-hopper",
+        "Singular_fr": "bondisseur lunaire",
+        "Singular_ja": "\u30e0\u30fc\u30f3\u30db\u30c3\u30d1\u30fc",
+        "Singular_ko": ""
+    },
+    "286": {
+        "0xID": "11E",
+        "Icon": "ui/icon/004000/004255.png",
+        "Singular_cn": "\u6d77\u5c9b\u77ed\u543b\u9cc4",
+        "Singular_de": "Insel-Alligator",
+        "Singular_en": "island alligator",
+        "Singular_fr": "alligator insulaire",
+        "Singular_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30fb\u30a2\u30ea\u30b2\u30fc\u30bf\u30fc",
+        "Singular_ko": ""
+    },
+    "287": {
+        "0xID": "11F",
+        "Icon": "ui/icon/004000/004228.png",
+        "Singular_cn": "\u6cb3\u9a6c\u8f66",
+        "Singular_de": "Hippowagen",
+        "Singular_en": "hippo cart",
+        "Singular_fr": "hippochar",
+        "Singular_ja": "\u30d2\u30c3\u30dd\u30ab\u30fc\u30c8",
+        "Singular_ko": "\ud558\ub9c8 \ub9c8\ucc28"
+    },
+    "288": {
+        "0xID": "120",
+        "Icon": "ui/icon/004000/004229.png",
+        "Singular_cn": "\u5de8\u9b54",
+        "Singular_de": "Troll",
+        "Singular_en": "troll",
+        "Singular_fr": "troll",
+        "Singular_ja": "\u30c8\u30ed\u30eb",
+        "Singular_ko": "\ud2b8\ub864"
+    },
+    "289": {
+        "0xID": "121",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/004000/004017.png",
+        "Singular_cn": "\u98ce\u5996\u9a6c\u523b\u6851\u56fe\u53f8",
+        "Singular_de": "Xanthos",
+        "Singular_en": "Xanthos",
+        "Singular_fr": "Xanthos",
+        "Singular_ja": "\u30af\u30b5\u30f3\u30c8\u30b9",
+        "Singular_ko": "\ud06c\uc0b0\ud1a0\uc2a4"
+    },
+    "290": {
+        "0xID": "122",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "291": {
+        "0xID": "123",
+        "Icon": "ui/icon/004000/004231.png",
+        "Singular_cn": "\u918b\u874e\u9f99",
+        "Singular_de": "Gei\u00dfelskorpion",
+        "Singular_en": "vinegaroon",
+        "Singular_fr": "vinaigrier",
+        "Singular_ja": "\u30d3\u30cd\u30ac\u30ed\u30f3",
+        "Singular_ko": "\uc2dd\ucd08\uc804\uac08\uc6a9"
+    },
+    "292": {
+        "0xID": "124",
+        "Icon": "ui/icon/004000/004232.png",
+        "Singular_cn": "",
+        "Singular_de": "Orthos-Kraklaw",
+        "Singular_en": "Orthos craklaw",
+        "Singular_fr": "craqulov Orthos",
+        "Singular_ja": "\u30aa\u30eb\u30c8\u30fb\u30af\u30e9\u30c3\u30af\u30ed\u30fc",
+        "Singular_ko": ""
+    },
+    "293": {
+        "0xID": "125",
+        "Icon": "ui/icon/004000/004233.png",
+        "Singular_cn": "\u84dd\u7fbd\u731e\u7301",
+        "Singular_de": "Blaufeder-Luchs",
+        "Singular_en": "bluefeather lynx",
+        "Singular_fr": "lynx au pelage bleu",
+        "Singular_ja": "\u30d6\u30eb\u30fc\u30d5\u30a7\u30b6\u30fc\u30fb\u30ea\u30f3\u30af\u30b9",
+        "Singular_ko": "\ud30c\ub780\uae43 \uc2a4\ub77c\uc18c\ub2c8"
+    },
+    "294": {
+        "0xID": "126",
+        "Icon": "ui/icon/004000/004234.png",
+        "Singular_cn": "\u5927\u5927\u67f4",
+        "Singular_de": "Megashiba",
+        "Singular_en": "megashiba",
+        "Singular_fr": "m\u00e9gashiba",
+        "Singular_ja": "\u5927\u67f4\u72ac",
+        "Singular_ko": "\uac70\ub300\uc2dc\ubc14"
+    },
+    "295": {
+        "0xID": "127",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "296": {
+        "0xID": "128",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "297": {
+        "0xID": "129",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "298": {
+        "0xID": "12A",
+        "Icon": "ui/icon/004000/004236.png",
+        "Singular_cn": "\u7f2a\u00b7\u7f2a\u54bb",
+        "Singular_de": "Miw Miisv",
+        "Singular_en": "Miw Miisv",
+        "Singular_fr": "miw miisv",
+        "Singular_ja": "\u30df\u30a5\u30fb\u30df\u30fc\u30b7\u30e5",
+        "Singular_ko": "\ubbf8\uc6b0 \ubbf8\uc26c"
+    },
+    "299": {
+        "0xID": "12B",
+        "Icon": "ui/icon/004000/004237.png",
+        "Singular_cn": "\u5e7b\u5947\u730e\u9e70",
+        "Singular_de": "Wunderlanner",
+        "Singular_en": "wondrous lanner",
+        "Singular_fr": "lanier merveilleux",
+        "Singular_ja": "\u30ef\u30f3\u30c0\u30e9\u30b9\u30e9\u30ca\u30fc",
+        "Singular_ko": "\uacf5\uc0c1 \uc1a1\uace8\ub9e4"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/004000/004018.png",
+        "Singular_cn": "\u571f\u5996\u9a6c\u53e4\u5c14\u6cd5\u514b\u897f",
+        "Singular_de": "Gullfaxi",
+        "Singular_en": "Gullfaxi",
+        "Singular_fr": "Gullfaxi",
+        "Singular_ja": "\u30b0\u30eb\u30d5\u30a1\u30af\u30b7",
+        "Singular_ko": "\uad74\ud30d\uc2dc"
+    },
+    "300": {
+        "0xID": "12C",
+        "Icon": "ui/icon/004000/004238.png",
+        "Singular_cn": "\u9b54\u6cd5\u96e8\u4f1e",
+        "Singular_de": "Magischer Regenschirm",
+        "Singular_en": "magicked umbrella",
+        "Singular_fr": "parapluie enchant\u00e9",
+        "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30a2\u30f3\u30d6\u30ec\u30e9",
+        "Singular_ko": "\u30de\u30b8\u30c3\u30af\u30a2\u30f3\u30d6\u30ec\u30e9"
+    },
+    "301": {
+        "0xID": "12D",
+        "Icon": "ui/icon/004000/004239.png",
+        "Singular_cn": "\u9b54\u6cd5\u9633\u4f1e",
+        "Singular_de": "Magischer Parasol",
+        "Singular_en": "magicked parasol",
+        "Singular_fr": "parasol enchant\u00e9",
+        "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30d1\u30e9\u30bd\u30eb",
+        "Singular_ko": "\u30de\u30b8\u30c3\u30af\u30d1\u30e9\u30bd\u30eb"
+    },
+    "302": {
+        "0xID": "12E",
+        "Icon": "ui/icon/004000/004240.png",
+        "Singular_cn": "\u5e7b\u8c61\u95ea\u7535",
+        "Singular_de": "Sternenlicht-Blitzen",
+        "Singular_en": "Starlight steed",
+        "Singular_fr": "Blitzen illusoire",
+        "Singular_ja": "\u30df\u30e9\u30fc\u30b8\u30e5\u30fb\u30d6\u30ea\u30c3\u30c4\u30a7\u30f3",
+        "Singular_ko": "\ud658\uc601 \ube14\ub9ac\uccb8"
+    },
+    "303": {
+        "0xID": "12F",
+        "Icon": "ui/icon/004000/004243.png",
+        "Singular_cn": "\u5e0c\u62c9\u72c4\u54c8\u738b\u5ea7",
+        "Singular_de": "Thron von Sil'dih",
+        "Singular_en": "Sil'dihn throne",
+        "Singular_fr": "tr\u00f4ne sildien",
+        "Singular_ja": "\u30b7\u30e9\u30c7\u30a3\u30f3\u30fb\u30b9\u30ed\u30fc\u30f3",
+        "Singular_ko": "\uc2e4\ub514\ud558 \uc625\uc88c"
+    },
+    "304": {
+        "0xID": "130",
+        "Icon": "ui/icon/004000/004244.png",
+        "Singular_cn": "\u7fbd\u8863\u7cbe",
+        "Singular_de": "Silkie",
+        "Singular_en": "silkie",
+        "Singular_fr": "Silkie",
+        "Singular_ja": "\u30b7\u30eb\u30ad\u30fc",
+        "Singular_ko": "\uc2e4\ud0a4"
+    },
+    "305": {
+        "0xID": "131",
+        "Icon": "ui/icon/004000/004241.png",
+        "Singular_cn": "\u708e\u7075\u517d",
+        "Singular_de": "Glutgeborene",
+        "Singular_en": "sunforged",
+        "Singular_fr": "b\u00eate en flammes",
+        "Singular_ja": "\u708e\u970a\u7363",
+        "Singular_ko": "\uc5fc\ub839\uc218"
+    },
+    "306": {
+        "0xID": "132",
+        "Icon": "ui/icon/004000/004242.png",
+        "Singular_cn": "\u715e\u98ce\u731e\u7301",
+        "Singular_de": "Sturmwind-Luchs",
+        "Singular_en": "lynx of imperious wind",
+        "Singular_fr": "lynx des vents temp\u00e9tueux",
+        "Singular_ja": "\u30ea\u30f3\u30af\u30b9\u30fb\u30aa\u30d6\u30fb\u30a6\u30a3\u30f3\u30c9",
+        "Singular_ko": "\ubc14\ub78c \uc2a4\ub77c\uc18c\ub2c8"
+    },
+    "307": {
+        "0xID": "133",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "308": {
+        "0xID": "134",
+        "Icon": "ui/icon/004000/004246.png",
+        "Singular_cn": "",
+        "Singular_de": "Aeturna",
+        "Singular_en": "aeturna",
+        "Singular_fr": "Aeturna",
+        "Singular_ja": "\u30a2\u30a8\u30c6\u30eb\u30ca\u30a8",
+        "Singular_ko": ""
+    },
+    "309": {
+        "0xID": "135",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/004000/004019.png",
+        "Singular_cn": "\u6c34\u5996\u9a6c\u827e\u6069\u5df4\u5c14",
+        "Singular_de": "Enbarr",
+        "Singular_en": "Enbarr",
+        "Singular_fr": "Enbarr",
+        "Singular_ja": "\u30a8\u30f3\u30d0\u30fc\u30eb",
+        "Singular_ko": "\uc5d4\ubc14\ub974"
+    },
+    "310": {
+        "0xID": "136",
+        "Icon": "ui/icon/004000/004247.png",
+        "Singular_cn": "\u9752\u78f7\u6c14\u7403",
+        "Singular_de": "B\u00fcndel bunter Erdseimballone",
+        "Singular_en": "set of ceruleum balloons",
+        "Singular_fr": "ballons de c\u00e9ruleum",
+        "Singular_ja": "\u30bb\u30eb\u30ea\u30a6\u30e0\u30fb\u30d0\u30eb\u30fc\u30f3",
+        "Singular_ko": ""
+    },
+    "311": {
+        "0xID": "137",
+        "Icon": "ui/icon/004000/004248.png",
+        "Singular_cn": "\u5b89\u767b\u4e09\u4e16",
+        "Singular_de": "Anden III.",
+        "Singular_en": "Anden III",
+        "Singular_fr": "Anden III",
+        "Singular_ja": "\u30a2\u30f3\u30c7\u30f3III\u4e16",
+        "Singular_ko": ""
+    },
+    "312": {
+        "0xID": "138",
+        "Icon": "ui/icon/004000/004249.png",
+        "Singular_cn": "\u9ed1\u6770\u514b\u53f7",
+        "Singular_de": "Black Jack",
+        "Singular_en": "Blackjack",
+        "Singular_fr": "Blackjack",
+        "Singular_ja": "\u30d6\u30e9\u30c3\u30af\u30b8\u30e3\u30c3\u30af\u53f7",
+        "Singular_ko": ""
+    },
+    "313": {
+        "0xID": "139",
+        "Icon": "ui/icon/004000/004250.png",
+        "Singular_cn": "\u6cd5\u5384\u540c",
+        "Singular_de": "Phaethon",
+        "Singular_en": "Phaethon",
+        "Singular_fr": "Pha\u00e9ton",
+        "Singular_ja": "\u30d5\u30a1\u30a8\u30c8\u30f3",
+        "Singular_ko": ""
+    },
+    "314": {
+        "0xID": "13A",
+        "Icon": "ui/icon/004000/004251.png",
+        "Singular_cn": "\u7c89\u7ea2",
+        "Singular_de": "Pinky",
+        "Singular_en": "Pinky",
+        "Singular_fr": "Pinky",
+        "Singular_ja": "\u30d4\u30f3\u30ad\u30fc",
+        "Singular_ko": ""
+    },
+    "315": {
+        "0xID": "13B",
+        "Icon": "ui/icon/004000/004252.png",
+        "Singular_cn": "\u7080\u706b\u731e\u7301",
+        "Singular_de": "Fegefeuer-Luchs",
+        "Singular_en": "lynx of righteous fire",
+        "Singular_fr": "lynx du brasier flamboyant",
+        "Singular_ja": "\u30ea\u30f3\u30af\u30b9\u30fb\u30aa\u30d6\u30fb\u30d5\u30a1\u30a4\u30a2",
+        "Singular_ko": ""
+    },
+    "316": {
+        "0xID": "13C",
+        "Icon": "ui/icon/004000/004253.png",
+        "Singular_cn": "\u9b54\u5bfc\u590d\u4ec7\u8005\u91d1\u8272\u6d82\u88c5\u7279\u5236\u578b",
+        "Singular_de": "Vergoldeter Magitek-R\u00e4cher",
+        "Singular_en": "magitek avenger G1",
+        "Singular_fr": "vengeur magitek dor\u00e9",
+        "Singular_ja": "\u9b54\u5c0e\u30a2\u30f4\u30a7\u30f3\u30b8\u30e3\u30fc\u9ec4\u91d1\u50cf\u4ed5\u69d8",
+        "Singular_ko": ""
+    },
+    "317": {
+        "0xID": "13D",
+        "Icon": "ui/icon/004000/004254.png",
+        "Singular_cn": "\u514b\u5f8b\u7d22\u9a6c\u7f57\u65af",
+        "Singular_de": "Chrysomallos",
+        "Singular_en": "Chrysomallos",
+        "Singular_fr": "Chrysomallos",
+        "Singular_ja": "\u30af\u30ea\u30e5\u30bd\u30de\u30ed\u30b9",
+        "Singular_ko": ""
+    },
+    "318": {
+        "0xID": "13E",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "319": {
+        "0xID": "13F",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/004000/004020.png",
+        "Singular_cn": "\u6218\u72ee",
+        "Singular_de": "Kriegsl\u00f6we",
+        "Singular_en": "warlion",
+        "Singular_fr": "lion de guerre",
+        "Singular_ja": "\u30a6\u30a9\u30fc\u30e9\u30a4\u30aa\u30f3",
+        "Singular_ko": "\uc804\ud22c\uc0ac\uc790"
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/004000/004021.png",
+        "Singular_cn": "\u6218\u718a",
+        "Singular_de": "Kriegsb\u00e4r",
+        "Singular_en": "warbear",
+        "Singular_fr": "ours de guerre",
+        "Singular_ja": "\u30a6\u30a9\u30fc\u30d9\u30a2\u30fc",
+        "Singular_ko": "\uc804\ud22c\uacf0"
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/004000/004022.png",
+        "Singular_cn": "\u5927\u9646\u884c\u9e1f",
+        "Singular_de": "Tandem-Chocobo",
+        "Singular_en": "draught chocobo",
+        "Singular_fr": "chocobo de trait",
+        "Singular_ja": "\u30b0\u30e9\u30f3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\uadf8\ub791\ucd08\ucf54\ubcf4"
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/004000/004023.png",
+        "Singular_cn": "\u6050\u72fc",
+        "Singular_de": "D\u00fcsterwolf",
+        "Singular_en": "direwolf",
+        "Singular_fr": "loup sinistre",
+        "Singular_ja": "\u30c0\u30a4\u30a2\u30a6\u30eb\u30d5",
+        "Singular_ko": "\ub2e4\uc774\uc5b4\uc6b8\ud504"
+    },
+    "36": {
+        "0xID": "24",
+        "Icon": "ui/icon/004000/004024.png",
+        "Singular_cn": "\u9ed1\u6da1\u6218\u9a6c",
+        "Singular_de": "Mahlstrom-Schlachtross",
+        "Singular_en": "storm warsteed",
+        "Singular_fr": "cheval des temp\u00eates",
+        "Singular_ja": "\u30ed\u30df\u30f3\u30b5\u30f3\u30fb\u30b9\u30c6\u30a3\u30fc\u30c9",
+        "Singular_ko": "\ub9bc\uc0ac \ub85c\ubbfc\uc0ac \uad70\ub9c8"
+    },
+    "37": {
+        "0xID": "25",
+        "Icon": "ui/icon/004000/004025.png",
+        "Singular_cn": "\u53cc\u86c7\u6218\u9a6c",
+        "Singular_de": "Bruderschaftsschlachtross",
+        "Singular_en": "serpent warsteed",
+        "Singular_fr": "cheval du serpent",
+        "Singular_ja": "\u30b0\u30ea\u30c0\u30cb\u30a2\u30f3\u30fb\u30b9\u30c6\u30a3\u30fc\u30c9",
+        "Singular_ko": "\uadf8\ub9ac\ub2e4\ub2c8\uc544 \uad70\ub9c8"
+    },
+    "38": {
+        "0xID": "26",
+        "Icon": "ui/icon/004000/004026.png",
+        "Singular_cn": "\u6052\u8f89\u6218\u9a6c",
+        "Singular_de": "Legionsschlachtross",
+        "Singular_en": "flame warsteed",
+        "Singular_fr": "cheval des sables",
+        "Singular_ja": "\u30a6\u30eb\u30c0\u30cf\u30f3\u30fb\u30b9\u30c6\u30a3\u30fc\u30c9",
+        "Singular_ko": "\uc6b8\ub2e4\ud558 \uad70\ub9c8"
+    },
+    "39": {
+        "0xID": "27",
+        "Icon": "ui/icon/004000/004014.png",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/004000/004003.png",
+        "Singular_cn": "\u53e4\u83e9\u7329\u7329",
+        "Singular_de": "Goobbue",
+        "Singular_en": "goobbue",
+        "Singular_fr": "goobbue",
+        "Singular_ja": "\u30b0\u30a5\u30fc\u30d6\u30fc",
+        "Singular_ko": "\uad6c\ubd80"
+    },
+    "40": {
+        "0xID": "28",
+        "Icon": "ui/icon/004000/004027.png",
+        "Singular_cn": "\u96f7\u5996\u9a6c\u739b\u5361\u5e03",
+        "Singular_de": "Markab",
+        "Singular_en": "Markab",
+        "Singular_fr": "Markab",
+        "Singular_ja": "\u30de\u30eb\u30ab\u30d6",
+        "Singular_ko": "\ub9c8\ub974\uce74\ube0c"
+    },
+    "41": {
+        "0xID": "29",
+        "Icon": "ui/icon/004000/004031.png",
+        "Singular_cn": "\u5178\u793c\u9646\u884c\u9e1f",
+        "Singular_de": "Zeremonial-Chocobo",
+        "Singular_en": "ceremony chocobo",
+        "Singular_fr": "chocobo de c\u00e9r\u00e9monie",
+        "Singular_ja": "\u30a8\u30bf\u30fc\u30ca\u30eb\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\uc601\uc6d0\ucd08\ucf54\ubcf4"
+    },
+    "42": {
+        "0xID": "2A",
+        "Icon": "ui/icon/004000/004028.png",
+        "Singular_cn": "\u65af\u83b1\u666e\u5c3c\u5c14",
+        "Singular_de": "Sleipnir",
+        "Singular_en": "Sleipnir",
+        "Singular_fr": "Sleipnir",
+        "Singular_ja": "\u30b9\u30ec\u30a4\u30d7\u30cb\u30eb",
+        "Singular_ko": "\uc2ac\ub808\uc774\ud504\ub2c8\ub974"
+    },
+    "43": {
+        "0xID": "2B",
+        "Icon": "ui/icon/004000/004029.png",
+        "Singular_cn": "\u51b0\u5996\u9a6c\u73bb\u745e\u963f\u65af",
+        "Singular_de": "Boreas",
+        "Singular_en": "Boreas",
+        "Singular_fr": "Bor\u00e9as",
+        "Singular_ja": "\u30dc\u30ec\u30a2\u30b9",
+        "Singular_ko": "\ubcf4\ub808\uc544\uc2a4"
+    },
+    "44": {
+        "0xID": "2C",
+        "Icon": "ui/icon/004000/004030.png",
+        "Singular_cn": "\u6e38\u884c\u9646\u884c\u9e1f",
+        "Singular_de": "Parade-Chocobo",
+        "Singular_en": "parade chocobo",
+        "Singular_fr": "chocobo de parade",
+        "Singular_ja": "\u30d1\u30ec\u30fc\u30c9\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ud589\uc9c4\ub300 \ucd08\ucf54\ubcf4"
+    },
+    "45": {
+        "0xID": "2D",
+        "Icon": "ui/icon/004000/004036.png",
+        "Singular_cn": "\u9ed1\u9646\u884c\u9e1f",
+        "Singular_de": "Flug-Chocobo",
+        "Singular_en": "black chocobo",
+        "Singular_fr": "chocobo noir",
+        "Singular_ja": "\u9ed2\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\uac80\uc740 \ucd08\ucf54\ubcf4"
+    },
+    "46": {
+        "0xID": "2E",
+        "Icon": "ui/icon/004000/004034.png",
+        "Singular_cn": "\u7cbe\u91d1\u9f9f",
+        "Singular_de": "Adaman-Taimai",
+        "Singular_en": "adamantoise",
+        "Singular_fr": "adamankh\u00e9lone",
+        "Singular_ja": "\u30a2\u30c0\u30de\u30f3\u30bf\u30b9",
+        "Singular_ko": "\uae08\uac15\uac70\ubd81"
+    },
+    "47": {
+        "0xID": "2F",
+        "Icon": "ui/icon/004000/004032.png",
+        "Singular_cn": "\u9e92\u9e9f",
+        "Singular_de": "Kirin",
+        "Singular_en": "Kirin",
+        "Singular_fr": "Kirin",
+        "Singular_ja": "\u9e92\u9e9f",
+        "Singular_ko": "\uae30\ub9b0"
+    },
+    "48": {
+        "0xID": "30",
+        "Icon": "ui/icon/004000/004033.png",
+        "Singular_cn": "\u9a91\u4e58\u7cfb\u7edf",
+        "Singular_de": "Logistiksystem",
+        "Singular_en": "logistics system",
+        "Singular_fr": "module de d\u00e9placement sph\u00e9rique",
+        "Singular_ja": "\u9a0e\u4e57\u30b7\u30b9\u30c6\u30e0",
+        "Singular_ko": "\ud0d1\uc2b9 \uc2dc\uc2a4\ud15c"
+    },
+    "49": {
+        "0xID": "31",
+        "Icon": "ui/icon/004000/004035.png",
+        "Singular_cn": "\u82ac\u91cc\u5c14",
+        "Singular_de": "Fenrir",
+        "Singular_en": "Fenrir",
+        "Singular_fr": "Fenrir",
+        "Singular_ja": "\u30d5\u30a7\u30f3\u30ea\u30eb",
+        "Singular_ko": "\ud39c\ub9ac\ub974"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/004000/004002.png",
+        "Singular_cn": "\u9057\u4ea7\u9646\u884c\u9e1f",
+        "Singular_de": "Legacy-Chocobo",
+        "Singular_en": "legacy chocobo",
+        "Singular_fr": "chocobo Legacy",
+        "Singular_ja": "\u30ec\u30ac\u30b7\u30fc\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ub808\uac70\uc2dc \ucd08\ucf54\ubcf4"
+    },
+    "50": {
+        "0xID": "32",
+        "Icon": "ui/icon/004000/004037.png",
+        "Singular_cn": "\u5c18\u4e16\u5e7b\u9f99",
+        "Singular_de": "Midgardsormr",
+        "Singular_en": "Midgardsormr",
+        "Singular_fr": "Midgardsormr",
+        "Singular_ja": "\u30df\u30c9\u30ac\u30eb\u30ba\u30aa\u30eb\u30e0",
+        "Singular_ko": "\ubbf8\ub4dc\uac00\ub974\ub4dc\uc624\ub984"
+    },
+    "51": {
+        "0xID": "33",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "52": {
+        "0xID": "34",
+        "Icon": "ui/icon/004000/004044.png",
+        "Singular_cn": "\u7ea2\u5927\u9646\u884c\u9e1f",
+        "Singular_de": "Bernstein-Chocobo",
+        "Singular_en": "amber draught chocobo",
+        "Singular_fr": "chocobo de trait rouge",
+        "Singular_ja": "\u8d64\u30b0\u30e9\u30f3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ube68\uac04 \uadf8\ub791\ucd08\ucf54\ubcf4"
+    },
+    "53": {
+        "0xID": "35",
+        "Icon": "ui/icon/004000/004038.png",
+        "Singular_cn": "\u817e\u4e91\u86c7",
+        "Singular_de": "Sanuwa",
+        "Singular_en": "sanuwa",
+        "Singular_fr": "sanuwa",
+        "Singular_ja": "\u30b5\u30cc\u30ef",
+        "Singular_ko": "\uc0ac\ub204\uc640"
+    },
+    "54": {
+        "0xID": "36",
+        "Icon": "ui/icon/004000/004039.png",
+        "Singular_cn": "\u72ee\u9e6b",
+        "Singular_de": "Greif",
+        "Singular_en": "griffin",
+        "Singular_fr": "griffon",
+        "Singular_ja": "\u30b0\u30ea\u30d5\u30a3\u30f3",
+        "Singular_ko": "\uadf8\ub9ac\ud540"
+    },
+    "55": {
+        "0xID": "37",
+        "Icon": "ui/icon/004000/004040.png",
+        "Singular_cn": "\u7834\u9b54\u8247",
+        "Singular_de": "Manaschnitter",
+        "Singular_en": "manacutter",
+        "Singular_fr": "Manacutter",
+        "Singular_ja": "\u30de\u30ca\u30ab\u30c3\u30bf\u30fc",
+        "Singular_ko": "\ub9c8\ub098\ucee4\ud130"
+    },
+    "56": {
+        "0xID": "38",
+        "Icon": "ui/icon/004000/004041.png",
+        "Singular_cn": "\u6218\u8c79",
+        "Singular_de": "Kriegspanther",
+        "Singular_en": "war panther",
+        "Singular_fr": "panth\u00e8re de guerre",
+        "Singular_ja": "\u30a6\u30a9\u30fc\u30d1\u30f3\u30b5\u30fc",
+        "Singular_ko": "\uc804\ud22c\ud751\ud45c\ubc94"
+    },
+    "57": {
+        "0xID": "39",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "58": {
+        "0xID": "3A",
+        "Icon": "ui/icon/004000/004042.png",
+        "Singular_cn": "\u54e5\u5e03\u6797\u6218\u8f66",
+        "Singular_de": "Gob-Stampfer",
+        "Singular_en": "gobwalker",
+        "Singular_fr": "gobblind\u00e9",
+        "Singular_ja": "\u30b4\u30d6\u30ea\u30a6\u30a9\u30fc\u30ab\u30fc",
+        "Singular_ko": "\uace0\ube14\ub9b0\uc6cc\ucee4"
+    },
+    "59": {
+        "0xID": "3B",
+        "Icon": "ui/icon/004000/004043.png",
+        "Singular_cn": "\u53cc\u5854\u5c3c\u4e9a",
+        "Singular_de": "Twintania",
+        "Singular_en": "Twintania",
+        "Singular_fr": "G\u00e9mellia",
+        "Singular_ja": "\u30c4\u30a4\u30f3\u30bf\u30cb\u30a2",
+        "Singular_ko": "\ud2b8\uc708\ud0c0\ub2c8\uc544"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/004000/004006.png",
+        "Singular_cn": "\u9b54\u5bfc\u88c5\u7532",
+        "Singular_de": "Magitek-Kampfmaschine",
+        "Singular_en": "magitek armor",
+        "Singular_fr": "armure magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30a2\u30fc\u30de\u30fc",
+        "Singular_ko": "\ub9c8\ub3c4 \uc544\uba38"
+    },
+    "60": {
+        "0xID": "3C",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "61": {
+        "0xID": "3D",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "62": {
+        "0xID": "3E",
+        "Icon": "ui/icon/004000/004045.png",
+        "Singular_cn": "\u9b54\u5973\u626b\u5e1a",
+        "Singular_de": "Hexenbesen",
+        "Singular_en": "witch's broom",
+        "Singular_fr": "balai de sorci\u00e8re",
+        "Singular_ja": "\u30a6\u30a3\u30c3\u30c1\u30ba\u30d6\u30eb\u30fc\u30e0",
+        "Singular_ko": "\ub9c8\ub140\uc758 \ube57\uc790\ub8e8"
+    },
+    "63": {
+        "0xID": "3F",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "64": {
+        "0xID": "40",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "65": {
+        "0xID": "41",
+        "Icon": "",
+        "Singular_cn": "\u5915",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": "\ub160"
+    },
+    "66": {
+        "0xID": "42",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "67": {
+        "0xID": "43",
+        "Icon": "ui/icon/004000/004047.png",
+        "Singular_cn": "\u5929\u9a6c",
+        "Singular_de": "Pegasus",
+        "Singular_en": "pegasus",
+        "Singular_fr": "P\u00e9gase",
+        "Singular_ja": "\u30da\u30ac\u30b5\u30b9",
+        "Singular_ko": "\ud398\uac00\uc218\uc2a4"
+    },
+    "68": {
+        "0xID": "44",
+        "Icon": "ui/icon/004000/004048.png",
+        "Singular_cn": "\u8389\u7ef4\u4e9a\u4e13\u7528\u9b54\u5bfc\u88c5\u7532",
+        "Singular_de": "Wei\u00dfer Teufel",
+        "Singular_en": "White Devil",
+        "Singular_fr": "armure magitek de Livia",
+        "Singular_ja": "\u30ea\u30a6\u30a3\u30a2\u5c02\u7528\u9b54\u5c0e\u30a2\u30fc\u30de\u30fc",
+        "Singular_ko": "\ub9ac\uc704\uc544 \uc804\uc6a9 \ub9c8\ub3c4 \uc544\uba38"
+    },
+    "69": {
+        "0xID": "45",
+        "Icon": "ui/icon/004000/004049.png",
+        "Singular_cn": "\u5c3c\u7984\u4e13\u7528\u9b54\u5bfc\u88c5\u7532",
+        "Singular_de": "Roter Baron",
+        "Singular_en": "Red Baron",
+        "Singular_fr": "armure magitek de Nero",
+        "Singular_ja": "\u30cd\u30ed\u5c02\u7528\u9b54\u5c0e\u30a2\u30fc\u30de\u30fc",
+        "Singular_ko": "\ub124\ub85c \uc804\uc6a9 \ub9c8\ub3c4 \uc544\uba38"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "70": {
+        "0xID": "46",
+        "Icon": "ui/icon/004000/004050.png",
+        "Singular_cn": "\u53cc\u8db3\u98de\u9f99",
+        "Singular_de": "Wyvern",
+        "Singular_en": "wyvern",
+        "Singular_fr": "wyverne",
+        "Singular_ja": "\u30ef\u30a4\u30d0\u30fc\u30f3",
+        "Singular_ko": "\uc640\uc774\ubc88"
+    },
+    "71": {
+        "0xID": "47",
+        "Icon": "ui/icon/004000/004135.png",
+        "Singular_cn": "SDS\u82ac\u91cc\u5c14",
+        "Singular_de": "SKD-Fenrir",
+        "Singular_en": "SDS Fenrir",
+        "Singular_fr": "SLE Fenrir",
+        "Singular_ja": "SDS\u30d5\u30a7\u30f3\u30ea\u30eb",
+        "Singular_ko": "SDS \ud39c\ub9ac\ub974"
+    },
+    "72": {
+        "0xID": "48",
+        "Icon": "ui/icon/004000/004051.png",
+        "Singular_cn": "\u6050\u7532\u8682\u8713",
+        "Singular_de": "Kongamato",
+        "Singular_en": "kongamato",
+        "Singular_fr": "kongamato",
+        "Singular_ja": "\u30b3\u30f3\u30ac\u30de\u30c8\u30fc",
+        "Singular_ko": "\ucf69\uac00\ub9c8\ud1a0"
+    },
+    "73": {
+        "0xID": "49",
+        "Icon": "ui/icon/004000/004052.png",
+        "Singular_cn": "\u7956",
+        "Singular_de": "Montisaurus",
+        "Singular_en": "zu",
+        "Singular_fr": "zu",
+        "Singular_ja": "\u30ba\u30fc",
+        "Singular_ko": "\uc988"
+    },
+    "74": {
+        "0xID": "4A",
+        "Icon": "ui/icon/004000/004053.png",
+        "Singular_cn": "\u8d1d\u52aa\u9e1f",
+        "Singular_de": "Bennu",
+        "Singular_en": "bennu",
+        "Singular_fr": "b\u00e9nou",
+        "Singular_ja": "\u30d9\u30f3\u30cc",
+        "Singular_ko": "\ubca4\ub204"
+    },
+    "75": {
+        "0xID": "4B",
+        "Icon": "ui/icon/004000/004054.png",
+        "Singular_cn": "\u767d\u4e91\u730e\u9e70",
+        "Singular_de": "Wei\u00dflanner",
+        "Singular_en": "white lanner",
+        "Singular_fr": "faucon des brumes",
+        "Singular_ja": "\u30db\u30ef\u30a4\u30c8\u30e9\u30ca\u30fc",
+        "Singular_ko": "\ud770\uc1a1\uace8\ub9e4"
+    },
+    "76": {
+        "0xID": "4C",
+        "Icon": "ui/icon/004000/004055.png",
+        "Singular_cn": "\u6012\u6b66\u730e\u9e70",
+        "Singular_de": "Rotlanner",
+        "Singular_en": "rose lanner",
+        "Singular_fr": "faucon des lames",
+        "Singular_ja": "\u30e9\u30fc\u30b9\u30e9\u30ca\u30fc",
+        "Singular_ko": "\ubd89\uc740\uc1a1\uace8\ub9e4"
+    },
+    "77": {
+        "0xID": "4D",
+        "Icon": "ui/icon/004000/004056.png",
+        "Singular_cn": "\u5706\u684c\u730e\u9e70",
+        "Singular_de": "Rundlanner",
+        "Singular_en": "round lanner",
+        "Singular_fr": "faucon de la Table ronde",
+        "Singular_ja": "\u30e9\u30ca\u30fc\u30fb\u30aa\u30d6\u30fb\u30e9\u30a6\u30f3\u30c9",
+        "Singular_ko": "\uae30\uc0ac\uc2e0\uc758 \uc1a1\uace8\ub9e4"
+    },
+    "78": {
+        "0xID": "4E",
+        "Icon": "ui/icon/004000/004057.png",
+        "Singular_cn": "\u6218\u4e89\u730e\u9e70",
+        "Singular_de": "Kriegslanner",
+        "Singular_en": "warring lanner",
+        "Singular_fr": "faucon s\u00e9phirotique",
+        "Singular_ja": "\u30a6\u30a9\u30fc\u30ea\u30f3\u30b0\u30e9\u30ca\u30fc",
+        "Singular_ko": "\uc804\uc7c1\uc1a1\uace8\ub9e4"
+    },
+    "79": {
+        "0xID": "4F",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/004000/004005.png",
+        "Singular_cn": "\u957f\u987b\u8c79",
+        "Singular_de": "Coeurl",
+        "Singular_en": "coeurl",
+        "Singular_fr": "coeurl",
+        "Singular_ja": "\u30af\u30a1\u30fc\u30eb",
+        "Singular_ko": "\ucee4\uc5bc"
+    },
+    "80": {
+        "0xID": "50",
+        "Icon": "ui/icon/004000/004058.png",
+        "Singular_cn": "\u8363\u8000\u53f7",
+        "Singular_de": "Gloria-Luftschiff",
+        "Singular_en": "Gloria-class airship",
+        "Singular_fr": "Gloria",
+        "Singular_ja": "\u30b0\u30ed\u30fc\u30ea\u30a2\u53f7",
+        "Singular_ko": "\uc601\uad11\ud638"
+    },
+    "81": {
+        "0xID": "51",
+        "Icon": "ui/icon/004000/004059.png",
+        "Singular_cn": "\u7b4b\u6597\u4e91",
+        "Singular_de": "Kumulus",
+        "Singular_en": "flying cumulus",
+        "Singular_fr": "nuage magique",
+        "Singular_ja": "\u7b4b\u6597\u96f2",
+        "Singular_ko": "\uadfc\ub450\uc6b4"
+    },
+    "82": {
+        "0xID": "52",
+        "Icon": "ui/icon/004000/004060.png",
+        "Singular_cn": "\u521d\u4ee3\u80d6\u9646\u884c\u9e1f",
+        "Singular_de": "Original-Chocomoppel",
+        "Singular_en": "original fat chocobo",
+        "Singular_fr": "gros chocobo original",
+        "Singular_ja": "\u521d\u4ee3\u3067\u3076\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\uc6d0\uc870 \ub6b1\ubcf4\ucd08\ucf54\ubcf4"
+    },
+    "83": {
+        "0xID": "53",
+        "Icon": "ui/icon/004000/004061.png",
+        "Singular_cn": "\u5929\u9633\u9a6c\u963f\u65af\u7279\u6d1b\u73c0",
+        "Singular_de": "Astrope",
+        "Singular_en": "Astrope",
+        "Singular_fr": "Ast\u00e9rope",
+        "Singular_ja": "\u30a2\u30b9\u30c8\u30ed\u30da",
+        "Singular_ko": "\uc544\uc2a4\ud2b8\ub85c\ud398"
+    },
+    "84": {
+        "0xID": "54",
+        "Icon": "ui/icon/004000/004062.png",
+        "Singular_cn": "\u80d6\u83ab\u53e4\u529b",
+        "Singular_de": "Moppel-Mogry",
+        "Singular_en": "fat moogle",
+        "Singular_fr": "gros Mog",
+        "Singular_ja": "\u3067\u3076\u30e2\u30fc\u30b0\u30ea",
+        "Singular_ko": "\ub6b1\ubcf4 \ubaa8\uadf8\ub9ac"
+    },
+    "85": {
+        "0xID": "55",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "86": {
+        "0xID": "56",
+        "Icon": "ui/icon/004000/004063.png",
+        "Singular_cn": "\u5b62\u4e91\u68c9\u82b1\u7cd6",
+        "Singular_de": "Bommelin",
+        "Singular_en": "cloud mallow",
+        "Singular_fr": "mogrette",
+        "Singular_ja": "\u30af\u30e9\u30a6\u30c9\u30de\u30ed\u30a6",
+        "Singular_ko": "\uad6c\ub984\uc19c\ud480"
+    },
+    "87": {
+        "0xID": "57",
+        "Icon": "ui/icon/004000/004064.png",
+        "Singular_cn": "\u7ef4\u65af\u5e15\u53f7",
+        "Singular_de": "Whisper-Gondel",
+        "Singular_en": "Whisper-go",
+        "Singular_fr": "Whisper",
+        "Singular_ja": "\u30a6\u30a3\u30b9\u30d1\u30fc\u53f7",
+        "Singular_ko": "\uc704\uc2a4\ud37c\ud638"
+    },
+    "88": {
+        "0xID": "58",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "89": {
+        "0xID": "59",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/004000/004004.png",
+        "Singular_cn": "\u51a5\u9b3c\u4e4b\u773c",
+        "Singular_de": "Ahriman",
+        "Singular_en": "ahriman",
+        "Singular_fr": "ahriman",
+        "Singular_ja": "\u30a2\u30fc\u30ea\u30de\u30f3",
+        "Singular_ko": "\uc544\ub9ac\ub9cc"
+    },
+    "90": {
+        "0xID": "5A",
+        "Icon": "ui/icon/004000/004065.png",
+        "Singular_cn": "\u6697\u9ed1\u730e\u9e70",
+        "Singular_de": "D\u00fcsterlanner",
+        "Singular_en": "dark lanner",
+        "Singular_fr": "faucon des ombres",
+        "Singular_ja": "\u30c0\u30fc\u30af\u30e9\u30ca\u30fc",
+        "Singular_ko": "\uc554\ud751\uc1a1\uace8\ub9e4"
+    },
+    "91": {
+        "0xID": "5B",
+        "Icon": "ui/icon/004000/004066.png",
+        "Singular_cn": "\u6d6e\u7a7a\u7cfb\u7edf",
+        "Singular_de": "Aerodynamisches System",
+        "Singular_en": "aerodynamics system",
+        "Singular_fr": "sph\u00e8re de l\u00e9vitation",
+        "Singular_ja": "\u6d6e\u884c\u30b7\u30b9\u30c6\u30e0",
+        "Singular_ko": "\ube44\ud589 \uc2dc\uc2a4\ud15c"
+    },
+    "92": {
+        "0xID": "5C",
+        "Icon": "ui/icon/004000/004068.png",
+        "Singular_cn": "\u9885\u6d6e\u5de8\u50cf",
+        "Singular_de": "Nichtskopf",
+        "Singular_en": "disembodied head",
+        "Singular_fr": "t\u00eate ail\u00e9e",
+        "Singular_ja": "\u30d8\u30c3\u30c9\u30de\u30a6\u30f3\u30c8",
+        "Singular_ko": "\ub5a0\ub3c4\ub294 \uba38\ub9ac"
+    },
+    "93": {
+        "0xID": "5D",
+        "Icon": "ui/icon/004000/004067.png",
+        "Singular_cn": "\u9010\u6708\u5e7b\u72fc\u739b\u7eb3\u52a0\u5c14\u59c6",
+        "Singular_de": "Managarm",
+        "Singular_en": "managarm",
+        "Singular_fr": "managarm",
+        "Singular_ja": "\u30de\u30fc\u30ca\u30ac\u30eb\u30e0",
+        "Singular_ko": "\ub9c8\ub098\uac00\ub984"
+    },
+    "94": {
+        "0xID": "5E",
+        "Icon": "ui/icon/004000/004069.png",
+        "Singular_cn": "\u7ef4\u65af\u5e15\u524d\u8fdb\u53f7",
+        "Singular_de": "Whisper-Gondel Spezial",
+        "Singular_en": "Whisper A-go-go",
+        "Singular_fr": "Whisper II",
+        "Singular_ja": "\u30a6\u30a3\u30b9\u30d1\u30fc\u53f7\u6539",
+        "Singular_ko": "\ube5b\ub098\ub294 \uc704\uc2a4\ud37c\ud638"
+    },
+    "95": {
+        "0xID": "5F",
+        "Icon": "ui/icon/004000/004074.png",
+        "Singular_cn": "\u8f70\u5929",
+        "Singular_de": "Goten",
+        "Singular_en": "Goten",
+        "Singular_fr": "G\u00f4ten",
+        "Singular_ja": "\u8f5f\u5929",
+        "Singular_ko": "\uace0\uc6b0\ud150"
+    },
+    "96": {
+        "0xID": "60",
+        "Icon": "ui/icon/004000/004075.png",
+        "Singular_cn": "\u94f6\u7259",
+        "Singular_de": "Ginga",
+        "Singular_en": "Ginga",
+        "Singular_fr": "Ginga",
+        "Singular_ja": "\u9280\u7259",
+        "Singular_ko": "\uae45\uac00"
+    },
+    "97": {
+        "0xID": "61",
+        "Icon": "ui/icon/004000/004070.png",
+        "Singular_cn": "\u4ed9\u672f\u718a\u732b",
+        "Singular_de": "Mystischer Panda",
+        "Singular_en": "mystic panda",
+        "Singular_fr": "panda mystique",
+        "Singular_ja": "\u4ed9\u8853\u718a\u732b",
+        "Singular_ko": "\uc2e0\uc120\ud310\ub2e4"
+    },
+    "98": {
+        "0xID": "62",
+        "Icon": "ui/icon/004000/004071.png",
+        "Singular_cn": "\u777f\u667a\u730e\u9e70",
+        "Singular_de": "Sophia-Lanner",
+        "Singular_en": "Sophic lanner",
+        "Singular_fr": "faucon sophique",
+        "Singular_ja": "\u30b4\u30c3\u30c7\u30b9\u30e9\u30ca\u30fc",
+        "Singular_ko": "\uc5ec\uc2e0\uc1a1\uace8\ub9e4"
+    },
+    "99": {
+        "0xID": "63",
+        "Icon": "ui/icon/004000/004102.png",
+        "Singular_cn": "\u661f\u8292\u718a",
+        "Singular_de": "Sternenlicht-B\u00e4r",
+        "Singular_en": "Starlight bear",
+        "Singular_fr": "ours de la f\u00eate des \u00e9toiles",
+        "Singular_ja": "\u30b9\u30bf\u30fc\u30e9\u30a4\u30c8\u30fb\u30d9\u30a2\u30fc",
+        "Singular_ko": "\ubcc4\ube5b\uacf0"
+    }
+}

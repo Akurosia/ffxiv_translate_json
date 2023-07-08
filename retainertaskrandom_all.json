@@ -1,0 +1,1019 @@
+{
+    "30001": {
+        "0xID": "7531",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57301\u7ea7",
+        "Name_de": "Felderkundung I",
+        "Name_en": "Field Exploration I",
+        "Name_fr": "Exploration en plaine I",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G1",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 1"
+    },
+    "30002": {
+        "0xID": "7532",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57302\u7ea7",
+        "Name_de": "Felderkundung II",
+        "Name_en": "Field Exploration II",
+        "Name_fr": "Exploration en plaine II",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G2",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 2"
+    },
+    "30003": {
+        "0xID": "7533",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57303\u7ea7",
+        "Name_de": "Felderkundung III",
+        "Name_en": "Field Exploration III",
+        "Name_fr": "Exploration en plaine III",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G3",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 3"
+    },
+    "30004": {
+        "0xID": "7534",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57304\u7ea7",
+        "Name_de": "Felderkundung IV",
+        "Name_en": "Field Exploration IV",
+        "Name_fr": "Exploration en plaine IV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G4",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 4"
+    },
+    "30005": {
+        "0xID": "7535",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57305\u7ea7",
+        "Name_de": "Felderkundung V",
+        "Name_en": "Field Exploration V",
+        "Name_fr": "Exploration en plaine V",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G5",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 5"
+    },
+    "30006": {
+        "0xID": "7536",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57306\u7ea7",
+        "Name_de": "Felderkundung VI",
+        "Name_en": "Field Exploration VI",
+        "Name_fr": "Exploration en plaine VI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G6",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 6"
+    },
+    "30007": {
+        "0xID": "7537",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57307\u7ea7",
+        "Name_de": "Felderkundung VII",
+        "Name_en": "Field Exploration VII",
+        "Name_fr": "Exploration en plaine VII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G7",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 7"
+    },
+    "30008": {
+        "0xID": "7538",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57308\u7ea7",
+        "Name_de": "Felderkundung VIII",
+        "Name_en": "Field Exploration VIII",
+        "Name_fr": "Exploration en plaine VIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G8",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 8"
+    },
+    "30009": {
+        "0xID": "7539",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u57309\u7ea7",
+        "Name_de": "Felderkundung IX",
+        "Name_en": "Field Exploration IX",
+        "Name_fr": "Exploration en plaine IX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G9",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 9"
+    },
+    "30010": {
+        "0xID": "753A",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573010\u7ea7",
+        "Name_de": "Felderkundung X",
+        "Name_en": "Field Exploration X",
+        "Name_fr": "Exploration en plaine X",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G10",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 10"
+    },
+    "30011": {
+        "0xID": "753B",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573011\u7ea7",
+        "Name_de": "Felderkundung XI",
+        "Name_en": "Field Exploration XI",
+        "Name_fr": "Exploration en plaine XI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G11",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 11"
+    },
+    "30012": {
+        "0xID": "753C",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573012\u7ea7",
+        "Name_de": "Felderkundung XII",
+        "Name_en": "Field Exploration XII",
+        "Name_fr": "Exploration en plaine XII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G12",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 12"
+    },
+    "30013": {
+        "0xID": "753D",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573013\u7ea7",
+        "Name_de": "Felderkundung XIII",
+        "Name_en": "Field Exploration XIII",
+        "Name_fr": "Exploration en plaine XIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G13",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 13"
+    },
+    "30014": {
+        "0xID": "753E",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb31\u7ea7",
+        "Name_de": "Hochlanderkundung I",
+        "Name_en": "Highland Exploration I",
+        "Name_fr": "Exploration en montagne I",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G1",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 1"
+    },
+    "30015": {
+        "0xID": "753F",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb32\u7ea7",
+        "Name_de": "Hochlanderkundung II",
+        "Name_en": "Highland Exploration II",
+        "Name_fr": "Exploration en montagne II",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G2",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 2"
+    },
+    "30016": {
+        "0xID": "7540",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb33\u7ea7",
+        "Name_de": "Hochlanderkundung III",
+        "Name_en": "Highland Exploration III",
+        "Name_fr": "Exploration en montagne III",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G3",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 3"
+    },
+    "30017": {
+        "0xID": "7541",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb34\u7ea7",
+        "Name_de": "Hochlanderkundung IV",
+        "Name_en": "Highland Exploration IV",
+        "Name_fr": "Exploration en montagne IV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G4",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 4"
+    },
+    "30018": {
+        "0xID": "7542",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb35\u7ea7",
+        "Name_de": "Hochlanderkundung V",
+        "Name_en": "Highland Exploration V",
+        "Name_fr": "Exploration en montagne V",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G5",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 5"
+    },
+    "30019": {
+        "0xID": "7543",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb36\u7ea7",
+        "Name_de": "Hochlanderkundung VI",
+        "Name_en": "Highland Exploration VI",
+        "Name_fr": "Exploration en montagne VI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G6",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 6"
+    },
+    "30020": {
+        "0xID": "7544",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb37\u7ea7",
+        "Name_de": "Hochlanderkundung VII",
+        "Name_en": "Highland Exploration VII",
+        "Name_fr": "Exploration en montagne VII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G7",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 7"
+    },
+    "30021": {
+        "0xID": "7545",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb38\u7ea7",
+        "Name_de": "Hochlanderkundung VIII",
+        "Name_en": "Highland Exploration VIII",
+        "Name_fr": "Exploration en montagne VIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G8",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 8"
+    },
+    "30022": {
+        "0xID": "7546",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb39\u7ea7",
+        "Name_de": "Hochlanderkundung IX",
+        "Name_en": "Highland Exploration IX",
+        "Name_fr": "Exploration en montagne IX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G9",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 9"
+    },
+    "30023": {
+        "0xID": "7547",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb310\u7ea7",
+        "Name_de": "Hochlanderkundung X",
+        "Name_en": "Highland Exploration X",
+        "Name_fr": "Exploration en montagne X",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G10",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 10"
+    },
+    "30024": {
+        "0xID": "7548",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb311\u7ea7",
+        "Name_de": "Hochlanderkundung XI",
+        "Name_en": "Highland Exploration XI",
+        "Name_fr": "Exploration en montagne XI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G11",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 11"
+    },
+    "30025": {
+        "0xID": "7549",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb312\u7ea7",
+        "Name_de": "Hochlanderkundung XII",
+        "Name_en": "Highland Exploration XII",
+        "Name_fr": "Exploration en montagne XII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G12",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 12"
+    },
+    "30026": {
+        "0xID": "754A",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb313\u7ea7",
+        "Name_de": "Hochlanderkundung XIII",
+        "Name_en": "Highland Exploration XIII",
+        "Name_fr": "Exploration en montagne XIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G13",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 13"
+    },
+    "30027": {
+        "0xID": "754B",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67971\u7ea7",
+        "Name_de": "Forsterkundung I",
+        "Name_en": "Woodland Exploration I",
+        "Name_fr": "Exploration en for\u00eat I",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G1",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 1"
+    },
+    "30028": {
+        "0xID": "754C",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67972\u7ea7",
+        "Name_de": "Forsterkundung II",
+        "Name_en": "Woodland Exploration II",
+        "Name_fr": "Exploration en for\u00eat II",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G2",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 2"
+    },
+    "30029": {
+        "0xID": "754D",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67973\u7ea7",
+        "Name_de": "Forsterkundung III",
+        "Name_en": "Woodland Exploration III",
+        "Name_fr": "Exploration en for\u00eat III",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G3",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 3"
+    },
+    "30030": {
+        "0xID": "754E",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67974\u7ea7",
+        "Name_de": "Forsterkundung IV",
+        "Name_en": "Woodland Exploration IV",
+        "Name_fr": "Exploration en for\u00eat IV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G4",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 4"
+    },
+    "30031": {
+        "0xID": "754F",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67975\u7ea7",
+        "Name_de": "Forsterkundung V",
+        "Name_en": "Woodland Exploration V",
+        "Name_fr": "Exploration en for\u00eat V",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G5",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 5"
+    },
+    "30032": {
+        "0xID": "7550",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67976\u7ea7",
+        "Name_de": "Forsterkundung VI",
+        "Name_en": "Woodland Exploration VI",
+        "Name_fr": "Exploration en for\u00eat VI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G6",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 6"
+    },
+    "30033": {
+        "0xID": "7551",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67977\u7ea7",
+        "Name_de": "Forsterkundung VII",
+        "Name_en": "Woodland Exploration VII",
+        "Name_fr": "Exploration en for\u00eat VII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G7",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 7"
+    },
+    "30034": {
+        "0xID": "7552",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67978\u7ea7",
+        "Name_de": "Forsterkundung VIII",
+        "Name_en": "Woodland Exploration VIII",
+        "Name_fr": "Exploration en for\u00eat VIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G8",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 8"
+    },
+    "30035": {
+        "0xID": "7553",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u67979\u7ea7",
+        "Name_de": "Forsterkundung IX",
+        "Name_en": "Woodland Exploration IX",
+        "Name_fr": "Exploration en for\u00eat IX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G9",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 9"
+    },
+    "30036": {
+        "0xID": "7554",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679710\u7ea7",
+        "Name_de": "Forsterkundung X",
+        "Name_en": "Woodland Exploration X",
+        "Name_fr": "Exploration en for\u00eat X",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G10",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 10"
+    },
+    "30037": {
+        "0xID": "7555",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679711\u7ea7",
+        "Name_de": "Forsterkundung XI",
+        "Name_en": "Woodland Exploration XI",
+        "Name_fr": "Exploration en for\u00eat XI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G11",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 11"
+    },
+    "30038": {
+        "0xID": "7556",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679712\u7ea7",
+        "Name_de": "Forsterkundung XII",
+        "Name_en": "Woodland Exploration XII",
+        "Name_fr": "Exploration en for\u00eat XII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G12",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 12"
+    },
+    "30039": {
+        "0xID": "7557",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679713\u7ea7",
+        "Name_de": "Forsterkundung XIII",
+        "Name_en": "Woodland Exploration XIII",
+        "Name_fr": "Exploration en for\u00eat XIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G13",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 13"
+    },
+    "30040": {
+        "0xID": "7558",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb81\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung I",
+        "Name_en": "Waterside Exploration I",
+        "Name_fr": "Exploration en rivage I",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G1",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 1"
+    },
+    "30041": {
+        "0xID": "7559",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb82\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung II",
+        "Name_en": "Waterside Exploration II",
+        "Name_fr": "Exploration en rivage II",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G2",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 2"
+    },
+    "30042": {
+        "0xID": "755A",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb83\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung III",
+        "Name_en": "Waterside Exploration III",
+        "Name_fr": "Exploration en rivage III",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G3",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 3"
+    },
+    "30043": {
+        "0xID": "755B",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb84\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung IV",
+        "Name_en": "Waterside Exploration IV",
+        "Name_fr": "Exploration en rivage IV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G4",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 4"
+    },
+    "30044": {
+        "0xID": "755C",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb85\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung V",
+        "Name_en": "Waterside Exploration V",
+        "Name_fr": "Exploration en rivage V",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G5",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 5"
+    },
+    "30045": {
+        "0xID": "755D",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb86\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung VI",
+        "Name_en": "Waterside Exploration VI",
+        "Name_fr": "Exploration en rivage VI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G6",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 6"
+    },
+    "30046": {
+        "0xID": "755E",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb87\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung VII",
+        "Name_en": "Waterside Exploration VII",
+        "Name_fr": "Exploration en rivage VII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G7",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 7"
+    },
+    "30047": {
+        "0xID": "755F",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb88\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung VIII",
+        "Name_en": "Waterside Exploration VIII",
+        "Name_fr": "Exploration en rivage VIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G8",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 8"
+    },
+    "30048": {
+        "0xID": "7560",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb89\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung IX",
+        "Name_en": "Waterside Exploration IX",
+        "Name_fr": "Exploration en rivage IX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G9",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 9"
+    },
+    "30049": {
+        "0xID": "7561",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb810\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung X",
+        "Name_en": "Waterside Exploration X",
+        "Name_fr": "Exploration en rivage X",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G10",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 10"
+    },
+    "30050": {
+        "0xID": "7562",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb811\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XI",
+        "Name_en": "Waterside Exploration XI",
+        "Name_fr": "Exploration en rivage XI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G11",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 11"
+    },
+    "30051": {
+        "0xID": "7563",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb812\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XII",
+        "Name_en": "Waterside Exploration XII",
+        "Name_fr": "Exploration en rivage XII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G12",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 12"
+    },
+    "30052": {
+        "0xID": "7564",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb813\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XIII",
+        "Name_en": "Waterside Exploration XIII",
+        "Name_fr": "Exploration en rivage XIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G13",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 13"
+    },
+    "30053": {
+        "0xID": "7565",
+        "Name_cn": "\u81ea\u7531\u63a2\u7d22\u59d4\u6258",
+        "Name_de": "Schneller Streifzug",
+        "Name_en": "Quick Exploration",
+        "Name_fr": "T\u00e2che improvis\u00e9e",
+        "Name_ja": "\u307b\u308a\u3060\u3057\u3082\u306e\u4f9d\u983c",
+        "Name_ko": "\ubc1c\uad74\uc218\ud589"
+    },
+    "30054": {
+        "0xID": "7566",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573014\u7ea7",
+        "Name_de": "Felderkundung XIV",
+        "Name_en": "Field Exploration XIV",
+        "Name_fr": "Exploration en plaine XIV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G14",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 14"
+    },
+    "30055": {
+        "0xID": "7567",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb314\u7ea7",
+        "Name_de": "Hochlanderkundung XIV",
+        "Name_en": "Highland Exploration XIV",
+        "Name_fr": "Exploration en montagne XIV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G14",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 14"
+    },
+    "30056": {
+        "0xID": "7568",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679714\u7ea7",
+        "Name_de": "Forsterkundung XIV",
+        "Name_en": "Woodland Exploration XIV",
+        "Name_fr": "Exploration en for\u00eat XIV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G14",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 14"
+    },
+    "30057": {
+        "0xID": "7569",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb814\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XIV",
+        "Name_en": "Waterside Exploration XIV",
+        "Name_fr": "Exploration en rivage XIV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G14",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 14"
+    },
+    "30058": {
+        "0xID": "756A",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573015\u7ea7",
+        "Name_de": "Felderkundung XV",
+        "Name_en": "Field Exploration XV",
+        "Name_fr": "Exploration en plaine XV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G15",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 15"
+    },
+    "30059": {
+        "0xID": "756B",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb315\u7ea7",
+        "Name_de": "Hochlanderkundung XV",
+        "Name_en": "Highland Exploration XV",
+        "Name_fr": "Exploration en montagne XV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G15",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 15"
+    },
+    "30060": {
+        "0xID": "756C",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679715\u7ea7",
+        "Name_de": "Forsterkundung XV",
+        "Name_en": "Woodland Exploration XV",
+        "Name_fr": "Exploration en for\u00eat XV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G15",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 15"
+    },
+    "30061": {
+        "0xID": "756D",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb815\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XV",
+        "Name_en": "Waterside Exploration XV",
+        "Name_fr": "Exploration en rivage XV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G15",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 15"
+    },
+    "30062": {
+        "0xID": "756E",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573016\u7ea7",
+        "Name_de": "Felderkundung XVI",
+        "Name_en": "Field Exploration XVI",
+        "Name_fr": "Exploration en plaine XVI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G16",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 16"
+    },
+    "30063": {
+        "0xID": "756F",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb316\u7ea7",
+        "Name_de": "Hochlanderkundung XVI",
+        "Name_en": "Highland Exploration XVI",
+        "Name_fr": "Exploration en montagne XVI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G16",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 16"
+    },
+    "30064": {
+        "0xID": "7570",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679716\u7ea7",
+        "Name_de": "Forsterkundung XVI",
+        "Name_en": "Woodland Exploration XVI",
+        "Name_fr": "Exploration en for\u00eat XVI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G16",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 16"
+    },
+    "30065": {
+        "0xID": "7571",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb816\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XVI",
+        "Name_en": "Waterside Exploration XVI",
+        "Name_fr": "Exploration en rivage XVI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G16",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 16"
+    },
+    "30066": {
+        "0xID": "7572",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573017\u7ea7",
+        "Name_de": "Felderkundung XVII",
+        "Name_en": "Field Exploration XVII",
+        "Name_fr": "Exploration en plaine XVII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G17",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 17"
+    },
+    "30067": {
+        "0xID": "7573",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb317\u7ea7",
+        "Name_de": "Hochlanderkundung XVII",
+        "Name_en": "Highland Exploration XVII",
+        "Name_fr": "Exploration en montagne XVII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G17",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 17"
+    },
+    "30068": {
+        "0xID": "7574",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679717\u7ea7",
+        "Name_de": "Forsterkundung XVII",
+        "Name_en": "Woodland Exploration XVII",
+        "Name_fr": "Exploration en for\u00eat XVII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G17",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 17"
+    },
+    "30069": {
+        "0xID": "7575",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb817\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XVII",
+        "Name_en": "Waterside Exploration XVII",
+        "Name_fr": "Exploration en rivage XVII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G17",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 17"
+    },
+    "30070": {
+        "0xID": "7576",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573018\u7ea7",
+        "Name_de": "Felderkundung XVIII",
+        "Name_en": "Field Exploration XVIII",
+        "Name_fr": "Exploration en plaine XVIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G18",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 18"
+    },
+    "30071": {
+        "0xID": "7577",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb318\u7ea7",
+        "Name_de": "Hochlanderkundung XVIII",
+        "Name_en": "Highland Exploration XVIII",
+        "Name_fr": "Exploration en montagne XVIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G18",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 18"
+    },
+    "30072": {
+        "0xID": "7578",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679718\u7ea7",
+        "Name_de": "Forsterkundung XVIII",
+        "Name_en": "Woodland Exploration XVIII",
+        "Name_fr": "Exploration en for\u00eat XVIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G18",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 18"
+    },
+    "30073": {
+        "0xID": "7579",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb818\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XVIII",
+        "Name_en": "Waterside Exploration XVIII",
+        "Name_fr": "Exploration en rivage XVIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G18",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 18"
+    },
+    "30074": {
+        "0xID": "757A",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573019\u7ea7",
+        "Name_de": "Felderkundung XIX",
+        "Name_en": "Field Exploration XIX",
+        "Name_fr": "Exploration en plaine XIX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G19",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 19"
+    },
+    "30075": {
+        "0xID": "757B",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb319\u7ea7",
+        "Name_de": "Hochlanderkundung XIX",
+        "Name_en": "Highland Exploration XIX",
+        "Name_fr": "Exploration en montagne XIX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G19",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 19"
+    },
+    "30076": {
+        "0xID": "757C",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679719\u7ea7",
+        "Name_de": "Forsterkundung XIX",
+        "Name_en": "Woodland Exploration XIX",
+        "Name_fr": "Exploration en for\u00eat XIX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G19",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 19"
+    },
+    "30077": {
+        "0xID": "757D",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb819\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XIX",
+        "Name_en": "Waterside Exploration XIX",
+        "Name_fr": "Exploration en rivage XIX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G19",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 19"
+    },
+    "30078": {
+        "0xID": "757E",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573020\u7ea7",
+        "Name_de": "Felderkundung XX",
+        "Name_en": "Field Exploration XX",
+        "Name_fr": "Exploration en plaine XX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G20",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 20"
+    },
+    "30079": {
+        "0xID": "757F",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb320\u7ea7",
+        "Name_de": "Hochlanderkundung XX",
+        "Name_en": "Highland Exploration XX",
+        "Name_fr": "Exploration en montagne XX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G20",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 20"
+    },
+    "30080": {
+        "0xID": "7580",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679720\u7ea7",
+        "Name_de": "Forsterkundung XX",
+        "Name_en": "Woodland Exploration XX",
+        "Name_fr": "Exploration en for\u00eat XX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G20",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 20"
+    },
+    "30081": {
+        "0xID": "7581",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb820\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XX",
+        "Name_en": "Waterside Exploration XX",
+        "Name_fr": "Exploration en rivage XX",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G20",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 20"
+    },
+    "30082": {
+        "0xID": "7582",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573021\u7ea7",
+        "Name_de": "Felderkundung XXI",
+        "Name_en": "Field Exploration XXI",
+        "Name_fr": "Exploration en plaine XXI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G21",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 21"
+    },
+    "30083": {
+        "0xID": "7583",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb321\u7ea7",
+        "Name_de": "Hochlanderkundung XXI",
+        "Name_en": "Highland Exploration XXI",
+        "Name_fr": "Exploration en montagne XXI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G21",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 21"
+    },
+    "30084": {
+        "0xID": "7584",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679721\u7ea7",
+        "Name_de": "Forsterkundung XXI",
+        "Name_en": "Woodland Exploration XXI",
+        "Name_fr": "Exploration en for\u00eat XXI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G21",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 21"
+    },
+    "30085": {
+        "0xID": "7585",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb821\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XXI",
+        "Name_en": "Waterside Exploration XXI",
+        "Name_fr": "Exploration en rivage XXI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G21",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 21"
+    },
+    "30086": {
+        "0xID": "7586",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573022\u7ea7",
+        "Name_de": "Felderkundung XXII",
+        "Name_en": "Field Exploration XXII",
+        "Name_fr": "Exploration en plaine XXII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G22",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 22"
+    },
+    "30087": {
+        "0xID": "7587",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb322\u7ea7",
+        "Name_de": "Hochlanderkundung XXII",
+        "Name_en": "Highland Exploration XXII",
+        "Name_fr": "Exploration en montagne XXII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G22",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 22"
+    },
+    "30088": {
+        "0xID": "7588",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679722\u7ea7",
+        "Name_de": "Forsterkundung XXII",
+        "Name_en": "Woodland Exploration XXII",
+        "Name_fr": "Exploration en for\u00eat XXII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G22",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 22"
+    },
+    "30089": {
+        "0xID": "7589",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb822\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XXII",
+        "Name_en": "Waterside Exploration XXII",
+        "Name_fr": "Exploration en rivage XXII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G22",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 22"
+    },
+    "30090": {
+        "0xID": "758A",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573023\u7ea7",
+        "Name_de": "Felderkundung XXIII",
+        "Name_en": "Field Exploration XXIII",
+        "Name_fr": "Exploration en plaine XXIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G23",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 23"
+    },
+    "30091": {
+        "0xID": "758B",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb323\u7ea7",
+        "Name_de": "Hochlanderkundung XXIII",
+        "Name_en": "Highland Exploration XXIII",
+        "Name_fr": "Exploration en montagne XXIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G23",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 23"
+    },
+    "30092": {
+        "0xID": "758C",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679723\u7ea7",
+        "Name_de": "Forsterkundung XXIII",
+        "Name_en": "Woodland Exploration XXIII",
+        "Name_fr": "Exploration en for\u00eat XXIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G23",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 23"
+    },
+    "30093": {
+        "0xID": "758D",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb823\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XXIII",
+        "Name_en": "Waterside Exploration XXIII",
+        "Name_fr": "Exploration en rivage XXIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G23",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 23"
+    },
+    "30094": {
+        "0xID": "758E",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573024\u7ea7",
+        "Name_de": "Felderkundung XXIV",
+        "Name_en": "Field Exploration XXIV",
+        "Name_fr": "Exploration en plaine XXIV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G24",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 24"
+    },
+    "30095": {
+        "0xID": "758F",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb324\u7ea7",
+        "Name_de": "Hochlanderkundung XXIV",
+        "Name_en": "Highland Exploration XXIV",
+        "Name_fr": "Exploration en montagne XXIV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G24",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 24"
+    },
+    "30096": {
+        "0xID": "7590",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679724\u7ea7",
+        "Name_de": "Forsterkundung XXIV",
+        "Name_en": "Woodland Exploration XXIV",
+        "Name_fr": "Exploration en for\u00eat XXIV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G24",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 24"
+    },
+    "30097": {
+        "0xID": "7591",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb824\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XXIV",
+        "Name_en": "Waterside Exploration XXIV",
+        "Name_fr": "Exploration en rivage XXIV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G24",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 24"
+    },
+    "30098": {
+        "0xID": "7592",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573025\u7ea7",
+        "Name_de": "Felderkundung XXV",
+        "Name_en": "Field Exploration XXV",
+        "Name_fr": "Exploration en plaine XXV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G25",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 25"
+    },
+    "30099": {
+        "0xID": "7593",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb325\u7ea7",
+        "Name_de": "Hochlanderkundung XXV",
+        "Name_en": "Highland Exploration XXV",
+        "Name_fr": "Exploration en montagne XXV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G25",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 25"
+    },
+    "30100": {
+        "0xID": "7594",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679725\u7ea7",
+        "Name_de": "Forsterkundung XXV",
+        "Name_en": "Woodland Exploration XXV",
+        "Name_fr": "Exploration en for\u00eat XXV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G25",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 25"
+    },
+    "30101": {
+        "0xID": "7595",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb825\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XXV",
+        "Name_en": "Waterside Exploration XXV",
+        "Name_fr": "Exploration en rivage XXV",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G25",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 25"
+    },
+    "30102": {
+        "0xID": "7596",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573026\u7ea7",
+        "Name_de": "Felderkundung XXVI",
+        "Name_en": "Field Exploration XXVI",
+        "Name_fr": "Exploration en plaine XXVI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G26",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 26"
+    },
+    "30103": {
+        "0xID": "7597",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb326\u7ea7",
+        "Name_de": "Hochlanderkundung XXVI",
+        "Name_en": "Highland Exploration XXVI",
+        "Name_fr": "Exploration en montagne XXVI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G26",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 26"
+    },
+    "30104": {
+        "0xID": "7598",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679726\u7ea7",
+        "Name_de": "Forsterkundung XXVI",
+        "Name_en": "Woodland Exploration XXVI",
+        "Name_fr": "Exploration en for\u00eat XXVI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G26",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 26"
+    },
+    "30105": {
+        "0xID": "7599",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb826\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XXVI",
+        "Name_en": "Waterside Exploration XXVI",
+        "Name_fr": "Exploration en rivage XXVI",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G26",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 26"
+    },
+    "30106": {
+        "0xID": "759A",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573027\u7ea7",
+        "Name_de": "Felderkundung XXVII",
+        "Name_en": "Field Exploration XXVII",
+        "Name_fr": "Exploration en plaine XXVII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G27",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 27"
+    },
+    "30107": {
+        "0xID": "759B",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb327\u7ea7",
+        "Name_de": "Hochlanderkundung XXVII",
+        "Name_en": "Highland Exploration XXVII",
+        "Name_fr": "Exploration en montagne XXVII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G27",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 27"
+    },
+    "30108": {
+        "0xID": "759C",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679727\u7ea7",
+        "Name_de": "Forsterkundung XXVII",
+        "Name_en": "Woodland Exploration XXVII",
+        "Name_fr": "Exploration en for\u00eat XXVII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G27",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 27"
+    },
+    "30109": {
+        "0xID": "759D",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb827\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XXVII",
+        "Name_en": "Waterside Exploration XXVII",
+        "Name_fr": "Exploration en rivage XXVII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G27",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 27"
+    },
+    "30110": {
+        "0xID": "759E",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5e73\u573028\u7ea7",
+        "Name_de": "Felderkundung XXVIII",
+        "Name_en": "Field Exploration XXVIII",
+        "Name_fr": "Exploration en plaine XXVIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5e73\u5730 G28",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ud3c9\uc9c0 28"
+    },
+    "30111": {
+        "0xID": "759F",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u5c71\u5cb328\u7ea7",
+        "Name_de": "Hochlanderkundung XXVIII",
+        "Name_en": "Highland Exploration XXVIII",
+        "Name_fr": "Exploration en montagne XXVIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u5c71\u5cb3 G28",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0b0\uc545 28"
+    },
+    "30112": {
+        "0xID": "75A0",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u68ee\u679728\u7ea7",
+        "Name_de": "Forsterkundung XXVIII",
+        "Name_en": "Woodland Exploration XXVIII",
+        "Name_fr": "Exploration en for\u00eat XXVIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u68ee\u6797 G28",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \uc0bc\ub9bc 28"
+    },
+    "30113": {
+        "0xID": "75A1",
+        "Name_cn": "\u63a2\u7d22\u59d4\u6258\uff1a\u6c34\u5cb828\u7ea7",
+        "Name_de": "Gew\u00e4ssererkundung XXVIII",
+        "Name_en": "Waterside Exploration XXVIII",
+        "Name_fr": "Exploration en rivage XXVIII",
+        "Name_ja": "\u63a2\u7d22\u4f9d\u983c\uff1a\u6c34\u8fba G28",
+        "Name_ko": "\ud0d0\uc0c9\uc218\ud589: \ubb3c\uac00 28"
+    }
+}

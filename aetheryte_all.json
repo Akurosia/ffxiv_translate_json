@@ -1,0 +1,1802 @@
+{
+    "0": {
+        "0xID": "0",
+        "Singular_cn": "\u4ee5\u592a\u4e4b\u5149",
+        "Singular_de": "\u00c4theryt",
+        "Singular_en": "aetheryte",
+        "Singular_fr": "\u00e9th\u00e9rite",
+        "Singular_ja": "\u30a8\u30fc\u30c6\u30e9\u30a4\u30c8",
+        "Singular_ko": "\uc5d0\ud14c\ub77c\uc774\ud2b8"
+    },
+    "1": {
+        "0xID": "1",
+        "Singular_cn": "\u57ce\u5185\u4ee5\u592a\u4e4b\u6676",
+        "Singular_de": "Stadt-\u00c4theryt",
+        "Singular_en": "Aethernet shard",
+        "Singular_fr": "\u00e9th\u00e9rite urbaine",
+        "Singular_ja": "\u90fd\u5e02\u5185\u30a8\u30fc\u30c6\u30e9\u30a4\u30c8",
+        "Singular_ko": "\ub3c4\uc2dc \ub0b4 \uc5d0\ud14c\ub77c\uc774\ud2b8"
+    },
+    "10": {
+        "0xID": "A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "100": {
+        "0xID": "64",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "101": {
+        "0xID": "65",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "102": {
+        "0xID": "66",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "103": {
+        "0xID": "67",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "104": {
+        "0xID": "68",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "105": {
+        "0xID": "69",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "106": {
+        "0xID": "6A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "107": {
+        "0xID": "6B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "108": {
+        "0xID": "6C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "109": {
+        "0xID": "6D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "11": {
+        "0xID": "B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "110": {
+        "0xID": "6E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "111": {
+        "0xID": "6F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "112": {
+        "0xID": "70",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "113": {
+        "0xID": "71",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "114": {
+        "0xID": "72",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "115": {
+        "0xID": "73",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "116": {
+        "0xID": "74",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "117": {
+        "0xID": "75",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "118": {
+        "0xID": "76",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "119": {
+        "0xID": "77",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12": {
+        "0xID": "C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "120": {
+        "0xID": "78",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "121": {
+        "0xID": "79",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "122": {
+        "0xID": "7A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "123": {
+        "0xID": "7B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "124": {
+        "0xID": "7C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "125": {
+        "0xID": "7D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "126": {
+        "0xID": "7E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "127": {
+        "0xID": "7F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "128": {
+        "0xID": "80",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "129": {
+        "0xID": "81",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "13": {
+        "0xID": "D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "130": {
+        "0xID": "82",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "131": {
+        "0xID": "83",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "132": {
+        "0xID": "84",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "133": {
+        "0xID": "85",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "134": {
+        "0xID": "86",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "135": {
+        "0xID": "87",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "136": {
+        "0xID": "88",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "137": {
+        "0xID": "89",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "138": {
+        "0xID": "8A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "139": {
+        "0xID": "8B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "14": {
+        "0xID": "E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "140": {
+        "0xID": "8C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "141": {
+        "0xID": "8D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "142": {
+        "0xID": "8E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "143": {
+        "0xID": "8F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "144": {
+        "0xID": "90",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "145": {
+        "0xID": "91",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "146": {
+        "0xID": "92",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "147": {
+        "0xID": "93",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "148": {
+        "0xID": "94",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "149": {
+        "0xID": "95",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "15": {
+        "0xID": "F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "150": {
+        "0xID": "96",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "151": {
+        "0xID": "97",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "152": {
+        "0xID": "98",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "153": {
+        "0xID": "99",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "154": {
+        "0xID": "9A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "155": {
+        "0xID": "9B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "156": {
+        "0xID": "9C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "157": {
+        "0xID": "9D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "158": {
+        "0xID": "9E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "159": {
+        "0xID": "9F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "16": {
+        "0xID": "10",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "160": {
+        "0xID": "A0",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "161": {
+        "0xID": "A1",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "162": {
+        "0xID": "A2",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "163": {
+        "0xID": "A3",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "164": {
+        "0xID": "A4",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "165": {
+        "0xID": "A5",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "166": {
+        "0xID": "A6",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "167": {
+        "0xID": "A7",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "168": {
+        "0xID": "A8",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "169": {
+        "0xID": "A9",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "17": {
+        "0xID": "11",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "170": {
+        "0xID": "AA",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "171": {
+        "0xID": "AB",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "172": {
+        "0xID": "AC",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "173": {
+        "0xID": "AD",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "174": {
+        "0xID": "AE",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "175": {
+        "0xID": "AF",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "176": {
+        "0xID": "B0",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "177": {
+        "0xID": "B1",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "178": {
+        "0xID": "B2",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "179": {
+        "0xID": "B3",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "18": {
+        "0xID": "12",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "180": {
+        "0xID": "B4",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "181": {
+        "0xID": "B5",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "182": {
+        "0xID": "B6",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "183": {
+        "0xID": "B7",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "184": {
+        "0xID": "B8",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "185": {
+        "0xID": "B9",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "186": {
+        "0xID": "BA",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "187": {
+        "0xID": "BB",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "188": {
+        "0xID": "BC",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "189": {
+        "0xID": "BD",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "19": {
+        "0xID": "13",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "190": {
+        "0xID": "BE",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "191": {
+        "0xID": "BF",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "192": {
+        "0xID": "C0",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "193": {
+        "0xID": "C1",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "194": {
+        "0xID": "C2",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "195": {
+        "0xID": "C3",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "196": {
+        "0xID": "C4",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "197": {
+        "0xID": "C5",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "198": {
+        "0xID": "C6",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "199": {
+        "0xID": "C7",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2": {
+        "0xID": "2",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "20": {
+        "0xID": "14",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "21": {
+        "0xID": "15",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "22": {
+        "0xID": "16",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "23": {
+        "0xID": "17",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "24": {
+        "0xID": "18",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "25": {
+        "0xID": "19",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "26": {
+        "0xID": "1A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "27": {
+        "0xID": "1B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "28": {
+        "0xID": "1C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "29": {
+        "0xID": "1D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "3": {
+        "0xID": "3",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "30": {
+        "0xID": "1E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "32": {
+        "0xID": "20",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "33": {
+        "0xID": "21",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "34": {
+        "0xID": "22",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "35": {
+        "0xID": "23",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "36": {
+        "0xID": "24",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "37": {
+        "0xID": "25",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "38": {
+        "0xID": "26",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "39": {
+        "0xID": "27",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "4": {
+        "0xID": "4",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "40": {
+        "0xID": "28",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "41": {
+        "0xID": "29",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "42": {
+        "0xID": "2A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "43": {
+        "0xID": "2B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "44": {
+        "0xID": "2C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "45": {
+        "0xID": "2D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "46": {
+        "0xID": "2E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "47": {
+        "0xID": "2F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "48": {
+        "0xID": "30",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "49": {
+        "0xID": "31",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "5": {
+        "0xID": "5",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "50": {
+        "0xID": "32",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "51": {
+        "0xID": "33",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "52": {
+        "0xID": "34",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "53": {
+        "0xID": "35",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "54": {
+        "0xID": "36",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "55": {
+        "0xID": "37",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "56": {
+        "0xID": "38",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "57": {
+        "0xID": "39",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "58": {
+        "0xID": "3A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "59": {
+        "0xID": "3B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "6": {
+        "0xID": "6",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "60": {
+        "0xID": "3C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "61": {
+        "0xID": "3D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "62": {
+        "0xID": "3E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "63": {
+        "0xID": "3F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "64": {
+        "0xID": "40",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "65": {
+        "0xID": "41",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "66": {
+        "0xID": "42",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "67": {
+        "0xID": "43",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "68": {
+        "0xID": "44",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "69": {
+        "0xID": "45",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "7": {
+        "0xID": "7",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "70": {
+        "0xID": "46",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "71": {
+        "0xID": "47",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "72": {
+        "0xID": "48",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "73": {
+        "0xID": "49",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "74": {
+        "0xID": "4A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "75": {
+        "0xID": "4B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "76": {
+        "0xID": "4C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "77": {
+        "0xID": "4D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "78": {
+        "0xID": "4E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "79": {
+        "0xID": "4F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "8": {
+        "0xID": "8",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "80": {
+        "0xID": "50",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "81": {
+        "0xID": "51",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "82": {
+        "0xID": "52",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "83": {
+        "0xID": "53",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "84": {
+        "0xID": "54",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "85": {
+        "0xID": "55",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "86": {
+        "0xID": "56",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "87": {
+        "0xID": "57",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "88": {
+        "0xID": "58",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "89": {
+        "0xID": "59",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "90": {
+        "0xID": "5A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "91": {
+        "0xID": "5B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "92": {
+        "0xID": "5C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "93": {
+        "0xID": "5D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "94": {
+        "0xID": "5E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "95": {
+        "0xID": "5F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "96": {
+        "0xID": "60",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "97": {
+        "0xID": "61",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "98": {
+        "0xID": "62",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "99": {
+        "0xID": "63",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    }
+}

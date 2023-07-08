@@ -1,0 +1,902 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u5931\u4f20\u5f3a\u9ebb\u75f9",
+        "Name_de": "Verschollenes Paralyga",
+        "Name_en": "Lost Paralyze III",
+        "Name_fr": "M\u00e9ga Paralysie oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d1\u30e9\u30a4\u30ac",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ud30c\ub77c\uc774\uac00"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u5931\u4f20\u9b54\u76fe",
+        "Name_de": "Verschollenes Vallum",
+        "Name_en": "Lost Shell",
+        "Name_fr": "Barri\u00e8re oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b7\u30a7\u30eb",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc178"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u5931\u4f20\u53cd\u5c04",
+        "Name_de": "Verschollene Reflektion",
+        "Name_en": "Lost Reflect",
+        "Name_fr": "Miroir oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30ea\u30d5\u30ec\u30af",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ub9ac\ud50c\ub809\ud2b8"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u5931\u4f20\u77f3\u80a4",
+        "Name_de": "Verschollene Steinhaut",
+        "Name_en": "Lost Stoneskin",
+        "Name_fr": "Cuirasse oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30c8\u30f3\u30b9\u30ad\u30f3",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc2a4\ud1a4\uc2a4\ud0a8"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u5931\u4f20\u52c7\u6c14",
+        "Name_de": "Verschollene Courage",
+        "Name_en": "Lost Bravery",
+        "Name_fr": "Bravoure oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d6\u30ec\u30a4\u30d6",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ube0c\ub808\uc774\ube0c"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u5931\u4f20\u84c4\u529b",
+        "Name_de": "Verschollene Ladung",
+        "Name_en": "Lost Focus",
+        "Name_fr": "Focalisation oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30c1\u30e3\u30fc\u30b8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc9d1\uc911"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u5931\u4f20\u9b54\u6cc9",
+        "Name_de": "Verschollene Magiefont\u00e4ne",
+        "Name_en": "Lost Font of Magic",
+        "Name_fr": "Fontaine de magie oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30de\u30b8\u30c3\u30af\u30d5\u30a9\u30f3\u30c8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ub9c8\ubc95\uc758 \uc6d0\ucc9c"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u5931\u4f20\u6280\u6cc9",
+        "Name_de": "Verschollene Technikfont\u00e4ne",
+        "Name_en": "Lost Font of Skill",
+        "Name_fr": "Fontaine de technique oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30ad\u30eb\u30d5\u30a9\u30f3\u30c8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uae30\uc220\uc758 \uc6d0\ucc9c"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u5931\u4f20\u529b\u6cc9",
+        "Name_de": "Verschollene Machtfont\u00e4ne",
+        "Name_en": "Lost Font of Power",
+        "Name_fr": "Fontaine de puissance oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d1\u30ef\u30fc\u30d5\u30a9\u30f3\u30c8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ud798\uc758 \uc6d0\ucc9c"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u5931\u4f20\u65a9\u51fb",
+        "Name_de": "Verschollener Schlitzer",
+        "Name_en": "Lost Slash",
+        "Name_fr": "Taillade oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30e9\u30c3\u30b7\u30e5",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ucc38\uaca9"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u5931\u4f20\u5373\u6b7b",
+        "Name_de": "Verschollener Tod",
+        "Name_en": "Lost Death",
+        "Name_fr": "Mort oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30c7\u30b9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ub370\uc2a4"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u5931\u4f20\u5f3a\u653e\u9010",
+        "Name_de": "Verschollenes Verbannga",
+        "Name_en": "Lost Banish III",
+        "Name_fr": "M\u00e9ga Bannissement oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d0\u30cb\u30b7\u30e5\u30ac",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ubc30\ub2c8\uc2dc\uac00"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u80cc\u6c34\u5883\u5730",
+        "Name_de": "Gem\u00fct der Verdrossenheit",
+        "Name_en": "Banner of Noble Ends",
+        "Name_fr": "Seuil de la fr\u00e9n\u00e9sie",
+        "Name_ja": "\u80cc\u6c34\u306e\u5883\u5730",
+        "Name_ko": "\ubc30\uc218\uc758 \uacbd\uc9c0"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u820d\u8eab\u5883\u5730",
+        "Name_de": "Gem\u00fct der Ungehaltenheit",
+        "Name_en": "Banner of Honored Sacrifice",
+        "Name_fr": "Seuil de l'abn\u00e9gation",
+        "Name_ja": "\u6368\u8eab\u306e\u5883\u5730",
+        "Name_ko": "\ud544\uc0ac\uc758 \uacbd\uc9c0"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u5fcd\u8010\u5883\u5730",
+        "Name_de": "Gem\u00fct der Beharrlichkeit",
+        "Name_en": "Banner of Tireless Conviction",
+        "Name_fr": "Seuil de la patience",
+        "Name_ja": "\u5fcd\u8010\u306e\u5883\u5730",
+        "Name_ko": "\uc778\ub0b4\uc758 \uacbd\uc9c0"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u575a\u5b88\u5883\u5730",
+        "Name_de": "Gem\u00fct der Folgsamkeit",
+        "Name_en": "Banner of Firm Resolve",
+        "Name_fr": "Seuil de la pr\u00e9servation",
+        "Name_ja": "\u5805\u5b88\u306e\u5883\u5730",
+        "Name_ko": "\uc218\ube44\uc758 \uacbd\uc9c0"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u51a5\u60f3\u5883\u5730",
+        "Name_de": "Gem\u00fct der Besinnlichkeit",
+        "Name_en": "Banner of Solemn Clarity",
+        "Name_fr": "Seuil de la contemplation",
+        "Name_ja": "\u7791\u60f3\u306e\u5883\u5730",
+        "Name_ko": "\uba85\uc0c1\uc758 \uacbd\uc9c0"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u654f\u9510\u5883\u5730",
+        "Name_de": "Gem\u00fct der Empfindsamkeit",
+        "Name_en": "Banner of Honed Acuity",
+        "Name_fr": "Seuil de la perception",
+        "Name_ja": "\u92ed\u654f\u306e\u5883\u5730",
+        "Name_ko": "\uc608\ubbfc\uc758 \uacbd\uc9c0"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u5931\u4f20\u6cbb\u7597",
+        "Name_de": "Verschollene Vita",
+        "Name_en": "Lost Cure",
+        "Name_fr": "Soin oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b1\u30a2\u30eb",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ucf00\uc54c"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u5931\u4f20\u6551\u7597",
+        "Name_de": "Verschollene Vitra",
+        "Name_en": "Lost Cure II",
+        "Name_fr": "Extra Soin oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b1\u30a2\u30eb\u30e9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ucf00\uc54c\ub77c"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u5931\u4f20\u6108\u7597",
+        "Name_de": "Verschollene Vitaga",
+        "Name_en": "Lost Cure III",
+        "Name_fr": "M\u00e9ga Soin oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b1\u30a2\u30eb\u30ac",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ucf00\uc54c\uac00"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u5931\u4f20\u5723\u7597",
+        "Name_de": "Verschollene Vitaka",
+        "Name_en": "Lost Cure IV",
+        "Name_fr": "Giga Soin oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b1\u30a2\u30eb\u30b8\u30e3",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ucf00\uc54c\uc7c8"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u5931\u4f20\u575a\u58c1",
+        "Name_de": "Verschollene Mana-Wand",
+        "Name_en": "Lost Manawall",
+        "Name_fr": "Mur de mana oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30a6\u30a9\u30fc\u30eb",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc7a5\ubcbd"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u5931\u4f20\u5b8c\u5168\u590d\u6d3b",
+        "Name_de": "Verschollener Erzengel",
+        "Name_en": "Lost Arise",
+        "Name_fr": "Maxi-Vie oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30a2\u30ec\u30a4\u30ba",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc5b4\ub808\uc774\uc988"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u5931\u4f20\u6fc0\u6012",
+        "Name_de": "Verschollener Hohn",
+        "Name_en": "Lost Incense",
+        "Name_fr": "Incitation oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30a8\u30f3\u30df\u30c6\u30a3",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc801\uc758"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u5931\u4f20\u516c\u5e73\u4ea4\u6613",
+        "Name_de": "Verschollener Handel",
+        "Name_en": "Lost Fair Trade",
+        "Name_fr": "\u00c9change \u00e9quitable oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d5\u30a7\u30a2\u30c8\u30ec\u30fc\u30c9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uacf5\uc815\uac70\ub798"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u6a21\u4eff",
+        "Name_de": "Nachahmung",
+        "Name_en": "Mimic",
+        "Name_fr": "Mime",
+        "Name_ja": "\u3082\u306e\u307e\u306d",
+        "Name_ko": "\ud749\ub0b4"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u547d\u8fd0\u9ab0\u5b50",
+        "Name_de": "W\u00fcrfel des Schicksals",
+        "Name_en": "Dynamis Dice",
+        "Name_fr": "D\u00e9 du destin",
+        "Name_ja": "\u904b\u547d\u306e\u30c0\u30a4\u30b9",
+        "Name_ko": "\uc6b4\uba85\uc758 \uc8fc\uc0ac\uc704"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u4e49\u519b\u4e0d\u6b7b\u9e1f\u4e4b\u5c3e",
+        "Name_de": "Ph\u00f6nixfeder des Widerstands",
+        "Name_en": "Resistance Phoenix",
+        "Name_fr": "Plume de ph\u00e9nix de la r\u00e9sistance",
+        "Name_ja": "\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u30d5\u30a7\u30b6\u30fc",
+        "Name_ko": "\uc800\ud56d\uad70\uc6a9 \ud53c\ub2c9\uc2a4 \uae43\ud138"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u4e49\u519b\u590d\u6d3b\u836f",
+        "Name_de": "Lebensfeder des Widerstands",
+        "Name_en": "Resistance Reraiser",
+        "Name_fr": "Vitaplume de la r\u00e9sistance",
+        "Name_ja": "\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u30ea\u30ec\u30a4\u30b6\u30fc",
+        "Name_ko": "\uc800\ud56d\uad70\uc6a9 \ub9ac\ub808\uc774\uc800"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u4e49\u519b\u6062\u590d\u836f\u7bb1",
+        "Name_de": "Tr\u00e4nkesammlung des Widerstands",
+        "Name_en": "Resistance Potion Kit",
+        "Name_fr": "Kit de potion de la r\u00e9sistance",
+        "Name_ja": "\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u30dd\u30fc\u30b7\u30e7\u30f3\u30ad\u30c3\u30c8",
+        "Name_ko": "\uc800\ud56d\uad70\uc6a9 \ud3ec\uc158 \ud0a4\ud2b8"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u4e49\u519b\u4ee5\u592a\u836f\u7bb1",
+        "Name_de": "\u00c4thersammlung des Widerstands",
+        "Name_en": "Resistance Ether Kit",
+        "Name_fr": "Kit d'\u00e9ther de la r\u00e9sistance",
+        "Name_ja": "\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u30a8\u30fc\u30c6\u30eb\u30ad\u30c3\u30c8",
+        "Name_ko": "\uc800\ud56d\uad70\uc6a9 \uc5d0\ud14c\ub974 \ud0a4\ud2b8"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u4e49\u519b\u6cbb\u6108\u7bb1",
+        "Name_de": "Kr\u00e4utersammlung des Widerstands",
+        "Name_en": "Resistance Medikit",
+        "Name_fr": "Kit m\u00e9dical de la r\u00e9sistance",
+        "Name_ja": "\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u30ec\u30e1\u30c7\u30a3\u30ad\u30c3\u30c8",
+        "Name_ko": "\uc800\ud56d\uad70\uc6a9 \uce58\ub8cc\uc81c \ud0a4\ud2b8"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u5931\u4f20\u9a71\u9b54",
+        "Name_de": "Verschollenes Entzaubern",
+        "Name_en": "Lost Dispel",
+        "Name_fr": "Dissipation oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30c7\u30a3\u30b9\u30da\u30eb",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ub514\uc2a4\ud3a0"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u4e49\u519b\u6062\u590d\u836f",
+        "Name_de": "Heiltrank des Widerstands",
+        "Name_en": "Resistance Potion",
+        "Name_fr": "Potion de la r\u00e9sistance",
+        "Name_ja": "\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u30dd\u30fc\u30b7\u30e7\u30f3",
+        "Name_ko": "\uc800\ud56d\uad70\uc6a9 \ud3ec\uc158"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u672f\u58eb\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Veteranen",
+        "Name_en": "Essence of the Aetherweaver",
+        "Name_fr": "Breuvage magique de pr\u00eatre guerrier",
+        "Name_ja": "\u8853\u58eb\u306e\u79d8\u85ac",
+        "Name_ko": "\uc220\uc0ac\uc758 \ube44\uc57d"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u6597\u58eb\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des K\u00e4mpfers",
+        "Name_en": "Essence of the Martialist",
+        "Name_fr": "Breuvage magique de protecteur intr\u00e9pide",
+        "Name_ja": "\u95d8\u58eb\u306e\u79d8\u85ac",
+        "Name_ko": "\ud22c\uc0ac\uc758 \ube44\uc57d"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u6cbb\u6108\u8005\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Heilers",
+        "Name_en": "Essence of the Savior",
+        "Name_fr": "Breuvage magique de vivificateur",
+        "Name_ja": "\u6cbb\u7652\u8005\u306e\u79d8\u85ac",
+        "Name_ko": "\uce58\uc720\uc790\uc758 \ube44\uc57d"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u9b54\u6218\u58eb\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Kampfmagiers",
+        "Name_en": "Essence of the Veteran",
+        "Name_fr": "Breuvage magique de mage guerrier",
+        "Name_ja": "\u9b54\u6226\u58eb\u306e\u79d8\u85ac",
+        "Name_ko": "\ub9c8\uc804\uc0ac\uc758 \ube44\uc57d"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u91cd\u9a91\u5175\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Ritters",
+        "Name_en": "Essence of the Platebearer",
+        "Name_fr": "Breuvage magique de soldat cuirass\u00e9",
+        "Name_ja": "\u91cd\u9a0e\u5175\u306e\u79d8\u85ac",
+        "Name_ko": "\uc911\uae30\ubcd1\uc758 \ube44\uc57d"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u5b88\u62a4\u8005\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Besch\u00fctzers",
+        "Name_en": "Essence of the Guardian",
+        "Name_fr": "Breuvage magique de gardien",
+        "Name_ja": "\u5b88\u8b77\u8005\u306e\u79d8\u85ac",
+        "Name_ko": "\uc218\ud638\uc790\uc758 \ube44\uc57d"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u796d\u53f8\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Priesters",
+        "Name_en": "Essence of the Ordained",
+        "Name_fr": "Breuvage magique de pr\u00eatre",
+        "Name_ja": "\u53f8\u796d\u306e\u79d8\u85ac",
+        "Name_ko": "\uc0ac\uc81c\uc758 \ube44\uc57d"
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u6b66\u4eba\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Kriegers",
+        "Name_en": "Essence of the Skirmisher",
+        "Name_fr": "Breuvage magique de combattant",
+        "Name_ja": "\u6b66\u4eba\u306e\u79d8\u85ac",
+        "Name_ko": "\ubb34\uc778\uc758 \ube44\uc57d"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u65a5\u5019\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Sp\u00e4hers",
+        "Name_en": "Essence of the Watcher",
+        "Name_fr": "Breuvage magique d'\u00e9claireur",
+        "Name_ja": "\u65a5\u5019\u306e\u79d8\u85ac",
+        "Name_ko": "\ucc99\ud6c4\uc758 \ube44\uc57d"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u5931\u4f20\u6f5c\u884c",
+        "Name_de": "Verschollene Coeurl-Pfoten",
+        "Name_en": "Lost Stealth",
+        "Name_fr": "Furtivit\u00e9 oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30c6\u30eb\u30b9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc740\uc2e0"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u7834\u6212\u50e7\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des M\u00f6nchs",
+        "Name_en": "Essence of the Profane",
+        "Name_fr": "Breuvage magique de pr\u00eatre h\u00e9r\u00e9tique",
+        "Name_ja": "\u7834\u6212\u50e7\u306e\u79d8\u85ac",
+        "Name_ko": "\ud30c\uacc4\uc2b9\uc758 \ube44\uc57d"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u72c2\u6218\u58eb\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Berserkers",
+        "Name_en": "Essence of the Irregular",
+        "Name_fr": "Breuvage magique de guerrier enrag\u00e9",
+        "Name_ja": "\u72c2\u6226\u58eb\u306e\u79d8\u85ac",
+        "Name_ko": "\uad11\uc804\uc0ac\uc758 \ube44\uc57d"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "\u76d7\u8d3c\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Diebes",
+        "Name_en": "Essence of the Breathtaker",
+        "Name_fr": "Breuvage magique de voleur",
+        "Name_ja": "\u76d7\u8cca\u306e\u79d8\u85ac",
+        "Name_ko": "\ub3c4\uc801\uc758 \ube44\uc57d"
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u5438\u8840\u9b3c\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Blutsaugers",
+        "Name_en": "Essence of the Bloodsucker",
+        "Name_fr": "Breuvage magique de vampire",
+        "Name_ja": "\u5438\u8840\u9b3c\u306e\u79d8\u85ac",
+        "Name_ko": "\ud761\ud608\uadc0\uc758 \ube44\uc57d"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "\u72fc\u4eba\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank der Wolfsleute",
+        "Name_en": "Essence of the Beast",
+        "Name_fr": "Breuvage magique d'homme-loup",
+        "Name_ja": "\u4eba\u72fc\u306e\u79d8\u85ac",
+        "Name_ko": "\ub291\ub300\uc778\uac04\uc758 \ube44\uc57d"
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u5723\u9a91\u58eb\u7684\u79d8\u836f",
+        "Name_de": "Zaubertrank des Paladins",
+        "Name_en": "Essence of the Templar",
+        "Name_fr": "Breuvage magique de chevalier sacr\u00e9",
+        "Name_ja": "\u8056\u9a0e\u58eb\u306e\u79d8\u85ac",
+        "Name_ko": "\uc131\uae30\uc0ac\uc758 \ube44\uc57d"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u672f\u58eb\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Veteranen",
+        "Name_en": "Deep Essence of the Aetherweaver",
+        "Name_fr": "Breuvage miraculeux de pr\u00eatre guerrier",
+        "Name_ja": "\u8853\u58eb\u306e\u970a\u85ac",
+        "Name_ko": "\uc220\uc0ac\uc758 \uc601\uc57d"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u6597\u58eb\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des K\u00e4mpfers",
+        "Name_en": "Deep Essence of the Martialist",
+        "Name_fr": "Breuvage miraculeux de protecteur intr\u00e9pide",
+        "Name_ja": "\u95d8\u58eb\u306e\u970a\u85ac",
+        "Name_ko": "\ud22c\uc0ac\uc758 \uc601\uc57d"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u6cbb\u6108\u8005\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Heilers",
+        "Name_en": "Deep Essence of the Savior",
+        "Name_fr": "Breuvage miraculeux de vivificateur",
+        "Name_ja": "\u6cbb\u7652\u8005\u306e\u970a\u85ac",
+        "Name_ko": "\uce58\uc720\uc790\uc758 \uc601\uc57d"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u9b54\u6218\u58eb\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Kampfmagiers",
+        "Name_en": "Deep Essence of the Veteran",
+        "Name_fr": "Breuvage miraculeux de mage guerrier",
+        "Name_ja": "\u9b54\u6226\u58eb\u306e\u970a\u85ac",
+        "Name_ko": "\ub9c8\uc804\uc0ac\uc758 \uc601\uc57d"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u5931\u4f20\u94f8\u9b54",
+        "Name_de": "Verschollene Zauberschmiede",
+        "Name_en": "Lost Spellforge",
+        "Name_fr": "Forgesort oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30da\u30eb\u30d5\u30a9\u30fc\u30b8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ub9c8\ubc95 \uc5f0\uc131"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "\u91cd\u9a91\u5175\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Ritters",
+        "Name_en": "Deep Essence of the Platebearer",
+        "Name_fr": "Breuvage miraculeux de soldat cuirass\u00e9",
+        "Name_ja": "\u91cd\u9a0e\u5175\u306e\u970a\u85ac",
+        "Name_ko": "\uc911\uae30\ubcd1\uc758 \uc601\uc57d"
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u5b88\u62a4\u8005\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Besch\u00fctzers",
+        "Name_en": "Deep Essence of the Guardian ",
+        "Name_fr": "Breuvage miraculeux de gardien",
+        "Name_ja": "\u5b88\u8b77\u8005\u306e\u970a\u85ac",
+        "Name_ko": "\uc218\ud638\uc790\uc758 \uc601\uc57d"
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u796d\u53f8\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Priesters",
+        "Name_en": "Deep Essence of the Ordained",
+        "Name_fr": "Breuvage miraculeux de pr\u00eatre",
+        "Name_ja": "\u53f8\u796d\u306e\u970a\u85ac",
+        "Name_ko": "\uc0ac\uc81c\uc758 \uc601\uc57d"
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "\u6b66\u4eba\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Kriegers",
+        "Name_en": "Deep Essence of the Skirmisher",
+        "Name_fr": "Breuvage miraculeux de combattant",
+        "Name_ja": "\u6b66\u4eba\u306e\u970a\u85ac",
+        "Name_ko": "\ubb34\uc778\uc758 \uc601\uc57d"
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "\u65a5\u5019\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Sp\u00e4hers",
+        "Name_en": "Deep Essence of the Watcher",
+        "Name_fr": "Breuvage miraculeux d'\u00e9claireur",
+        "Name_ja": "\u65a5\u5019\u306e\u970a\u85ac",
+        "Name_ko": "\ucc99\ud6c4\uc758 \uc601\uc57d"
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "\u7834\u6212\u50e7\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des M\u00f6nchs",
+        "Name_en": "Deep Essence of the Profane",
+        "Name_fr": "Breuvage miraculeux de pr\u00eatre h\u00e9r\u00e9tique",
+        "Name_ja": "\u7834\u6212\u50e7\u306e\u970a\u85ac",
+        "Name_ko": "\ud30c\uacc4\uc2b9\uc758 \uc601\uc57d"
+    },
+    "66": {
+        "0xID": "42",
+        "Name_cn": "\u72c2\u6218\u58eb\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Berserkers",
+        "Name_en": "Deep Essence of the Irregular",
+        "Name_fr": "Breuvage miraculeux de guerrier enrag\u00e9",
+        "Name_ja": "\u72c2\u6226\u58eb\u306e\u970a\u85ac",
+        "Name_ko": "\uad11\uc804\uc0ac\uc758 \uc601\uc57d"
+    },
+    "67": {
+        "0xID": "43",
+        "Name_cn": "\u76d7\u8d3c\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Diebes",
+        "Name_en": "Deep Essence of the Breathtaker",
+        "Name_fr": "Breuvage miraculeux de voleur",
+        "Name_ja": "\u76d7\u8cca\u306e\u970a\u85ac",
+        "Name_ko": "\ub3c4\uc801\uc758 \uc601\uc57d"
+    },
+    "68": {
+        "0xID": "44",
+        "Name_cn": "\u5438\u8840\u9b3c\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Blutsaugers",
+        "Name_en": "Deep Essence of the Bloodsucker",
+        "Name_fr": "Breuvage miraculeux de vampire",
+        "Name_ja": "\u5438\u8840\u9b3c\u306e\u970a\u85ac",
+        "Name_ko": "\ud761\ud608\uadc0\uc758 \uc601\uc57d"
+    },
+    "69": {
+        "0xID": "45",
+        "Name_cn": "\u72fc\u4eba\u7684\u7075\u836f",
+        "Name_de": "Wundertrank der Wolfsleute",
+        "Name_en": "Deep Essence of the Beast",
+        "Name_fr": "Breuvage miraculeux d'homme-loup",
+        "Name_ja": "\u4eba\u72fc\u306e\u970a\u85ac",
+        "Name_ko": "\ub291\ub300\uc778\uac04\uc758 \uc601\uc57d"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5931\u4f20\u94a2\u523a",
+        "Name_de": "Verschollener Stahlstachel",
+        "Name_en": "Lost Steelsting",
+        "Name_fr": "Morsure de l'acier oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30c1\u30fc\u30eb\u30b9\u30c6\u30a3\u30f3\u30b0",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uac15\ucca0 \ud654\uc0b4"
+    },
+    "70": {
+        "0xID": "46",
+        "Name_cn": "\u5723\u9a91\u58eb\u7684\u7075\u836f",
+        "Name_de": "Wundertrank des Paladins",
+        "Name_en": "Deep Essence of the Templar",
+        "Name_fr": "Breuvage miraculeux de chevalier sacr\u00e9",
+        "Name_ja": "\u8056\u9a0e\u58eb\u306e\u970a\u85ac",
+        "Name_ko": "\uc131\uae30\uc0ac\uc758 \uc601\uc57d"
+    },
+    "71": {
+        "0xID": "47",
+        "Name_cn": "\u5931\u4f20\u63a2\u666f",
+        "Name_de": "Verschollene Tigeraugen",
+        "Name_en": "Lost Perception",
+        "Name_fr": "Vision radar oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b5\u30a4\u30c8\u30e9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc0ac\uc774\ud2b8\ub77c"
+    },
+    "72": {
+        "0xID": "48",
+        "Name_cn": "\u5931\u4f20\u732e\u796d",
+        "Name_de": "Verschollene Aufopferung",
+        "Name_en": "Lost Sacrifice",
+        "Name_fr": "Sacrifice oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b5\u30af\u30ea\u30d5\u30a1\u30a4\u30b9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ud76c\uc0dd"
+    },
+    "73": {
+        "0xID": "49",
+        "Name_cn": "\u80dc\u8d1f\u5e08\u7684\u4ed9\u836f",
+        "Name_de": "Maxtrank des Draufg\u00e4ngers",
+        "Name_en": "Pure Essence of the Gambler",
+        "Name_fr": "Breuvage \u00e9r\u00e9mitique de risque-tout",
+        "Name_ja": "\u52dd\u8ca0\u5e2b\u306e\u4ed9\u85ac",
+        "Name_ko": "\uc2b9\ubd80\uc0ac\uc758 \uc120\uc57d"
+    },
+    "74": {
+        "0xID": "4A",
+        "Name_cn": "\u8d24\u8005\u7684\u4ed9\u836f",
+        "Name_de": "Maxtrank des Weisen",
+        "Name_en": "Pure Essence of the Elder",
+        "Name_fr": "Breuvage \u00e9r\u00e9mitique de sage",
+        "Name_ja": "\u8ce2\u8005\u306e\u4ed9\u85ac",
+        "Name_ko": "\ud604\uc790\uc758 \uc120\uc57d"
+    },
+    "75": {
+        "0xID": "4B",
+        "Name_cn": "\u5251\u8c6a\u7684\u4ed9\u836f",
+        "Name_de": "Maxtrank des Fechtmeisters",
+        "Name_en": "Pure Essence of the Duelist",
+        "Name_fr": "Breuvage \u00e9r\u00e9mitique de fine lame",
+        "Name_ja": "\u5263\u8c6a\u306e\u4ed9\u85ac",
+        "Name_ko": "\uac80\ud638\uc758 \uc120\uc57d"
+    },
+    "76": {
+        "0xID": "4C",
+        "Name_cn": "\u5f13\u5723\u7684\u4ed9\u836f",
+        "Name_de": "Maxtrank des Bogengeweihten",
+        "Name_en": "Pure Essence of the Fiendhunter",
+        "Name_fr": "Breuvage \u00e9r\u00e9mitique d'archer \u00e9m\u00e9rite",
+        "Name_ja": "\u5f13\u8056\u306e\u4ed9\u85ac",
+        "Name_ko": "\uad81\uc131\uc758 \uc120\uc57d"
+    },
+    "77": {
+        "0xID": "4D",
+        "Name_cn": "\u8c6a\u6770\u7684\u4ed9\u836f",
+        "Name_de": "Maxtrank des Helden",
+        "Name_en": "Pure Essence of the Indomitable",
+        "Name_fr": "Breuvage \u00e9r\u00e9mitique de h\u00e9ros illustre",
+        "Name_ja": "\u8c6a\u5091\u306e\u4ed9\u85ac",
+        "Name_ko": "\ud638\uac78\uc758 \uc120\uc57d"
+    },
+    "78": {
+        "0xID": "4E",
+        "Name_cn": "\u5723\u4eba\u7684\u4ed9\u836f",
+        "Name_de": "Maxtrank des Heiligen",
+        "Name_en": "Pure Essence of the Divine",
+        "Name_fr": "Breuvage \u00e9r\u00e9mitique de saint",
+        "Name_ja": "\u8056\u4eba\u306e\u4ed9\u85ac",
+        "Name_ko": "\uc131\uc778\uc758 \uc120\uc57d"
+    },
+    "79": {
+        "0xID": "4F",
+        "Name_cn": "\u5931\u4f20\u8000\u661f",
+        "Name_de": "Verschollener Flare-Stern",
+        "Name_en": "Lost Flare Star",
+        "Name_fr": "Astre flamboyant oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d5\u30ec\u30a2\u30b9\u30bf\u30fc",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ud0c0\uc624\ub974\ub294 \ubcc4"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u5931\u4f20\u654f\u6377",
+        "Name_de": "Verschollene Eile",
+        "Name_en": "Lost Swift",
+        "Name_fr": "V\u00e9locit\u00e9 oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30a6\u30a3\u30d5\u30c8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc9c8\uc8fc"
+    },
+    "80": {
+        "0xID": "50",
+        "Name_cn": "\u5931\u4f20\u7834\u7532",
+        "Name_de": "Verschollener Panzerbruch",
+        "Name_en": "Lost Rend Armor",
+        "Name_fr": "Brise-armure oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30a2\u30fc\u30de\u30fc\u30d6\u30ec\u30a4\u30af",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ubc29\uc5b4\uad6c \ud30c\uad34"
+    },
+    "81": {
+        "0xID": "51",
+        "Name_cn": "\u5931\u4f20\u70bd\u5929\u5f3a\u88ad",
+        "Name_de": "Verschollener Seraphenschlag",
+        "Name_en": "Lost Seraph Strike",
+        "Name_fr": "Frappe s\u00e9raphine oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30bb\u30e9\u30d5\u30b9\u30c8\u30e9\u30a4\u30af",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uce58\ucc9c\uc0ac\uc758 \uc77c\uaca9"
+    },
+    "82": {
+        "0xID": "52",
+        "Name_cn": "\u5931\u4f20\u4ee5\u592a\u4e4b\u76fe",
+        "Name_de": "Verschollener \u00c4therschild",
+        "Name_en": "Lost Aethershield",
+        "Name_fr": "\u00c9gide d'\u00e9ther oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30a8\u30fc\u30c6\u30eb\u30b7\u30fc\u30eb\u30c9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc5d0\ud14c\ub974 \ubc29\ud328"
+    },
+    "83": {
+        "0xID": "53",
+        "Name_cn": "\u5931\u4f20\u901f\u5ea6\u4e4b\u661f",
+        "Name_de": "Verschollener Rapidus",
+        "Name_en": "Lost Dervish",
+        "Name_fr": "C\u00e9l\u00e9rit\u00e9 extr\u00eame oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30d4\u30fc\u30c9\u30b9\u30bf\u30fc",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc18d\ub3c4\uad11"
+    },
+    "84": {
+        "0xID": "54",
+        "Name_cn": "\u8fd4\u56de\u78c1\u77f3",
+        "Name_de": "Stein der R\u00fcckf\u00fchrung",
+        "Name_en": "Lodestone",
+        "Name_fr": "Pierre de rapatriement",
+        "Name_ja": "\u30c7\u30b8\u30e7\u30f3\u30b9\u30c8\u30fc\u30f3",
+        "Name_ko": "\ub370\uc874\uc11d"
+    },
+    "85": {
+        "0xID": "55",
+        "Name_cn": "\u5931\u4f20\u575a\u77f3\u80a4",
+        "Name_de": "Verschollene Steinrahaut",
+        "Name_en": "Lost Stoneskin II",
+        "Name_fr": "Extra Cuirasse oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b9\u30c8\u30f3\u30e9\u30b9\u30ad\u30f3",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc2a4\ud1a4\ub77c\uc2a4\ud0a8"
+    },
+    "86": {
+        "0xID": "56",
+        "Name_cn": "\u5931\u4f20\u78c1\u66b4",
+        "Name_de": "Verschollener Knall",
+        "Name_en": "Lost Burst",
+        "Name_fr": "Bouillonnement oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d0\u30fc\u30b9\u30c8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ubc84\uc2a4\ud2b8"
+    },
+    "87": {
+        "0xID": "57",
+        "Name_cn": "\u5931\u4f20\u66b4\u6012",
+        "Name_de": "Verschollener Amok",
+        "Name_en": "Lost Rampage",
+        "Name_fr": "Ravage oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30e9\u30f3\u30da\u30fc\u30b8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uad11\ub780"
+    },
+    "88": {
+        "0xID": "58",
+        "Name_cn": "\u5149\u4e4b\u5e55\u5e18",
+        "Name_de": "Lichtvorhang",
+        "Name_en": "Light Curtain",
+        "Name_fr": "Rideau de lumi\u00e8re",
+        "Name_ja": "\u5149\u306e\u30ab\u30fc\u30c6\u30f3",
+        "Name_ko": "\ube5b\uc758 \uc7a5\ub9c9"
+    },
+    "89": {
+        "0xID": "59",
+        "Name_cn": "\u5931\u4f20\u91cd\u751f",
+        "Name_de": "Verschollene R\u00fcckkehr aus dem Jenseits",
+        "Name_en": "Lost Reraise",
+        "Name_fr": "Aur\u00e9ole oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30ea\u30ec\u30a4\u30ba",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ub9ac\ub808\uc774\uc988"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u5931\u4f20\u62a4\u76fe",
+        "Name_de": "Verschollenes Protes",
+        "Name_en": "Lost Protect",
+        "Name_fr": "Bouclier oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d7\u30ed\u30c6\u30b9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ud504\ub85c\ud14c\uc2a4"
+    },
+    "90": {
+        "0xID": "5A",
+        "Name_cn": "\u5931\u4f20\u8fde\u9501\u548f\u5531",
+        "Name_de": "Verschollene Zauberkette",
+        "Name_en": "Lost Chainspell",
+        "Name_fr": "Avalanche de sorts oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30c1\u30a7\u30a4\u30f3\u30b9\u30da\u30eb",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc5f0\uc18d \uc2dc\uc804"
+    },
+    "91": {
+        "0xID": "5B",
+        "Name_cn": "\u5931\u4f20\u6697\u6740",
+        "Name_de": "Verschollener Meuchelmord",
+        "Name_en": "Lost Assassination",
+        "Name_fr": "Assassinat oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30a2\u30b5\u30b7\u30cd\u30a4\u30c8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc554\uc0b4"
+    },
+    "92": {
+        "0xID": "5C",
+        "Name_cn": "\u5931\u4f20\u62a4\u76feII",
+        "Name_de": "Verschollenes Protes II",
+        "Name_en": "Lost Protect II",
+        "Name_fr": "Bouclier II oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d7\u30ed\u30c6\u30b9II",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ud504\ub85c\ud14c\uc2a4 2"
+    },
+    "93": {
+        "0xID": "5D",
+        "Name_cn": "\u5931\u4f20\u9b54\u76feII",
+        "Name_de": "Verschollenes Vallum II",
+        "Name_en": "Lost Shell II",
+        "Name_fr": "Barri\u00e8re II oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30b7\u30a7\u30ebII",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc178 2"
+    },
+    "94": {
+        "0xID": "5E",
+        "Name_cn": "\u5931\u4f20\u751f\u673a",
+        "Name_de": "Verschollene Blase",
+        "Name_en": "Lost Bubble",
+        "Name_fr": "Vitalit\u00e9 oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d0\u30d6\u30eb",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ubc84\ube14"
+    },
+    "95": {
+        "0xID": "5F",
+        "Name_cn": "\u5931\u4f20\u63a8\u8fdb",
+        "Name_de": "Verschollener Impuls",
+        "Name_en": "Lost Impetus",
+        "Name_fr": "Impulsion oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30a4\u30f3\u30da\u30bf\u30b9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uae30\ub3d9\ub825"
+    },
+    "96": {
+        "0xID": "60",
+        "Name_cn": "\u5931\u4f20\u5353\u5f02",
+        "Name_de": "Verschollene Exzellenz",
+        "Name_en": "Lost Excellence",
+        "Name_fr": "Excellence oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30a8\u30af\u30bb\u30ec\u30f3\u30b9",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \uc5d1\uc124\ub7f0\uc2a4"
+    },
+    "97": {
+        "0xID": "61",
+        "Name_cn": "\u5931\u4f20\u75ca\u6108",
+        "Name_de": "Verschollene Erneuerung",
+        "Name_en": "Lost Full Cure",
+        "Name_fr": "Maxi Soin oubli\u00e9",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d5\u30eb\u30b1\u30a2",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ud480\ucf00\uc54c"
+    },
+    "98": {
+        "0xID": "62",
+        "Name_cn": "\u5931\u4f20\u8840\u6012",
+        "Name_de": "Verschollener Blutzorn",
+        "Name_en": "Lost Blood Rage",
+        "Name_fr": "Rage sanguinaire oubli\u00e9e",
+        "Name_ja": "\u30ed\u30b9\u30c8\u30fb\u30d6\u30e9\u30c3\u30c9\u30ec\u30a4\u30b8",
+        "Name_ko": "\ub85c\uc2a4\ud2b8 \ud53c\uc758 \ubd84\ub178"
+    },
+    "99": {
+        "0xID": "63",
+        "Name_cn": "\u4e49\u519b\u5723\u7075\u836f",
+        "Name_de": "Elixier des Widerstands",
+        "Name_en": "Resistance Elixir",
+        "Name_fr": "\u00c9lixir de la r\u00e9sistance",
+        "Name_ja": "\u30ec\u30b8\u30b9\u30bf\u30f3\u30b9\u30a8\u30ea\u30af\u30b5\u30fc",
+        "Name_ko": "\uc800\ud56d\uad70 \uc5d8\ub9ad\uc11c"
+    }
+}

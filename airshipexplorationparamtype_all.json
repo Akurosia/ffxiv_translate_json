@@ -1,0 +1,47 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "\u63a2\u7d22\u6027\u80fd",
+        "Name_de": "Detektion",
+        "Name_en": "surveillance levels",
+        "Name_fr": "Capacit\u00e9 d'exploration",
+        "Name_ja": "\u63a2\u67fb\u6027\u80fd",
+        "Name_ko": "\ud0d0\uc0ac \uc131\ub2a5"
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u6536\u96c6\u6027\u80fd",
+        "Name_de": "Effizienz",
+        "Name_en": "retrieval levels",
+        "Name_fr": "Capacit\u00e9 de pr\u00e9l\u00e8vement",
+        "Name_ja": "\u53ce\u96c6\u6027\u80fd",
+        "Name_ko": "\uc218\uc9d1 \uc131\ub2a5"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u5de1\u822a\u901f\u5ea6",
+        "Name_de": "Geschwindigkeit",
+        "Name_en": "speed",
+        "Name_fr": "Vitesse de croisi\u00e8re",
+        "Name_ja": "\u5de1\u822a\u901f\u5ea6",
+        "Name_ko": "\uc21c\ud56d \uc18d\ub3c4"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u822a\u884c\u8ddd\u79bb",
+        "Name_de": "Reichweite",
+        "Name_en": "range",
+        "Name_fr": "Distance franchissable",
+        "Name_ja": "\u822a\u7d9a\u8ddd\u96e2",
+        "Name_ko": "\ud56d\uc18d \uac70\ub9ac"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u6069\u60e0",
+        "Name_de": "Himmlische Gunst",
+        "Name_en": "guardian favor",
+        "Name_fr": "Faveur c\u00e9leste",
+        "Name_ja": "\u904b",
+        "Name_ko": "\uc6b4"
+    }
+}

@@ -1,0 +1,1772 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "\u25cf\uc124\uba85\uc6a9 \ub0a0\uc528"
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/060000/060201.png",
+        "Name_cn": "\u78a7\u7a7a",
+        "Name_de": "Klar",
+        "Name_en": "Clear Skies",
+        "Name_fr": "D\u00e9gag\u00e9",
+        "Name_ja": "\u5feb\u6674",
+        "Name_ko": "\ucf8c\uccad"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/060000/060210.png",
+        "Name_cn": "\u96f7\u96e8",
+        "Name_de": "Gewitter",
+        "Name_en": "Thunderstorms",
+        "Name_fr": "Orages violents",
+        "Name_ja": "\u96f7\u96e8",
+        "Name_ko": "\ub1cc\uc6b0"
+    },
+    "100": {
+        "0xID": "64",
+        "Icon": "ui/icon/060000/060276.png",
+        "Name_cn": "\u6708\u591c",
+        "Name_de": "Dunkle Mondnacht",
+        "Name_en": "Moonlight",
+        "Name_fr": "Clair de lune",
+        "Name_ja": "\u6708\u591c",
+        "Name_ko": "\ub2ec\ube5b"
+    },
+    "101": {
+        "0xID": "65",
+        "Icon": "ui/icon/060000/060293.png",
+        "Name_cn": "\u7ea2\u6708\u4e0b",
+        "Name_de": "Roter Mond",
+        "Name_en": "Red Moon",
+        "Name_fr": "Lune rouge",
+        "Name_ja": "\u7d05\u6708\u4e0b",
+        "Name_ko": "\ubd89\uc740 \ub2ec"
+    },
+    "102": {
+        "0xID": "66",
+        "Icon": "ui/icon/060000/060278.png",
+        "Name_cn": "\u6731\u708e",
+        "Name_de": "Rotlodernd",
+        "Name_en": "Scarlet",
+        "Name_fr": "Vermillon",
+        "Name_ja": "\u6731\u708e",
+        "Name_ko": "\ubd89\uc740 \ubd88\uaf43 "
+    },
+    "103": {
+        "0xID": "67",
+        "Icon": "ui/icon/060000/060278.png",
+        "Name_cn": "\u6731\u708e",
+        "Name_de": "Rotlodernd",
+        "Name_en": "Scarlet",
+        "Name_fr": "Vermillon",
+        "Name_ja": "\u6731\u708e",
+        "Name_ko": "\ubd89\uc740 \ubd88\uaf43 "
+    },
+    "104": {
+        "0xID": "68",
+        "Icon": "ui/icon/060000/060278.png",
+        "Name_cn": "\u6731\u708e",
+        "Name_de": "Rotlodernd",
+        "Name_en": "Scarlet",
+        "Name_fr": "Vermillon",
+        "Name_ja": "\u6731\u708e",
+        "Name_ko": "\ubd89\uc740 \ubd88\uaf43 "
+    },
+    "105": {
+        "0xID": "69",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "106": {
+        "0xID": "6A",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "107": {
+        "0xID": "6B",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "108": {
+        "0xID": "6C",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "109": {
+        "0xID": "6D",
+        "Icon": "ui/icon/060000/060279.png",
+        "Name_cn": "\u70c8\u7130",
+        "Name_de": "Feuer",
+        "Name_en": "Flames",
+        "Name_fr": "Flammes",
+        "Name_ja": "\u706b\u708e",
+        "Name_ko": "\ud654\uc5fc"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/060000/060211.png",
+        "Name_cn": "\u626c\u6c99",
+        "Name_de": "Staubig",
+        "Name_en": "Dust Storms",
+        "Name_fr": "Temp\u00eates de poussi\u00e8re",
+        "Name_ja": "\u7802\u5875",
+        "Name_ko": "\ubaa8\ub798\uba3c\uc9c0"
+    },
+    "110": {
+        "0xID": "6E",
+        "Icon": "ui/icon/060000/060280.png",
+        "Name_cn": "\u6d77\u5578",
+        "Name_de": "Tsunami",
+        "Name_en": "Tsunamis",
+        "Name_fr": "Raz-de-mar\u00e9e",
+        "Name_ja": "\u6d25\u6ce2",
+        "Name_ko": "\ud574\uc77c"
+    },
+    "111": {
+        "0xID": "6F",
+        "Icon": "ui/icon/060000/060281.png",
+        "Name_cn": "\u9f99\u5377\u98ce",
+        "Name_de": "Tornado",
+        "Name_en": "Cyclones",
+        "Name_fr": "Tornade",
+        "Name_ja": "\u7adc\u5dfb",
+        "Name_ko": "\ud68c\uc624\ub9ac"
+    },
+    "112": {
+        "0xID": "70",
+        "Icon": "ui/icon/060000/060282.png",
+        "Name_cn": "\u5730\u9707",
+        "Name_de": "Erdbeben",
+        "Name_en": "Geostorms",
+        "Name_fr": "S\u00e9isme",
+        "Name_ja": "\u5730\u9707",
+        "Name_ko": "\uc9c0\uc9c4"
+    },
+    "113": {
+        "0xID": "71",
+        "Icon": "ui/icon/060000/060283.png",
+        "Name_cn": "\u9752\u7a7a",
+        "Name_de": "Blauschimmernd",
+        "Name_en": "True Blue",
+        "Name_fr": "Azur",
+        "Name_ja": "\u9752\u6625",
+        "Name_ko": "\ud478\ub978 \ubd04\ub0a0"
+    },
+    "114": {
+        "0xID": "72",
+        "Icon": "ui/icon/060000/060283.png",
+        "Name_cn": "\u9752\u7a7a",
+        "Name_de": "Blauschimmernd",
+        "Name_en": "True Blue",
+        "Name_fr": "Azur",
+        "Name_ja": "\u9752\u6625",
+        "Name_ko": "\ud478\ub978 \ubd04\ub0a0"
+    },
+    "115": {
+        "0xID": "73",
+        "Icon": "ui/icon/060000/060283.png",
+        "Name_cn": "\u9752\u7a7a",
+        "Name_de": "Blauschimmernd",
+        "Name_en": "True Blue",
+        "Name_fr": "Azur",
+        "Name_ja": "\u9752\u6625",
+        "Name_ko": "\ud478\ub978 \ubd04\ub0a0"
+    },
+    "116": {
+        "0xID": "74",
+        "Icon": "ui/icon/060000/060284.png",
+        "Name_cn": "\u4e71\u7075\u6d41",
+        "Name_de": "Astrale Turbulenzen",
+        "Name_en": "Umbral Turbulence",
+        "Name_fr": "Turbulences ombrales",
+        "Name_ja": "\u4e71\u970a\u6d41",
+        "Name_ko": "\ub09c\ub839\ub958"
+    },
+    "117": {
+        "0xID": "75",
+        "Icon": "ui/icon/060000/060283.png",
+        "Name_cn": "\u9752\u7a7a",
+        "Name_de": "Blauschimmernd",
+        "Name_en": "True Blue",
+        "Name_fr": "Azur",
+        "Name_ja": "\u9752\u6625",
+        "Name_ko": "\ud478\ub978 \ubd04\ub0a0"
+    },
+    "118": {
+        "0xID": "76",
+        "Icon": "ui/icon/060000/060221.png",
+        "Name_cn": "\u65e0\u5c3d\u5149",
+        "Name_de": "Ewiges Licht",
+        "Name_en": "Everlasting Light",
+        "Name_fr": "Clart\u00e9 \u00e9ternelle",
+        "Name_ja": "\u7121\u5c3d\u5149",
+        "Name_ko": "\ub05d\uc5c6\ub294 \ube5b"
+    },
+    "119": {
+        "0xID": "77",
+        "Icon": "ui/icon/060000/060253.png",
+        "Name_cn": "\u66b4\u98ce",
+        "Name_de": "St\u00fcrmisch",
+        "Name_en": "Gales",
+        "Name_fr": "Vents violents",
+        "Name_ja": "\u66b4\u98a8",
+        "Name_ko": "\ud3ed\ud48d"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/060000/060212.png",
+        "Name_cn": "\u6c99\u5c18\u66b4",
+        "Name_de": "Sandsturm",
+        "Name_en": "Sandstorms",
+        "Name_fr": "Temp\u00eates de sable",
+        "Name_ja": "\u7802\u5d50",
+        "Name_ko": "\ubaa8\ub798\ud3ed\ud48d"
+    },
+    "120": {
+        "0xID": "78",
+        "Icon": "ui/icon/060000/060287.png",
+        "Name_cn": "\u672b\u65e5",
+        "Name_de": "Apokalyptisch",
+        "Name_en": "Termination",
+        "Name_fr": "Apocalypse",
+        "Name_ja": "\u7d42\u672b",
+        "Name_ko": "\uc885\ub9d0"
+    },
+    "121": {
+        "0xID": "79",
+        "Icon": "ui/icon/060000/060287.png",
+        "Name_cn": "\u672b\u65e5",
+        "Name_de": "Apokalyptisch",
+        "Name_en": "Termination",
+        "Name_fr": "Apocalypse",
+        "Name_ja": "\u7d42\u672b",
+        "Name_ko": "\uc885\ub9d0"
+    },
+    "122": {
+        "0xID": "7A",
+        "Icon": "ui/icon/060000/060285.png",
+        "Name_cn": "\u5996\u68a6",
+        "Name_de": "Feentr\u00e4ume",
+        "Name_en": "Dreams",
+        "Name_fr": "R\u00eaverie",
+        "Name_ja": "\u5996\u5922",
+        "Name_ko": "\uc774\uc0c1\ud55c \uafc8"
+    },
+    "123": {
+        "0xID": "7B",
+        "Icon": "ui/icon/060000/060285.png",
+        "Name_cn": "\u5996\u68a6",
+        "Name_de": "Feentr\u00e4ume",
+        "Name_en": "Dreams",
+        "Name_fr": "R\u00eaverie",
+        "Name_ja": "\u5996\u5922",
+        "Name_ko": "\uc774\uc0c1\ud55c \uafc8"
+    },
+    "124": {
+        "0xID": "7C",
+        "Icon": "ui/icon/060000/060285.png",
+        "Name_cn": "\u5996\u68a6",
+        "Name_de": "Feentr\u00e4ume",
+        "Name_en": "Dreams",
+        "Name_fr": "R\u00eaverie",
+        "Name_ja": "\u5996\u5922",
+        "Name_ko": "\uc774\uc0c1\ud55c \uafc8"
+    },
+    "125": {
+        "0xID": "7D",
+        "Icon": "ui/icon/060000/060286.png",
+        "Name_cn": "\u5149\u5929",
+        "Name_de": "Strahlende Glanzhaftigkeit",
+        "Name_en": "Brilliance",
+        "Name_fr": "Radiance divine",
+        "Name_ja": "\u5149\u5929",
+        "Name_ko": "\ub208\ubd80\uc2e0 \ud558\ub298"
+    },
+    "126": {
+        "0xID": "7E",
+        "Icon": "ui/icon/060000/060286.png",
+        "Name_cn": "\u5149\u5929",
+        "Name_de": "Strahlende Glanzhaftigkeit",
+        "Name_en": "Brilliance",
+        "Name_fr": "Radiance divine",
+        "Name_ja": "\u5149\u5929",
+        "Name_ko": "\ub208\ubd80\uc2e0 \ud558\ub298"
+    },
+    "127": {
+        "0xID": "7F",
+        "Icon": "ui/icon/060000/060287.png",
+        "Name_cn": "\u672b\u65e5",
+        "Name_de": "Apokalyptisch",
+        "Name_en": "Termination",
+        "Name_fr": "Apocalypse",
+        "Name_ja": "\u7d42\u672b",
+        "Name_ko": "\uc885\ub9d0"
+    },
+    "128": {
+        "0xID": "80",
+        "Icon": "ui/icon/060000/060287.png",
+        "Name_cn": "\u672b\u65e5",
+        "Name_de": "Apokalyptisch",
+        "Name_en": "Termination",
+        "Name_fr": "Apocalypse",
+        "Name_ja": "\u7d42\u672b",
+        "Name_ko": "\uc885\ub9d0"
+    },
+    "129": {
+        "0xID": "81",
+        "Icon": "ui/icon/060000/060221.png",
+        "Name_cn": "\u65e0\u5c3d\u5149",
+        "Name_de": "Ewiges Licht",
+        "Name_en": "Everlasting Light",
+        "Name_fr": "Clart\u00e9 \u00e9ternelle",
+        "Name_ja": "\u7121\u5c3d\u5149",
+        "Name_ko": "\ub05d\uc5c6\ub294 \ube5b"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/060000/060213.png",
+        "Name_cn": "\u9ad8\u6e29",
+        "Name_de": "Hei\u00df",
+        "Name_en": "Hot Spells",
+        "Name_fr": "Chaud",
+        "Name_ja": "\u71b1\u6ce2",
+        "Name_ko": "\uc5f4\ud30c"
+    },
+    "130": {
+        "0xID": "82",
+        "Icon": "ui/icon/060000/060254.png",
+        "Name_cn": "\u70df\u96fe",
+        "Name_de": "Rauchschwaden",
+        "Name_en": "Eruptions",
+        "Name_fr": "\u00c9ruptions",
+        "Name_ja": "\u5674\u7159",
+        "Name_ko": "\ubd84\ud654"
+    },
+    "131": {
+        "0xID": "83",
+        "Icon": "ui/icon/060000/060287.png",
+        "Name_cn": "\u672b\u65e5",
+        "Name_de": "Apokalyptisch",
+        "Name_en": "Termination",
+        "Name_fr": "Apocalypse",
+        "Name_ja": "\u7d42\u672b",
+        "Name_ko": "\uc885\ub9d0"
+    },
+    "132": {
+        "0xID": "84",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "133": {
+        "0xID": "85",
+        "Icon": "ui/icon/060000/060288.png",
+        "Name_cn": "\u7075\u70c8\u706b",
+        "Name_de": "Feuerseelenwinde",
+        "Name_en": "Umbral Flare",
+        "Name_fr": "Vent ombral de feu",
+        "Name_ja": "\u7114\u970a\u98a8",
+        "Name_ko": "\ud654\uc18d\uc131\ud48d"
+    },
+    "134": {
+        "0xID": "86",
+        "Icon": "ui/icon/060000/060289.png",
+        "Name_cn": "\u7075\u98d8\u5c18",
+        "Name_de": "Erdseelenwinde",
+        "Name_en": "Umbral Duststorm",
+        "Name_fr": "Vent ombral de terre",
+        "Name_ja": "\u571f\u970a\u98a8",
+        "Name_ko": "\ud1a0\uc18d\uc131\ud48d"
+    },
+    "135": {
+        "0xID": "87",
+        "Icon": "ui/icon/060000/060290.png",
+        "Name_cn": "\u7075\u98de\u7535",
+        "Name_de": "Donnerseelenwinde",
+        "Name_en": "Umbral Levin",
+        "Name_fr": "Vent ombral de foudre",
+        "Name_ja": "\u96f7\u970a\u98a8",
+        "Name_ko": "\ub1cc\uc18d\uc131\ud48d"
+    },
+    "136": {
+        "0xID": "88",
+        "Icon": "ui/icon/060000/060291.png",
+        "Name_cn": "\u7075\u7f61\u98ce",
+        "Name_de": "Sturmseelenwinde",
+        "Name_en": "Umbral Tempest",
+        "Name_fr": "Vent ombral des temp\u00eates",
+        "Name_ja": "\u5d50\u970a\u98a8",
+        "Name_ko": "\ud48d\uc18d\uc131\ud48d"
+    },
+    "137": {
+        "0xID": "89",
+        "Icon": "ui/icon/060000/060296.png",
+        "Name_cn": "\u6d41\u661f\u96e8",
+        "Name_de": "Sternenregen",
+        "Name_en": "Starshower",
+        "Name_fr": "Pluie d'\u00e9toiles",
+        "Name_ja": "\u6d41\u661f\u96e8",
+        "Name_ko": "\uc720\uc131\uc6b0"
+    },
+    "138": {
+        "0xID": "8A",
+        "Icon": "ui/icon/060000/060294.png",
+        "Name_cn": "\u8bb0\u5fc6\u4e71\u6d41",
+        "Name_de": "Erinnerungsturbulenzen",
+        "Name_en": "Delirium",
+        "Name_fr": "Temp\u00eate de souvenirs",
+        "Name_ja": "\u8a18\u61b6\u4e71\u6d41",
+        "Name_ko": "\uae30\uc5b5\ub09c\ub958"
+    },
+    "139": {
+        "0xID": "8B",
+        "Icon": "ui/icon/060000/060203.png",
+        "Name_cn": "\u9634\u4e91",
+        "Name_de": "Wolkig",
+        "Name_en": "Clouds",
+        "Name_fr": "Couvert",
+        "Name_ja": "\u66c7\u308a",
+        "Name_ko": "\ud750\ub9bc"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/060000/060214.png",
+        "Name_cn": "\u70ed\u6d6a",
+        "Name_de": "Gluthitze",
+        "Name_en": "Heat Waves",
+        "Name_fr": "Torride",
+        "Name_ja": "\u707c\u71b1\u6ce2",
+        "Name_ko": "\uc791\uc5f4\ud30c"
+    },
+    "140": {
+        "0xID": "8C",
+        "Icon": "ui/icon/060000/060203.png",
+        "Name_cn": "\u9634\u4e91",
+        "Name_de": "Wolkig",
+        "Name_en": "Clouds",
+        "Name_fr": "Couvert",
+        "Name_ja": "\u66c7\u308a",
+        "Name_ko": "\ud750\ub9bc"
+    },
+    "141": {
+        "0xID": "8D",
+        "Icon": "ui/icon/060000/060260.png",
+        "Name_cn": "\u6781\u5149",
+        "Name_de": "Blendend",
+        "Name_en": "Irradiance",
+        "Name_fr": "Rayonnement",
+        "Name_ja": "\u6975\u5149",
+        "Name_ko": "\uadf9\uad11"
+    },
+    "142": {
+        "0xID": "8E",
+        "Icon": "ui/icon/060000/060260.png",
+        "Name_cn": "\u6781\u5149",
+        "Name_de": "Blendend",
+        "Name_en": "Irradiance",
+        "Name_fr": "Rayonnement",
+        "Name_ja": "\u6975\u5149",
+        "Name_ko": "\uadf9\uad11"
+    },
+    "143": {
+        "0xID": "8F",
+        "Icon": "ui/icon/060000/060259.png",
+        "Name_cn": "\u96f7\u4e91",
+        "Name_de": "Wetterleuchten",
+        "Name_en": "Storm Clouds",
+        "Name_fr": "Orageux",
+        "Name_ja": "\u96f7\u96f2",
+        "Name_ko": "\ub1cc\uc6b4"
+    },
+    "144": {
+        "0xID": "90",
+        "Icon": "ui/icon/060000/060295.png",
+        "Name_cn": "\u706b\u98ce\u66b4",
+        "Name_de": "Flammensturm",
+        "Name_en": "Firestorm",
+        "Name_fr": "Temp\u00eate de feu",
+        "Name_ja": "\u7114\u5d50\u00a0",
+        "Name_ko": "\ubd88\ubc14\ub78c"
+    },
+    "145": {
+        "0xID": "91",
+        "Icon": "ui/icon/060000/060292.png",
+        "Name_cn": "\u5e7b\u6d77\u6d41",
+        "Name_de": "Phantomstr\u00f6mung",
+        "Name_en": "Spectral Current",
+        "Name_fr": "Courant spectral",
+        "Name_ja": "\u5e7b\u6d77\u6d41\u00a0",
+        "Name_ko": "\ud658\ud574\ub958"
+    },
+    "146": {
+        "0xID": "92",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "147": {
+        "0xID": "93",
+        "Icon": "ui/icon/060000/060297.png",
+        "Name_cn": "\u51b3\u6218",
+        "Name_de": "Endzeitig",
+        "Name_en": "Climactic",
+        "Name_fr": "Fatidique",
+        "Name_ja": "\u6c7a\u6226",
+        "Name_ko": "\uacb0\uc804"
+    },
+    "148": {
+        "0xID": "94",
+        "Icon": "ui/icon/060000/060222.png",
+        "Name_cn": "\u6708\u5c18",
+        "Name_de": "Mondstaubig",
+        "Name_en": "Moon Dust",
+        "Name_fr": "Temp\u00eates de r\u00e9golithe",
+        "Name_ja": "\u6708\u7802\u5875",
+        "Name_ko": "\ub2ec\ubaa8\ub798\uba3c\uc9c0"
+    },
+    "149": {
+        "0xID": "95",
+        "Icon": "ui/icon/060000/060223.png",
+        "Name_cn": "\u78c1\u66b4",
+        "Name_de": "Magnetsturm",
+        "Name_en": "Astromagnetic Storm",
+        "Name_fr": "Astromagn\u00e9tique",
+        "Name_ja": "\u78c1\u6c17\u5d50",
+        "Name_ko": "\uc790\uae30\uc7a5 \ud3ed\ud48d"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/060000/060215.png",
+        "Name_cn": "\u5c0f\u96ea",
+        "Name_de": "Schnee",
+        "Name_en": "Snow",
+        "Name_fr": "Neige",
+        "Name_ja": "\u96ea",
+        "Name_ko": "\ub208"
+    },
+    "150": {
+        "0xID": "96",
+        "Icon": "ui/icon/060000/060224.png",
+        "Name_cn": "\u672b\u65e5",
+        "Name_de": "Apokalypse",
+        "Name_en": "Apocalypse",
+        "Name_fr": "Apocalypse",
+        "Name_ja": "\u7d42\u672b",
+        "Name_ko": "\uc885\ub9d0"
+    },
+    "151": {
+        "0xID": "97",
+        "Icon": "ui/icon/060000/060298.png",
+        "Name_cn": "\u661f\u7075",
+        "Name_de": "Polarisierend",
+        "Name_en": "Polarization",
+        "Name_fr": "Polarisation",
+        "Name_ja": "\u661f\u970a",
+        "Name_ko": "\ubcc4\ube5b\uadf8\ub9bc\uc790"
+    },
+    "152": {
+        "0xID": "98",
+        "Icon": "ui/icon/060000/060298.png",
+        "Name_cn": "\u661f\u7075",
+        "Name_de": "Polarisierend",
+        "Name_en": "Polarization",
+        "Name_fr": "Polarisation",
+        "Name_ja": "\u661f\u970a",
+        "Name_ko": "\ubcc4\ube5b\uadf8\ub9bc\uc790"
+    },
+    "153": {
+        "0xID": "99",
+        "Icon": "ui/icon/060000/060298.png",
+        "Name_cn": "\u661f\u7075",
+        "Name_de": "Polarisierend",
+        "Name_en": "Polarization",
+        "Name_fr": "Polarisation",
+        "Name_ja": "\u661f\u970a",
+        "Name_ko": "\ubcc4\ube5b\uadf8\ub9bc\uc790"
+    },
+    "154": {
+        "0xID": "9A",
+        "Icon": "ui/icon/060000/060298.png",
+        "Name_cn": "\u661f\u7075",
+        "Name_de": "Polarisierend",
+        "Name_en": "Polarization",
+        "Name_fr": "Polarisation",
+        "Name_ja": "\u661f\u970a",
+        "Name_ko": "\ubcc4\ube5b\uadf8\ub9bc\uc790"
+    },
+    "155": {
+        "0xID": "9B",
+        "Icon": "ui/icon/060000/060298.png",
+        "Name_cn": "\u661f\u7075",
+        "Name_de": "Polarisierend",
+        "Name_en": "Polarization",
+        "Name_fr": "Polarisation",
+        "Name_ja": "\u661f\u970a",
+        "Name_ko": "\ubcc4\ube5b\uadf8\ub9bc\uc790"
+    },
+    "156": {
+        "0xID": "9C",
+        "Icon": "ui/icon/060000/060225.png",
+        "Name_cn": "\u865a\u62df",
+        "Name_de": "Imagin\u00e4r",
+        "Name_en": "Projection",
+        "Name_fr": "Virtuel",
+        "Name_ja": "\u4eee\u60f3",
+        "Name_ko": "\uac00\uc0c1"
+    },
+    "157": {
+        "0xID": "9D",
+        "Icon": "ui/icon/060000/060228.png",
+        "Name_cn": "\u4e07\u9b54\u6bbf",
+        "Name_de": "Pand\u00e6monium",
+        "Name_en": "Pand\u00e6monium",
+        "Name_fr": "Pand\u00e6monium",
+        "Name_ja": "\u4e07\u9b54\u6bbf",
+        "Name_ko": "\ub9c8\uc758 \uc804\ub2f9"
+    },
+    "158": {
+        "0xID": "9E",
+        "Icon": "ui/icon/060000/060228.png",
+        "Name_cn": "\u4e07\u9b54\u6bbf",
+        "Name_de": "Pand\u00e6monium",
+        "Name_en": "Pand\u00e6monium",
+        "Name_fr": "Pand\u00e6monium",
+        "Name_ja": "\u4e07\u9b54\u6bbf",
+        "Name_ko": "\ub9c8\uc758 \uc804\ub2f9"
+    },
+    "159": {
+        "0xID": "9F",
+        "Icon": "ui/icon/060000/060228.png",
+        "Name_cn": "\u4e07\u9b54\u6bbf",
+        "Name_de": "Pand\u00e6monium",
+        "Name_en": "Pand\u00e6monium",
+        "Name_fr": "Pand\u00e6monium",
+        "Name_ja": "\u4e07\u9b54\u6bbf",
+        "Name_ko": "\ub9c8\uc758 \uc804\ub2f9"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/060000/060216.png",
+        "Name_cn": "\u66b4\u96ea",
+        "Name_de": "Schneesturm",
+        "Name_en": "Blizzards",
+        "Name_fr": "Blizzard",
+        "Name_ja": "\u5439\u96ea",
+        "Name_ko": "\ub208\ubcf4\ub77c"
+    },
+    "160": {
+        "0xID": "A0",
+        "Icon": "ui/icon/060000/060299.png",
+        "Name_cn": "\u7ec8\u6781",
+        "Name_de": "Eschatologie",
+        "Name_en": "Ultimatum",
+        "Name_fr": "Eschatologique",
+        "Name_ja": "\u7d42\u6975",
+        "Name_ko": "\uc885\uadf9"
+    },
+    "161": {
+        "0xID": "A1",
+        "Icon": "ui/icon/060000/060229.png",
+        "Name_cn": "\u7edd\u671b",
+        "Name_de": "Verzweifelnd",
+        "Name_en": "Inevitability",
+        "Name_fr": "D\u00e9sespoir",
+        "Name_ja": "\u7d76\u671b",
+        "Name_ko": "\uc808\ub9dd"
+    },
+    "162": {
+        "0xID": "A2",
+        "Icon": "ui/icon/060000/060230.png",
+        "Name_cn": "\u795e\u57df",
+        "Name_de": "G\u00f6tterwetter",
+        "Name_en": "Transcendence",
+        "Name_fr": "Mythologique",
+        "Name_ja": "\u795e\u57df",
+        "Name_ko": "\uc2e0\uc5ed"
+    },
+    "163": {
+        "0xID": "A3",
+        "Icon": "ui/icon/060000/060230.png",
+        "Name_cn": "\u795e\u57df",
+        "Name_de": "G\u00f6tterwetter",
+        "Name_en": "Transcendence",
+        "Name_fr": "Mythologique",
+        "Name_ja": "\u795e\u57df",
+        "Name_ko": "\uc2e0\uc5ed"
+    },
+    "164": {
+        "0xID": "A4",
+        "Icon": "ui/icon/060000/060230.png",
+        "Name_cn": "\u795e\u57df",
+        "Name_de": "G\u00f6tterwetter",
+        "Name_en": "Transcendence",
+        "Name_fr": "Mythologique",
+        "Name_ja": "\u795e\u57df",
+        "Name_ko": "\uc2e0\uc5ed"
+    },
+    "165": {
+        "0xID": "A5",
+        "Icon": "ui/icon/060000/060230.png",
+        "Name_cn": "\u795e\u57df",
+        "Name_de": "G\u00f6tterwetter",
+        "Name_en": "Transcendence",
+        "Name_fr": "Mythologique",
+        "Name_ja": "\u795e\u57df",
+        "Name_ko": "\uc2e0\uc5ed"
+    },
+    "166": {
+        "0xID": "A6",
+        "Icon": "ui/icon/060000/060230.png",
+        "Name_cn": "\u795e\u57df",
+        "Name_de": "G\u00f6tterwetter",
+        "Name_en": "Transcendence",
+        "Name_fr": "Mythologique",
+        "Name_ja": "\u795e\u57df",
+        "Name_ko": "\uc2e0\uc5ed"
+    },
+    "167": {
+        "0xID": "A7",
+        "Icon": "ui/icon/060000/060230.png",
+        "Name_cn": "\u795e\u57df",
+        "Name_de": "G\u00f6tterwetter",
+        "Name_en": "Transcendence",
+        "Name_fr": "Mythologique",
+        "Name_ja": "\u795e\u57df",
+        "Name_ko": "\uc2e0\uc5ed"
+    },
+    "168": {
+        "0xID": "A8",
+        "Icon": "ui/icon/060000/060230.png",
+        "Name_cn": "\u795e\u57df",
+        "Name_de": "G\u00f6tterwetter",
+        "Name_en": "Transcendence",
+        "Name_fr": "Mythologique",
+        "Name_ja": "\u795e\u57df",
+        "Name_ko": "\uc2e0\uc5ed"
+    },
+    "169": {
+        "0xID": "A9",
+        "Icon": "ui/icon/060000/060230.png",
+        "Name_cn": "\u795e\u57df",
+        "Name_de": "G\u00f6tterwetter",
+        "Name_en": "Transcendence",
+        "Name_fr": "Mythologique",
+        "Name_ja": "\u795e\u57df",
+        "Name_ko": "\uc2e0\uc5ed"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/060000/060218.png",
+        "Name_cn": "\u5996\u96fe",
+        "Name_de": "Unheimlich",
+        "Name_en": "Gloom",
+        "Name_fr": "N\u00e9buleux",
+        "Name_ja": "\u5996\u9727",
+        "Name_ko": "\uc694\ub9c8\uc758 \uc548\uac1c"
+    },
+    "170": {
+        "0xID": "AA",
+        "Icon": "ui/icon/060000/060266.png",
+        "Name_cn": "\u90aa\u5929",
+        "Name_de": "Hass",
+        "Name_en": "Dragonstorms",
+        "Name_fr": "Temp\u00eate de haine",
+        "Name_ja": "\u90aa\u5929",
+        "Name_ko": "\uc0ac\ub8e1\uc758 \uc6d0\ub150"
+    },
+    "171": {
+        "0xID": "AB",
+        "Icon": "ui/icon/060000/060231.png",
+        "Name_cn": "\u865a\u65e0",
+        "Name_de": "Leere",
+        "Name_en": "Vacuity",
+        "Name_fr": "N\u00e9ant",
+        "Name_ja": "\u865a\u7121",
+        "Name_ko": "\ud5c8\ubb34"
+    },
+    "172": {
+        "0xID": "AC",
+        "Icon": "ui/icon/060000/060231.png",
+        "Name_cn": "\u865a\u65e0",
+        "Name_de": "Leere",
+        "Name_en": "Vacuity",
+        "Name_fr": "N\u00e9ant",
+        "Name_ja": "\u865a\u7121",
+        "Name_ko": "\ud5c8\ubb34"
+    },
+    "173": {
+        "0xID": "AD",
+        "Icon": "ui/icon/060000/060231.png",
+        "Name_cn": "\u865a\u65e0",
+        "Name_de": "Leere",
+        "Name_en": "Vacuity",
+        "Name_fr": "N\u00e9ant",
+        "Name_ja": "\u865a\u7121",
+        "Name_ko": "\ud5c8\ubb34"
+    },
+    "174": {
+        "0xID": "AE",
+        "Icon": "ui/icon/060000/060274.png",
+        "Name_cn": "",
+        "Name_de": "Dimensionsspaltend",
+        "Name_en": "Dimensional Disruption",
+        "Name_fr": "Perturbation dimensionnelle",
+        "Name_ja": "\u6b21\u5143",
+        "Name_ko": ""
+    },
+    "175": {
+        "0xID": "AF",
+        "Icon": "ui/icon/060000/060274.png",
+        "Name_cn": "",
+        "Name_de": "Dimensionsspaltend",
+        "Name_en": "Dimensional Disruption",
+        "Name_fr": "Perturbation dimensionnelle",
+        "Name_ja": "\u6b21\u5143",
+        "Name_ko": ""
+    },
+    "176": {
+        "0xID": "B0",
+        "Icon": "ui/icon/060000/060274.png",
+        "Name_cn": "",
+        "Name_de": "Dimensionsspaltend",
+        "Name_en": "Dimensional Disruption",
+        "Name_fr": "Perturbation dimensionnelle",
+        "Name_ja": "\u6b21\u5143",
+        "Name_ko": ""
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/060000/060217.png",
+        "Name_cn": "\u6781\u5149",
+        "Name_de": "Aurora",
+        "Name_en": "Auroras",
+        "Name_fr": "Aurore",
+        "Name_ja": "\u30aa\u30fc\u30ed\u30e9",
+        "Name_ko": "\uc624\ub85c\ub77c"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/060000/060251.png",
+        "Name_cn": "\u9ed1\u6697",
+        "Name_de": "Dunkel",
+        "Name_en": "Darkness",
+        "Name_fr": "T\u00e9n\u00e8bres",
+        "Name_ja": "\u95c7",
+        "Name_ko": "\uc5b4\ub460"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/060000/060255.png",
+        "Name_cn": "\u7edd\u547d",
+        "Name_de": "D\u00fcsternis",
+        "Name_en": "Tension",
+        "Name_fr": "D\u00e9sesp\u00e9rance",
+        "Name_ja": "\u95d8\u6c17",
+        "Name_ko": "\ud22c\uae30"
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/060000/060203.png",
+        "Name_cn": "\u9634\u4e91",
+        "Name_de": "Wolkig",
+        "Name_en": "Clouds",
+        "Name_fr": "Couvert",
+        "Name_ja": "\u66c7\u308a",
+        "Name_ko": "\ud750\ub9bc"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/060000/060259.png",
+        "Name_cn": "\u96f7\u4e91",
+        "Name_de": "Wetterleuchten",
+        "Name_en": "Storm Clouds",
+        "Name_fr": "Orageux",
+        "Name_ja": "\u96f7\u96f2",
+        "Name_ko": "\ub1cc\uc6b4"
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "ui/icon/060000/060258.png",
+        "Name_cn": "\u66b4\u98ce\u96e8",
+        "Name_de": "Tosend",
+        "Name_en": "Rough Seas",
+        "Name_fr": "Houle",
+        "Name_ja": "\u6642\u5316",
+        "Name_ko": "\ud30c\ub791"
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "ui/icon/060000/060258.png",
+        "Name_cn": "\u66b4\u98ce\u96e8",
+        "Name_de": "Tosend",
+        "Name_en": "Rough Seas",
+        "Name_fr": "Houle",
+        "Name_ja": "\u6642\u5316",
+        "Name_ko": "\ud30c\ub791"
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/060000/060257.png",
+        "Name_cn": "\u9634\u6c89",
+        "Name_de": "Finster",
+        "Name_en": "Louring",
+        "Name_fr": "Nuageux",
+        "Name_ja": "\u66c7\u5929",
+        "Name_ko": "\uba39\uad6c\ub984"
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/060000/060252.png",
+        "Name_cn": "\u70ed\u6d6a",
+        "Name_de": "Gluthitze",
+        "Name_en": "Heat Waves",
+        "Name_fr": "Torride",
+        "Name_ja": "\u707c\u71b1\u6ce2",
+        "Name_ko": "\uc791\uc5f4\ud30c"
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/060000/060256.png",
+        "Name_cn": "\u5996\u96fe",
+        "Name_de": "Unheimlich",
+        "Name_en": "Gloom",
+        "Name_fr": "N\u00e9buleux",
+        "Name_ja": "\u5996\u9727",
+        "Name_ko": "\uc694\ub9c8\uc758 \uc548\uac1c"
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/060000/060253.png",
+        "Name_cn": "\u66b4\u98ce",
+        "Name_de": "St\u00fcrmisch",
+        "Name_en": "Gales",
+        "Name_fr": "Vents violents",
+        "Name_ja": "\u66b4\u98a8",
+        "Name_ko": "\ud3ed\ud48d"
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/060000/060254.png",
+        "Name_cn": "\u70df\u96fe",
+        "Name_de": "Rauchschwaden",
+        "Name_en": "Eruptions",
+        "Name_fr": "\u00c9ruptions",
+        "Name_ja": "\u5674\u7159",
+        "Name_ko": "\ubd84\ud654"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/060000/060203.png",
+        "Name_cn": "\u9634\u4e91",
+        "Name_de": "Wolkig",
+        "Name_en": "Clouds",
+        "Name_fr": "Couvert",
+        "Name_ja": "\u66c7\u308a",
+        "Name_ko": "\ud750\ub9bc"
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/060000/060260.png",
+        "Name_cn": "\u6781\u5149",
+        "Name_de": "Blendend",
+        "Name_en": "Irradiance",
+        "Name_fr": "Rayonnement",
+        "Name_ja": "\u6975\u5149",
+        "Name_ko": "\uadf9\uad11"
+    },
+    "36": {
+        "0xID": "24",
+        "Icon": "ui/icon/060000/060261.png",
+        "Name_cn": "\u8f89\u6838",
+        "Name_de": "Kernstrahlung",
+        "Name_en": "Core Radiation",
+        "Name_fr": "Radiations du C\u0153ur",
+        "Name_ja": "\u9f8d\u6838",
+        "Name_ko": "\uc6a9\ud575"
+    },
+    "37": {
+        "0xID": "25",
+        "Icon": "ui/icon/060000/060261.png",
+        "Name_cn": "\u8f89\u6838",
+        "Name_de": "Kernstrahlung",
+        "Name_en": "Core Radiation",
+        "Name_fr": "Radiations du C\u0153ur",
+        "Name_ja": "\u9f8d\u6838",
+        "Name_ko": "\uc6a9\ud575"
+    },
+    "38": {
+        "0xID": "26",
+        "Icon": "ui/icon/060000/060261.png",
+        "Name_cn": "\u8f89\u6838",
+        "Name_de": "Kernstrahlung",
+        "Name_en": "Core Radiation",
+        "Name_fr": "Radiations du C\u0153ur",
+        "Name_ja": "\u9f8d\u6838",
+        "Name_ko": "\uc6a9\ud575"
+    },
+    "39": {
+        "0xID": "27",
+        "Icon": "ui/icon/060000/060261.png",
+        "Name_cn": "\u8f89\u6838",
+        "Name_de": "Kernstrahlung",
+        "Name_en": "Core Radiation",
+        "Name_fr": "Radiations du C\u0153ur",
+        "Name_ja": "\u9f8d\u6838",
+        "Name_ko": "\uc6a9\ud575"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/060000/060204.png",
+        "Name_cn": "\u8584\u96fe",
+        "Name_de": "Neblig",
+        "Name_en": "Fog",
+        "Name_fr": "Brouillard",
+        "Name_ja": "\u9727",
+        "Name_ko": "\uc548\uac1c"
+    },
+    "40": {
+        "0xID": "28",
+        "Icon": "ui/icon/060000/060262.png",
+        "Name_cn": "\u6ee9\u4e91",
+        "Name_de": "Wolkenschleier",
+        "Name_en": "Shelf Clouds",
+        "Name_fr": "Amas nuageux",
+        "Name_ja": "\u7fa4\u96f2",
+        "Name_ko": "\ub5bc\uad6c\ub984"
+    },
+    "41": {
+        "0xID": "29",
+        "Icon": "ui/icon/060000/060262.png",
+        "Name_cn": "\u6ee9\u4e91",
+        "Name_de": "Wolkenschleier",
+        "Name_en": "Shelf Clouds",
+        "Name_fr": "Amas nuageux",
+        "Name_ja": "\u7fa4\u96f2",
+        "Name_ko": "\ub5bc\uad6c\ub984"
+    },
+    "42": {
+        "0xID": "2A",
+        "Icon": "ui/icon/060000/060262.png",
+        "Name_cn": "\u6ee9\u4e91",
+        "Name_de": "Wolkenschleier",
+        "Name_en": "Shelf Clouds",
+        "Name_fr": "Amas nuageux",
+        "Name_ja": "\u7fa4\u96f2",
+        "Name_ko": "\ub5bc\uad6c\ub984"
+    },
+    "43": {
+        "0xID": "2B",
+        "Icon": "ui/icon/060000/060262.png",
+        "Name_cn": "\u6ee9\u4e91",
+        "Name_de": "Wolkenschleier",
+        "Name_en": "Shelf Clouds",
+        "Name_fr": "Amas nuageux",
+        "Name_ja": "\u7fa4\u96f2",
+        "Name_ko": "\ub5bc\uad6c\ub984"
+    },
+    "44": {
+        "0xID": "2C",
+        "Icon": "ui/icon/060000/060264.png",
+        "Name_cn": "\u795e\u610f",
+        "Name_de": "Bedr\u00fcckend",
+        "Name_en": "Oppression",
+        "Name_fr": "Oppression",
+        "Name_ja": "\u795e\u610f",
+        "Name_ko": "\uc12d\ub9ac"
+    },
+    "45": {
+        "0xID": "2D",
+        "Icon": "ui/icon/060000/060264.png",
+        "Name_cn": "\u795e\u610f",
+        "Name_de": "Bedr\u00fcckend",
+        "Name_en": "Oppression",
+        "Name_fr": "Oppression",
+        "Name_ja": "\u795e\u610f",
+        "Name_ko": "\uc12d\ub9ac"
+    },
+    "46": {
+        "0xID": "2E",
+        "Icon": "ui/icon/060000/060264.png",
+        "Name_cn": "\u795e\u610f",
+        "Name_de": "Bedr\u00fcckend",
+        "Name_en": "Oppression",
+        "Name_fr": "Oppression",
+        "Name_ja": "\u795e\u610f",
+        "Name_ko": "\uc12d\ub9ac"
+    },
+    "47": {
+        "0xID": "2F",
+        "Icon": "ui/icon/060000/060264.png",
+        "Name_cn": "\u795e\u610f",
+        "Name_de": "Bedr\u00fcckend",
+        "Name_en": "Oppression",
+        "Name_fr": "Oppression",
+        "Name_ja": "\u795e\u610f",
+        "Name_ko": "\uc12d\ub9ac"
+    },
+    "48": {
+        "0xID": "30",
+        "Icon": "ui/icon/060000/060264.png",
+        "Name_cn": "\u795e\u610f",
+        "Name_de": "Bedr\u00fcckend",
+        "Name_en": "Oppression",
+        "Name_fr": "Oppression",
+        "Name_ja": "\u795e\u610f",
+        "Name_ko": "\uc12d\ub9ac"
+    },
+    "49": {
+        "0xID": "31",
+        "Icon": "ui/icon/060000/060219.png",
+        "Name_cn": "\u7075\u98ce",
+        "Name_de": "Schattenwind",
+        "Name_en": "Umbral Wind",
+        "Name_fr": "Vent ombral",
+        "Name_ja": "\u970a\u98a8",
+        "Name_ko": "\uadf8\ub9bc\uc790\ubc14\ub78c"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/060000/060205.png",
+        "Name_cn": "\u5fae\u98ce",
+        "Name_de": "Windig",
+        "Name_en": "Wind",
+        "Name_fr": "Vent",
+        "Name_ja": "\u98a8",
+        "Name_ko": "\ubc14\ub78c"
+    },
+    "50": {
+        "0xID": "32",
+        "Icon": "ui/icon/060000/060220.png",
+        "Name_cn": "\u7075\u7535",
+        "Name_de": "Schattengewitter",
+        "Name_en": "Umbral Static",
+        "Name_fr": "Charges ombrales",
+        "Name_ja": "\u653e\u96fb",
+        "Name_ko": "\ubc29\uc804"
+    },
+    "51": {
+        "0xID": "33",
+        "Icon": "ui/icon/060000/060263.png",
+        "Name_cn": "\u70df\u6b66",
+        "Name_de": "Qualm",
+        "Name_en": "Smoke",
+        "Name_fr": "Fum\u00e9es",
+        "Name_ja": "\u7159\u9727",
+        "Name_ko": "\uc5f0\ubb34"
+    },
+    "52": {
+        "0xID": "34",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "53": {
+        "0xID": "35",
+        "Icon": "ui/icon/060000/060226.png",
+        "Name_cn": "\u517d\u96f7",
+        "Name_de": "K\u00f6nigsgewitter",
+        "Name_en": "Royal Levin",
+        "Name_fr": "\u00c9clairs royaux",
+        "Name_ja": "\u7363\u96f7",
+        "Name_ko": "\uc57c\uc218\ubc88\uac1c"
+    },
+    "54": {
+        "0xID": "36",
+        "Icon": "ui/icon/060000/060227.png",
+        "Name_cn": "\u96f7\u6ce2",
+        "Name_de": "Hochspannung",
+        "Name_en": "Hyperelectricity",
+        "Name_fr": "Hyper\u00e9lectricit\u00e9",
+        "Name_ja": "\u96f7\u6ce2",
+        "Name_ko": "\ubc88\uac1c\ud30c\ub3d9"
+    },
+    "55": {
+        "0xID": "37",
+        "Icon": "ui/icon/060000/060226.png",
+        "Name_cn": "\u517d\u96f7",
+        "Name_de": "K\u00f6nigsgewitter",
+        "Name_en": "Royal Levin",
+        "Name_fr": "\u00c9clairs royaux",
+        "Name_ja": "\u7363\u96f7",
+        "Name_ko": "\uc57c\uc218\ubc88\uac1c"
+    },
+    "56": {
+        "0xID": "38",
+        "Icon": "ui/icon/060000/060264.png",
+        "Name_cn": "\u795e\u610f",
+        "Name_de": "Numinos",
+        "Name_en": "Oppression",
+        "Name_fr": "Oppression",
+        "Name_ja": "\u795e\u610f",
+        "Name_ko": "\uc12d\ub9ac"
+    },
+    "57": {
+        "0xID": "39",
+        "Icon": "ui/icon/060000/060209.png",
+        "Name_cn": "\u6253\u96f7",
+        "Name_de": "Gewittrig",
+        "Name_en": "Thunder",
+        "Name_fr": "Orages",
+        "Name_ja": "\u96f7",
+        "Name_ko": "\ubc88\uac1c"
+    },
+    "58": {
+        "0xID": "3A",
+        "Icon": "ui/icon/060000/060209.png",
+        "Name_cn": "\u6253\u96f7",
+        "Name_de": "Gewittrig",
+        "Name_en": "Thunder",
+        "Name_fr": "Orages",
+        "Name_ja": "\u96f7",
+        "Name_ko": "\ubc88\uac1c"
+    },
+    "59": {
+        "0xID": "3B",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "CutScene",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/060000/060206.png",
+        "Name_cn": "\u5f3a\u98ce",
+        "Name_de": "St\u00fcrmisch",
+        "Name_en": "Gales",
+        "Name_fr": "Vents violents",
+        "Name_ja": "\u66b4\u98a8",
+        "Name_ko": "\ud3ed\ud48d"
+    },
+    "60": {
+        "0xID": "3C",
+        "Icon": "ui/icon/060000/060265.png",
+        "Name_cn": "\u795e\u79d8",
+        "Name_de": "Mystisch",
+        "Name_en": "Multiplicity",
+        "Name_fr": "Multiplicit\u00e9",
+        "Name_ja": "\u795e\u79d8",
+        "Name_ko": "\uc2e0\ube44"
+    },
+    "61": {
+        "0xID": "3D",
+        "Icon": "ui/icon/060000/060265.png",
+        "Name_cn": "\u795e\u79d8",
+        "Name_de": "Mystisch",
+        "Name_en": "Multiplicity",
+        "Name_fr": "Multiplicit\u00e9",
+        "Name_ja": "\u795e\u79d8",
+        "Name_ko": "\uc2e0\ube44"
+    },
+    "62": {
+        "0xID": "3E",
+        "Icon": "ui/icon/060000/060207.png",
+        "Name_cn": "\u5c0f\u96e8",
+        "Name_de": "Regnerisch",
+        "Name_en": "Rain",
+        "Name_fr": "Pluie",
+        "Name_ja": "\u96e8",
+        "Name_ko": "\ube44"
+    },
+    "63": {
+        "0xID": "3F",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "64": {
+        "0xID": "40",
+        "Icon": "ui/icon/060000/060207.png",
+        "Name_cn": "\u5c0f\u96e8",
+        "Name_de": "Regnerisch",
+        "Name_en": "Rain",
+        "Name_fr": "Pluie",
+        "Name_ja": "\u96e8",
+        "Name_ko": "\ube44"
+    },
+    "65": {
+        "0xID": "41",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "66": {
+        "0xID": "42",
+        "Icon": "ui/icon/060000/060266.png",
+        "Name_cn": "\u90aa\u5929",
+        "Name_de": "Hass",
+        "Name_en": "Dragonstorms",
+        "Name_fr": "Temp\u00eate de haine",
+        "Name_ja": "\u90aa\u5929",
+        "Name_ko": "\uc0ac\ub8e1\uc758 \uc6d0\ub150"
+    },
+    "67": {
+        "0xID": "43",
+        "Icon": "ui/icon/060000/060266.png",
+        "Name_cn": "\u90aa\u5929",
+        "Name_de": "Hass",
+        "Name_en": "Dragonstorms",
+        "Name_fr": "Temp\u00eate de haine",
+        "Name_ja": "\u90aa\u5929",
+        "Name_ko": "\uc0ac\ub8e1\uc758 \uc6d0\ub150"
+    },
+    "68": {
+        "0xID": "44",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Unterirdisch",
+        "Name_en": "Subterrain",
+        "Name_fr": "Souterrain",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "69": {
+        "0xID": "45",
+        "Icon": "ui/icon/060000/060267.png",
+        "Name_cn": "\u5e73\u8861",
+        "Name_de": "Gerechtigkeit",
+        "Name_en": "Concordance",
+        "Name_fr": "Harmonie",
+        "Name_ja": "\u8abf\u548c",
+        "Name_ko": "\uc870\ud654"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/060000/060207.png",
+        "Name_cn": "\u5c0f\u96e8",
+        "Name_de": "Regnerisch",
+        "Name_en": "Rain",
+        "Name_fr": "Pluie",
+        "Name_ja": "\u96e8",
+        "Name_ko": "\ube44"
+    },
+    "70": {
+        "0xID": "46",
+        "Icon": "ui/icon/060000/060267.png",
+        "Name_cn": "\u5e73\u8861",
+        "Name_de": "Gerechtigkeit",
+        "Name_en": "Concordance",
+        "Name_fr": "Harmonie",
+        "Name_ja": "\u8abf\u548c",
+        "Name_ko": "\uc870\ud654"
+    },
+    "71": {
+        "0xID": "47",
+        "Icon": "ui/icon/060000/060268.png",
+        "Name_cn": "\u65f6\u5149",
+        "Name_de": "Zeitfluss",
+        "Name_en": "Beyond Time",
+        "Name_fr": "Hors du temps",
+        "Name_ja": "\u6642\u6d41",
+        "Name_ko": "\uc2dc\ub958"
+    },
+    "72": {
+        "0xID": "48",
+        "Icon": "ui/icon/060000/060268.png",
+        "Name_cn": "\u65f6\u5149",
+        "Name_de": "Zeitfluss",
+        "Name_en": "Beyond Time",
+        "Name_fr": "Hors du temps",
+        "Name_ja": "\u6642\u6d41",
+        "Name_ko": "\uc2dc\ub958"
+    },
+    "73": {
+        "0xID": "49",
+        "Icon": "ui/icon/060000/060268.png",
+        "Name_cn": "\u65f6\u5149",
+        "Name_de": "Zeitfluss",
+        "Name_en": "Beyond Time",
+        "Name_fr": "Hors du temps",
+        "Name_ja": "\u6642\u6d41",
+        "Name_ko": "\uc2dc\ub958"
+    },
+    "74": {
+        "0xID": "4A",
+        "Icon": "ui/icon/060000/060269.png",
+        "Name_cn": "\u9b3c\u6c14",
+        "Name_de": "D\u00e4monisch unendlich",
+        "Name_en": "Demonic Infinity",
+        "Name_fr": "Infini d\u00e9moniaque",
+        "Name_ja": "\u9b3c\u6c17",
+        "Name_ko": "\uadc0\uae30"
+    },
+    "75": {
+        "0xID": "4B",
+        "Icon": "ui/icon/060000/060269.png",
+        "Name_cn": "\u9b3c\u6c14",
+        "Name_de": "D\u00e4monisch unendlich",
+        "Name_en": "Demonic Infinity",
+        "Name_fr": "Infini d\u00e9moniaque",
+        "Name_ja": "\u9b3c\u6c17",
+        "Name_ko": "\uadc0\uae30"
+    },
+    "76": {
+        "0xID": "4C",
+        "Icon": "ui/icon/060000/060269.png",
+        "Name_cn": "\u9b3c\u6c14",
+        "Name_de": "D\u00e4monisch unendlich",
+        "Name_en": "Demonic Infinity",
+        "Name_fr": "Infini d\u00e9moniaque",
+        "Name_ja": "\u9b3c\u6c17",
+        "Name_ko": "\uadc0\uae30"
+    },
+    "77": {
+        "0xID": "4D",
+        "Icon": "ui/icon/060000/060274.png",
+        "Name_cn": "\u6b21\u5143",
+        "Name_de": "Dimensionsspaltend",
+        "Name_en": "Dimensional Disruption",
+        "Name_fr": "Perturbation dimensionnelle",
+        "Name_ja": "\u6b21\u5143",
+        "Name_ko": "\ucc28\uc6d0"
+    },
+    "78": {
+        "0xID": "4E",
+        "Icon": "ui/icon/060000/060274.png",
+        "Name_cn": "\u6b21\u5143",
+        "Name_de": "Dimensionsspaltend",
+        "Name_en": "Dimensional Disruption",
+        "Name_fr": "Perturbation dimensionnelle",
+        "Name_ja": "\u6b21\u5143",
+        "Name_ko": "\ucc28\uc6d0"
+    },
+    "79": {
+        "0xID": "4F",
+        "Icon": "ui/icon/060000/060274.png",
+        "Name_cn": "\u6b21\u5143",
+        "Name_de": "Dimensionsspaltend",
+        "Name_en": "Dimensional Disruption",
+        "Name_fr": "Perturbation dimensionnelle",
+        "Name_ja": "\u6b21\u5143",
+        "Name_ko": "\ucc28\uc6d0"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/060000/060208.png",
+        "Name_cn": "\u66b4\u96e8",
+        "Name_de": "Wolkenbruch",
+        "Name_en": "Showers",
+        "Name_fr": "Pluie torrentielle",
+        "Name_ja": "\u66b4\u96e8",
+        "Name_ko": "\ud3ed\uc6b0"
+    },
+    "80": {
+        "0xID": "50",
+        "Icon": "ui/icon/060000/060271.png",
+        "Name_cn": "\u8c6a\u96e8",
+        "Name_de": "Feiersturm",
+        "Name_en": "Revelstorms",
+        "Name_fr": "Temp\u00eate festive",
+        "Name_ja": "\u5d50\u5929",
+        "Name_ko": "\ud638\uc6b0"
+    },
+    "81": {
+        "0xID": "51",
+        "Icon": "ui/icon/060000/060271.png",
+        "Name_cn": "\u8c6a\u96e8",
+        "Name_de": "Feiersturm",
+        "Name_en": "Revelstorms",
+        "Name_fr": "Temp\u00eate festive",
+        "Name_ja": "\u5d50\u5929",
+        "Name_ko": "\ud638\uc6b0"
+    },
+    "82": {
+        "0xID": "52",
+        "Icon": "ui/icon/060000/060270.png",
+        "Name_cn": "\u6781\u4e50",
+        "Name_de": "Ewigsch\u00f6n",
+        "Name_en": "Eternal Bliss",
+        "Name_fr": "B\u00e9atitude \u00e9ternelle",
+        "Name_ja": "\u7f8e\u5929",
+        "Name_ko": "\ubbf8\ud639"
+    },
+    "83": {
+        "0xID": "53",
+        "Icon": "ui/icon/060000/060270.png",
+        "Name_cn": "\u6781\u4e50",
+        "Name_de": "Ewigsch\u00f6n",
+        "Name_en": "Eternal Bliss",
+        "Name_fr": "B\u00e9atitude \u00e9ternelle",
+        "Name_ja": "\u7f8e\u5929",
+        "Name_ko": "\ubbf8\ud639"
+    },
+    "84": {
+        "0xID": "54",
+        "Icon": "ui/icon/060000/060272.png",
+        "Name_cn": "\u9f99\u5a01",
+        "Name_de": "Drachensturm",
+        "Name_en": "Wyrmstorms",
+        "Name_fr": "Temp\u00eate draconique",
+        "Name_ja": "\u9f8d\u5929",
+        "Name_ko": "\uc2e0\ub8e1\uc758 \ud3ed\ud48d"
+    },
+    "85": {
+        "0xID": "55",
+        "Icon": "ui/icon/060000/060272.png",
+        "Name_cn": "\u9f99\u5a01",
+        "Name_de": "Drachensturm",
+        "Name_en": "Wyrmstorms",
+        "Name_fr": "Temp\u00eate draconique",
+        "Name_ja": "\u9f8d\u5929",
+        "Name_ko": "\uc2e0\ub8e1\uc758 \ud3ed\ud48d"
+    },
+    "86": {
+        "0xID": "56",
+        "Icon": "ui/icon/060000/060271.png",
+        "Name_cn": "\u8c6a\u96e8",
+        "Name_de": "Feiersturm",
+        "Name_en": "Revelstorms",
+        "Name_fr": "Temp\u00eate festive",
+        "Name_ja": "\u5d50\u5929",
+        "Name_ko": "\ud638\uc6b0"
+    },
+    "87": {
+        "0xID": "57",
+        "Icon": "ui/icon/060000/060273.png",
+        "Name_cn": "\u8fc5\u96f7",
+        "Name_de": "Blitzsturm",
+        "Name_en": "Quicklevin",
+        "Name_fr": "Vif-orage",
+        "Name_ja": "\u8fc5\u96f7",
+        "Name_ko": "\uc804\uc120\ub1cc\uc6b0"
+    },
+    "88": {
+        "0xID": "58",
+        "Icon": "ui/icon/060000/060209.png",
+        "Name_cn": "\u6253\u96f7",
+        "Name_de": "Gewittrig",
+        "Name_en": "Thunder",
+        "Name_fr": "Orages",
+        "Name_ja": "\u96f7",
+        "Name_ko": "\ubc88\uac1c"
+    },
+    "89": {
+        "0xID": "59",
+        "Icon": "ui/icon/060000/060274.png",
+        "Name_cn": "\u6b21\u5143",
+        "Name_de": "Dimensionsspaltend",
+        "Name_en": "Dimensional Disruption",
+        "Name_fr": "Perturbation dimensionnelle",
+        "Name_ja": "\u6b21\u5143",
+        "Name_ko": "\ucc28\uc6d0"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/060000/060209.png",
+        "Name_cn": "\u6253\u96f7",
+        "Name_de": "Gewittrig",
+        "Name_en": "Thunder",
+        "Name_fr": "Orages",
+        "Name_ja": "\u96f7",
+        "Name_ko": "\ubc88\uac1c"
+    },
+    "90": {
+        "0xID": "5A",
+        "Icon": "ui/icon/060000/060202.png",
+        "Name_cn": "\u6674\u6717",
+        "Name_de": "Heiter",
+        "Name_en": "Fair Skies",
+        "Name_fr": "Clair",
+        "Name_ja": "\u6674\u308c",
+        "Name_ko": "\ub9d1\uc74c"
+    },
+    "91": {
+        "0xID": "5B",
+        "Icon": "ui/icon/060000/060201.png",
+        "Name_cn": "\u78a7\u7a7a",
+        "Name_de": "Klar",
+        "Name_en": "Clear Skies",
+        "Name_fr": "D\u00e9gag\u00e9",
+        "Name_ja": "\u5feb\u6674",
+        "Name_ko": "\ucf8c\uccad"
+    },
+    "92": {
+        "0xID": "5C",
+        "Icon": "ui/icon/060000/060275.png",
+        "Name_cn": "\u767d\u65cb\u98ce",
+        "Name_de": "Wei\u00dfer Zyklon",
+        "Name_en": "White Cyclones",
+        "Name_fr": "Temp\u00eate blanche",
+        "Name_ja": "\u767d\u5d50",
+        "Name_ko": "\ud558\uc580 \ud3ed\ud48d"
+    },
+    "93": {
+        "0xID": "5D",
+        "Icon": "ui/icon/060000/060275.png",
+        "Name_cn": "\u767d\u65cb\u98ce",
+        "Name_de": "Wei\u00dfer Zyklon",
+        "Name_en": "White Cyclones",
+        "Name_fr": "Temp\u00eate blanche",
+        "Name_ja": "\u767d\u5d50",
+        "Name_ko": "\ud558\uc580 \ud3ed\ud48d"
+    },
+    "94": {
+        "0xID": "5E",
+        "Icon": "ui/icon/060000/060275.png",
+        "Name_cn": "\u767d\u65cb\u98ce",
+        "Name_de": "Wei\u00dfer Zyklon",
+        "Name_en": "White Cyclones",
+        "Name_fr": "Temp\u00eate blanche",
+        "Name_ja": "\u767d\u5d50",
+        "Name_ko": "\ud558\uc580 \ud3ed\ud48d"
+    },
+    "95": {
+        "0xID": "5F",
+        "Icon": "ui/icon/060000/060277.png",
+        "Name_cn": "\u5e7b\u60f3",
+        "Name_de": "Ultimativ",
+        "Name_en": "Ultimania",
+        "Name_fr": "Fantasmagorique",
+        "Name_ja": "\u5e7b\u60f3",
+        "Name_ko": "\ud658\uc0c1"
+    },
+    "96": {
+        "0xID": "60",
+        "Icon": "ui/icon/060000/060275.png",
+        "Name_cn": "\u767d\u65cb\u98ce",
+        "Name_de": "Wei\u00dfer Zyklon",
+        "Name_en": "White Cyclones",
+        "Name_fr": "Temp\u00eate blanche",
+        "Name_ja": "\u767d\u5d50",
+        "Name_ko": "\ud558\uc580 \ud3ed\ud48d"
+    },
+    "97": {
+        "0xID": "61",
+        "Icon": "ui/icon/060000/060276.png",
+        "Name_cn": "\u6708\u591c",
+        "Name_de": "Dunkle Mondnacht",
+        "Name_en": "Moonlight",
+        "Name_fr": "Clair de lune",
+        "Name_ja": "\u6708\u591c",
+        "Name_ko": "\ub2ec\ube5b"
+    },
+    "98": {
+        "0xID": "62",
+        "Icon": "ui/icon/060000/060276.png",
+        "Name_cn": "\u6708\u591c",
+        "Name_de": "Dunkle Mondnacht",
+        "Name_en": "Moonlight",
+        "Name_fr": "Clair de lune",
+        "Name_ja": "\u6708\u591c",
+        "Name_ko": "\ub2ec\ube5b"
+    },
+    "99": {
+        "0xID": "63",
+        "Icon": "ui/icon/060000/060276.png",
+        "Name_cn": "\u6708\u591c",
+        "Name_de": "Dunkle Mondnacht",
+        "Name_en": "Moonlight",
+        "Name_fr": "Clair de lune",
+        "Name_ja": "\u6708\u591c",
+        "Name_ko": "\ub2ec\ube5b"
+    }
+}

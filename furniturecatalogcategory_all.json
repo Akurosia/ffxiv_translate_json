@@ -1,0 +1,263 @@
+{
+    "0": {
+        "0xID": "0",
+        "Category_cn": "\u684c\u5b50",
+        "Category_de": "Tische",
+        "Category_en": "Tables",
+        "Category_fr": "Tables",
+        "Category_ja": "\u673a",
+        "Category_ko": "\ud0c1\uc790"
+    },
+    "1": {
+        "0xID": "1",
+        "Category_cn": "\u67b6\u5b50\u00b7\u67dc\u5b50",
+        "Category_de": "Regale/Kommoden",
+        "Category_en": "Shelves/Chests",
+        "Category_fr": "\u00c9tag\u00e8res/Coffres",
+        "Category_ja": "\u68da\u30fb\u30c1\u30a7\u30b9\u30c8",
+        "Category_ko": "\uc7a5/\uada4\uc9dd"
+    },
+    "10": {
+        "0xID": "A",
+        "Category_cn": "\u5176\u4ed6",
+        "Category_de": "Allerlei",
+        "Category_en": "Miscellaneous",
+        "Category_fr": "Divers",
+        "Category_ja": "\u305d\u306e\u4ed6",
+        "Category_ko": "\uae30\ud0c0"
+    },
+    "11": {
+        "0xID": "B",
+        "Category_cn": "\u67b6\u5b50\u00b7\u67dc\u5b50",
+        "Category_de": "Regale/Kommoden",
+        "Category_en": "Shelves/Chests",
+        "Category_fr": "\u00c9tag\u00e8res/Coffres",
+        "Category_ja": "\u68da\u30fb\u30c1\u30a7\u30b9\u30c8",
+        "Category_ko": "\uc7a5/\uada4\uc9dd"
+    },
+    "12": {
+        "0xID": "C",
+        "Category_cn": "\u7167\u660e",
+        "Category_de": "Beleuchtung",
+        "Category_en": "Lighting",
+        "Category_fr": "\u00c9clairage",
+        "Category_ja": "\u7167\u660e",
+        "Category_ko": "\uc870\uba85"
+    },
+    "13": {
+        "0xID": "D",
+        "Category_cn": "\u529f\u80fd\u5bb6\u5177",
+        "Category_de": "Funktionales",
+        "Category_en": "Interactive Furnishings",
+        "Category_fr": "Meubles fonctionnels",
+        "Category_ja": "\u6a5f\u80fd\u5bb6\u5177",
+        "Category_ko": "\uae30\ub2a5\uc131 \uac00\uad6c"
+    },
+    "14": {
+        "0xID": "E",
+        "Category_cn": "\u7167\u660e",
+        "Category_de": "Beleuchtung",
+        "Category_en": "Lighting",
+        "Category_fr": "\u00c9clairage",
+        "Category_ja": "\u7167\u660e",
+        "Category_ko": "\uc870\uba85"
+    },
+    "15": {
+        "0xID": "F",
+        "Category_cn": "\u5176\u4ed6",
+        "Category_de": "Allerlei",
+        "Category_en": "Miscellaneous",
+        "Category_fr": "Divers",
+        "Category_ja": "\u305d\u306e\u4ed6",
+        "Category_ko": "\uae30\ud0c0"
+    },
+    "16": {
+        "0xID": "10",
+        "Category_cn": "\u690d\u7269",
+        "Category_de": "Pflanzen",
+        "Category_en": "Plants",
+        "Category_fr": "Plantes",
+        "Category_ja": "\u690d\u7269",
+        "Category_ko": "\uc2dd\ubb3c"
+    },
+    "17": {
+        "0xID": "11",
+        "Category_cn": "\u65f6\u949f",
+        "Category_de": "Chronometer",
+        "Category_en": "Clocks",
+        "Category_fr": "Horloges",
+        "Category_ja": "\u6642\u8a08",
+        "Category_ko": "\uc2dc\uacc4"
+    },
+    "18": {
+        "0xID": "12",
+        "Category_cn": "\u73a9\u5076\u00b7\u6a21\u578b",
+        "Category_de": "Stofftiere/Modelle",
+        "Category_en": "Stuffed Toys/Figures",
+        "Category_fr": "Peluches/Figurines",
+        "Category_ja": "\u306c\u3044\u3050\u308b\u307f\u30fb\u30d5\u30a3\u30ae\u30e5\u30a2",
+        "Category_ko": "\ubd09\uc81c\uc778\ud615/\ubaa8\ud615"
+    },
+    "19": {
+        "0xID": "13",
+        "Category_cn": "\u83dc\u80b4",
+        "Category_de": "Gerichte",
+        "Category_en": "Tableware/Foods",
+        "Category_fr": "Nourriture",
+        "Category_ja": "\u6599\u7406",
+        "Category_ko": "\uc74c\uc2dd"
+    },
+    "2": {
+        "0xID": "2",
+        "Category_cn": "\u5176\u4ed6",
+        "Category_de": "Allerlei",
+        "Category_en": "Miscellaneous",
+        "Category_fr": "Divers",
+        "Category_ja": "\u305d\u306e\u4ed6",
+        "Category_ko": "\uae30\ud0c0"
+    },
+    "20": {
+        "0xID": "14",
+        "Category_cn": "\u65d7\u5e1c\u00b7\u753b\u00b7\u6d77\u62a5",
+        "Category_de": "Bilder/Wandbeh\u00e4nge",
+        "Category_en": "Flags/Frames/Posters",
+        "Category_fr": "Banni\u00e8res/Cadres/Affiches",
+        "Category_ja": "\u65d7\u30fb\u984d\u7e01\u30fb\u30dd\u30b9\u30bf\u30fc",
+        "Category_ko": "\uae43\ubc1c/\uc561\uc790/\ubcbd\ubcf4"
+    },
+    "21": {
+        "0xID": "15",
+        "Category_cn": "\u5176\u4ed6",
+        "Category_de": "Allerlei",
+        "Category_en": "Miscellaneous",
+        "Category_fr": "Divers",
+        "Category_ja": "\u305d\u306e\u4ed6",
+        "Category_ko": "\uae30\ud0c0"
+    },
+    "22": {
+        "0xID": "16",
+        "Category_cn": "\u7167\u660e",
+        "Category_de": "Beleuchtung",
+        "Category_en": "Lighting",
+        "Category_fr": "\u00c9clairage",
+        "Category_ja": "\u7167\u660e",
+        "Category_ko": "\uc870\uba85"
+    },
+    "23": {
+        "0xID": "17",
+        "Category_cn": "\u65f6\u949f",
+        "Category_de": "Chronometer",
+        "Category_en": "Clocks",
+        "Category_fr": "Horloges",
+        "Category_ja": "\u6642\u8a08",
+        "Category_ko": "\uc2dc\uacc4"
+    },
+    "24": {
+        "0xID": "18",
+        "Category_cn": "\u529f\u80fd\u5bb6\u5177",
+        "Category_de": "Funktionales",
+        "Category_en": "Interactive Furnishings",
+        "Category_fr": "Meubles fonctionnels",
+        "Category_ja": "\u6a5f\u80fd\u5bb6\u5177",
+        "Category_ko": "\uae30\ub2a5\uc131 \uac00\uad6c"
+    },
+    "25": {
+        "0xID": "19",
+        "Category_cn": "\u67b6\u5b50",
+        "Category_de": "Regale/Montierbares",
+        "Category_en": "Shelves",
+        "Category_fr": "\u00c9tag\u00e8res",
+        "Category_ja": "\u68da",
+        "Category_ko": "\uc120\ubc18"
+    },
+    "26": {
+        "0xID": "1A",
+        "Category_cn": "\u690d\u7269",
+        "Category_de": "Pflanzen",
+        "Category_en": "Plants",
+        "Category_fr": "Plantes",
+        "Category_ja": "\u690d\u7269",
+        "Category_ko": "\uc2dd\ubb3c"
+    },
+    "27": {
+        "0xID": "1B",
+        "Category_cn": "\u6bef\u5b50",
+        "Category_de": "Teppiche",
+        "Category_en": "Rugs",
+        "Category_fr": "Tapis",
+        "Category_ja": "\u6577\u7269",
+        "Category_ko": "\uae54\uac1c"
+    },
+    "28": {
+        "0xID": "1C",
+        "Category_cn": "\u7a97\u6237",
+        "Category_de": "Fenster",
+        "Category_en": "Windows",
+        "Category_fr": "Fen\u00eatres",
+        "Category_ja": "\u7a93",
+        "Category_ko": "\ucc3d\ubb38"
+    },
+    "3": {
+        "0xID": "3",
+        "Category_cn": "\u5899\u58c1\u00b7\u9694\u677f",
+        "Category_de": "W\u00e4nde/Raumteiler",
+        "Category_en": "Walls/Partitions",
+        "Category_fr": "Murs/Cloisons",
+        "Category_ja": "\u58c1\u30fb\u4ed5\u5207\u308a",
+        "Category_ko": "\ubcbd/\uce78\ub9c9\uc774"
+    },
+    "4": {
+        "0xID": "4",
+        "Category_cn": "\u6905\u5b50\u00b7\u6c99\u53d1",
+        "Category_de": "St\u00fchle/Sessel/Sofas",
+        "Category_en": "Chairs/Sofas",
+        "Category_fr": "Chaises/Fauteuils",
+        "Category_ja": "\u6905\u5b50\u30fb\u30bd\u30d5\u30a1",
+        "Category_ko": "\uc758\uc790/\uc548\ub77d\uc758\uc790"
+    },
+    "5": {
+        "0xID": "5",
+        "Category_cn": "\u5e8a",
+        "Category_de": "Betten",
+        "Category_en": "Beds",
+        "Category_fr": "Lits",
+        "Category_ja": "\u30d9\u30c3\u30c9",
+        "Category_ko": "\uce68\ub300"
+    },
+    "6": {
+        "0xID": "6",
+        "Category_cn": "\u690d\u7269",
+        "Category_de": "Pflanzen",
+        "Category_en": "Plants",
+        "Category_fr": "Plantes",
+        "Category_ja": "\u690d\u7269",
+        "Category_ko": "\uc2dd\ubb3c"
+    },
+    "7": {
+        "0xID": "7",
+        "Category_cn": "\u529f\u80fd\u5bb6\u5177",
+        "Category_de": "Funktionales",
+        "Category_en": "Interactive Furnishings",
+        "Category_fr": "Meubles fonctionnels",
+        "Category_ja": "\u6a5f\u80fd\u5bb6\u5177",
+        "Category_ko": "\uae30\ub2a5\uc131 \uac00\uad6c"
+    },
+    "8": {
+        "0xID": "8",
+        "Category_cn": "\u5899\u58c1\u00b7\u67f1\u5b50\u00b7\u9694\u677f",
+        "Category_de": "W\u00e4nde/S\u00e4ulen/Teiler",
+        "Category_en": "Walls/Pillars/Partitions",
+        "Category_fr": "Murs/Colonnes/Cloisons",
+        "Category_ja": "\u58c1\u30fb\u67f1\u30fb\u4ed5\u5207\u308a",
+        "Category_ko": "\ubcbd/\uae30\ub465/\uce78\ub9c9\uc774"
+    },
+    "9": {
+        "0xID": "9",
+        "Category_cn": "\u6d74\u6c60",
+        "Category_de": "Bad und K\u00fcche",
+        "Category_en": "Bathing",
+        "Category_fr": "Salle de bain",
+        "Category_ja": "\u98a8\u5442",
+        "Category_ko": "\uc695\uc870"
+    }
+}

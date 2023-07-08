@@ -1,0 +1,4052 @@
+{
+    "131072": {
+        "0xID": "20000",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131073": {
+        "0xID": "20001",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131074": {
+        "0xID": "20002",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131075": {
+        "0xID": "20003",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131076": {
+        "0xID": "20004",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131077": {
+        "0xID": "20005",
+        "Name_cn": "\u524d\u5f80\u82b1\u871c\u6808\u6865",
+        "Name_de": "Zum Honigblumen-Steg",
+        "Name_en": "Purchase Passage to Sweetbloom Pier",
+        "Name_fr": "Aller \u00e0 la jet\u00e9e du Bouquet",
+        "Name_ja": "\u300c\u82b1\u871c\u685f\u6a4b\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uaf43\uafc0 \ub098\ub8e8'\ub85c \uc774\ub3d9"
+    },
+    "131078": {
+        "0xID": "20006",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131079": {
+        "0xID": "20007",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131080": {
+        "0xID": "20008",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131081": {
+        "0xID": "20009",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131082": {
+        "0xID": "2000A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131083": {
+        "0xID": "2000B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131084": {
+        "0xID": "2000C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131085": {
+        "0xID": "2000D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131086": {
+        "0xID": "2000E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131087": {
+        "0xID": "2000F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131088": {
+        "0xID": "20010",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131089": {
+        "0xID": "20011",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131090": {
+        "0xID": "20012",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131091": {
+        "0xID": "20013",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131092": {
+        "0xID": "20014",
+        "Name_cn": "4\u5c42\uff1a\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\u98de\u8247\u576a",
+        "Name_de": "Zum Luftschiff-Landeplatz (3. OG)",
+        "Name_en": "Ride Lift to the Airship Landing",
+        "Name_fr": "A\u00e9rodrome de Limsa Lominsa (3e \u00e9tage)",
+        "Name_ja": "\u300c4F\uff1a\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u30fb\u30e9\u30f3\u30c7\u30a3\u30f3\u30b0\u300d\u3078\u884c\u304f",
+        "Name_ko": "'4\uce35: \ub9bc\uc0ac \ub85c\ubbfc\uc0ac \ube44\uacf5\uc815 \uc2b9\uac15\uc7a5'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131093": {
+        "0xID": "20015",
+        "Name_cn": "2\u5c42\uff1a\u6c89\u6eba\u6d77\u8c5a\u4ead",
+        "Name_de": "Zur Abenteurergilde in der Ertr\u00e4nkten Sorge (1. OG)",
+        "Name_en": "Ride Lift to the Drowning Wench",
+        "Name_fr": "Guilde des aventuriers (1er \u00e9tage)",
+        "Name_ja": "\u300c2F\uff1a\u5192\u967a\u8005\u30ae\u30eb\u30c9\u300c\u6eba\u308c\u305f\u6d77\u8c5a\u4ead\u300d\u300d\u3078\u884c\u304f",
+        "Name_ko": "'2\uce35: \ubaa8\ud5d8\uac00 \uae38\ub4dc '\ubb3c\uc5d0 \ube60\uc9c4 \ub3cc\uace0\ub798 \uc8fc\uc810''\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131094": {
+        "0xID": "20016",
+        "Name_cn": "1\u5c42\uff1a\u5de5\u4e8b\u5927\u5385",
+        "Name_de": "Zur Bollwerkhalle (EG)",
+        "Name_en": "Ride Lift to Bulwark Hall",
+        "Name_fr": "Bastingage (RDC)",
+        "Name_ja": "\u300c1F\uff1a\u30d6\u30eb\u30ef\u30fc\u30af\u30db\u30fc\u30eb\u300d\u3078\u884c\u304f",
+        "Name_ko": "'1\uce35: \ubc29\ud30c\ubcbd \ud68c\uad00'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131095": {
+        "0xID": "20017",
+        "Name_cn": "4\u5c42\uff1a\u4e4c\u5c14\u8fbe\u54c8\u98de\u8247\u576a",
+        "Name_de": "Zum Luftschiff-Landeplatz (3. OG)",
+        "Name_en": "Ride Lift to the Airship Landing",
+        "Name_fr": "A\u00e9rodrome d'Ul'dah (3e \u00e9tage)",
+        "Name_ja": "\u300c4F\uff1a\u30a6\u30eb\u30c0\u30cf\u30fb\u30e9\u30f3\u30c7\u30a3\u30f3\u30b0\u300d\u3078\u884c\u304f",
+        "Name_ko": "'4\uce35: \uc6b8\ub2e4\ud558 \ube44\uacf5\uc815 \uc2b9\uac15\uc7a5'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131096": {
+        "0xID": "20018",
+        "Name_cn": "2\u5c42\uff1a\u653f\u5e9c\u5c42",
+        "Name_de": "Zur Ebene der Redner (1. OG)",
+        "Name_en": "Ride Lift to the Hustings Strip",
+        "Name_fr": "District politique (1er \u00e9tage)",
+        "Name_ja": "\u300c2F\uff1a\u653f\u5e81\u5c64\u300d\u3078\u884c\u304f",
+        "Name_ko": "'2\uce35: \uad00\uccad \uad6c\uc5ed'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131097": {
+        "0xID": "20019",
+        "Name_cn": "1\u5c42\uff1a\u7ea2\u7389\u5927\u8def\u56fd\u9645\u5e02\u573a",
+        "Name_de": "Zum Rubinstra\u00dfenmarkt (EG)",
+        "Name_en": "Ride Lift to the Ruby Road Exchange",
+        "Name_fr": "March\u00e9s de l'all\u00e9e du Rubis (RDC)",
+        "Name_ja": "\u300c1F\uff1a\u30eb\u30d3\u30fc\u30ed\u30fc\u30c9\u56fd\u969b\u5e02\u5834\u300d\u3078\u884c\u304f",
+        "Name_ko": "'1\uce35: \ub8e8\ube44\uae38 \uad6d\uc81c\uc2dc\uc7a5'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131098": {
+        "0xID": "2001A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131099": {
+        "0xID": "2001B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131100": {
+        "0xID": "2001C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131101": {
+        "0xID": "2001D",
+        "Name_cn": "\u524d\u5f80\u683c\u91cc\u8fbe\u5c3c\u4e9a",
+        "Name_de": "Nach Gridania",
+        "Name_en": "Purchase Passage to Gridania",
+        "Name_fr": "Aller \u00e0 Gridania",
+        "Name_ja": "\u300c\u30b0\u30ea\u30c0\u30cb\u30a2\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uadf8\ub9ac\ub2e4\ub2c8\uc544'\ub85c \uc774\ub3d9"
+    },
+    "131102": {
+        "0xID": "2001E",
+        "Name_cn": "\u524d\u5f80\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428",
+        "Name_de": "Nach Limsa Lominsa",
+        "Name_en": "Purchase Passage to Limsa Lominsa",
+        "Name_fr": "Aller \u00e0 Limsa Lominsa",
+        "Name_ja": "\u300c\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9bc\uc0ac \ub85c\ubbfc\uc0ac'\ub85c \uc774\ub3d9"
+    },
+    "131103": {
+        "0xID": "2001F",
+        "Name_cn": "\u524d\u5f80\u4e4c\u5c14\u8fbe\u54c8",
+        "Name_de": "Nach Ul'dah",
+        "Name_en": "Purchase Passage to Ul'dah",
+        "Name_fr": "Aller \u00e0 Ul'dah",
+        "Name_ja": "\u300c\u30a6\u30eb\u30c0\u30cf\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc6b8\ub2e4\ud558'\ub85c \uc774\ub3d9"
+    },
+    "131104": {
+        "0xID": "20020",
+        "Name_cn": "\u524d\u5f80\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428",
+        "Name_de": "Nach Limsa Lominsa",
+        "Name_en": "Purchase Passage to Limsa Lominsa",
+        "Name_fr": "Aller \u00e0 Limsa Lominsa",
+        "Name_ja": "\u300c\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9bc\uc0ac \ub85c\ubbfc\uc0ac'\ub85c \uc774\ub3d9"
+    },
+    "131105": {
+        "0xID": "20021",
+        "Name_cn": "\u524d\u5f80\u4e4c\u5c14\u8fbe\u54c8",
+        "Name_de": "Nach Ul'dah",
+        "Name_en": "Purchase Passage to Ul'dah",
+        "Name_fr": "Aller \u00e0 Ul'dah",
+        "Name_ja": "\u300c\u30a6\u30eb\u30c0\u30cf\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc6b8\ub2e4\ud558'\ub85c \uc774\ub3d9"
+    },
+    "131106": {
+        "0xID": "20022",
+        "Name_cn": "\u524d\u5f80\u683c\u91cc\u8fbe\u5c3c\u4e9a",
+        "Name_de": "Nach Gridania",
+        "Name_en": "Purchase Passage to Gridania",
+        "Name_fr": "Aller \u00e0 Gridania",
+        "Name_ja": "\u300c\u30b0\u30ea\u30c0\u30cb\u30a2\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uadf8\ub9ac\ub2e4\ub2c8\uc544'\ub85c \uc774\ub3d9"
+    },
+    "131107": {
+        "0xID": "20023",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131108": {
+        "0xID": "20024",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131109": {
+        "0xID": "20025",
+        "Name_cn": "\u524d\u5f80\u5c0f\u9ea6\u9152\u6e2f",
+        "Name_de": "Zum Bierhafen",
+        "Name_en": "Purchase Passage to Aleport",
+        "Name_fr": "Aller \u00e0 Port-aux-Ales",
+        "Name_ja": "\u300c\u30a8\u30fc\u30eb\u30dd\u30fc\u30c8\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9e5\uc8fc \ud56d\uad6c'\ub85c \uc774\ub3d9"
+    },
+    "131110": {
+        "0xID": "20026",
+        "Name_cn": "\u524d\u5f80\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428",
+        "Name_de": "Nach Limsa Lominsa",
+        "Name_en": "Purchase Passage to Limsa Lominsa",
+        "Name_fr": "Aller \u00e0 Limsa Lominsa",
+        "Name_ja": "\u300c\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9bc\uc0ac \ub85c\ubbfc\uc0ac'\ub85c \uc774\ub3d9"
+    },
+    "131111": {
+        "0xID": "20027",
+        "Name_cn": "\u524d\u5f80\u592a\u9633\u6d77\u5cb8",
+        "Name_de": "Zur Sonnenk\u00fcste",
+        "Name_en": "Purchase Passage to Costa del Sol",
+        "Name_fr": "Aller \u00e0 Costa del Sol",
+        "Name_ja": "\u300c\u30b3\u30b9\u30bf\u30fb\u30c7\u30eb\u30fb\u30bd\u30eb\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ucf54\uc2a4\ud0c0 \ub378 \uc194'\ub85c \uc774\ub3d9"
+    },
+    "131112": {
+        "0xID": "20028",
+        "Name_cn": "\u524d\u5f80\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428",
+        "Name_de": "Nach Limsa Lominsa",
+        "Name_en": "Purchase Passage to Limsa Lominsa",
+        "Name_fr": "Aller \u00e0 Limsa Lominsa",
+        "Name_ja": "\u300c\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9bc\uc0ac \ub85c\ubbfc\uc0ac'\ub85c \uc774\ub3d9"
+    },
+    "131113": {
+        "0xID": "20029",
+        "Name_cn": "\u524d\u5f80\u5409\u5409\u5362\u6069\u4ea4\u6613\u7ad9",
+        "Name_de": "Zu Jijiroons Handelsposten",
+        "Name_en": "Purchase Passage to Jijiroon's Trading Post",
+        "Name_fr": "Aller au comptoir de Jijiroon",
+        "Name_ja": "\u300c\u30b8\u30b8\u30eb\u30f3\u4ea4\u6613\u5546\u5e97\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc9c0\uc9c0\ub8ec \uad50\uc5ed\uc0c1\uc810'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131114": {
+        "0xID": "2002A",
+        "Name_cn": "\u524d\u5f80\u6885\u6885\u5362\u6069\u4ea4\u6613\u7ad9",
+        "Name_de": "Zu Memeroons Handelsposten",
+        "Name_en": "Purchase Passage to Memeroon's Trading Post",
+        "Name_fr": "Aller au comptoir de Memeroon",
+        "Name_ja": "\u300c\u30e1\u30e1\u30eb\u30f3\u4ea4\u6613\u5546\u5e97\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uba54\uba54\ub8ec \uad50\uc5ed\uc0c1\uc810'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131115": {
+        "0xID": "2002B",
+        "Name_cn": "\u524d\u5f80\u5c0f\u9ea6\u9152\u6e2f",
+        "Name_de": "Zum Bierhafen",
+        "Name_en": "Purchase Passage to Aleport",
+        "Name_fr": "Aller \u00e0 Port-aux-Ales",
+        "Name_ja": "\u300c\u30a8\u30fc\u30eb\u30dd\u30fc\u30c8\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9e5\uc8fc \ud56d\uad6c'\ub85c \uc774\ub3d9"
+    },
+    "131116": {
+        "0xID": "2002C",
+        "Name_cn": "\u524d\u5f80\u5b88\u70ac\u57e0\u5934",
+        "Name_de": "Zum Kerzenwacht-Kai",
+        "Name_en": "Purchase Passage to Candlekeep Quay",
+        "Name_fr": "Aller au quai de la Torche",
+        "Name_ja": "\u300c\u30ad\u30e3\u30f3\u30c9\u30eb\u30ad\u30fc\u30d7\u57e0\u982d\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ucd1b\ubd88\uc9c0\uae30 \ubd80\ub450'\ub85c \uc774\ub3d9"
+    },
+    "131117": {
+        "0xID": "2002D",
+        "Name_cn": "\u4ece\u767d\u72fc\u95e8\u79bb\u5f00",
+        "Name_de": "Zum Tiefen Wald",
+        "Name_en": "Travel Beyond the White Wolf Gate",
+        "Name_fr": "Aller au-del\u00e0 de la porte du Loup blanc",
+        "Name_ja": "\u300c\u767d\u72fc\u9580\uff08\u306f\u304f\u308d\u3046\u3082\u3093\uff09\u300d\u306e\u5916\u3078\u884c\u304f",
+        "Name_ko": "'\ud558\uc580 \ub291\ub300 \uad00\ubb38' \ubc16\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131118": {
+        "0xID": "2002E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131119": {
+        "0xID": "2002F",
+        "Name_cn": "\u524d\u5f80\u63a5\u96e8\u8349\u6811\u6797",
+        "Name_de": "Zur Regenf\u00e4nger-Rinne",
+        "Name_en": "Purchase Passage to Raincatcher Gully",
+        "Name_fr": "Aller \u00e0 la ravine des Cueillepluies",
+        "Name_ja": "\u300c\u30ec\u30a4\u30f3\u30ad\u30e3\u30c3\u30c1\u30e3\u30fc\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ube57\ubb3c\ubc1b\uc774 \uc232'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131120": {
+        "0xID": "20030",
+        "Name_cn": "\u524d\u5f80\u9690\u79d8\u7011\u5e03",
+        "Name_de": "Zum Verborgenen Wasserfall",
+        "Name_en": "Purchase Passage to Hidden Falls",
+        "Name_fr": "Aller \u00e0 la Chute cach\u00e9e",
+        "Name_ja": "\u300c\u96a0\u308c\u6edd\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc228\uaca8\uc9c4 \ud3ed\ud3ec'\ub85c \uc774\ub3d9"
+    },
+    "131121": {
+        "0xID": "20031",
+        "Name_cn": "\u524d\u5f80\u8299\u84c9\u5706\u684c",
+        "Name_de": "Zum Wasserrosentisch",
+        "Name_en": "Seek Entry to the Lotus Stand",
+        "Name_fr": "Aller \u00e0 la Chaire du Lotus",
+        "Name_ja": "\u300c\u4e0d\u8a9e\u4ed9\u306e\u5ea7\u5353\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9d0\uc5c6\ub294 \uc120\uc778\uc758 \uc88c\ud0c1'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131122": {
+        "0xID": "20032",
+        "Name_cn": "\u524d\u5f80\u63d0\u7763\u5ba4",
+        "Name_de": "Zur Admiralsbr\u00fccke",
+        "Name_en": "Seek Entry to the Command Room",
+        "Name_fr": "Aller au salon de l'Amiral",
+        "Name_ja": "\u300c\u30a2\u30c9\u30df\u30e9\u30eb\u30d6\u30ea\u30c3\u30b8\uff1a\u63d0\u7763\u5ba4\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc0ac\ub839\ud568\uad50: \uc81c\ub3c5\uc2e4'\ub85c \uc774\ub3d9"
+    },
+    "131123": {
+        "0xID": "20033",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131124": {
+        "0xID": "20034",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131125": {
+        "0xID": "20035",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131126": {
+        "0xID": "20036",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131127": {
+        "0xID": "20037",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131128": {
+        "0xID": "20038",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131129": {
+        "0xID": "20039",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131130": {
+        "0xID": "2003A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131131": {
+        "0xID": "2003B",
+        "Name_cn": "\u524d\u5f80\u72fc\u72f1\u6c34\u4e0a\u7ade\u6280\u573a",
+        "Name_de": "Zur Wolfsh\u00f6hle",
+        "Name_en": "Seek Passage to the Wolves' Den",
+        "Name_fr": "Aller \u00e0 l'Antre des loups",
+        "Name_ja": "\uff62\u30a6\u30eb\u30f4\u30ba\u30b8\u30a7\u30a4\u30eb\uff63\u3078\u884c\u304f",
+        "Name_ko": "'\ub291\ub300\uc6b0\ub9ac'\ub85c \uc774\ub3d9"
+    },
+    "131132": {
+        "0xID": "2003C",
+        "Name_cn": "\u524d\u5f80\u83ab\u62c9\u6bd4\u9020\u8239\u5382",
+        "Name_de": "Zu den Moraby-Trockendocks",
+        "Name_en": "Seek Passage to the Moraby Drydocks",
+        "Name_fr": "Aller au chantier naval de Moraby",
+        "Name_ja": "\uff62\u30e2\u30e9\u30d3\u30fc\u9020\u8239\u5ee0\uff63\u3078\u884c\u304f",
+        "Name_ko": "'\ubaa8\ub77c\ube44 \uc870\uc120\uc18c'\ub85c \uc774\ub3d9"
+    },
+    "131133": {
+        "0xID": "2003D",
+        "Name_cn": "\u524d\u5f80\u5c0f\u9ea6\u9152\u6e2f",
+        "Name_de": "Zum Bierhafen",
+        "Name_en": "Seek Passage to Aleport",
+        "Name_fr": "Aller \u00e0 Port-aux-Ales",
+        "Name_ja": "\u300c\u30a8\u30fc\u30eb\u30dd\u30fc\u30c8\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9e5\uc8fc \ud56d\uad6c'\ub85c \uc774\ub3d9"
+    },
+    "131134": {
+        "0xID": "2003E",
+        "Name_cn": "\u524d\u5f80\u5e7b\u5f71\u7fa4\u5c9b",
+        "Name_de": "Zu den Phantominseln",
+        "Name_en": "Purchase Passage to the Isles of Umbra",
+        "Name_fr": "Aller aux \u00eeles d'Ombra",
+        "Name_ja": "\u300c\u5e7b\u5f71\u8af8\u5cf6\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ud658\uc601 \uc81c\ub3c4'\ub85c \uc774\ub3d9"
+    },
+    "131135": {
+        "0xID": "2003F",
+        "Name_cn": "\u524d\u5f80\u5c0f\u9ea6\u9152\u6e2f",
+        "Name_de": "Zum Bierhafen",
+        "Name_en": "Seek Passage to Aleport",
+        "Name_fr": "Aller \u00e0 Port-aux-Ales",
+        "Name_ja": "\u300c\u30a8\u30fc\u30eb\u30dd\u30fc\u30c8\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9e5\uc8fc \ud56d\uad6c'\ub85c \uc774\ub3d9"
+    },
+    "131136": {
+        "0xID": "20040",
+        "Name_cn": "\u524d\u5f80\u6d77\u86c7\u5de2\u7a74",
+        "Name_de": "Zum Schlangennest",
+        "Name_en": "Purchase Passage to the Serpent's Tongue",
+        "Name_fr": "Aller au Nid de serpents",
+        "Name_ja": "\u300c\u6d77\u86c7\u306e\u5de3\u7a74\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ubc14\ub2e4\ubc40 \uc18c\uad74'\ub85c \uc774\ub3d9"
+    },
+    "131137": {
+        "0xID": "20041",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131138": {
+        "0xID": "20042",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131139": {
+        "0xID": "20043",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131140": {
+        "0xID": "20044",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131141": {
+        "0xID": "20045",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131142": {
+        "0xID": "20046",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131143": {
+        "0xID": "20047",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131144": {
+        "0xID": "20048",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131145": {
+        "0xID": "20049",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131146": {
+        "0xID": "2004A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131147": {
+        "0xID": "2004B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131148": {
+        "0xID": "2004C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131149": {
+        "0xID": "2004D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131150": {
+        "0xID": "2004E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131151": {
+        "0xID": "2004F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131152": {
+        "0xID": "20050",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131153": {
+        "0xID": "20051",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131154": {
+        "0xID": "20052",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131155": {
+        "0xID": "20053",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131156": {
+        "0xID": "20054",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131157": {
+        "0xID": "20055",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131158": {
+        "0xID": "20056",
+        "Name_cn": "\u524d\u5f80\u85b0\u8863\u8349\u82d7\u5703",
+        "Name_de": "Zu den Lavendelbeeten",
+        "Name_en": "Seek Passage to the Lavender Beds",
+        "Name_fr": "Aller \u00e0 Lavandi\u00e8re",
+        "Name_ja": "\u300c\u30e9\u30d9\u30f3\u30c0\u30fc\u30d9\u30c3\u30c9\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub77c\ubca4\ub354 \uc548\uc2dd\ucc98'\ub85c \uc774\ub3d9"
+    },
+    "131159": {
+        "0xID": "20057",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131160": {
+        "0xID": "20058",
+        "Name_cn": "\u524d\u5f80\u6d77\u96fe\u6751",
+        "Name_de": "Zum Dorf des Nebels",
+        "Name_en": "Seek Passage to Mist",
+        "Name_fr": "Aller \u00e0 Brum\u00e9e",
+        "Name_ja": "\u300c\u30df\u30b9\u30c8\u30fb\u30f4\u30a3\u30ec\u30c3\u30b8\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc548\uac2f\ube5b \ub9c8\uc744'\ub85c \uc774\ub3d9"
+    },
+    "131161": {
+        "0xID": "20059",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131162": {
+        "0xID": "2005A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131163": {
+        "0xID": "2005B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131164": {
+        "0xID": "2005C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131165": {
+        "0xID": "2005D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131166": {
+        "0xID": "2005E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131167": {
+        "0xID": "2005F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131168": {
+        "0xID": "20060",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131169": {
+        "0xID": "20061",
+        "Name_cn": "\u524d\u5f80\u6d77\u4e0a\u7684\u5927\u578b\u8239",
+        "Name_de": "Zum Gro\u00dfen Schoner",
+        "Name_en": "Board the Rhotano Privateer",
+        "Name_fr": "Aller \u00e0 bord du navire au large",
+        "Name_ja": "\u300c\u6d0b\u4e0a\u306e\u5927\u578b\u8239\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub300\ud615 \uc6d0\uc591\uc5b4\uc120'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131170": {
+        "0xID": "20062",
+        "Name_cn": "\u524d\u5f80\u592a\u9633\u6d77\u5cb8",
+        "Name_de": "Zur Sonnenk\u00fcste",
+        "Name_en": "Return to Costa del Sol",
+        "Name_fr": "Retourner \u00e0 Costa del Sol",
+        "Name_ja": "\u300c\u30b3\u30b9\u30bf\u30fb\u30c7\u30eb\u30fb\u30bd\u30eb\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ucf54\uc2a4\ud0c0 \ub378 \uc194'\ub85c \uc774\ub3d9"
+    },
+    "131171": {
+        "0xID": "20063",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131172": {
+        "0xID": "20064",
+        "Name_cn": "\u8fdb\u5165\u53cc\u5251\u5e08\u884c\u4f1a",
+        "Name_de": "Zur Schurkengilde",
+        "Name_en": "Enter the Rogues' Guild",
+        "Name_fr": "Entrer dans la guilde des surineurs",
+        "Name_ja": "\u300c\u53cc\u5263\u58eb\u30ae\u30eb\u30c9\u300d\u3078\u5165\u308b",
+        "Name_ko": "'\uc30d\uac80\uc0ac \uae38\ub4dc'\ub85c \ub4e4\uc5b4\uac00\uae30"
+    },
+    "131173": {
+        "0xID": "20065",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131174": {
+        "0xID": "20066",
+        "Name_cn": "\u8fdb\u5165\u7801\u5934\u5c0f\u5c4b",
+        "Name_de": "Zum alten Bootshaus",
+        "Name_en": "Enter the dock storehouse",
+        "Name_fr": "Entrer dans l'entrep\u00f4t",
+        "Name_ja": "\u300c\u8239\u7740\u5834\u306e\u5e73\u5c4b\u300d\u3078\u5165\u308b",
+        "Name_ko": "'\uc120\ucc29\uc7a5 \ucc3d\uace0'\ub85c \ub4e4\uc5b4\uac00\uae30"
+    },
+    "131175": {
+        "0xID": "20067",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131176": {
+        "0xID": "20068",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131177": {
+        "0xID": "20069",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131178": {
+        "0xID": "2006A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131179": {
+        "0xID": "2006B",
+        "Name_cn": "\u524d\u5f80\u91d1\u789f\u6e38\u4e50\u573a",
+        "Name_de": "Zum Gold Saucer",
+        "Name_en": "Seek Passage to the Gold Saucer",
+        "Name_fr": "Aller au Gold Saucer",
+        "Name_ja": "\u300c\u30b4\u30fc\u30eb\u30c9\u30bd\u30fc\u30b5\u30fc\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uace8\ub4dc \uc18c\uc11c'\ub85c \uc774\ub3d9"
+    },
+    "131180": {
+        "0xID": "2006C",
+        "Name_cn": "\u524d\u5f80\u91d1\u789f\u6e38\u4e50\u573a",
+        "Name_de": "Zum Gold Saucer",
+        "Name_en": "Seek Passage to the Gold Saucer",
+        "Name_fr": "Aller au Gold Saucer",
+        "Name_ja": "\u300c\u30b4\u30fc\u30eb\u30c9\u30bd\u30fc\u30b5\u30fc\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uace8\ub4dc \uc18c\uc11c'\ub85c \uc774\ub3d9"
+    },
+    "131181": {
+        "0xID": "2006D",
+        "Name_cn": "\u524d\u5f80\u91d1\u789f\u6e38\u4e50\u573a",
+        "Name_de": "Zum Gold Saucer",
+        "Name_en": "Seek Passage to the Gold Saucer",
+        "Name_fr": "Aller au Gold Saucer",
+        "Name_ja": "\u300c\u30b4\u30fc\u30eb\u30c9\u30bd\u30fc\u30b5\u30fc\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uace8\ub4dc \uc18c\uc11c'\ub85c \uc774\ub3d9"
+    },
+    "131182": {
+        "0xID": "2006E",
+        "Name_cn": "\u524d\u5f80\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428",
+        "Name_de": "Nach Limsa Lominsa",
+        "Name_en": "Purchase Passage to Limsa Lominsa",
+        "Name_fr": "Aller \u00e0 Limsa Lominsa",
+        "Name_ja": "\u300c\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9bc\uc0ac \ub85c\ubbfc\uc0ac'\ub85c \uc774\ub3d9"
+    },
+    "131183": {
+        "0xID": "2006F",
+        "Name_cn": "\u524d\u5f80\u4e4c\u5c14\u8fbe\u54c8",
+        "Name_de": "Nach Ul'dah",
+        "Name_en": "Seek Passage to Ul'dah",
+        "Name_fr": "Aller \u00e0 Ul'dah",
+        "Name_ja": "\u300c\u30a6\u30eb\u30c0\u30cf\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc6b8\ub2e4\ud558'\ub85c \uc774\ub3d9"
+    },
+    "131184": {
+        "0xID": "20070",
+        "Name_cn": "\u524d\u5f80\u683c\u91cc\u8fbe\u5c3c\u4e9a",
+        "Name_de": "Nach Gridania",
+        "Name_en": "Purchase Passage to Gridania",
+        "Name_fr": "Aller \u00e0 Gridania",
+        "Name_ja": "\u300c\u30b0\u30ea\u30c0\u30cb\u30a2\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uadf8\ub9ac\ub2e4\ub2c8\uc544'\ub85c \uc774\ub3d9"
+    },
+    "131185": {
+        "0xID": "20071",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131186": {
+        "0xID": "20072",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131187": {
+        "0xID": "20073",
+        "Name_cn": "\u524d\u5f80\u8f7b\u7fbd\u6597\u573a",
+        "Name_de": "Zur Leichtfeder-Arena",
+        "Name_en": "Enter the Proving Grounds",
+        "Name_fr": "Aller \u00e0 la carri\u00e8re de Lesteplume",
+        "Name_ja": "\u300c\u30e9\u30a4\u30c8\u30d5\u30a7\u30b6\u30fc\u95d8\u6280\u5834\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub098\ud480\uae43 \ud22c\uae30\uc7a5'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131188": {
+        "0xID": "20074",
+        "Name_cn": "\u524d\u5f80\u4e91\u9876\u8425\u5730",
+        "Name_de": "Nach Camp Wolkenwipfel",
+        "Name_en": "Seek Passage to Cloudtop",
+        "Name_fr": "Aller au camp de Cime-des-nuages",
+        "Name_ja": "\u300c\u30ad\u30e3\u30f3\u30d7\u30fb\u30af\u30e9\u30a6\u30c9\u30c8\u30c3\u30d7\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uad6c\ub984\ub9c8\ub8e8 \ucd08\uc18c'\ub85c \uc774\ub3d9"
+    },
+    "131189": {
+        "0xID": "20075",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131190": {
+        "0xID": "20076",
+        "Name_cn": "\u524d\u5f80\u9b54\u5927\u9646\u963f\u6d4e\u5179\u62c9",
+        "Name_de": "Nach Azys Lla",
+        "Name_en": "Seek Passage to Azys Lla",
+        "Name_fr": "Aller \u00e0 Azys Lla",
+        "Name_ja": "\u300c\u9b54\u5927\u9678\u30a2\u30b8\u30b9\u30fb\u30e9\u30fc\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9c8\ub300\ub959 \uc544\uc9c0\uc2a4 \ub77c'\ub85c \uc774\ub3d9"
+    },
+    "131191": {
+        "0xID": "20077",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131192": {
+        "0xID": "20078",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131193": {
+        "0xID": "20079",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131194": {
+        "0xID": "2007A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131195": {
+        "0xID": "2007B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131196": {
+        "0xID": "2007C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131197": {
+        "0xID": "2007D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131198": {
+        "0xID": "2007E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131199": {
+        "0xID": "2007F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131200": {
+        "0xID": "20080",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131201": {
+        "0xID": "20081",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131202": {
+        "0xID": "20082",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131203": {
+        "0xID": "20083",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131204": {
+        "0xID": "20084",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131205": {
+        "0xID": "20085",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131206": {
+        "0xID": "20086",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131207": {
+        "0xID": "20087",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131208": {
+        "0xID": "20088",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131209": {
+        "0xID": "20089",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131210": {
+        "0xID": "2008A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131211": {
+        "0xID": "2008B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131212": {
+        "0xID": "2008C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131213": {
+        "0xID": "2008D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131214": {
+        "0xID": "2008E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131215": {
+        "0xID": "2008F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131216": {
+        "0xID": "20090",
+        "Name_cn": "\u8fdb\u884c\u8c08\u8bdd",
+        "Name_de": "In eine fantastische Realit\u00e4t",
+        "Name_en": "Escape Reality",
+        "Name_fr": "Parler",
+        "Name_ja": "\u8a71\u3059",
+        "Name_ko": "\ub300\ud654"
+    },
+    "131217": {
+        "0xID": "20091",
+        "Name_cn": "\u79bb\u5f00\u5f00\u53d1\u5ba4",
+        "Name_de": "Zur\u00fcck zur realen Fantasie",
+        "Name_en": "Live the Fantasy",
+        "Name_fr": "Sortir",
+        "Name_ja": "\u304b\u3044\u306f\u3064\u3057\u3064\u304b\u3089\u51fa\u308b",
+        "Name_ko": "\uac1c\ubc1c\uc2e4\uc5d0\uc11c \ub098\uac00\uae30"
+    },
+    "131218": {
+        "0xID": "20092",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131219": {
+        "0xID": "20093",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131220": {
+        "0xID": "20094",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131221": {
+        "0xID": "20095",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131222": {
+        "0xID": "20096",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131223": {
+        "0xID": "20097",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131224": {
+        "0xID": "20098",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131225": {
+        "0xID": "20099",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131226": {
+        "0xID": "2009A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131227": {
+        "0xID": "2009B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131228": {
+        "0xID": "2009C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131229": {
+        "0xID": "2009D",
+        "Name_cn": "\u524d\u5f80\u4f0a\u4fee\u52a0\u5fb7",
+        "Name_de": "Nach Ishgard",
+        "Name_en": "Purchase Passage to Ishgard",
+        "Name_fr": "Aller \u00e0 Ishgard",
+        "Name_ja": "\u300c\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc774\uc288\uac00\ub974\ub4dc'\ub85c \uc774\ub3d9"
+    },
+    "131230": {
+        "0xID": "2009E",
+        "Name_cn": "\u524d\u5f80\u4f0a\u4fee\u52a0\u5fb7",
+        "Name_de": "Nach Ishgard",
+        "Name_en": "Purchase Passage to Ishgard",
+        "Name_fr": "Aller \u00e0 Ishgard",
+        "Name_ja": "\u300c\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc774\uc288\uac00\ub974\ub4dc'\ub85c \uc774\ub3d9"
+    },
+    "131231": {
+        "0xID": "2009F",
+        "Name_cn": "\u524d\u5f80\u4f0a\u4fee\u52a0\u5fb7",
+        "Name_de": "Nach Ishgard",
+        "Name_en": "Purchase Passage to Ishgard",
+        "Name_fr": "Aller \u00e0 Ishgard",
+        "Name_ja": "\u300c\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc774\uc288\uac00\ub974\ub4dc'\ub85c \uc774\ub3d9"
+    },
+    "131232": {
+        "0xID": "200A0",
+        "Name_cn": "\u524d\u5f80\u4e4c\u5c14\u8fbe\u54c8",
+        "Name_de": "Nach Ul'dah",
+        "Name_en": "Purchase Passage to Ul'dah",
+        "Name_fr": "Aller \u00e0 Ul'dah",
+        "Name_ja": "\u300c\u30a6\u30eb\u30c0\u30cf\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc6b8\ub2e4\ud558'\ub85c \uc774\ub3d9"
+    },
+    "131233": {
+        "0xID": "200A1",
+        "Name_cn": "\u524d\u5f80\u683c\u91cc\u8fbe\u5c3c\u4e9a",
+        "Name_de": "Nach Gridania",
+        "Name_en": "Purchase Passage to Gridania",
+        "Name_fr": "Aller \u00e0 Gridania",
+        "Name_ja": "\u300c\u30b0\u30ea\u30c0\u30cb\u30a2\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uadf8\ub9ac\ub2e4\ub2c8\uc544'\ub85c \uc774\ub3d9"
+    },
+    "131234": {
+        "0xID": "200A2",
+        "Name_cn": "\u524d\u5f80\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428",
+        "Name_de": "Nach Limsa Lominsa",
+        "Name_en": "Purchase Passage to Limsa Lominsa",
+        "Name_fr": "Aller \u00e0 Limsa Lominsa",
+        "Name_ja": "\u300c\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9bc\uc0ac \ub85c\ubbfc\uc0ac'\ub85c \uc774\ub3d9"
+    },
+    "131235": {
+        "0xID": "200A3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131236": {
+        "0xID": "200A4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131237": {
+        "0xID": "200A5",
+        "Name_cn": "\u524d\u5f80\u4f0a\u4fee\u52a0\u5fb7",
+        "Name_de": "Nach Ishgard",
+        "Name_en": "Purchase Passage to Ishgard",
+        "Name_fr": "Aller \u00e0 Ishgard",
+        "Name_ja": "\u300c\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc774\uc288\uac00\ub974\ub4dc'\ub85c \uc774\ub3d9"
+    },
+    "131238": {
+        "0xID": "200A6",
+        "Name_cn": "\u524d\u5f80\u91d1\u789f\u6e38\u4e50\u573a",
+        "Name_de": "Zum Gold Saucer",
+        "Name_en": "Seek Passage to the Gold Saucer",
+        "Name_fr": "Aller au Gold Saucer",
+        "Name_ja": "\u300c\u30b4\u30fc\u30eb\u30c9\u30bd\u30fc\u30b5\u30fc\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uace8\ub4dc \uc18c\uc11c'\ub85c \uc774\ub3d9"
+    },
+    "131239": {
+        "0xID": "200A7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131240": {
+        "0xID": "200A8",
+        "Name_cn": "\u8fdb\u884c\u8c08\u8bdd",
+        "Name_de": "Zur Kinderabteilung",
+        "Name_en": "Inquire Within",
+        "Name_fr": "Parler",
+        "Name_ja": "\u8a71\u3059",
+        "Name_ko": "\ub300\ud654"
+    },
+    "131241": {
+        "0xID": "200A9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131242": {
+        "0xID": "200AA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131243": {
+        "0xID": "200AB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131244": {
+        "0xID": "200AC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131245": {
+        "0xID": "200AD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131246": {
+        "0xID": "200AE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131247": {
+        "0xID": "200AF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131248": {
+        "0xID": "200B0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131249": {
+        "0xID": "200B1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131250": {
+        "0xID": "200B2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131251": {
+        "0xID": "200B3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131252": {
+        "0xID": "200B4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Purchase Passage to Limsa Lominsa",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131253": {
+        "0xID": "200B5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Purchase Passage to Kugane",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131254": {
+        "0xID": "200B6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131255": {
+        "0xID": "200B7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131256": {
+        "0xID": "200B8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131257": {
+        "0xID": "200B9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131258": {
+        "0xID": "200BA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131259": {
+        "0xID": "200BB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131260": {
+        "0xID": "200BC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131261": {
+        "0xID": "200BD",
+        "Name_cn": "\u8fdb\u5165\u4e4c\u5c14\u8fbe\u54c8\u5546\u4f1a\u9986\u63a5\u5f85\u5ba4",
+        "Name_de": "Zum Sitzungsraum",
+        "Name_en": "Enter the Ruby Bazaar Offices",
+        "Name_fr": "Entrer dans la salle d'accueil du Bazar de Rubis",
+        "Name_ja": "\u300c\u30a6\u30eb\u30c0\u30cf\u5546\u9928\u5fdc\u63a5\u5ba4\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc6b8\ub2e4\ud558 \ubb34\uc5ed\uc0c1\uad00 \uc751\uc811\uc2e4'\ub85c \uc774\ub3d9"
+    },
+    "131262": {
+        "0xID": "200BE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131263": {
+        "0xID": "200BF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131264": {
+        "0xID": "200C0",
+        "Name_cn": "\u8fdb\u5165\u70c8\u58eb\u5eb5",
+        "Name_de": "Zur Klause der Grimmigen",
+        "Name_en": "Enter the House of the Fierce",
+        "Name_fr": "Entrer dans le Cercle des Intr\u00e9pides",
+        "Name_ja": "\u300c\u70c8\u58eb\u5eb5\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc5f4\uc0ac\uc554'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131265": {
+        "0xID": "200C1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131266": {
+        "0xID": "200C2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131267": {
+        "0xID": "200C3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131268": {
+        "0xID": "200C4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131269": {
+        "0xID": "200C5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131270": {
+        "0xID": "200C6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131271": {
+        "0xID": "200C7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131272": {
+        "0xID": "200C8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131273": {
+        "0xID": "200C9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131274": {
+        "0xID": "200CA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131275": {
+        "0xID": "200CB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131276": {
+        "0xID": "200CC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131277": {
+        "0xID": "200CD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131278": {
+        "0xID": "200CE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131279": {
+        "0xID": "200CF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131280": {
+        "0xID": "200D0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131281": {
+        "0xID": "200D1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131282": {
+        "0xID": "200D2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131283": {
+        "0xID": "200D3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131284": {
+        "0xID": "200D4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131285": {
+        "0xID": "200D5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131286": {
+        "0xID": "200D6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131287": {
+        "0xID": "200D7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131288": {
+        "0xID": "200D8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131289": {
+        "0xID": "200D9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131290": {
+        "0xID": "200DA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131291": {
+        "0xID": "200DB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131292": {
+        "0xID": "200DC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131293": {
+        "0xID": "200DD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131294": {
+        "0xID": "200DE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131295": {
+        "0xID": "200DF",
+        "Name_cn": "\u8fdb\u5165\u91b4\u6cc9\u795e\u793e",
+        "Name_de": "Zum Reisen-Schrein",
+        "Name_en": "Enter Reisen Temple",
+        "Name_fr": "Aller au sanctuaire Reisen",
+        "Name_ja": "\u300c\u91b4\u6cc9\u795e\u793e\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub808\uc774\uc13c \uc2e0\uc0ac'\ub85c \uc774\ub3d9"
+    },
+    "131296": {
+        "0xID": "200E0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131297": {
+        "0xID": "200E1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131298": {
+        "0xID": "200E2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131299": {
+        "0xID": "200E3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131300": {
+        "0xID": "200E4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131301": {
+        "0xID": "200E5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131302": {
+        "0xID": "200E6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131303": {
+        "0xID": "200E7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131304": {
+        "0xID": "200E8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131305": {
+        "0xID": "200E9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131306": {
+        "0xID": "200EA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131307": {
+        "0xID": "200EB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131308": {
+        "0xID": "200EC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131309": {
+        "0xID": "200ED",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131310": {
+        "0xID": "200EE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131311": {
+        "0xID": "200EF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131312": {
+        "0xID": "200F0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131313": {
+        "0xID": "200F1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131314": {
+        "0xID": "200F2",
+        "Name_cn": "\u524d\u5f80\u6811\u6839\u5c42",
+        "Name_de": "Zu den Wurzeln",
+        "Name_en": "Enter the Buttress",
+        "Name_fr": "Aller aux Racines",
+        "Name_ja": "\u300c\u6a39\u6839\u306e\u5c64\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub098\ubb34\ubfcc\ub9ac\uce35'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131315": {
+        "0xID": "200F3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131316": {
+        "0xID": "200F4",
+        "Name_cn": "\u8fdb\u884c\u8c08\u8bdd",
+        "Name_de": "Quartier betreten",
+        "Name_en": "Inquire Within",
+        "Name_fr": "Discuter",
+        "Name_ja": "\u8a71\u3059",
+        "Name_ko": "\ub300\ud654"
+    },
+    "131317": {
+        "0xID": "200F5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131318": {
+        "0xID": "200F6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131319": {
+        "0xID": "200F7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131320": {
+        "0xID": "200F8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131321": {
+        "0xID": "200F9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131322": {
+        "0xID": "200FA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131323": {
+        "0xID": "200FB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131324": {
+        "0xID": "200FC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131325": {
+        "0xID": "200FD",
+        "Name_cn": "\u4f20\u9001\u81f3\u539f\u521d\u4e16\u754c",
+        "Name_de": "In den Ursprung",
+        "Name_en": "Return to the Source",
+        "Name_fr": "Retourner dans le monde primitif",
+        "Name_ja": "\u300c\u539f\u521d\u4e16\u754c\u300d\u3078\u8ee2\u79fb\u3059\u308b",
+        "Name_ko": "'\uc6d0\ucd08\uc138\uacc4'\ub85c \uc774\ub3d9"
+    },
+    "131326": {
+        "0xID": "200FE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131327": {
+        "0xID": "200FF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131328": {
+        "0xID": "20100",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131329": {
+        "0xID": "20101",
+        "Name_cn": "\u524d\u5f80\u73c2\u9732\u897f\u4e9a\u5c9b",
+        "Name_de": "Nach Kholusia",
+        "Name_en": "Enter Kholusia",
+        "Name_fr": "Aller \u00e0 Kholusia",
+        "Name_ja": "\u300c\u30b3\u30eb\u30b7\u30a2\u5cf6\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ucf5c\ub8e8\uc2dc\uc544 \uc12c'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131330": {
+        "0xID": "20102",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131331": {
+        "0xID": "20103",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131332": {
+        "0xID": "20104",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131333": {
+        "0xID": "20105",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131334": {
+        "0xID": "20106",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131335": {
+        "0xID": "20107",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131336": {
+        "0xID": "20108",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131337": {
+        "0xID": "20109",
+        "Name_cn": "\u524d\u5f80\u6c34\u6676\u90fd",
+        "Name_de": "Nach Crystarium",
+        "Name_en": "Enter the Crystarium",
+        "Name_fr": "Aller \u00e0 Cristarium",
+        "Name_ja": "\u300c\u30af\u30ea\u30b9\u30bf\u30ea\u30a6\u30e0\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ud06c\ub9ac\uc2a4\ud0c0\ub9ac\uc6c0'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131338": {
+        "0xID": "2010A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131339": {
+        "0xID": "2010B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131340": {
+        "0xID": "2010C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131341": {
+        "0xID": "2010D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131342": {
+        "0xID": "2010E",
+        "Name_cn": "\u524d\u5f80\u5929\u7a79\u8857",
+        "Name_de": "Nach Himmelsstadt",
+        "Name_en": "Enter the Firmament",
+        "Name_fr": "Aller \u00e0 Azur\u00e9e",
+        "Name_ja": "\u300c\u84bc\u5929\u8857\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ucc3d\ucc9c \uac70\ub9ac'\ub85c \uc774\ub3d9"
+    },
+    "131343": {
+        "0xID": "2010F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131344": {
+        "0xID": "20110",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131345": {
+        "0xID": "20111",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131346": {
+        "0xID": "20112",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131347": {
+        "0xID": "20113",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131348": {
+        "0xID": "20114",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131349": {
+        "0xID": "20115",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131350": {
+        "0xID": "20116",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131351": {
+        "0xID": "20117",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131352": {
+        "0xID": "20118",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131353": {
+        "0xID": "20119",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131354": {
+        "0xID": "2011A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131355": {
+        "0xID": "2011B",
+        "Name_cn": "\u524d\u5f80\u6c34\u6676\u90fd",
+        "Name_de": "Nach Crystarium",
+        "Name_en": "Enter the Crystarium",
+        "Name_fr": "Aller \u00e0 Cristarium",
+        "Name_ja": "\u300c\u30af\u30ea\u30b9\u30bf\u30ea\u30a6\u30e0\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ud06c\ub9ac\uc2a4\ud0c0\ub9ac\uc6c0'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131356": {
+        "0xID": "2011C",
+        "Name_cn": "\u524d\u5f80\u6e38\u672b\u90a6",
+        "Name_de": "Nach Eulmore",
+        "Name_en": "Enter Eulmore",
+        "Name_fr": "Aller \u00e0 Eulmore",
+        "Name_ja": "\u300c\u30e6\u30fc\u30eb\u30e2\u30a2\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc728\ubaa8\uc5b4'\ub85c \uc774\ub3d9"
+    },
+    "131357": {
+        "0xID": "2011D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131358": {
+        "0xID": "2011E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131359": {
+        "0xID": "2011F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131360": {
+        "0xID": "20120",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131361": {
+        "0xID": "20121",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131362": {
+        "0xID": "20122",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131363": {
+        "0xID": "20123",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131364": {
+        "0xID": "20124",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131365": {
+        "0xID": "20125",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131366": {
+        "0xID": "20126",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131367": {
+        "0xID": "20127",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131368": {
+        "0xID": "20128",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131369": {
+        "0xID": "20129",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131370": {
+        "0xID": "2012A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131371": {
+        "0xID": "2012B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131372": {
+        "0xID": "2012C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131373": {
+        "0xID": "2012D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131374": {
+        "0xID": "2012E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131375": {
+        "0xID": "2012F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131376": {
+        "0xID": "20130",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131377": {
+        "0xID": "20131",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131378": {
+        "0xID": "20132",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131379": {
+        "0xID": "20133",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131380": {
+        "0xID": "20134",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131381": {
+        "0xID": "20135",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131382": {
+        "0xID": "20136",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131383": {
+        "0xID": "20137",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131384": {
+        "0xID": "20138",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131385": {
+        "0xID": "20139",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131386": {
+        "0xID": "2013A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131387": {
+        "0xID": "2013B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131388": {
+        "0xID": "2013C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131389": {
+        "0xID": "2013D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131390": {
+        "0xID": "2013E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131391": {
+        "0xID": "2013F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131392": {
+        "0xID": "20140",
+        "Name_cn": "\u8fdb\u5165\u591c\u6e38\u9b42\u603b\u90e8",
+        "Name_de": "Zum Hauptquartier der Lemuren",
+        "Name_en": "Enter Lemures Headquarters",
+        "Name_fr": "Entrer dans le repaire des L\u00e9mures",
+        "Name_ja": "\u300c\u30ec\u30e0\u30ec\u30fc\u30b9\u306e\u30aa\u30d5\u30a3\u30b9\u300d\u3078\u5165\u308b",
+        "Name_ko": "'\ub808\ubb34\ub808\uc2a4 \uc0ac\ubb34\uc2e4'\ub85c \ub4e4\uc5b4\uac00\uae30"
+    },
+    "131393": {
+        "0xID": "20141",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131394": {
+        "0xID": "20142",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131395": {
+        "0xID": "20143",
+        "Name_cn": "\u524d\u5f80\u7a79\u9876\u7693\u5929",
+        "Name_de": "Zum Empyreum",
+        "Name_en": "Enter Empyreum",
+        "Name_fr": "Aller \u00e0 Empyr\u00e9e",
+        "Name_ja": "\u300c\u30a8\u30f3\u30d4\u30ec\u30a2\u30e0\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc9c0\uace0\ucc9c \uac70\ub9ac'\ub85c \uc774\ub3d9"
+    },
+    "131396": {
+        "0xID": "20144",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131397": {
+        "0xID": "20145",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131398": {
+        "0xID": "20146",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131399": {
+        "0xID": "20147",
+        "Name_cn": "\u524d\u5f80\u9ec4\u91d1\u6e2f",
+        "Name_de": "Nach Kugane",
+        "Name_en": "Purchase Passage to Kugane",
+        "Name_fr": "Aller \u00e0 Kugane",
+        "Name_ja": "\u300c\u30af\u30ac\u30cd\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ucfe0\uac00\ub124'\ub85c \uc774\ub3d9"
+    },
+    "131400": {
+        "0xID": "20148",
+        "Name_cn": "\u524d\u5f80\u62c9\u672d\u7f55",
+        "Name_de": "Nach Radz-at-Han",
+        "Name_en": "Purchase Passage to Radz-at-Han",
+        "Name_fr": "Aller \u00e0 Radz-at-Han",
+        "Name_ja": "\u300c\u30e9\u30b6\u30cf\u30f3\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub77c\uc790\ud55c'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131401": {
+        "0xID": "20149",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131402": {
+        "0xID": "2014A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131403": {
+        "0xID": "2014B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131404": {
+        "0xID": "2014C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131405": {
+        "0xID": "2014D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131406": {
+        "0xID": "2014E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131407": {
+        "0xID": "2014F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131408": {
+        "0xID": "20150",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131409": {
+        "0xID": "20151",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131410": {
+        "0xID": "20152",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131411": {
+        "0xID": "20153",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131412": {
+        "0xID": "20154",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131413": {
+        "0xID": "20155",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131414": {
+        "0xID": "20156",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131415": {
+        "0xID": "20157",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131416": {
+        "0xID": "20158",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131417": {
+        "0xID": "20159",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131418": {
+        "0xID": "2015A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131419": {
+        "0xID": "2015B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131420": {
+        "0xID": "2015C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131421": {
+        "0xID": "2015D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131422": {
+        "0xID": "2015E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131423": {
+        "0xID": "2015F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131424": {
+        "0xID": "20160",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131425": {
+        "0xID": "20161",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131426": {
+        "0xID": "20162",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131427": {
+        "0xID": "20163",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131428": {
+        "0xID": "20164",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131429": {
+        "0xID": "20165",
+        "Name_cn": "\u524d\u5f80\u4e4c\u5c14\u8fbe\u54c8",
+        "Name_de": "Nach Ul'dah",
+        "Name_en": "Purchase Passage to Ul'dah",
+        "Name_fr": "Aller \u00e0 Ul'dah",
+        "Name_ja": "\u300c\u30a6\u30eb\u30c0\u30cf\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc6b8\ub2e4\ud558'\ub85c \uc774\ub3d9"
+    },
+    "131430": {
+        "0xID": "20166",
+        "Name_cn": "\u524d\u5f80\u62c9\u672d\u7f55",
+        "Name_de": "Nach Radz-at-Han",
+        "Name_en": "Purchase Passage to Radz-at-Han",
+        "Name_fr": "Aller \u00e0 Radz-at-Han",
+        "Name_ja": "\u300c\u30e9\u30b6\u30cf\u30f3\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub77c\uc790\ud55c'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131431": {
+        "0xID": "20167",
+        "Name_cn": "\u524d\u5f80\u683c\u91cc\u8fbe\u5c3c\u4e9a",
+        "Name_de": "Nach Gridania",
+        "Name_en": "Purchase Passage to Gridania",
+        "Name_fr": "Aller \u00e0 Gridania",
+        "Name_ja": "\u300c\u30b0\u30ea\u30c0\u30cb\u30a2\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uadf8\ub9ac\ub2e4\ub2c8\uc544'\ub85c \uc774\ub3d9"
+    },
+    "131432": {
+        "0xID": "20168",
+        "Name_cn": "\u524d\u5f80\u62c9\u672d\u7f55",
+        "Name_de": "Nach Radz-at-Han",
+        "Name_en": "Purchase Passage to Radz-at-Han",
+        "Name_fr": "Aller \u00e0 Radz-at-Han",
+        "Name_ja": "\u300c\u30e9\u30b6\u30cf\u30f3\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub77c\uc790\ud55c'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131433": {
+        "0xID": "20169",
+        "Name_cn": "\u524d\u5f80\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428",
+        "Name_de": "Nach Limsa Lominsa",
+        "Name_en": "Purchase Passage to Limsa Lominsa",
+        "Name_fr": "Aller \u00e0 Limsa Lominsa",
+        "Name_ja": "\u300c\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub9bc\uc0ac \ub85c\ubbfc\uc0ac'\ub85c \uc774\ub3d9"
+    },
+    "131434": {
+        "0xID": "2016A",
+        "Name_cn": "\u524d\u5f80\u62c9\u672d\u7f55",
+        "Name_de": "Nach Radz-at-Han",
+        "Name_en": "Purchase Passage to Radz-at-Han",
+        "Name_fr": "Aller \u00e0 Radz-at-Han",
+        "Name_ja": "\u300c\u30e9\u30b6\u30cf\u30f3\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub77c\uc790\ud55c'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131435": {
+        "0xID": "2016B",
+        "Name_cn": "\u524d\u5f80\u4f0a\u4fee\u52a0\u5fb7",
+        "Name_de": "Nach Ishgard",
+        "Name_en": "Purchase Passage to Ishgard",
+        "Name_fr": "Aller \u00e0 Ishgard",
+        "Name_ja": "\u300c\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\uc774\uc288\uac00\ub974\ub4dc'\ub85c \uc774\ub3d9"
+    },
+    "131436": {
+        "0xID": "2016C",
+        "Name_cn": "\u524d\u5f80\u62c9\u672d\u7f55",
+        "Name_de": "Nach Radz-at-Han",
+        "Name_en": "Purchase Passage to Radz-at-Han",
+        "Name_fr": "Aller \u00e0 Radz-at-Han",
+        "Name_ja": "\u300c\u30e9\u30b6\u30cf\u30f3\u300d\u3078\u884c\u304f",
+        "Name_ko": "'\ub77c\uc790\ud55c'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131437": {
+        "0xID": "2016D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131438": {
+        "0xID": "2016E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131439": {
+        "0xID": "2016F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131440": {
+        "0xID": "20170",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131441": {
+        "0xID": "20171",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131442": {
+        "0xID": "20172",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131443": {
+        "0xID": "20173",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131444": {
+        "0xID": "20174",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131445": {
+        "0xID": "20175",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131446": {
+        "0xID": "20176",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131447": {
+        "0xID": "20177",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131448": {
+        "0xID": "20178",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131449": {
+        "0xID": "20179",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131450": {
+        "0xID": "2017A",
+        "Name_cn": "\u524d\u5f80\u795e\u95e8\u4e4b\u95f4",
+        "Name_de": "Zum Gottesportal",
+        "Name_en": "Enter the Nethergate",
+        "Name_fr": "Aller \u00e0 la tour de Babil",
+        "Name_ja": "\u300c\u30d0\u30d6\u30a4\u30eb\u306e\u5854\uff1a\u795e\u9580\u306e\u9593\u300d\u306b\u79fb\u52d5\u3059\u308b",
+        "Name_ko": "'\ubc14\ube0c\uc77c \ud0d1 \uc2e0\uc758 \ubb38'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131451": {
+        "0xID": "2017B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131452": {
+        "0xID": "2017C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131453": {
+        "0xID": "2017D",
+        "Name_cn": "\u4f20\u9001\u81f3\u5384\u5c14\u5e87\u65af",
+        "Name_de": "Nach Elpis",
+        "Name_en": "Travel to Elpis",
+        "Name_fr": "Aller \u00e0 Elpis",
+        "Name_ja": "\u300c\u30a8\u30eb\u30d4\u30b9\u300d\u3078\u8ee2\u79fb\u3059\u308b",
+        "Name_ko": "'\uc5d8\ud53c\uc2a4'\ub85c \uc774\ub3d9"
+    },
+    "131454": {
+        "0xID": "2017E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131455": {
+        "0xID": "2017F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131456": {
+        "0xID": "20180",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131457": {
+        "0xID": "20181",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131458": {
+        "0xID": "20182",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131459": {
+        "0xID": "20183",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131460": {
+        "0xID": "20184",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131461": {
+        "0xID": "20185",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131462": {
+        "0xID": "20186",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131463": {
+        "0xID": "20187",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131464": {
+        "0xID": "20188",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131465": {
+        "0xID": "20189",
+        "Name_cn": "\u524d\u5f80\u6069\u585e\u62c9\u90fd\u65af\u9b54\u5bfc\u5de5\u5382\u7684\u8d27\u7269\u7ad9",
+        "Name_de": "Zum Frachtbahnhof des Enceladeums",
+        "Name_en": "Enter the Station",
+        "Name_fr": "Aller \u00e0 la gare de l'Enceladeum",
+        "Name_ja": "\u300c\u30a8\u30f3\u30bb\u30e9\u30c0\u30b9\u9b54\u5c0e\u5de5\u5ee0\uff1a\u8ca8\u7269\u99c5\u300d\u306b\u79fb\u52d5\u3059\u308b",
+        "Name_ko": "'\uc5d4\ucf08\ub77c\ub3c4\uc2a4 \ub9c8\ub3c4 \uacf5\uc7a5: \ud654\ubb3c\uc5ed'\uc73c\ub85c \uc774\ub3d9"
+    },
+    "131466": {
+        "0xID": "2018A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131467": {
+        "0xID": "2018B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131468": {
+        "0xID": "2018C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131469": {
+        "0xID": "2018D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131470": {
+        "0xID": "2018E",
+        "Name_cn": "\u95ed\u76ee\u72b6\u6001\u4e0b\u7a81\u7834\u81f3\u4e2d\u7ee7\u5730\u70b9",
+        "Name_de": "Mit geschlossenen Augen zum Zwischenziel",
+        "Name_en": "Close Your Eyes",
+        "Name_fr": "Avancer les yeux ferm\u00e9s jusqu'\u00e0 mi-chemin",
+        "Name_ja": "\u76ee\u3092\u9589\u3058\u3066\u4e2d\u7d99\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
+        "Name_ko": "\ub208\uc744 \uac10\uace0 \uc911\uac04 \uc9c0\uc810\uae4c\uc9c0 \uacf5\ub7b5"
+    },
+    "131471": {
+        "0xID": "2018F",
+        "Name_cn": "\u95ed\u76ee\u72b6\u6001\u4e0b\u7a81\u7834\u81f3\u7ec8\u70b9",
+        "Name_de": "Mit geschlossenen Augen ans Ziel",
+        "Name_en": "Close Your Eyes",
+        "Name_fr": "Avancer les yeux ferm\u00e9s jusqu'\u00e0 la ligne d'arriv\u00e9e",
+        "Name_ja": "\u76ee\u3092\u9589\u3058\u3066\u7d42\u7740\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
+        "Name_ko": "\ub208\uc744 \uac10\uace0 \uc885\ucc29 \uc9c0\uc810\uae4c\uc9c0 \uacf5\ub7b5"
+    },
+    "131472": {
+        "0xID": "20190",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131473": {
+        "0xID": "20191",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131474": {
+        "0xID": "20192",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131475": {
+        "0xID": "20193",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131476": {
+        "0xID": "20194",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131477": {
+        "0xID": "20195",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131478": {
+        "0xID": "20196",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131479": {
+        "0xID": "20197",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131480": {
+        "0xID": "20198",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131481": {
+        "0xID": "20199",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131482": {
+        "0xID": "2019A",
+        "Name_cn": "\u4f20\u9001\u81f3A4\u8c03\u67e5\u5e73\u53f0",
+        "Name_de": "Zur Plattform A4",
+        "Name_en": "Return to A-4 Research",
+        "Name_fr": "Aller au camp de base A-4",
+        "Name_ja": "\u300c\u30ea\u30b5\u30fc\u30c1A4\u300d\u3078\u8ee2\u79fb\u3059\u308b",
+        "Name_ko": "'\ub9ac\uc11c\uce58 A4'\ub85c \uc774\ub3d9"
+    },
+    "131483": {
+        "0xID": "2019B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131484": {
+        "0xID": "2019C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131485": {
+        "0xID": "2019D",
+        "Name_cn": "\u4f20\u9001\u81f3\u80cc\u4e16\u5496\u5561\u5385",
+        "Name_de": "Zum Caf\u00e9 Wiegenstern",
+        "Name_en": "Travel to the Last Dregs",
+        "Name_fr": "Aller aux Derni\u00e8res R\u00e9miniscences",
+        "Name_ja": "\u300c\u30ab\u30d5\u30a7\u300c\u30e9\u30b9\u30c8\u30ec\u30e0\u30ca\u30f3\u30c8\u300d\u300d\u3078\u8ee2\u79fb\u3059\u308b",
+        "Name_ko": "'\uce74\ud398 '\ub77c\uc2a4\ud2b8 \ub818\ub10c\ud2b8''\ub85c \uc774\ub3d9"
+    },
+    "131486": {
+        "0xID": "2019E",
+        "Name_cn": "\u4f20\u9001\u81f3A4\u8c03\u67e5\u5e73\u53f0",
+        "Name_de": "Zur Plattform A4",
+        "Name_en": "Travel to A-4 Research",
+        "Name_fr": "Aller au camp de base A-4",
+        "Name_ja": "\u300c\u30ea\u30b5\u30fc\u30c1A4\u300d\u3078\u8ee2\u79fb\u3059\u308b",
+        "Name_ko": "'\ub9ac\uc11c\uce58 A4'\ub85c \uc774\ub3d9"
+    },
+    "131487": {
+        "0xID": "2019F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131488": {
+        "0xID": "201A0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131489": {
+        "0xID": "201A1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131490": {
+        "0xID": "201A2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131491": {
+        "0xID": "201A3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131492": {
+        "0xID": "201A4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131493": {
+        "0xID": "201A5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131494": {
+        "0xID": "201A6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131495": {
+        "0xID": "201A7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131496": {
+        "0xID": "201A8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131497": {
+        "0xID": "201A9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131498": {
+        "0xID": "201AA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131499": {
+        "0xID": "201AB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131500": {
+        "0xID": "201AC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131501": {
+        "0xID": "201AD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131502": {
+        "0xID": "201AE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131503": {
+        "0xID": "201AF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131504": {
+        "0xID": "201B0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131505": {
+        "0xID": "201B1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131506": {
+        "0xID": "201B2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131507": {
+        "0xID": "201B3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131508": {
+        "0xID": "201B4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131509": {
+        "0xID": "201B5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131510": {
+        "0xID": "201B6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131511": {
+        "0xID": "201B7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131512": {
+        "0xID": "201B8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131513": {
+        "0xID": "201B9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131514": {
+        "0xID": "201BA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131515": {
+        "0xID": "201BB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131516": {
+        "0xID": "201BC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131517": {
+        "0xID": "201BD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131518": {
+        "0xID": "201BE",
+        "Name_cn": "\u95ed\u76ee\u72b6\u6001\u4e0b\u7a81\u7834\u81f3\u4e2d\u7ee7\u5730\u70b9",
+        "Name_de": "Schlie\u00dfe deine Augen",
+        "Name_en": "Close Your Eyes",
+        "Name_fr": "\u76ee\u3092\u9589\u3058\u3066\u4e2d\u7d99\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
+        "Name_ja": "\u76ee\u3092\u9589\u3058\u3066\u4e2d\u7d99\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
+        "Name_ko": ""
+    },
+    "131519": {
+        "0xID": "201BF",
+        "Name_cn": "\u95ed\u76ee\u72b6\u6001\u4e0b\u7a81\u7834\u81f3\u7ec8\u70b9",
+        "Name_de": "Schlie\u00dfe deine Augen",
+        "Name_en": "Close Your Eyes",
+        "Name_fr": "\u76ee\u3092\u9589\u3058\u3066\u7d42\u7740\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
+        "Name_ja": "\u76ee\u3092\u9589\u3058\u3066\u7d42\u7740\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
+        "Name_ko": ""
+    },
+    "131520": {
+        "0xID": "201C0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131521": {
+        "0xID": "201C1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    }
+}

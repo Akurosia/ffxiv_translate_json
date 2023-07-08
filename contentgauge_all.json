@@ -1,0 +1,686 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u865a\u65e0",
+        "Name_de": "Leere",
+        "Name_en": "Emptiness",
+        "Name_fr": "N\u00e9ant",
+        "Name_ja": "\u865a\u7121",
+        "Name_ko": "\ud5c8\ubb34"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u8299\u6735\u62c9\u7684\u4ee5\u592a",
+        "Name_de": "Fordolas Barriere",
+        "Name_en": "Fordola's Aether",
+        "Name_fr": "\u00c9ther de Fordola",
+        "Name_ja": "\u30d5\u30a9\u30eb\u30c9\u30e9\u306e\u30a8\u30fc\u30c6\u30eb",
+        "Name_ko": "\ud3ec\ub974\ub3cc\ub77c\uc758 \uc5d0\ud14c\ub974"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u9a6c\u63d0\u4e4c\u65af\u7684\u4ee5\u592a",
+        "Name_de": "Mateus' \u00c4ther",
+        "Name_en": "Mateus's Aether",
+        "Name_fr": "\u00c9ther de Mateus",
+        "Name_ja": "\u30de\u30c6\u30a3\u30a6\u30b9\u30a8\u30fc\u30c6\u30eb",
+        "Name_ko": "\ub9c8\ud2f0\uc6b0\uc2a4\uc758 \uc5d0\ud14c\ub974"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u4ee5\u592a\u52a0\u901f\u5ea6",
+        "Name_de": "\u00c4therbeschleunigung",
+        "Name_en": "Aetherial Acceleration",
+        "Name_fr": "Acc\u00e9l\u00e9ration \u00e9th\u00e9r\u00e9enne",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30eb\u52a0\u901f\u5ea6",
+        "Name_ko": "\uc5d0\ud14c\ub974 \uac00\uc18d\ub3c4"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u7384\u6b66\u7684\u7075\u6c14",
+        "Name_de": "Genbus Geist",
+        "Name_en": "Genbu's Focus",
+        "Name_fr": "\u00c9nergie de Genbu",
+        "Name_ja": "\u7384\u6b66\u306e\u970a\u6c17",
+        "Name_ko": "\ud604\ubb34\uc758 \uc601\uae30"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u5fc3\u7f18\u4e4b\u529b",
+        "Name_de": "Liebe",
+        "Name_en": "Affinity",
+        "Name_fr": "Affinit\u00e9",
+        "Name_ja": "\u7d46\u306e\u529b",
+        "Name_ko": "\uc778\uc5f0\uc758 \ud798"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u5760\u5730",
+        "Name_de": "Zu Boden gehen",
+        "Name_en": "Down Gauge",
+        "Name_fr": "Mise au sol",
+        "Name_ja": "\u30c0\u30a6\u30f3\u30b2\u30fc\u30b8",
+        "Name_ko": "\ub2e4\uc6b4 \uac8c\uc774\uc9c0"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u6028\u5ff5",
+        "Name_de": "Hass",
+        "Name_en": "Suffering",
+        "Name_fr": "Ressentiment",
+        "Name_ja": "\u6028\u5ff5",
+        "Name_ko": "\uc6d0\ub150"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u9f50\u5929\u5927\u5723\u7684\u5996\u529b",
+        "Name_de": "Qitian Dashengs Zauberkraft",
+        "Name_en": "Monkey Magicks",
+        "Name_fr": "\u00c9nergie de Qitian Dasheng",
+        "Name_ja": "\u30bb\u30a4\u30c6\u30f3\u30bf\u30a4\u30bb\u30a4\u306e\u5996\u529b",
+        "Name_ko": "\uc81c\ucc9c\ub300\uc131\uc758 \uc694\ub825"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u7a76\u6781\u795e\u5175\u7684\u4ee5\u592a",
+        "Name_de": "Ultima-\u00c4ther",
+        "Name_en": "Ultima Aether",
+        "Name_fr": "\u00c9ther d'Ultima Arma",
+        "Name_ja": "\u30a2\u30eb\u30c6\u30de\u30a8\u30fc\u30c6\u30eb",
+        "Name_ko": "\uc54c\ud14c\ub9c8 \uc5d0\ud14c\ub974"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u9b3c\u9f99\u96c5\u5179\u739b\u7279\u7684\u9b54\u529b",
+        "Name_de": "Magie",
+        "Name_en": "Mana",
+        "Name_fr": "Puissance magique de Yiazmat",
+        "Name_ja": "\u9b3c\u9f8d\u30e4\u30ba\u30de\u30c3\u30c8\u306e\u9b54\u529b",
+        "Name_ko": "\uadc0\ub8e1 \uc57c\uc988\ub9c8\ud2b8\uc758 \ub9c8\ub825"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u9b54\u4eba\u8d1d\u5229\u4e9a\u65af\u7684\u9b54\u529b",
+        "Name_de": "Magie",
+        "Name_en": "Mana",
+        "Name_fr": "Puissance magique de Belias",
+        "Name_ja": "\u9b54\u4eba\u30d9\u30ea\u30a2\u30b9\u306e\u9b54\u529b",
+        "Name_ko": "\ub9c8\uc778 \ubca8\ub9ac\uc544\uc2a4\uc758 \ub9c8\ub825"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u795e\u5668\u7684\u5996\u529b",
+        "Name_de": "G\u00f6ttliche Kraft",
+        "Name_en": "Divine Epicness",
+        "Name_fr": "Pouvoir supr\u00eame",
+        "Name_ja": "\u795e\u5668\u306e\u5996\u529b",
+        "Name_ko": "\uc2e0\uae30\uc758 \uc694\ub825"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u6731\u7ea2\u65cb\u5f8b",
+        "Name_de": "Dunkelrote Melodie",
+        "Name_en": "Scarlet Melody",
+        "Name_fr": "M\u00e9lodie vermillon",
+        "Name_ja": "\u6731\u306e\u65cb\u5f8b",
+        "Name_ko": "\ubd89\uc740 \uc120\uc728"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u5c18\u4e16\u5e7b\u9f99\u7684\u4ee5\u592a",
+        "Name_de": "Midgardsormrs \u00c4ther",
+        "Name_en": "Midgardsormr's Aether",
+        "Name_fr": "\u00c9ther de Midgardsormr",
+        "Name_ja": "\u30df\u30c9\u30ac\u30eb\u30ba\u30aa\u30eb\u30e0\u30a8\u30fc\u30c6\u30eb",
+        "Name_ko": "\ubbf8\ub4dc\uac00\ub974\ub4dc\uc624\ub984 \uc5d0\ud14c\ub974"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u9668\u77f3\u5760\u843d",
+        "Name_de": "Meteoreinschlag",
+        "Name_en": "Meteor Impact",
+        "Name_fr": "Chute de m\u00e9t\u00e9ore",
+        "Name_ja": "\u30e1\u30c6\u30aa\u843d\u7740\u307e\u3067",
+        "Name_ko": "\uba54\ud14c\uc624 \ucda9\ub3cc\uae4c\uc9c0"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u9ed1\u6c34\u6676\u7684\u9b54\u529b",
+        "Name_de": "Dunkler \u00c4ther",
+        "Name_en": "Dark Aether",
+        "Name_fr": "Puissance magique du cristal noir",
+        "Name_ja": "\u9ed2\u6c34\u6676\u306e\u9b54\u529b",
+        "Name_ko": "\ud751\uc218\uc815\uc758 \ub9c8\ub825"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u96f7\u529b\u96c6\u4e2d\u5ea6",
+        "Name_de": "Elektrische Kraftkonzentration",
+        "Name_en": "Electromagnetic Induction",
+        "Name_fr": "Concentration \u00e9lectrique",
+        "Name_ja": "\u96f7\u529b\u96c6\u4e2d\u5ea6",
+        "Name_ko": "\ub1cc\ub825 \uc9d1\uc911\ub3c4"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u5723\u5251\u6280",
+        "Name_de": "Heilige Klinge",
+        "Name_en": "Holy Blade",
+        "Name_fr": "\u00c9p\u00e9e sacr\u00e9e",
+        "Name_ja": "\u8056\u5263\u6280",
+        "Name_ko": "\uc131\uac80\uae30"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u9752\u9f99\u7684\u795e\u901a\u529b",
+        "Name_de": "Seiryus g\u00f6ttliche Gabe",
+        "Name_en": "Seiryu's Focus",
+        "Name_fr": "Gr\u00e2ce de Seiry\u00fb",
+        "Name_ja": "\u9752\u9f8d\u306e\u795e\u901a\u529b",
+        "Name_ko": "\uccad\ub8e1\uc758 \uc2e0\ud1b5\ub825"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u504f\u5c5e\u6027\u4ee5\u592a",
+        "Name_de": "Denaturierter \u00c4ther",
+        "Name_en": "Corrupted Aether",
+        "Name_fr": "\u00c9ther corrompu",
+        "Name_ja": "\u504f\u5c5e\u6027\u30a8\u30fc\u30c6\u30eb",
+        "Name_ko": "\ud3b8\uc18d\uc131 \uc5d0\ud14c\ub974"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u9b54\u6cd5\u969c\u58c1\u8010\u4e45\u5ea6",
+        "Name_de": "Magische Barriere",
+        "Name_en": "Barrier Strength",
+        "Name_fr": "R\u00e9sistance de la barri\u00e8re magique",
+        "Name_ja": "\u9b54\u6cd5\u969c\u58c1\u8010\u4e45\u5ea6",
+        "Name_ko": "\ub9c8\ubc95 \uc7a5\ubcbd \ub0b4\uad6c\ub3c4"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u4ee5\u592a\u586b\u5145\u7387",
+        "Name_de": "Gesammelter \u00c4ther",
+        "Name_en": "Aether Transfer",
+        "Name_fr": "\u00c9ther accumul\u00e9",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30eb\u5145\u586b\u7387",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\uc728"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u5168\u5251\u6280",
+        "Name_de": "Schwertkunst",
+        "Name_en": "Swordplay",
+        "Name_fr": "Passe d'armes",
+        "Name_ja": "\u5168\u5263\u6280",
+        "Name_ko": "\ub1cc\uc2e0\uc758 \uac80\uae30"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u7f07\u5766\u59ae\u96c5\u7684\u9b54\u529b",
+        "Name_de": "Titanias Naturmagie",
+        "Name_en": "Titania's Power",
+        "Name_fr": "Puissance magique de Titania",
+        "Name_ja": "\u30c6\u30a3\u30bf\u30fc\u30cb\u30a2\u306e\u9b54\u529b",
+        "Name_ko": "\ud2f0\ud0c0\ub2c8\uc544\uc758 \ub9c8\ub825"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u65e0\u7455\u7075\u541b\u7684\u5a01\u4e25",
+        "Name_de": "Innozenz' Einfluss",
+        "Name_en": "Immaculate Authority",
+        "Name_fr": "Jugement supr\u00eame",
+        "Name_ja": "\u30a4\u30ce\u30bb\u30f3\u30b9\u306e\u5a01\u5149",
+        "Name_ko": "\uc774\ub178\uc13c\uc2a4\uc758 \uc704\uad11"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u53e4\u4ee3\u4eba\u7684\u7948\u7977",
+        "Name_de": "Gebet der Alten",
+        "Name_en": "Fervor of the Ancients",
+        "Name_fr": "Ferveur des anciens",
+        "Name_ja": "\u53e4\u4ee3\u4eba\u306e\u7948\u308a",
+        "Name_ko": "\uace0\ub300\uc778\uc758 \uae30\ub3c4"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u80fd\u91cf\u586b\u5145\u7387",
+        "Name_de": "Gespeicherte Energie",
+        "Name_en": "Charge",
+        "Name_fr": "Charge \u00e9nerg\u00e9tique",
+        "Name_ja": "\u30a8\u30cd\u30eb\u30ae\u30fc\u5145\u586b\u7387",
+        "Name_ko": "\uc5d0\ub108\uc9c0 \ucda9\uc804\uc728"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u9a87\u5ba2\u8fdb\u5ea6",
+        "Name_de": "Hacken",
+        "Name_en": "Hacking",
+        "Name_fr": "Progression du piratage",
+        "Name_ja": "\u30cf\u30c3\u30ad\u30f3\u30b0\u9032\u6357\u7387",
+        "Name_ko": "\ud574\ud0b9 \uc9c4\ud589\ub960"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u5149\u4e4b\u6cdb\u6ee5",
+        "Name_de": "Lichtflut",
+        "Name_en": "Flood of Light",
+        "Name_fr": "D\u00e9luge de Lumi\u00e8re",
+        "Name_ja": "\u5149\u306e\u6c3e\u6feb",
+        "Name_ko": "\ube5b\uc758 \ubc94\ub78c"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u80fd\u91cf\u586b\u5145\u7387",
+        "Name_de": "Energieladung",
+        "Name_en": "Charge",
+        "Name_fr": "Charge \u00e9nerg\u00e9tique",
+        "Name_ja": "\u30a8\u30cd\u30eb\u30ae\u30fc\u5145\u586b\u7387",
+        "Name_ko": "\uc5d0\ub108\uc9c0 \ucda9\uc804\uc728"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u4ee5\u592a\u586b\u5145\u7387",
+        "Name_de": "Gesammelter \u00c4ther",
+        "Name_en": "Aether Transfer",
+        "Name_fr": "\u00c9ther accumul\u00e9",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30eb\u5145\u586b\u7387",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\uc728"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u536b\u6708\u4ee5\u592a\u5bc6\u5ea6",
+        "Name_de": "Dalamud-\u00c4ther",
+        "Name_en": "Dalamud Reborn",
+        "Name_fr": "\u00c9ther de Dalamud",
+        "Name_ja": "\u30c0\u30e9\u30ac\u30d6\u30a8\u30fc\u30c6\u30eb\u5bc6\u5ea6",
+        "Name_ko": "\ub2ec\ub77c\uac00\ube0c \uc5d0\ud14c\ub974 \ubc00\ub3c4"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u6781\u9650\u6280",
+        "Name_de": "Limitrausch",
+        "Name_en": "Limit Break",
+        "Name_fr": "Transcendance",
+        "Name_ja": "LIMIT BREAK",
+        "Name_ko": "\ub9ac\ubbf8\ud2b8 \ube0c\ub808\uc774\ud06c"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u4ed9\u5b50\u732a\u4e4b\u6bcd\u7684\u9b54\u529b",
+        "Name_de": "Macht der Muttersau",
+        "Name_en": "Mother Porxie's Magic",
+        "Name_fr": "Puissance magique de la m\u00e8re porxie",
+        "Name_ja": "\u30de\u30b6\u30fc\u30dd\u30fc\u30af\u30b7\u30fc\u306e\u9b54\u529b",
+        "Name_ko": "\ub9c8\ub354 \ud3ec\ud06c\uc2dc\uc758 \ub9c8\ub825"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u76d6\u5a05\u7684\u8bb0\u5fc6",
+        "Name_de": "Gaias Erinnerungen",
+        "Name_en": "Gaia's Memories",
+        "Name_fr": "Souvenirs de Ga\u00efa",
+        "Name_ja": "\u30ac\u30a4\u30a2\u306e\u8a18\u61b6",
+        "Name_ko": "\uac00\uc774\uc544\uc758 \uae30\uc5b5"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u624e\u9791\u7684\u7075\u9b42\u53d8\u5f02\u7387",
+        "Name_de": "Za Das Besessenheit",
+        "Name_en": "Za Da's Tempering",
+        "Name_fr": "R\u00e9sistance de Za Da",
+        "Name_ja": "\u30b6\u30fb\u30c0\u306e\u9b42\u5909\u7570\u7387",
+        "Name_ko": "\uc790 \ub2e4\uc758 \uc601\ud63c \ubcc0\uc774\uc728"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u4ee5\u592a\u586b\u5145\u7387",
+        "Name_de": "\u00c4therladung",
+        "Name_en": "Sovereignty ",
+        "Name_fr": "\u00c9ther accumul\u00e9",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30eb\u5145\u586b\u7387",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\uc728"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u6df7\u6c8c",
+        "Name_de": "Chaos",
+        "Name_en": "Chaos",
+        "Name_fr": "Chaos",
+        "Name_ja": "\u6df7\u6c8c",
+        "Name_ko": "\ud63c\ub3c8"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u7edd\u671b",
+        "Name_de": "Hoffnungslosigkeit",
+        "Name_en": "Despair",
+        "Name_fr": "D\u00e9sespoir",
+        "Name_ja": "\u7d76\u671b",
+        "Name_ko": "\uc808\ub9dd"
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u516d\u5408\u7ed3\u754c\u672f\u5f0f\u5c55\u5f00\u5ea6",
+        "Name_de": "Errichtung des kosmischen Bannkreises",
+        "Name_en": "Summoning of the Irmin Hedge",
+        "Name_fr": "D\u00e9ploiement de la Lice cardinale",
+        "Name_ja": "\u516d\u5408\u7d50\u754c\u306e\u8853\u5f0f\u5c55\u958b\u5ea6",
+        "Name_ko": "\uc721\ud569\uacb0\uacc4 \uc220\uc2dd"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u654c\u519b\u8b66\u6212\u5ea6",
+        "Name_de": "Wachsamkeit",
+        "Name_en": "Threat Awareness",
+        "Name_fr": "M\u00e9fiance des soldats",
+        "Name_ja": "\u6575\u8ecd\u8b66\u6212\u5ea6",
+        "Name_ko": "\uc801\uad70 \uacbd\uacc4\ub3c4"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u5927\u5730\u4e4b\u5951\u7ea6",
+        "Name_de": "Pakt mit der Erde",
+        "Name_en": "Earthen Accord",
+        "Name_fr": "Pacte avec la terre",
+        "Name_ja": "\u571f\u306e\u5951\u7d04",
+        "Name_ko": "\ub545\uc758 \uacc4\uc57d"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u4f50\u8fea\u4e9a\u514b\u7684\u9b54\u529b",
+        "Name_de": "Zodiarks Macht",
+        "Name_en": "Zodiark's Power",
+        "Name_fr": "Puissance de Zordiarche",
+        "Name_ja": "\u30be\u30c7\u30a3\u30a2\u30fc\u30af\u306e\u9b54\u529b",
+        "Name_ko": "\uc870\ub514\uc544\ud06c\uc758 \ub9c8\ub825"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u4ee5\u592a\u586b\u5145\u7387",
+        "Name_de": "Gesammelter \u00c4ther",
+        "Name_en": "Conviction",
+        "Name_fr": "\u00c9ther accumul\u00e9",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30eb\u5145\u586b\u7387",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\uc728"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u90aa\u9f99\u4e4b\u5f71\u7684\u652f\u914d\u7387",
+        "Name_de": "Nidhoggs Einfluss",
+        "Name_en": "Nidhogg's Influence",
+        "Name_fr": "Emprise de Nidhogg",
+        "Name_ja": "\u90aa\u7adc\u306e\u5f71\u306e\u652f\u914d\u7387",
+        "Name_ko": "\uc0ac\ub8e1\uc758 \uadf8\ub9bc\uc790 \uc9c0\ubc30\uc728"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u6cd5\u592b\u5c3c\u5c14\u7684\u9b54\u529b",
+        "Name_de": "Fafnirs magische Macht",
+        "Name_en": "Profane Fafnir's Magic",
+        "Name_fr": "Puissance magique de Fafner",
+        "Name_ja": "\u30d5\u30a1\u30fc\u30f4\u30cb\u30eb\u306e\u9b54\u529b",
+        "Name_ko": "\uc704\uc2e0\uc218 \ud30c\ud504\ub2c8\ub974\uc758 \ub9c8\ub825"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u83f2\u5c3c\u514b\u53f8\u7684\u9b54\u529b",
+        "Name_de": "Feuer des Phoinix",
+        "Name_en": "Phoinix Fire",
+        "Name_fr": "Puissance magique du protoph\u00e9nix",
+        "Name_ja": "\u30d5\u30a7\u30cd\u30af\u30b9\u306e\u9b54\u529b",
+        "Name_ko": "\ud398\ub125\uc2a4\uc758 \ub9c8\ub825"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u7ef4\u6d85\u65af\u7684\u4ee5\u592a",
+        "Name_de": "Venats \u00c4ther",
+        "Name_en": "Venat's Aether",
+        "Name_fr": "\u00c9ther de Venat",
+        "Name_ja": "\u30f4\u30a7\u30fc\u30cd\u30b9\u306e\u30a8\u30fc\u30c6\u30eb",
+        "Name_ko": "\ubca0\ub124\uc2a4\uc758 \uc5d0\ud14c\ub974"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u76d6\u4e4c\u65af\u7684\u5251\u6c14",
+        "Name_de": "Gaius' Schwertenergie",
+        "Name_en": "Blade Energy",
+        "Name_fr": "\u00c9nergie de l'\u00e9p\u00e9e de Gaius",
+        "Name_ja": "\u30ac\u30a4\u30a6\u30b9\u306e\u5263\u6c17",
+        "Name_ko": "\uac00\uc774\uc6b0\uc2a4\uc758 \uac80\uae30"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u5c18\u4e16\u5e7b\u9f99\u7684\u4ee5\u592a",
+        "Name_de": "Midgardsormrs \u00c4ther",
+        "Name_en": "Midgardsormr's Aether",
+        "Name_fr": "\u00c9ther de Midgardsormr",
+        "Name_ja": "\u30df\u30c9\u30ac\u30eb\u30ba\u30aa\u30eb\u30e0\u30a8\u30fc\u30c6\u30eb",
+        "Name_ko": "\ubbf8\ub4dc\uac00\ub974\ub4dc\uc624\ub984 \uc5d0\ud14c\ub974"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u6361\u5230\u7684\u94b1",
+        "Name_de": "Gold",
+        "Name_en": "Funds",
+        "Name_fr": "Or accumul\u00e9",
+        "Name_ja": "\u61d0\u4e8b\u60c5",
+        "Name_ko": "\uc7ac\ubb3c"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "\u65af\u5361\u7c73\u7559\u5c3c\u7684\u9b54\u529b",
+        "Name_de": "Scarmigliones Verderbtheit",
+        "Name_en": "Scarmiglione's Power",
+        "Name_fr": "Puissance magique de Scarmiglione",
+        "Name_ja": "\u30b9\u30ab\u30eb\u30df\u30ea\u30e7\u30fc\u30cd\u306e\u9b54\u529b",
+        "Name_ko": "\uc2a4\uce74\ub974\ubc00\ub9ac\uc624\ub124\uc758 \ub9c8\ub825"
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u62c9\u54c8\u5e03\u96f7\u4e9a\u7684\u9b54\u529b",
+        "Name_de": "Lahabreas Magiekraft",
+        "Name_en": "Lahabrea's Power",
+        "Name_fr": "Puissance magique de Lahabrea",
+        "Name_ja": "\u30a2\u30b7\u30a8\u30f3\u30fb\u30e9\u30cf\u30d6\u30ec\u30a2\u306e\u9b54\u529b",
+        "Name_ko": "\uc544\uc528\uc5d4 \ub77c\ud558\ube0c\ub808\uc544\uc758 \ub9c8\ub825"
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u5c3c\u5fb7\u970d\u683c\u7684\u9b54\u529b",
+        "Name_de": "Nidhoggs Magiekraft",
+        "Name_en": "Nidhogg's Rancor",
+        "Name_fr": "Puissance magique de Nidhogg",
+        "Name_ja": "\u30cb\u30fc\u30ba\u30d8\u30c3\u30b0\u306e\u9b54\u529b",
+        "Name_ko": "\ub2c8\ub4dc\ud638\uadf8\uc758 \ub9c8\ub825"
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "\u9971\u98df\u5ea6",
+        "Name_de": "Ges\u00e4ttigt",
+        "Name_en": "Satiety",
+        "Name_fr": "Estomac de Proto-Carbuncle",
+        "Name_ja": "\u6e80\u8179\u5ea6",
+        "Name_ko": "\ud3ec\ub9cc\uac10"
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "\u5916\u5c42\u9b54\u6cd5\u969c\u58c1\u7684\u8010\u4e45\u5ea6",
+        "Name_de": "\u00c4u\u00dfere magische Barriere",
+        "Name_en": "Barrier Strength",
+        "Name_fr": "R\u00e9sistance de la couche externe de la barri\u00e8re magique",
+        "Name_ja": "\u9b54\u6cd5\u969c\u58c1\u5916\u5c64\u306e\u8010\u4e45\u5ea6",
+        "Name_ko": "\ub9c8\ubc95 \uc7a5\ubcbd \uc678\uce35 \ub0b4\uad6c\ub3c4"
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "\u9732\u742a\u4e9a\u7b49\u4eba\u7684\u4f53\u529b",
+        "Name_de": "Verteidigungstruppen",
+        "Name_en": "Knights' Resolve",
+        "Name_fr": "R\u00e9sistance des troupes",
+        "Name_ja": "\u30eb\u30ad\u30a2\u305f\u3061\u306e\u8010\u4e45\u529b",
+        "Name_ko": "\ub8e8\ud0a4\uc544 \ubd80\ub300\uc758 \uccb4\ub825"
+    },
+    "66": {
+        "0xID": "42",
+        "Name_cn": "\u51ef\u7eb3\u69fd\u7684\u9b54\u529b",
+        "Name_de": "Cagnazzos Magie",
+        "Name_en": "Cagnazzo's Power",
+        "Name_fr": "Puissance magique de Cagnazzo",
+        "Name_ja": "\u30ab\u30a4\u30ca\u30c3\u30c4\u30a9\u306e\u9b54\u529b",
+        "Name_ko": ""
+    },
+    "67": {
+        "0xID": "43",
+        "Name_cn": "\u4e2d\u5c42\u9b54\u6cd5\u969c\u58c1\u7684\u8010\u4e45\u5ea6",
+        "Name_de": "Mittlere magische Barriere",
+        "Name_en": "Barrier Strength",
+        "Name_fr": "R\u00e9sistance de la couche interm\u00e9diaire de la barri\u00e8re magique",
+        "Name_ja": "\u9b54\u6cd5\u969c\u58c1\u4e2d\u5c64\u306e\u8010\u4e45\u5ea6",
+        "Name_ko": "\ub9c8\ubc95 \uc7a5\ubcbd \uc911\uac04\uce35 \ub0b4\uad6c\ub3c4"
+    },
+    "68": {
+        "0xID": "44",
+        "Name_cn": "\u5185\u5c42\u9b54\u6cd5\u969c\u58c1\u7684\u8010\u4e45\u5ea6",
+        "Name_de": "Innere magische Barriere",
+        "Name_en": "Barrier Strength",
+        "Name_fr": "R\u00e9sistance de la couche interne de la barri\u00e8re magique",
+        "Name_ja": "\u9b54\u6cd5\u969c\u58c1\u5185\u5c64\u306e\u8010\u4e45\u5ea6",
+        "Name_ko": "\ub9c8\ubc95 \uc7a5\ubcbd \ub0b4\uce35 \ub0b4\uad6c\ub3c4"
+    },
+    "69": {
+        "0xID": "45",
+        "Name_cn": "\u5362\u6bd4\u574e\u7279\u7684\u9b54\u529b",
+        "Name_de": "Rubicantes Feuer",
+        "Name_en": "Rubicante's Power",
+        "Name_fr": "Puissance magique de Rubicante",
+        "Name_ja": "\u30eb\u30d3\u30ab\u30f3\u30c6\u306e\u9b54\u529b",
+        "Name_ko": ""
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u9b45\u60d1\u62e5\u62b1",
+        "Name_de": "Lockende Umarmung",
+        "Name_en": "Alluring Embrace",
+        "Name_fr": "\u00c9treinte s\u00e9duisante",
+        "Name_ja": "\u9b45\u60d1\u306e\u62b1\u64c1",
+        "Name_ko": "\ub9e4\ud639\uc801\uc778 \ud3ec\uc639"
+    },
+    "70": {
+        "0xID": "46",
+        "Name_cn": "\u5b89\u675c\u9a6c\u5229\u4e4c\u58eb\u7684\u9b54\u529b",
+        "Name_de": "Andromalius' Magie",
+        "Name_en": "Andromalius's Power",
+        "Name_fr": "Puissance magique d'Andromalius",
+        "Name_ja": "\u30a2\u30f3\u30c9\u30ed\u30de\u30ea\u30a6\u30b9\u306e\u9b54\u529b",
+        "Name_ko": ""
+    },
+    "71": {
+        "0xID": "47",
+        "Name_cn": "\u81f3\u5c0a\u65e0\u5f71\u7684\u9b54\u529b",
+        "Name_de": "Macht des Prim-Ascian",
+        "Name_en": "Ascian Prime's Power",
+        "Name_fr": "Puissance magique du Primo-Ascien",
+        "Name_ja": "\u30a2\u30b7\u30a8\u30f3\u30fb\u30d7\u30e9\u30a4\u30e0\u306e\u9b54\u529b",
+        "Name_ko": ""
+    },
+    "72": {
+        "0xID": "48",
+        "Name_cn": "\u54c8\u7f57\u59ae\u7684\u5bd2\u6c14",
+        "Name_de": "Halones Frost",
+        "Name_en": "The Fury's Frost",
+        "Name_fr": "Gel de Halone",
+        "Name_ja": "\u30cf\u30eb\u30aa\u30fc\u30cd\u306e\u51cd\u6c17",
+        "Name_ko": ""
+    },
+    "73": {
+        "0xID": "49",
+        "Name_cn": "\u6885\u8335\u83f2\u5a1c\u7684\u9b54\u529b",
+        "Name_de": "Menphinas Magie",
+        "Name_en": "The Lover's Power",
+        "Name_fr": "Puissance magique de Menphina",
+        "Name_ja": "\u30e1\u30cd\u30d5\u30a3\u30ca\u306e\u9b54\u529b",
+        "Name_ko": ""
+    },
+    "74": {
+        "0xID": "4A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "75": {
+        "0xID": "4B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u54c8\u4fee\u9a6c\u5229\u59c6\u7684\u9b54\u529b",
+        "Name_de": "Hashmallims Mana",
+        "Name_en": "Mana",
+        "Name_fr": "Puissance magique de Hashmal",
+        "Name_ja": "\u7d71\u5236\u8005\u30cf\u30b7\u30e5\u30de\u30ea\u30e0\u306e\u9b54\u529b",
+        "Name_ko": "\ud1b5\uc81c\uc790 \ud558\uc26c\ub9d0\ub9bc\uc758 \ub9c8\ub825"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u5df4\u54c8\u59c6\u7279\u7684\u4ee5\u592a",
+        "Name_de": "Bahamut-\u00c4ther",
+        "Name_en": "Aethertrail Attunement",
+        "Name_fr": "\u00c9ther de Bahamut",
+        "Name_ja": "\u30d0\u30cf\u30e0\u30fc\u30c8\u30a8\u30fc\u30c6\u30eb",
+        "Name_ko": "\ubc14\ud558\ubb34\ud2b8 \uc5d0\ud14c\ub974"
+    }
+}

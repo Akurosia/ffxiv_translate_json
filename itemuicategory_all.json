@@ -1,0 +1,1102 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/060000/060101.png",
+        "Name_cn": "\u683c\u6597\u6b66\u5668",
+        "Name_de": "Hauptwaffe der Faustk\u00e4mpfer",
+        "Name_en": "Pugilist's Arm",
+        "Name_fr": "Arme de pugiliste",
+        "Name_ja": "\u683c\u95d8\u6b66\u5668",
+        "Name_ko": "\uaca9\ud22c\ubb34\uae30"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/060000/060109.png",
+        "Name_cn": "\u9b54\u5bfc\u4e66",
+        "Name_de": "Grimoire",
+        "Name_en": "Arcanist's Grimoire",
+        "Name_fr": "Arme d'arcaniste",
+        "Name_ja": "\u9b54\u9053\u66f8",
+        "Name_ko": "\ub9c8\ub3c4\uc11c"
+    },
+    "100": {
+        "0xID": "64",
+        "Icon": "ui/icon/060000/060179.png",
+        "Name_cn": "\u8d27\u5e01",
+        "Name_de": "W\u00e4hrung",
+        "Name_en": "Currency",
+        "Name_fr": "Devises",
+        "Name_ja": "\u901a\u8ca8",
+        "Name_ko": "\ud654\ud3d0"
+    },
+    "101": {
+        "0xID": "65",
+        "Icon": "ui/icon/060000/060169.png",
+        "Name_cn": "\u6f5c\u6c34\u8247\u90e8\u4ef6\uff08\u8239\u4f53\uff09",
+        "Name_de": "Tauchboot-Bauteil (Rumpf)",
+        "Name_en": "Submersible Hull",
+        "Name_fr": "\u00c9l\u00e9ment de sous-marin (coque)",
+        "Name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u4f53)",
+        "Name_ko": "\uc7a0\uc218\ud568 \ubd80\ud488(\ud568\uccb4)"
+    },
+    "102": {
+        "0xID": "66",
+        "Icon": "ui/icon/060000/060169.png",
+        "Name_cn": "\u6f5c\u6c34\u8247\u90e8\u4ef6\uff08\u8239\u5c3e\uff09",
+        "Name_de": "Tauchboot-Bauteil (Heck)",
+        "Name_en": "Submersible Stern",
+        "Name_fr": "\u00c9l\u00e9ment de sous-marin (poupe)",
+        "Name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u5c3e)",
+        "Name_ko": "\uc7a0\uc218\ud568 \ubd80\ud488(\ud568\ubbf8)"
+    },
+    "103": {
+        "0xID": "67",
+        "Icon": "ui/icon/060000/060169.png",
+        "Name_cn": "\u6f5c\u6c34\u8247\u90e8\u4ef6\uff08\u8239\u9996\uff09",
+        "Name_de": "Tauchboot-Bauteil (Bug)",
+        "Name_en": "Submersible Bow",
+        "Name_fr": "\u00c9l\u00e9ment de sous-marin (proue)",
+        "Name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u9996)",
+        "Name_ko": "\uc7a0\uc218\ud568 \ubd80\ud488(\ud568\uc218)"
+    },
+    "104": {
+        "0xID": "68",
+        "Icon": "ui/icon/060000/060169.png",
+        "Name_cn": "\u6f5c\u6c34\u8247\u90e8\u4ef6\uff08\u8230\u6865\uff09",
+        "Name_de": "Tauchboot-Bauteil (Br\u00fccke)",
+        "Name_en": "Submersible Bridge",
+        "Name_fr": "\u00c9l\u00e9ment de sous-marin (pont)",
+        "Name_ja": "\u6f5c\u6c34\u8266\u30d1\u30fc\u30c4(\u8266\u6a4b)",
+        "Name_ko": "\uc7a0\uc218\ud568 \ubd80\ud488(\ud568\uad50)"
+    },
+    "105": {
+        "0xID": "69",
+        "Icon": "ui/icon/060000/060180.png",
+        "Name_cn": "\u9752\u9b54\u6756",
+        "Name_de": "Blaumagier-Waffe",
+        "Name_en": "Blue Mage's Arm",
+        "Name_fr": "Arme de mage bleu",
+        "Name_ja": "\u9752\u9b54\u5668",
+        "Name_ko": "\uccad\ub9c8\uae30"
+    },
+    "106": {
+        "0xID": "6A",
+        "Icon": "ui/icon/060000/060181.png",
+        "Name_cn": "\u67aa\u5203",
+        "Name_de": "Hauptwaffe der Revolverklingen",
+        "Name_en": "Gunbreaker's Arm",
+        "Name_fr": "Arme de pistosabreur",
+        "Name_ja": "\u30ac\u30f3\u30d6\u30ec\u30fc\u30c9",
+        "Name_ko": "\uac74\ube14\ub808\uc774\ub4dc"
+    },
+    "107": {
+        "0xID": "6B",
+        "Icon": "ui/icon/060000/060182.png",
+        "Name_cn": "\u6295\u63b7\u6b66\u5668",
+        "Name_de": "Hauptwaffe der T\u00e4nzer",
+        "Name_en": "Dancer's Arm",
+        "Name_fr": "Arme de danseur",
+        "Name_ja": "\u6295\u64f2\u6b66\u5668",
+        "Name_ko": "\ud22c\ucc99\ubb34\uae30"
+    },
+    "108": {
+        "0xID": "6C",
+        "Icon": "ui/icon/060000/060183.png",
+        "Name_cn": "\u53cc\u624b\u9570\u5200",
+        "Name_de": "Hauptwaffe der Schnitter",
+        "Name_en": "Reaper's Arm",
+        "Name_fr": "Arme de faucheur",
+        "Name_ja": "\u4e21\u624b\u938c",
+        "Name_ko": "\uc591\uc190\ub0ab"
+    },
+    "109": {
+        "0xID": "6D",
+        "Icon": "ui/icon/060000/060184.png",
+        "Name_cn": "\u8d24\u5177",
+        "Name_de": "Hauptwaffe der Weisen",
+        "Name_en": "Sage's Arm",
+        "Name_fr": "Arme de sage",
+        "Name_ja": "\u8ce2\u5177",
+        "Name_ko": "\ud604\ud559\ub3c4\uad6c"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/060000/060110.png",
+        "Name_cn": "\u76fe",
+        "Name_de": "Schild",
+        "Name_en": "Shield",
+        "Name_fr": "Bouclier",
+        "Name_ja": "\u76fe",
+        "Name_ko": "\ubc29\ud328"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/060000/060112.png",
+        "Name_cn": "\u523b\u6728\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Zimmermannszeug",
+        "Name_en": "Carpenter's Primary Tool",
+        "Name_fr": "Outil principal de menuisier",
+        "Name_ja": "\u6728\u5de5\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\ubaa9\uc218 \uc8fc \ub3c4\uad6c"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/060000/060112.png",
+        "Name_cn": "\u523b\u6728\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Zimmermannszeug (sekund\u00e4r)",
+        "Name_en": "Carpenter's Secondary Tool",
+        "Name_fr": "Outil secondaire de menuisier",
+        "Name_ja": "\u6728\u5de5\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\ubaa9\uc218 \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/060000/060113.png",
+        "Name_cn": "\u953b\u94c1\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Schmiedezeug",
+        "Name_en": "Blacksmith's Primary Tool",
+        "Name_fr": "Outil principal de forgeron",
+        "Name_ja": "\u935b\u51b6\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\ub300\uc7a5\uc7a5\uc774 \uc8fc \ub3c4\uad6c"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/060000/060113.png",
+        "Name_cn": "\u953b\u94c1\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Schmiedezeug (sekund\u00e4r)",
+        "Name_en": "Blacksmith's Secondary Tool",
+        "Name_fr": "Outil secondaire de forgeron",
+        "Name_ja": "\u935b\u51b6\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\ub300\uc7a5\uc7a5\uc774 \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/060000/060114.png",
+        "Name_cn": "\u94f8\u7532\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Plattnerzeug",
+        "Name_en": "Armorer's Primary Tool",
+        "Name_fr": "Outil principal d'armurier",
+        "Name_ja": "\u7532\u5191\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\uac11\uc8fc\uc81c\uc791\uc0ac \uc8fc \ub3c4\uad6c"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/060000/060114.png",
+        "Name_cn": "\u94f8\u7532\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Plattnerzeug (sekund\u00e4r)",
+        "Name_en": "Armorer's Secondary Tool",
+        "Name_fr": "Outil secondaire d'armurier",
+        "Name_ja": "\u7532\u5191\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\uac11\uc8fc\uc81c\uc791\uc0ac \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/060000/060115.png",
+        "Name_cn": "\u96d5\u91d1\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Goldschmiedezeug",
+        "Name_en": "Goldsmith's Primary Tool",
+        "Name_fr": "Outil principal d'orf\u00e8vre",
+        "Name_ja": "\u5f6b\u91d1\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\ubcf4\uc11d\uacf5\uc608\uac00 \uc8fc \ub3c4\uad6c"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/060000/060115.png",
+        "Name_cn": "\u96d5\u91d1\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Goldschmiedezeug (sekund\u00e4r)",
+        "Name_en": "Goldsmith's Secondary Tool",
+        "Name_fr": "Outil secondaire d'orf\u00e8vre",
+        "Name_ja": "\u5f6b\u91d1\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\ubcf4\uc11d\uacf5\uc608\uac00 \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/060000/060102.png",
+        "Name_cn": "\u5355\u624b\u5251",
+        "Name_de": "Hauptwaffe der Gladiatoren",
+        "Name_en": "Gladiator's Arm",
+        "Name_fr": "Arme de gladiateur",
+        "Name_ja": "\u7247\u624b\u5263",
+        "Name_ko": "\ud55c\uc190\uac80"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/060000/060116.png",
+        "Name_cn": "\u5236\u9769\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Gerberzeug",
+        "Name_en": "Leatherworker's Primary Tool",
+        "Name_fr": "Outil principal de tanneur",
+        "Name_ja": "\u9769\u7d30\u5de5\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\uac00\uc8fd\uacf5\uc608\uac00 \uc8fc \ub3c4\uad6c"
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/060000/060116.png",
+        "Name_cn": "\u5236\u9769\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Gerberzeug (sekund\u00e4r)",
+        "Name_en": "Leatherworker's Secondary Tool",
+        "Name_fr": "Outil secondaire de tanneur",
+        "Name_ja": "\u9769\u7d30\u5de5\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\uac00\uc8fd\uacf5\uc608\uac00 \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/060000/060117.png",
+        "Name_cn": "\u88c1\u8863\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Weberzeug",
+        "Name_en": "Weaver's Primary Tool",
+        "Name_fr": "Outil principal de couturier",
+        "Name_ja": "\u88c1\u7e2b\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\uc7ac\ubd09\uc0ac \uc8fc \ub3c4\uad6c"
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "ui/icon/060000/060117.png",
+        "Name_cn": "\u88c1\u8863\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Weberzeug (sekund\u00e4r)",
+        "Name_en": "Weaver's Secondary Tool",
+        "Name_fr": "Outil secondaire de couturier",
+        "Name_ja": "\u88c1\u7e2b\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\uc7ac\ubd09\uc0ac \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "ui/icon/060000/060118.png",
+        "Name_cn": "\u70bc\u91d1\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Alchemistenzeug",
+        "Name_en": "Alchemist's Primary Tool",
+        "Name_fr": "Outil principal d'alchimiste",
+        "Name_ja": "\u932c\u91d1\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\uc5f0\uae08\uc220\uc0ac \uc8fc \ub3c4\uad6c"
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/060000/060118.png",
+        "Name_cn": "\u70bc\u91d1\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Alchemistenzeug (sekund\u00e4r)",
+        "Name_en": "Alchemist's Secondary Tool",
+        "Name_fr": "Outil secondaire d'alchimiste",
+        "Name_ja": "\u932c\u91d1\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\uc5f0\uae08\uc220\uc0ac \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/060000/060119.png",
+        "Name_cn": "\u70f9\u8c03\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Gourmetzeug",
+        "Name_en": "Culinarian's Primary Tool",
+        "Name_fr": "Outil principal de cuisinier",
+        "Name_ja": "\u8abf\u7406\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\uc694\ub9ac\uc0ac \uc8fc \ub3c4\uad6c"
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/060000/060119.png",
+        "Name_cn": "\u70f9\u8c03\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Gourmetzeug (sekund\u00e4r)",
+        "Name_en": "Culinarian's Secondary Tool",
+        "Name_fr": "Outil secondaire de cuisinier",
+        "Name_ja": "\u8abf\u7406\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\uc694\ub9ac\uc0ac \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/060000/060120.png",
+        "Name_cn": "\u91c7\u77ff\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Minenarbeiterzeug",
+        "Name_en": "Miner's Primary Tool",
+        "Name_fr": "Outil principal de mineur",
+        "Name_ja": "\u63a1\u6398\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\uad11\ubd80 \uc8fc \ub3c4\uad6c"
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/060000/060120.png",
+        "Name_cn": "\u91c7\u77ff\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Minenarbeiterzeug (sekund\u00e4r)",
+        "Name_en": "Miner's Secondary Tool",
+        "Name_fr": "Outil secondaire de mineur",
+        "Name_ja": "\u63a1\u6398\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\uad11\ubd80 \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/060000/060103.png",
+        "Name_cn": "\u5927\u65a7",
+        "Name_de": "Hauptwaffe der Marodeure",
+        "Name_en": "Marauder's Arm",
+        "Name_fr": "Arme de maraudeur",
+        "Name_ja": "\u4e21\u624b\u65a7",
+        "Name_ko": "\uc591\uc190\ub3c4\ub07c"
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/060000/060121.png",
+        "Name_cn": "\u56ed\u827a\u5de5\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "G\u00e4rtnerzeug",
+        "Name_en": "Botanist's Primary Tool",
+        "Name_fr": "Outil principal de botaniste",
+        "Name_ja": "\u5712\u82b8\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\uc6d0\uc608\uac00 \uc8fc \ub3c4\uad6c"
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/060000/060121.png",
+        "Name_cn": "\u56ed\u827a\u5de5\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "G\u00e4rtnerzeug (sekund\u00e4r)",
+        "Name_en": "Botanist's Secondary Tool",
+        "Name_fr": "Outil secondaire de botaniste",
+        "Name_ja": "\u5712\u82b8\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\uc6d0\uc608\uac00 \ubcf4\uc870 \ub3c4\uad6c"
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/060000/060122.png",
+        "Name_cn": "\u6355\u9c7c\u7528\u5177\uff08\u4e3b\u5de5\u5177\uff09",
+        "Name_de": "Fischerzeug",
+        "Name_en": "Fisher's Primary Tool",
+        "Name_fr": "Outil principal de p\u00eacheur",
+        "Name_ja": "\u6f01\u9053\u5177(\u4e3b\u9053\u5177)",
+        "Name_ko": "\uc5b4\ubd80 \uc8fc \ub3c4\uad6c"
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/060000/060123.png",
+        "Name_cn": "\u9493\u9975",
+        "Name_de": "Angelk\u00f6der",
+        "Name_en": "Fishing Tackle",
+        "Name_fr": "App\u00e2t de p\u00eache",
+        "Name_ja": "\u91e3\u308a\u990c",
+        "Name_ko": "\ub09a\uc2dc\uc6a9 \ubbf8\ub07c"
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/060000/060124.png",
+        "Name_cn": "\u5934\u90e8\u9632\u5177",
+        "Name_de": "Kopf",
+        "Name_en": "Head",
+        "Name_fr": "T\u00eate",
+        "Name_ja": "\u982d\u9632\u5177",
+        "Name_ko": "\uba38\ub9ac \ubc29\uc5b4\uad6c"
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/060000/060126.png",
+        "Name_cn": "\u8eab\u4f53\u9632\u5177",
+        "Name_de": "Rumpf",
+        "Name_en": "Body",
+        "Name_fr": "Torse",
+        "Name_ja": "\u80f4\u9632\u5177",
+        "Name_ko": "\ubab8\ud1b5 \ubc29\uc5b4\uad6c"
+    },
+    "36": {
+        "0xID": "24",
+        "Icon": "ui/icon/060000/060128.png",
+        "Name_cn": "\u817f\u90e8\u9632\u5177",
+        "Name_de": "Beine",
+        "Name_en": "Legs",
+        "Name_fr": "Jambes",
+        "Name_ja": "\u811a\u9632\u5177",
+        "Name_ko": "\ub2e4\ub9ac \ubc29\uc5b4\uad6c"
+    },
+    "37": {
+        "0xID": "25",
+        "Icon": "ui/icon/060000/060129.png",
+        "Name_cn": "\u624b\u90e8\u9632\u5177",
+        "Name_de": "H\u00e4nde",
+        "Name_en": "Hands",
+        "Name_fr": "Mains",
+        "Name_ja": "\u624b\u9632\u5177",
+        "Name_ko": "\uc190 \ubc29\uc5b4\uad6c"
+    },
+    "38": {
+        "0xID": "26",
+        "Icon": "ui/icon/060000/060130.png",
+        "Name_cn": "\u811a\u90e8\u9632\u5177",
+        "Name_de": "F\u00fc\u00dfe",
+        "Name_en": "Feet",
+        "Name_fr": "Pieds",
+        "Name_ja": "\u8db3\u9632\u5177",
+        "Name_ko": "\ubc1c \ubc29\uc5b4\uad6c"
+    },
+    "39": {
+        "0xID": "27",
+        "Icon": "ui/icon/060000/060131.png",
+        "Name_cn": "\u505c\u6b62\u6d41\u901a\u9053\u5177",
+        "Name_de": "Eingestellte Gegenst\u00e4nde",
+        "Name_en": "Unobtainable",
+        "Name_fr": "Objet d\u00e9suet",
+        "Name_ja": "\u6392\u51fa\u505c\u6b62\u30a2\u30a4\u30c6\u30e0",
+        "Name_ko": "\uc0ac\uc6a9 \ubd88\uac00 \uc544\uc774\ud15c"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/060000/060105.png",
+        "Name_cn": "\u5f13",
+        "Name_de": "Hauptwaffe der Waldl\u00e4ufer",
+        "Name_en": "Archer's Arm",
+        "Name_fr": "Arme d'archer",
+        "Name_ja": "\u5f13",
+        "Name_ko": "\ud65c"
+    },
+    "40": {
+        "0xID": "28",
+        "Icon": "ui/icon/060000/060132.png",
+        "Name_cn": "\u9879\u94fe",
+        "Name_de": "Halskette",
+        "Name_en": "Necklace",
+        "Name_fr": "Collier",
+        "Name_ja": "\u9996\u98fe\u308a",
+        "Name_ko": "\ubaa9\uac78\uc774"
+    },
+    "41": {
+        "0xID": "29",
+        "Icon": "ui/icon/060000/060133.png",
+        "Name_cn": "\u8033\u9970",
+        "Name_de": "Ohrring",
+        "Name_en": "Earrings",
+        "Name_fr": "Boucle d'oreille",
+        "Name_ja": "\u8033\u98fe\u308a",
+        "Name_ko": "\uadc0\uac78\uc774"
+    },
+    "42": {
+        "0xID": "2A",
+        "Icon": "ui/icon/060000/060134.png",
+        "Name_cn": "\u624b\u956f",
+        "Name_de": "Armreif",
+        "Name_en": "Bracelets",
+        "Name_fr": "Bracelet",
+        "Name_ja": "\u8155\u8f2a",
+        "Name_ko": "\ud314\ucc0c"
+    },
+    "43": {
+        "0xID": "2B",
+        "Icon": "ui/icon/060000/060135.png",
+        "Name_cn": "\u6212\u6307",
+        "Name_de": "Ring",
+        "Name_en": "Ring",
+        "Name_fr": "Bague",
+        "Name_ja": "\u6307\u8f2a",
+        "Name_ko": "\ubc18\uc9c0"
+    },
+    "44": {
+        "0xID": "2C",
+        "Icon": "ui/icon/060000/060136.png",
+        "Name_cn": "\u836f\u54c1",
+        "Name_de": "Arznei",
+        "Name_en": "Medicine",
+        "Name_fr": "M\u00e9dicament",
+        "Name_ja": "\u85ac\u54c1",
+        "Name_ko": "\uc57d\ud488"
+    },
+    "45": {
+        "0xID": "2D",
+        "Icon": "ui/icon/060000/060137.png",
+        "Name_cn": "\u98df\u6750",
+        "Name_de": "Zutat",
+        "Name_en": "Ingredient",
+        "Name_fr": "Ingr\u00e9dient",
+        "Name_ja": "\u98df\u6750",
+        "Name_ko": "\uc2dd\uc7ac\ub8cc"
+    },
+    "46": {
+        "0xID": "2E",
+        "Icon": "ui/icon/060000/060146.png",
+        "Name_cn": "\u98df\u54c1",
+        "Name_de": "Gericht",
+        "Name_en": "Meal",
+        "Name_fr": "Plat ou boisson",
+        "Name_ja": "\u8abf\u7406\u54c1",
+        "Name_ko": "\uc694\ub9ac"
+    },
+    "47": {
+        "0xID": "2F",
+        "Icon": "ui/icon/060000/060138.png",
+        "Name_cn": "\u6c34\u4ea7\u54c1",
+        "Name_de": "Meeresfr\u00fcchte",
+        "Name_en": "Seafood",
+        "Name_fr": "Produit de la p\u00eache",
+        "Name_ja": "\u6c34\u7523\u7269",
+        "Name_ko": "\uc218\uc0b0\ubb3c"
+    },
+    "48": {
+        "0xID": "30",
+        "Icon": "ui/icon/060000/060139.png",
+        "Name_cn": "\u77f3\u6750",
+        "Name_de": "Baustein",
+        "Name_en": "Stone",
+        "Name_fr": "Pierre",
+        "Name_ja": "\u77f3\u6750",
+        "Name_ko": "\uc11d\uc7ac"
+    },
+    "49": {
+        "0xID": "31",
+        "Icon": "ui/icon/060000/060140.png",
+        "Name_cn": "\u91d1\u5c5e",
+        "Name_de": "Metall",
+        "Name_en": "Metal",
+        "Name_fr": "M\u00e9tal",
+        "Name_ja": "\u91d1\u5c5e\u6750",
+        "Name_ko": "\uae08\uc18d\uc7ac"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/060000/060104.png",
+        "Name_cn": "\u957f\u67aa",
+        "Name_de": "Hauptwaffe der Pikeniere",
+        "Name_en": "Lancer's Arm",
+        "Name_fr": "Arme d'hast",
+        "Name_ja": "\u4e21\u624b\u69cd",
+        "Name_ko": "\uc591\uc190\ucc3d"
+    },
+    "50": {
+        "0xID": "32",
+        "Icon": "ui/icon/060000/060141.png",
+        "Name_cn": "\u6728\u6750",
+        "Name_de": "Nutzholz",
+        "Name_en": "Lumber",
+        "Name_fr": "Bois",
+        "Name_ja": "\u6728\u6750",
+        "Name_ko": "\ubaa9\uc7ac"
+    },
+    "51": {
+        "0xID": "33",
+        "Icon": "ui/icon/060000/060142.png",
+        "Name_cn": "\u5e03\u6599",
+        "Name_de": "Stoff",
+        "Name_en": "Cloth",
+        "Name_fr": "Tissu",
+        "Name_ja": "\u5e03\u6750",
+        "Name_ko": "\uc637\uac10"
+    },
+    "52": {
+        "0xID": "34",
+        "Icon": "ui/icon/060000/060143.png",
+        "Name_cn": "\u76ae\u9769",
+        "Name_de": "Leder",
+        "Name_en": "Leather",
+        "Name_fr": "Cuir",
+        "Name_ja": "\u76ae\u9769\u6750",
+        "Name_ko": "\uac00\uc8fd\uc7ac"
+    },
+    "53": {
+        "0xID": "35",
+        "Icon": "ui/icon/060000/060144.png",
+        "Name_cn": "\u9aa8\u6750",
+        "Name_de": "Knochen/Horn",
+        "Name_en": "Bone",
+        "Name_fr": "Os",
+        "Name_ja": "\u9aa8\u6750",
+        "Name_ko": "\uace8\uc7ac"
+    },
+    "54": {
+        "0xID": "36",
+        "Icon": "ui/icon/060000/060145.png",
+        "Name_cn": "\u70bc\u91d1\u539f\u6599",
+        "Name_de": "Reagenz",
+        "Name_en": "Reagent",
+        "Name_fr": "R\u00e9actif",
+        "Name_ja": "\u932c\u91d1\u8853\u6750",
+        "Name_ko": "\uc5f0\uae08\uc7ac"
+    },
+    "55": {
+        "0xID": "37",
+        "Icon": "ui/icon/060000/060147.png",
+        "Name_cn": "\u67d3\u6599",
+        "Name_de": "Farbstoff",
+        "Name_en": "Dye",
+        "Name_fr": "Teinture",
+        "Name_ja": "\u67d3\u6599",
+        "Name_ko": "\uc5fc\ub8cc"
+    },
+    "56": {
+        "0xID": "38",
+        "Icon": "ui/icon/060000/060148.png",
+        "Name_cn": "\u90e8\u4ef6",
+        "Name_de": "Einzelteil",
+        "Name_en": "Part",
+        "Name_fr": "Composant",
+        "Name_ja": "\u90e8\u54c1",
+        "Name_ko": "\ubd80\ud488"
+    },
+    "57": {
+        "0xID": "39",
+        "Icon": "ui/icon/060000/060164.png",
+        "Name_cn": "\u5bb6\u5177",
+        "Name_de": "Mobiliar",
+        "Name_en": "Furnishing",
+        "Name_fr": "Meuble",
+        "Name_ja": "\u8abf\u5ea6\u54c1",
+        "Name_ko": "\uac00\uad6c"
+    },
+    "58": {
+        "0xID": "3A",
+        "Icon": "ui/icon/060000/060150.png",
+        "Name_cn": "\u9b54\u6676\u77f3",
+        "Name_de": "Materia",
+        "Name_en": "Materia",
+        "Name_fr": "Mat\u00e9ria",
+        "Name_ja": "\u30de\u30c6\u30ea\u30a2",
+        "Name_ko": "\ub9c8\ud14c\ub9ac\uc544"
+    },
+    "59": {
+        "0xID": "3B",
+        "Icon": "ui/icon/060000/060151.png",
+        "Name_cn": "\u6c34\u6676",
+        "Name_de": "Kristall",
+        "Name_en": "Crystal",
+        "Name_fr": "Cristal",
+        "Name_ja": "\u30af\u30ea\u30b9\u30bf\u30eb",
+        "Name_ko": "\ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/060000/060108.png",
+        "Name_cn": "\u5355\u624b\u5492\u6756",
+        "Name_de": "Thaumaturgen-Waffe",
+        "Name_en": "One\u2013handed Thaumaturge's Arm",
+        "Name_fr": "Arme d'occultiste",
+        "Name_ja": "\u7247\u624b\u546a\u5177",
+        "Name_ko": "\ud55c\uc190 \uc8fc\uc220\ub3c4\uad6c"
+    },
+    "60": {
+        "0xID": "3C",
+        "Icon": "ui/icon/060000/060152.png",
+        "Name_cn": "\u89e6\u5a92",
+        "Name_de": "Katalysator",
+        "Name_en": "Catalyst",
+        "Name_fr": "Catalyseur",
+        "Name_ja": "\u89e6\u5a92",
+        "Name_ko": "\ucd09\ub9e4"
+    },
+    "61": {
+        "0xID": "3D",
+        "Icon": "ui/icon/060000/060153.png",
+        "Name_cn": "\u6742\u8d27",
+        "Name_de": "Verschiedenes",
+        "Name_en": "Miscellany",
+        "Name_fr": "Divers",
+        "Name_ja": "\u96d1\u8ca8",
+        "Name_ko": "\uc7a1\ud654"
+    },
+    "62": {
+        "0xID": "3E",
+        "Icon": "ui/icon/060000/060157.png",
+        "Name_cn": "\u7075\u9b42\u6c34\u6676",
+        "Name_de": "Jobkristall",
+        "Name_en": "Soul Crystal",
+        "Name_fr": "Cristal d'\u00e2me",
+        "Name_ja": "\u30bd\u30a6\u30eb\u30af\u30ea\u30b9\u30bf\u30eb",
+        "Name_ko": "\uc18c\uc6b8 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "63": {
+        "0xID": "3F",
+        "Icon": "ui/icon/060000/060159.png",
+        "Name_cn": "\u5176\u4ed6",
+        "Name_de": "Anderes",
+        "Name_en": "Other",
+        "Name_fr": "Autre",
+        "Name_ja": "\u305d\u306e\u4ed6",
+        "Name_ko": "\uae30\ud0c0"
+    },
+    "64": {
+        "0xID": "40",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u623f\u4ea7\u8bc1\u4e66",
+        "Name_de": "Baugenehmigung",
+        "Name_en": "Construction Permit",
+        "Name_fr": "Titre immobilier",
+        "Name_ja": "\u5efa\u7bc9\u7269\u6a29\u5229\u8a3c\u66f8",
+        "Name_ko": "\uac74\ucd95 \ud5c8\uac00\uc99d"
+    },
+    "65": {
+        "0xID": "41",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u623f\u9876",
+        "Name_de": "Dach",
+        "Name_en": "Roof",
+        "Name_fr": "Toit",
+        "Name_ja": "\u5916\u88c5\u5efa\u6750(\u5c4b\u6839)",
+        "Name_ko": "\uc678\uc7a5 \uac74\ucd95\uc7ac(\uc9c0\ubd95)"
+    },
+    "66": {
+        "0xID": "42",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u5916\u5899",
+        "Name_de": "Mauer",
+        "Name_en": "Exterior Wall",
+        "Name_fr": "\u00c9l\u00e9ment de fa\u00e7ade",
+        "Name_ja": "\u5916\u88c5\u5efa\u6750(\u5916\u58c1)",
+        "Name_ko": "\uc678\uc7a5 \uac74\ucd95\uc7ac(\uc678\ubcbd)"
+    },
+    "67": {
+        "0xID": "43",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u7a97\u6237",
+        "Name_de": "Fenster",
+        "Name_en": "Window",
+        "Name_fr": "Fen\u00eatre",
+        "Name_ja": "\u5916\u88c5\u5efa\u6750(\u7a93)",
+        "Name_ko": "\uc678\uc7a5 \uac74\ucd95\uc7ac(\ucc3d\ubb38)"
+    },
+    "68": {
+        "0xID": "44",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u623f\u95e8",
+        "Name_de": "T\u00fcr",
+        "Name_en": "Door",
+        "Name_fr": "Porte",
+        "Name_ja": "\u5916\u88c5\u5efa\u6750(\u6249)",
+        "Name_ko": "\uc678\uc7a5 \uac74\ucd95\uc7ac(\ubb38)"
+    },
+    "69": {
+        "0xID": "45",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u623f\u9876\u88c5\u9970",
+        "Name_de": "Dachdekoration",
+        "Name_en": "Roof Decoration",
+        "Name_fr": "D\u00e9coration de toit",
+        "Name_ja": "\u5916\u88c5\u5efa\u6750(\u5c4b\u6839\u88c5\u98fe)",
+        "Name_ko": "\uc678\uc7a5 \uac74\ucd95\uc7ac(\uc9c0\ubd95 \uc7a5\uc2dd)"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/060000/060108.png",
+        "Name_cn": "\u53cc\u624b\u5492\u6756",
+        "Name_de": "Thaumaturgen-Zweihandwaffe",
+        "Name_en": "Two\u2013handed Thaumaturge's Arm",
+        "Name_fr": "Arme \u00e0 deux mains d'occultiste",
+        "Name_ja": "\u4e21\u624b\u546a\u5177",
+        "Name_ko": "\uc591\uc190 \uc8fc\uc220\ub3c4\uad6c"
+    },
+    "70": {
+        "0xID": "46",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u5916\u5899\u88c5\u9970",
+        "Name_de": "Fassadendekoration",
+        "Name_en": "Exterior Wall Decoration",
+        "Name_fr": "D\u00e9coration de fa\u00e7ade",
+        "Name_ja": "\u5916\u88c5\u5efa\u6750(\u5916\u58c1\u88c5\u98fe)",
+        "Name_ko": "\uc678\uc7a5 \uac74\ucd95\uc7ac(\uc678\ubcbd \uc7a5\uc2dd)"
+    },
+    "71": {
+        "0xID": "47",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u95e8\u724c",
+        "Name_de": "Tafel",
+        "Name_en": "Placard",
+        "Name_fr": "Panneau",
+        "Name_ja": "\u5916\u88c5\u5efa\u6750(\u770b\u677f)",
+        "Name_ko": "\uc678\uc7a5 \uac74\ucd95\uc7ac(\uac04\ud310)"
+    },
+    "72": {
+        "0xID": "48",
+        "Icon": "ui/icon/060000/060160.png",
+        "Name_cn": "\u9662\u5899",
+        "Name_de": "Zaun",
+        "Name_en": "Fence",
+        "Name_fr": "Muret",
+        "Name_ja": "\u5916\u88c5\u5efa\u6750(\u5840)",
+        "Name_ko": "\uc678\uc7a5 \uac74\ucd95\uc7ac(\uc6b8\ud0c0\ub9ac)"
+    },
+    "73": {
+        "0xID": "49",
+        "Icon": "ui/icon/060000/060161.png",
+        "Name_cn": "\u5185\u5899",
+        "Name_de": "Innenwand",
+        "Name_en": "Interior Wall",
+        "Name_fr": "Tapisserie",
+        "Name_ja": "\u5185\u88c5\u5efa\u6750(\u5185\u58c1)",
+        "Name_ko": "\ub0b4\uc7a5 \uac74\ucd95\uc7ac(\ub0b4\ubcbd)"
+    },
+    "74": {
+        "0xID": "4A",
+        "Icon": "ui/icon/060000/060161.png",
+        "Name_cn": "\u5730\u677f",
+        "Name_de": "Boden",
+        "Name_en": "Flooring",
+        "Name_fr": "Sol",
+        "Name_ja": "\u5185\u88c5\u5efa\u6750(\u5e8a)",
+        "Name_ko": "\ub0b4\uc7a5 \uac74\ucd95\uc7ac(\ubc14\ub2e5)"
+    },
+    "75": {
+        "0xID": "4B",
+        "Icon": "ui/icon/060000/060161.png",
+        "Name_cn": "\u5c4b\u9876\u7167\u660e",
+        "Name_de": "Deckenleuchte",
+        "Name_en": "Ceiling Light",
+        "Name_fr": "Luminaire",
+        "Name_ja": "\u5185\u88c5\u5efa\u6750(\u5929\u4e95\u7167\u660e)",
+        "Name_ko": "\ub0b4\uc7a5 \uac74\ucd95\uc7ac(\ucc9c\uc7a5 \uc870\uba85)"
+    },
+    "76": {
+        "0xID": "4C",
+        "Icon": "ui/icon/060000/060168.png",
+        "Name_cn": "\u5ead\u5177",
+        "Name_de": "Gartenausstattung",
+        "Name_en": "Outdoor Furnishing",
+        "Name_fr": "Meuble de jardin",
+        "Name_ja": "\u5ead\u5177",
+        "Name_ko": "\uc870\uacbd\ubb3c"
+    },
+    "77": {
+        "0xID": "4D",
+        "Icon": "ui/icon/060000/060162.png",
+        "Name_cn": "\u684c\u53f0",
+        "Name_de": "Tisch/Ablage",
+        "Name_en": "Table",
+        "Name_fr": "Table",
+        "Name_ja": "\u8abf\u5ea6\u54c1(\u53f0\u5ea7)",
+        "Name_ko": "\uc18c\ud488(\ubc1b\uce68\ub300)"
+    },
+    "78": {
+        "0xID": "4E",
+        "Icon": "ui/icon/060000/060163.png",
+        "Name_cn": "\u684c\u4e0a",
+        "Name_de": "Tischdekoration",
+        "Name_en": "Tabletop",
+        "Name_fr": "Mobilier de table",
+        "Name_ja": "\u8abf\u5ea6\u54c1(\u5353\u4e0a)",
+        "Name_ko": "\uc18c\ud488(\ud0c1\uc0c1)"
+    },
+    "79": {
+        "0xID": "4F",
+        "Icon": "ui/icon/060000/060166.png",
+        "Name_cn": "\u58c1\u6302",
+        "Name_de": "Wanddekoration",
+        "Name_en": "Wall-mounted",
+        "Name_fr": "Mobilier mural",
+        "Name_ja": "\u8abf\u5ea6\u54c1(\u58c1\u639b)",
+        "Name_ko": "\uc18c\ud488(\ubcbd\uac78\uc774)"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/060000/060107.png",
+        "Name_cn": "\u5355\u624b\u5e7b\u6756",
+        "Name_de": "Druiden-Waffe",
+        "Name_en": "One\u2013handed Conjurer's Arm",
+        "Name_fr": "Arme d'\u00e9l\u00e9mentaliste",
+        "Name_ja": "\u7247\u624b\u5e7b\u5177",
+        "Name_ko": "\ud55c\uc190 \ud658\uc220\ub3c4\uad6c"
+    },
+    "80": {
+        "0xID": "50",
+        "Icon": "ui/icon/060000/060167.png",
+        "Name_cn": "\u5730\u6bef",
+        "Name_de": "Teppich",
+        "Name_en": "Rug",
+        "Name_fr": "Tapis",
+        "Name_ja": "\u8abf\u5ea6\u54c1(\u6577\u7269)",
+        "Name_ko": "\uc18c\ud488(\uae54\uac1c)"
+    },
+    "81": {
+        "0xID": "51",
+        "Icon": "ui/icon/060000/060155.png",
+        "Name_cn": "\u5ba0\u7269",
+        "Name_de": "Begleiter",
+        "Name_en": "Minion",
+        "Name_fr": "Mascotte",
+        "Name_ja": "\u30df\u30cb\u30aa\u30f3",
+        "Name_ko": "\uaf2c\ub9c8 \uce5c\uad6c"
+    },
+    "82": {
+        "0xID": "52",
+        "Icon": "ui/icon/060000/060153.png",
+        "Name_cn": "\u683d\u57f9\u7528\u54c1",
+        "Name_de": "Gartenbau",
+        "Name_en": "Gardening",
+        "Name_fr": "Jardinage",
+        "Name_ja": "\u683d\u57f9\u7528\u54c1",
+        "Name_ko": "\uc7ac\ubc30\uc6a9\ud488"
+    },
+    "83": {
+        "0xID": "53",
+        "Icon": "ui/icon/060000/060150.png",
+        "Name_cn": "\u534a\u9b54\u6676\u77f3",
+        "Name_de": "Demimateria",
+        "Name_en": "Demimateria",
+        "Name_fr": "Demi-mat\u00e9ria",
+        "Name_ja": "\u30c7\u30df\u30de\u30c6\u30ea\u30a2",
+        "Name_ko": "\ub370\ubbf8\ub9c8\ud14c\ub9ac\uc544"
+    },
+    "84": {
+        "0xID": "54",
+        "Icon": "ui/icon/060000/060106.png",
+        "Name_cn": "\u53cc\u5251",
+        "Name_de": "Hauptwaffe der Schurken",
+        "Name_en": "Rogue's Arm",
+        "Name_fr": "Arme de surineur",
+        "Name_ja": "\u53cc\u5263",
+        "Name_ko": "\uc30d\uac80"
+    },
+    "85": {
+        "0xID": "55",
+        "Icon": "ui/icon/060000/060154.png",
+        "Name_cn": "\u6742\u8d27\uff08\u5b63\u8282\u6d3b\u52a8\uff09",
+        "Name_de": "Saisonaler Gegenstand",
+        "Name_en": "Seasonal Miscellany",
+        "Name_fr": "Divers (\u00e9v\u00e9nements)",
+        "Name_ja": "\u96d1\u8ca8(\u30b7\u30fc\u30ba\u30ca\u30eb)",
+        "Name_ko": "\uc7a1\ud654(\uc774\ubca4\ud2b8)"
+    },
+    "86": {
+        "0xID": "56",
+        "Icon": "ui/icon/060000/060156.png",
+        "Name_cn": "\u4e5d\u5bab\u5e7b\u5361",
+        "Name_de": "Triple Triad-Karte",
+        "Name_en": "Triple Triad Card",
+        "Name_fr": "Carte de Triple Triade",
+        "Name_ja": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30e9\u30a4\u30a2\u30c9\u30ab\u30fc\u30c9",
+        "Name_ko": "\ud2b8\ub9ac\ud50c \ud2b8\ub77c\uc774\uc5b4\ub4dc \uce74\ub4dc"
+    },
+    "87": {
+        "0xID": "57",
+        "Icon": "ui/icon/060000/060170.png",
+        "Name_cn": "\u53cc\u624b\u5251",
+        "Name_de": "Hauptwaffe der Dunkelritter",
+        "Name_en": "Dark Knight's Arm",
+        "Name_fr": "Arme de chevalier noir",
+        "Name_ja": "\u4e21\u624b\u5263",
+        "Name_ko": "\uc591\uc190\uac80"
+    },
+    "88": {
+        "0xID": "58",
+        "Icon": "ui/icon/060000/060172.png",
+        "Name_cn": "\u706b\u67aa",
+        "Name_de": "Hauptwaffe der Maschinisten",
+        "Name_en": "Machinist's Arm",
+        "Name_fr": "Arme de machiniste",
+        "Name_ja": "\u9283",
+        "Name_ko": "\ucd1d"
+    },
+    "89": {
+        "0xID": "59",
+        "Icon": "ui/icon/060000/060171.png",
+        "Name_cn": "\u5929\u7403\u4eea",
+        "Name_de": "Hauptwaffe der Astrologen",
+        "Name_en": "Astrologian's Arm",
+        "Name_fr": "Arme d'astromancien",
+        "Name_ja": "\u5929\u7403\u5100",
+        "Name_ko": "\ucc9c\uad6c\uc758"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/060000/060107.png",
+        "Name_cn": "\u53cc\u624b\u5e7b\u6756",
+        "Name_de": "Druiden-Zweihandwaffe",
+        "Name_en": "Two\u2013handed Conjurer's Arm",
+        "Name_fr": "Arme \u00e0 deux mains d'\u00e9l\u00e9mentaliste",
+        "Name_ja": "\u4e21\u624b\u5e7b\u5177",
+        "Name_ko": "\uc591\uc190 \ud658\uc220\ub3c4\uad6c"
+    },
+    "90": {
+        "0xID": "5A",
+        "Icon": "ui/icon/060000/060169.png",
+        "Name_cn": "\u98de\u7a7a\u8247\u90e8\u4ef6\uff08\u8239\u4f53\uff09",
+        "Name_de": "Schiffbauteil (Rumpf)",
+        "Name_en": "Airship Hull",
+        "Name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (coque)",
+        "Name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u4f53)",
+        "Name_ko": "\ube44\uacf5\uc815 \ubd80\ud488(\uc120\uccb4)"
+    },
+    "91": {
+        "0xID": "5B",
+        "Icon": "ui/icon/060000/060169.png",
+        "Name_cn": "\u98de\u7a7a\u8247\u90e8\u4ef6\uff08\u823e\u88c5\uff09",
+        "Name_de": "Schiffbauteil (Takelage)",
+        "Name_en": "Airship Rigging",
+        "Name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (gr\u00e9ement)",
+        "Name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8264\u88c5)",
+        "Name_ko": "\ube44\uacf5\uc815 \ubd80\ud488(\uc758\uc7a5)"
+    },
+    "92": {
+        "0xID": "5C",
+        "Icon": "ui/icon/060000/060169.png",
+        "Name_cn": "\u98de\u7a7a\u8247\u90e8\u4ef6\uff08\u8239\u5c3e\uff09",
+        "Name_de": "Schiffbauteil (Heck)",
+        "Name_en": "Airship Aftcastle",
+        "Name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (poupe)",
+        "Name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u5c3e)",
+        "Name_ko": "\ube44\uacf5\uc815 \ubd80\ud488(\uc120\ubbf8)"
+    },
+    "93": {
+        "0xID": "5D",
+        "Icon": "ui/icon/060000/060169.png",
+        "Name_cn": "\u98de\u7a7a\u8247\u90e8\u4ef6\uff08\u8239\u9996\uff09",
+        "Name_de": "Schiffbauteil (Bug)",
+        "Name_en": "Airship Forecastle",
+        "Name_fr": "\u00c9l\u00e9ment d'a\u00e9ronef (proue)",
+        "Name_ja": "\u98db\u7a7a\u8247\u90e8\u54c1(\u8239\u9996)",
+        "Name_ko": "\ube44\uacf5\uc815 \ubd80\ud488(\uc120\uc218)"
+    },
+    "94": {
+        "0xID": "5E",
+        "Icon": "ui/icon/060000/060173.png",
+        "Name_cn": "\u7ba1\u5f26\u4e50\u7434\u4e50\u8c31",
+        "Name_de": "Notenrolle",
+        "Name_en": "Orchestrion Roll",
+        "Name_fr": "Rouleau pour orchestrion",
+        "Name_ja": "\u30aa\u30fc\u30b1\u30b9\u30c8\u30ea\u30aa\u30f3\u8b5c",
+        "Name_ko": "\uc624\ucf00\uc2a4\ud2b8\ub9ac\uc628 \uc545\ubcf4"
+    },
+    "95": {
+        "0xID": "5F",
+        "Icon": "ui/icon/060000/060175.png",
+        "Name_cn": "\u7ed8\u753b\u4f5c\u54c1",
+        "Name_de": "Gem\u00e4lde",
+        "Name_en": "Painting",
+        "Name_fr": "Peinture",
+        "Name_ja": "\u7d75\u753b",
+        "Name_ko": "\uadf8\ub9bc"
+    },
+    "96": {
+        "0xID": "60",
+        "Icon": "ui/icon/060000/060177.png",
+        "Name_cn": "\u6b66\u58eb\u5200",
+        "Name_de": "Hauptwaffe der Samurai",
+        "Name_en": "Samurai's Arm",
+        "Name_fr": "Arme de samoura\u00ef",
+        "Name_ja": "\u5200",
+        "Name_ko": "\uc678\ub0a0\uac80"
+    },
+    "97": {
+        "0xID": "61",
+        "Icon": "ui/icon/060000/060176.png",
+        "Name_cn": "\u523a\u5251",
+        "Name_de": "Hauptwaffe der Rotmagier",
+        "Name_en": "Red Mage's Arm",
+        "Name_fr": "Arme de mage rouge",
+        "Name_ja": "\u7d30\u5263",
+        "Name_ko": "\uc138\uac80"
+    },
+    "98": {
+        "0xID": "62",
+        "Icon": "ui/icon/060000/060178.png",
+        "Name_cn": "\u9b54\u5bfc\u4e66\uff08\u5b66\u8005\u4e13\u7528\uff09",
+        "Name_de": "Hauptwaffe der Gelehrten",
+        "Name_en": "Scholar's Arm",
+        "Name_fr": "Arme d'\u00e9rudit",
+        "Name_ja": "\u9b54\u9053\u66f8(\u5b66\u8005\u5c02\u7528)",
+        "Name_ko": "\ud559\uc790\uc6a9 \ub9c8\ub3c4\uc11c"
+    },
+    "99": {
+        "0xID": "63",
+        "Icon": "ui/icon/060000/060122.png",
+        "Name_cn": "\u6355\u9c7c\u7528\u5177\uff08\u526f\u5de5\u5177\uff09",
+        "Name_de": "Fischerzeug (sekund\u00e4r)",
+        "Name_en": "Fisher's Secondary Tool",
+        "Name_fr": "Outil secondaire de p\u00eacheur",
+        "Name_ja": "\u6f01\u9053\u5177(\u526f\u9053\u5177)",
+        "Name_ko": "\uc5b4\ubd80 \ubcf4\uc870 \ub3c4\uad6c"
+    }
+}

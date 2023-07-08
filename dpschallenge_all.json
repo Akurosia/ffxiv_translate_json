@@ -1,0 +1,892 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/112000/112145.png",
+        "Name_cn": "\u6311\u6218\u6728\u4eba\u6b7c\u706d\u6218",
+        "Name_de": "Steinpuppen-Training",
+        "Name_en": "Stone, Sky, Sea - Basic Training",
+        "Name_fr": "Entra\u00eenement basique",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/112000/112154.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u673a\u795e\u57ce\u5f8b\u52a8\u4e4b\u7ae0",
+        "Name_de": "Training: Alexander - Midas",
+        "Name_en": "Stone, Sky, Sea - Alexander: Midas",
+        "Name_fr": "Simulation : Midas : le Fils",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\uff1a\u5f8b\u52d5\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uc728\ub3d9\ud3b8\uae09"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/112000/112155.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u5f8b\u52a8\u4e4b\u7ae01",
+        "Name_de": "Training: Alexander - Faust des Sohnes (episch)",
+        "Name_en": "Stone, Sky, Sea - The Fist of the Son (Savage)",
+        "Name_fr": "Simulation : Le Poing du Fils (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u5f8b\u52d5\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uc728\ub3d9\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/112000/112156.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u5f8b\u52a8\u4e4b\u7ae02",
+        "Name_de": "Training: Alexander - Elle des Sohnes (episch)",
+        "Name_en": "Stone, Sky, Sea - The Cuff of the Son (Savage)",
+        "Name_fr": "Simulation : Le Poignet du Fils (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u5f8b\u52d5\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uc728\ub3d9\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/112000/112157.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u5f8b\u52a8\u4e4b\u7ae03",
+        "Name_de": "Training: Alexander - Arm des Sohnes (episch)",
+        "Name_en": "Stone, Sky, Sea - The Arm of the Son (Savage)",
+        "Name_fr": "Simulation : Le Bras du Fils (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u5f8b\u52d5\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uc728\ub3d9\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/112000/112158.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u5f8b\u52a8\u4e4b\u7ae04",
+        "Name_de": "Training: Alexander - Last des Sohnes (episch)",
+        "Name_en": "Stone, Sky, Sea - The Burden of the Son (Savage)",
+        "Name_fr": "Simulation : Le Fardeau du Fils (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u5f8b\u52d5\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uc728\ub3d9\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/112000/112159.png",
+        "Name_cn": "\u6311\u6218\u5c3c\u5fb7\u970d\u683c\u4f20\u5947\u5f81\u9f99\u6218",
+        "Name_de": "Training: Das Lied von Nidhoggs letztem Ruf",
+        "Name_en": "Stone, Sky, Sea - The Minstrel's Ballad: Nidhogg's Rage",
+        "Name_fr": "Simulation : l'ire de Nidhogg",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30cb\u30fc\u30ba\u30d8\u30c3\u30b0\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ub2c8\ub4dc\ud638\uadf8\uae09"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/112000/112205.png",
+        "Name_cn": "\u6311\u6218\u7d22\u83f2\u5a05\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Zenit der G\u00f6tter - Sophia",
+        "Name_en": "Stone, Sky, Sea - Containment Bay P1T6 (Extreme)",
+        "Name_fr": "Simulation : Sophia (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u5973\u795e\u30bd\u30d5\u30a3\u30a2\u7d1a)",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uc5ec\uc2e0 \uc18c\ud53c\uc544\uae09"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/112000/112206.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u673a\u795e\u57ce\u5929\u52a8\u4e4b\u7ae0",
+        "Name_de": "Training: Alexander - Der Sch\u00f6pfer",
+        "Name_en": "Stone, Sky, Sea - Alexander: The Creator",
+        "Name_fr": "Simulation : Alexander : le Cr\u00e9ateur",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\uff1a\u5929\u52d5\u7de8\u7d1a)",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \ucc9c\ub3d9\ud3b8\uae09"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/112000/112207.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u5929\u52a8\u4e4b\u7ae01",
+        "Name_de": "Training: Alexander - Augen des Sch\u00f6pfers (episch)",
+        "Name_en": "Stone, Sky, Sea - Alexander - The Eyes of the Creator (Savage)",
+        "Name_fr": "Simulation : Les Yeux du Cr\u00e9ateur (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u5929\u52d5\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \ucc9c\ub3d9\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/112000/112208.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u5929\u52a8\u4e4b\u7ae02",
+        "Name_de": "Training: Alexander - Atem des Sch\u00f6pfers (episch)",
+        "Name_en": "Stone, Sky, Sea - Alexander - The Breath of the Creator (Savage)",
+        "Name_fr": "Simulation : Le Souffle du Cr\u00e9ateur (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u5929\u52d5\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \ucc9c\ub3d9\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/112000/112146.png",
+        "Name_cn": "\u6311\u6218\u4ffe\u65af\u9ea6\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Zenit der G\u00f6tter - Bismarck",
+        "Name_en": "Stone, Sky, Sea - The Limitless Blue (Extreme)",
+        "Name_fr": "Simulation : L'Immensit\u00e9 bleue (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30d3\u30b9\u30de\u30eb\u30af\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ube44\uc2a4\ub9c8\ub974\ud06c\uae09"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/112000/112209.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u5929\u52a8\u4e4b\u7ae03",
+        "Name_de": "Training: Alexander - Herz des Sch\u00f6pfers (episch)",
+        "Name_en": "Stone, Sky, Sea - Alexander - The Heart of the Creator (Savage)",
+        "Name_fr": "Simulation : Le C\u0153ur du Cr\u00e9ateur (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u5929\u52d5\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \ucc9c\ub3d9\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/112000/112210.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u5929\u52a8\u4e4b\u7ae04",
+        "Name_de": "Training: Alexander - Seele des Sch\u00f6pfers (episch)",
+        "Name_en": "Stone, Sky, Sea - Alexander - The Soul of the Creator (Savage)",
+        "Name_fr": "Simulation : L'\u00c2me du Cr\u00e9ateur (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u5929\u52d5\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \ucc9c\ub3d9\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/112000/112211.png",
+        "Name_cn": "\u6311\u6218\u7956\u5c14\u5b9b\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Zenit der G\u00f6tter - Zurvan",
+        "Name_en": "Stone, Sky, Sea - Containment Bay Z1T9 (Extreme)",
+        "Name_fr": "Simulation : Zurvan (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u9b3c\u795e\u30ba\u30eb\u30ef\u30fc\u30f3\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uadc0\uc2e0 \uc8fc\ub974\ubc18\uae09"
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "ui/icon/112000/112247.png",
+        "Name_cn": "\u6311\u6218\u795e\u9f99\u6b7c\u706d\u6218",
+        "Name_de": "Training: K\u00f6nigliche Menagerie",
+        "Name_en": "Stone, Sky, Sea - The Royal Menagerie",
+        "Name_fr": "Simulation : la M\u00e9nagerie royale",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u795e\u9f8d\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc2e0\ub8e1\uae09"
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "ui/icon/112000/112249.png",
+        "Name_cn": "\u6311\u6218\u5409\u7965\u5929\u5973\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Zenit der G\u00f6tter - Lakshmi",
+        "Name_en": "Stone, Sky, Sea - Emanation (Extreme)",
+        "Name_fr": "Simulation : \u00c9manation (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30e9\u30af\u30b7\u30e5\u30df\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ub77d\uc288\ubbf8\uae09"
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/112000/112248.png",
+        "Name_cn": "\u6311\u6218\u987b\u4f50\u4e4b\u7537\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Zenit der G\u00f6tter - Susano",
+        "Name_en": "Stone, Sky, Sea - The Pool of Tribute (Extreme)",
+        "Name_fr": "Simulation : la Crique aux tributs (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30b9\u30b5\u30ce\u30aa\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uc2a4\uc0ac\ub178\uc624\uae09"
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/112000/112250.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u5fb7\u5c14\u5854\u5e7b\u5883",
+        "Name_de": "Training: Deltametrie",
+        "Name_en": "Stone, Sky, Sea - Omega: Deltascape",
+        "Name_fr": "Simulation : Deltastice",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\uff1a\u30c7\u30eb\u30bf\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \ub378\ud0c0\ud3b8\uae09"
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/112000/112251.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u5fb7\u5c14\u5854\u5e7b\u58831",
+        "Name_de": "Training: Deltametrie 1.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Deltascape V1.0 (Savage)",
+        "Name_fr": "Simulation : Deltastice v1.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30c7\u30eb\u30bf\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \ub378\ud0c0\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/112000/112252.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u5fb7\u5c14\u5854\u5e7b\u58832",
+        "Name_de": "Training: Deltametrie 2.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Deltascape V2.0 (Savage)",
+        "Name_fr": "Simulation : Deltastice v2.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30c7\u30eb\u30bf\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \ub378\ud0c0\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/112000/112253.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u5fb7\u5c14\u5854\u5e7b\u58833",
+        "Name_de": "Training: Deltametrie 3.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Deltascape V3.0 (Savage)",
+        "Name_fr": "Simulation : Deltastice v3.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30c7\u30eb\u30bf\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \ub378\ud0c0\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/112000/112147.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u673a\u795e\u57ce\u542f\u52a8\u4e4b\u7ae0",
+        "Name_de": "Training: Alexander - Gordios",
+        "Name_en": "Stone, Sky, Sea - Alexander: Gordias",
+        "Name_fr": "Simulation : Gordias : le P\u00e8re",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\uff1a\u8d77\u52d5\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uae30\ub3d9\ud3b8\uae09"
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/112000/112254.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u5fb7\u5c14\u5854\u5e7b\u58834",
+        "Name_de": "Training: Deltametrie 4.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Deltascape V4.0 (Savage)",
+        "Name_fr": "Simulation : Deltastice v4.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30c7\u30eb\u30bf\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \ub378\ud0c0\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/112000/112260.png",
+        "Name_cn": "\u6311\u6218\u795e\u9f99\u68a6\u5e7b\u6b7c\u706d\u6218",
+        "Name_de": "Training: K\u00f6nigliche Menagerie (episch)",
+        "Name_en": "Stone, Sky, Sea - The Minstrel's Ballad: Shinryu's Domain",
+        "Name_fr": "Simulation : le domaine de Shinryu",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u795e\u9f8d\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uc2e0\ub8e1\uae09"
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/112000/112277.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u897f\u683c\u739b\u5e7b\u5883",
+        "Name_de": "Training: Sigmametrie",
+        "Name_en": "Stone, Sky, Sea - Omega: Sigmascape",
+        "Name_fr": "Simulation : Sigmastice",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\uff1a\u30b7\u30b0\u30de\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc2dc\uadf8\ub9c8\ud3b8\uae09"
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/112000/112278.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u897f\u683c\u739b\u5e7b\u58831",
+        "Name_de": "Training: Sigmametrie 1.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Sigmascape V1.0 (Savage)",
+        "Name_fr": "Simulation : Sigmastice v1.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30b7\u30b0\u30de\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc2dc\uadf8\ub9c8\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/112000/112279.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u897f\u683c\u739b\u5e7b\u58832",
+        "Name_de": "Training: Sigmametrie 2.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Sigmascape V2.0 (Savage)",
+        "Name_fr": "Simulation : Sigmastice v2.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30b7\u30b0\u30de\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc2dc\uadf8\ub9c8\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/112000/112280.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u897f\u683c\u739b\u5e7b\u58833",
+        "Name_de": "Training: Sigmametrie 3.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Sigmascape V3.0 (Savage)",
+        "Name_fr": "Simulation : Sigmastice v3.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30b7\u30b0\u30de\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc2dc\uadf8\ub9c8\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "36": {
+        "0xID": "24",
+        "Icon": "ui/icon/112000/112281.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u897f\u683c\u739b\u5e7b\u58834",
+        "Name_de": "Training: Sigmametrie 4.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Sigmascape V4.0 (Savage)",
+        "Name_fr": "Simulation : Sigmastice v4.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30b7\u30b0\u30de\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc2dc\uadf8\ub9c8\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "37": {
+        "0xID": "25",
+        "Icon": "ui/icon/112000/112276.png",
+        "Name_cn": "\u6311\u6218\u767d\u864e\u8bd7\u9b42\u6218",
+        "Name_de": "Training: Seelensturm - Byakko",
+        "Name_en": "Stone, Sky, Sea - The Jade Stoa (Extreme)",
+        "Name_fr": "Simulation : la Clairi\u00e8re de Jade (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u767d\u864e\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ubc31\ud638\uae09"
+    },
+    "38": {
+        "0xID": "26",
+        "Icon": "ui/icon/112000/112293.png",
+        "Name_cn": "\u6311\u6218\u6708\u8bfb\u5e7d\u591c\u6b7c\u706d\u6218",
+        "Name_de": "Training: Zenit der G\u00f6tter - Tsukuyomi",
+        "Name_en": "Stone, Sky, Sea - The Minstrel's Ballad: Tsukuyomi's Pain",
+        "Name_fr": "Simulation : Castrum Fluminis (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30c4\u30af\u30e8\u30df\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uce20\ucfe0\uc694\ubbf8\uae09"
+    },
+    "39": {
+        "0xID": "27",
+        "Icon": "ui/icon/112000/112330.png",
+        "Name_cn": "\u6311\u6218\u6731\u96c0\u8bd7\u9b42\u6218",
+        "Name_de": "Training: Seelensturm - Suzaku",
+        "Name_en": "Stone, Sky, Sea - Hells' Kier (Extreme)",
+        "Name_fr": "Simulation : le Nid des Lamentations (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u6731\u96c0\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uc8fc\uc791\uae09"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/112000/112148.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u542f\u52a8\u4e4b\u7ae01",
+        "Name_de": "Training: Alexander - Faust des Vaters (episch)",
+        "Name_en": "Stone, Sky, Sea - The Fist of the Father (Savage)",
+        "Name_fr": "Simulation : Le Poing du P\u00e8re (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u8d77\u52d5\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uae30\ub3d9\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "40": {
+        "0xID": "28",
+        "Icon": "ui/icon/112000/112325.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u963f\u5c14\u6cd5\u5e7b\u5883",
+        "Name_de": "Training: Alphametrie",
+        "Name_en": "Stone, Sky, Sea - Omega: Alphascape",
+        "Name_fr": "Simulation : Alphastice",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\uff1a\u30a2\u30eb\u30d5\u30a1\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc54c\ud30c\ud3b8\uae09"
+    },
+    "41": {
+        "0xID": "29",
+        "Icon": "ui/icon/112000/112326.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u963f\u5c14\u6cd5\u5e7b\u58831",
+        "Name_de": "Training: Alphametrie 1.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Alphascape V1.0 (Savage)",
+        "Name_fr": "Simulation : Alphastice v1.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30a2\u30eb\u30d5\u30a1\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc54c\ud30c\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "42": {
+        "0xID": "2A",
+        "Icon": "ui/icon/112000/112327.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u963f\u5c14\u6cd5\u5e7b\u58832",
+        "Name_de": "Training: Alphametrie 2.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Alphascape V2.0 (Savage)",
+        "Name_fr": "Simulation : Alphastice v2.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30a2\u30eb\u30d5\u30a1\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc54c\ud30c\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "43": {
+        "0xID": "2B",
+        "Icon": "ui/icon/112000/112328.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u963f\u5c14\u6cd5\u5e7b\u58833",
+        "Name_de": "Training: Alphametrie 3.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Alphascape V3.0 (Savage)",
+        "Name_fr": "Simulation : Alphastice v3.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30a2\u30eb\u30d5\u30a1\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc54c\ud30c\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "44": {
+        "0xID": "2C",
+        "Icon": "ui/icon/112000/112329.png",
+        "Name_cn": "\u6311\u6218\u6b27\u7c73\u8304\u96f6\u5f0f\u963f\u5c14\u6cd5\u5e7b\u58834",
+        "Name_de": "Training: Alphametrie 4.0 (episch)",
+        "Name_en": "Stone, Sky, Sea - Alphascape V4.0 (Savage)",
+        "Name_fr": "Simulation : Alphastice v4.0 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30aa\u30e1\u30ac\u96f6\u5f0f\uff1a\u30a2\u30eb\u30d5\u30a1\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc624\uba54\uac00: \uc54c\ud30c\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "45": {
+        "0xID": "2D",
+        "Icon": "ui/icon/112000/112341.png",
+        "Name_cn": "\u6311\u6218\u9752\u9f99\u8bd7\u9b42\u6218",
+        "Name_de": "Training: Seelensturm - Seiryu",
+        "Name_en": "Stone, Sky, Sea - The Wreath of Snakes (Extreme)",
+        "Name_fr": "Simulation : l'\u00celot des Amertumes (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u9752\u9f8d\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uccad\ub8e1\uae09"
+    },
+    "46": {
+        "0xID": "2E",
+        "Icon": "ui/icon/112000/112370.png",
+        "Name_cn": "\u6311\u6218\u54c8\u8fea\u65af\u6b7c\u706d\u6218",
+        "Name_de": "Training: Offenbarung - Hades",
+        "Name_en": "Stone, Sky, Sea - The Dying Gasp",
+        "Name_fr": "Simulation : le R\u00e2le de l'Agonie",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30cf\u30fc\u30c7\u30b9\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud558\ub370\uc2a4\uae09"
+    },
+    "47": {
+        "0xID": "2F",
+        "Icon": "ui/icon/112000/112369.png",
+        "Name_cn": "\u6311\u6218\u65e0\u7455\u7075\u541b\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Letzte L\u00e4uterung - Innozenz",
+        "Name_en": "Stone, Sky, Sea - The Crown of the Immaculate (Extreme)",
+        "Name_fr": "Simulation : la Couronne de l'Immacul\u00e9 (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30a4\u30ce\u30bb\u30f3\u30b9\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uc774\ub178\uc13c\uc2a4\uae09"
+    },
+    "48": {
+        "0xID": "30",
+        "Icon": "ui/icon/112000/112368.png",
+        "Name_cn": "\u6311\u6218\u7f07\u5766\u59ae\u96c5\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Letzte L\u00e4uterung - Titania",
+        "Name_en": "Stone, Sky, Sea - The Dancing Plague (Extreme)",
+        "Name_fr": "Simulation : la Valse du Monarque (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30c6\u30a3\u30bf\u30fc\u30cb\u30a2\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ud2f0\ud0c0\ub2c8\uc544\uae09"
+    },
+    "49": {
+        "0xID": "31",
+        "Icon": "ui/icon/112000/112371.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u89c9\u9192\u4e4b\u7ae0",
+        "Name_de": "Training: Edens Erwachen",
+        "Name_en": "Stone, Sky, Sea - Eden's Gate",
+        "Name_fr": "Simulation : L'\u00c9veil d'\u00c9den",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\uff1a\u899a\u9192\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uac01\uc131\ud3b8\uae09"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/112000/112149.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u542f\u52a8\u4e4b\u7ae02",
+        "Name_de": "Training: Alexander - Elle des Vaters (episch)",
+        "Name_en": "Stone, Sky, Sea - The Cuff of the Father (Savage)",
+        "Name_fr": "Simulation : Le Poignet du P\u00e8re (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u8d77\u52d5\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uae30\ub3d9\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "50": {
+        "0xID": "32",
+        "Icon": "ui/icon/112000/112364.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u89c9\u9192\u4e4b\u7ae01",
+        "Name_de": "Training: Edens Erwachen - Auferstehung (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Gate: Resurrection (Savage)",
+        "Name_fr": "Simulation : L'\u00c9veil d'\u00c9den - R\u00e9surrection (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u899a\u9192\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uac01\uc131\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "51": {
+        "0xID": "33",
+        "Icon": "ui/icon/112000/112365.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u89c9\u9192\u4e4b\u7ae02",
+        "Name_de": "Training: Edens Erwachen - Niederkunft (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Gate: Descent (Savage)",
+        "Name_fr": "Simulation : L'\u00c9veil d'\u00c9den - Descente (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u899a\u9192\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uac01\uc131\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "52": {
+        "0xID": "34",
+        "Icon": "ui/icon/112000/112366.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u89c9\u9192\u4e4b\u7ae03",
+        "Name_de": "Training: Edens Erwachen - \u00dcberflutung (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Gate: Inundation (Savage)",
+        "Name_fr": "Simulation : L'\u00c9veil d'\u00c9den - D\u00e9luge (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u899a\u9192\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uac01\uc131\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "53": {
+        "0xID": "35",
+        "Icon": "ui/icon/112000/112367.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u89c9\u9192\u4e4b\u7ae04",
+        "Name_de": "Training: Edens Erwachen - Beerdigung (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Gate: Sepulture (Savage)",
+        "Name_fr": "Simulation : L'\u00c9veil d'\u00c9den - Inhumation (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u899a\u9192\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uac01\uc131\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "54": {
+        "0xID": "36",
+        "Icon": "ui/icon/112000/112377.png",
+        "Name_cn": "\u6311\u6218\u54c8\u8fea\u65af\u5b64\u5ff5\u6b7c\u706d\u6218",
+        "Name_de": "Training: Letzte L\u00e4uterung - Hades",
+        "Name_en": "Stone, Sky, Sea - The Minstrel's Ballad: Hades's Elegy",
+        "Name_fr": "Simulation : le R\u00e2le de l'Agonie (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30cf\u30fc\u30c7\u30b9\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ud558\ub370\uc2a4\uae09"
+    },
+    "55": {
+        "0xID": "37",
+        "Icon": "ui/icon/112000/112398.png",
+        "Name_cn": "\u6311\u6218\u7ea2\u5b9d\u77f3\u795e\u5175\u72c2\u60f3\u4f5c\u6218",
+        "Name_de": "Training: Rubinfeuer - Trauma",
+        "Name_en": "Stone, Sky, Sea - Cinder Drift (Extreme)",
+        "Name_fr": "Simulation : les Nu\u00e9es de Brandons (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30eb\u30d3\u30fc\u30a6\u30a7\u30dd\u30f3\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ub8e8\ube44 \uc6e8\ud3f0\uae09"
+    },
+    "56": {
+        "0xID": "38",
+        "Icon": "ui/icon/112000/112393.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u5171\u9e23\u4e4b\u7ae0",
+        "Name_de": "Training: Edens Resonanz",
+        "Name_en": "Stone, Sky, Sea - Eden's Verse",
+        "Name_fr": "Simulation : Les Accords d'\u00c9den",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\uff1a\u5171\u9cf4\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uacf5\uba85\ud3b8\uae09"
+    },
+    "57": {
+        "0xID": "39",
+        "Icon": "ui/icon/112000/112394.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u5171\u9e23\u4e4b\u7ae01",
+        "Name_de": "Training: Edens Resonanz - Entladung (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Verse: Fulmination (Savage)",
+        "Name_fr": "Simulation : Les Accords d'\u00c9den - Fulmination (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u5171\u9cf4\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uacf5\uba85\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "58": {
+        "0xID": "3A",
+        "Icon": "ui/icon/112000/112395.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u5171\u9e23\u4e4b\u7ae02",
+        "Name_de": "Training: Edens Resonanz - Raserei (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Verse: Furor (Savage)",
+        "Name_fr": "Simulation : Les Accords d'\u00c9den - Fureur (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u5171\u9cf4\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uacf5\uba85\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "59": {
+        "0xID": "3B",
+        "Icon": "ui/icon/112000/112396.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u5171\u9e23\u4e4b\u7ae03",
+        "Name_de": "Training: Edens Resonanz - Bildersturm (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Verse: Iconoclasm (Savage)",
+        "Name_fr": "Simulation : Les Accords d'\u00c9den - Iconoclasme (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u5171\u9cf4\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uacf5\uba85\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/112000/112150.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u542f\u52a8\u4e4b\u7ae03",
+        "Name_de": "Training: Alexander - Arm des Vaters (episch)",
+        "Name_en": "Stone, Sky, Sea - The Arm of the Father (Savage)",
+        "Name_fr": "Simulation : Le Bras du P\u00e8re (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u8d77\u52d5\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uae30\ub3d9\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "60": {
+        "0xID": "3C",
+        "Icon": "ui/icon/112000/112397.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u5171\u9e23\u4e4b\u7ae04",
+        "Name_de": "Training: Edens Resonanz - Erstarrung (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Verse: Refulgence (Savage)",
+        "Name_fr": "Simulation : Les Accords d'\u00c9den - \u00c9clat (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u5171\u9cf4\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uacf5\uba85\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "61": {
+        "0xID": "3D",
+        "Icon": "ui/icon/112000/112405.png",
+        "Name_cn": "\u6311\u6218\u5149\u4e4b\u6218\u58eb\u5e7b\u8000\u6b7c\u706d\u6218",
+        "Name_de": "Training: Der Krieger des Lichts (extrem)",
+        "Name_en": "Stone, Sky, Sea - The Seat of Sacrifice (Extreme)",
+        "Name_fr": "Simulation : le Tr\u00f4ne du Sacrifice (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30a6\u30a9\u30fc\u30ea\u30a2\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ube5b\uc758 \uc804\uc0ac\uae09"
+    },
+    "62": {
+        "0xID": "3E",
+        "Icon": "ui/icon/112000/112427.png",
+        "Name_cn": "\u6311\u6218\u7eff\u5b9d\u77f3\u795e\u5175\u72c2\u60f3\u4f5c\u6218",
+        "Name_de": "Training: Smaragdsturm - Trauma",
+        "Name_en": "Stone, Sky, Sea - Castrum Marinum (Extreme)",
+        "Name_fr": "Simulation : Castrum Marinum (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30a8\u30e1\u30e9\u30eb\u30c9\u30a6\u30a7\u30dd\u30f3\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uc5d0\uba54\ub784\ub4dc \uc6e8\ud3f0\uae09"
+    },
+    "63": {
+        "0xID": "3F",
+        "Icon": "ui/icon/112000/112422.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u518d\u751f\u4e4b\u7ae0",
+        "Name_de": "Training: Edens Verhei\u00dfung",
+        "Name_en": "Stone, Sky, Sea - Eden's Promise",
+        "Name_fr": "Simulation : La Promesse d'\u00c9den",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\uff1a\u518d\u751f\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uc7ac\uc0dd\ud3b8\uae09"
+    },
+    "64": {
+        "0xID": "40",
+        "Icon": "ui/icon/112000/112423.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u518d\u751f\u4e4b\u7ae01",
+        "Name_de": "Training: Edens Verhei\u00dfung - Umbra (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Promise: Umbra (Savage)",
+        "Name_fr": "Simulation : La Promesse d'\u00c9den - Nu\u00e9e (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u518d\u751f\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uc7ac\uc0dd\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "65": {
+        "0xID": "41",
+        "Icon": "ui/icon/112000/112424.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u518d\u751f\u4e4b\u7ae02",
+        "Name_de": "Training: Edens Verhei\u00dfung - Litanei (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Promise: Litany (Savage)",
+        "Name_fr": "Simulation : La Promesse d'\u00c9den - Litanie (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u518d\u751f\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uc7ac\uc0dd\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "66": {
+        "0xID": "42",
+        "Icon": "ui/icon/112000/112425.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u518d\u751f\u4e4b\u7ae03",
+        "Name_de": "Training: Edens Verhei\u00dfung - Anamorphose (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Promise: Anamorphosis (Savage)",
+        "Name_fr": "Simulation : La Promesse d'\u00c9den - Anamorphose (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u518d\u751f\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uc7ac\uc0dd\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "67": {
+        "0xID": "43",
+        "Icon": "ui/icon/112000/112426.png",
+        "Name_cn": "\u6311\u6218\u4f0a\u7538\u96f6\u5f0f\u518d\u751f\u4e4b\u7ae04",
+        "Name_de": "Training: Edens Verhei\u00dfung - Ewigkeit (episch)",
+        "Name_en": "Stone, Sky, Sea - Eden's Promise: Eternity (Savage)",
+        "Name_fr": "Simulation : La Promesse d'\u00c9den - \u00c9ternit\u00e9 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a8\u30c7\u30f3\u96f6\u5f0f\uff1a\u518d\u751f\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc5d0\ub374: \uc7ac\uc0dd\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "68": {
+        "0xID": "44",
+        "Icon": "ui/icon/112000/112434.png",
+        "Name_cn": "\u6311\u6218\u94bb\u77f3\u795e\u5175\u72c2\u60f3\u4f5c\u6218",
+        "Name_de": "Training: Diamantblitz - Trauma",
+        "Name_en": "Stone, Sky, Sea - The Cloud Deck (Extreme)",
+        "Name_fr": "Simulation : Le Tillac des Cirrus (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30c0\u30a4\u30e4\u30a6\u30a7\u30dd\u30f3\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ub2e4\uc774\uc544\ubaac\ub4dc \uc6e8\ud3f0\uae09"
+    },
+    "69": {
+        "0xID": "45",
+        "Icon": "ui/icon/112000/112459.png",
+        "Name_cn": "\u6311\u6218\u8bb4\u6b4c\u7ec8\u7ed3\u4e4b\u7269",
+        "Name_de": "Training: Prophetie - Ends\u00e4ngerin",
+        "Name_en": "Stone, Sky, Sea - The Final Day",
+        "Name_fr": "Simulation : Le R\u00e9pons final",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u7d42\u7109\u3092\u8b33\u3046\u3082\u306e\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc885\uc5b8\uc744 \ub178\ub798\ud558\ub294 \uc790\uae09"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/112000/112151.png",
+        "Name_cn": "\u6311\u6218\u4e9a\u5386\u5c71\u5927\u96f6\u5f0f\u673a\u795e\u57ce\u542f\u52a8\u4e4b\u7ae04",
+        "Name_de": "Training: Alexander - Last des Vaters (episch)",
+        "Name_en": "Stone, Sky, Sea - The Burden of the Father (Savage)",
+        "Name_fr": "Simulation : Le Fardeau du P\u00e8re (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u96f6\u5f0f\uff1a\u8d77\u52d5\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc54c\ub809\uc0b0\ub354: \uae30\ub3d9\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "70": {
+        "0xID": "46",
+        "Icon": "ui/icon/112000/112458.png",
+        "Name_cn": "\u6311\u6218\u6d77\u5fb7\u6797\u6656\u5149\u6b7c\u706d\u6218",
+        "Name_de": "Training: Eschatos - Hydaelyn",
+        "Name_en": "Stone, Sky, Sea - The Minstrel's Ballad: Hydaelyn's Call",
+        "Name_fr": "Simulation : Le Cristal-m\u00e8re (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30cf\u30a4\u30c7\u30ea\u30f3\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ud558\uc774\ub378\ub9b0\uae09"
+    },
+    "71": {
+        "0xID": "47",
+        "Icon": "ui/icon/112000/112457.png",
+        "Name_cn": "\u6311\u6218\u4f50\u8fea\u4e9a\u514b\u669d\u6697\u6b7c\u706d\u6218",
+        "Name_de": "Training: Eschatos - Zodiark",
+        "Name_en": "Stone, Sky, Sea - The Minstrel's Ballad: Zodiark's Fall",
+        "Name_fr": "Simulation : Le Crat\u00e8re des Martyrs (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30be\u30c7\u30a3\u30a2\u30fc\u30af\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \uc870\ub514\uc544\ud06c\uae09"
+    },
+    "72": {
+        "0xID": "48",
+        "Icon": "ui/icon/112000/112460.png",
+        "Name_cn": "\u6311\u6218\u4e07\u9b54\u6bbf\u8fb9\u5883\u4e4b\u72f1",
+        "Name_de": "Training: Asphodelos",
+        "Name_en": "Stone, Sky, Sea - Pand\u00e6monium: Asphodelos",
+        "Name_fr": "Simulation : Les Limbes du Pand\u00e6monium",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\uff1a\u8fba\u7344\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \ubcc0\uc625\ud3b8\uae09"
+    },
+    "73": {
+        "0xID": "49",
+        "Icon": "ui/icon/112000/112461.png",
+        "Name_cn": "\u6311\u6218\u96f6\u5f0f\u4e07\u9b54\u6bbf\u8fb9\u5883\u4e4b\u72f11",
+        "Name_de": "Training: Asphodelos - Erster Kreis (episch)",
+        "Name_en": "Stone, Sky, Sea - Asphodelos: The First Circle (Savage)",
+        "Name_fr": "Simulation : Les Limbes du Pand\u00e6monium - Parvis (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\u96f6\u5f0f\uff1a\u8fba\u7344\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \ubcc0\uc625\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "74": {
+        "0xID": "4A",
+        "Icon": "ui/icon/112000/112462.png",
+        "Name_cn": "\u6311\u6218\u96f6\u5f0f\u4e07\u9b54\u6bbf\u8fb9\u5883\u4e4b\u72f12",
+        "Name_de": "Training: Asphodelos - Zweiter Kreis (episch)",
+        "Name_en": "Stone, Sky, Sea - Asphodelos: The Second Circle (Savage)",
+        "Name_fr": "Simulation : Les Limbes du Pand\u00e6monium - Cloaque (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\u96f6\u5f0f\uff1a\u8fba\u7344\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \ubcc0\uc625\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "75": {
+        "0xID": "4B",
+        "Icon": "ui/icon/112000/112463.png",
+        "Name_cn": "\u6311\u6218\u96f6\u5f0f\u4e07\u9b54\u6bbf\u8fb9\u5883\u4e4b\u72f13",
+        "Name_de": "Training: Asphodelos - Dritter Kreis (episch)",
+        "Name_en": "Stone, Sky, Sea - Asphodelos: The Third Circle (Savage)",
+        "Name_fr": "Simulation : Les Limbes du Pand\u00e6monium - Fournaise (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\u96f6\u5f0f\uff1a\u8fba\u7344\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \ubcc0\uc625\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "76": {
+        "0xID": "4C",
+        "Icon": "ui/icon/112000/112464.png",
+        "Name_cn": "\u6311\u6218\u96f6\u5f0f\u4e07\u9b54\u6bbf\u8fb9\u5883\u4e4b\u72f14",
+        "Name_de": "Training: Asphodelos - Vierter Kreis (episch)",
+        "Name_en": "Stone, Sky, Sea - Asphodelos: The Fourth Circle (Savage)",
+        "Name_fr": "Simulation : Les Limbes du Pand\u00e6monium - Ab\u00eeme (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\u96f6\u5f0f\uff1a\u8fba\u7344\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \ubcc0\uc625\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "77": {
+        "0xID": "4D",
+        "Icon": "ui/icon/112000/112477.png",
+        "Name_cn": "\u6311\u6218\u6728\u4eba\u6b7c\u706d\u6218\uff0860\u7ea7\uff09",
+        "Name_de": "Training: Stufe 60",
+        "Name_en": "Stone, Sky, Sea - Level 60",
+        "Name_fr": "Simulation : niveau 60",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30ec\u30d9\u30eb60\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ub808\ubca8 60\uae09"
+    },
+    "78": {
+        "0xID": "4E",
+        "Icon": "ui/icon/112000/112478.png",
+        "Name_cn": "\u6311\u6218\u6728\u4eba\u6b7c\u706d\u6218\uff0870\u7ea7\uff09",
+        "Name_de": "Training: Stufe 70",
+        "Name_en": "Stone, Sky, Sea - Level 70",
+        "Name_fr": "Simulation : niveau 70",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30ec\u30d9\u30eb70\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ub808\ubca8 70\uae09"
+    },
+    "79": {
+        "0xID": "4F",
+        "Icon": "ui/icon/112000/112479.png",
+        "Name_cn": "\u6311\u6218\u6728\u4eba\u6b7c\u706d\u6218\uff0880\u7ea7\uff09",
+        "Name_de": "Training: Stufe 80",
+        "Name_en": "Stone, Sky, Sea - Level 80",
+        "Name_fr": "Simulation : niveau 80",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30ec\u30d9\u30eb80\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ub808\ubca8 80\uae09"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/112000/112152.png",
+        "Name_cn": "\u6311\u6218\u5706\u684c\u9a91\u58eb\u5e7b\u60f3\u6b7c\u706d\u6218",
+        "Name_de": "Training: Heldenlied von Thordans Fall",
+        "Name_en": "Stone, Sky, Sea - The Minstrel's Ballad: Thordan's Reign",
+        "Name_fr": "Simulation : le r\u00e8gne de Thordan",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u84bc\u5929\u5e7b\u60f3 \u30ca\u30a4\u30c4\u30fb\u30aa\u30d6\u30fb\u30e9\u30a6\u30f3\u30c9\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ub098\uc774\uce20 \uc624\ube0c \ub77c\uc6b4\ub4dc\uae09"
+    },
+    "80": {
+        "0xID": "50",
+        "Icon": "ui/icon/112000/112480.png",
+        "Name_cn": "\u6311\u6218\u6728\u4eba\u6b7c\u706d\u6218\uff0890\u7ea7\uff09",
+        "Name_de": "Training: Stufe 90",
+        "Name_en": "Stone, Sky, Sea - Level 90",
+        "Name_fr": "Simulation : niveau 90",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30ec\u30d9\u30eb90\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ub808\ubca8 90\uae09"
+    },
+    "81": {
+        "0xID": "51",
+        "Icon": "ui/icon/112000/112476.png",
+        "Name_cn": "\u6311\u6218\u7ec8\u6781\u4e4b\u6218",
+        "Name_de": "Training: Eschatos - Ends\u00e4ngerin",
+        "Name_en": "Stone, Sky, Sea - The Minstrel's Ballad: Endsinger's Aria",
+        "Name_fr": "Simulation : Le R\u00e9pons final (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u7d42\u6975\u3092\u8b33\u3046\u3082\u306e\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uc885\uadf9\uc744 \ub178\ub798\ud558\ub294 \uc790\uae09"
+    },
+    "82": {
+        "0xID": "52",
+        "Icon": "ui/icon/112000/112496.png",
+        "Name_cn": "\u6311\u6218\u5df4\u5c14\u5df4\u8389\u5e0c\u5a05\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Eschatos - Barbarizia",
+        "Name_en": "Stone, Sky, Sea - Storm's Crown (Extreme)",
+        "Name_fr": "Simulation : La Toison des temp\u00eates (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30d0\u30eb\u30d0\u30ea\u30b7\u30a2\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ubc14\ub974\ubc14\ub9ac\ucc28\uae09"
+    },
+    "83": {
+        "0xID": "53",
+        "Icon": "ui/icon/112000/112497.png",
+        "Name_cn": "\u6311\u6218\u4e07\u9b54\u6bbf\u70bc\u51c0\u4e4b\u72f1",
+        "Name_de": "Training: Abyssos",
+        "Name_en": "Stone, Sky, Sea - Pand\u00e6monium: Abyssos",
+        "Name_fr": "Simulation : Le Purgatoire du Pand\u00e6monium",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\uff1a\u7149\u7344\u7de8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \uc5f0\uc625\ud3b8\uae09"
+    },
+    "84": {
+        "0xID": "54",
+        "Icon": "ui/icon/112000/112498.png",
+        "Name_cn": "\u6311\u6218\u96f6\u5f0f\u4e07\u9b54\u6bbf\u70bc\u51c0\u4e4b\u72f11",
+        "Name_de": "Training: Abyssos - F\u00fcnfter Kreis (episch)",
+        "Name_en": "Stone, Sky, Sea - Abyssos: The Fifth Circle (Savage)",
+        "Name_fr": "Simulation : Le Purgatoire du Pand\u00e6monium - Cages (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\u96f6\u5f0f\uff1a\u7149\u7344\u7de81\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \uc5f0\uc625\ud3b8(\uc601\uc6c5) 1\uae09"
+    },
+    "85": {
+        "0xID": "55",
+        "Icon": "ui/icon/112000/112499.png",
+        "Name_cn": "\u6311\u6218\u96f6\u5f0f\u4e07\u9b54\u6bbf\u70bc\u51c0\u4e4b\u72f12",
+        "Name_de": "Training: Abyssos - Sechster Kreis (episch)",
+        "Name_en": "Stone, Sky, Sea - Abyssos: The Sixth Circle (Savage)",
+        "Name_fr": "Simulation : Le Purgatoire du Pand\u00e6monium - Croisements (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\u96f6\u5f0f\uff1a\u7149\u7344\u7de82\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \uc5f0\uc625\ud3b8(\uc601\uc6c5) 2\uae09"
+    },
+    "86": {
+        "0xID": "56",
+        "Icon": "ui/icon/112000/112500.png",
+        "Name_cn": "\u6311\u6218\u96f6\u5f0f\u4e07\u9b54\u6bbf\u70bc\u51c0\u4e4b\u72f13",
+        "Name_de": "Training: Abyssos - Siebter Kreis (episch)",
+        "Name_en": "Stone, Sky, Sea - Abyssos: The Seventh Circle (Savage)",
+        "Name_fr": "Simulation : Le Purgatoire du Pand\u00e6monium - Racines (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\u96f6\u5f0f\uff1a\u7149\u7344\u7de83\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \uc5f0\uc625\ud3b8(\uc601\uc6c5) 3\uae09"
+    },
+    "87": {
+        "0xID": "57",
+        "Icon": "ui/icon/112000/112501.png",
+        "Name_cn": "\u6311\u6218\u96f6\u5f0f\u4e07\u9b54\u6bbf\u70bc\u51c0\u4e4b\u72f14",
+        "Name_de": "Training: Abyssos - Achter Kreis (episch)",
+        "Name_en": "Stone, Sky, Sea - Abyssos: The Eighth Circle (Savage)",
+        "Name_fr": "Simulation : Le Purgatoire du Pand\u00e6monium - H\u00e9r\u00e9dit\u00e9 (sadique)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\u96f6\u5f0f\uff1a\u7149\u7344\u7de84\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \ud310\ub370\ubaa8\ub2c8\uc6c0: \uc5f0\uc625\ud3b8(\uc601\uc6c5) 4\uae09"
+    },
+    "88": {
+        "0xID": "58",
+        "Icon": "ui/icon/112000/112519.png",
+        "Name_cn": "\u6311\u6218\u5362\u6bd4\u574e\u7279\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Eschatos - Rubicante",
+        "Name_en": "Stone, Sky, Sea - Mount Ordeals (Extreme)",
+        "Name_fr": "Simulation : Le Mont du Supplice (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u30eb\u30d3\u30ab\u30f3\u30c6\u7d1a\uff09",
+        "Name_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/112000/112153.png",
+        "Name_cn": "\u6311\u6218\u8428\u83f2\u6d1b\u7279\u6b7c\u6b9b\u6218",
+        "Name_de": "Training: Zenit der G\u00f6tter - Sephirot",
+        "Name_en": "Stone, Sky, Sea - Containment Bay S1T7 (Extreme)",
+        "Name_fr": "Simulation : Sephirot (extr\u00eame)",
+        "Name_ja": "\u6728\u4eba\u8a0e\u6ec5\u6226\uff08\u6975\u9b54\u795e\u30bb\u30d5\u30a3\u30ed\u30c8\u7d1a\uff09",
+        "Name_ko": "\ub098\ubb34\uc778\ud615 \ud1a0\ubc8c\uc804 - \uadf9 \ub9c8\uc2e0 \uc138\ud53c\ub85c\ud2b8\uae09"
+    }
+}

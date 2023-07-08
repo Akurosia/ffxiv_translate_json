@@ -1,0 +1,1052 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "ui/icon/000000/000001.png",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u7b49\u5f85",
+        "Name_de": "Warten",
+        "Name_en": "Waiting",
+        "Name_fr": "En attente",
+        "Name_ja": "\u5f85\u6a5f",
+        "Name_ko": "\ub300\uae30"
+    },
+    "100": {
+        "0xID": "64",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u503e\u542c",
+        "Name_de": "Wachen",
+        "Name_en": "Listening",
+        "Name_fr": "Concentration",
+        "Name_ja": "\u611f\u77e5",
+        "Name_ko": "\uac10\uc9c0"
+    },
+    "101": {
+        "0xID": "65",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b89\u629a",
+        "Name_de": "Beruhigen",
+        "Name_en": "Calming",
+        "Name_fr": "Apaisement",
+        "Name_ja": "\u843d\u3061\u7740\u304b\u305b\u308b",
+        "Name_ko": "\uc9c4\uc815\uc2dc\ud0a4\uae30"
+    },
+    "102": {
+        "0xID": "66",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5206\u4eab\u4ee5\u592a",
+        "Name_de": "\u00c4ther austauschen",
+        "Name_en": "Gift Aether",
+        "Name_fr": "Partage d'\u00e9ther",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30eb\u3092\u5206\u3051\u4e0e\u3048\u308b",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ub098\ub220\uc8fc\uae30"
+    },
+    "103": {
+        "0xID": "67",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u53e3\u54e8",
+        "Name_de": "Pfeifen",
+        "Name_en": "Whistling",
+        "Name_fr": "Sifflement",
+        "Name_ja": "\u6307\u7b1b",
+        "Name_ko": "\ud718\ud30c\ub78c"
+    },
+    "104": {
+        "0xID": "68",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6551\u52a9",
+        "Name_de": "Helfen",
+        "Name_en": "Aiding",
+        "Name_fr": "Aide",
+        "Name_ja": "\u6551\u52a9",
+        "Name_ko": "\uad6c\uc870"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u7b49\u5f85",
+        "Name_de": "Warten",
+        "Name_en": "Waiting",
+        "Name_fr": "En attente",
+        "Name_ja": "\u5f85\u6a5f",
+        "Name_ko": "\ub300\uae30"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u7b49\u5f85",
+        "Name_de": "Warten",
+        "Name_en": "Waiting",
+        "Name_fr": "En attente",
+        "Name_ja": "\u5f85\u6a5f",
+        "Name_ko": "\ub300\uae30"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u7b49\u5f85",
+        "Name_de": "Warten",
+        "Name_en": "Waiting",
+        "Name_fr": "En attente",
+        "Name_ja": "\u5f85\u6a5f",
+        "Name_ko": "\ub300\uae30"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/061000/061105.png",
+        "Name_cn": "\u5171\u9e23",
+        "Name_de": "Harmonisieren",
+        "Name_en": "Attuning",
+        "Name_fr": "Harmonisation",
+        "Name_ja": "\u4ea4\u611f",
+        "Name_ko": "\uad50\uac10"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6551\u52a9",
+        "Name_de": "Helfen",
+        "Name_en": "Aiding",
+        "Name_fr": "Aide",
+        "Name_ja": "\u6551\u52a9",
+        "Name_ko": "\uad6c\uc870"
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u8b66\u7b1b",
+        "Name_de": "Pfeifen",
+        "Name_en": "Whistling",
+        "Name_fr": "Sifflement",
+        "Name_ja": "\u30db\u30a4\u30c3\u30b9\u30eb",
+        "Name_ko": "\ud638\ub8e8\ub77c\uae30"
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u76d1\u89c6",
+        "Name_de": "Ausschau halten",
+        "Name_en": "Standing Watch",
+        "Name_fr": "Surveille",
+        "Name_ja": "\u898b\u5f35\u308a",
+        "Name_ko": "\uac10\uc2dc"
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u8bb0\u5f55",
+        "Name_de": "Vermerken",
+        "Name_en": "Recording",
+        "Name_fr": "Enregistrement",
+        "Name_ja": "\u8a18\u9332",
+        "Name_ko": "\uae30\ub85d"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u53e3\u54e8",
+        "Name_de": "Pfeifen",
+        "Name_en": "Whistling",
+        "Name_fr": "Sifflement",
+        "Name_ja": "\u6307\u7b1b",
+        "Name_ko": "\ud718\ud30c\ub78c"
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6551\u52a9",
+        "Name_de": "Helfen",
+        "Name_en": "Aiding",
+        "Name_fr": "Aide",
+        "Name_ja": "\u6551\u52a9",
+        "Name_ko": "\uad6c\uc870"
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6551\u52a9",
+        "Name_de": "Helfen",
+        "Name_en": "Aiding",
+        "Name_fr": "Aide",
+        "Name_ja": "\u6551\u52a9",
+        "Name_ko": "\uad6c\uc870"
+    },
+    "36": {
+        "0xID": "24",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6551\u52a9",
+        "Name_de": "Helfen",
+        "Name_en": "Aiding",
+        "Name_fr": "Aide",
+        "Name_ja": "\u6551\u52a9",
+        "Name_ko": "\uad6c\uc870"
+    },
+    "37": {
+        "0xID": "25",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "38": {
+        "0xID": "26",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6551\u52a9",
+        "Name_de": "Helfen",
+        "Name_en": "Aiding",
+        "Name_fr": "Aide",
+        "Name_ja": "\u6551\u52a9",
+        "Name_ko": "\uad6c\uc870"
+    },
+    "39": {
+        "0xID": "27",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6551\u52a9",
+        "Name_de": "Helfen",
+        "Name_en": "Aiding",
+        "Name_fr": "Aide",
+        "Name_ja": "\u6551\u52a9",
+        "Name_ko": "\uad6c\uc870"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "40": {
+        "0xID": "28",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6551\u52a9",
+        "Name_de": "Helfen",
+        "Name_en": "Aiding",
+        "Name_fr": "Aide",
+        "Name_ja": "\u6551\u52a9",
+        "Name_ko": "\uad6c\uc870"
+    },
+    "41": {
+        "0xID": "29",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u5f20\u671b",
+        "Name_de": "Ausschau halten",
+        "Name_en": "Surveying",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u898b\u6e21\u3059",
+        "Name_ko": "\ub458\ub7ec\ubcf4\uae30"
+    },
+    "42": {
+        "0xID": "2A",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u677e\u7ed1",
+        "Name_de": "Fesseln l\u00f6sen",
+        "Name_en": "Untying",
+        "Name_fr": "D\u00e9lie",
+        "Name_ja": "\u7e04\u3092\u307b\u3069\u304f",
+        "Name_ko": "\ubc27\uc904 \ud480\uae30"
+    },
+    "43": {
+        "0xID": "2B",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Bes\u00e4nftigen",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u93ae\u3081\u308b",
+        "Name_ko": "\uc81c\uc555"
+    },
+    "44": {
+        "0xID": "2C",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Bes\u00e4nftigen",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u93ae\u3081\u308b",
+        "Name_ko": "\uc81c\uc555"
+    },
+    "45": {
+        "0xID": "2D",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "46": {
+        "0xID": "2E",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "47": {
+        "0xID": "2F",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "48": {
+        "0xID": "30",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6363\u86cb",
+        "Name_de": "\u00c4rgern",
+        "Name_en": "Spooking",
+        "Name_fr": "Effrayer",
+        "Name_ja": "\u30a4\u30bf\u30ba\u30e9\u3092\u3059\u308b",
+        "Name_ko": "\uc7a5\ub09c\uce58\uae30"
+    },
+    "49": {
+        "0xID": "31",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5173\u95ed\u9600\u95e8",
+        "Name_de": "Ventil schlie\u00dfen",
+        "Name_en": "Closing Valve",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u30d0\u30eb\u30d6\u3092\u7de0\u3081\u308b",
+        "Name_ko": "\ubc38\ube0c \uc7a0\uadf8\uae30"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "50": {
+        "0xID": "32",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u5f20\u671b",
+        "Name_de": "Ausschau halten",
+        "Name_en": "Surveying",
+        "Name_fr": "Observation",
+        "Name_ja": "\u898b\u6e21\u3059",
+        "Name_ko": "\ub458\ub7ec\ubcf4\uae30"
+    },
+    "51": {
+        "0xID": "33",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6253\u5f00\u9600\u95e8",
+        "Name_de": "Ventil schlie\u00dfen",
+        "Name_en": "Opening Valve",
+        "Name_fr": "Ouverture de la valve",
+        "Name_ja": "\u8abf\u6574\u5f01\u3092\u958b\u3051\u308b",
+        "Name_ko": "\ubc38\ube0c \uc5f4\uae30"
+    },
+    "52": {
+        "0xID": "34",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "53": {
+        "0xID": "35",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "54": {
+        "0xID": "36",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "55": {
+        "0xID": "37",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "56": {
+        "0xID": "38",
+        "Icon": "ui/icon/061000/061104.png",
+        "Name_cn": "\u76d1\u89c6",
+        "Name_de": "Ausschau halten",
+        "Name_en": "Standing Watch",
+        "Name_fr": "Surveille",
+        "Name_ja": "\u898b\u5f35\u308a",
+        "Name_ko": "\uac10\uc2dc"
+    },
+    "57": {
+        "0xID": "39",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5360\u9886",
+        "Name_de": "Erobern",
+        "Name_en": "Occupying",
+        "Name_fr": "Occupation",
+        "Name_ja": "\u5360\u62e0",
+        "Name_ko": "\uc810\ub839"
+    },
+    "58": {
+        "0xID": "3A",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5360\u9886",
+        "Name_de": "Erobern",
+        "Name_en": "Occupying",
+        "Name_fr": "Occupation",
+        "Name_ja": "\u5360\u62e0",
+        "Name_ko": "\uc810\ub839"
+    },
+    "59": {
+        "0xID": "3B",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5360\u9886",
+        "Name_de": "Erobern",
+        "Name_en": "Occupying",
+        "Name_fr": "Occupation",
+        "Name_ja": "\u5360\u62e0",
+        "Name_ko": "\uc810\ub839"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "60": {
+        "0xID": "3C",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5171\u9e23",
+        "Name_de": "Harmonisieren",
+        "Name_en": "Attuning",
+        "Name_fr": "Communion",
+        "Name_ja": "\u4ea4\u611f",
+        "Name_ko": "\uad50\uac10"
+    },
+    "61": {
+        "0xID": "3D",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "62": {
+        "0xID": "3E",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": "\ud0d0\uc0c9"
+    },
+    "63": {
+        "0xID": "3F",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "64": {
+        "0xID": "40",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "65": {
+        "0xID": "41",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u53d6\u5f97\u9752\u78f7\u6c34",
+        "Name_de": "Erdseim aufnehmen",
+        "Name_en": "Refueling",
+        "Name_fr": "R\u00e9cup\u00e9ration de c\u00e9ruleum",
+        "Name_ja": "\u9752\u71d0\u6c34\u53d6\u5f97",
+        "Name_ko": "\uccad\ub9b0\uc218 \ud68d\ub4dd"
+    },
+    "66": {
+        "0xID": "42",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5360\u9886",
+        "Name_de": "Erobern",
+        "Name_en": "Claiming",
+        "Name_fr": "Occupation",
+        "Name_ja": "\u5360\u62e0",
+        "Name_ko": "\uc810\ub839"
+    },
+    "67": {
+        "0xID": "43",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u642d\u4e58",
+        "Name_de": "Steuern",
+        "Name_en": "Mounting",
+        "Name_fr": "Man\u0153uvre",
+        "Name_ja": "\u642d\u4e57",
+        "Name_ko": "\ud0d1\uc2b9"
+    },
+    "68": {
+        "0xID": "44",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5f20\u671b",
+        "Name_de": "Ausschau halten",
+        "Name_en": "Surveying",
+        "Name_fr": "Observation",
+        "Name_ja": "\u898b\u6e21\u3059",
+        "Name_ko": "\ub458\ub7ec\ubcf4\uae30"
+    },
+    "69": {
+        "0xID": "45",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "70": {
+        "0xID": "46",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5265\u53d6",
+        "Name_de": "Untersuchen",
+        "Name_en": "Carving",
+        "Name_fr": "D\u00e9pe\u00e7age",
+        "Name_ja": "\u5265\u304e\u53d6\u308a",
+        "Name_ko": "\uac08\ubb34\ub9ac"
+    },
+    "71": {
+        "0xID": "47",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u53ec\u5524",
+        "Name_de": "Anrufen",
+        "Name_en": "Invoke",
+        "Name_fr": "Invocation",
+        "Name_ja": "\u53ec\u559a",
+        "Name_ko": "\uc18c\ud658"
+    },
+    "72": {
+        "0xID": "48",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u7167\u770b",
+        "Name_de": "Pflegen",
+        "Name_en": "Assisting",
+        "Name_fr": "Soin",
+        "Name_ja": "\u4ecb\u62b1",
+        "Name_ko": "\uac04\ud638"
+    },
+    "73": {
+        "0xID": "49",
+        "Icon": "ui/icon/061000/061173.png",
+        "Name_cn": "\u6cbb\u7597\u9b54\u6cd5",
+        "Name_de": "Heilen",
+        "Name_en": "Healing",
+        "Name_fr": "Magie curative",
+        "Name_ja": "\u6cbb\u7652\u9b54\u6cd5",
+        "Name_ko": "\uce58\uc720\ub9c8\ubc95"
+    },
+    "74": {
+        "0xID": "4A",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u62fe\u53d6",
+        "Name_de": "Aufheben",
+        "Name_en": "Gathering",
+        "Name_fr": "Ramasser",
+        "Name_ja": "\u62fe\u3046",
+        "Name_ko": "\uc90d\uae30"
+    },
+    "75": {
+        "0xID": "4B",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u7269\u8d44\u56de\u6536",
+        "Name_de": "Sammeln",
+        "Name_en": "Obtaining",
+        "Name_fr": "Obtention",
+        "Name_ja": "\u7269\u8cc7\u56de\u53ce",
+        "Name_ko": "\ubb3c\uc790 \ud68c\uc218"
+    },
+    "76": {
+        "0xID": "4C",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u7269\u8d44\u52a0\u5de5",
+        "Name_de": "Verarbeiten",
+        "Name_en": "Processing",
+        "Name_fr": "Transformation",
+        "Name_ja": "\u7269\u8cc7\u52a0\u5de5",
+        "Name_ko": "\ubb3c\uc790 \uac00\uacf5"
+    },
+    "77": {
+        "0xID": "4D",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u8d44\u6750\u7ec4\u88c5",
+        "Name_de": "Montieren",
+        "Name_en": "Assembling",
+        "Name_fr": "Assemblage",
+        "Name_ja": "\u8cc7\u6750\u7d44\u7acb",
+        "Name_ko": "\uc790\uc7ac \uc870\ub9bd"
+    },
+    "78": {
+        "0xID": "4E",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u8d44\u6750\u6295\u5165",
+        "Name_de": "Nachlegen",
+        "Name_en": "Feeding",
+        "Name_fr": "Alimentation",
+        "Name_ja": "\u8cc7\u6750\u6295\u5165",
+        "Name_ko": "\uc790\uc7ac \ud22c\uc785"
+    },
+    "79": {
+        "0xID": "4F",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5951\u7ea6",
+        "Name_de": "Vereinigen",
+        "Name_en": "Claiming",
+        "Name_fr": "Passage de pacte",
+        "Name_ja": "\u5951\u7d04",
+        "Name_ko": "\uacc4\uc57d"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "80": {
+        "0xID": "50",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u4e22\u5f03",
+        "Name_de": "Abkippen",
+        "Name_en": "Loading",
+        "Name_fr": "Chargement",
+        "Name_ja": "\u6295\u68c4",
+        "Name_ko": "\ubc84\ub9ac\uae30"
+    },
+    "81": {
+        "0xID": "51",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u7c89\u788e",
+        "Name_de": "Zerkleinern",
+        "Name_en": "Breaking",
+        "Name_fr": "Concassage",
+        "Name_ja": "\u7834\u7815",
+        "Name_ko": "\ud30c\uc1c4"
+    },
+    "82": {
+        "0xID": "52",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6295\u5165",
+        "Name_de": "Sieben",
+        "Name_en": "Mixing",
+        "Name_fr": "M\u00e9langeage",
+        "Name_ja": "\u6295\u5165",
+        "Name_ko": "\ud22c\uc785"
+    },
+    "83": {
+        "0xID": "53",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6e05\u626b",
+        "Name_de": "Auffegen",
+        "Name_en": "Sweeping",
+        "Name_fr": "Balayage",
+        "Name_ja": "\u6e05\u6383",
+        "Name_ko": "\uccad\uc18c"
+    },
+    "84": {
+        "0xID": "54",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u7269\u8d44\u56de\u6536",
+        "Name_de": "Sammeln",
+        "Name_en": "Obtaining",
+        "Name_fr": "Obtention",
+        "Name_ja": "\u7269\u8cc7\u56de\u53ce",
+        "Name_ko": "\ubb3c\uc790 \ud68c\uc218"
+    },
+    "85": {
+        "0xID": "55",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u4fee\u590d",
+        "Name_de": "Pflastern",
+        "Name_en": "Repairing",
+        "Name_fr": "R\u00e9paration",
+        "Name_ja": "\u6574\u5730",
+        "Name_ko": "\ub545\uace0\ub974\uae30"
+    },
+    "86": {
+        "0xID": "56",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u89e6\u78b0\u77f3\u50cf",
+        "Name_de": "Statue ber\u00fchren",
+        "Name_en": "Touching Shrine",
+        "Name_fr": "Toucher la statue",
+        "Name_ja": "\u50cf\u306b\u89e6\u308c\u308b",
+        "Name_ko": "\uc870\uac01\uc0c1 \ub9cc\uc9c0\uae30"
+    },
+    "87": {
+        "0xID": "57",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u65bd\u5de5",
+        "Name_de": "Bauen",
+        "Name_en": "Building",
+        "Name_fr": "Construction",
+        "Name_ja": "\u65bd\u5de5",
+        "Name_ko": "\uc2dc\uacf5"
+    },
+    "88": {
+        "0xID": "58",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u8d44\u6750\u6295\u5165",
+        "Name_de": "Nachlegen",
+        "Name_en": "Feeding",
+        "Name_fr": "D\u00e9coupage",
+        "Name_ja": "\u8cc7\u6750\u6295\u5165",
+        "Name_ko": "\uc790\uc7ac \ud22c\uc785"
+    },
+    "89": {
+        "0xID": "59",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u7269\u8d44\u56de\u6536",
+        "Name_de": "Sammeln",
+        "Name_en": "Obtaining",
+        "Name_fr": "Obtention",
+        "Name_ja": "\u7269\u8cc7\u56de\u53ce",
+        "Name_ko": "\ubb3c\uc790 \ud68c\uc218"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u5b9e\u884c",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u5b9f\u884c",
+        "Name_ko": "\uc2e4\ud589"
+    },
+    "90": {
+        "0xID": "5A",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u7f1d\u5236",
+        "Name_de": "N\u00e4hen",
+        "Name_en": "Sewing",
+        "Name_fr": "Confection",
+        "Name_ja": "\u7e2b\u88fd",
+        "Name_ko": "\ubd09\uc81c"
+    },
+    "91": {
+        "0xID": "5B",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u642c\u8fd0",
+        "Name_de": "Transportieren",
+        "Name_en": "Transporting",
+        "Name_fr": "Transport",
+        "Name_ja": "\u904b\u642c",
+        "Name_ko": "\uc6b4\ubc18"
+    },
+    "92": {
+        "0xID": "5C",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u88c5\u5165",
+        "Name_de": "Aufladen",
+        "Name_en": "Loading",
+        "Name_fr": "Chargement",
+        "Name_ja": "\u7d0d\u5165",
+        "Name_ko": "\uc801\uc7ac"
+    },
+    "93": {
+        "0xID": "5D",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u786e\u8ba4",
+        "Name_de": "Untersuchen",
+        "Name_en": "Examining",
+        "Name_fr": "Ouverture",
+        "Name_ja": "\u78ba\u8a8d",
+        "Name_ko": "\ud655\uc778"
+    },
+    "94": {
+        "0xID": "5E",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u9a91\u4e58",
+        "Name_de": "Besteigen",
+        "Name_en": "Mounting",
+        "Name_fr": "Monte",
+        "Name_ja": "\u9a0e\u4e57",
+        "Name_ko": "\ud0d1\uc2b9"
+    },
+    "95": {
+        "0xID": "5F",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u4ea4\u51fa",
+        "Name_de": "\u00dcberreichen",
+        "Name_en": "Handing Over",
+        "Name_fr": "Distribution",
+        "Name_ja": "\u6e21\u3059",
+        "Name_ko": "\uac74\ub124\uae30"
+    },
+    "96": {
+        "0xID": "60",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u8bbe\u7f6e\u70b8\u836f",
+        "Name_de": "Sprengladung anbringen",
+        "Name_en": "Setting Explosives",
+        "Name_fr": "Pose d'explosif",
+        "Name_ja": "\u7206\u85ac\u3092\u4ed5\u639b\u3051\u308b",
+        "Name_ko": "\ud3ed\uc57d \uc124\uce58"
+    },
+    "97": {
+        "0xID": "61",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u4eab\u7528",
+        "Name_de": "Essen",
+        "Name_en": "Eating",
+        "Name_fr": "Bon app\u00e9tit",
+        "Name_ja": "\u3044\u305f\u3060\u304d\u307e\u3059",
+        "Name_ko": "\uc798 \uba39\uaca0\uc2b5\ub2c8\ub2e4"
+    },
+    "98": {
+        "0xID": "62",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u4eab\u7528",
+        "Name_de": "Essen",
+        "Name_en": "Eating",
+        "Name_fr": "Bon app\u00e9tit",
+        "Name_ja": "\u3044\u305f\u3060\u304d\u307e\u3059",
+        "Name_ko": "\uc798 \uba39\uaca0\uc2b5\ub2c8\ub2e4"
+    },
+    "99": {
+        "0xID": "63",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "\u6ce8\u5165\u71c3\u6599",
+        "Name_de": "Betanken",
+        "Name_en": "Refueling",
+        "Name_fr": "Remplissage de carburant",
+        "Name_ja": "\u71c3\u6599\u6ce8\u5165",
+        "Name_ko": "\uc5f0\ub8cc \uc8fc\uc785"
+    }
+}

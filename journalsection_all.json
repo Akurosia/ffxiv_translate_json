@@ -1,0 +1,92 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "\u4e3b\u7ebf\u4efb\u52a11(\u91cd\u751f/\u82cd\u7a79/\u7ea2\u83b2/\u6697\u5f71)",
+        "Name_de": "Hauptszenario (ARR, HW, SB, ShB)",
+        "Name_en": "Main Scenario (A Realm Reborn through Shadowbringers)",
+        "Name_fr": "\u00c9pop\u00e9e (ARR \u00e0 Shadowbringers)",
+        "Name_ja": "\u30e1\u30a4\u30f3\u30af\u30a8\u30b9\u30c81\uff08\u65b0\u751f\u30fb\u84bc\u5929\u30fb\u7d05\u84ee\u30fb\u6f06\u9ed2\uff09",
+        "Name_ko": "\uc8fc\uc694 \ud018\uc2a4\ud2b8 1(\uc2e0\uc0dd \uc5d0\uc624\ub974\uc81c\uc544~\uce60\ud751\uc758 \ubc18\uc5ed\uc790)"
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u4e3b\u7ebf\u4efb\u52a12(\u6653\u6708\u4e4b\u7ec8\u9014)",
+        "Name_de": "Hauptszenario (Endwalker)",
+        "Name_en": "Main Scenario (Endwalker)",
+        "Name_fr": "\u00c9pop\u00e9e (Endwalker)",
+        "Name_ja": "\u30e1\u30a4\u30f3\u30af\u30a8\u30b9\u30c82\uff08\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff09",
+        "Name_ko": "\uc8fc\uc694 \ud018\uc2a4\ud2b8 2(\ud6a8\uc6d4\uc758 \uc885\uc5b8)"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u7f16\u5e74\u53f2\u4efb\u52a1",
+        "Name_de": "Chroniken der neuen \u00c4ra",
+        "Name_en": "Chronicles of a New Era",
+        "Name_fr": "Chroniques d'une nouvelle \u00e8re",
+        "Name_ja": "\u30af\u30ed\u30cb\u30af\u30eb\u30af\u30a8\u30b9\u30c8",
+        "Name_ko": "\uc5f0\ub300\uae30 \ud018\uc2a4\ud2b8"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u652f\u7ebf\u4efb\u52a1",
+        "Name_de": "Nebenauftr\u00e4ge",
+        "Name_en": "Sidequests",
+        "Name_fr": "Qu\u00eates annexes",
+        "Name_ja": "\u30b5\u30d6\u30af\u30a8\u30b9\u30c8",
+        "Name_ko": "\ubd80\uac00 \ud018\uc2a4\ud2b8"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u53cb\u597d\u90e8\u65cf\u4efb\u52a11(\u91cd\u751f/\u82cd\u7a79/\u7ea2\u83b2/\u6697\u5f71)",
+        "Name_de": "Stammesv\u00f6lker (ARR, HW, SB, ShB)",
+        "Name_en": "Tribal Quests (A Realm Reborn through Shadowbringers)",
+        "Name_fr": "Qu\u00eates tribales (ARR \u00e0 Shadowbringers)",
+        "Name_ja": "\u53cb\u597d\u90e8\u65cf\u30af\u30a8\u30b9\u30c81\uff08\u65b0\u751f\u30fb\u84bc\u5929\u30fb\u7d05\u84ee\u30fb\u6f06\u9ed2\uff09",
+        "Name_ko": "\uc6b0\ud638\ubd80\uc871 \ud018\uc2a4\ud2b8 1(\uc2e0\uc0dd \uc5d0\uc624\ub974\uc81c\uc544~\uce60\ud751\uc758 \ubc18\uc5ed\uc790)"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u53cb\u597d\u90e8\u65cf\u4efb\u52a12(\u6653\u6708\u4e4b\u7ec8\u9014)",
+        "Name_de": "Stammesv\u00f6lker (Endwalker)",
+        "Name_en": "Tribal Quests (Endwalker)",
+        "Name_fr": "Qu\u00eates tribales (Endwalker)",
+        "Name_ja": "\u53cb\u597d\u90e8\u65cf\u30af\u30a8\u30b9\u30c82\uff08\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\uff09",
+        "Name_ko": "\uc6b0\ud638\ubd80\uc871 \ud018\uc2a4\ud2b8 2(\ud6a8\uc6d4\uc758 \uc885\uc5b8)"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u804c\u4e1a\u4efb\u52a1",
+        "Name_de": "Klassen und Jobs",
+        "Name_en": "Class & Job Quests",
+        "Name_fr": "Qu\u00eates de classe/job",
+        "Name_ja": "\u30af\u30e9\u30b9\u30fb\u30b8\u30e7\u30d6",
+        "Name_ko": "\uc9c1\uc5c5 \ud018\uc2a4\ud2b8"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5176\u5b83",
+        "Name_de": "Sonstige",
+        "Name_en": "Other Quests",
+        "Name_fr": "Divers",
+        "Name_ja": "\u305d\u306e\u4ed6",
+        "Name_ko": "\uae30\ud0c0"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u7406\u7b26",
+        "Name_de": "Freibriefe",
+        "Name_en": "Levequests",
+        "Name_fr": "Mandats",
+        "Name_ja": "\u30ea\u30fc\u30f4",
+        "Name_ko": "\uc758\ub8b0"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u526f\u672c\u4efb\u52a1",
+        "Name_de": "Missionen",
+        "Name_en": "Duty",
+        "Name_fr": "Missions",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u95a2\u9023",
+        "Name_ko": "\uc784\ubb34 \uad00\ub828"
+    }
+}

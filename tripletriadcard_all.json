@@ -1,0 +1,3404 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "0",
+        "Name_de": "0",
+        "Name_en": "0",
+        "Name_fr": "0",
+        "Name_ja": "0",
+        "Name_ko": "0"
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u6e21\u6e21\u9e1f",
+        "Name_de": "Dodo",
+        "Name_en": "Dodo",
+        "Name_fr": "dodo",
+        "Name_ja": "\u30c9\u30fc\u30c9\u30fc",
+        "Name_ko": "\ub3c4\ub3c4"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u957f\u987b\u8c79",
+        "Name_de": "Coeurl",
+        "Name_en": "Coeurl",
+        "Name_fr": "coeurl",
+        "Name_ja": "\u30af\u30a1\u30fc\u30eb",
+        "Name_ko": "\ucee4\uc5bc"
+    },
+    "100": {
+        "0xID": "64",
+        "Name_cn": "\u5c18\u4e16\u5e7b\u9f99",
+        "Name_de": "Midgardsormr",
+        "Name_en": "Midgardsormr",
+        "Name_fr": "Midgardsormr",
+        "Name_ja": "\u30df\u30c9\u30ac\u30eb\u30ba\u30aa\u30eb\u30e0",
+        "Name_ko": "\ubbf8\ub4dc\uac00\ub974\ub4dc\uc624\ub984"
+    },
+    "101": {
+        "0xID": "65",
+        "Name_cn": "\u6df1\u77b3",
+        "Name_de": "Glotzauge",
+        "Name_en": "Deepeye",
+        "Name_fr": "oculus",
+        "Name_ja": "\u30c7\u30a3\u30fc\u30d7\u30a2\u30a4",
+        "Name_ko": "\ubcfc\ub85d\ub208"
+    },
+    "102": {
+        "0xID": "66",
+        "Name_cn": "\u53e4\u9e1f",
+        "Name_de": "Archaeornis",
+        "Name_en": "Archaeornis",
+        "Name_fr": "arch\u00e9ornis",
+        "Name_ja": "\u30a2\u30eb\u30b1\u30aa\u30fc\u30cb\u30b9",
+        "Name_ko": "\uc544\ub974\ucf00\uc624\ub2c8\uc2a4"
+    },
+    "103": {
+        "0xID": "67",
+        "Name_cn": "\u7334\u9762\u96c0",
+        "Name_de": "Paissa",
+        "Name_en": "Paissa",
+        "Name_fr": "pa\u00efssa",
+        "Name_ja": "\u30d1\u30a4\u30c3\u30b5",
+        "Name_ko": "\ud30c\uc774\uc2f8"
+    },
+    "104": {
+        "0xID": "68",
+        "Name_cn": "\u957f\u9888\u9a7c",
+        "Name_de": "Dhalmel",
+        "Name_en": "Dhalmel",
+        "Name_fr": "dhalmel",
+        "Name_ja": "\u30c0\u30eb\u30e1\u30eb",
+        "Name_ko": "\ub2ec\uba5c"
+    },
+    "105": {
+        "0xID": "69",
+        "Name_cn": "\u6591\u652b\u517d",
+        "Name_de": "Bandersnatch",
+        "Name_en": "Bandersnatch",
+        "Name_fr": "bandersnatch",
+        "Name_ja": "\u30d0\u30f3\u30c0\u30fc\u30b9\u30ca\u30c3\u30c1",
+        "Name_ko": "\ubc34\ub354\uc2a4\ub0b4\uce58"
+    },
+    "106": {
+        "0xID": "6A",
+        "Name_cn": "\u6bdb\u722c\u866b",
+        "Name_de": "Kriecher",
+        "Name_en": "Crawler",
+        "Name_fr": "chenille",
+        "Name_ja": "\u30af\u30ed\u30a6\u30e9\u30fc",
+        "Name_ko": "\ub204\uc5d0"
+    },
+    "107": {
+        "0xID": "6B",
+        "Name_cn": "\u667a\u86d9",
+        "Name_de": "Poroggo",
+        "Name_en": "Poroggo",
+        "Name_fr": "poroggo",
+        "Name_ja": "\u30dd\u30ed\u30c3\u30b4",
+        "Name_ko": "\ud3ec\ub85d\uace0"
+    },
+    "108": {
+        "0xID": "6C",
+        "Name_cn": "\u7ef4\u5fb7\u4f5b\u5c14\u5c3c\u5c14",
+        "Name_de": "Vedrf\u00f6lnir",
+        "Name_en": "Vedrfolnir",
+        "Name_fr": "Vedrfolnir",
+        "Name_ja": "\u30f4\u30a7\u30ba\u30eb\u30d5\u30a7\u30eb\u30cb\u30eb",
+        "Name_ko": "\ubca0\ub4dc\ub974\ud3f4\ub2c8\ub974"
+    },
+    "109": {
+        "0xID": "6D",
+        "Name_cn": "\u957f\u987b\u8c79\u5973\u738b",
+        "Name_de": "Coeurl-K\u00f6nigin",
+        "Name_en": "Coeurlregina",
+        "Name_fr": "Regina coeurl",
+        "Name_ja": "\u30af\u30a1\u30fc\u30eb\u30ec\u30ae\u30ca",
+        "Name_ko": "\ucee4\uc5bc\ub808\uae30\ub098"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u51a5\u9b3c\u4e4b\u773c",
+        "Name_de": "Ahriman",
+        "Name_en": "Ahriman",
+        "Name_fr": "ahriman",
+        "Name_ja": "\u30a2\u30fc\u30ea\u30de\u30f3",
+        "Name_ko": "\uc544\ub9ac\ub9cc"
+    },
+    "110": {
+        "0xID": "6E",
+        "Name_cn": "\u7206\u5f39\u4e4b\u6bcd",
+        "Name_de": "Progenitrix",
+        "Name_en": "Progenitrix",
+        "Name_fr": "Maman bombo",
+        "Name_ja": "\u30de\u30b6\u30fc\u30dc\u30e0",
+        "Name_ko": "\uc5c4\ub9c8 \ubd04"
+    },
+    "111": {
+        "0xID": "6F",
+        "Name_cn": "\u5267\u6bd2\u7f8e\u4eba",
+        "Name_de": "Belladonna",
+        "Name_en": "Belladonna",
+        "Name_fr": "Belladone",
+        "Name_ja": "\u30d9\u30e9\u30c9\u30f3\u30ca",
+        "Name_ko": "\ubca8\ub77c\ub3c8\ub098"
+    },
+    "112": {
+        "0xID": "70",
+        "Name_cn": "\u827e\u5947\u5fb7\u5a1c",
+        "Name_de": "Echidna",
+        "Name_en": "Echidna",
+        "Name_fr": "Echidna",
+        "Name_ja": "\u30a8\u30ad\u30c9\u30ca",
+        "Name_ko": "\uc5d0\ud0a4\ub4dc\ub098"
+    },
+    "113": {
+        "0xID": "71",
+        "Name_cn": "\u76ae\u5e73\u00b7\u5854\u9c81\u5e73",
+        "Name_de": "Pipin Tarupin",
+        "Name_en": "Pipin Tarupin",
+        "Name_fr": "Pipin Tarupin",
+        "Name_ja": "\u30d4\u30d4\u30f3\u30fb\u30bf\u30eb\u30d4\u30f3",
+        "Name_ko": "\ud53c\ud540 \ud0c0\ub8e8\ud540"
+    },
+    "114": {
+        "0xID": "72",
+        "Name_cn": "\u8331\u8389\u5b89\u00b7\u66fc\u5fb7\u7ef4\u5c14",
+        "Name_de": "Julyan Manderville",
+        "Name_en": "Julyan Manderville",
+        "Name_fr": "Julyan Manderville",
+        "Name_ja": "\u30b8\u30e5\u30ea\u30a2\u30f3\u30fb\u30de\u30f3\u30c0\u30f4\u30a3\u30eb",
+        "Name_ko": "\uc904\ub9ac\uc548 \ub9e8\ub354\ube4c"
+    },
+    "115": {
+        "0xID": "73",
+        "Name_cn": "\u83ab\u53e4\u7075",
+        "Name_de": "Moglin",
+        "Name_en": "Moglin",
+        "Name_fr": "Moglin",
+        "Name_ja": "\u30e2\u30b0\u30ea\u30f3",
+        "Name_ko": "\ubaa8\uadf8\ub9b0"
+    },
+    "116": {
+        "0xID": "74",
+        "Name_cn": "\u6c99\u91cc\u8d1d\u5c14",
+        "Name_de": "Charibert",
+        "Name_en": "Charibert",
+        "Name_fr": "Charibert",
+        "Name_ja": "\u30b7\u30e3\u30ea\u30d9\u30eb",
+        "Name_ko": "\uc0e4\ub9ac\ubca0\ub974"
+    },
+    "117": {
+        "0xID": "75",
+        "Name_cn": "\u6717\u5fb7\u6d1b\u514b\u65af",
+        "Name_de": "Rundblox",
+        "Name_en": "Roundrox",
+        "Name_fr": "Roundrox",
+        "Name_ja": "\u30e9\u30a6\u30f3\u30c9\u30ed\u30af\u30b9",
+        "Name_ko": "\ub77c\uc6b4\ub4dc\ub85d\uc2a4"
+    },
+    "118": {
+        "0xID": "76",
+        "Name_cn": "\u4ed9\u4eba\u523a\u5148\u751f",
+        "Name_de": "Se\u00f1or Kaktor",
+        "Name_en": "Senor Sabotender",
+        "Name_fr": "Se\u00f1or Pampa",
+        "Name_ja": "\u30bb\u30cb\u30e7\u30fc\u30eb\u30fb\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc",
+        "Name_ko": "\uc138\ub1e8\ub974 \uc0ac\ubcf4\ud150\ub354"
+    },
+    "119": {
+        "0xID": "77",
+        "Name_cn": "\u96f7\u53e4\u62c9\u00b7\u8303\u00b7\u4f11\u8457\u65af",
+        "Name_de": "Regula van Hydrus",
+        "Name_en": "Regula van Hydrus",
+        "Name_fr": "Regula van Hydrus",
+        "Name_ja": "\u30ec\u30b0\u30e9\u30fb\u30f4\u30a1\u30f3\u30fb\u30d2\u30e5\u30c9\u30eb\u30b9",
+        "Name_ko": "\ub808\uad74\ub77c \ubc18 \ud788\ub4dc\ub8e8\uc2a4"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u53e4\u83e9\u7329\u7329",
+        "Name_de": "Goobbue",
+        "Name_en": "Goobbue",
+        "Name_fr": "goobbue",
+        "Name_ja": "\u30b0\u30a5\u30fc\u30d6\u30fc",
+        "Name_ko": "\uad6c\ubd80"
+    },
+    "120": {
+        "0xID": "78",
+        "Name_cn": "\u6258\u5c14\u4e39\u4e03\u4e16",
+        "Name_de": "Papst Thordan",
+        "Name_en": "Archbishop Thordan VII",
+        "Name_fr": "Thordan VII",
+        "Name_ja": "\u30c8\u30fc\u30eb\u30c0\u30f37\u4e16",
+        "Name_ko": "\ud1a0\ub974\ub2f9 7\uc138"
+    },
+    "121": {
+        "0xID": "79",
+        "Name_cn": "\u5965\u8bfa\u9c81\u74e6",
+        "Name_de": "Honoroit",
+        "Name_en": "Honoroit",
+        "Name_fr": "Honoroit",
+        "Name_ja": "\u30aa\u30ce\u30ed\u30ef",
+        "Name_ko": "\uc624\ub178\ub8e8\uc544"
+    },
+    "122": {
+        "0xID": "7A",
+        "Name_cn": "\u8d6b\u5229\u00b7\u535a\u5c14\u8fbe&\u5e93\u5c14\u7279\u5185",
+        "Name_de": "Grauer Felsen & Coultenet",
+        "Name_en": "Hoary Boulder & Coultenet",
+        "Name_fr": "Hoary Boulder & Coultenet",
+        "Name_ja": "\u30db\u30fc\u30ea\u30fc\u30fb\u30dc\u30eb\u30c0\u30fc\uff06\u30af\u30eb\u30c8\u30a5\u30cd",
+        "Name_ko": "\ube5b\ubc14\ub79c \ubc14\uc704 & \ucfe8\ud14c\ub124"
+    },
+    "123": {
+        "0xID": "7B",
+        "Name_cn": "\u8155\u9f99",
+        "Name_de": "Brachiosaurus",
+        "Name_en": "Brachiosaur",
+        "Name_fr": "brachiosaure",
+        "Name_ja": "\u30d6\u30e9\u30ad\u30aa\u30ec\u30a4\u30c9\u30b9",
+        "Name_ko": "\ube0c\ub77c\ud0a4\uc624\ub808\uc774\ub3c4\uc2a4"
+    },
+    "124": {
+        "0xID": "7C",
+        "Name_cn": "\u6697\u9cde\u9ed1\u9f99",
+        "Name_de": "Dunkelschuppe",
+        "Name_en": "Darkscale",
+        "Name_fr": "Sombr\u00e9caille",
+        "Name_ja": "\u30c0\u30fc\u30af\u30b9\u30b1\u30fc\u30eb",
+        "Name_ko": "\uac80\uc740\ubbf8\ub298"
+    },
+    "125": {
+        "0xID": "7D",
+        "Name_cn": "\u82ac\u91cc\u5c14",
+        "Name_de": "Fenrir",
+        "Name_en": "Fenrir",
+        "Name_fr": "Fenrir",
+        "Name_ja": "\u30d5\u30a7\u30f3\u30ea\u30eb",
+        "Name_ko": "\ud39c\ub9ac\ub974"
+    },
+    "126": {
+        "0xID": "7E",
+        "Name_cn": "\u514b\u62c9\u80af",
+        "Name_de": "Kraken",
+        "Name_en": "Kraken",
+        "Name_fr": "Kraken",
+        "Name_ja": "\u30af\u30e9\u30fc\u30b1\u30f3",
+        "Name_ko": "\ud06c\ub77c\ucf04"
+    },
+    "127": {
+        "0xID": "7F",
+        "Name_cn": "\u5ba1\u7406\u795e\u4ee3\u8a00\u8005",
+        "Name_de": "Statthalter",
+        "Name_en": "Vicegerent to the Warden",
+        "Name_fr": "adjoint de la Gardienne",
+        "Name_ja": "\u30a2\u30fc\u30bc\u30de\u30f4\u30a1\u30a4\u30b9\u30b8\u30a7\u30ec\u30f3\u30c8",
+        "Name_ko": "\uc544\uc81c\ub9c8 \uad50\ud669"
+    },
+    "128": {
+        "0xID": "80",
+        "Name_cn": "\u5149\u9cde\u5144\u5f1f\u83ab\u62c9\u52a0\u52a0",
+        "Name_de": "Molaa Ja Ja",
+        "Name_en": "Manxome Molaa Ja Ja",
+        "Name_fr": "Molaa Ja Ja",
+        "Name_ja": "\u5149\u9c57\u306e\u30e2\u30e9\u30fc\u30b8\u30e3\u30b8\u30e3",
+        "Name_ko": "\ube5b\ub098\ub294 \ube44\ub298\uc758 \ubab0\ub77c\uc7c8\uc7c8"
+    },
+    "129": {
+        "0xID": "81",
+        "Name_cn": "\u5f17\u8fea\u4e9a",
+        "Name_de": "Ferdiad",
+        "Name_en": "Ferdiad",
+        "Name_fr": "Ferdiad",
+        "Name_ja": "\u30d5\u30a7\u30eb\u30c7\u30a3\u30a2",
+        "Name_ko": "\ud398\ub974\ub514\uc544"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u9646\u884c\u9e1f",
+        "Name_de": "Chocobo",
+        "Name_en": "Chocobo",
+        "Name_fr": "chocobo",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc",
+        "Name_ko": "\ucd08\ucf54\ubcf4"
+    },
+    "130": {
+        "0xID": "82",
+        "Name_cn": "\u5361\u5c14\u514b\u5e03\u8389\u5a1c",
+        "Name_de": "Calcobrina",
+        "Name_en": "Calcabrina",
+        "Name_fr": "Calcabrina",
+        "Name_ja": "\u30ab\u30eb\u30b3\u30d6\u30ea\u30fc\u30ca",
+        "Name_ko": "\uce7c\uce74\ube0c\ub9ac\ub098"
+    },
+    "131": {
+        "0xID": "83",
+        "Name_cn": "\u57fa\u8def\u4f2f",
+        "Name_de": "Kuribu",
+        "Name_en": "Kuribu",
+        "Name_fr": "Kuribu",
+        "Name_ja": "\u30af\u30ea\u30d6",
+        "Name_ko": "\ucfe0\ub9ac\ubd80"
+    },
+    "132": {
+        "0xID": "84",
+        "Name_cn": "\u63d0\u5766",
+        "Name_de": "Phlegethon",
+        "Name_en": "Phlegethon",
+        "Name_fr": "Phl\u00e9g\u00e9thon",
+        "Name_ja": "\u30c6\u30a3\u30bf\u30fc\u30f3",
+        "Name_ko": "\ud2f0\ud0c4"
+    },
+    "133": {
+        "0xID": "85",
+        "Name_cn": "\u963f\u56fe\u74e6\u96f7\u5c14\u00b7\u5fb7\u00b7\u798f\u5c14\u5510",
+        "Name_de": "Artoirel",
+        "Name_en": "Artoirel de Fortemps",
+        "Name_fr": "Artoirel",
+        "Name_ja": "\u30a2\u30eb\u30c8\u30a2\u30ec\u30fc\u30eb\u30fb\u30c9\u30fb\u30d5\u30a9\u30eb\u30bf\u30f3",
+        "Name_ko": "\uc544\ub974\ud22c\uc544\ub810 \ub4dc \ud3ec\ub974\ud0d5"
+    },
+    "134": {
+        "0xID": "86",
+        "Name_cn": "\u57c3\u9a6c\u5185\u5170\u00b7\u5fb7\u00b7\u798f\u5c14\u5510",
+        "Name_de": "Emmanellain",
+        "Name_en": "Emmanellain de Fortemps",
+        "Name_fr": "Emmanellain",
+        "Name_ja": "\u30a8\u30de\u30cd\u30e9\u30f3\u30fb\u30c9\u30fb\u30d5\u30a9\u30eb\u30bf\u30f3",
+        "Name_ko": "\uc5d0\ub9c8\ub12c\ub7ad \ub4dc \ud3ec\ub974\ud0d5"
+    },
+    "135": {
+        "0xID": "87",
+        "Name_cn": "\u8d5e\u5fb7",
+        "Name_de": "Xande",
+        "Name_en": "Xande",
+        "Name_fr": "Xande",
+        "Name_ja": "\u30b6\u30f3\u30c7",
+        "Name_ko": "\uc794\ub370"
+    },
+    "136": {
+        "0xID": "88",
+        "Name_cn": "\u6b8b\u66b4\u6b63\u4e49\u53f7",
+        "Name_de": "Brutalus",
+        "Name_en": "Brute Justice",
+        "Name_fr": "Justicier",
+        "Name_ja": "\u30d6\u30eb\u30fc\u30c8\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9",
+        "Name_ko": "\ud3ec\uc545\ud55c \uc2ec\ud310\uc790"
+    },
+    "137": {
+        "0xID": "89",
+        "Name_cn": "\u8428\u83f2\u6d1b\u7279",
+        "Name_de": "Sephirot",
+        "Name_en": "Sephirot",
+        "Name_fr": "Sephirot",
+        "Name_ja": "\u30bb\u30d5\u30a3\u30ed\u30c8",
+        "Name_ko": "\uc138\ud53c\ub85c\ud2b8"
+    },
+    "138": {
+        "0xID": "8A",
+        "Name_cn": "\u8299\u00b7\u62c9\u654f",
+        "Name_de": "F'lhaminn",
+        "Name_en": "F'lhaminn",
+        "Name_fr": "F'lhaminn",
+        "Name_ja": "\u30d5\u30fb\u30e9\u30df\u30f3",
+        "Name_ko": "\ud504\ub77c\ubbfc"
+    },
+    "139": {
+        "0xID": "8B",
+        "Name_cn": "\u7ef4\u5fb7\u5f17\u5c3c\u5c14",
+        "Name_de": "Vidofnir",
+        "Name_en": "Vidofnir",
+        "Name_fr": "Vidofnir",
+        "Name_ja": "\u30f4\u30a3\u30be\u30fc\u30f4\u30cb\u30eb",
+        "Name_ko": "\ube44\ub3c4\ud504\ub2c8\ub974"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u8725\u8734\u4eba",
+        "Name_de": "Amalj'aa",
+        "Name_en": "Amalj'aa",
+        "Name_fr": "Amalj'aa",
+        "Name_ja": "\u30a2\u30de\u30eb\u30b8\u30e3",
+        "Name_ko": "\uc544\ub9d0\uc7c8"
+    },
+    "140": {
+        "0xID": "8C",
+        "Name_cn": "\u6697\u9ed1\u4e4b\u4e91",
+        "Name_de": "Wolke der Dunkelheit",
+        "Name_en": "Cloud of Darkness",
+        "Name_fr": "Nuage de T\u00e9n\u00e8bres",
+        "Name_ja": "\u6697\u95c7\u306e\u96f2",
+        "Name_ko": "\uc5b4\ub460\uc758 \uad6c\ub984"
+    },
+    "141": {
+        "0xID": "8D",
+        "Name_cn": "\u7f57\u7f57\u529b\u7279\u00b7\u7eb3\u7eb3\u529b\u7279",
+        "Name_de": "Lolorito Nanarito",
+        "Name_en": "Lolorito Nanarito",
+        "Name_fr": "Lolorito Nanarito",
+        "Name_ja": "\u30ed\u30ed\u30ea\u30c8\u30fb\u30ca\u30ca\u30ea\u30c8",
+        "Name_ko": "\ub85c\ub85c\ub9ac\ud1a0 \ub098\ub098\ub9ac\ud1a0"
+    },
+    "142": {
+        "0xID": "8E",
+        "Name_cn": "\u5409\u5e03\u91cc\u9686",
+        "Name_de": "Gibrillont",
+        "Name_en": "Gibrillont",
+        "Name_fr": "Gibrillont",
+        "Name_ja": "\u30b8\u30d6\u30ea\u30aa\u30f3",
+        "Name_ko": "\uc9c0\ube0c\ub9ac\uc639"
+    },
+    "143": {
+        "0xID": "8F",
+        "Name_cn": "\u62c9\u59ae\u827e\u7279\u00b7\u5fb7\u00b7\u827e\u56e0\u54c8\u7279",
+        "Name_de": "Laniaitte de Haillenarte",
+        "Name_en": "Laniaitte de Haillenarte",
+        "Name_fr": "Laniaitte de Haillenarte",
+        "Name_ja": "\u30e9\u30cb\u30a8\u30c3\u30c8\u30fb\u30c9\u30fb\u30a2\u30a4\u30f3\u30cf\u30eb\u30c8",
+        "Name_ko": "\ub77c\ub2c8\uc5d0\ud2b8 \ub4dc \uc544\uc720\ub098\ub974\ud2b8"
+    },
+    "144": {
+        "0xID": "90",
+        "Name_cn": "\u7f57\u4e1d\u6e29",
+        "Name_de": "Rhoswen",
+        "Name_en": "Rhoswen",
+        "Name_fr": "Rhoswen",
+        "Name_ja": "\u30ed\u30fc\u30ba\u30a6\u30a7\u30f3",
+        "Name_ko": "\ub85c\uc988\uc6ec"
+    },
+    "145": {
+        "0xID": "91",
+        "Name_cn": "\u5361\u5c14\u74e6\u5170\u00b7\u5fb7\u00b7\u6208\u5c14\u52a0\u6d85",
+        "Name_de": "Carvallain de Gorgagne",
+        "Name_en": "Carvallain de Gorgagne",
+        "Name_fr": "Carvallain de Gorgagne",
+        "Name_ja": "\u30ab\u30eb\u30f4\u30a1\u30e9\u30f3\u30fb\u30c9\u30fb\u30b4\u30eb\u30ac\u30cb\u30e5",
+        "Name_ko": "\uce74\ub974\ubc1c\ub7ad \ub4dc \uace0\ub974\uac00\ub274"
+    },
+    "146": {
+        "0xID": "92",
+        "Name_cn": "\u5361\u5c14\u00b7\u7c73\u514b",
+        "Name_de": "Kal Myhk",
+        "Name_en": "Kal Myhk",
+        "Name_fr": "Kal Myhk",
+        "Name_ja": "\u30ab\u30eb\u30fb\u30df\u30fc\u30af",
+        "Name_ko": "\uce7c \ubbf8\ud06c"
+    },
+    "147": {
+        "0xID": "93",
+        "Name_cn": "\u62db\u96f7\u5de8\u86c7",
+        "Name_de": "Waukkeon",
+        "Name_en": "Waukkeon",
+        "Name_fr": "waukkeon",
+        "Name_ja": "\u30ef\u30a6\u30c3\u30b1\u30aa\u30f3",
+        "Name_ko": "\uc640\uc6b0\ucf00\uc628"
+    },
+    "148": {
+        "0xID": "94",
+        "Name_cn": "\u535a\u7269\u603b\u7ba1",
+        "Name_de": "Kurator",
+        "Name_en": "Curator",
+        "Name_fr": "Conservateur",
+        "Name_ja": "\u30ad\u30e5\u30ec\u30fc\u30bf\u30fc",
+        "Name_ko": "\uc804\uc2dc \ucc45\uc784\uc790"
+    },
+    "149": {
+        "0xID": "95",
+        "Name_cn": "\u5927\u6d77\u76d7\u96fe\u987b\u738b",
+        "Name_de": "Rauschebart",
+        "Name_en": "Mistbeard",
+        "Name_fr": "Barbe-Brume",
+        "Name_ja": "\u9727\u9aed",
+        "Name_ko": "\uc548\uac1c\uc218\uc5fc"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u9e1f\u4eba",
+        "Name_de": "Ixal",
+        "Name_en": "Ixal",
+        "Name_fr": "Ixal",
+        "Name_ja": "\u30a4\u30af\u30b5\u30eb",
+        "Name_ko": "\uc774\ud06c\uc0b4"
+    },
+    "150": {
+        "0xID": "96",
+        "Name_cn": "\u4e4c\u5185&\u591a\u52a0",
+        "Name_de": "Unei & Doga",
+        "Name_en": "Unei & Doga",
+        "Name_fr": "Un\u00e9i & Doga",
+        "Name_ja": "\u30a6\u30cd\uff06\u30c9\u30fc\u30ac",
+        "Name_ko": "\uc6b0\ub124 & \ub3c4\uac00"
+    },
+    "151": {
+        "0xID": "97",
+        "Name_cn": "\u63d0\u4e9a\u9a6c\u7279",
+        "Name_de": "Tiamat",
+        "Name_en": "Tiamat",
+        "Name_fr": "Tiamat",
+        "Name_ja": "\u30c6\u30a3\u30a2\u30de\u30c3\u30c8",
+        "Name_ko": "\ud2f0\uc544\ub9c8\ud2b8"
+    },
+    "152": {
+        "0xID": "98",
+        "Name_cn": "\u5361\u6d1b\u83f2\u65af\u63d0\u8389",
+        "Name_de": "Calofisteri",
+        "Name_en": "Calofisteri",
+        "Name_fr": "Calofisteri",
+        "Name_ja": "\u30ab\u30ed\u30d5\u30a3\u30b9\u30c6\u30ea",
+        "Name_ko": "\uce7c\ub85c\ud53c\uc2a4\ud14c\ub9ac"
+    },
+    "153": {
+        "0xID": "99",
+        "Name_cn": "\u8d6b\u62c9\u65af\u74e6\u5c14\u683c",
+        "Name_de": "Hraesvelgr",
+        "Name_en": "Hraesvelgr",
+        "Name_fr": "Hraesvelgr",
+        "Name_ja": "\u30d5\u30ec\u30fc\u30b9\u30f4\u30a7\u30eb\u30b0",
+        "Name_ko": "\ud750\ub808\uc2a4\ubca8\uadf8"
+    },
+    "154": {
+        "0xID": "9A",
+        "Name_cn": "\u78a7\u4f01\u9e45",
+        "Name_de": "Apkallu",
+        "Name_en": "Apkallu",
+        "Name_fr": "apkallu",
+        "Name_ja": "\u30a2\u30d7\u30ab\u30eb",
+        "Name_ko": "\uc544\ud504\uce7c\ub8e8"
+    },
+    "155": {
+        "0xID": "9B",
+        "Name_cn": "\u8702\u9e1f",
+        "Name_de": "Kolibri",
+        "Name_en": "Colibri",
+        "Name_fr": "colibri",
+        "Name_ja": "\u30b3\u30ea\u30d6\u30ea",
+        "Name_ko": "\ucf5c\ub9ac\ube0c\ub9ac"
+    },
+    "156": {
+        "0xID": "9C",
+        "Name_cn": "\u9b54\u5bfc\u6b7b\u4ea1\u722a",
+        "Name_de": "Magitek-Todesklaue",
+        "Name_en": "Magitek Death Claw",
+        "Name_fr": "griffe de mort magitek",
+        "Name_ja": "\u9b54\u5c0e\u30c7\u30b9\u30af\u30ed\u30fc",
+        "Name_ko": "\ub9c8\ub3c4 \uc8fd\uc74c\uc190\uc544\uadc0"
+    },
+    "157": {
+        "0xID": "9D",
+        "Name_cn": "\u6db2\u6001\u706b\u7130",
+        "Name_de": "Fl\u00fcssige Flamme",
+        "Name_en": "Liquid Flame",
+        "Name_fr": "flamme liquide",
+        "Name_ja": "\u30ea\u30af\u30a4\u30c9\u30d5\u30ec\u30a4\u30e0",
+        "Name_ko": "\uc561\uccb4 \ubd88\uaf43"
+    },
+    "158": {
+        "0xID": "9E",
+        "Name_cn": "\u8ff7\u9014\u7f8a\u7f94",
+        "Name_de": "Schaf",
+        "Name_en": "Lost Lamb",
+        "Name_fr": "agneau \u00e9gar\u00e9",
+        "Name_ja": "\u30b7\u30fc\u30d7",
+        "Name_ko": "\uc591"
+    },
+    "159": {
+        "0xID": "9F",
+        "Name_cn": "\u90ae\u5dee\u83ab\u53e4\u529b",
+        "Name_de": "Mogry-Postbote",
+        "Name_en": "Delivery Moogle",
+        "Name_fr": "Mog postier",
+        "Name_ja": "\u30ec\u30bf\u30fc\u30e2\u30fc\u30b0\u30ea",
+        "Name_ko": "\ubc30\ub2ec\ubd80 \ubaa8\uadf8\ub9ac"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u574f\u5996\u7cbe",
+        "Name_de": "Sylphe",
+        "Name_en": "Sylph",
+        "Name_fr": "Sylphe",
+        "Name_ja": "\u60aa\u3044\u5b50\u30b7\u30eb\u30d5",
+        "Name_ko": "\ub9d0\uc37d\uc7c1\uc774 \uc2e4\ud504"
+    },
+    "160": {
+        "0xID": "A0",
+        "Name_cn": "\u9b54\u5bfc\u5de8\u5175",
+        "Name_de": "Magitek-Colossus",
+        "Name_en": "Magitek Colossus",
+        "Name_fr": "colosse magitek",
+        "Name_ja": "\u9b54\u5c0e\u30b3\u30ed\u30c3\u30b5\u30b9",
+        "Name_ko": "\ub9c8\ub3c4 \ucf5c\ub85c\uc11c\uc2a4"
+    },
+    "161": {
+        "0xID": "A1",
+        "Name_cn": "\u535a\u5b66\u6797\u9e2e",
+        "Name_de": "Strix",
+        "Name_en": "Strix",
+        "Name_fr": "Strix",
+        "Name_ja": "\u30b9\u30c8\u30ea\u30c3\u30af\u30b9",
+        "Name_ko": "\uc2a4\ud2b8\ub9ad\uc2a4"
+    },
+    "162": {
+        "0xID": "A2",
+        "Name_cn": "\u6674\u5929\u9739\u96f3\u6258\u4f50\u5c14\u00b7\u6cd5\u6258\u7279\u5c14",
+        "Name_de": "Tozol Huatotl",
+        "Name_en": "Tozol Huatotl",
+        "Name_fr": "Tozol Huatotl",
+        "Name_ja": "\u6674\u5d50\u306e\u30c8\u30be\u30eb\u30fb\u30d5\u30a1\u30c8\u30c8\u30eb",
+        "Name_ko": "\uccad\ud48d\uc758 \ud1a0\uc878 \ud6c4\uc544\ud1a0\ud2c0"
+    },
+    "163": {
+        "0xID": "A3",
+        "Name_cn": "\u81f3\u5c0a\u4e9a\u5386\u5c71\u5927",
+        "Name_de": "Prim-Alexander",
+        "Name_en": "Alexander Prime",
+        "Name_fr": "Primo-Alexander",
+        "Name_ja": "\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\u30fb\u30d7\u30e9\u30a4\u30e0",
+        "Name_ko": "\uc54c\ub809\uc0b0\ub354 \ud504\ub77c\uc784"
+    },
+    "164": {
+        "0xID": "A4",
+        "Name_cn": "\u76f4\u723d\u7684\u4e09\u5144\u5f1f",
+        "Name_de": "Brendt, Brennan & Bremondt",
+        "Name_en": "Brendt, Brennan, & Bremondt",
+        "Name_fr": "Brendt, Brennan & Bremondt",
+        "Name_ja": "\u6c17\u3055\u304f\u306a\u4e09\u5144\u5f1f",
+        "Name_ko": "\ub109\uc0b4 \uc88b\uc740 \uc0bc\ud615\uc81c"
+    },
+    "165": {
+        "0xID": "A5",
+        "Name_cn": "\u6851\u514b\u745e\u5fb7\uff08\u82cd\u7a79\uff09",
+        "Name_de": "Thancred (Heavensward)",
+        "Name_en": "Heavensward Thancred",
+        "Name_fr": "Thancred (Heavensward)",
+        "Name_ja": "\u30b5\u30f3\u30af\u30ec\u30c3\u30c9\uff08\u84bc\u5929\uff09",
+        "Name_ko": "\uc0b0\ud06c\ub808\ub4dc(\ucc3d\ucc9c\uc758 \uc774\uc288\uac00\ub974\ub4dc)"
+    },
+    "166": {
+        "0xID": "A6",
+        "Name_cn": "\u96c5\u00b7\u4fee\u7279\u62c9\uff08\u82cd\u7a79\uff09",
+        "Name_de": "Y'shtola (Heavensward)",
+        "Name_en": "Heavensward Y'shtola",
+        "Name_fr": "Y'shtola (Heavensward)",
+        "Name_ja": "\u30e4\u30fb\u30b7\u30e5\u30c8\u30e9\uff08\u84bc\u5929\uff09",
+        "Name_ko": "\uc57c\uc288\ud1a8\ub77c(\ucc3d\ucc9c\uc758 \uc774\uc288\uac00\ub974\ub4dc)"
+    },
+    "167": {
+        "0xID": "A7",
+        "Name_cn": "\u5948\u5c14\u00b7\u8303\u00b7\u8fbe\u7eb3\u65af",
+        "Name_de": "Nael van Darnus",
+        "Name_en": "Nael van Darnus",
+        "Name_fr": "Nael van Darnus",
+        "Name_ja": "\u30cd\u30fc\u30eb\u30fb\u30f4\u30a1\u30f3\u30fb\u30c0\u30fc\u30ca\u30b9",
+        "Name_ko": "\ub12c \ubc18 \ub2e4\ub974\ub204\uc2a4"
+    },
+    "168": {
+        "0xID": "A8",
+        "Name_cn": "\u7d22\u83f2\u5a05",
+        "Name_de": "Sophia",
+        "Name_en": "Sophia",
+        "Name_fr": "Sophia",
+        "Name_ja": "\u30bd\u30d5\u30a3\u30a2",
+        "Name_ko": "\uc18c\ud53c\uc544"
+    },
+    "169": {
+        "0xID": "A9",
+        "Name_cn": "\u5965\u7334",
+        "Name_de": "Opo-Opo",
+        "Name_en": "Opo-opo",
+        "Name_fr": "opo-opo",
+        "Name_ja": "\u30aa\u30dd\u30aa\u30dd",
+        "Name_ko": "\uc624\ud3ec\uc624\ud3ec"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u5730\u7075",
+        "Name_de": "Kobold",
+        "Name_en": "Kobold",
+        "Name_fr": "Kobold",
+        "Name_ja": "\u30b3\u30dc\u30eb\u30c9",
+        "Name_ko": "\ucf54\ubcfc\ub4dc"
+    },
+    "170": {
+        "0xID": "AA",
+        "Name_cn": "\u7cbe\u91d1\u9f9f",
+        "Name_de": "Adaman-Taimai",
+        "Name_en": "Adamantoise",
+        "Name_fr": "adamankh\u00e9lone",
+        "Name_ja": "\u30a2\u30c0\u30de\u30f3\u30bf\u30b9",
+        "Name_ko": "\uae08\uac15\uac70\ubd81"
+    },
+    "171": {
+        "0xID": "AB",
+        "Name_cn": "\u9b54\u5bfc\u5148\u950b",
+        "Name_de": "Magitek-Frontbrecher",
+        "Name_en": "Magitek Vanguard",
+        "Name_fr": "avant-garde magitek",
+        "Name_ja": "\u9b54\u5c0e\u30f4\u30a1\u30f3\u30ac\u30fc\u30c9",
+        "Name_ko": "\ub9c8\ub3c4 \ubc45\uac00\ub4dc"
+    },
+    "172": {
+        "0xID": "AC",
+        "Name_cn": "\u9b54\u5bfc\u70ae\u8247",
+        "Name_de": "Magitek-Kanonenschiff",
+        "Name_en": "Magitek Gunship",
+        "Name_fr": "vaisseau magitek",
+        "Name_ja": "\u9b54\u5c0e\u30ac\u30f3\u30b7\u30c3\u30d7",
+        "Name_ko": "\ub9c8\ub3c4 \uac74\uc2ed"
+    },
+    "173": {
+        "0xID": "AD",
+        "Name_cn": "\u5154\u5973\u90ce",
+        "Name_de": "Goldh\u00e4schen",
+        "Name_en": "Gold Saucer Attendant",
+        "Name_fr": "Abbelina",
+        "Name_ja": "\u30d0\u30cb\u30fc",
+        "Name_ko": "\ud1a0\ub07c \uc18c\ub140"
+    },
+    "174": {
+        "0xID": "AE",
+        "Name_cn": "\u7194\u5ca9\u874e",
+        "Name_de": "Lavaskorpion",
+        "Name_en": "Lava Scorpion",
+        "Name_fr": "scorpion de lave",
+        "Name_ja": "\u30e9\u30fc\u30f4\u30a1\u30b9\u30b3\u30fc\u30d4\u30aa\u30f3",
+        "Name_ko": "\uc6a9\uc554 \uc804\uac08"
+    },
+    "175": {
+        "0xID": "AF",
+        "Name_cn": "\u9b54\u5bfc\u730e\u624b",
+        "Name_de": "Magitek-Pr\u00e4dator",
+        "Name_en": "Magitek Predator",
+        "Name_fr": "pr\u00e9dateur magitek",
+        "Name_ja": "\u9b54\u5c0e\u30d7\u30ec\u30c7\u30bf\u30fc",
+        "Name_ko": "\ub9c8\ub3c4 \ud504\ub808\ub370\ud130"
+    },
+    "176": {
+        "0xID": "B0",
+        "Name_cn": "\u9b54\u5bfc\u6d6e\u7a7a\u88c5\u7532",
+        "Name_de": "Magitek-Himmelspanzer",
+        "Name_en": "Magitek Sky Armor",
+        "Name_fr": "armure a\u00e9rienne magitek",
+        "Name_ja": "\u9b54\u5c0e\u30b9\u30ab\u30a4\u30a2\u30fc\u30de\u30fc",
+        "Name_ko": "\ub9c8\ub3c4 \uc2a4\uce74\uc774\uc544\uba38"
+    },
+    "177": {
+        "0xID": "B1",
+        "Name_cn": "\u94c1\u9762\u516c\u537f",
+        "Name_de": "Der Greif",
+        "Name_en": "The Griffin",
+        "Name_fr": "Le Griffon",
+        "Name_ja": "\u9244\u4eee\u9762",
+        "Name_ko": "\ucca0\uac00\uba74"
+    },
+    "178": {
+        "0xID": "B2",
+        "Name_cn": "\u7f57\u5170\u5fb7",
+        "Name_de": "Roland",
+        "Name_en": "Roland",
+        "Name_fr": "Roland",
+        "Name_ja": "\u30ed\u30fc\u30e9\u30f3\u30c9",
+        "Name_ko": "\ub864\ub79c\ub4dc"
+    },
+    "179": {
+        "0xID": "B3",
+        "Name_cn": "\u865a\u7a7a\u8fea\u4e9a\u6ce2\u7f57\u65af",
+        "Name_de": "Nihil-Diabolos",
+        "Name_en": "Diabolos Hollow",
+        "Name_fr": "Diabolos nihil",
+        "Name_ja": "\u30c7\u30a3\u30a2\u30dc\u30ed\u30b9\u30fb\u30db\u30ed\u30fc",
+        "Name_ko": "\uacf5\ud5c8\uc758 \ub514\uc544\ubcfc\ub85c\uc2a4"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u9c7c\u4eba",
+        "Name_de": "Sahagin",
+        "Name_en": "Sahagin",
+        "Name_fr": "Sahuagin",
+        "Name_ja": "\u30b5\u30cf\u30ae\u30f3",
+        "Name_ko": "\uc0ac\ud558\uae34"
+    },
+    "180": {
+        "0xID": "B4",
+        "Name_cn": "\u6b66\u88c5\u91cd\u7532",
+        "Name_de": "Panzerwaffe",
+        "Name_en": "Armored Weapon",
+        "Name_fr": "arme blind\u00e9e",
+        "Name_ja": "\u30a2\u30fc\u30e0\u30c9\u30a6\u30a7\u30dd\u30f3",
+        "Name_ko": "\ubb34\uc7a5 \ubcd1\uae30"
+    },
+    "181": {
+        "0xID": "B5",
+        "Name_cn": "\u5409\u5409",
+        "Name_de": "Gigi",
+        "Name_en": "Gigi",
+        "Name_fr": "Gigi",
+        "Name_ja": "\u30ae\u30ae",
+        "Name_ko": "\uae30\uae30"
+    },
+    "182": {
+        "0xID": "B6",
+        "Name_cn": "\u7956\u5c14\u5b9b",
+        "Name_de": "Zurvan",
+        "Name_en": "Zurvan",
+        "Name_fr": "Zurvan",
+        "Name_ja": "\u30ba\u30eb\u30ef\u30fc\u30f3",
+        "Name_ko": "\uc8fc\ub974\ubc18"
+    },
+    "183": {
+        "0xID": "B7",
+        "Name_cn": "\u9cb6\u9c7c\u7cbe",
+        "Name_de": "Namazuo",
+        "Name_en": "Namazu",
+        "Name_fr": "Namazu",
+        "Name_ja": "\u30ca\u30de\u30ba\u30aa",
+        "Name_ko": "\ub098\ub9c8\uc988\uc624"
+    },
+    "184": {
+        "0xID": "B8",
+        "Name_cn": "\u7532\u4eba",
+        "Name_de": "Kojin",
+        "Name_en": "Kojin",
+        "Name_fr": "Kojin",
+        "Name_ja": "\u30b3\u30a6\u30b8\u30f3",
+        "Name_ko": "\ucf54\uc6b0\uc9c4"
+    },
+    "185": {
+        "0xID": "B9",
+        "Name_cn": "\u963f\u96be\u9640\u65cf",
+        "Name_de": "Ananta",
+        "Name_en": "Ananta",
+        "Name_fr": "Ananta",
+        "Name_ja": "\u30a2\u30ca\u30f3\u30bf",
+        "Name_ko": "\uc544\ub09c\ud0c0"
+    },
+    "186": {
+        "0xID": "BA",
+        "Name_cn": "\u6885\u00b7\u5a1c\u683c",
+        "Name_de": "M'naago",
+        "Name_en": "M'naago",
+        "Name_fr": "M'naago",
+        "Name_ja": "\u30e1\u30fb\u30ca\u30fc\u30b4",
+        "Name_ko": "\uba54\ub098\uace0"
+    },
+    "187": {
+        "0xID": "BB",
+        "Name_cn": "\u7434\u98ce",
+        "Name_de": "Kotokaze",
+        "Name_en": "Kotokaze",
+        "Name_fr": "Kotokaze",
+        "Name_ja": "\u30b3\u30c8\u30ab\u30bc",
+        "Name_ko": "\ucf54\ud1a0\uce74\uc81c"
+    },
+    "188": {
+        "0xID": "BC",
+        "Name_cn": "\u957f\u6bdb\u8c61",
+        "Name_de": "Mammut",
+        "Name_en": "Mammoth",
+        "Name_fr": "mammouth",
+        "Name_ja": "\u30de\u30f3\u30e2\u30b9",
+        "Name_ko": "\ub9e4\uba38\ub4dc"
+    },
+    "189": {
+        "0xID": "BD",
+        "Name_cn": "\u5f17\u5df4\u5fb7",
+        "Name_de": "Phoebad",
+        "Name_en": "Phoebad",
+        "Name_fr": "phoebad",
+        "Name_ja": "\u30d5\u30a9\u30fc\u30d0\u30c3\u30c9",
+        "Name_ko": "\ud3ec\ubc30\ub4dc"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u5854\u5854\u9732\u00b7\u5854\u9732",
+        "Name_de": "Tataru",
+        "Name_en": "Tataru Taru",
+        "Name_fr": "Tataru",
+        "Name_ja": "\u30bf\u30bf\u30eb\u30fb\u30bf\u30eb",
+        "Name_ko": "\ud0c0\ud0c0\ub8e8 \ud0c0\ub8e8"
+    },
+    "190": {
+        "0xID": "BE",
+        "Name_cn": "\u987b\u4f50\u4e4b\u7537",
+        "Name_de": "Susano",
+        "Name_en": "Susano",
+        "Name_fr": "Susano",
+        "Name_ja": "\u30b9\u30b5\u30ce\u30aa",
+        "Name_ko": "\uc2a4\uc0ac\ub178\uc624"
+    },
+    "191": {
+        "0xID": "BF",
+        "Name_cn": "\u5409\u7965\u5929\u5973",
+        "Name_de": "Lakshmi",
+        "Name_en": "Lakshmi",
+        "Name_fr": "Lakshmi",
+        "Name_ja": "\u30e9\u30af\u30b7\u30e5\u30df",
+        "Name_ko": "\ub77d\uc288\ubbf8"
+    },
+    "192": {
+        "0xID": "C0",
+        "Name_cn": "\u683c\u6797\u74e6\u7279",
+        "Name_de": "Grynewaht",
+        "Name_en": "Grynewaht",
+        "Name_fr": "Grynewaht",
+        "Name_ja": "\u30b0\u30ea\u30fc\u30f3\u30ef\u30fc\u30c8",
+        "Name_ko": "\uadf8\ub940\ubc14\ud2b8"
+    },
+    "193": {
+        "0xID": "C1",
+        "Name_cn": "\u7f57\u751f",
+        "Name_de": "Rasho",
+        "Name_en": "Rasho",
+        "Name_fr": "Rasho",
+        "Name_ja": "\u30e9\u30b7\u30e7\u30a6",
+        "Name_ko": "\ub77c\uc1fc"
+    },
+    "194": {
+        "0xID": "C2",
+        "Name_cn": "\u5176\u65e5\u5a1c",
+        "Name_de": "Cirina",
+        "Name_en": "Cirina",
+        "Name_fr": "Cirina",
+        "Name_ja": "\u30b7\u30ea\u30ca",
+        "Name_ko": "\uc2dc\ub9ac\ub098"
+    },
+    "195": {
+        "0xID": "C3",
+        "Name_cn": "\u739b\u683c\u5948",
+        "Name_de": "Magnai",
+        "Name_en": "Magnai",
+        "Name_fr": "Magnai",
+        "Name_ja": "\u30de\u30b0\u30ca\u30a4",
+        "Name_ko": "\ub9c8\uadf8\ub098\uc774"
+    },
+    "196": {
+        "0xID": "C4",
+        "Name_cn": "\u7eb1\u90fd",
+        "Name_de": "Sadu",
+        "Name_en": "Sadu",
+        "Name_fr": "Sadu",
+        "Name_ja": "\u30b5\u30c9\u30a5",
+        "Name_ko": "\uc0ac\ub450"
+    },
+    "197": {
+        "0xID": "C5",
+        "Name_cn": "\u795e\u9f99",
+        "Name_de": "Shinryu",
+        "Name_en": "Shinryu",
+        "Name_fr": "Shinryu",
+        "Name_ja": "\u795e\u9f8d",
+        "Name_ko": "\uc2e0\ub8e1"
+    },
+    "198": {
+        "0xID": "C6",
+        "Name_cn": "\u591c\u9732",
+        "Name_de": "Yotsuyu",
+        "Name_en": "Yotsuyu",
+        "Name_fr": "Yotsuyu",
+        "Name_ja": "\u30e8\u30c4\u30e6",
+        "Name_ko": "\uc694\uce20\uc720"
+    },
+    "199": {
+        "0xID": "C7",
+        "Name_cn": "\u53ef\u9732\u513f\u00b7\u5df4\u5c14\u5fb7\u897f\u6602",
+        "Name_de": "Krile",
+        "Name_en": "Krile",
+        "Name_fr": "Krile Baldesion",
+        "Name_ja": "\u30af\u30eb\u30eb\u30fb\u30d0\u30eb\u30c7\u30b7\u30aa\u30f3",
+        "Name_ko": "\ucfe0\ub8e8\ub8e8 \ubc1c\ub370\uc2dc\uc628"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u51ac\u8d1d\u5229",
+        "Name_de": "Tomberry",
+        "Name_en": "Tonberry",
+        "Name_fr": "tomberry",
+        "Name_ja": "\u30c8\u30f3\u30d9\u30ea",
+        "Name_ko": "\ud1a4\ubca0\ub9ac"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u83ab\u53e4\u529b",
+        "Name_de": "Mogry",
+        "Name_en": "Moogle",
+        "Name_fr": "Mog",
+        "Name_ja": "\u30e2\u30fc\u30b0\u30ea",
+        "Name_ko": "\ubaa8\uadf8\ub9ac"
+    },
+    "200": {
+        "0xID": "C8",
+        "Name_cn": "\u8389\u745f",
+        "Name_de": "Lyse",
+        "Name_en": "Lyse",
+        "Name_fr": "Lyse",
+        "Name_ja": "\u30ea\u30bb",
+        "Name_ko": "\ub9ac\uc138"
+    },
+    "201": {
+        "0xID": "C9",
+        "Name_cn": "\u829d\u8bfa\u65af\u00b7\u8036\u00b7\u52a0\u5c14\u4e4c\u65af",
+        "Name_de": "Zenos yae Galvus",
+        "Name_en": "Zenos yae Galvus",
+        "Name_fr": "Zenos yae Galvus",
+        "Name_ja": "\u30bc\u30ce\u30b9\u30fb\u30a4\u30a7\u30fc\u30fb\u30ac\u30eb\u30f4\u30a1\u30b9",
+        "Name_ko": "\uc81c\ub178\uc2a4 \uc608 \uac08\ubd80\uc2a4"
+    },
+    "202": {
+        "0xID": "CA",
+        "Name_cn": "\u98de\u71d5",
+        "Name_de": "Hien",
+        "Name_en": "Hien",
+        "Name_fr": "Hien",
+        "Name_ja": "\u30d2\u30a8\u30f3",
+        "Name_ko": "\ud788\uc5d4"
+    },
+    "203": {
+        "0xID": "CB",
+        "Name_cn": "\u82d4\u5c0f\u5996",
+        "Name_de": "Moosling",
+        "Name_en": "Mossling",
+        "Name_fr": "moussemousse",
+        "Name_ja": "\u30e2\u30b9\u30e2\u30b9",
+        "Name_ko": "\uc774\ub07c\uc774\ub07c"
+    },
+    "204": {
+        "0xID": "CC",
+        "Name_cn": "\u6d3d\u666e\u5229\u86b1\u8722",
+        "Name_de": "Chapuli",
+        "Name_en": "Chapuli",
+        "Name_fr": "chapuli",
+        "Name_ja": "\u30c1\u30e3\u30d7\u30ea",
+        "Name_ko": "\ud070\uba54\ub69c\uae30"
+    },
+    "205": {
+        "0xID": "CD",
+        "Name_cn": "\u5362\u6069\u4eba\u98df\u8089\u8005",
+        "Name_de": "Qiqirn-Fleischfresser",
+        "Name_en": "Qiqirn Meateater",
+        "Name_fr": "Qiqirn croque-viande",
+        "Name_ja": "\u30ad\u30ad\u30eb\u30f3\u30fb\u30df\u30fc\u30c8\u30a4\u30fc\u30bf\u30fc",
+        "Name_ko": "\ud0a4\ud0a4\ub8ec \uace0\uae30\ub0e0\ub0e0\uc774"
+    },
+    "206": {
+        "0xID": "CE",
+        "Name_cn": "\u76f4\u8a00\u4e0d\u8bb3\u8d6b\u7f57\u5fb7\u91cc\u514b",
+        "Name_de": "Hrodric Giftzunge",
+        "Name_en": "Hrodric Poisontongue",
+        "Name_fr": "Hrodric le M\u00e9disant",
+        "Name_ja": "\u76f4\u8a00\u306e\u30d5\u30ed\u30c9\u30ea\u30c3\u30af",
+        "Name_ko": "\uc785\ubc14\ub978 \ud750\ub85c\ub4dc\ub9ad"
+    },
+    "207": {
+        "0xID": "CF",
+        "Name_cn": "\u8299\u6735\u62c9\u00b7\u96f7\u59c6\u00b7\u5362\u666e\u65af",
+        "Name_de": "Fordola rem Lupus",
+        "Name_en": "Fordola rem Lupis",
+        "Name_fr": "Fordola rem Lupus",
+        "Name_ja": "\u30d5\u30a9\u30eb\u30c9\u30e9\u30fb\u30ec\u30e0\u30fb\u30eb\u30d7\u30b9",
+        "Name_ko": "\ud3ec\ub974\ub3cc\ub77c \ub818 \ub8e8\ud478\uc2a4"
+    },
+    "208": {
+        "0xID": "D0",
+        "Name_cn": "\u4eba\u9a6c\u738b\u6d1b\u5f17\u5361\u52d2",
+        "Name_de": "Rofocale",
+        "Name_en": "Rofocale",
+        "Name_fr": "Rofocale le Roi centaure",
+        "Name_ja": "\u4eba\u99ac\u738b\u30ed\u30d5\u30a9\u30ab\u30ec",
+        "Name_ko": "\uc778\ub9c8\uc655 \ub85c\ud3ec\uce7c\ub808"
+    },
+    "209": {
+        "0xID": "D1",
+        "Name_cn": "\u51b7\u8840\u5251\u963f\u52a0\u65af",
+        "Name_de": "Argath Thadalfus",
+        "Name_en": "Argath Thadalfus",
+        "Name_fr": "Argath Thadalfus",
+        "Name_ja": "\u51b7\u8840\u5263\u30a2\u30eb\u30ac\u30b9",
+        "Name_ko": "\ub0c9\ud608\uac80 \uc544\ub974\uac00\uc2a4"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u585e\u58ec",
+        "Name_de": "Sirene",
+        "Name_en": "Siren",
+        "Name_fr": "sir\u00e8ne",
+        "Name_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3",
+        "Name_ko": "\uc138\uc774\ub80c"
+    },
+    "210": {
+        "0xID": "D2",
+        "Name_cn": "\u52b3\u73ed&\u76ae\u5e73",
+        "Name_de": "Raubahn & Pipin",
+        "Name_en": "Raubahn & Pipin",
+        "Name_fr": "Raubahn & Pipin",
+        "Name_ja": "\u30e9\u30a6\u30d0\u30fc\u30f3\uff06\u30d4\u30d4\u30f3",
+        "Name_ko": "\ub77c\uc6b0\ubc18 & \ud53c\ud540"
+    },
+    "211": {
+        "0xID": "D3",
+        "Name_cn": "\u9ad8\u52a0\u9885",
+        "Name_de": "Koja",
+        "Name_en": "Koja",
+        "Name_fr": "koja",
+        "Name_ja": "\u30b3\u30b8\u30e3",
+        "Name_ko": "\ucf54\uc790"
+    },
+    "212": {
+        "0xID": "D4",
+        "Name_cn": "\u5b89\u5c45\u9b9f\u9c47",
+        "Name_de": "Ango",
+        "Name_en": "Ango",
+        "Name_fr": "ango",
+        "Name_ja": "\u30a2\u30f3\u30b4",
+        "Name_ko": "\uc548\uace0"
+    },
+    "213": {
+        "0xID": "D5",
+        "Name_cn": "\u5bfc\u822a\u7cfb\u7edf",
+        "Name_de": "Wegleitsystem",
+        "Name_en": "Guidance Node",
+        "Name_fr": "sph\u00e8re de guidage",
+        "Name_ja": "\u8a98\u5c0e\u30b7\u30b9\u30c6\u30e0",
+        "Name_ko": "\uc720\ub3c4 \uc2dc\uc2a4\ud15c"
+    },
+    "214": {
+        "0xID": "D6",
+        "Name_cn": "\u6e5b\u6c34",
+        "Name_de": "Tansui",
+        "Name_en": "Tansui",
+        "Name_fr": "Tansui",
+        "Name_ja": "\u30bf\u30f3\u30b9\u30a4",
+        "Name_ko": "\ud0c4\uc2a4\uc774"
+    },
+    "215": {
+        "0xID": "D7",
+        "Name_cn": "\u7384\u6b66",
+        "Name_de": "Genbu",
+        "Name_en": "Genbu",
+        "Name_fr": "Genbu",
+        "Name_ja": "\u7384\u6b66",
+        "Name_ko": "\ud604\ubb34"
+    },
+    "216": {
+        "0xID": "D8",
+        "Name_cn": "\u767d\u864e",
+        "Name_de": "Byakko",
+        "Name_en": "Byakko",
+        "Name_fr": "Byakko",
+        "Name_ja": "\u767d\u864e",
+        "Name_ko": "\ubc31\ud638"
+    },
+    "217": {
+        "0xID": "D9",
+        "Name_cn": "\u963f\u96f7\u6069\u74e6\u5c14\u5fb7\u00b7\u4f26\u63d0\u52aa\u65af",
+        "Name_de": "Arenvald Lentinus",
+        "Name_en": "Arenvald Lentinus",
+        "Name_fr": "Arenvald Lentinus",
+        "Name_ja": "\u30a2\u30ec\u30f3\u30f4\u30a1\u30eb\u30c9\u30fb\u30ec\u30f3\u30c6\u30a3\u30cc\u30b9",
+        "Name_ko": "\uc544\ub80c\ubc1c\ub4dc \ub80c\ud2f0\ub204\uc2a4"
+    },
+    "218": {
+        "0xID": "DA",
+        "Name_cn": "\u72fc\u4eba\u65cf",
+        "Name_de": "Lupin",
+        "Name_en": "Lupin",
+        "Name_fr": "Lupin",
+        "Name_ja": "\u4eba\u72fc\u65cf",
+        "Name_ko": "\uc778\ub791\uc871"
+    },
+    "219": {
+        "0xID": "DB",
+        "Name_cn": "\u6c49\u8003\u514b",
+        "Name_de": "Hancock",
+        "Name_en": "Hancock",
+        "Name_fr": "Hancock",
+        "Name_ja": "\u30cf\u30f3\u30b3\u30c3\u30af",
+        "Name_ko": "\ud589\ucf55"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u5965\u5c14\u7279\u7f57\u65af&\u63d0\u4e30",
+        "Name_de": "Ultros & Typhon",
+        "Name_en": "Ultros & Typhon",
+        "Name_fr": "Orthros & Typhon",
+        "Name_ja": "\u30aa\u30eb\u30c8\u30ed\u30b9\uff06\u30c6\u30e5\u30dd\u30fc\u30f3",
+        "Name_ko": "\uc624\ub974\ud2b8\ub85c\uc2a4 & \ud2f0\ud3f0"
+    },
+    "220": {
+        "0xID": "DC",
+        "Name_cn": "\u7fe1\u7fe0&\u7ea2",
+        "Name_de": "Hisui & Kurenai",
+        "Name_en": "Hisui & Kurenai",
+        "Name_fr": "Hisui & Kurenai",
+        "Name_ja": "\u30d2\u30b9\u30a4\uff06\u30af\u30ec\u30ca\u30a4",
+        "Name_ko": "\ud788\uc2a4\uc774 & \ucfe0\ub808\ub098\uc774"
+    },
+    "221": {
+        "0xID": "DD",
+        "Name_cn": "\u8f6e\u5165\u9053&\u7247\u8f6e\u8f66",
+        "Name_de": "Wanyudo & Katasharin",
+        "Name_en": "Wanyudo & Katasharin",
+        "Name_fr": "wany\u00fbd\u00f4 & katasharin",
+        "Name_ja": "\u30ef\u30cb\u30e5\u30a6\u30c9\u30a6\uff06\u30ab\u30bf\u30b7\u30e3\u30ea\u30f3",
+        "Name_ko": "\ucd1d\uac01\ubc14\ud034 & \ucc98\ub140\ubc14\ud034"
+    },
+    "222": {
+        "0xID": "DE",
+        "Name_cn": "\u65d7\u672c",
+        "Name_de": "Hatamoto",
+        "Name_en": "Hatamoto",
+        "Name_fr": "hatamoto",
+        "Name_ja": "\u30cf\u30bf\u30e2\u30c8",
+        "Name_ko": "\uc9c1\uc18d \ubb34\uc0ac"
+    },
+    "223": {
+        "0xID": "DF",
+        "Name_cn": "\u96ea\u7ae5\u5b50",
+        "Name_de": "Fl\u00f6ckchen",
+        "Name_en": "Yukinko",
+        "Name_fr": "yukinko",
+        "Name_ja": "\u30e6\u30ad\u30f3\u30b3",
+        "Name_ko": "\ub208\uc694\uc815"
+    },
+    "224": {
+        "0xID": "E0",
+        "Name_cn": "\u9f50\u5929\u5927\u5723",
+        "Name_de": "Qitian Dasheng",
+        "Name_en": "Qitian Dasheng",
+        "Name_fr": "Qitian Dasheng",
+        "Name_ja": "\u30bb\u30a4\u30c6\u30f3\u30bf\u30a4\u30bb\u30a4",
+        "Name_ko": "\uc81c\ucc9c\ub300\uc131"
+    },
+    "225": {
+        "0xID": "E1",
+        "Name_cn": "\u86ed\u5b50",
+        "Name_de": "Hiruko",
+        "Name_en": "Hiruko",
+        "Name_fr": "Hiruko",
+        "Name_ja": "\u30d2\u30eb\u30b3",
+        "Name_ko": "\ud788\ub8e8\ucf54"
+    },
+    "226": {
+        "0xID": "E2",
+        "Name_cn": "\u5e78\u798f\u5154",
+        "Name_de": "Gl\u00fcckshase",
+        "Name_en": "Happy Bunny",
+        "Name_fr": "lapin du bonheur",
+        "Name_ja": "\u3057\u3042\u308f\u305b\u3046\u3055\u304e",
+        "Name_ko": "\ud589\uc6b4\ud1a0\ub07c"
+    },
+    "227": {
+        "0xID": "E3",
+        "Name_cn": "\u5a04\u5e0c",
+        "Name_de": "Louhi",
+        "Name_en": "Louhi",
+        "Name_fr": "Louhi",
+        "Name_ja": "\u30ed\u30a6\u30d2",
+        "Name_ko": "\ub85c\uc6b0\ud788"
+    },
+    "228": {
+        "0xID": "E4",
+        "Name_cn": "\u6708\u8bfb",
+        "Name_de": "Tsukuyomi",
+        "Name_en": "Tsukuyomi",
+        "Name_fr": "Tsukuyomi",
+        "Name_ja": "\u30c4\u30af\u30e8\u30df",
+        "Name_ko": "\uce20\ucfe0\uc694\ubbf8"
+    },
+    "229": {
+        "0xID": "E5",
+        "Name_cn": "\u9b3c\u9f99\u96c5\u5179\u739b\u7279",
+        "Name_de": "Yiasmat",
+        "Name_en": "Yiazmat",
+        "Name_fr": "Yiazmat",
+        "Name_ja": "\u9b3c\u9f8d\u30e4\u30ba\u30de\u30c3\u30c8",
+        "Name_ko": "\uadc0\ub8e1 \uc57c\uc988\ub9c8\ud2b8"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u6076\u9b54\u5899",
+        "Name_de": "D\u00e4monenwand",
+        "Name_en": "Demon Wall",
+        "Name_fr": "mur d\u00e9monique",
+        "Name_ja": "\u30c7\u30e2\u30f3\u30ba\u30a6\u30a9\u30fc\u30eb",
+        "Name_ko": "\uc545\ub9c8\uc758 \ubcbd"
+    },
+    "230": {
+        "0xID": "E6",
+        "Name_cn": "\u8c6a\u96ea",
+        "Name_de": "Gosetsu",
+        "Name_en": "Gosetsu",
+        "Name_fr": "Gosetsu",
+        "Name_ja": "\u30b4\u30a6\u30bb\u30c4",
+        "Name_ko": "\uace0\uc6b0\uc138\uce20"
+    },
+    "231": {
+        "0xID": "E7",
+        "Name_cn": "\u673a\u5173\u822c\u82e5",
+        "Name_de": "Karakuri Hannya",
+        "Name_en": "Karakuri Hanya",
+        "Name_fr": "hannya karakuri",
+        "Name_ja": "\u30ab\u30e9\u30af\u30ea\u30fb\u30cf\u30f3\u30cb\u30e3",
+        "Name_ko": "\uaf2d\ub450\uac01\uc2dc \ud55c\ub0d0"
+    },
+    "232": {
+        "0xID": "E8",
+        "Name_cn": "\u59c6\u5fb7\u65af\u5fb7",
+        "Name_de": "Muhtsu",
+        "Name_en": "Muud Suud",
+        "Name_fr": "moudsoud",
+        "Name_ja": "\u30e0\u30fc\u30c9\u30b9\u30fc\u30c9",
+        "Name_ko": "\ubb34\ub4dc\uc218\ub4dc"
+    },
+    "233": {
+        "0xID": "E9",
+        "Name_cn": "\u67af\u8150\u6ce5\u5996",
+        "Name_de": "Tokkapchi",
+        "Name_en": "Tokkapchi",
+        "Name_fr": "Tokkapchi",
+        "Name_ja": "\u30c8\u30ab\u30c3\u30d7\u30c1",
+        "Name_ko": "\uc9c4\ud759\uc7a5\uc0ac"
+    },
+    "234": {
+        "0xID": "EA",
+        "Name_cn": "\u96fe\u9f99",
+        "Name_de": "Nebeldrache",
+        "Name_en": "Mist Dragon",
+        "Name_fr": "dragon des brumes",
+        "Name_ja": "\u30df\u30b9\u30c8\u30c9\u30e9\u30b4\u30f3",
+        "Name_ko": "\uc548\uac1c \ub4dc\ub798\uace4"
+    },
+    "235": {
+        "0xID": "EB",
+        "Name_cn": "\u6731\u96c0",
+        "Name_de": "Suzaku",
+        "Name_en": "Suzaku",
+        "Name_fr": "Suzaku",
+        "Name_ja": "\u6731\u96c0",
+        "Name_ko": "\uc8fc\uc791"
+    },
+    "236": {
+        "0xID": "EC",
+        "Name_cn": "\u5e15\u7956\u7956",
+        "Name_de": "Pazuzu",
+        "Name_en": "Pazuzu",
+        "Name_fr": "Pazuzu",
+        "Name_ja": "\u30d1\u30ba\u30ba",
+        "Name_ko": "\ud30c\uc8fc\uc8fc"
+    },
+    "237": {
+        "0xID": "ED",
+        "Name_cn": "\u5f6d\u5fd2\u897f\u52d2\u4e9a",
+        "Name_de": "Penthesilea",
+        "Name_en": "Penthesilea",
+        "Name_fr": "Penth\u00e9sil\u00e9e",
+        "Name_ja": "\u30da\u30f3\u30c6\u30b7\u30ec\u30a4\u30a2",
+        "Name_ko": "\ud39c\ud14c\uc2e4\ub808\uc774\uc544"
+    },
+    "238": {
+        "0xID": "EE",
+        "Name_cn": "\u671d\u9633\u00b7\u8428\u65af\u00b7\u5e03\u9c81\u56fe\u65af",
+        "Name_de": "Asahi sas Brutus",
+        "Name_en": "Asahi sas Brutus",
+        "Name_fr": "Asahi sas Brutus",
+        "Name_ja": "\u30a2\u30b5\u30d2\u30fb\u30b5\u30b9\u30fb\u30d6\u30eb\u30c8\u30a5\u30b9",
+        "Name_ko": "\uc544\uc0ac\ud788 \uc0ac\uc2a4 \ube0c\ub8e8\ud22c\uc2a4"
+    },
+    "239": {
+        "0xID": "EF",
+        "Name_cn": "\u4fdd\u9556&\u5927\u4e94\u90ce",
+        "Name_de": "Yojinbo & Daigoro",
+        "Name_en": "Yojimbo & Daigoro",
+        "Name_fr": "Yojimbo & Daigoro",
+        "Name_ja": "\u30e8\u30a6\u30b8\u30f3\u30dc\u30a6&\u30c0\u30a4\u30b4\u30ed\u30a6",
+        "Name_ko": "\uc694\uc6b0\uc9c4\ubcf4 & \ub2e4\uc774\uace0\ub85c"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u68a6\u9b54",
+        "Name_de": "Sukkubus",
+        "Name_en": "Succubus",
+        "Name_fr": "succube",
+        "Name_ja": "\u30b5\u30ad\u30e5\u30d0\u30b9",
+        "Name_ko": "\uc11c\ud050\ubc84\uc2a4"
+    },
+    "240": {
+        "0xID": "F0",
+        "Name_cn": "\u6b27\u7c73\u8304",
+        "Name_de": "Omega",
+        "Name_en": "Omega",
+        "Name_fr": "Om\u00e9ga",
+        "Name_ja": "\u30aa\u30e1\u30ac",
+        "Name_ko": "\uc624\uba54\uac00"
+    },
+    "241": {
+        "0xID": "F1",
+        "Name_cn": "\u5854\u5854\u9732\u00b7\u5854\u9732\uff08\u7ea2\u83b2\uff09",
+        "Name_de": "Stormblood Tataru",
+        "Name_en": "Stormblood Tataru Taru",
+        "Name_fr": "Tataru (Stormblood)",
+        "Name_ja": "\u30bf\u30bf\u30eb\u30fb\u30bf\u30eb\uff08\u7d05\u84ee\uff09",
+        "Name_ko": "\ud0c0\ud0c0\ub8e8 \ud0c0\ub8e8(\ud64d\ub828)"
+    },
+    "242": {
+        "0xID": "F2",
+        "Name_cn": "\u77ee\u5112",
+        "Name_de": "Dvergr",
+        "Name_en": "Dvergr",
+        "Name_fr": "Dvergr",
+        "Name_ja": "\u30c9\u30a5\u30a8\u30eb\u30b0",
+        "Name_ko": "\ub4dc\ubca0\ub974\uadf8"
+    },
+    "243": {
+        "0xID": "F3",
+        "Name_cn": "\u827e\u5409\u5361\u00b7\u5c91\u5409\u5361",
+        "Name_de": "Ejika Tsunjika",
+        "Name_en": "Ejika Tsunjika",
+        "Name_fr": "Ejika Tsunjika",
+        "Name_ja": "\u30a8\u30b8\u30ab\u30fb\u30c4\u30f3\u30b8\u30ab",
+        "Name_ko": "\uc5d0\uc9c0\uce74 \uce24\uc9c0\uce74"
+    },
+    "244": {
+        "0xID": "F4",
+        "Name_cn": "\u666e\u7f57\u7c73\u4fee\u65af",
+        "Name_de": "Prometheus",
+        "Name_en": "Prometheus",
+        "Name_fr": "Prometheus",
+        "Name_ja": "\u30d7\u30ed\u30e1\u30c6\u30a6\u30b9",
+        "Name_ko": "\ud504\ub85c\uba54\ud14c\uc6b0\uc2a4"
+    },
+    "245": {
+        "0xID": "F5",
+        "Name_cn": "\u8d77\u6e90\u5b88\u671b\u8005",
+        "Name_de": "Kristallw\u00e4chter",
+        "Name_en": "Provenance Watcher",
+        "Name_fr": "Gardien de Provenance",
+        "Name_ja": "\u30d7\u30ed\u30f4\u30a7\u30ca\u30f3\u30b9\u30fb\u30a6\u30a9\u30c3\u30c1\u30e3\u30fc",
+        "Name_ko": "\uae30\uc6d0 \uad00\ucc30\uc790"
+    },
+    "246": {
+        "0xID": "F6",
+        "Name_cn": "\u9752\u9f99",
+        "Name_de": "Seiryu ",
+        "Name_en": "Seiryu",
+        "Name_fr": "Seiry\u00fb",
+        "Name_ja": "\u9752\u9f8d",
+        "Name_ko": "\uccad\ub8e1"
+    },
+    "247": {
+        "0xID": "F7",
+        "Name_cn": "\u963f\u5c14\u6cd5",
+        "Name_de": "Alpha",
+        "Name_en": "Alpha",
+        "Name_fr": "Alpha",
+        "Name_ja": "\u30a2\u30eb\u30d5\u30a1",
+        "Name_ko": "\uc54c\ud30c"
+    },
+    "248": {
+        "0xID": "F8",
+        "Name_cn": "\u91d1\u9cb6\u5927\u738b",
+        "Name_de": "Majest\u00e4t Goldbartel",
+        "Name_en": "Great Gold Whisker",
+        "Name_fr": "Altesse namazu nain dor\u00e9",
+        "Name_ja": "\u30ca\u30de\u30ad\u30f3\u5927\u738b",
+        "Name_ko": "\uae08\ub9c8\uc988\uc624 \ub300\uc655"
+    },
+    "249": {
+        "0xID": "F9",
+        "Name_cn": "\u5409\u5c14\u4f3d\u7f8e\u4ec0\uff08\u7ea2\u83b2\uff09",
+        "Name_de": "Stormblood Gilgamesch",
+        "Name_en": "Stormblood Gilgamesh",
+        "Name_fr": "Gilgamesh (Stormblood)",
+        "Name_ja": "\u30ae\u30eb\u30ac\u30e1\u30c3\u30b7\u30e5\uff08\u7d05\u84ee\uff09",
+        "Name_ko": "\uae38\uac00\uba54\uc2dc(\ud64d\ub828)"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u5947\u7f8e\u62c9",
+        "Name_de": "Chim\u00e4ra",
+        "Name_en": "Chimera",
+        "Name_fr": "chim\u00e8re",
+        "Name_ja": "\u30ad\u30de\u30a4\u30e9",
+        "Name_ko": "\ud0a4\ub9c8\uc774\ub77c"
+    },
+    "250": {
+        "0xID": "FA",
+        "Name_cn": "\u5723\u5929\u4f7f\u963f\u5c14\u8482\u739b",
+        "Name_de": "Cherub Ultima",
+        "Name_en": "Ultima, the High Seraph",
+        "Name_fr": "Ultima, la Grande S\u00e9raphine",
+        "Name_ja": "\u8056\u5929\u4f7f\u30a2\u30eb\u30c6\u30de",
+        "Name_ko": "\uc131\ucc9c\uc0ac \uc54c\ud14c\ub9c8"
+    },
+    "251": {
+        "0xID": "FB",
+        "Name_cn": "\u963f\u5c14\u83f2\u8bfa&\u963f\u8389\u585e\uff08\u7ea2\u83b2\uff09",
+        "Name_de": "Stormblood Alphinaud & Alisaie",
+        "Name_en": "Stormblood Alphinaud & Alisaie",
+        "Name_fr": "Alphinaud & Alisaie (Stormblood)",
+        "Name_ja": "\u30a2\u30eb\u30d5\u30a3\u30ce\uff06\u30a2\u30ea\u30bc\u30fc\uff08\u7d05\u84ee\uff09",
+        "Name_ko": "\uc54c\ud53c\ub178 & \uc54c\ub9ac\uc81c(\ud64d\ub828)"
+    },
+    "252": {
+        "0xID": "FC",
+        "Name_cn": "\u8bfa\u514b\u63d0\u65af\u00b7\u8def\u897f\u65af\u00b7\u5207\u62c9\u59c6",
+        "Name_de": "Noctis Lucis Caelum",
+        "Name_en": "Noctis Lucis Caelum",
+        "Name_fr": "Noctis Lucis Caelum",
+        "Name_ja": "\u30ce\u30af\u30c6\u30a3\u30b9\u30fb\u30eb\u30b7\u30b9\u30fb\u30c1\u30a7\u30e9\u30e0",
+        "Name_ko": "\ub179\ud2f0\uc2a4 \ub8e8\uc2dc\uc2a4 \uce74\uc77c\ub8f8"
+    },
+    "253": {
+        "0xID": "FD",
+        "Name_cn": "\u963f\u9a6c\u7f57",
+        "Name_de": "Amaro",
+        "Name_en": "Amaro",
+        "Name_fr": "amaro",
+        "Name_ja": "\u30a2\u30de\u30ed",
+        "Name_ko": "\uc544\ub9c8\ub85c"
+    },
+    "254": {
+        "0xID": "FE",
+        "Name_cn": "\u6076\u9b54\u5175\u88c5",
+        "Name_de": "B\u00f6se Waffe",
+        "Name_en": "Evil Weapon",
+        "Name_fr": "arme maligne",
+        "Name_ja": "\u30a4\u30d3\u30eb\u30a6\u30a7\u30dd\u30f3",
+        "Name_ko": "\ubb34\uae30\ub9c8"
+    },
+    "255": {
+        "0xID": "FF",
+        "Name_cn": "\u91c7\u592b\u5987",
+        "Name_de": "Eheleute Chai",
+        "Name_en": "Lord and Lady Chai",
+        "Name_fr": "Chai-Nuzz & Dulia-Chai",
+        "Name_ja": "\u30c1\u30e3\u30a4\u592b\u59bb",
+        "Name_ko": "\ucc28\uc774 \ubd80\ubd80"
+    },
+    "256": {
+        "0xID": "100",
+        "Name_cn": "\u5de8\u4eba\u638c",
+        "Name_de": "Riesenkaktor",
+        "Name_en": "Gigantender",
+        "Name_fr": "gigapampa",
+        "Name_ja": "\u30ae\u30ac\u30c6\u30f3\u30c0\u30fc",
+        "Name_ko": "\uae30\uac00\ud150\ub354"
+    },
+    "257": {
+        "0xID": "101",
+        "Name_cn": "\u83f2\u5965\u00b7\u4e4c\u513f",
+        "Name_de": "Feo Ul",
+        "Name_en": "Feo Ul",
+        "Name_fr": "Feo Ul",
+        "Name_ja": "\u30d5\u30a7\u30aa\uff1d\u30a6\u30eb",
+        "Name_ko": "\ud398\uc624 \uc6b8"
+    },
+    "258": {
+        "0xID": "102",
+        "Name_cn": "\u9c81\u7eb3\u5c14",
+        "Name_de": "Runar",
+        "Name_en": "Runar",
+        "Name_fr": "Runar",
+        "Name_ja": "\u30eb\u30ca\u30eb",
+        "Name_ko": "\ub8e8\ub098\ub974"
+    },
+    "259": {
+        "0xID": "103",
+        "Name_cn": "\u76d6\u96f7\u8bfa\u5c14\u7279",
+        "Name_de": "Grenoldt",
+        "Name_en": "Grenoldt",
+        "Name_fr": "Grenoldt",
+        "Name_ja": "\u30b0\u30ec\u30ce\u30eb\u30c8",
+        "Name_ko": "\uadf8\ub808\ub180\ud2b8"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u84dd\u9f99",
+        "Name_de": "Blauer Drache",
+        "Name_en": "Blue Dragon",
+        "Name_fr": "dragon bleu",
+        "Name_ja": "\u30d6\u30eb\u30fc\u30c9\u30e9\u30b4\u30f3",
+        "Name_ko": "\ud478\ub978 \uc6a9"
+    },
+    "260": {
+        "0xID": "104",
+        "Name_cn": "\u6590\u5229\u4e9a",
+        "Name_de": "Philia",
+        "Name_en": "Philia",
+        "Name_fr": "Philia",
+        "Name_ja": "\u30d5\u30a3\u30ea\u30a2",
+        "Name_ko": "\ud544\ub9ac\uc544"
+    },
+    "261": {
+        "0xID": "105",
+        "Name_cn": "\u5996\u7075\u738b\u7f07\u5766\u59ae\u96c5",
+        "Name_de": "Titania",
+        "Name_en": "Titania",
+        "Name_fr": "Titania",
+        "Name_ja": "\u30c6\u30a3\u30bf\u30fc\u30cb\u30a2",
+        "Name_ko": "\ud2f0\ud0c0\ub2c8\uc544"
+    },
+    "262": {
+        "0xID": "106",
+        "Name_cn": "\u827e\u6d1b\u65af",
+        "Name_de": "Eros",
+        "Name_en": "Eros",
+        "Name_fr": "\u00c9ros",
+        "Name_ja": "\u30a8\u30ed\u30fc\u30b9",
+        "Name_ko": "\uc5d0\ub85c\uc2a4"
+    },
+    "263": {
+        "0xID": "107",
+        "Name_cn": "\u65af\u6258\u5c14\u6208",
+        "Name_de": "Storge",
+        "Name_en": "Storge",
+        "Name_fr": "Storg\u00ea",
+        "Name_ja": "\u30b9\u30c8\u30eb\u30b2\u30fc",
+        "Name_ko": "\uc2a4\ud1a0\ub974\uac8c"
+    },
+    "264": {
+        "0xID": "108",
+        "Name_cn": "\u754f\u60e7\u88c5\u7532",
+        "Name_de": "Formidabel",
+        "Name_en": "Formidable",
+        "Name_fr": "Formidable",
+        "Name_ja": "\u30d5\u30a9\u30fc\u30df\u30c0\u30d6\u30eb",
+        "Name_ko": "\uc5b4\ub9c8\ubb34\uc2dc"
+    },
+    "265": {
+        "0xID": "109",
+        "Name_cn": "\u83b1\u6960",
+        "Name_de": "Lyna",
+        "Name_en": "Lyna",
+        "Name_fr": "Lyna",
+        "Name_ja": "\u30e9\u30a4\u30ca",
+        "Name_ko": "\ub77c\uc774\ub098"
+    },
+    "266": {
+        "0xID": "10A",
+        "Name_cn": "\u6e38\u672b\u90a6\u7684\u5c0f\u4e11",
+        "Name_de": "N\u00e4rrinnen",
+        "Name_en": "Jongleurs of Eulmore",
+        "Name_fr": "bouffonnes d'Eulmore",
+        "Name_ja": "\u30e6\u30fc\u30eb\u30e2\u30a2\u306e\u9053\u5316",
+        "Name_ko": "\uc728\ubaa8\uc5b4\uc758 \uad11\ub300"
+    },
+    "267": {
+        "0xID": "10B",
+        "Name_cn": "\u65e0\u7455\u7075\u541b",
+        "Name_de": "Innozenz",
+        "Name_en": "Innocence",
+        "Name_fr": "Innocence",
+        "Name_ja": "\u30a4\u30ce\u30bb\u30f3\u30b9",
+        "Name_ko": "\uc774\ub178\uc13c\uc2a4"
+    },
+    "268": {
+        "0xID": "10C",
+        "Name_cn": "\u96c5\u00b7\u4fee\u7279\u62c9\uff08\u6697\u5f71\uff09",
+        "Name_de": "Y'shtola (Shadowbringers)",
+        "Name_en": "Shadowbringers Y'shtola",
+        "Name_fr": "Y'shtola (Shadowbringers)",
+        "Name_ja": "\u30e4\u30fb\u30b7\u30e5\u30c8\u30e9\uff08\u6f06\u9ed2\uff09",
+        "Name_ko": "\uc57c\uc288\ud1a8\ub77c(\uce60\ud751)"
+    },
+    "269": {
+        "0xID": "10D",
+        "Name_cn": "\u4e8e\u91cc\u6602\u70ed\uff08\u6697\u5f71\uff09",
+        "Name_de": "Urianger (Shadowbringers)",
+        "Name_en": "Shadowbringers Urianger",
+        "Name_fr": "Urianger (Shadowbringers)",
+        "Name_ja": "\u30a6\u30ea\u30a8\u30f3\u30b8\u30a7\uff08\u6f06\u9ed2\uff09",
+        "Name_ko": "\uc704\ub9ac\uc559\uc81c(\uce60\ud751)"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u7f8e\u7537\u5b50\u5e03\u8fe6\u52a0",
+        "Name_de": "Bugaal Ja",
+        "Name_en": "Scarface Bugaal Ja",
+        "Name_fr": "Bugaal Ja",
+        "Name_ja": "\u7f8e\u7537\u306e\u30d6\u30ac\u30fc\u30b8\u30e3",
+        "Name_ko": "\uc798\uc0dd\uae34 \ubd80\uac00\uc7c8"
+    },
+    "270": {
+        "0xID": "10E",
+        "Name_cn": "\u5170\u5409\u7279",
+        "Name_de": "Ran'jit",
+        "Name_en": "Ran'jit",
+        "Name_fr": "Ran'jit",
+        "Name_ja": "\u30e9\u30f3\u30b8\u30fc\u30c8",
+        "Name_ko": "\ub780\uc9c0\ud2b8"
+    },
+    "271": {
+        "0xID": "10F",
+        "Name_cn": "\u54c8\u8fea\u65af",
+        "Name_de": "Hades",
+        "Name_en": "Hades",
+        "Name_fr": "Had\u00e8s",
+        "Name_ja": "\u30cf\u30fc\u30c7\u30b9",
+        "Name_ko": "\ud558\ub370\uc2a4"
+    },
+    "272": {
+        "0xID": "110",
+        "Name_cn": "\u963f\u5c14\u535a\u7279",
+        "Name_de": "Ardbert",
+        "Name_en": "Ardbert",
+        "Name_fr": "Ardbert",
+        "Name_ja": "\u30a2\u30eb\u30d0\u30fc\u30c8",
+        "Name_ko": "\uc544\ub974\ubc84\ud2b8"
+    },
+    "273": {
+        "0xID": "111",
+        "Name_cn": "\u5927\u54e5\u5e03\u6797",
+        "Name_de": "Hobgoblin",
+        "Name_en": "Hobgoblin",
+        "Name_fr": "hobgobelin",
+        "Name_ja": "\u30db\u30d6\u30b4\u30d6\u30ea\u30f3",
+        "Name_ko": "\ud649\uace0\ube14\ub9b0"
+    },
+    "274": {
+        "0xID": "112",
+        "Name_cn": "\u4ed9\u5b50\u732a",
+        "Name_de": "Quiexie",
+        "Name_en": "Porxie",
+        "Name_fr": "porxie",
+        "Name_ja": "\u30dd\u30fc\u30af\u30b7\u30fc",
+        "Name_ko": "\ud3ec\ud06c\uc2dc"
+    },
+    "275": {
+        "0xID": "113",
+        "Name_cn": "\u9b23\u8725",
+        "Name_de": "Leguan",
+        "Name_en": "Iguana",
+        "Name_fr": "iguane",
+        "Name_ja": "\u30a4\u30b0\u30a2\u30ca",
+        "Name_ko": "\uc774\uad6c\uc544\ub098"
+    },
+    "276": {
+        "0xID": "114",
+        "Name_cn": "\u6069\u83ab",
+        "Name_de": "Nu Mou",
+        "Name_en": "Nu Mou",
+        "Name_fr": "Nu Mou",
+        "Name_ja": "\u30f3\u30fb\u30e2\u30a5",
+        "Name_ko": "\uc751 \ubaa8\uc6b0"
+    },
+    "277": {
+        "0xID": "115",
+        "Name_cn": "\u6c34\u5996",
+        "Name_de": "Fuath",
+        "Name_en": "Fuath",
+        "Name_fr": "Fuath",
+        "Name_ja": "\u30d5\u30fc\u30a2",
+        "Name_ko": "\ud478\uc544"
+    },
+    "278": {
+        "0xID": "116",
+        "Name_cn": "\u51c9\u5357\u5e0c",
+        "Name_de": "Leanan Sidhe",
+        "Name_en": "Leannan Sith",
+        "Name_fr": "Leannan Sith",
+        "Name_ja": "\u30ea\u30e3\u30ca\u30f3\u30b7\u30fc",
+        "Name_ko": "\ub7b4\ub09c\uc2dc"
+    },
+    "279": {
+        "0xID": "117",
+        "Name_cn": "\u6f06\u9ed1\u5bfc\u5e08",
+        "Name_de": "Einsiedler",
+        "Name_en": "Seeker of Solitude",
+        "Name_fr": "ermite du palais",
+        "Name_ja": "\u9ed2\u306e\u5c0e\u5e2b",
+        "Name_ko": "\uac80\uc740 \ub3c4\uc0ac"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u83ab\u83ab\u8482\u00b7\u83ab\u8482",
+        "Name_de": "Momodi",
+        "Name_en": "Momodi Modi",
+        "Name_fr": "Momodi",
+        "Name_ja": "\u30e2\u30e2\u30c7\u30a3\u30fb\u30e2\u30c7\u30a3",
+        "Name_ko": "\ubaa8\ubaa8\ub514 \ubaa8\ub514"
+    },
+    "280": {
+        "0xID": "118",
+        "Name_cn": "\u5149\u4e4b\u5deb\u5973",
+        "Name_de": "Orakel des Lichts",
+        "Name_en": "Oracle of Light",
+        "Name_fr": "pr\u00eatresse de la Lumi\u00e8re",
+        "Name_ja": "\u5149\u306e\u5deb\u5973",
+        "Name_ko": "\ube5b\uc758 \ubb34\ub140"
+    },
+    "281": {
+        "0xID": "119",
+        "Name_cn": "\u53e4\u5854\u5c3c\u4e9a",
+        "Name_de": "Archaeotania",
+        "Name_en": "Archaeotania",
+        "Name_fr": "Archaeotania",
+        "Name_ja": "\u30a2\u30eb\u30b1\u30aa\u30bf\u30cb\u30a2",
+        "Name_ko": "\uc544\ub974\ucf00\uc624\ud0c0\ub2c8\uc544"
+    },
+    "282": {
+        "0xID": "11A",
+        "Name_cn": "9S",
+        "Name_de": "9S",
+        "Name_en": "9S",
+        "Name_fr": "9S",
+        "Name_ja": "\uff19\uff33",
+        "Name_ko": "9S"
+    },
+    "283": {
+        "0xID": "11B",
+        "Name_cn": "\u82b1\u675f\u7bee\u7b50",
+        "Name_de": "Blumenkorb",
+        "Name_en": "Flower Basket",
+        "Name_fr": "panier fleuri",
+        "Name_ja": "\u30d5\u30e9\u30ef\u30fc\u30d0\u30b9\u30b1\u30c3\u30c8",
+        "Name_ko": "\uaf43\ubc14\uad6c\ub2c8"
+    },
+    "284": {
+        "0xID": "11C",
+        "Name_cn": "\u5947\u5854\u5229",
+        "Name_de": "Qitari",
+        "Name_en": "Qitari",
+        "Name_fr": "Qitari",
+        "Name_ja": "\u30ad\u30bf\u30ea",
+        "Name_ko": "\ud0a4\ud0c0\ub9ac"
+    },
+    "285": {
+        "0xID": "11D",
+        "Name_cn": "\u5f02\u8c7a",
+        "Name_de": "Gnoll",
+        "Name_en": "Gnoll",
+        "Name_fr": "gnole",
+        "Name_ja": "\u30ce\u30fc\u30eb",
+        "Name_ko": "\ub180"
+    },
+    "286": {
+        "0xID": "11E",
+        "Name_cn": "\u8389\u5179\u8d1d\u4e1d",
+        "Name_de": "Lizbeth",
+        "Name_en": "Lizbeth",
+        "Name_fr": "Lizbeth",
+        "Name_ja": "\u30ea\u30ba\u30d9\u30b9",
+        "Name_ko": "\ub9ac\uc988\ubca0\uc2a4"
+    },
+    "287": {
+        "0xID": "11F",
+        "Name_cn": "\u5927\u811a\u91ce\u8760",
+        "Name_de": "Fledersquatch",
+        "Name_en": "Batsquatch",
+        "Name_fr": "Batsquatch",
+        "Name_ja": "\u30d0\u30c3\u30c4\u30ab\u30c3\u30c1",
+        "Name_ko": "\ubc30\uce20\ucf70\uce58"
+    },
+    "288": {
+        "0xID": "120",
+        "Name_cn": "\u5f97\u5230\u5bbd\u6055\u7684\u7325\u4eb5",
+        "Name_de": "Gel\u00e4uterte Unzucht",
+        "Name_en": "Forgiven Obscenity",
+        "Name_fr": "obsc\u00e9nit\u00e9 pardonn\u00e9e",
+        "Name_ja": "\u30d5\u30a9\u30fc\u30ae\u30f4\u30f3\u30fb\u30aa\u30d6\u30bb\u30cb\u30c6\u30a3\u30fc",
+        "Name_ko": "\uba74\uc8c4\ub41c \uc678\uc124"
+    },
+    "289": {
+        "0xID": "121",
+        "Name_cn": "\u534e\u8fe6\u65af",
+        "Name_de": "Huaca",
+        "Name_en": "Huaca",
+        "Name_fr": "Huaca",
+        "Name_ja": "\u30d5\u30a2\u30ac\u30b9",
+        "Name_ko": "\ud6c4\uc544\uce74"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u5341\u6307\u5df4\u5fb7\u9f99",
+        "Name_de": "Baderon",
+        "Name_en": "Baderon Tenfingers",
+        "Name_fr": "Baderon",
+        "Name_ja": "\u5341\u6307\u306e\u30d0\u30c7\u30ed\u30f3",
+        "Name_ko": "\uc5f4 \uc190\uac00\ub77d \ubc14\ub370\ub860"
+    },
+    "290": {
+        "0xID": "122",
+        "Name_cn": "\u4e0d\u660e\u7269\u4f53",
+        "Name_de": "Abscheuliches Monstrum",
+        "Name_en": "Unknown",
+        "Name_fr": "inconnu",
+        "Name_ja": "\u6b63\u4f53\u4e0d\u660e",
+        "Name_ko": "\uc815\uccb4\ubd88\uba85"
+    },
+    "291": {
+        "0xID": "123",
+        "Name_cn": "\u7ea2\u5b9d\u77f3\u795e\u5175",
+        "Name_de": "Rubin-Waffe",
+        "Name_en": "Ruby Weapon",
+        "Name_fr": "Arme Rubis",
+        "Name_ja": "\u30eb\u30d3\u30fc\u30a6\u30a7\u30dd\u30f3",
+        "Name_ko": "\ub8e8\ube44 \uc6e8\ud3f0"
+    },
+    "292": {
+        "0xID": "124",
+        "Name_cn": "\u81f3\u5927\u707e\u517d",
+        "Name_de": "Therion",
+        "Name_en": "Therion",
+        "Name_fr": "M\u00e9gatherion",
+        "Name_ja": "\u30e1\u30ac\u30bb\u30ea\u30aa\u30f3",
+        "Name_ko": "\uba54\uac00\ud14c\ub9ac\uc628"
+    },
+    "293": {
+        "0xID": "125",
+        "Name_cn": "\u74e6\u5389\u65af\u00b7\u8036\u00b7\u52a0\u5c14\u4e4c\u65af",
+        "Name_de": "Varis yae Galvus",
+        "Name_en": "Varis yae Galvus",
+        "Name_fr": "Varis yae Galvus",
+        "Name_ja": "\u30f4\u30a1\u30ea\u30b9\u30fb\u30a4\u30a7\u30fc\u30fb\u30ac\u30eb\u30f4\u30a1\u30b9",
+        "Name_ko": "\ubc14\ub9ac\uc2a4 \uc608 \uac08\ubd80\uc2a4"
+    },
+    "294": {
+        "0xID": "126",
+        "Name_cn": "\u77ee\u4eba",
+        "Name_de": "Zwerg",
+        "Name_en": "Dwarf",
+        "Name_fr": "Nain",
+        "Name_ja": "\u30c9\u30ef\u30fc\u30d5",
+        "Name_ko": "\ub4dc\uc6cc\ud504"
+    },
+    "295": {
+        "0xID": "127",
+        "Name_cn": "\u827e\u5c14\u00b7\u56fe",
+        "Name_de": "Ehll Tou",
+        "Name_en": "Ehll Tou",
+        "Name_fr": "Ehll Tou",
+        "Name_ja": "\u30a8\u30eb\u30fb\u30c8\u30a5",
+        "Name_ko": "\uc5d8 \ud22c"
+    },
+    "296": {
+        "0xID": "128",
+        "Name_cn": "\u77ee\u4eba\u6218\u8f66",
+        "Name_de": "Zwergenpanzer",
+        "Name_en": "Rolling Tankard",
+        "Name_fr": "automatank",
+        "Name_ja": "\u30c9\u30ef\u30fc\u30d5\u6226\u8eca",
+        "Name_ko": "\ub4dc\uc6cc\ud504 \uc804\ucc28"
+    },
+    "297": {
+        "0xID": "129",
+        "Name_cn": "\u5362\u683c\u65af",
+        "Name_de": "Lugus",
+        "Name_en": "Lugus",
+        "Name_fr": "Lugus",
+        "Name_ja": "\u30eb\u30b4\u30b9",
+        "Name_ko": "\ub8e8\uad6c\uc2a4"
+    },
+    "298": {
+        "0xID": "12A",
+        "Name_cn": "\u8fbe\u6e29",
+        "Name_de": "Dawon",
+        "Name_en": "Dawon",
+        "Name_fr": "Dawon",
+        "Name_ja": "\u30c9\u30a5\u30f3",
+        "Name_ko": "\ub2e4\uc6b0\uc5b8"
+    },
+    "299": {
+        "0xID": "12B",
+        "Name_cn": "\u963f\u5fb7\u62c9\u6885\u91cc\u514b",
+        "Name_de": "Adrammelech",
+        "Name_en": "Adrammelech",
+        "Name_fr": "Adrammelech",
+        "Name_ja": "\u30a2\u30c9\u30e9\u30e1\u30ec\u30af",
+        "Name_ko": "\uc544\ub4dc\ub78c\uba5c\ub809"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u4ed9\u4eba\u523a",
+        "Name_de": "Sabotender",
+        "Name_en": "Sabotender",
+        "Name_fr": "pampa",
+        "Name_ja": "\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc",
+        "Name_ko": "\uc0ac\ubcf4\ud150\ub354"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u7f2a\u6069",
+        "Name_de": "Miounne",
+        "Name_en": "Mother Miounne",
+        "Name_fr": "Miounne",
+        "Name_ja": "\u30df\u30e5\u30fc\u30cc",
+        "Name_ko": "\ubba8"
+    },
+    "300": {
+        "0xID": "12C",
+        "Name_cn": "\u65e0\u5f71\u827e\u91cc\u8fea\u5e03\u65af",
+        "Name_de": "Elidibus",
+        "Name_en": "Elidibus",
+        "Name_fr": "Elidibus",
+        "Name_ja": "\u30a2\u30b7\u30a8\u30f3\u30fb\u30a8\u30ea\u30c7\u30a3\u30d6\u30b9",
+        "Name_ko": "\uc544\uc528\uc5d4 \uc5d8\ub9ac\ub514\ubd80\uc2a4"
+    },
+    "301": {
+        "0xID": "12D",
+        "Name_cn": "\u6851\u514b\u745e\u5fb7\uff08\u6697\u5f71\uff09",
+        "Name_de": "Shadowbringers Thancred",
+        "Name_en": "Shadowbringers Thancred",
+        "Name_fr": "Thancred (Shadowbringers)",
+        "Name_ja": "\u30b5\u30f3\u30af\u30ec\u30c3\u30c9\uff08\u6f06\u9ed2\uff09",
+        "Name_ko": "\uc0b0\ud06c\ub808\ub4dc(\uce60\ud751)"
+    },
+    "302": {
+        "0xID": "12E",
+        "Name_cn": "\u84dd\u5b9d\u77f3\u795e\u5175",
+        "Name_de": "Saphir-Waffe",
+        "Name_en": "Sapphire Weapon",
+        "Name_fr": "Arme Saphir",
+        "Name_ja": "\u30b5\u30d5\u30a1\u30a4\u30a2\u30a6\u30a7\u30dd\u30f3",
+        "Name_ko": "\uc0ac\ud30c\uc774\uc5b4 \uc6e8\ud3f0"
+    },
+    "303": {
+        "0xID": "12F",
+        "Name_cn": "2P",
+        "Name_de": "2P",
+        "Name_en": "2P",
+        "Name_fr": "2P",
+        "Name_ja": "\uff12\uff30",
+        "Name_ko": "2P"
+    },
+    "304": {
+        "0xID": "130",
+        "Name_cn": "\u5149\u4e4b\u6218\u58eb\uff08\u6697\u5f71\uff09",
+        "Name_de": "Shadowbringers Krieger des Lichts",
+        "Name_en": "Shadowbringers Warrior of Light",
+        "Name_fr": "Guerrier de la Lumi\u00e8re (Shadowbringers)",
+        "Name_ja": "\u30a6\u30a9\u30fc\u30ea\u30a2\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8\uff08\u6f06\u9ed2\uff09",
+        "Name_ko": "\ube5b\uc758 \uc804\uc0ac(\uce60\ud751)"
+    },
+    "305": {
+        "0xID": "131",
+        "Name_cn": "\u84dd\u8272\u5047\u9762",
+        "Name_de": "Blaubert Veilchenblau",
+        "Name_en": "Great Azuro",
+        "Name_fr": "Bleuet masqu\u00e9",
+        "Name_ja": "\u30de\u30b9\u30af\u30fb\u30b6\u30fb\u30d6\u30eb\u30fc",
+        "Name_ko": "\uccad\uac00\uba74"
+    },
+    "306": {
+        "0xID": "132",
+        "Name_cn": "\u4ed9\u5b50\u732a\u4e4b\u6bcd",
+        "Name_de": "Muttersau",
+        "Name_en": "Mother Porxie",
+        "Name_fr": "m\u00e8re porxie",
+        "Name_ja": "\u30de\u30b6\u30fc\u30dd\u30fc\u30af\u30b7\u30fc",
+        "Name_ko": "\ub9c8\ub354 \ud3ec\ud06c\uc2dc"
+    },
+    "307": {
+        "0xID": "133",
+        "Name_cn": "\u6c42\u9053\u4e4b\u4e09\u4f4d\u4e00\u4f53",
+        "Name_de": "Trinit\u00e4t der Sucher",
+        "Name_en": "Trinity Seeker",
+        "Name_fr": "trinit\u00e9 soud\u00e9e",
+        "Name_ja": "\u30c8\u30ea\u30cb\u30c6\u30a3\u30fb\u30b7\u30fc\u30ab\u30fc",
+        "Name_ko": "\ud0d0\uad6c\uc758 \uc0bc\uc704\uc77c\uccb4"
+    },
+    "308": {
+        "0xID": "134",
+        "Name_cn": "\u8a93\u7ea6\u4e4b\u4e09\u4f4d\u4e00\u4f53",
+        "Name_de": "Trinit\u00e4t der Eingeschworenen",
+        "Name_en": "Trinity Avowed",
+        "Name_fr": "trinit\u00e9 f\u00e9ale",
+        "Name_ja": "\u30c8\u30ea\u30cb\u30c6\u30a3\u30fb\u30a2\u30f4\u30a1\u30a6\u30c9",
+        "Name_ko": "\ub9f9\uc138\uc758 \uc0bc\uc704\uc77c\uccb4"
+    },
+    "309": {
+        "0xID": "135",
+        "Name_cn": "\u542f\u793a\u8005",
+        "Name_de": "Azulmagia",
+        "Name_en": "Azulmagia",
+        "Name_fr": "Azulmagia",
+        "Name_ja": "\u30a2\u30dd\u30ab\u30ea\u30e7\u30fc\u30d7\u30b9",
+        "Name_ko": "\uc544\ud3ec\uce7c\ub9ac\uc635\uc2a4"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u8389\u7ef4\u4e9a\u00b7\u8428\u65af\u00b7\u5c24\u5c3c\u4e4c\u65af",
+        "Name_de": "Livia sas Junius",
+        "Name_en": "Livia sas Junius",
+        "Name_fr": "Livia",
+        "Name_ja": "\u30ea\u30a6\u30a3\u30a2\u30fb\u30b5\u30b9\u30fb\u30e6\u30cb\u30a6\u30b9",
+        "Name_ko": "\ub9ac\uc704\uc544 \uc0ac\uc2a4 \uc720\ub2c8\uc6b0\uc2a4"
+    },
+    "310": {
+        "0xID": "136",
+        "Name_cn": "\u9f50\u683c\u5f17\u91cc\u5fb7",
+        "Name_de": "Siegfried",
+        "Name_en": "Siegfried",
+        "Name_fr": "Siegfried",
+        "Name_ja": "\u30b8\u30fc\u30af\u30d5\u30ea\u30fc\u30c9",
+        "Name_ko": "\uc9c0\ud06c\ud504\ub9ac\ub4dc"
+    },
+    "311": {
+        "0xID": "137",
+        "Name_cn": "\u6a21\u4eff\u5e08\u683c\u683c",
+        "Name_de": "Gogo der Mime",
+        "Name_en": "Gogo, Master of Mimicry",
+        "Name_fr": "Gogo le mime",
+        "Name_ja": "\u3082\u306e\u307e\u306d\u58eb\u30b4\u30b4",
+        "Name_ko": "\ud749\ub0b4\uc7c1\uc774 \uace0\uace0"
+    },
+    "312": {
+        "0xID": "138",
+        "Name_cn": "\u7eff\u5b9d\u77f3\u795e\u5175",
+        "Name_de": "Smaragd-Waffe",
+        "Name_en": "Emerald Weapon",
+        "Name_fr": "Arme \u00c9meraude",
+        "Name_ja": "\u30a8\u30e1\u30e9\u30eb\u30c9\u30a6\u30a7\u30dd\u30f3",
+        "Name_ko": "\uc5d0\uba54\ub784\ub4dc \uc6e8\ud3f0"
+    },
+    "313": {
+        "0xID": "139",
+        "Name_cn": "\u7433",
+        "Name_de": "Ryne",
+        "Name_en": "Ryne",
+        "Name_fr": "Ryne",
+        "Name_ja": "\u30ea\u30fc\u30f3",
+        "Name_ko": "\ub9b0"
+    },
+    "314": {
+        "0xID": "13A",
+        "Name_cn": "\u76d6\u5a05",
+        "Name_de": "Gaia",
+        "Name_en": "Gaia",
+        "Name_fr": "Ga\u00efa",
+        "Name_ja": "\u30ac\u30a4\u30a2",
+        "Name_ko": "\uac00\uc774\uc544"
+    },
+    "315": {
+        "0xID": "13B",
+        "Name_cn": "\u4f0a\u7538\u4e4b\u7ea6",
+        "Name_de": "Edens Verhei\u00dfung",
+        "Name_en": "Eden's Promise",
+        "Name_fr": "Promesse d'\u00c9den",
+        "Name_ja": "\u30d7\u30ed\u30df\u30b9\u30fb\u30aa\u30d6\u30fb\u30a8\u30c7\u30f3",
+        "Name_ko": "\uc5d0\ub374\uc758 \uc57d\uc18d"
+    },
+    "316": {
+        "0xID": "13C",
+        "Name_cn": "\u4e0d\u6b7b\u9e1f",
+        "Name_de": "Phoenix",
+        "Name_en": "Phoenix",
+        "Name_fr": "Ph\u00e9nix",
+        "Name_ja": "\u30d5\u30a7\u30cb\u30c3\u30af\u30b9",
+        "Name_ko": "\ud53c\ub2c9\uc2a4"
+    },
+    "317": {
+        "0xID": "13D",
+        "Name_cn": "\u5b9d\u5e93\u5b88\u62a4\u8005",
+        "Name_de": "Kerkermeister",
+        "Name_en": "Keeper of the Keys",
+        "Name_fr": "gardien hypog\u00e9en",
+        "Name_ja": "\u30ad\u30fc\u30d1\u30fc\u30fb\u30aa\u30d6\u30fb\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Name_ko": "\uc9c0\ud558\ubbf8\uad81 \uc218\ud638\uc790"
+    },
+    "318": {
+        "0xID": "13E",
+        "Name_cn": "\u771f\u6708\u5df4\u54c8\u59c6\u7279",
+        "Name_de": "Luna-Bahamut",
+        "Name_en": "Lunar Bahamut",
+        "Name_fr": "Luna-Bahamut",
+        "Name_ja": "\u30eb\u30ca\u30d0\u30cf\u30e0\u30fc\u30c8",
+        "Name_ko": "\ub8e8\ub098 \ubc14\ud558\ubb34\ud2b8"
+    },
+    "319": {
+        "0xID": "13F",
+        "Name_cn": "\u74e6\u4f26\u65af\u00b7\u8303\u00b7\u74e6\u7f57",
+        "Name_de": "Valens van Varro",
+        "Name_en": "Valens van Varro",
+        "Name_fr": "Valens van Varro",
+        "Name_ja": "\u30a6\u30a1\u30ec\u30f3\u30b9\u30fb\u30f4\u30a1\u30f3\u30fb\u30a6\u30a1\u30ed",
+        "Name_ko": "\ubc1c\ub80c\uc2a4 \ubc18 \ubc14\ub85c"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u91cc\u5854\u63d0\u6069\u00b7\u8428\u65af\u00b7\u963f\u7ef4\u7eb3",
+        "Name_de": "Rhitahtyn sas Arvina",
+        "Name_en": "Rhitahtyn sas Arvina",
+        "Name_fr": "Rhitahtyn",
+        "Name_ja": "\u30ea\u30c3\u30c8\u30a2\u30c6\u30a3\u30f3\u30fb\u30b5\u30b9\u30fb\u30a2\u30eb\u30f4\u30a3\u30ca",
+        "Name_ko": "\ub9ac\ud2b8\uc544\ud2f4 \uc0ac\uc2a4 \uc544\ub974\ube44\ub098"
+    },
+    "320": {
+        "0xID": "140",
+        "Name_cn": "\u771f\u6708\u4f0a\u5f17\u5229\u7279",
+        "Name_de": "Luna-Ifrit",
+        "Name_en": "Lunar Ifrit",
+        "Name_fr": "Luna-Ifrit",
+        "Name_ja": "\u30eb\u30ca\u30a4\u30d5\u30ea\u30fc\u30c8",
+        "Name_ko": "\ub8e8\ub098 \uc774\ud504\ub9ac\ud2b8"
+    },
+    "321": {
+        "0xID": "141",
+        "Name_cn": "\u7b2c\u56db\u519b\u56e2\u8c22\u7c73\u54c8\u624e",
+        "Name_de": "Shemhazai der IV. Legion",
+        "Name_en": "4th-make Shemhazai",
+        "Name_fr": "Shemhazai de la 4e l\u00e9gion",
+        "Name_ja": "IV\u30ec\u30ae\u30aa\u30f3\u30fb\u30b7\u30e5\u30df\u30cf\u30b6",
+        "Name_ko": "IV\uad70\ub2e8 \uc170\ubbf8\ud558\uc790"
+    },
+    "322": {
+        "0xID": "142",
+        "Name_cn": "\u7b2c\u56db\u519b\u56e2\u4e18\u5e93\u96f7\u56e0",
+        "Name_de": "Cuchulainn der IV. Legion",
+        "Name_en": "4th-make Cuchulainn",
+        "Name_fr": "C\u00fachulainn de la 4e l\u00e9gion",
+        "Name_ja": "IV\u30ec\u30ae\u30aa\u30f3\u30fb\u30ad\u30e5\u30af\u30ec\u30a4\u30f3",
+        "Name_ko": "IV\uad70\ub2e8 \ucfe0\ud6cc\ub9b0"
+    },
+    "323": {
+        "0xID": "143",
+        "Name_cn": "\u7a76\u6781\u6218\u58ebG\u578b",
+        "Name_de": "G-Krieger",
+        "Name_en": "G-Warrior",
+        "Name_fr": "Guerrier-G",
+        "Name_ja": "G\u30a6\u30a9\u30ea\u30a2\u30fc",
+        "Name_ko": "G \uc6cc\ub9ac\uc5b4"
+    },
+    "324": {
+        "0xID": "144",
+        "Name_cn": "\u94bb\u77f3\u795e\u5175",
+        "Name_de": "Diamant-Waffe",
+        "Name_en": "Diamond Weapon",
+        "Name_fr": "Arme Diamant",
+        "Name_ja": "\u30c0\u30a4\u30e4\u30a6\u30a7\u30dd\u30f3",
+        "Name_ko": "\ub2e4\uc774\uc544\ubaac\ub4dc \uc6e8\ud3f0"
+    },
+    "325": {
+        "0xID": "145",
+        "Name_cn": "\u8fea\u4e9a\u5e03\u7f57\u9b54\u5175",
+        "Name_de": "Diablo-Armament",
+        "Name_en": "Diablo Armament",
+        "Name_fr": "batterie d'artillerie Diablo",
+        "Name_ja": "\u30c7\u30a3\u30a2\u30d6\u30ed\u30fb\u30a2\u30fc\u30de\u30e1\u30f3\u30c8",
+        "Name_ko": "\ub514\uc544\ube14\ub85c \uc544\uba38\uba3c\ud2b8"
+    },
+    "326": {
+        "0xID": "146",
+        "Name_cn": "2B",
+        "Name_de": "2B",
+        "Name_en": "2B",
+        "Name_fr": "2B",
+        "Name_ja": "\uff12\uff22",
+        "Name_ko": "2B"
+    },
+    "327": {
+        "0xID": "147",
+        "Name_cn": "\u5de8\u9b54",
+        "Name_de": "Troll",
+        "Name_en": "Troll",
+        "Name_fr": "troll",
+        "Name_ja": "\u30c8\u30ed\u30eb",
+        "Name_ko": "\ud2b8\ub864"
+    },
+    "328": {
+        "0xID": "148",
+        "Name_cn": "\u6bd5\u820d\u906e",
+        "Name_de": "Pisaca",
+        "Name_en": "Pisaca",
+        "Name_fr": "pishacha",
+        "Name_ja": "\u30d4\u30b7\u30e3\u30fc\u30c1\u30e3",
+        "Name_ko": "\ud53c\uc0e4\ucc28"
+    },
+    "329": {
+        "0xID": "149",
+        "Name_cn": "\u5f02\u4e9a",
+        "Name_de": "Ea",
+        "Name_en": "Ea",
+        "Name_fr": "\u00c9a",
+        "Name_ja": "\u30a4\u30fc\u30a2",
+        "Name_ko": "\uc774\uc544"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u6bd4\u683c\u65af&\u9b4f\u5409",
+        "Name_de": "Biggs & Wedge",
+        "Name_en": "Biggs & Wedge",
+        "Name_fr": "Biggs & Wedge",
+        "Name_ja": "\u30d3\u30c3\u30b0\u30b9\uff06\u30a6\u30a7\u30c3\u30b8",
+        "Name_ko": "\ube45\uc2a4 & \uc6e8\uc9c0"
+    },
+    "330": {
+        "0xID": "14A",
+        "Name_cn": "\u608c\u9633\u8c61\u65cf",
+        "Name_de": "Arkasodara",
+        "Name_en": "Arkasodara",
+        "Name_fr": "Arkasodara",
+        "Name_ja": "\u30a2\u30eb\u30ab\u30bd\u30fc\u30c0\u30e9",
+        "Name_ko": "\uc544\ub974\uce74\uc18c\ub2e4\ub77c"
+    },
+    "331": {
+        "0xID": "14B",
+        "Name_cn": "\u5154\u5154\u65cf",
+        "Name_de": "Loporrit",
+        "Name_en": "Loporrit",
+        "Name_fr": "Loporrite",
+        "Name_ja": "\u30ec\u30dd\u30ea\u30c3\u30c8",
+        "Name_ko": "\ub808\ud3ec\ub9bf"
+    },
+    "332": {
+        "0xID": "14C",
+        "Name_cn": "\u963f\u5c14\u6208\u65af",
+        "Name_de": "Argos",
+        "Name_en": "Argos",
+        "Name_fr": "Argos",
+        "Name_ja": "\u30a2\u30eb\u30b4\u30b9",
+        "Name_ko": "\uc544\ub974\uace0\uc2a4"
+    },
+    "333": {
+        "0xID": "14D",
+        "Name_cn": "\u8d6b\u5c14\u58a8\u65af",
+        "Name_de": "Hermes",
+        "Name_en": "Hermes",
+        "Name_fr": "Herm\u00e8s",
+        "Name_ja": "\u30d8\u30eb\u30e1\u30b9",
+        "Name_ko": "\ud5e4\ub974\uba54\uc2a4"
+    },
+    "334": {
+        "0xID": "14E",
+        "Name_cn": "\u90aa\u6267\u5916\u9053\u7684\u4e9a\u8499",
+        "Name_de": "Splitterseele Amon",
+        "Name_en": "Amon the Undying",
+        "Name_fr": "Amon",
+        "Name_ja": "\u7570\u57f7\u306e\u30a2\u30e2\u30f3",
+        "Name_ko": "\uc774\uc9d1\uc758 \uc544\ubaac"
+    },
+    "335": {
+        "0xID": "14F",
+        "Name_cn": "\u57c3\u91cc\u514b\u7279\u7fc1\u5c3c\u4e9a\u65af",
+        "Name_de": "Erichthonios",
+        "Name_en": "Erichthonios",
+        "Name_fr": "\u00c9richthonios",
+        "Name_ja": "\u30a8\u30ea\u30af\u30c8\u30cb\u30aa\u30b9",
+        "Name_ko": "\uc5d0\ub9ac\ud06c\ud1a0\ub2c8\uc624\uc2a4"
+    },
+    "336": {
+        "0xID": "150",
+        "Name_cn": "\u6885\u52a0\u65af\u4e09\u59d0\u59b9",
+        "Name_de": "Magus-Schwestern",
+        "Name_en": "Magus Sisters",
+        "Name_fr": "s\u0153urs Magus",
+        "Name_ja": "\u30e1\u30fc\u30ac\u30b9\u4e09\u59c9\u59b9",
+        "Name_ko": "\uba54\uc774\uac70\uc2a4 \uc138 \uc790\ub9e4"
+    },
+    "337": {
+        "0xID": "151",
+        "Name_cn": "\u6885\u8482\u6069",
+        "Name_de": "Meteion",
+        "Name_en": "Meteion",
+        "Name_fr": "M\u00e9t\u00e9ion",
+        "Name_ja": "\u30e1\u30fc\u30c6\u30a3\u30aa\u30f3",
+        "Name_ko": "\uba54\ud14c\uc774\uc628"
+    },
+    "338": {
+        "0xID": "152",
+        "Name_cn": "\u5bcc\u5c14\u4ec0\u8bfa\u00b7\u83b1\u97e6\u8036\u52d2\u5c14",
+        "Name_de": "Fourchenault Leveilleur",
+        "Name_en": "Fourchenault Leveilleur",
+        "Name_fr": "Fourchenault",
+        "Name_ja": "\u30d5\u30eb\u30b7\u30e5\u30ce\u30fb\u30eb\u30f4\u30a7\u30e6\u30fc\u30eb",
+        "Name_ko": "\ud478\ub974\uc288\ub178 \ub974\ubca0\uc720\ub974"
+    },
+    "339": {
+        "0xID": "153",
+        "Name_cn": "\u963f\u5c3c\u739b",
+        "Name_de": "Anima",
+        "Name_en": "Anima",
+        "Name_fr": "Anima",
+        "Name_ja": "\u30a2\u30cb\u30de",
+        "Name_ko": "\uc544\ub2c8\ub9c8"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u76d6\u7f57\u5c14\u7279\u00b7\u5e03\u62c9\u514b\u7d22\u6069",
+        "Name_de": "Gerolt",
+        "Name_en": "Gerolt",
+        "Name_fr": "Gerolt",
+        "Name_ja": "\u30b2\u30ed\u30eb\u30c8\u30fb\u30d6\u30e9\u30c3\u30af\u30bd\u30fc\u30f3",
+        "Name_ko": "\uac8c\ub864\ud2b8 \ube14\ub799\uc190"
+    },
+    "340": {
+        "0xID": "154",
+        "Name_cn": "\u6606\u56fe\u65af\u00b7\u8303\u00b7\u79e6\u7eb3",
+        "Name_de": "Quintus van Cinna",
+        "Name_en": "Quintus van Cinna",
+        "Name_fr": "Quintus van Cinna",
+        "Name_ja": "\u30af\u30a4\u30f3\u30c8\u30a5\u30b9\u30fb\u30f4\u30a1\u30f3\u30fb\u30ad\u30f3\u30ca",
+        "Name_ko": "\ud038\ud22c\uc2a4 \ubc18 \ud0a8\ub098"
+    },
+    "341": {
+        "0xID": "155",
+        "Name_cn": "\u963f\u5c14\u83f2\u8bfa&\u963f\u8389\u585e\uff08\u6653\u6708\uff09",
+        "Name_de": "Alphinaud & Alisaie (Endwalker)",
+        "Name_en": "Endwalker Alphinaud & Alisaie",
+        "Name_fr": "Alphinaud & Alisaie (Endwalker)",
+        "Name_ja": "\u30a2\u30eb\u30d5\u30a3\u30ce\uff06\u30a2\u30ea\u30bc\u30fc\uff08\u6681\u6708\uff09",
+        "Name_ko": "\uc54c\ud53c\ub178 & \uc54c\ub9ac\uc81c(\ud6a8\uc6d4)"
+    },
+    "342": {
+        "0xID": "156",
+        "Name_cn": "\u5e0c\u65af\u62c9\u5fb7",
+        "Name_de": "Hythlodaeus",
+        "Name_en": "Hythlodaeus",
+        "Name_fr": "Hythlodaeus",
+        "Name_ja": "\u30d2\u30e5\u30c8\u30ed\u30c0\u30a8\u30a6\u30b9",
+        "Name_ko": "\ud718\ud2c0\ub85c\ub2e4\uc774\uc6b0\uc2a4"
+    },
+    "343": {
+        "0xID": "157",
+        "Name_cn": "\u5f17\u6817\u591a",
+        "Name_de": "Vrtra",
+        "Name_en": "Vrtra",
+        "Name_fr": "Vrtra",
+        "Name_ja": "\u30f4\u30ea\u30c8\u30e9",
+        "Name_ko": "\ube0c\ub9ac\ud2b8\ub77c"
+    },
+    "344": {
+        "0xID": "158",
+        "Name_cn": "\u4f50\u8fea\u4e9a\u514b",
+        "Name_de": "Zodiark",
+        "Name_en": "Zodiark",
+        "Name_fr": "Zordiarche",
+        "Name_ja": "\u30be\u30c7\u30a3\u30a2\u30fc\u30af",
+        "Name_ko": "\uc870\ub514\uc544\ud06c"
+    },
+    "345": {
+        "0xID": "159",
+        "Name_cn": "\u6d77\u5fb7\u6797",
+        "Name_de": "Hydaelyn",
+        "Name_en": "Hydaelyn",
+        "Name_fr": "Hydaelyn",
+        "Name_ja": "\u30cf\u30a4\u30c7\u30ea\u30f3",
+        "Name_ko": "\ud558\uc774\ub378\ub9b0"
+    },
+    "346": {
+        "0xID": "15A",
+        "Name_cn": "\u829d\u8bfa\u65af\u00b7\u52a0\u5c14\u4e4c\u65af",
+        "Name_de": "Zenos Galvus",
+        "Name_en": "Zenos Galvus",
+        "Name_fr": "Zenos Galvus",
+        "Name_ja": "\u30bc\u30ce\u30b9\u30fb\u30ac\u30eb\u30f4\u30a1\u30b9",
+        "Name_ko": "\uc81c\ub178\uc2a4 \uac08\ubd80\uc2a4"
+    },
+    "347": {
+        "0xID": "15B",
+        "Name_cn": "\u94c1\u58c1",
+        "Name_de": "Schutzwall",
+        "Name_en": "Rampart",
+        "Name_fr": "rempart",
+        "Name_ja": "\u30e9\u30f3\u30d1\u30fc\u30c8",
+        "Name_ko": "\ubc29\uc5b4\ubcbd"
+    },
+    "348": {
+        "0xID": "15C",
+        "Name_cn": "\u6cb3\u9a6c\u8f66",
+        "Name_de": "Hippowagen",
+        "Name_en": "Hippo Cart",
+        "Name_fr": "hippochar",
+        "Name_ja": "\u30d2\u30c3\u30dd\u30ab\u30fc\u30c8",
+        "Name_ko": "\ud558\ub9c8 \ub9c8\ucc28"
+    },
+    "349": {
+        "0xID": "15D",
+        "Name_cn": "\u9b54\u90aa\u8c61\u65cf",
+        "Name_de": "Gajasura",
+        "Name_en": "Gajasura",
+        "Name_fr": "Gajasura",
+        "Name_ja": "\u30ac\u30b8\u30e3\u30fc\u30b9\u30e9",
+        "Name_ko": "\uac00\uc790\uc218\ub77c"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u5f17\u91cc\u514b\u5e0c\u5965",
+        "Name_de": "Frixio",
+        "Name_en": "Frixio",
+        "Name_fr": "Frixio",
+        "Name_ja": "\u30d5\u30ea\u30af\u30b7\u30aa",
+        "Name_ko": "\ud504\ub9ac\ud06c\uc2dc\uc624"
+    },
+    "350": {
+        "0xID": "15E",
+        "Name_cn": "\u62c9\u5c14\u6208",
+        "Name_de": "Rhalgr",
+        "Name_en": "Rhalgr",
+        "Name_fr": "Rhalgr",
+        "Name_ja": "\u30e9\u30fc\u30eb\u30ac\u30fc",
+        "Name_ko": "\ub784\uac70"
+    },
+    "351": {
+        "0xID": "15F",
+        "Name_cn": "\u963f\u6cfd\u739b",
+        "Name_de": "Azeyma",
+        "Name_en": "Azeyma",
+        "Name_fr": "Azeyma",
+        "Name_ja": "\u30a2\u30fc\u30bc\u30de",
+        "Name_ko": "\uc544\uc81c\ub9c8"
+    },
+    "352": {
+        "0xID": "160",
+        "Name_cn": "\u7eb3\u5c14",
+        "Name_de": "Nald",
+        "Name_en": "Nald",
+        "Name_fr": "Nald",
+        "Name_ja": "\u30ca\u30eb",
+        "Name_ko": "\ub0a0"
+    },
+    "353": {
+        "0xID": "161",
+        "Name_cn": "\u672d\u5c14",
+        "Name_de": "Thal",
+        "Name_en": "Thal",
+        "Name_fr": "Thal",
+        "Name_ja": "\u30b6\u30eb",
+        "Name_ko": "\ub2ec"
+    },
+    "354": {
+        "0xID": "162",
+        "Name_cn": "\u5e0c",
+        "Name_de": "Chi",
+        "Name_en": "Chi",
+        "Name_fr": "Khi",
+        "Name_ja": "\u30ab\u30a4",
+        "Name_ko": "\ud0a4"
+    },
+    "355": {
+        "0xID": "163",
+        "Name_cn": "\u660e\u706f\u5929\u738b",
+        "Name_de": "Daivadipa",
+        "Name_en": "Daivadipa",
+        "Name_fr": "Daivadipa",
+        "Name_ja": "\u30c0\u30a4\u30f4\u30a1\u30c7\u30a3\u30fc\u30d1",
+        "Name_ko": "\ub2e4\uc774\ubc14\ub514\ud30c"
+    },
+    "356": {
+        "0xID": "164",
+        "Name_cn": "\u8bb4\u6b4c\u7ec8\u7ed3\u4e4b\u7269",
+        "Name_de": "Ends\u00e4ngerin",
+        "Name_en": "Endsinger",
+        "Name_fr": "chantre de l'an\u00e9antissement",
+        "Name_ja": "\u7d42\u7109\u3092\u8b33\u3046\u3082\u306e",
+        "Name_ko": "\uc885\uc5b8\uc744 \ub178\ub798\ud558\ub294 \uc790"
+    },
+    "357": {
+        "0xID": "165",
+        "Name_cn": "N-7000",
+        "Name_de": "N-7000",
+        "Name_en": "N-7000",
+        "Name_fr": "N-7000",
+        "Name_ja": "N-7000",
+        "Name_ko": "N-7000"
+    },
+    "358": {
+        "0xID": "166",
+        "Name_cn": "\u5f81\u670d\u8005\u9769\u5f8b\u7fc1",
+        "Name_de": "Geryon der Gewaltsame",
+        "Name_en": "Geryon the Steer",
+        "Name_fr": "G\u00e9ryon le Dominateur",
+        "Name_ja": "\u8987\u9053\u306e\u30b2\u30fc\u30ea\u30e5\u30aa\u30f3",
+        "Name_ko": "\ud328\ub3c4\uc758 \uac8c\ub9ac\uc628"
+    },
+    "359": {
+        "0xID": "167",
+        "Name_cn": "\u5e0c\u62c9\u72c4\u54c8\u5251\u6597\u58eb",
+        "Name_de": "Gladiator von Sil'dih",
+        "Name_en": "Gladiator of Sil'dih",
+        "Name_fr": "gladiateur sildien",
+        "Name_ja": "\u30b7\u30e9\u30c7\u30a3\u30cf\u30fb\u30b0\u30e9\u30c7\u30a3\u30a2\u30c8\u30eb",
+        "Name_ko": "\uc2e4\ub514\ud558 \uac80\ud22c\uc0ac"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u7f2a\u5854\u7c73\u514b\u65af",
+        "Name_de": "Mutagenix",
+        "Name_en": "Mutamix Bubblypots",
+        "Name_fr": "Mutamix",
+        "Name_ja": "\u30df\u30e5\u30bf\u30df\u30af\u30b9",
+        "Name_ko": "\ubba4\ud0c0\ubbf9\uc2a4"
+    },
+    "360": {
+        "0xID": "168",
+        "Name_cn": "\u7d22\u6069\u81ea\u8d70\u4eba\u5076",
+        "Name_de": "Ritter der Thorne",
+        "Name_en": "Thorne Knight",
+        "Name_fr": "chevalier-mage des Thorne",
+        "Name_ja": "\u30bd\u30fc\u30f3\u30fb\u30de\u30b8\u30c3\u30af\u30ca\u30a4\u30c8",
+        "Name_ko": "\uc190 \ub9c8\ubc95\uae30\uc0ac"
+    },
+    "361": {
+        "0xID": "169",
+        "Name_cn": "\u8d1d\u96c5\u7279\u4e3d\u9f50",
+        "Name_de": "Beatrice",
+        "Name_en": "Beatrice",
+        "Name_fr": "B\u00e9atrice",
+        "Name_ja": "\u30d9\u30a2\u30c8\u30ea\u30fc\u30c1\u30a7",
+        "Name_ko": "\ubca0\uc544\ud2b8\ub9ac\uccb4"
+    },
+    "362": {
+        "0xID": "16A",
+        "Name_cn": "\u6bd4\u5c14\u683c",
+        "Name_de": "Byregot",
+        "Name_en": "Byregot",
+        "Name_fr": "Byregot",
+        "Name_ja": "\u30d3\u30a8\u30eb\u30b4",
+        "Name_ko": "\ube44\ub808\uace0"
+    },
+    "363": {
+        "0xID": "16B",
+        "Name_cn": "\u9b3c\u9634\u706b\u6cfd\u96f7\u65af\u00b7\u590f",
+        "Name_de": "Zeless Gah",
+        "Name_en": "Shadowcaster Zeless Gah",
+        "Name_fr": "Zeless Gah",
+        "Name_ja": "\u5f71\u706b\u306e\u30bc\u30ec\u30ba\u30fb\u30ac\u30fc",
+        "Name_ko": "\uadf8\ub9bc\uc790\ubd88 \uc824\ub808\uc988 \uac00"
+    },
+    "364": {
+        "0xID": "16C",
+        "Name_cn": "\u65af\u5361\u7c73\u7559\u5c3c",
+        "Name_de": "Scarmiglione",
+        "Name_en": "Scarmiglione",
+        "Name_fr": "Scarmiglione",
+        "Name_ja": "\u30b9\u30ab\u30eb\u30df\u30ea\u30e7\u30fc\u30cd",
+        "Name_ko": "\uc2a4\uce74\ub974\ubc00\ub9ac\uc624\ub124"
+    },
+    "365": {
+        "0xID": "16D",
+        "Name_cn": "\u5df4\u5c14\u5df4\u8389\u5e0c\u5a05",
+        "Name_de": "Barbarizia",
+        "Name_en": "Barbariccia",
+        "Name_fr": "Barbariccia",
+        "Name_ja": "\u30d0\u30eb\u30d0\u30ea\u30b7\u30a2",
+        "Name_ko": "\ubc14\ub974\ubc14\ub9ac\ucc28"
+    },
+    "366": {
+        "0xID": "16E",
+        "Name_cn": "\u62c9\u54c8\u5e03\u96f7\u4e9a",
+        "Name_de": "Leiter Lahabrea",
+        "Name_en": "Chief Keyward Lahabrea",
+        "Name_fr": "Lahabrea (pass\u00e9)",
+        "Name_ja": "\u30e9\u30cf\u30d6\u30ec\u30a2",
+        "Name_ko": "\ub77c\ud558\ube0c\ub808\uc544"
+    },
+    "367": {
+        "0xID": "16F",
+        "Name_cn": "\u8d6b\u6dee\u65af\u6258\u65af",
+        "Name_de": "Hephaistos",
+        "Name_en": "Hephaistos",
+        "Name_fr": "H\u00e9pha\u00efstos",
+        "Name_ja": "\u30d8\u30d5\u30a1\u30a4\u30b9\u30c8\u30b9",
+        "Name_ko": "\ud5e4\ud30c\uc774\uc2a4\ud1a0\uc2a4"
+    },
+    "368": {
+        "0xID": "170",
+        "Name_cn": "\u673a\u5173\u9634\u9633\u5e08\uff06\u673a\u5173\u4fdd\u9556",
+        "Name_de": "Mechanik-Onmyoji & -Yojinbo",
+        "Name_en": "Clockwork Onmyoji & Clockwork Yojimbo",
+        "Name_fr": "pr\u00eatre onmyo m\u00e9canique & garde du corps m\u00e9canique",
+        "Name_ja": "\u304b\u3089\u304f\u308a\u9670\u967d\u5e2b\uff06\u304b\u3089\u304f\u308a\u7528\u5fc3\u68d2",
+        "Name_ko": ""
+    },
+    "369": {
+        "0xID": "171",
+        "Name_cn": "",
+        "Name_de": "Dreamingway",
+        "Name_en": "Dreamingway",
+        "Name_fr": "Dreamingway",
+        "Name_ja": "\u30c9\u30ea\u30fc\u30df\u30f3\u30b0\u30a6\u30a7\u30a4",
+        "Name_ko": ""
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u6885\u6885\u5362\u6069",
+        "Name_de": "Memeroon",
+        "Name_en": "Memeroon",
+        "Name_fr": "Memeroon",
+        "Name_ja": "\u30e1\u30e1\u30eb\u30f3",
+        "Name_ko": "\uba54\uba54\ub8ec"
+    },
+    "370": {
+        "0xID": "172",
+        "Name_cn": "\u732b\u8033\u5c0f\u5458",
+        "Name_de": "Miaurizius",
+        "Name_en": "Felicitous Furball",
+        "Name_fr": "Chamoiselle",
+        "Name_ja": "\u306d\u3053\u307f\u307f\u3055\u3093",
+        "Name_ko": ""
+    },
+    "371": {
+        "0xID": "173",
+        "Name_cn": "\u5b89\u767b",
+        "Name_de": "Anden",
+        "Name_en": "Anden",
+        "Name_fr": "Anden",
+        "Name_ja": "\u30a2\u30f3\u30c7\u30f3",
+        "Name_ko": ""
+    },
+    "372": {
+        "0xID": "174",
+        "Name_cn": "",
+        "Name_de": "Suprae-Lugae",
+        "Name_en": "Suprae-Lugae",
+        "Name_fr": "Super Lugae",
+        "Name_ja": "\u30b9\u30fc\u30d1\u30fc\u30eb\u30b2\u30a4\u30a8",
+        "Name_ko": ""
+    },
+    "373": {
+        "0xID": "175",
+        "Name_cn": "",
+        "Name_de": "Gancanagh",
+        "Name_en": "Gancanagh",
+        "Name_fr": "Gancanagh",
+        "Name_ja": "\u30ac\u30f3\u30ab\u30ca\u30b0\u30fc",
+        "Name_ko": ""
+    },
+    "374": {
+        "0xID": "176",
+        "Name_cn": "\u6885\u8335\u83f2\u5a1c",
+        "Name_de": "Menphina",
+        "Name_en": "Menphina",
+        "Name_fr": "Menphina",
+        "Name_ja": "\u30e1\u30cd\u30d5\u30a3\u30ca",
+        "Name_ko": ""
+    },
+    "375": {
+        "0xID": "177",
+        "Name_cn": "\u51ef\u7eb3\u69fd",
+        "Name_de": "Cagnazzo",
+        "Name_en": "Cagnazzo",
+        "Name_fr": "Cagnazzo",
+        "Name_ja": "\u30ab\u30a4\u30ca\u30c3\u30c4\u30a9",
+        "Name_ko": ""
+    },
+    "376": {
+        "0xID": "178",
+        "Name_cn": "\u5362\u6bd4\u574e\u7279",
+        "Name_de": "Rubicante",
+        "Name_en": "Rubicante",
+        "Name_fr": "Rubicante",
+        "Name_ja": "\u30eb\u30d3\u30ab\u30f3\u30c6",
+        "Name_ko": ""
+    },
+    "377": {
+        "0xID": "179",
+        "Name_cn": "",
+        "Name_de": "Venat",
+        "Name_en": "Venat",
+        "Name_fr": "Venat",
+        "Name_ja": "\u30f4\u30a7\u30fc\u30cd\u30b9",
+        "Name_ko": ""
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u8d1d\u5e0c\u6469\u65af",
+        "Name_de": "Behemoth",
+        "Name_en": "Behemoth",
+        "Name_fr": "b\u00e9h\u00e9moth",
+        "Name_ja": "\u30d9\u30d2\u30fc\u30e2\u30b9",
+        "Name_ko": "\ubca0\ud788\ubaa8\uc2a4"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u5409\u5c14\u4f3d\u7f8e\u4ec0&\u6069\u5947\u90fd",
+        "Name_de": "Gilgamesch & Enkidu",
+        "Name_en": "Gilgamesh & Enkidu",
+        "Name_fr": "Gilgamesh & Enkidu",
+        "Name_ja": "\u30ae\u30eb\u30ac\u30e1\u30c3\u30b7\u30e5\uff06\u30a8\u30f3\u30ad\u30c9\u30a5",
+        "Name_ko": "\uae38\uac00\uba54\uc2dc & \uc5d4\ud0a4\ub450"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u9b54\u77f3\u7cbe",
+        "Name_de": "Spriggan",
+        "Name_en": "Spriggan",
+        "Name_fr": "spriggan",
+        "Name_ja": "\u30b9\u30d7\u30ea\u30ac\u30f3",
+        "Name_ko": "\uc2a4\ud504\ub9ac\uac74"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u4f0a\u5f17\u5229\u7279",
+        "Name_de": "Ifrit",
+        "Name_en": "Ifrit",
+        "Name_fr": "Ifrit",
+        "Name_ja": "\u30a4\u30d5\u30ea\u30fc\u30c8",
+        "Name_ko": "\uc774\ud504\ub9ac\ud2b8"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u6cf0\u5766",
+        "Name_de": "Titan",
+        "Name_en": "Titan",
+        "Name_fr": "Titan",
+        "Name_ja": "\u30bf\u30a4\u30bf\u30f3",
+        "Name_ko": "\ud0c0\uc774\ud0c4"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u8fe6\u697c\u7f57",
+        "Name_de": "Garuda",
+        "Name_en": "Garuda",
+        "Name_fr": "Garuda",
+        "Name_ja": "\u30ac\u30eb\u30fc\u30c0",
+        "Name_ko": "\uac00\ub8e8\ub2e4"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u8d24\u738b\u83ab\u53e4\u5c14\u00b7\u83ab\u53e4\u5341\u4e8c\u4e16",
+        "Name_de": "Mogul Mog",
+        "Name_en": "Good King Moggle Mog XII",
+        "Name_fr": "Moggle Mog XII",
+        "Name_ja": "\u5584\u738b\u30e2\u30b0\u30eb\u30fb\u30e2\u30b0XII\u4e16",
+        "Name_ko": "\uc120\uc655 \ubaa8\uadf8\ub8e8 \ubaa8\uadf8 XII\uc138"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u62c9\u96c5\u00b7\u5965\u00b7\u795e\u7eb3&\u963f\u00b7\u5362\u6069\u00b7\u795e\u7eb3",
+        "Name_de": "Raya-O-Senna & A-Ruhn-Senna",
+        "Name_en": "Raya-O-Senna & A-Ruhn-Senna",
+        "Name_fr": "Raya-O-Senna & A-Ruhn-Senna",
+        "Name_ja": "\u30e9\u30e4\u30fb\u30aa\u30fb\u30bb\u30f3\u30ca\uff06\u30a2\u30fb\u30eb\u30f3\u30fb\u30bb\u30f3\u30ca",
+        "Name_ko": "\ub77c\uc57c \uc624 \uc13c\ub098 & \uc544 \ub8ec \uc13c\ub098"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u6208\u5fb7\u4f2f\u7279\u00b7\u66fc\u5fb7\u7ef4\u5c14",
+        "Name_de": "Godbert Manderville",
+        "Name_en": "Godbert Manderville",
+        "Name_fr": "Godbert",
+        "Name_ja": "\u30b4\u30c3\u30c9\u30d9\u30eb\u30c8\u30fb\u30de\u30f3\u30c0\u30f4\u30a3\u30eb",
+        "Name_ko": "\uace0\ub4dc\ubca0\ub974\ud2b8 \ub9e8\ub354\ube4c"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u6851\u514b\u745e\u5fb7",
+        "Name_de": "Thancred",
+        "Name_en": "Thancred",
+        "Name_fr": "Thancred",
+        "Name_ja": "\u30b5\u30f3\u30af\u30ec\u30c3\u30c9",
+        "Name_ko": "\uc0b0\ud06c\ub808\ub4dc"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u5c3c\u7984\u00b7\u6258\u5c14\u00b7\u65af\u5361\u827e\u74e6",
+        "Name_de": "Nero tol Scaeva",
+        "Name_en": "Nero tol Scaeva",
+        "Name_fr": "Nero",
+        "Name_ja": "\u30cd\u30ed\u30fb\u30c8\u30eb\u30fb\u30b9\u30ab\u30a8\u30a6\u30a1",
+        "Name_ko": "\ub124\ub85c \ud1a8 \uc2a4\uce74\uc774\uc640 "
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u5e15\u5e15\u529b\u83ab&\u4f0a\u8fbe",
+        "Name_de": "Papalymo & Yda",
+        "Name_en": "Papalymo & Yda",
+        "Name_fr": "Papalymo & Yda",
+        "Name_ja": "\u30d1\u30d1\u30ea\u30e2\uff06\u30a4\u30c0",
+        "Name_ko": "\ud30c\ud30c\ub9ac\ubaa8 & \uc774\ub2e4"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u96c5\u00b7\u4fee\u7279\u62c9",
+        "Name_de": "Y'shtola",
+        "Name_en": "Y'shtola",
+        "Name_fr": "Y'shtola",
+        "Name_ja": "\u30e4\u30fb\u30b7\u30e5\u30c8\u30e9",
+        "Name_ko": "\uc57c\uc288\ud1a8\ub77c"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u8f6f\u7cca\u602a",
+        "Name_de": "Pudding",
+        "Name_en": "Pudding",
+        "Name_fr": "pudding",
+        "Name_ja": "\u30d7\u30ea\u30f3",
+        "Name_ko": "\ud478\ub529"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u4e8e\u91cc\u6602\u70ed\u00b7\u5965\u5c45\u96f7",
+        "Name_de": "Urianger",
+        "Name_en": "Urianger",
+        "Name_fr": "Urianger",
+        "Name_ja": "\u30a6\u30ea\u30a8\u30f3\u30b8\u30a7\u30fb\u30aa\u30ae\u30e5\u30ec",
+        "Name_ko": "\uc704\ub9ac\uc559\uc81c \uc624\uadc0\ub808"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u7a76\u6781\u795e\u5175",
+        "Name_de": "Ultima-Waffe",
+        "Name_en": "Ultima Weapon",
+        "Name_fr": "Ultima Arma",
+        "Name_ja": "\u30a2\u30eb\u30c6\u30de\u30a6\u30a7\u30dd\u30f3",
+        "Name_ko": "\uc54c\ud14c\ub9c8 \uc6e8\ud3f0"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "\u5965\u4e01",
+        "Name_de": "Odin",
+        "Name_en": "Odin",
+        "Name_fr": "Odin",
+        "Name_ja": "\u30aa\u30fc\u30c7\u30a3\u30f3",
+        "Name_ko": "\uc624\ub518"
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u62c9\u59c6",
+        "Name_de": "Ramuh",
+        "Name_en": "Ramuh",
+        "Name_fr": "Ramuh",
+        "Name_ja": "\u30e9\u30e0\u30a6",
+        "Name_ko": "\ub77c\ubb34"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "\u5229\u7ef4\u4e9a\u6851",
+        "Name_de": "Leviathan",
+        "Name_en": "Leviathan",
+        "Name_fr": "L\u00e9viathan",
+        "Name_ja": "\u30ea\u30f4\u30a1\u30a4\u30a2\u30b5\u30f3",
+        "Name_ko": "\ub9ac\ubc14\uc774\uc5b4\uc120"
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u5e0c\u74e6",
+        "Name_de": "Shiva",
+        "Name_en": "Shiva",
+        "Name_fr": "Shiva",
+        "Name_ja": "\u30b7\u30f4\u30a1",
+        "Name_ko": "\uc2dc\ubc14"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u654f\u83f2\u5229\u4e9a",
+        "Name_de": "Minfilia",
+        "Name_en": "Minfilia",
+        "Name_fr": "Minfilia",
+        "Name_ja": "\u30df\u30f3\u30d5\u30a3\u30ea\u30a2",
+        "Name_ko": "\ubbfc\ud544\ub9ac\uc544"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u65e0\u5f71\u62c9\u54c8\u5e03\u96f7\u4e9a",
+        "Name_de": "Lahabrea",
+        "Name_en": "Lahabrea",
+        "Name_fr": "Lahabrea",
+        "Name_ja": "\u30a2\u30b7\u30a8\u30f3\u30fb\u30e9\u30cf\u30d6\u30ec\u30a2",
+        "Name_ko": "\uc544\uc528\uc5d4 \ub77c\ud558\ube0c\ub808\uc544"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u897f\u5fb7\u00b7\u52a0\u9686\u5fb7",
+        "Name_de": "Cid Garlond",
+        "Name_en": "Cid Garlond",
+        "Name_fr": "Cid",
+        "Name_ja": "\u30b7\u30c9\u30fb\u30ac\u30fc\u30ed\u30f3\u30c9",
+        "Name_ko": "\uc2dc\ub4dc \uac08\ub860\ub4dc"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u963f\u5c14\u83f2\u8bfa&\u963f\u8389\u585e",
+        "Name_de": "Alphinaud & Alisaie",
+        "Name_en": "Alphinaud & Alisaie",
+        "Name_fr": "Alphinaud & Alisaie",
+        "Name_ja": "\u30a2\u30eb\u30d5\u30a3\u30ce\uff06\u30a2\u30ea\u30bc\u30fc",
+        "Name_ko": "\uc54c\ud53c\ub178 & \uc54c\ub9ac\uc81c"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u7206\u5f39\u602a",
+        "Name_de": "Bomber",
+        "Name_en": "Bomb",
+        "Name_fr": "bombo",
+        "Name_ja": "\u30dc\u30e0",
+        "Name_ko": "\ubd04"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "\u8def\u6613\u7d22\u74e6\u00b7\u83b1\u97e6\u8036\u52d2\u5c14",
+        "Name_de": "Louisoix Leveilleur",
+        "Name_en": "Louisoix Leveilleur",
+        "Name_fr": "Louisoix",
+        "Name_ja": "\u30eb\u30a4\u30be\u30ef\u30fb\u30eb\u30f4\u30a7\u30e6\u30fc\u30eb",
+        "Name_ko": "\ub8e8\uc774\uc218\uc544 \ub974\ubca0\uc720\ub974"
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u5df4\u54c8\u59c6\u7279",
+        "Name_de": "Bahamut",
+        "Name_en": "Bahamut",
+        "Name_fr": "Bahamut",
+        "Name_ja": "\u30d0\u30cf\u30e0\u30fc\u30c8",
+        "Name_ko": "\ubc14\ud558\ubb34\ud2b8"
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u5e0c\u5c14\u8fea\u5e03\u5170\u5fb7&\u5a1c\u4fee\u00b7\u739b\u5361\u62c9\u5361",
+        "Name_de": "Hildibrand & Nashu",
+        "Name_en": "Hildibrand & Nashu Mhakaracca",
+        "Name_fr": "Hildibrand & Nashu",
+        "Name_ja": "\u30d2\u30eb\u30c7\u30a3\u30d6\u30e9\u30f3\u30c9\uff06\u30ca\u30b7\u30e5\u30fb\u30de\u30ab\u30e9\u30c3\u30ab",
+        "Name_ko": "\ud790\ub514\ube0c\ub79c\ub4dc & \ub098\uc288 \ub9c8\uce74\ub77c\uce74"
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "\u5a1c\u5a1c\u83ab\u00b7\u4e4c\u5c14\u00b7\u5a1c\u83ab",
+        "Name_de": "Nanamo",
+        "Name_en": "Nanamo Ul Namo",
+        "Name_fr": "Nanamo",
+        "Name_ja": "\u30ca\u30ca\u30e2\u30fb\u30a6\u30eb\u30fb\u30ca\u30e2",
+        "Name_ko": "\ub098\ub098\ubaa8 \uc6b8 \ub098\ubaa8"
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "\u76d6\u4e4c\u65af\u00b7\u8303\u00b7\u5df4\u57c3\u8428",
+        "Name_de": "Gaius van Baelsar",
+        "Name_en": "Gaius van Baelsar",
+        "Name_fr": "Gaius",
+        "Name_ja": "\u30ac\u30a4\u30a6\u30b9\u30fb\u30f4\u30a1\u30f3\u30fb\u30d0\u30a8\u30b5\u30eb",
+        "Name_ko": "\uac00\uc774\uc6b0\uc2a4 \ubc18 \ubc14\uc77c\uc0ac\ub974"
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "\u6885\u5c14\u7ef4\u5e03\u00b7\u5e03\u9c81\u83f2\u65af\u7ef4\u56e0",
+        "Name_de": "Merlwyb",
+        "Name_en": "Merlwyb Bloefhiswyn",
+        "Name_fr": "Merlwyb",
+        "Name_ja": "\u30e1\u30eb\u30a6\u30a3\u30d6\u30fb\u30d6\u30eb\u30fc\u30d5\u30a3\u30b9\u30a6\u30a3\u30f3",
+        "Name_ko": "\uba5c\uc704\ube0c \ube14\ub8e8\ud53c\uc270"
+    },
+    "66": {
+        "0xID": "42",
+        "Name_cn": "\u5609\u6069\u00b7\u827e\u00b7\u795e\u7eb3",
+        "Name_de": "Kan-E-Senna",
+        "Name_en": "Kan-E-Senna",
+        "Name_fr": "Kan-E-Senna",
+        "Name_ja": "\u30ab\u30cc\u30fb\u30a8\u30fb\u30bb\u30f3\u30ca",
+        "Name_ko": "\uce74\ub290 \uc5d0 \uc13c\ub098"
+    },
+    "67": {
+        "0xID": "43",
+        "Name_cn": "\u52b3\u73ed\u00b7\u963f\u5c14\u4e01",
+        "Name_de": "Raubahn",
+        "Name_en": "Raubahn Aldynn",
+        "Name_fr": "Raubahn",
+        "Name_ja": "\u30e9\u30a6\u30d0\u30fc\u30f3\u30fb\u30a2\u30eb\u30c7\u30a3\u30f3",
+        "Name_ko": "\ub77c\uc6b0\ubc18 \uc54c\ub518"
+    },
+    "68": {
+        "0xID": "44",
+        "Name_cn": "\u5149\u4e4b\u6218\u58eb",
+        "Name_de": "Krieger des Lichts",
+        "Name_en": "Warrior of Light",
+        "Name_fr": "Guerrier de la Lumi\u00e8re",
+        "Name_ja": "\u30a6\u30a9\u30fc\u30ea\u30a2\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Name_ko": "\ube5b\uc758 \uc804\uc0ac"
+    },
+    "69": {
+        "0xID": "45",
+        "Name_cn": "\u5f17\u5229\u5965\u5c3c\u5c14",
+        "Name_de": "Firion",
+        "Name_en": "Firion",
+        "Name_fr": "Firion",
+        "Name_ja": "\u30d5\u30ea\u30aa\u30cb\u30fc\u30eb",
+        "Name_ko": "\ud504\ub9ac\uc624\ub2d0"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u8513\u5fb7\u62c9",
+        "Name_de": "Mandragora",
+        "Name_en": "Mandragora",
+        "Name_fr": "mandragore",
+        "Name_ja": "\u30de\u30f3\u30c9\u30e9\u30b4\u30e9",
+        "Name_ko": "\ub9cc\ub4dc\ub77c\uace0\ub77c"
+    },
+    "70": {
+        "0xID": "46",
+        "Name_cn": "\u6d0b\u8471\u5251\u58eb",
+        "Name_de": "Zwiebelritter",
+        "Name_en": "Onion Knight",
+        "Name_fr": "chevalier Oignon",
+        "Name_ja": "\u30aa\u30cb\u30aa\u30f3\u30ca\u30a4\u30c8",
+        "Name_ko": "\uc591\ud30c \uae30\uc0ac"
+    },
+    "71": {
+        "0xID": "47",
+        "Name_cn": "\u585e\u897f\u5c14\u00b7\u54c8\u7ef4",
+        "Name_de": "Cecil Harvey",
+        "Name_en": "Cecil Harvey",
+        "Name_fr": "C\u00e9cil",
+        "Name_ja": "\u30bb\u30b7\u30eb\u30fb\u30cf\u30fc\u30f4\u30a3",
+        "Name_ko": "\uc138\uc2e4 \ud558\ube44"
+    },
+    "72": {
+        "0xID": "48",
+        "Name_cn": "\u5df4\u5179\u00b7\u514b\u52b3\u6cfd",
+        "Name_de": "Bartz Klauser",
+        "Name_en": "Bartz Klauser",
+        "Name_fr": "Bartz",
+        "Name_ja": "\u30d0\u30c3\u30c4\u30fb\u30af\u30e9\u30a6\u30b6\u30fc",
+        "Name_ko": "\ubc14\uce20 \ud074\ub77c\uc6b0\uc800"
+    },
+    "73": {
+        "0xID": "49",
+        "Name_cn": "\u8482\u5a1c\u00b7\u5e03\u5170\u798f\u5fb7",
+        "Name_de": "Terra Branford",
+        "Name_en": "Terra Branford",
+        "Name_fr": "Terra",
+        "Name_ja": "\u30c6\u30a3\u30ca\u30fb\u30d6\u30e9\u30f3\u30d5\u30a9\u30fc\u30c9",
+        "Name_ko": "\ud2f0\ub098 \ube0c\ub79c\ud3ec\ub4dc"
+    },
+    "74": {
+        "0xID": "4A",
+        "Name_cn": "\u514b\u52b3\u5fb7\u00b7\u65af\u7279\u83b1\u592b",
+        "Name_de": "Cloud Strife",
+        "Name_en": "Cloud Strife",
+        "Name_fr": "Cloud",
+        "Name_ja": "\u30af\u30e9\u30a6\u30c9\u30fb\u30b9\u30c8\u30e9\u30a4\u30d5",
+        "Name_ko": "\ud074\ub77c\uc6b0\ub4dc \uc2a4\ud2b8\ub77c\uc774\ud504"
+    },
+    "75": {
+        "0xID": "4B",
+        "Name_cn": "\u65af\u8003\u5c14\u00b7\u83b1\u6602\u54c8\u7279",
+        "Name_de": "Squall Leonhart",
+        "Name_en": "Squall Leonhart",
+        "Name_fr": "Squall",
+        "Name_ja": "\u30b9\u30b3\u30fc\u30eb\u30fb\u30ec\u30aa\u30f3\u30cf\u30fc\u30c8",
+        "Name_ko": "\uc2a4\ucf5c \ub808\uc628\ud558\ud2b8"
+    },
+    "76": {
+        "0xID": "4C",
+        "Name_cn": "\u5409\u5766\u00b7\u7279\u83b1\u5df4\u5c14",
+        "Name_de": "Zidane Tribal",
+        "Name_en": "Zidane Tribal",
+        "Name_fr": "Djidane",
+        "Name_ja": "\u30b8\u30bf\u30f3\u30fb\u30c8\u30e9\u30a4\u30d0\u30eb",
+        "Name_ko": "\uc9c0\ud0c4 \ud2b8\ub77c\uc774\ubc8c"
+    },
+    "77": {
+        "0xID": "4D",
+        "Name_cn": "\u63d0\u8fbe",
+        "Name_de": "Tidus",
+        "Name_en": "Tidus",
+        "Name_fr": "Tidus",
+        "Name_ja": "\u30c6\u30a3\u30fc\u30c0",
+        "Name_ko": "\ud2f0\ub2e4"
+    },
+    "78": {
+        "0xID": "4E",
+        "Name_cn": "\u9999\u6258\u6258",
+        "Name_de": "Shantotto",
+        "Name_en": "Shantotto",
+        "Name_fr": "Shantotto",
+        "Name_ja": "\u30b7\u30e3\u30f3\u30c8\u30c3\u30c8",
+        "Name_ko": "\uc0e8\ud1a0\ud1a0"
+    },
+    "79": {
+        "0xID": "4F",
+        "Name_cn": "\u68b5",
+        "Name_de": "Vaan",
+        "Name_en": "Vaan",
+        "Name_fr": "Vaan",
+        "Name_ja": "\u30f4\u30a1\u30f3",
+        "Name_ko": "\ubc18"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u77ff\u722c\u866b",
+        "Name_de": "Kobalos",
+        "Name_en": "Coblyn",
+        "Name_fr": "coblyn",
+        "Name_ja": "\u30b3\u30d6\u30e9\u30f3",
+        "Name_ko": "\ucf54\ube0c\ub780"
+    },
+    "80": {
+        "0xID": "50",
+        "Name_cn": "\u96f7\u5149",
+        "Name_de": "Lightning",
+        "Name_en": "Lightning",
+        "Name_fr": "Lightning",
+        "Name_ja": "\u30e9\u30a4\u30c8\u30cb\u30f3\u30b0",
+        "Name_ko": "\ub77c\uc774\ud2b8\ub2dd"
+    },
+    "81": {
+        "0xID": "51",
+        "Name_cn": "\u98ce\u7b5d\u732b",
+        "Name_de": "Geira-Katze",
+        "Name_en": "Gaelicat",
+        "Name_fr": "ga\u00e9lichat",
+        "Name_ja": "\u30b2\u30a4\u30e9\u30ad\u30e3\u30c3\u30c8",
+        "Name_ko": "\uac8c\uc77c\ub9ac\ucea3"
+    },
+    "82": {
+        "0xID": "52",
+        "Name_cn": "\u74e6\u52aa\u65cf",
+        "Name_de": "Vanu Vanu",
+        "Name_en": "Vanu Vanu",
+        "Name_fr": "Vanu Vanu",
+        "Name_ja": "\u30d0\u30cc\u30d0\u30cc",
+        "Name_ko": "\ubc14\ub204\ubc14\ub204"
+    },
+    "83": {
+        "0xID": "53",
+        "Name_cn": "\u9aa8\u988c\u65cf",
+        "Name_de": "Gnath",
+        "Name_en": "Gnath",
+        "Name_fr": "Gnathe",
+        "Name_ja": "\u30b0\u30ca\u30fc\u30b9",
+        "Name_ko": "\uadf8\ub098\uc2a4"
+    },
+    "84": {
+        "0xID": "54",
+        "Name_cn": "\u96fe\u4e2d\u884c\u8005\u5915\u96fe",
+        "Name_de": "Yugiri Nebelschleicher",
+        "Name_en": "Yugiri Mistwalker",
+        "Name_fr": "Yugiri",
+        "Name_ja": "\u9727\u96a0\u306e\u30e6\u30a6\u30ae\u30ea",
+        "Name_ko": "\uc548\uac1c\uc758 \uc720\uc6b0\uae30\ub9ac"
+    },
+    "85": {
+        "0xID": "55",
+        "Name_cn": "\u80d6\u9646\u884c\u9e1f",
+        "Name_de": "Chocomoppel",
+        "Name_en": "Fat Chocobo",
+        "Name_fr": "gros chocobo",
+        "Name_ja": "\u3067\u3076\u30c1\u30e7\u30b3\u30dc",
+        "Name_ko": "\ub6b1\ubcf4\ucd08\ucf54\ubcf4"
+    },
+    "86": {
+        "0xID": "56",
+        "Name_cn": "\u72ee\u9e6b",
+        "Name_de": "Greif",
+        "Name_en": "Griffin",
+        "Name_fr": "griffon",
+        "Name_ja": "\u30b0\u30ea\u30d5\u30a3\u30f3",
+        "Name_ko": "\uadf8\ub9ac\ud540"
+    },
+    "87": {
+        "0xID": "57",
+        "Name_cn": "\u5201\u66fc",
+        "Name_de": "Tioman",
+        "Name_en": "Tioman",
+        "Name_fr": "Tioman",
+        "Name_ja": "\u30c6\u30a3\u30aa\u30de\u30f3",
+        "Name_ko": "\ud2f0\uc624\ub9cc"
+    },
+    "88": {
+        "0xID": "58",
+        "Name_cn": "\u57c3\u65af\u8482\u5c3c\u5b89",
+        "Name_de": "Estinien",
+        "Name_en": "Estinien",
+        "Name_fr": "Estinien",
+        "Name_ja": "\u30a8\u30b9\u30c6\u30a3\u30cb\u30a2\u30f3",
+        "Name_ko": "\uc5d0\uc2a4\ud2f0\ub2c8\uc559"
+    },
+    "89": {
+        "0xID": "59",
+        "Name_cn": "\u9732\u742a\u4e9a",
+        "Name_de": "Lucia goe Junius",
+        "Name_en": "Lucia goe Junius",
+        "Name_fr": "Lucia goe Junius",
+        "Name_ja": "\u30eb\u30ad\u30a2",
+        "Name_ko": "\ub8e8\ud0a4\uc544"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u9b54\u754c\u82b1",
+        "Name_de": "Morbol",
+        "Name_en": "Morbol",
+        "Name_fr": "morbol",
+        "Name_ja": "\u30e2\u30eb\u30dc\u30eb",
+        "Name_ko": "\ubab0\ubcfc"
+    },
+    "90": {
+        "0xID": "5A",
+        "Name_cn": "\u4f0a\u585e\u52d2",
+        "Name_de": "Ysayle",
+        "Name_en": "Ysayle",
+        "Name_fr": "Ysayle",
+        "Name_ja": "\u30a4\u30bc\u30eb",
+        "Name_ko": "\uc774\uc824"
+    },
+    "91": {
+        "0xID": "5B",
+        "Name_cn": "\u5e0c\u5c14\u8fbe",
+        "Name_de": "Hilda",
+        "Name_en": "Hilda",
+        "Name_fr": "Hilda",
+        "Name_ja": "\u30d2\u30eb\u30c0",
+        "Name_ko": "\ud790\ub2e4"
+    },
+    "92": {
+        "0xID": "5C",
+        "Name_cn": "\u739b\u6258\u96c5",
+        "Name_de": "Matoya",
+        "Name_en": "Matoya",
+        "Name_fr": "Matoya",
+        "Name_ja": "\u30de\u30c8\u30fc\u30e4",
+        "Name_ko": "\ub9c8\ud1a0\uc57c"
+    },
+    "93": {
+        "0xID": "5D",
+        "Name_cn": "\u57c3\u5fb7\u8499\u00b7\u5fb7\u00b7\u798f\u5c14\u5510",
+        "Name_de": "Graf Edmont Fortemps",
+        "Name_en": "Count Edmont de Fortemps",
+        "Name_fr": "Edmont de Fortemps",
+        "Name_ja": "\u30a8\u30c9\u30e2\u30f3\u30fb\u30c9\u30fb\u30d5\u30a9\u30eb\u30bf\u30f3",
+        "Name_ko": "\uc5d0\ub4dc\ubabd \ub4dc \ud3ec\ub974\ud0d5"
+    },
+    "94": {
+        "0xID": "5E",
+        "Name_cn": "\u6bd4\u5e03\u9c81\u65af",
+        "Name_de": "Byblos",
+        "Name_en": "Byblos",
+        "Name_fr": "Byblos",
+        "Name_ja": "\u30d3\u30d6\u30ed\u30b9",
+        "Name_ko": "\ube44\ube14\ub85c\uc2a4"
+    },
+    "95": {
+        "0xID": "5F",
+        "Name_cn": "\u5965\u5c14\u4ec0\u65b9",
+        "Name_de": "Haurchefant",
+        "Name_en": "Haurchefant",
+        "Name_fr": "Haurchefant",
+        "Name_ja": "\u30aa\u30eb\u30b7\u30e5\u30d5\u30a1\u30f3",
+        "Name_ko": "\uc624\ub974\uc288\ud321"
+    },
+    "96": {
+        "0xID": "60",
+        "Name_cn": "\u827e\u9ed8\u91cc\u514b",
+        "Name_de": "Aymeric",
+        "Name_en": "Aymeric",
+        "Name_fr": "Aymeric",
+        "Name_ja": "\u30a2\u30a4\u30e1\u30ea\u30af",
+        "Name_ko": "\uc544\uc774\uba54\ub9ac\ud06c"
+    },
+    "97": {
+        "0xID": "61",
+        "Name_cn": "\u7f57\u6ce2\u90a3",
+        "Name_de": "Ravana",
+        "Name_en": "Ravana",
+        "Name_fr": "Ravana",
+        "Name_ja": "\u30e9\u30fc\u30f4\u30a1\u30ca",
+        "Name_ko": "\ub77c\ubc14\ub098"
+    },
+    "98": {
+        "0xID": "62",
+        "Name_cn": "\u4ffe\u65af\u9ea6",
+        "Name_de": "Bismarck",
+        "Name_en": "Bismarck",
+        "Name_fr": "Bismarck",
+        "Name_ja": "\u30d3\u30b9\u30de\u30eb\u30af",
+        "Name_ko": "\ube44\uc2a4\ub9c8\ub974\ud06c"
+    },
+    "99": {
+        "0xID": "63",
+        "Name_cn": "\u5c3c\u5fb7\u970d\u683c",
+        "Name_de": "Nidhogg",
+        "Name_en": "Nidhogg",
+        "Name_fr": "Nidhogg",
+        "Name_ja": "\u30cb\u30fc\u30ba\u30d8\u30c3\u30b0",
+        "Name_ko": "\ub2c8\ub4dc\ud638\uadf8"
+    }
+}

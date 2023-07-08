@@ -1,0 +1,308 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "col_0_cn": "\u7b2c1\u5173\uff1a\u65b0\u624b\u6559\u5b66",
+        "col_0_de": "Stufe 1: Einf\u00fchrung",
+        "col_0_en": "Stage 1: Tutorial",
+        "col_0_fr": "Bataille 1 : Tutoriel",
+        "col_0_ja": "\u7b2c1\u7bc0\uff1a\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb",
+        "col_0_ko": "\uc81c1\uc7a5: \uae30\ubcf8 \uc870\uc791"
+    },
+    "10": {
+        "0xID": "A",
+        "col_0_cn": "\u7b2c10\u5173\uff1a\u8513\u5fb7\u62c9\u4e4b\u5b50",
+        "col_0_de": "Stufe 10: Mandragora-Salat",
+        "col_0_en": "Stage 10: Children of Mandragora",
+        "col_0_fr": "Bataille 10 : Invasion de mandragores",
+        "col_0_ja": "\u7b2c10\u7bc0\uff1a\u30de\u30f3\u30c9\u30e9\u5e1d\u56fd\u306e\u9006\u8972",
+        "col_0_ko": "\uc81c10\uc7a5: \ub9cc\ub4dc\ub77c \uc81c\uad6d\uc758 \uc5ed\uc2b5"
+    },
+    "11": {
+        "0xID": "B",
+        "col_0_cn": "\u7b2c11\u5173\uff1a\u5973\u738b\u965b\u4e0b\u4e07\u5c81\uff01",
+        "col_0_de": "Stufe 11: Die trabant\u00e4ische Allianz",
+        "col_0_en": "Stage 11: The Queen and I",
+        "col_0_fr": "Bataille 11 : Longue vie aux Sultanes !",
+        "col_0_ja": "\u7b2c11\u7bc0\uff1a\u5973\u738b\u965b\u4e0b\u4e07\u6b73\uff01",
+        "col_0_ko": "\uc81c11\uc7a5: \uc5ec\uc655 \ud3d0\ud558 \ub9cc\uc138!"
+    },
+    "12": {
+        "0xID": "C",
+        "col_0_cn": "\u7b2c12\u5173\uff1a\u6253\u7816\u5757",
+        "col_0_de": "Stufe 12: Alea iacta est",
+        "col_0_en": "Stage 12: Breakout",
+        "col_0_fr": "Bataille 12 : Ch\u00e2teau d'Amdapeur",
+        "col_0_ja": "\u7b2c12\u7bc0\uff1a\u30c7\u30e2\u30f3\u30ba\u30d6\u30ed\u30c3\u30af\u5d29\u3057",
+        "col_0_ko": "\uc81c12\uc7a5: \uc545\ub9c8\uc758 \ubcbd\ub3cc \uae68\uae30"
+    },
+    "13": {
+        "0xID": "D",
+        "col_0_cn": "\u7b2c13\u5173\uff1a\u9996\u5e2d\u673a\u68b0\u5e08",
+        "col_0_de": "Stufe 13: Luftadmiral Garlond",
+        "col_0_en": "Stage 13: My Name Is Cid",
+        "col_0_fr": "Bataille 13 : \u00c9preuve des Forges",
+        "col_0_ja": "\u7b2c13\u7bc0\uff1a\u7b46\u982d\u6a5f\u5de5\u5e2b\u30ac\u30fc\u30ed\u30f3\u30c9",
+        "col_0_ko": "\uc81c13\uc7a5: \uc218\uc11d \uae30\uacf5\uc0ac \uac08\ub860\ub4dc"
+    },
+    "14": {
+        "0xID": "E",
+        "col_0_cn": "\u7b2c14\u5173\uff1a\u786c\u5982\u575a\u679c",
+        "col_0_de": "Stufe 14: Eins auf die Nuss",
+        "col_0_en": "Stage 14: Like a Nut",
+        "col_0_fr": "Bataille 14 : Casse-noisette",
+        "col_0_ja": "\u7b2c14\u7bc0\uff1a\u30ca\u30c3\u30c4\u306e\u5473\u306b\u306f\u3082\u3046\u98fd\u304d\u305f",
+        "col_0_ko": "\uc81c14\uc7a5: \ub545\ucf69\uc740 \uc774\uc81c \uadf8\ub9cc"
+    },
+    "15": {
+        "0xID": "F",
+        "col_0_cn": "\u7b2c15\u5173\uff1a\u5c0f\u5c0f\u6597\u795e\u8ba8\u4f10\u6218",
+        "col_0_de": "Stufe 15: Der Dunkle Reiter",
+        "col_0_en": "Stage 15: Urth's Spout",
+        "col_0_fr": "Bataille 15 : Mini-fontaine d'Urth",
+        "col_0_ja": "\u7b2c15\u7bc0\uff1a\u6975\u5c0f\u30aa\u30fc\u30c7\u30a3\u30f3\u8a0e\u6ec5\u6226",
+        "col_0_ko": "\uc81c15\uc7a5: \uc18c \uc624\ub518 \ud1a0\ubc8c\uc804"
+    },
+    "16": {
+        "0xID": "10",
+        "col_0_cn": "\u7b2c16\u5173\uff1a\u9646\u884c\u9e1f\u5927\u8fdb\u519b",
+        "col_0_de": "Stufe 16: Chocobo-Mania",
+        "col_0_en": "Stage 16: Exodus",
+        "col_0_fr": "Bataille 16 : Parade des chocobos",
+        "col_0_ja": "\u7b2c16\u7bc0\uff1a\u30c1\u30e7\u30b3\u30dc\u5927\u884c\u9032",
+        "col_0_ko": "\uc81c16\uc7a5: \ucd08\ucf54\ubcf4 \ub300\ud589\uc9c4"
+    },
+    "17": {
+        "0xID": "11",
+        "col_0_cn": "\u7b2c17\u5173\uff1a\u62ab\u96ea\u5c0f\u51b0\u58c1",
+        "col_0_de": "Stufe 17: Jenseits des Schneekleids",
+        "col_0_en": "Stage 17: Over the Wall",
+        "col_0_fr": "Bataille 17 : Bonhommes de Manteneige",
+        "col_0_ja": "\u7b2c17\u7bc0\uff1a\u878d\u89e3\u3001\u30b9\u30ce\u30fc\u30af\u30ed\u30fc\u30af\u5c0f\u6c37\u58c1",
+        "col_0_ko": "\uc81c17\uc7a5: \uc5bc\uc74c\uc678\ud22c \uc18c\ube59\ubcbd\uc744 \ub179\uc5ec\ub77c"
+    },
+    "18": {
+        "0xID": "12",
+        "col_0_cn": "\u7b2c18\u5173\uff1a\u5c0f\u602a\u7269\u72e9\u730e",
+        "col_0_de": "Stufe 18: Die Trabanten-Jagd",
+        "col_0_en": "Stage 18: The Hunt",
+        "col_0_fr": "Bataille 18 : Mini-contrat de chasse",
+        "col_0_ja": "\u7b2c18\u7bc0\uff1a\u5c0f\u3055\u306a\u30e2\u30d6\u30cf\u30f3\u30c8",
+        "col_0_ko": "\uc81c18\uc7a5: \uc791\uc740 \ub9c8\ubb3c \uc0ac\ub0e5"
+    },
+    "19": {
+        "0xID": "13",
+        "col_0_cn": "\u7b2c19\u5173\uff1a\u5c0f\u6865\u4e0a\u7684\u51b3\u6597",
+        "col_0_de": "Stufe 19: Gilgameschs H\u00fchnerstall",
+        "col_0_en": "Stage 19: Battle on the Bitty Bridge",
+        "col_0_fr": "Bataille 19 : Revanche de Gilgamini",
+        "col_0_ja": "\u7b2c19\u7bc0\uff1a\u6975\u5c0f\u30ae\u30eb\u30ac\u30e1\u30c3\u30b7\u30e5\u8a0e\u6ec5\u6226",
+        "col_0_ko": "\uc81c19\uc7a5: \uc18c \uae38\uac00\uba54\uc2dc \ud1a0\ubc8c\uc804"
+    },
+    "2": {
+        "0xID": "2",
+        "col_0_cn": "\u7b2c2\u5173\uff1a\u5230\u5904\u90fd\u662f\u5de7\u513f\u9e1f",
+        "col_0_de": "Stufe 2: Federn lassen",
+        "col_0_en": "Stage 2: Hatching a Plan",
+        "col_0_fr": "Bataille 2 : \u00d4 beaux chocobos",
+        "col_0_ja": "\u7b2c2\u7bc0\uff1a\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc",
+        "col_0_ko": "\uc81c2\uc7a5: \ucd08\ucf54\ucd08\ucf54\ucd08\ucf54\ucd08\ucf54\ubcf4"
+    },
+    "20": {
+        "0xID": "14",
+        "col_0_cn": "\u7b2c20\u5173\uff1a\u613f\u6c34\u6676\u7ed9\u4e88\u4f60\u6307\u5f15",
+        "col_0_de": "Stufe 20: Trabanten des Lichts",
+        "col_0_en": "Stage 20: Guiding Light",
+        "col_0_fr": "Bataille 20 : Pouvoir de la Lumi\u00e8re",
+        "col_0_ja": "\u7b2c20\u7bc0\uff1a\u6c5d\u306b\u30af\u30ea\u30b9\u30bf\u30eb\u306e\u5c0e\u304d\u3042\u308c",
+        "col_0_ko": "\uc81c20\uc7a5: \uadf8\ub300\uc5d0\uac8c \ud06c\ub9ac\uc2a4\ud0c8\uc758 \uc778\ub3c4\uac00 \uc788\uae30\ub97c"
+    },
+    "21": {
+        "0xID": "15",
+        "col_0_cn": "\u7b2c21\u5173\uff1a\u8d24\u8005\u7684\u8bd5\u70bc",
+        "col_0_de": "Stufe 21: Die Leveilleurs",
+        "col_0_en": "Stage 21: Wise Words",
+        "col_0_fr": "Bataille 21 : Louisoix et petits fils",
+        "col_0_ja": "\u7b2c21\u7bc0\uff1a\u8ce2\u4eba\u30eb\u30a4\u30be\u30ef\u306e\u8a66\u7df4",
+        "col_0_ko": "\uc81c21\uc7a5: \ud604\uc778 \ub8e8\uc774\uc218\uc544\uc758 \uc2dc\ub828"
+    },
+    "22": {
+        "0xID": "16",
+        "col_0_cn": "\u7b2c22\u5173\uff1a\u6697\u6de1\u7684\u4e16\u754c",
+        "col_0_de": "Stufe 22: Kleine Welt der Dunkelheit",
+        "col_0_en": "Stage 22: World of Poor Lighting",
+        "col_0_fr": "Bataille 22 : Monde des Quasi-t\u00e9n\u00e8bres",
+        "col_0_ja": "\u7b2c22\u7bc0\uff1a\u8584\u95c7\u306e\u4e16\u754c",
+        "col_0_ko": "\uc81c22\uc7a5: \uc605\uc740 \uc5b4\ub460\uc758 \uc138\uacc4"
+    },
+    "23": {
+        "0xID": "17",
+        "col_0_cn": "\u7b2c23\u5173\uff1a\u5df4\u54c8\u59c6\u7279\u5c0f\u8ff7\u5bab\u9082\u9005\u4e4b\u7ae0",
+        "col_0_de": "Stufe 23: In die Verschlungenen Schatten",
+        "col_0_en": "Stage 23: The Binding Coil",
+        "col_0_fr": "Bataille 23 : Labyrinthe de Basta-mut",
+        "col_0_ja": "\u7b2c23\u7bc0\uff1a\u5927\u8ff7\u60d1\u30d0\u30cf\u30e0\u30fc\u30c8\u9082\u9005\u7de8",
+        "col_0_ko": "\uc81c23\uc7a5: \ub300\ud63c\ub780 \ubc14\ud558\ubb34\ud2b8 \ud574\ud6c4\ud3b8"
+    },
+    "24": {
+        "0xID": "18",
+        "col_0_cn": "\u7b2c24\u5173\uff1a\u5df4\u54c8\u59c6\u7279\u5c0f\u8ff7\u5bab\u771f\u6e90\u4e4b\u7ae0",
+        "col_0_de": "Stufe 24: Bahamut, der Aufzieh-Primae",
+        "col_0_en": "Stage 24: The Final Coil",
+        "col_0_fr": "Bataille 24 : Ab\u00eeme de Basta-mut",
+        "col_0_ja": "\u7b2c24\u7bc0\uff1a\u5927\u8ff7\u60d1\u30d0\u30cf\u30e0\u30fc\u30c8\u771f\u6210\u7de8",
+        "col_0_ko": "\uc81c24\uc7a5: \ub300\ud63c\ub780 \ubc14\ud558\ubb34\ud2b8 \uc9c4\uc131\ud3b8"
+    },
+    "25": {
+        "0xID": "19",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "26": {
+        "0xID": "1A",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "27": {
+        "0xID": "1B",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "28": {
+        "0xID": "1C",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "29": {
+        "0xID": "1D",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "3": {
+        "0xID": "3",
+        "col_0_cn": "\u7b2c3\u5173\uff1a\u4e07\u4e8b\u5f00\u5934\u96be",
+        "col_0_de": "Stufe 3: Angriff der Ungeziefer",
+        "col_0_en": "Stage 3: The First Move",
+        "col_0_fr": "Bataille 3 : Des ouvertures",
+        "col_0_ja": "\u7b2c3\u7bc0\uff1a\u5e8f\u76e4\u306b\u3042\u308a\u305d\u3046\u306a\u6226\u3044",
+        "col_0_ko": "\uc81c3\uc7a5: \uc804\ud22c\uc758 \uccab\uac78\uc74c"
+    },
+    "30": {
+        "0xID": "1E",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "32": {
+        "0xID": "20",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "33": {
+        "0xID": "21",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "4": {
+        "0xID": "4",
+        "col_0_cn": "\u7b2c4\u5173\uff1a\u5c0f\u5c0f\u5de8\u517d",
+        "col_0_de": "Stufe 4: Riesenbaby-Goobbue",
+        "col_0_en": "Stage 4: Little Big Beast",
+        "col_0_fr": "Bataille 4 : Grosses petites bestioles",
+        "col_0_ja": "\u7b2c4\u7bc0\uff1a\u5c0f\u3055\u306a\u5de8\u7363",
+        "col_0_ko": "\uc81c4\uc7a5: \uaf2c\ub9c8 \uad34\uc218"
+    },
+    "5": {
+        "0xID": "5",
+        "col_0_cn": "\u7b2c5\u5173\uff1a\u86ee\u65cf\u53db\u4e71",
+        "col_0_de": "Stufe 5: Aufstand der Wilden",
+        "col_0_en": "Stage 5: Turning Tribes",
+        "col_0_fr": "Bataille 5 : Hommes-b\u00eates r\u00e9volt\u00e9s",
+        "col_0_ja": "\u7b2c5\u7bc0\uff1a\u86ee\u65cf\u305f\u3061\u306e\u53cd\u4e71",
+        "col_0_ko": "\uc81c5\uc7a5: \uc57c\ub9cc\uc871\ub4e4\uc758 \ubc18\ub780"
+    },
+    "6": {
+        "0xID": "6",
+        "col_0_cn": "\u7b2c6\u5173\uff1a\u6050\u6016\u7684\u5893\u56ed",
+        "col_0_de": "Stufe 6: Gedankenspiele",
+        "col_0_en": "Stage 6: Off the Deepcroft",
+        "col_0_fr": "Bataille 6 : Hypog\u00e9e de Tam-Tam",
+        "col_0_ja": "\u7b2c6\u7bc0\uff1a\u6050\u6016\u3001\u30bf\u30e9\u30bf\u30e9\u306e\u5893\u6240",
+        "col_0_ko": "\uc81c6\uc7a5: \ud0c0\ub77c\ud0c0\ub77c \ubb18\uc18c\uc758 \uacf5\ud3ec"
+    },
+    "7": {
+        "0xID": "7",
+        "col_0_cn": "\u7b2c7\u5173\uff1a\u52b2\u654c\u5171\u6597",
+        "col_0_de": "Stufe 7: Vierbeinige Feinde",
+        "col_0_en": "Stage 7: Rivals",
+        "col_0_fr": "Bataille 7 : Comme chien et chat",
+        "col_0_ja": "\u7b2c7\u7bc0\uff1a\u30e9\u30a4\u30d0\u30eb\u305f\u3061\u306e\u5171\u95d8",
+        "col_0_ko": "\uc81c7\uc7a5: \ub9de\uc218\ub4e4\uc758 \ud611\uacf5"
+    },
+    "8": {
+        "0xID": "8",
+        "col_0_cn": "\u7b2c8\u5173\uff1a\u5149\u6697\u4e4b\u754c\u4e43\u62c2\u6653",
+        "col_0_de": "Stufe 8: Das B\u00fcndchen der Morgenr\u00f6te",
+        "col_0_en": "Stage 8: Always Darkest",
+        "col_0_fr": "Bataille 8 : H\u00e9ritiers miniatures",
+        "col_0_ja": "\u7b2c8\u7bc0\uff1a\u6681\u306f\u5149\u3068\u95c7\u3068\u3092\u5206\u304b\u3064",
+        "col_0_ko": "\uc81c8\uc7a5: \uc0c8\ubcbd\uc740 \ube5b\uacfc \uc5b4\ub460\uc744 \uac00\ub974\uace0"
+    },
+    "9": {
+        "0xID": "9",
+        "col_0_cn": "\u7b2c9\u5173\uff1a\u94dc\u5c71\u7206\u7834",
+        "col_0_de": "Stufe 9: Auf den Schleim gegangen",
+        "col_0_en": "Stage 9: Mine Your Minions",
+        "col_0_fr": "Bataille 9 : D\u00e9flagration \u00e0 Clochecuivre",
+        "col_0_ja": "\u7b2c9\u7bc0\uff1a\u7206\u7834\u3001\u30ab\u30d1\u30ab\u30d1\u30d9\u30eb\u9285\u5c71",
+        "col_0_ko": "\uc81c9\uc7a5: \uad6c\ub9ac\uad6c\ub9ac\uc885 \uad11\uc0b0\uc744 \ud3ed\ud30c\ud558\ub77c"
+    }
+}

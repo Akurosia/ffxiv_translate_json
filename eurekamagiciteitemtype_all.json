@@ -1,0 +1,65 @@
+{
+    "0": {
+        "0xID": "0",
+        "Type_cn": "",
+        "Type_de": "",
+        "Type_en": "",
+        "Type_fr": "",
+        "Type_ja": "",
+        "Type_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Type_cn": "\u653b\u52bf",
+        "Type_de": "Angreifer",
+        "Type_en": "Offensive",
+        "Type_fr": "Attaquant",
+        "Type_ja": "\u653b\u52e2",
+        "Type_ko": "\uacf5\uaca9"
+    },
+    "2": {
+        "0xID": "2",
+        "Type_cn": "\u5b88\u52bf",
+        "Type_de": "Verteidiger",
+        "Type_en": "Protective",
+        "Type_fr": "D\u00e9fenseur",
+        "Type_ja": "\u5b88\u52e2",
+        "Type_ko": "\uc218\ube44"
+    },
+    "3": {
+        "0xID": "3",
+        "Type_cn": "\u6cbb\u6108",
+        "Type_de": "Heiler",
+        "Type_en": "Curative",
+        "Type_fr": "Soigneur",
+        "Type_ja": "\u6cbb\u7652",
+        "Type_ko": "\uce58\uc720"
+    },
+    "4": {
+        "0xID": "4",
+        "Type_cn": "\u65a5\u5019",
+        "Type_de": "Sp\u00e4her",
+        "Type_en": "Tactical",
+        "Type_fr": "\u00c9claireur",
+        "Type_ja": "\u65a5\u5019",
+        "Type_ko": "\uc815\ucc30"
+    },
+    "5": {
+        "0xID": "5",
+        "Type_cn": "\u59a8\u5bb3",
+        "Type_de": "St\u00f6rer",
+        "Type_en": "Inimical",
+        "Type_fr": "Sapeur",
+        "Type_ja": "\u59a8\u5bb3",
+        "Type_ko": "\ubc29\ud574"
+    },
+    "6": {
+        "0xID": "6",
+        "Type_cn": "\u652f\u63f4",
+        "Type_de": "Unterst\u00fctzer",
+        "Type_en": "Mitigative",
+        "Type_fr": "Auxiliaire",
+        "Type_ja": "\u652f\u63f4",
+        "Type_ko": "\uc9c0\uc6d0"
+    }
+}

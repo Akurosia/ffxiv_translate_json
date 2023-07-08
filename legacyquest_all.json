@@ -1,0 +1,2962 @@
+{
+    "0": {
+        "0xID": "0",
+        "LegacyQuestID": "0",
+        "Text_cn": "",
+        "Text_de": "",
+        "Text_en": "",
+        "Text_fr": "",
+        "Text_ja": "",
+        "Text_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "LegacyQuestID": "0",
+        "Text_cn": "\u65e0\u5f62\u4e4b\u58f0",
+        "Text_de": "Sibyllinischer Singsang",
+        "Text_en": "Shapeless Melody",
+        "Text_fr": "Paroles sibyllines",
+        "Text_ja": "\u59ff\u306a\u304d\u58f0",
+        "Text_ko": "\u59ff\u306a\u304d\u58f0"
+    },
+    "10": {
+        "0xID": "A",
+        "LegacyQuestID": "9",
+        "Text_cn": "\u592a\u9633\u4e4b\u90fd",
+        "Text_de": "Die goldene Stadt",
+        "Text_en": "Court in the Sands",
+        "Text_fr": "La Cit\u00e9 qui ne dort jamais",
+        "Text_ja": "\u592a\u967d\u306e\u90fd",
+        "Text_ko": "\u592a\u967d\u306e\u90fd"
+    },
+    "100": {
+        "0xID": "64",
+        "LegacyQuestID": "666",
+        "Text_cn": "\u68ee\u6797\u7684\u654c\u4eba",
+        "Text_de": "Das Gesetz des Waldes",
+        "Text_en": "Hunting the Hunters",
+        "Text_fr": "Ceux qui menacent la for\u00eat",
+        "Text_ja": "\u68ee\u306b\u4ec7\u306a\u3059\u8005",
+        "Text_ko": "\u68ee\u306b\u4ec7\u306a\u3059\u8005"
+    },
+    "101": {
+        "0xID": "65",
+        "LegacyQuestID": "667",
+        "Text_cn": "\u628a\u63e1\u5546\u673a\u7684\u8c46\u5b50",
+        "Text_de": "Geld stinkt nicht",
+        "Text_en": "To Deskunk a Beer",
+        "Text_fr": "Les f\u00e8ves du succ\u00e8s",
+        "Text_ja": "\u5546\u6a5f\u3092\u63e1\u308b\u8c46",
+        "Text_ko": "\u5546\u6a5f\u3092\u63e1\u308b\u8c46"
+    },
+    "102": {
+        "0xID": "66",
+        "LegacyQuestID": "668",
+        "Text_cn": "\u5931\u7a83\u7684\u7075\u9b42",
+        "Text_de": "Von Goblins beklaut",
+        "Text_en": "Losing One's Thread",
+        "Text_fr": "Perdre le fil",
+        "Text_ja": "\u76d7\u307e\u308c\u3057\u9b42",
+        "Text_ko": "\u76d7\u307e\u308c\u3057\u9b42"
+    },
+    "103": {
+        "0xID": "67",
+        "LegacyQuestID": "673",
+        "Text_cn": "\u5e7b\u672f\u4e09\u7687",
+        "Text_de": "Nach den Gerechten sehen",
+        "Text_en": "Seeing the Seers",
+        "Text_fr": "Les Oracles",
+        "Text_ja": "\u4e09\u91cd\u306e\u5e7b\u8853\u7687",
+        "Text_ko": "\u4e09\u91cd\u306e\u5e7b\u8853\u7687"
+    },
+    "104": {
+        "0xID": "68",
+        "LegacyQuestID": "674",
+        "Text_cn": "\u8f7b\u6572\u95e8\u6249\u4e4b\u4eba",
+        "Text_de": "Scharfsichtige Bestechung",
+        "Text_en": "A Knock in the Night",
+        "Text_fr": "Toc toc toc",
+        "Text_ja": "\u6249\u3092\u53e9\u304f\u30e2\u30ce",
+        "Text_ko": "\u6249\u3092\u53e9\u304f\u30e2\u30ce"
+    },
+    "105": {
+        "0xID": "69",
+        "LegacyQuestID": "675",
+        "Text_cn": "\u5931\u7720\u7684\u5192\u9669\u8005",
+        "Text_de": "Insomnie",
+        "Text_en": "Sleepless in Eorzea",
+        "Text_fr": "Insomnies",
+        "Text_ja": "\u7720\u308c\u306a\u3044\u5192\u967a\u8005\u305f\u3061",
+        "Text_ko": "\u7720\u308c\u306a\u3044\u5192\u967a\u8005\u305f\u3061"
+    },
+    "106": {
+        "0xID": "6A",
+        "LegacyQuestID": "676",
+        "Text_cn": "\u4f1f\u5927\u7684\u5492\u672f\u8001\u5e08",
+        "Text_de": "Der Fluch des Klans",
+        "Text_en": "Dressed to Be Killed",
+        "Text_fr": "Le retour du mort-vivant",
+        "Text_ja": "\u304a\u5049\u3044\u546a\u8853\u58eb\u5148\u751f",
+        "Text_ko": "\u304a\u5049\u3044\u546a\u8853\u58eb\u5148\u751f"
+    },
+    "107": {
+        "0xID": "6B",
+        "LegacyQuestID": "678",
+        "Text_cn": "\u987e\u5ba2\u5c31\u662f\u4e0a\u5e1d",
+        "Text_de": "Nimm deine Ware und geh",
+        "Text_en": "The Customer Comes First",
+        "Text_fr": "Le client est roi",
+        "Text_ja": "\u3059\u3079\u3066\u306f\u304a\u5ba2\u69d8\u306e\u305f\u3081\u306b",
+        "Text_ko": "\u3059\u3079\u3066\u306f\u304a\u5ba2\u69d8\u306e\u305f\u3081\u306b"
+    },
+    "108": {
+        "0xID": "6C",
+        "LegacyQuestID": "679",
+        "Text_cn": "\u6c99\u836b",
+        "Text_de": "Schutzwald-Waldschutz",
+        "Text_en": "An Inconvenient Dodo",
+        "Text_fr": "Les Mille Feuilles",
+        "Text_ja": "\u30df\u30ea\u30aa\u30f3\u30b7\u30fc\u30c9",
+        "Text_ko": "\u30df\u30ea\u30aa\u30f3\u30b7\u30fc\u30c9"
+    },
+    "109": {
+        "0xID": "6D",
+        "LegacyQuestID": "680",
+        "Text_cn": "\u6c61\u70b9",
+        "Text_de": "L\u00f6s dich in Wohlgefallen auf",
+        "Text_en": "Besmitten and Besmirched",
+        "Text_fr": "La tache",
+        "Text_ja": "\u6c5a\u70b9",
+        "Text_ko": "\u6c5a\u70b9"
+    },
+    "11": {
+        "0xID": "B",
+        "LegacyQuestID": "10",
+        "Text_cn": "\u5c0f\u5c0f\u7684\u727a\u7272",
+        "Text_de": "Kollateralschaden",
+        "Text_en": "Golden Sacrifices",
+        "Text_fr": "D\u00e9g\u00e2ts collat\u00e9raux",
+        "Text_ja": "\u5c0f\u3055\u306a\u72a0\u7272",
+        "Text_ko": "\u5c0f\u3055\u306a\u72a0\u7272"
+    },
+    "110": {
+        "0xID": "6E",
+        "LegacyQuestID": "681",
+        "Text_cn": "\u88ab\u7ed1\u67b6\u7684\u5492\u672f\u5e08",
+        "Text_de": "Die einzige Spur",
+        "Text_en": "Clasping to Hope",
+        "Text_fr": "Le kidnapping",
+        "Text_ja": "\u3055\u3089\u308f\u308c\u305f\u546a\u8853\u58eb",
+        "Text_ko": "\u3055\u3089\u308f\u308c\u305f\u546a\u8853\u58eb"
+    },
+    "111": {
+        "0xID": "6F",
+        "LegacyQuestID": "682",
+        "Text_cn": "\u60b2\u54c0\u7684\u5492\u672f\u5e08",
+        "Text_de": "Gute Wache, b\u00f6se Wache",
+        "Text_en": "Traumaturgy",
+        "Text_fr": "Le bon ge\u00f4lier",
+        "Text_ja": "\u304b\u306a\u3057\u307f\u306e\u546a\u8853\u58eb",
+        "Text_ko": "\u304b\u306a\u3057\u307f\u306e\u546a\u8853\u58eb"
+    },
+    "112": {
+        "0xID": "70",
+        "LegacyQuestID": "683",
+        "Text_cn": "\u6700\u7f8e\u7684\u82b1",
+        "Text_de": "Von Dodos gejagt",
+        "Text_en": "Best Flower Ever",
+        "Text_fr": "Y a des jours comme \u00e7a",
+        "Text_ja": "\u6ce3\u304d\u3063\u9762\u306b\u82b1",
+        "Text_ko": "\u6ce3\u304d\u3063\u9762\u306b\u82b1"
+    },
+    "113": {
+        "0xID": "71",
+        "LegacyQuestID": "684",
+        "Text_cn": "\u5730\u5e73\u8425\u5730\u7684\u4f20\u4ee4",
+        "Text_de": "Horch, was kommt von drau\u00dfen rein",
+        "Text_en": "The Unheard Horizon",
+        "Text_fr": "Chocobos en danger",
+        "Text_ja": "\u30ad\u30e3\u30f3\u30d7\u30fb\u30db\u30e9\u30a4\u30ba\u30f3\u304b\u3089\u306e\u4f1d\u4ee4",
+        "Text_ko": "\u30ad\u30e3\u30f3\u30d7\u30fb\u30db\u30e9\u30a4\u30ba\u30f3\u304b\u3089\u306e\u4f1d\u4ee4"
+    },
+    "114": {
+        "0xID": "72",
+        "LegacyQuestID": "685",
+        "Text_cn": "\u80cc\u5fb7\u4e4b\u540d",
+        "Text_de": "Der Preis der Freiheit",
+        "Text_en": "Freedom Isn't Free",
+        "Text_fr": "Le prix de la libert\u00e9",
+        "Text_ja": "\u80cc\u5fb3\u306e\u540d",
+        "Text_ko": "\u80cc\u5fb3\u306e\u540d"
+    },
+    "115": {
+        "0xID": "73",
+        "LegacyQuestID": "686",
+        "Text_cn": "\u9b54\u77f3\u4e0e\u9b54\u77f3\u7cbe",
+        "Text_de": "Erz auf zwei Beinen",
+        "Text_en": "Ore for an Ore",
+        "Text_fr": "Pousser comme du minerai",
+        "Text_ja": "\u308f\u3055\u308f\u3055\u30b3\u30d6\u30e9\u30f3",
+        "Text_ko": "\u308f\u3055\u308f\u3055\u30b3\u30d6\u30e9\u30f3"
+    },
+    "116": {
+        "0xID": "74",
+        "LegacyQuestID": "689",
+        "Text_cn": "\u65b0\u5546\u54c1\u4e1c\u5c71\u518d\u8d77",
+        "Text_de": "Unlauterer Wettbewerb",
+        "Text_en": "No Other Dodo Will Do",
+        "Text_fr": "Concurrence d\u00e9loyale",
+        "Text_ja": "\u65b0\u5546\u54c1\u3067\u5dfb\u304d\u8fd4\u305b",
+        "Text_ko": "\u65b0\u5546\u54c1\u3067\u5dfb\u304d\u8fd4\u305b"
+    },
+    "117": {
+        "0xID": "75",
+        "LegacyQuestID": "694",
+        "Text_cn": "\u5f3a\u8005\u7684\u53ec\u5524",
+        "Text_de": "Ruf nach Unsterblichkeit",
+        "Text_en": "A Call to Arms",
+        "Text_fr": "Promesse d'immortalit\u00e9",
+        "Text_ja": "\u3064\u308f\u3082\u306e\u306a\u308b\u8005\u305f\u3061",
+        "Text_ko": "\u3064\u308f\u3082\u306e\u306a\u308b\u8005\u305f\u3061"
+    },
+    "118": {
+        "0xID": "76",
+        "LegacyQuestID": "705",
+        "Text_cn": "\u5b89\u8be6\u7684\u5c0f\u7f8a",
+        "Text_de": "Panik auf der Alm",
+        "Text_en": "Counting Sheep",
+        "Text_fr": "Brebis \u00e9gar\u00e9es",
+        "Text_ja": "\u5b89\u3089\u304e\u306e\u3086\u304f\u3048",
+        "Text_ko": "\u5b89\u3089\u304e\u306e\u3086\u304f\u3048"
+    },
+    "119": {
+        "0xID": "77",
+        "LegacyQuestID": "706",
+        "Text_cn": "\u751f\u547d\u7684\u5883\u754c",
+        "Text_de": "Am Leben kleben",
+        "Text_en": "A Hypocritical Oath",
+        "Text_fr": "Le prix de la vie",
+        "Text_ja": "\u751f\u547d\u306e\u5883\u754c",
+        "Text_ko": "\u751f\u547d\u306e\u5883\u754c"
+    },
+    "12": {
+        "0xID": "C",
+        "LegacyQuestID": "11",
+        "Text_cn": "\u707e\u96be\u964d\u4e34",
+        "Text_de": "Die latente Gefahr",
+        "Text_en": "Calamity Cometh",
+        "Text_fr": "Quand la mort frappe",
+        "Text_ja": "\u707d\u5384\u6765\u305f\u308c\u308a",
+        "Text_ko": "\u707d\u5384\u6765\u305f\u308c\u308a"
+    },
+    "120": {
+        "0xID": "78",
+        "LegacyQuestID": "707",
+        "Text_cn": "\u6700\u540e\u4e4b\u6c11",
+        "Text_de": "Blutige Rituale",
+        "Text_en": "Blood Price",
+        "Text_fr": "Rituels sanglants",
+        "Text_ja": "\u6700\u5f8c\u306e\u7fa4\u6c11",
+        "Text_ko": "\u6700\u5f8c\u306e\u7fa4\u6c11"
+    },
+    "121": {
+        "0xID": "79",
+        "LegacyQuestID": "725",
+        "Text_cn": "\u9ec4\u91d1\u7684\u52a0\u62a4",
+        "Text_de": "Spenden macht selig",
+        "Text_en": "Quid Pro Quo",
+        "Text_fr": "Donnant, donnant",
+        "Text_ja": "\u9ec4\u91d1\u306e\u52a0\u8b77",
+        "Text_ko": "\u9ec4\u91d1\u306e\u52a0\u8b77"
+    },
+    "122": {
+        "0xID": "7A",
+        "LegacyQuestID": "726",
+        "Text_cn": "\u9690\u79d8\u4e8e\u5492\u5251\u4e2d\u7684\u8a93\u7ea6",
+        "Text_de": "Blut und Spiele",
+        "Text_en": "There Might Be Blood",
+        "Text_fr": "Paris sanglants",
+        "Text_ja": "\u546a\u5263\u306b\u79d8\u3081\u3089\u308c\u3057\u76df\u7d04",
+        "Text_ko": "\u546a\u5263\u306b\u79d8\u3081\u3089\u308c\u3057\u76df\u7d04"
+    },
+    "123": {
+        "0xID": "7B",
+        "LegacyQuestID": "727",
+        "Text_cn": "\u6d77\u96fe\u4e2d\u6f5c\u85cf\u7684\u9ed1\u5e02",
+        "Text_de": "Ger\u00fcchte um den Schwarzmarkt",
+        "Text_en": "Cutthroat Prices",
+        "Text_fr": "Le march\u00e9 noir",
+        "Text_ja": "\u6d77\u9727\u306b\u3072\u305d\u3080\u95c7\u5e02",
+        "Text_ko": "\u6d77\u9727\u306b\u3072\u305d\u3080\u95c7\u5e02"
+    },
+    "124": {
+        "0xID": "7C",
+        "LegacyQuestID": "733",
+        "Text_cn": "\u7a81\u51fb\uff01\u4f20\u8bf4\u7684\u602a\u7269\uff01",
+        "Text_de": "H\u00f6llenschl\u00fcnde hoch im Himmel",
+        "Text_en": "Monster of Maw Most Massive",
+        "Text_fr": "Les grandes gueules",
+        "Text_ja": "\u7a81\u6483\uff01\u3000\u5642\u306e\u9b54\u7269\uff01",
+        "Text_ko": "\u7a81\u6483\uff01\u3000\u5642\u306e\u9b54\u7269\uff01"
+    },
+    "125": {
+        "0xID": "7D",
+        "LegacyQuestID": "734",
+        "Text_cn": "\u6536\u83b7\u4f9b\u5949\u796d\u7940",
+        "Text_de": "Ein Erntefest organisieren",
+        "Text_en": "Scrubbing the Soul",
+        "Text_fr": "La frairie",
+        "Text_ja": "\u53ce\u7a6b\u5949\u7d0d\u796d\u4e8b",
+        "Text_ko": "\u53ce\u7a6b\u5949\u7d0d\u796d\u4e8b"
+    },
+    "126": {
+        "0xID": "7E",
+        "LegacyQuestID": "735",
+        "Text_cn": "\u4e0e\u5b9a\u5219\u6297\u4e89\u7684\u5c11\u5973",
+        "Text_de": "Unorganisiertes Verbrechen",
+        "Text_en": "Disorganized Crime",
+        "Text_fr": "Crime d\u00e9sorganis\u00e9",
+        "Text_ja": "\u5b9a\u3081\u306b\u3042\u3089\u304c\u3046\u4e59\u5973",
+        "Text_ko": "\u5b9a\u3081\u306b\u3042\u3089\u304c\u3046\u4e59\u5973"
+    },
+    "127": {
+        "0xID": "7F",
+        "LegacyQuestID": "736",
+        "Text_cn": "\u767d\u6d6a\u4e2d\u6d88\u5931\u7684\u79d8\u5b9d",
+        "Text_de": "Das Herz der Unendlichkeit",
+        "Text_en": "A Slippery Stone",
+        "Text_fr": "A la poursuite du tr\u00e9sor vivant",
+        "Text_ja": "\u9280\u6ce2\u306b\u6d88\u3048\u305f\u79d8\u5b9d",
+        "Text_ko": "\u9280\u6ce2\u306b\u6d88\u3048\u305f\u79d8\u5b9d"
+    },
+    "128": {
+        "0xID": "80",
+        "LegacyQuestID": "743",
+        "Text_cn": "\u6d77\u98ce\u8b66\u544a",
+        "Text_de": "Auf der Hut vor Feindesflut",
+        "Text_en": "Winds of Change",
+        "Text_fr": "L'Empire s'affiche",
+        "Text_ja": "\u6d77\u98a8\u306e\u8b66\u544a",
+        "Text_ko": "\u6d77\u98a8\u306e\u8b66\u544a"
+    },
+    "129": {
+        "0xID": "81",
+        "LegacyQuestID": "744",
+        "Text_cn": "\u8d2f\u7a7f\u6012\u6d9b\u7684\u5f39\u4e38",
+        "Text_de": "Schuss ins Herz",
+        "Text_en": "Shot Through the Heart",
+        "Text_fr": "Le c\u0153ur en joue",
+        "Text_ja": "\u8352\u6ce2\u3092\u6483\u3061\u629c\u304f\u5f3e\u4e38",
+        "Text_ko": "\u8352\u6ce2\u3092\u6483\u3061\u629c\u304f\u5f3e\u4e38"
+    },
+    "13": {
+        "0xID": "D",
+        "LegacyQuestID": "12",
+        "Text_cn": "\u5f00\u7aef",
+        "Text_de": "Beginn einer Freundschaft",
+        "Text_en": "Fade to White",
+        "Text_fr": "Pr\u00e9mices",
+        "Text_ja": "\u3042\u308b\u59cb\u307e\u308a",
+        "Text_ko": "\u3042\u308b\u59cb\u307e\u308a"
+    },
+    "130": {
+        "0xID": "82",
+        "LegacyQuestID": "745",
+        "Text_cn": "\u6d9b\u58f0\u4e2d\u5e26\u6765\u7684\u5e78\u798f",
+        "Text_de": "Ger\u00fcchterstattung",
+        "Text_en": "What a Pirate Wants",
+        "Text_fr": "L'\u00e9cume des tr\u00e9sors",
+        "Text_ja": "\u6f6e\u9a12\u304c\u904b\u3076\u5e78\u798f",
+        "Text_ko": "\u6f6e\u9a12\u304c\u904b\u3076\u5e78\u798f"
+    },
+    "131": {
+        "0xID": "83",
+        "LegacyQuestID": "752",
+        "Text_cn": "\u8d24\u8005\u963f\u5c14\u5fb7\u5df4\u5c14",
+        "Text_de": "Saliah Ahldbhar",
+        "Text_en": "Of Archons and Muses",
+        "Text_fr": "Le Preux Ahldbhar",
+        "Text_ja": "\u305d\u306e\u8ce2\u8005\u30a2\u30eb\u30c9\u30d0\u30eb",
+        "Text_ko": "\u305d\u306e\u8ce2\u8005\u30a2\u30eb\u30c9\u30d0\u30eb"
+    },
+    "132": {
+        "0xID": "84",
+        "LegacyQuestID": "753",
+        "Text_cn": "\u8725\u8734\u4eba\u4e4b\u8840",
+        "Text_de": "Blutige Nachforschungen",
+        "Text_en": "Sanguine Studies",
+        "Text_fr": "Recherches sanglantes",
+        "Text_ja": "\u30a2\u30de\u30eb\u30b8\u30e3\u306e\u8840",
+        "Text_ko": "\u30a2\u30de\u30eb\u30b8\u30e3\u306e\u8840"
+    },
+    "133": {
+        "0xID": "85",
+        "LegacyQuestID": "754",
+        "Text_cn": "\u9694\u58c1\u5728\u6316\u4ec0\u4e48",
+        "Text_de": "Die ausgegrabene Wahrheit",
+        "Text_en": "Secrets Unearthed",
+        "Text_fr": "La v\u00e9rit\u00e9 est au fond du puits",
+        "Text_ja": "\u96a3\u306f\u4f55\u3092\u6398\u308b\u4eba\u305e",
+        "Text_ko": "\u96a3\u306f\u4f55\u3092\u6398\u308b\u4eba\u305e"
+    },
+    "134": {
+        "0xID": "86",
+        "LegacyQuestID": "755",
+        "Text_cn": "\u8725\u8734\u4eba\u4e4b\u5203",
+        "Text_de": "Rostschutzmittel",
+        "Text_en": "Rustproof",
+        "Text_fr": "Recherches tranchantes",
+        "Text_ja": "\u30a2\u30de\u30eb\u30b8\u30e3\u306e\u5203",
+        "Text_ko": "\u30a2\u30de\u30eb\u30b8\u30e3\u306e\u5203"
+    },
+    "135": {
+        "0xID": "87",
+        "LegacyQuestID": "761",
+        "Text_cn": "\u9b54\u77f3\u7cbe\u7684\u79d8\u5bc6",
+        "Text_de": "Auf den S\u00e4belzahn gef\u00fchlt",
+        "Text_en": "In the Name of Science",
+        "Text_fr": "Quand les spriggans montrent les dents",
+        "Text_ja": "\u30de\u30eb\u30bb\u30c3\u30c8\u306e\u300c\u30b9\u30d7\u30ea\u30ac\u30f3\u306e\u3072\u307f\u3064\u300d",
+        "Text_ko": "\u30de\u30eb\u30bb\u30c3\u30c8\u306e\u300c\u30b9\u30d7\u30ea\u30ac\u30f3\u306e\u3072\u307f\u3064\u300d"
+    },
+    "136": {
+        "0xID": "88",
+        "LegacyQuestID": "762",
+        "Text_cn": "\u4f17\u795e\u5982\u662f\u8bf4",
+        "Text_de": "Beichtvater der Azeyma",
+        "Text_en": "Hearing Confession",
+        "Text_fr": "La parole de la Gardienne",
+        "Text_ja": "\u795e\u3005\u306e\u58f0\u306f\u304b\u304f\u8a9e\u308a\u304d",
+        "Text_ko": "\u795e\u3005\u306e\u58f0\u306f\u304b\u304f\u8a9e\u308a\u304d"
+    },
+    "137": {
+        "0xID": "89",
+        "LegacyQuestID": "763",
+        "Text_cn": "\u826f\u836f\u82e6\u53e3",
+        "Text_de": "Bittere Medizin",
+        "Text_en": "A Bitter Oil to Swallow",
+        "Text_fr": "De l'huile sur les plaies",
+        "Text_ja": "\u826f\u85ac\u53e3\u306b\u82e6\u3057",
+        "Text_ko": "\u826f\u85ac\u53e3\u306b\u82e6\u3057"
+    },
+    "138": {
+        "0xID": "8A",
+        "LegacyQuestID": "764",
+        "Text_cn": "\u9b54\u83c7\u7684\u79d8\u5bc6",
+        "Text_de": "Der Fluch des Fungus",
+        "Text_en": "Spores on the Brain",
+        "Text_fr": "Les spores, c'est la sant\u00e9",
+        "Text_ja": "\u30de\u30eb\u30bb\u30c3\u30c8\u306e\u300c\u30d5\u30a1\u30f3\u30ac\u30fc\u306e\u3072\u307f\u3064\u300d",
+        "Text_ko": "\u30de\u30eb\u30bb\u30c3\u30c8\u306e\u300c\u30d5\u30a1\u30f3\u30ac\u30fc\u306e\u3072\u307f\u3064\u300d"
+    },
+    "139": {
+        "0xID": "8B",
+        "LegacyQuestID": "770",
+        "Text_cn": "\u5947\u5999\u7684\u5d07\u62dc\u4fe1",
+        "Text_de": "Der neugierige Goblin",
+        "Text_en": "Trading Tongueflaps",
+        "Text_fr": "Un Gobelin bien curieux",
+        "Text_ja": "\u5947\u5999\u306a\u30d5\u30a1\u30f3\u30ec\u30bf\u30fc",
+        "Text_ko": "\u5947\u5999\u306a\u30d5\u30a1\u30f3\u30ec\u30bf\u30fc"
+    },
+    "14": {
+        "0xID": "E",
+        "LegacyQuestID": "13",
+        "Text_cn": "\u62fc\u6b7b\u7684\u6551\u51fa\u4f5c\u6218",
+        "Text_de": "Rettung der Sylphen",
+        "Text_en": "Together We Stand",
+        "Text_fr": "Sauvetage d\u00e9sesp\u00e9r\u00e9",
+        "Text_ja": "\u6c7a\u6b7b\u306e\u6551\u51fa\u4f5c\u6226",
+        "Text_ko": "\u6c7a\u6b7b\u306e\u6551\u51fa\u4f5c\u6226"
+    },
+    "140": {
+        "0xID": "8C",
+        "LegacyQuestID": "771",
+        "Text_cn": "\u730e\u6237\u53f7\u7684\u7f8e\u5473\u8d27\u54c1",
+        "Text_de": "Ein sattes Gesch\u00e4ft",
+        "Text_en": "Letting Out Orion's Belt",
+        "Text_fr": "La cargaison de l'Orion",
+        "Text_ja": "\u30aa\u30e9\u30a4\u30aa\u30f3\u53f7\u306e\u304a\u3044\u3057\u3044\u7a4d\u307f\u8377",
+        "Text_ko": "\u30aa\u30e9\u30a4\u30aa\u30f3\u53f7\u306e\u304a\u3044\u3057\u3044\u7a4d\u307f\u8377"
+    },
+    "141": {
+        "0xID": "8D",
+        "LegacyQuestID": "772",
+        "Text_cn": "\u6d77\u76d7\u7684\u8461\u8404\u9152",
+        "Text_de": "Saure Traubenklauberei",
+        "Text_en": "Sour Grapes",
+        "Text_fr": "Plus de raisin \u00e0 Port-aux-Vins",
+        "Text_ja": "\u6d77\u8cca\u69d8\u306e\u30ef\u30a4\u30f3",
+        "Text_ko": "\u6d77\u8cca\u69d8\u306e\u30ef\u30a4\u30f3"
+    },
+    "142": {
+        "0xID": "8E",
+        "LegacyQuestID": "773",
+        "Text_cn": "\u82b3\u9999\u7684\u6d77\u4e0a\u7537\u513f",
+        "Text_de": "Ratten verlassen das stinkende Schiff",
+        "Text_en": "Sniffing Out a Profit",
+        "Text_fr": "Flairer le filon",
+        "Text_ja": "\u82b3\u3057\u304d\u6d77\u306e\u7537",
+        "Text_ko": "\u82b3\u3057\u304d\u6d77\u306e\u7537"
+    },
+    "143": {
+        "0xID": "8F",
+        "LegacyQuestID": "788",
+        "Text_cn": "\u964d\u4e34\uff1f\u8d24\u8005\u7684\u83dc\u5355\uff08\u4e4c\u5c14\u8fbe\u54c8\uff09",
+        "Text_de": "Das Ei der Weisen (Ul'dah)",
+        "Text_en": "The Dreamer's Gospel (Ul'dah)",
+        "Text_fr": "Les Pr\u0153ufs d'Ul'dah",
+        "Text_ja": "\u964d\u81e8\uff1f\u3000\u8ce2\u8005\u306e\u30bf\u30de\u30b4\uff01\u3000\uff08\u30a6\u30eb\u30c0\u30cf\uff09",
+        "Text_ko": "\u964d\u81e8\uff1f\u3000\u8ce2\u8005\u306e\u30bf\u30de\u30b4\uff01\u3000\uff08\u30a6\u30eb\u30c0\u30cf\uff09"
+    },
+    "144": {
+        "0xID": "90",
+        "LegacyQuestID": "789",
+        "Text_cn": "\u8d24\u8005\u7684\u5f69\u86cb \u593a\u8fd8\u5927\u4f5c\u6218\uff08\u4e4c\u5c14\u8fbe\u54c8\uff09",
+        "Text_de": "R\u00fcck-Eioberung (Ul'dah)",
+        "Text_en": "The Dreamer's Dilemma (Ul'dah)",
+        "Text_fr": "Pr\u0153ufs en p\u00e9ril \u00e0 Ul'dah",
+        "Text_ja": "\u8ce2\u8005\u306e\u30bf\u30de\u30b4\u3000\u596a\u9084\u5927\u4f5c\u6226\u3000\uff08\u30a6\u30eb\u30c0\u30cf\uff09",
+        "Text_ko": "\u8ce2\u8005\u306e\u30bf\u30de\u30b4\u3000\u596a\u9084\u5927\u4f5c\u6226\u3000\uff08\u30a6\u30eb\u30c0\u30cf\uff09"
+    },
+    "145": {
+        "0xID": "91",
+        "LegacyQuestID": "793",
+        "Text_cn": "\u964d\u4e34\uff1f\u8d24\u8005\u7684\u5f69\u86cb\uff08\u683c\u91cc\u8fbe\u5c3c\u4e9a\uff09",
+        "Text_de": "Das Ei der Weisen (Gridania)",
+        "Text_en": "The Dreamer's Gospel (Gridania)",
+        "Text_fr": "Les Pr\u0153ufs de Gridania",
+        "Text_ja": "\u964d\u81e8\uff1f\u3000\u8ce2\u8005\u306e\u30bf\u30de\u30b4\uff01\u3000\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09",
+        "Text_ko": "\u964d\u81e8\uff1f\u3000\u8ce2\u8005\u306e\u30bf\u30de\u30b4\uff01\u3000\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09"
+    },
+    "146": {
+        "0xID": "92",
+        "LegacyQuestID": "794",
+        "Text_cn": "\u8d24\u8005\u7684\u5f69\u86cb \u593a\u8fd8\u5927\u4f5c\u6218\uff08\u683c\u91cc\u8fbe\u5c3c\u4e9a\uff09",
+        "Text_de": "R\u00fcck-Eioberung (Gridania)",
+        "Text_en": "The Dreamer's Dilemma (Gridania)",
+        "Text_fr": "Pr\u0153ufs en p\u00e9ril \u00e0 Gridania",
+        "Text_ja": "\u8ce2\u8005\u306e\u30bf\u30de\u30b4\u3000\u596a\u9084\u5927\u4f5c\u6226\u3000\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09",
+        "Text_ko": "\u8ce2\u8005\u306e\u30bf\u30de\u30b4\u3000\u596a\u9084\u5927\u4f5c\u6226\u3000\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09"
+    },
+    "147": {
+        "0xID": "93",
+        "LegacyQuestID": "798",
+        "Text_cn": "\u7ea2\u83b2\u8282 - \u70c8\u706b\u5609\u5e74\u534e -",
+        "Text_de": "Das Fest mit dem Feuer",
+        "Text_en": "The Heat Is On",
+        "Text_fr": "Dans le feu de l'action",
+        "Text_ja": "\u7d05\u84ee\u796d\u3000-\u5927\u708e\u7363\u30dc\u30f3\u30d0\u30fc\u30c9\u767b\u5834\uff01-",
+        "Text_ko": "\u7d05\u84ee\u796d\u3000-\u5927\u708e\u7363\u30dc\u30f3\u30d0\u30fc\u30c9\u767b\u5834\uff01-"
+    },
+    "148": {
+        "0xID": "94",
+        "LegacyQuestID": "799",
+        "Text_cn": "\u5b88\u62a4\u5929\u8282 - \u6363\u86cb\u9b3c\u4e4b\u8c1c -",
+        "Text_de": "Impertinente Imps",
+        "Text_en": "Impish Impositions",
+        "Text_fr": "Des imps impertinents",
+        "Text_ja": "\u5b88\u8b77\u5929\u7bc0\u3000-\u3044\u305f\u305a\u3089\u30a4\u30f3\u30d7\u5927\u8131\u8d70\uff01-",
+        "Text_ko": "\u5b88\u8b77\u5929\u7bc0\u3000-\u3044\u305f\u305a\u3089\u30a4\u30f3\u30d7\u5927\u8131\u8d70\uff01-"
+    },
+    "149": {
+        "0xID": "95",
+        "LegacyQuestID": "800",
+        "Text_cn": "\u661f\u8292\u8282 - \u51db\u51ac\u672a\u81f3 -",
+        "Text_de": "Das Schneeballsystem",
+        "Text_en": "Winter Is Not Coming",
+        "Text_fr": "La f\u00eate des \u00e9toiles",
+        "Text_ja": "\u661f\u8292\u796d/\u96ea\u4eba\u306e\u5100",
+        "Text_ko": "\u661f\u8292\u796d/\u96ea\u4eba\u306e\u5100"
+    },
+    "15": {
+        "0xID": "F",
+        "LegacyQuestID": "14",
+        "Text_cn": "\u5229\u5bb3\u7684\u8c03\u505c\u8005",
+        "Text_de": "Zwischen den Fronten",
+        "Text_en": "Toll of the Warden",
+        "Text_fr": "Un dialogue de sourds",
+        "Text_ja": "\u5229\u5bb3\u306e\u8abf\u505c\u8005",
+        "Text_ko": "\u5229\u5bb3\u306e\u8abf\u505c\u8005"
+    },
+    "150": {
+        "0xID": "96",
+        "LegacyQuestID": "801",
+        "Text_cn": "\u964d\u795e\u8282 - \u4e71\u4e16\u96ea\u4eba -",
+        "Text_de": "Das kalte Herz",
+        "Text_en": "Gone with the Snow",
+        "Text_fr": "La f\u00eate de la transition",
+        "Text_ja": "\u964d\u795e\u796d/\u6d88\u3048\u305f\u96ea\u4eba",
+        "Text_ko": "\u964d\u795e\u796d/\u6d88\u3048\u305f\u96ea\u4eba"
+    },
+    "151": {
+        "0xID": "97",
+        "LegacyQuestID": "803",
+        "Text_cn": "\u964d\u4e34\uff1f\u8d24\u8005\u7684\u5f69\u86cb\uff08\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\uff09",
+        "Text_de": "Das Ei der Weisen (Limsa Lominsa)",
+        "Text_en": "The Dreamer's Gospel (Limsa Lominsa)",
+        "Text_fr": "Les Pr\u0153ufs de Limsa Lominsa",
+        "Text_ja": "\u964d\u81e8\uff1f\u3000\u8ce2\u8005\u306e\u30bf\u30de\u30b4\uff01\u3000\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09",
+        "Text_ko": "\u964d\u81e8\uff1f\u3000\u8ce2\u8005\u306e\u30bf\u30de\u30b4\uff01\u3000\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09"
+    },
+    "152": {
+        "0xID": "98",
+        "LegacyQuestID": "804",
+        "Text_cn": "\u8d24\u8005\u7684\u5f69\u86cb \u593a\u8fd8\u5927\u4f5c\u6218\uff08\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\uff09",
+        "Text_de": "R\u00fcck-Eioberung (Limsa Lominsa)",
+        "Text_en": "The Dreamer's Dilemma (Limsa Lominsa)",
+        "Text_fr": "Pr\u0153ufs en p\u00e9ril \u00e0 Limsa Lominsa",
+        "Text_ja": "\u8ce2\u8005\u306e\u30bf\u30de\u30b4\u3000\u596a\u9084\u5927\u4f5c\u6226\u3000\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09",
+        "Text_ko": "\u8ce2\u8005\u306e\u30bf\u30de\u30b4\u3000\u596a\u9084\u5927\u4f5c\u6226\u3000\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09"
+    },
+    "153": {
+        "0xID": "99",
+        "LegacyQuestID": "808",
+        "Text_cn": "\u7b79\u96c6\u7269\u54c1\u7684\u5de5\u4f5c",
+        "Text_de": "Gildenaufgaben",
+        "Text_en": "Guild Tasks",
+        "Text_fr": "T\u00e2ches de guilde",
+        "Text_ja": "\u7269\u54c1\u8abf\u9054\u306e\u4ed5\u4e8b",
+        "Text_ko": "\u7269\u54c1\u8abf\u9054\u306e\u4ed5\u4e8b"
+    },
+    "154": {
+        "0xID": "9A",
+        "LegacyQuestID": "809",
+        "Text_cn": "\u7075\u7a9f\u4e2d\u9759\u5019\u7684\u8bd5\u70bc",
+        "Text_de": "Shposhae, \u00f6ffne dich",
+        "Text_en": "Call of Booty",
+        "Text_fr": "Le secret de la grotte maudite",
+        "Text_ja": "\u970a\u7a9f\u306b\u3066\u5f85\u3064\u8a66\u7df4",
+        "Text_ko": "\u970a\u7a9f\u306b\u3066\u5f85\u3064\u8a66\u7df4"
+    },
+    "155": {
+        "0xID": "9B",
+        "LegacyQuestID": "810",
+        "Text_cn": "\u8001\u54e5\u5e03\u6797\u987e\u5ba2",
+        "Text_de": "Riskante Gesch\u00e4fte",
+        "Text_en": "Risky Business",
+        "Text_fr": "Un commerce risqu\u00e9",
+        "Text_ja": "\u304a\u5ba2\u69d8\u306f\u8001\u30b4\u30d6\u30ea\u30f3",
+        "Text_ko": "\u304a\u5ba2\u69d8\u306f\u8001\u30b4\u30d6\u30ea\u30f3"
+    },
+    "156": {
+        "0xID": "9C",
+        "LegacyQuestID": "811",
+        "Text_cn": "\u60c5\u611f\u57f9\u80b2\u4e4b\u529b",
+        "Text_de": "Das Formen der Seele",
+        "Text_en": "Forging the Spirit",
+        "Text_fr": "Forger l'\u00e2me",
+        "Text_ja": "\u60f3\u3044\u304c\u751f\u307f\u51fa\u3059\u529b",
+        "Text_ko": "\u60f3\u3044\u304c\u751f\u307f\u51fa\u3059\u529b"
+    },
+    "157": {
+        "0xID": "9D",
+        "LegacyQuestID": "812",
+        "Text_cn": "\u60c5\u611f\u7ef4\u7cfb\u4e4b\u529b",
+        "Text_de": "Das Vereinen der Seele",
+        "Text_en": "Joining the Spirit",
+        "Text_fr": "Unir l'\u00e2me",
+        "Text_ja": "\u60f3\u3044\u3092\u7e4b\u3050\u529b",
+        "Text_ko": "\u60f3\u3044\u3092\u7e4b\u3050\u529b"
+    },
+    "158": {
+        "0xID": "9E",
+        "LegacyQuestID": "813",
+        "Text_cn": "\u60c5\u611f\u4f20\u9012\u4e4b\u529b",
+        "Text_de": "Das Erwecken der Seele",
+        "Text_en": "Waking the Spirit",
+        "Text_fr": "Eveiller l'\u00e2me",
+        "Text_ja": "\u60f3\u3044\u3092\u4f1d\u3048\u308b\u529b",
+        "Text_ko": "\u60f3\u3044\u3092\u4f1d\u3048\u308b\u529b"
+    },
+    "159": {
+        "0xID": "9F",
+        "LegacyQuestID": "815",
+        "Text_cn": "\u6ed1\u7a3d\u7684\u76db\u5bb4",
+        "Text_de": "Im Zwielicht der Barriere",
+        "Text_en": "A Feast of Fools",
+        "Text_fr": "Le retour du roi",
+        "Text_ja": "\u9053\u5316\u306e\u9957\u5bb4",
+        "Text_ko": "\u9053\u5316\u306e\u9957\u5bb4"
+    },
+    "16": {
+        "0xID": "10",
+        "LegacyQuestID": "15",
+        "Text_cn": "\u5f02\u8d28\u8005",
+        "Text_de": "Ein k\u00fchner Plan",
+        "Text_en": "Forever Taken",
+        "Text_fr": "Une alliance risqu\u00e9e",
+        "Text_ja": "\u7570\u8cea\u306a\u308b\u3082\u306e",
+        "Text_ko": "\u7570\u8cea\u306a\u308b\u3082\u306e"
+    },
+    "160": {
+        "0xID": "A0",
+        "LegacyQuestID": "816",
+        "Text_cn": "\u4f9b\u7ed9\u4e0e\u50a8\u5907",
+        "Text_de": "Nachschublieferung & Materialbeschaffung",
+        "Text_en": "Provisioning & Supply Missions",
+        "Text_fr": "Missions de ravitaillement",
+        "Text_ja": "\u8ecd\u9700\u54c1\u8abf\u9054\u30fb\u88dc\u7d66\u54c1\u8abf\u9054\u306e\u4ed5\u4e8b",
+        "Text_ko": "\u8ecd\u9700\u54c1\u8abf\u9054\u30fb\u88dc\u7d66\u54c1\u8abf\u9054\u306e\u4ed5\u4e8b"
+    },
+    "161": {
+        "0xID": "A1",
+        "LegacyQuestID": "817",
+        "Text_cn": "\u6d41\u6c99\u8ff7\u5bab\u6a35\u9e23\u6d1e",
+        "Text_de": "Das Grab der Helden",
+        "Text_en": "A Light in the Dark",
+        "Text_fr": "Le mausol\u00e9e des sables",
+        "Text_ja": "\u6d41\u7802\u306e\u8ff7\u5bae\u300c\u30ab\u30c3\u30bf\u30fc\u30ba\u30af\u30e9\u30a4\u300d",
+        "Text_ko": "\u6d41\u7802\u306e\u8ff7\u5bae\u300c\u30ab\u30c3\u30bf\u30fc\u30ba\u30af\u30e9\u30a4\u300d"
+    },
+    "162": {
+        "0xID": "A2",
+        "LegacyQuestID": "818",
+        "Text_cn": "\u9ec4\u91d1\u4e4b\u8c37",
+        "Text_de": "Es ist nicht alles Gold, was gl\u00e4nzt",
+        "Text_en": "What Glitters Always Isn't Gold",
+        "Text_fr": "Tout ce qui brille n'est pas or",
+        "Text_ja": "\u9ec4\u91d1\u306e\u8c37\u300c\u30aa\u30fc\u30e9\u30e0\u30f4\u30a7\u30a4\u30eb\u300d",
+        "Text_ko": "\u9ec4\u91d1\u306e\u8c37\u300c\u30aa\u30fc\u30e9\u30e0\u30f4\u30a7\u30a4\u30eb\u300d"
+    },
+    "163": {
+        "0xID": "A3",
+        "LegacyQuestID": "820",
+        "Text_cn": "\u6258\u6258\u00b7\u62c9\u514b\u4fa6\u5bdf\u4ee4",
+        "Text_de": "Operation Kerkermeister",
+        "Text_en": "the Thousand Maws of Toto--Rak",
+        "Text_fr": "Exploration des Mille Gueules",
+        "Text_ja": "\u30c8\u30c8\u30e9\u30af\u5a01\u529b\u5075\u5bdf\u6307\u4ee4",
+        "Text_ko": "\u30c8\u30c8\u30e9\u30af\u5a01\u529b\u5075\u5bdf\u6307\u4ee4"
+    },
+    "164": {
+        "0xID": "A4",
+        "LegacyQuestID": "821",
+        "Text_cn": "\u6cfd\u6885\u5c14\u8981\u585e\u6536\u590d\u6218",
+        "Text_de": "Operation Burgfriede",
+        "Text_en": "Dzemael Darkhold",
+        "Text_fr": "Reprise de la Forteresse",
+        "Text_ja": "\u30bc\u30fc\u30e1\u30eb\u8981\u585e\u596a\u9084\u4f5c\u6226",
+        "Text_ko": "\u30bc\u30fc\u30e1\u30eb\u8981\u585e\u596a\u9084\u4f5c\u6226"
+    },
+    "165": {
+        "0xID": "A5",
+        "LegacyQuestID": "822",
+        "Text_cn": "\u9ec4\u91d1\u8c37\u96fe\u4e2d\u884c\u519b",
+        "Text_de": "Operation Nebelmarsch",
+        "Text_en": "Aurum Vale",
+        "Text_fr": "Le sulfureux Val d'Aurum",
+        "Text_ja": "\u30aa\u30fc\u30e9\u30e0\u30f4\u30a7\u30a4\u30eb\u9727\u4e2d\u884c\u8ecd",
+        "Text_ko": "\u30aa\u30fc\u30e9\u30e0\u30f4\u30a7\u30a4\u30eb\u9727\u4e2d\u884c\u8ecd"
+    },
+    "166": {
+        "0xID": "A6",
+        "LegacyQuestID": "823",
+        "Text_cn": "\u6a35\u9e23\u6d1e\u6d41\u6c99\u8ff7\u5bab",
+        "Text_de": "Operation Sandsturm",
+        "Text_en": "Cutter's Cry",
+        "Text_fr": "Le d\u00e9dale de sable du Gouffre",
+        "Text_ja": "\u30ab\u30c3\u30bf\u30fc\u30ba\u30af\u30e9\u30a4\u6d41\u7802\u8ff7\u5bae",
+        "Text_ko": "\u30ab\u30c3\u30bf\u30fc\u30ba\u30af\u30e9\u30a4\u6d41\u7802\u8ff7\u5bae"
+    },
+    "167": {
+        "0xID": "A7",
+        "LegacyQuestID": "827",
+        "Text_cn": "\u6816\u6728\u7684\u7ea6\u5b9a",
+        "Text_de": "Wer den Ranzen nicht ehrt",
+        "Text_en": "Waste Not Want Not",
+        "Text_fr": "Le Perchoir",
+        "Text_ja": "\u65c5\u9928\u300c\u3068\u307e\u308a\u6728\u300d\u306e\u7d04\u675f",
+        "Text_ko": "\u65c5\u9928\u300c\u3068\u307e\u308a\u6728\u300d\u306e\u7d04\u675f"
+    },
+    "168": {
+        "0xID": "A8",
+        "LegacyQuestID": "828",
+        "Text_cn": "\u9ed1\u6697\u4e2d\u7684\u5149\u660e",
+        "Text_de": "Irgendwas im Busch",
+        "Text_en": "In Plain Sight",
+        "Text_fr": "Des indices",
+        "Text_ja": "\u6697\u4e2d\u306e\u5149\u660e",
+        "Text_ko": "\u6697\u4e2d\u306e\u5149\u660e"
+    },
+    "169": {
+        "0xID": "A9",
+        "LegacyQuestID": "837",
+        "Text_cn": "\u540e\u6845\u7684\u987e\u5ba2",
+        "Text_de": "Tintennachschub",
+        "Text_en": "The Ink Thief",
+        "Text_fr": "Auberge de L'Artimon",
+        "Text_ja": "\u5bbf\u5c4b\u300c\u30df\u30ba\u30f3\u30de\u30b9\u30c8\u300d\u306e\u304a\u5f97\u610f\u69d8",
+        "Text_ko": "\u5bbf\u5c4b\u300c\u30df\u30ba\u30f3\u30de\u30b9\u30c8\u300d\u306e\u304a\u5f97\u610f\u69d8"
+    },
+    "17": {
+        "0xID": "11",
+        "LegacyQuestID": "16",
+        "Text_cn": "\u708e\u72f1\u4e4b\u795e",
+        "Text_de": "Der Gott der Flammen",
+        "Text_en": "Lord Errant",
+        "Text_fr": "Le dieu des flammes",
+        "Text_ja": "\u708e\u7344\u306e\u795e",
+        "Text_ko": "\u708e\u7344\u306e\u795e"
+    },
+    "170": {
+        "0xID": "AA",
+        "LegacyQuestID": "838",
+        "Text_cn": "\u7b49\u4ef7\u7684\u62a5\u916c",
+        "Text_de": "Ein Schaf unter W\u00f6lfen",
+        "Text_en": "Private Eyes",
+        "Text_fr": "Une affaire r\u00e9solue",
+        "Text_ja": "\u5bfe\u4fa1\u306e\u5831\u3044",
+        "Text_ko": "\u5bfe\u4fa1\u306e\u5831\u3044"
+    },
+    "171": {
+        "0xID": "AB",
+        "LegacyQuestID": "839",
+        "Text_cn": "\u536b\u6708\u7684\u5f15\u5bfc",
+        "Text_de": "Investigativer Journalismus",
+        "Text_en": "Mysteries of the Red Moon",
+        "Text_fr": "Les myst\u00e8res de Dalamud",
+        "Text_ja": "\u5c0f\u6708\u304c\u5c0e\u304f\u4e8b\u4ef6\u306e\u884c\u65b9",
+        "Text_ko": "\u5c0f\u6708\u304c\u5c0e\u304f\u4e8b\u4ef6\u306e\u884c\u65b9"
+    },
+    "172": {
+        "0xID": "AC",
+        "LegacyQuestID": "840",
+        "Text_cn": "\u52c7\u8005\u3001\u7070\u70ec\u3001\u5229\u5203",
+        "Text_de": "Prophetische Kriminologie",
+        "Text_en": "Prophecy Inspection",
+        "Text_fr": "Le h\u00e9ros de la proph\u00e9tie",
+        "Text_ja": "\u52c7\u8005\u3068\u4e8b\u4ef6\u3068\u7070\u3068\u5263",
+        "Text_ko": "\u52c7\u8005\u3068\u4e8b\u4ef6\u3068\u7070\u3068\u5263"
+    },
+    "173": {
+        "0xID": "AD",
+        "LegacyQuestID": "847",
+        "Text_cn": "\u6c99\u949f\u7684\u6307\u73af",
+        "Text_de": "Der verschwundene Ehering",
+        "Text_en": "Ring of Deceit",
+        "Text_fr": "Auberge du Sablier",
+        "Text_ja": "\u5bbf\u5c4b\u300c\u7802\u6642\u8a08\u4ead\u300d\u3067\u6d88\u3048\u305f\u6307\u8f2a",
+        "Text_ko": "\u5bbf\u5c4b\u300c\u7802\u6642\u8a08\u4ead\u300d\u3067\u6d88\u3048\u305f\u6307\u8f2a"
+    },
+    "174": {
+        "0xID": "AE",
+        "LegacyQuestID": "848",
+        "Text_cn": "\u5acc\u7591\u4eba\u7537\u5b50",
+        "Text_de": "Ein stichfestes Alibi",
+        "Text_en": "The Usual Suspect",
+        "Text_fr": "Un suspect",
+        "Text_ja": "\u88ab\u7591\u8005\u306e\u7537",
+        "Text_ko": "\u88ab\u7591\u8005\u306e\u7537"
+    },
+    "175": {
+        "0xID": "AF",
+        "LegacyQuestID": "857",
+        "Text_cn": "[chs]",
+        "Text_de": "Saisonales Ereignis",
+        "Text_en": "Seasonal Event",
+        "Text_fr": "Ev\u00e9nement saisonnier",
+        "Text_ja": "\u5b63\u7bc0\u30af\u30a8\u30b9\u30c8\uff08\u6c4e\u7528\uff09",
+        "Text_ko": "\u5b63\u7bc0\u30af\u30a8\u30b9\u30c8\uff08\u6c4e\u7528\uff09"
+    },
+    "176": {
+        "0xID": "B0",
+        "LegacyQuestID": "858",
+        "Text_cn": "\u5f69\u86cb\u72e9\u730e\u91cd\u65b0\u5f00\u5e55",
+        "Text_de": "Jagd nach dem Ei, Teil Zwei",
+        "Text_en": "Scrambled Eggs",
+        "Text_fr": "Qui vole un Pr\u0153uf, vole un Preux",
+        "Text_ja": "\u518d\u3073\u306e\u30a8\u30c3\u30b0\u30cf\u30f3\u30c8",
+        "Text_ko": "\u518d\u3073\u306e\u30a8\u30c3\u30b0\u30cf\u30f3\u30c8"
+    },
+    "177": {
+        "0xID": "B1",
+        "LegacyQuestID": "859",
+        "Text_cn": "\u7ea2\u83b2\u8282 - \u8f70\u51fb\u602a\u9006\u88ad -",
+        "Text_de": "Feuermond-Reigen - Die Rache der Knallomaten",
+        "Text_en": "Bombard Backlash",
+        "Text_fr": "Les Feux de la Mort",
+        "Text_ja": "\u7d05\u84ee\u796d\u3000-\u5927\u708e\u7363\u30dc\u30f3\u30d0\u30fc\u30c9\u306e\u9006\u8972\uff01-",
+        "Text_ko": "\u7d05\u84ee\u796d\u3000-\u5927\u708e\u7363\u30dc\u30f3\u30d0\u30fc\u30c9\u306e\u9006\u8972\uff01-"
+    },
+    "178": {
+        "0xID": "B2",
+        "LegacyQuestID": "860",
+        "Text_cn": "[chs]",
+        "Text_de": "Saisonales Ereignis (Alle Stadtstaaten)",
+        "Text_en": "Seasonal Event (All City-states)",
+        "Text_fr": "Ev\u00e9nements saisonniers (trois Cit\u00e9s)",
+        "Text_ja": "\u5b63\u7bc0\u30af\u30a8\u30b9\u30c8\uff083\u56fd\u5171\u901a\uff09",
+        "Text_ko": "\u5b63\u7bc0\u30af\u30a8\u30b9\u30c8\uff083\u56fd\u5171\u901a\uff09"
+    },
+    "179": {
+        "0xID": "B3",
+        "LegacyQuestID": "861",
+        "Text_cn": "\u8f85\u57ce\u8865\u7ed9",
+        "Text_de": "Weiler-Versorgung",
+        "Text_en": "Hamlet Defense",
+        "Text_fr": "Approvisionnement des hameaux",
+        "Text_ja": "\u30cf\u30e0\u30ec\u30c3\u30c8\u88dc\u7d66",
+        "Text_ko": "\u30cf\u30e0\u30ec\u30c3\u30c8\u88dc\u7d66"
+    },
+    "18": {
+        "0xID": "12",
+        "LegacyQuestID": "17",
+        "Text_cn": "\u963f\u62c9\u7c73\u683c\u89e3\u653e\u519b",
+        "Text_de": "Befreiung der Befreier",
+        "Text_en": "Of Men They Sing",
+        "Text_fr": "Lib\u00e9rer les lib\u00e9rateurs",
+        "Text_ja": "\u30a2\u30e9\u30df\u30b4\u89e3\u653e\u8ecd",
+        "Text_ko": "\u30a2\u30e9\u30df\u30b4\u89e3\u653e\u8ecd"
+    },
+    "180": {
+        "0xID": "B4",
+        "LegacyQuestID": "862",
+        "Text_cn": "\u827e\u91cc\u514b\u535a\u58eb\u7684\u8bb2\u4e49",
+        "Text_de": "Professor Eriks Vorlesung",
+        "Text_en": "Class is in Session",
+        "Text_fr": "Le s\u00e9minaire du professeur Erik",
+        "Text_ja": "\u30a8\u30ea\u30c3\u30af\u535a\u58eb\u306e\u8b1b\u7fa9",
+        "Text_ko": "\u30a8\u30ea\u30c3\u30af\u535a\u58eb\u306e\u8b1b\u7fa9"
+    },
+    "181": {
+        "0xID": "B5",
+        "LegacyQuestID": "866",
+        "Text_cn": "\u65cb\u98ce\u7684\u8bd5\u70bc",
+        "Text_de": "Im Auge des Sturms",
+        "Text_en": "Taming the Tempest",
+        "Text_fr": "L'\u00e9preuve du vent",
+        "Text_ja": "\u65cb\u98a8\u306e\u8a66\u7df4",
+        "Text_ko": "\u65cb\u98a8\u306e\u8a66\u7df4"
+    },
+    "182": {
+        "0xID": "B6",
+        "LegacyQuestID": "867",
+        "Text_cn": "\u590d\u82cf\u7684\u4e0a\u53e4\u6b66\u5668",
+        "Text_de": "Restauration der Reliktwaffen",
+        "Text_en": "A Relic Reborn",
+        "Text_fr": "Restauration des armes antiques",
+        "Text_ja": "\u8607\u308b\u53e4\u306e\u6b66\u5668",
+        "Text_ko": "\u8607\u308b\u53e4\u306e\u6b66\u5668"
+    },
+    "183": {
+        "0xID": "B7",
+        "LegacyQuestID": "868",
+        "Text_cn": "\u95ed\u4e0a\u53cc\u773c\uff0c\u5219\u5e0c\u671b\u6ee1\u6000",
+        "Text_de": "Pilgerfahrt",
+        "Text_en": "Living on a Prayer",
+        "Text_fr": "Le p\u00e8lerinage",
+        "Text_ja": "\u304a\u308f\u308a\u306e\u540d\u306f\u5e0c\u671b",
+        "Text_ko": "\u304a\u308f\u308a\u306e\u540d\u306f\u5e0c\u671b"
+    },
+    "184": {
+        "0xID": "B8",
+        "LegacyQuestID": "869",
+        "Text_cn": "\u7ea2\u6708\u51cc\u7a7a\uff0c\u51f6\u9e1f\u957f\u9e23",
+        "Text_de": "Das Schicksal der Silberschwinge",
+        "Text_en": "The Raven, Nevermore",
+        "Text_fr": "La fin du rapace",
+        "Text_ja": "\u7d05\u6708\u4e0b\u306e\u95d8\u3044",
+        "Text_ko": "\u7d05\u6708\u4e0b\u306e\u95d8\u3044"
+    },
+    "185": {
+        "0xID": "B9",
+        "LegacyQuestID": "1200",
+        "Text_cn": "\u6765\u81ea\u963f\u5df4\u62c9\u63d0\u4e9a\u7684\u6218\u58eb",
+        "Text_de": "Der Prophet aus den Bergen",
+        "Text_en": "Pride and Duty (Will Take You from the Mountain)",
+        "Text_fr": "L'art de la guerre",
+        "Text_ja": "\u30a2\u30d0\u30e9\u30b7\u30a2\u304b\u3089\u6765\u305f\u6226\u58eb",
+        "Text_ko": "\u30a2\u30d0\u30e9\u30b7\u30a2\u304b\u3089\u6765\u305f\u6226\u58eb"
+    },
+    "186": {
+        "0xID": "BA",
+        "LegacyQuestID": "1201",
+        "Text_cn": "\u7834\u58c1",
+        "Text_de": "Man w\u00e4chst mit seinen Aufgaben",
+        "Text_en": "Embracing the Beast",
+        "Text_fr": "Au bout de l'extr\u00eame limite",
+        "Text_ja": "\u58c1\u3092\u3076\u3061\u58ca\u305b",
+        "Text_ko": "\u58c1\u3092\u3076\u3061\u58ca\u305b"
+    },
+    "187": {
+        "0xID": "BB",
+        "LegacyQuestID": "1202",
+        "Text_cn": "\u539f\u59cb\u7194\u5ca9",
+        "Text_de": "Ein Zeichen von Schw\u00e4che",
+        "Text_en": "Curious Gorge Goes to the Bazaar",
+        "Text_fr": "A la guerre comme \u00e0 la guerre",
+        "Text_ja": "\u539f\u521d\u306e\u30de\u30b0\u30de",
+        "Text_ko": "\u539f\u521d\u306e\u30de\u30b0\u30de"
+    },
+    "188": {
+        "0xID": "BC",
+        "LegacyQuestID": "1203",
+        "Text_cn": "\u82f1\u96c4\u5de1\u793c",
+        "Text_de": "Das Kreuz mit alten Br\u00e4uchen",
+        "Text_en": "Looking the Part",
+        "Text_fr": "La grande vadrouille",
+        "Text_ja": "\u82f1\u96c4\u5de1\u793c",
+        "Text_ko": "\u82f1\u96c4\u5de1\u793c"
+    },
+    "189": {
+        "0xID": "BD",
+        "LegacyQuestID": "1204",
+        "Text_cn": "\u8f83\u91cf",
+        "Text_de": "Indirektes Kr\u00e4ftemessen",
+        "Text_en": "Proof is in the Pudding",
+        "Text_fr": "Le bras de fer",
+        "Text_ja": "\u8155\u304f\u3089\u3079",
+        "Text_ko": "\u8155\u304f\u3089\u3079"
+    },
+    "19": {
+        "0xID": "13",
+        "LegacyQuestID": "18",
+        "Text_cn": "\u91cd\u53e0\u7684\u672a\u6765",
+        "Text_de": "In eine unsichere Zukunft",
+        "Text_en": "Futures Perfect",
+        "Text_fr": "Retrouvailles",
+        "Text_ja": "\u91cd\u306a\u308b\u672a\u6765",
+        "Text_ko": "\u91cd\u306a\u308b\u672a\u6765"
+    },
+    "190": {
+        "0xID": "BE",
+        "LegacyQuestID": "1205",
+        "Text_cn": "\u9876\u7ea7\u6218\u58eb",
+        "Text_de": "Wahre St\u00e4rke",
+        "Text_en": "How to Quit You",
+        "Text_fr": "Le Ma\u00eetre de guerre",
+        "Text_ja": "\u3044\u3061\u3070\u3093\u306e\u6226\u58eb",
+        "Text_ko": "\u3044\u3061\u3070\u3093\u306e\u6226\u58eb"
+    },
+    "191": {
+        "0xID": "BF",
+        "LegacyQuestID": "1220",
+        "Text_cn": "\u6d41\u6d6a\u7684\u6b66\u50e7",
+        "Text_de": "Der Professor und dein Lehrmeister",
+        "Text_en": "Brother from Another Mother",
+        "Text_fr": "Le moine errant",
+        "Text_ja": "\u3055\u3059\u3089\u3044\u306e\u30e2\u30f3\u30af",
+        "Text_ko": "\u3055\u3059\u3089\u3044\u306e\u30e2\u30f3\u30af"
+    },
+    "192": {
+        "0xID": "C0",
+        "LegacyQuestID": "1221",
+        "Text_cn": "\u84dd\u8272\u7684\u6218\u573a",
+        "Text_de": "Spuren der Geschichte",
+        "Text_en": "Insulted Intelligence",
+        "Text_fr": "Les contes des combats pass\u00e9s",
+        "Text_ja": "\u9752\u304d\u53e4\u6226\u5834",
+        "Text_ko": "\u9752\u304d\u53e4\u6226\u5834"
+    },
+    "193": {
+        "0xID": "C1",
+        "LegacyQuestID": "1222",
+        "Text_cn": "\u4e0d\u548c\u7684\u65cb\u5f8b",
+        "Text_de": "Auf der Suche nach Macht",
+        "Text_en": "The Pursuit of Power",
+        "Text_fr": "La qu\u00eate de pouvoir",
+        "Text_ja": "\u4e0d\u548c\u304b\u3089\u81f3\u308b\u65cb\u5f8b",
+        "Text_ko": "\u4e0d\u548c\u304b\u3089\u81f3\u308b\u65cb\u5f8b"
+    },
+    "194": {
+        "0xID": "C2",
+        "LegacyQuestID": "1223",
+        "Text_cn": "\u8109\u8f6e\u7684\u6ce2\u7eb9",
+        "Text_de": "\u00c4therische Harmonie",
+        "Text_en": "Good Vibrations",
+        "Text_fr": "Le septi\u00e8me chakra",
+        "Text_ja": "\u30c1\u30e3\u30af\u30e9\u306e\u6ce2\u7d0b",
+        "Text_ko": "\u30c1\u30e3\u30af\u30e9\u306e\u6ce2\u7d0b"
+    },
+    "195": {
+        "0xID": "C3",
+        "LegacyQuestID": "1224",
+        "Text_cn": "\u65e0\u660e\u7684\u5185\u5730",
+        "Text_de": "Das Schicksal der M\u00f6nche",
+        "Text_en": "Five Easy Pieces",
+        "Text_fr": "Prendre l'habit",
+        "Text_ja": "\u7121\u660e\u306e\u5185\u5730",
+        "Text_ko": "\u7121\u660e\u306e\u5185\u5730"
+    },
+    "196": {
+        "0xID": "C4",
+        "LegacyQuestID": "1225",
+        "Text_cn": "\u5e9f\u738b\u7684\u56de\u5f52",
+        "Text_de": "Das siebte Chakra",
+        "Text_en": "Return of the King...of Ruin",
+        "Text_fr": "Le v\u00e9ritable courage",
+        "Text_ja": "\u5ec3\u738b\u306e\u5e30\u9084",
+        "Text_ko": "\u5ec3\u738b\u306e\u5e30\u9084"
+    },
+    "197": {
+        "0xID": "C5",
+        "LegacyQuestID": "1240",
+        "Text_cn": "\u6df1\u6e0a\u4e4b\u79cd",
+        "Text_de": "Ass der St\u00e4be",
+        "Text_en": "Seeds of Initiative",
+        "Text_fr": "De ce qui jaillit du fond des ab\u00eemes",
+        "Text_ja": "\u767d\u9b54\u9053\u58eb\u304c\u5c0e\u304f\u3082\u306e",
+        "Text_ko": "\u767d\u9b54\u9053\u58eb\u304c\u5c0e\u304f\u3082\u306e"
+    },
+    "198": {
+        "0xID": "C6",
+        "LegacyQuestID": "1241",
+        "Text_cn": "\u6b8b\u5149\u4e4b\u5f71",
+        "Text_de": "Weicher W\u00fcterich",
+        "Text_en": "When Sheep Attack",
+        "Text_fr": "Des r\u00e9miniscences de lumi\u00e8re",
+        "Text_ja": "\u5149\u306e\u3042\u3068\u306b\u6b8b\u308b\u3082\u306e",
+        "Text_ko": "\u5149\u306e\u3042\u3068\u306b\u6b8b\u308b\u3082\u306e"
+    },
+    "199": {
+        "0xID": "C7",
+        "LegacyQuestID": "1242",
+        "Text_cn": "\u660e\u65e5\u4e4b\u8bed",
+        "Text_de": "Sticht, sticht, sticht",
+        "Text_en": "Lost in Rage",
+        "Text_fr": "Des lendemains \u00e0 venir",
+        "Text_ja": "\u7d9a\u304f\u660e\u65e5\u3092\u8a9e\u308b\u3082\u306e",
+        "Text_ko": "\u7d9a\u304f\u660e\u65e5\u3092\u8a9e\u308b\u3082\u306e"
+    },
+    "2": {
+        "0xID": "2",
+        "LegacyQuestID": "1",
+        "Text_cn": "\u78a7\u6d77\u4e4b\u5b9d",
+        "Text_de": "Der Schatz im Meer",
+        "Text_en": "Treasures of the Main",
+        "Text_fr": "Le tr\u00e9sor du grand bleu",
+        "Text_ja": "\u78a7\u6d77\u306e\u5b9d",
+        "Text_ko": "\u78a7\u6d77\u306e\u5b9d"
+    },
+    "20": {
+        "0xID": "14",
+        "LegacyQuestID": "59",
+        "Text_cn": "\u503a\u9b3c\u81f4\u5bcc\u8bb0",
+        "Text_de": "Die Macht des Geldes",
+        "Text_en": "The House Always Wins",
+        "Text_fr": "L'art de l'usure",
+        "Text_ja": "\u50b5\u9b3c\u7e41\u76db\u8a18",
+        "Text_ko": "\u50b5\u9b3c\u7e41\u76db\u8a18"
+    },
+    "200": {
+        "0xID": "C8",
+        "LegacyQuestID": "1243",
+        "Text_cn": "\u5e0c\u671b\u4e4b\u77ac",
+        "Text_de": "Die Spirale des Zorns",
+        "Text_en": "The Wheel of Disaster",
+        "Text_fr": "D'un espoir \u00e9ph\u00e9m\u00e8re",
+        "Text_ja": "\u77ac\u304f\u5e0c\u671b\u3092\u9858\u3046\u3082\u306e",
+        "Text_ko": "\u77ac\u304f\u5e0c\u671b\u3092\u9858\u3046\u3082\u306e"
+    },
+    "201": {
+        "0xID": "C9",
+        "LegacyQuestID": "1244",
+        "Text_cn": "\u6c89\u7720\u4e4b\u6012",
+        "Text_de": "F\u00fcnffache Milde",
+        "Text_en": "In Search of Succor",
+        "Text_fr": "Du fond de la col\u00e8re",
+        "Text_ja": "\u6012\u308a\u306e\u5e95\u306b\u7720\u308b\u3082\u306e",
+        "Text_ko": "\u6012\u308a\u306e\u5e95\u306b\u7720\u308b\u3082\u306e"
+    },
+    "202": {
+        "0xID": "CA",
+        "LegacyQuestID": "1245",
+        "Text_cn": "\u65e0\u57a2\u4e4b\u4eba",
+        "Text_de": "In Freiheit verbunden",
+        "Text_en": "The Chorus of Cataclysm",
+        "Text_fr": "De la chaleur qui comble l'immacul\u00e9",
+        "Text_ja": "\u7121\u57a2\u3088\u308a\u6e80\u3064\u308b\u3082\u306e",
+        "Text_ko": "\u7121\u57a2\u3088\u308a\u6e80\u3064\u308b\u3082\u306e"
+    },
+    "203": {
+        "0xID": "CB",
+        "LegacyQuestID": "1260",
+        "Text_cn": "\u9ed1\u8272\u7684\u6cd5\u5e08\uff0c\u9ed1\u8272\u7684\u9b54\u77f3",
+        "Text_de": "Der die Stimme vernimmt",
+        "Text_en": "Hearing Voices",
+        "Text_fr": "La voix des Marchands",
+        "Text_ja": "\u9ed2\u9b54\u9053\u58eb\u3068\u9ed2\u306e\u77f3",
+        "Text_ko": "\u9ed2\u9b54\u9053\u58eb\u3068\u9ed2\u306e\u77f3"
+    },
+    "204": {
+        "0xID": "CC",
+        "LegacyQuestID": "1261",
+        "Text_cn": "\u9884\u8a00\u7684\u65f6\u523b\uff0c\u732e\u796d\u7684\u9c9c\u8840",
+        "Text_de": "D\u00fcrstender Sand",
+        "Text_en": "A Time to Kill",
+        "Text_fr": "L'appel du sang",
+        "Text_ja": "\u6642\u3092\u544a\u3052\u3057\u8840",
+        "Text_ko": "\u6642\u3092\u544a\u3052\u3057\u8840"
+    },
+    "205": {
+        "0xID": "CD",
+        "LegacyQuestID": "1262",
+        "Text_cn": "\u4ed6\u4e61\u7684\u77e5\u5df1\uff0c\u5f02\u65cf\u7684\u53cb\u4eba",
+        "Text_de": "Fremde Freunde",
+        "Text_en": "International Relations",
+        "Text_fr": "Des amis \u00e9trangers",
+        "Text_ja": "\u7570\u90f7\u306a\u308b\u53cb",
+        "Text_ko": "\u7570\u90f7\u306a\u308b\u53cb"
+    },
+    "206": {
+        "0xID": "CE",
+        "LegacyQuestID": "1263",
+        "Text_cn": "\u529d\u8bf1\u7684\u8ff7\u96fe\uff0c\u9634\u6c89\u7684\u95e8\u6249",
+        "Text_de": "Das dunkle Atmen",
+        "Text_en": "The Voidgate Breathes Gloomy",
+        "Text_fr": "La corruption du n\u00e9ant",
+        "Text_ja": "\u3044\u3056\u306a\u3044\u306e\u9727",
+        "Text_ko": "\u3044\u3056\u306a\u3044\u306e\u9727"
+    },
+    "207": {
+        "0xID": "CF",
+        "LegacyQuestID": "1264",
+        "Text_cn": "\u6c42\u7d22\u7684\u65c5\u9014\uff0c\u7ef8\u7f2a\u7684\u51fa\u8def",
+        "Text_de": "Finde, was dein ist",
+        "Text_en": "Gearing Up",
+        "Text_fr": "Les habits du pouvoir",
+        "Text_ja": "\u9053\u3092\u6c42\u3080\u308b\u65c5",
+        "Text_ko": "\u9053\u3092\u6c42\u3080\u308b\u65c5"
+    },
+    "208": {
+        "0xID": "D0",
+        "LegacyQuestID": "1265",
+        "Text_cn": "\u9ed1\u9b54\u7684\u5f15\u5bfc\uff0c\u6cd5\u5e08\u7684\u771f\u5b9e",
+        "Text_de": "Im Nichts vereint",
+        "Text_en": "Always Bet on Black",
+        "Text_fr": "La voie de la magie noire",
+        "Text_ja": "\u9ed2\u9b54\u6cd5\u306e\u5c0e\u304d\u624b",
+        "Text_ko": "\u9ed2\u9b54\u6cd5\u306e\u5c0e\u304d\u624b"
+    },
+    "209": {
+        "0xID": "D1",
+        "LegacyQuestID": "1280",
+        "Text_cn": "\u9a91\u58eb\u7684\u8a93\u7ea6",
+        "Text_de": "Freier Paladin",
+        "Text_en": "Paladin's Pledge",
+        "Text_fr": "Le serment du paladin",
+        "Text_ja": "\u30ca\u30a4\u30c8\u306e\u8a93\u7d04",
+        "Text_ko": "\u30ca\u30a4\u30c8\u306e\u8a93\u7d04"
+    },
+    "21": {
+        "0xID": "15",
+        "LegacyQuestID": "60",
+        "Text_cn": "\u5b88\u62a4\u8005\u542f\u7a0b",
+        "Text_de": "Die Falschgeldaff\u00e4re",
+        "Text_en": "Here There Be Pirates",
+        "Text_fr": "L'affaire des faux jetons",
+        "Text_ja": "\u5b88\u8b77\u8005\u306e\u65c5\u7acb\u3061",
+        "Text_ko": "\u5b88\u8b77\u8005\u306e\u65c5\u7acb\u3061"
+    },
+    "210": {
+        "0xID": "D2",
+        "LegacyQuestID": "1281",
+        "Text_cn": "\u656c\u4ef0\u7684\u80cc\u5f71",
+        "Text_de": "Leuchtendes Vorbild",
+        "Text_en": "Honor Lost",
+        "Text_fr": "Un r\u00eave d'enfant",
+        "Text_ja": "\u6155\u3044\u3057\u80cc\u4e2d",
+        "Text_ko": "\u6155\u3044\u3057\u80cc\u4e2d"
+    },
+    "211": {
+        "0xID": "D3",
+        "LegacyQuestID": "1282",
+        "Text_cn": "\u5931\u671b\u3001\u6124\u6012\u3001\u8d23\u4efb",
+        "Text_de": "Intrige und Verrat",
+        "Text_en": "Power Struggles",
+        "Text_fr": "D\u00e9ception, col\u00e8re et d\u00e9termination",
+        "Text_ja": "\u5931\u671b\u3068\u6012\u308a\u3068\u8cac\u4efb\u3068",
+        "Text_ko": "\u5931\u671b\u3068\u6012\u308a\u3068\u8cac\u4efb\u3068"
+    },
+    "212": {
+        "0xID": "D4",
+        "LegacyQuestID": "1283",
+        "Text_cn": "\u52fe\u5fc3\u6597\u89d2",
+        "Text_de": "Gift im Herzen",
+        "Text_en": "Poisoned Hearts",
+        "Text_fr": "Un poison nomm\u00e9 Solkzagyl",
+        "Text_ja": "\u4ea4\u308f\u308b\u6bd2\u5fc3",
+        "Text_ko": "\u4ea4\u308f\u308b\u6bd2\u5fc3"
+    },
+    "213": {
+        "0xID": "D5",
+        "LegacyQuestID": "1284",
+        "Text_cn": "\u5404\u6000\u5f02\u5fc3",
+        "Text_de": "Der rechte Weg",
+        "Text_en": "Parley on High Ground",
+        "Text_fr": "Des n\u00e9gociations \u00e0 haut risque",
+        "Text_ja": "\u4ea4\u308f\u3089\u306c\u5fc3\u616e",
+        "Text_ko": "\u4ea4\u308f\u3089\u306c\u5fc3\u616e"
+    },
+    "214": {
+        "0xID": "D6",
+        "LegacyQuestID": "1285",
+        "Text_cn": "\u9ad8\u4e3e\u9a91\u58eb\u7684\u5723\u5251",
+        "Text_de": "Das heilige Schwert",
+        "Text_en": "Keeping the Oath",
+        "Text_fr": "A chacun son chemin",
+        "Text_ja": "\u304b\u3056\u3059\u306f\u9a0e\u58eb\u306e\u8056\u5263",
+        "Text_ko": "\u304b\u3056\u3059\u306f\u9a0e\u58eb\u306e\u8056\u5263"
+    },
+    "215": {
+        "0xID": "D7",
+        "LegacyQuestID": "1300",
+        "Text_cn": "\u541f\u6e38\u8bd7\u4eba\u7684\u65cb\u5f8b",
+        "Text_de": "Ouvert\u00fcre",
+        "Text_en": "A Song of Bards and Bowmen",
+        "Text_fr": "Quand les cordes r\u00e9sonnent \u00e0 l'unisson",
+        "Text_ja": "\u541f\u904a\u8a69\u4eba\u306e\u8abf\u3079",
+        "Text_ko": "\u541f\u904a\u8a69\u4eba\u306e\u8abf\u3079"
+    },
+    "216": {
+        "0xID": "D8",
+        "LegacyQuestID": "1301",
+        "Text_cn": "\u5f13\u5175\u7684\u6218\u6b4c",
+        "Text_de": "Die Wiege der Poesie",
+        "Text_en": "The Archer's Anthem",
+        "Text_fr": "Les partisans du chant",
+        "Text_ja": "\u5f13\u5175\u306e\u6226\u6b4c",
+        "Text_ko": "\u5f13\u5175\u306e\u6226\u6b4c"
+    },
+    "217": {
+        "0xID": "D9",
+        "LegacyQuestID": "1302",
+        "Text_cn": "\u5149\u9634\u795e\u7684\u5883\u5730",
+        "Text_de": "Das Erbe der Barden",
+        "Text_en": "Bard's-Eye View",
+        "Text_fr": "Les desseins du Contemplateur",
+        "Text_ja": "\u6642\u795e\u306e\u5883\u5730",
+        "Text_ko": "\u6642\u795e\u306e\u5883\u5730"
+    },
+    "218": {
+        "0xID": "DA",
+        "LegacyQuestID": "1303",
+        "Text_cn": "\u7f6a\u5b7d\u6df1\u91cd\u7684\u611a\u8005",
+        "Text_de": "Der hochm\u00fctige Narr",
+        "Text_en": "Doing It the Bard Way",
+        "Text_fr": "Celui qui p\u00e9cha par orgueil",
+        "Text_ja": "\u7f6a\u6df1\u304d\u611a\u8005",
+        "Text_ko": "\u7f6a\u6df1\u304d\u611a\u8005"
+    },
+    "219": {
+        "0xID": "DB",
+        "LegacyQuestID": "1304",
+        "Text_cn": "\u6e34\u6c42\u51c0\u7f6a\u4e4b\u5730",
+        "Text_de": "Des Barden neue Kleider",
+        "Text_en": "Pieces of the Past",
+        "Text_fr": "En qu\u00eate d'absolution",
+        "Text_ja": "\u6d44\u7f6a\u306e\u5730\u3092\u6c42\u3081\u3066",
+        "Text_ko": "\u6d44\u7f6a\u306e\u5730\u3092\u6c42\u3081\u3066"
+    },
+    "22": {
+        "0xID": "16",
+        "LegacyQuestID": "61",
+        "Text_cn": "\u786c\u5e01\u7684\u6b63\u53cd\u9762",
+        "Text_de": "Die Kehrseite der M\u00fcnze",
+        "Text_en": "Two Sides to Every Chip",
+        "Text_fr": "L'envers du jeton",
+        "Text_ja": "\u30b3\u30a4\u30f3\u306e\u88cf\u3068\u8868\u3068",
+        "Text_ko": "\u30b3\u30a4\u30f3\u306e\u88cf\u3068\u8868\u3068"
+    },
+    "220": {
+        "0xID": "DC",
+        "LegacyQuestID": "1305",
+        "Text_cn": "\u751f\u547d\u7684\u8d5e\u6b4c",
+        "Text_de": "Requiem",
+        "Text_en": "Requiem for the Fallen",
+        "Text_fr": "L'hymne \u00e0 la vie",
+        "Text_ja": "\u547d\u306e\u8cdb\u6b4c",
+        "Text_ko": "\u547d\u306e\u8cdb\u6b4c"
+    },
+    "221": {
+        "0xID": "DD",
+        "LegacyQuestID": "1320",
+        "Text_cn": "\u89c9\u9192\u7684\u9f99\u9a91\u58eb",
+        "Text_de": "Das Auge des Drachen",
+        "Text_en": "Eye of the Dragon",
+        "Text_fr": "L'\u00e9veil du dragon",
+        "Text_ja": "\u76ee\u899a\u3081\u3057\u7adc\u9a0e\u58eb",
+        "Text_ko": "\u76ee\u899a\u3081\u3057\u7adc\u9a0e\u58eb"
+    },
+    "222": {
+        "0xID": "DE",
+        "LegacyQuestID": "1321",
+        "Text_cn": "\u6218\u795e\u4e4b\u67aa",
+        "Text_de": "Lanzenlegenden",
+        "Text_en": "Lance of Fury",
+        "Text_fr": "La lance du destin",
+        "Text_ja": "\u6226\u795e\u306e\u69cd",
+        "Text_ko": "\u6226\u795e\u306e\u69cd"
+    },
+    "223": {
+        "0xID": "DF",
+        "LegacyQuestID": "1322",
+        "Text_cn": "\u65e0\u6cd5\u62b9\u6d88\u7684\u722a\u75d5",
+        "Text_de": "Narben der Seele",
+        "Text_en": "Unfading Scars",
+        "Text_fr": "Les griffes de la nuit",
+        "Text_ja": "\u6d88\u3048\u306c\u722a\u75d5",
+        "Text_ko": "\u6d88\u3048\u306c\u722a\u75d5"
+    },
+    "224": {
+        "0xID": "E0",
+        "LegacyQuestID": "1323",
+        "Text_cn": "\u53cc\u9f99\u9082\u9005",
+        "Text_de": "Doppel-Dragoon",
+        "Text_en": "Double Dragoon",
+        "Text_fr": "Des donjons et des dragons",
+        "Text_ja": "\u53cc\u7adc\u306e\u9082\u9005",
+        "Text_ko": "\u53cc\u7adc\u306e\u9082\u9005"
+    },
+    "225": {
+        "0xID": "E1",
+        "LegacyQuestID": "1324",
+        "Text_cn": "\u90aa\u9f99\u4e4b\u58f0",
+        "Text_de": "Fatale Versuchung",
+        "Text_en": "Fatal Seduction",
+        "Text_fr": "Confessions intimes",
+        "Text_ja": "\u90aa\u7adc\u306e\u58f0",
+        "Text_ko": "\u90aa\u7adc\u306e\u58f0"
+    },
+    "226": {
+        "0xID": "E2",
+        "LegacyQuestID": "1325",
+        "Text_cn": "\u82cd\u5929\u4e4b\u9f99\u9a91\u58eb",
+        "Text_de": "Kl\u00fcfte der Feindschaft",
+        "Text_en": "Into the Dragon's Maw",
+        "Text_fr": "La fureur du dragon",
+        "Text_ja": "\u84bc\u306e\u7adc\u9a0e\u58eb",
+        "Text_ko": "\u84bc\u306e\u7adc\u9a0e\u58eb"
+    },
+    "227": {
+        "0xID": "E3",
+        "LegacyQuestID": "1400",
+        "Text_cn": "\u8d24\u8005\u7684\u79d8\u5bc6",
+        "Text_de": "Zwei Seiten der Wahrheit",
+        "Text_en": "The Price of Integrity",
+        "Text_fr": "Le secret des Preux",
+        "Text_ja": "\u8ce2\u8005\u306e\u79d8\u5bc6",
+        "Text_ko": "\u8ce2\u8005\u306e\u79d8\u5bc6"
+    },
+    "228": {
+        "0xID": "E4",
+        "LegacyQuestID": "1401",
+        "Text_cn": "\u4e34\u65f6\u52a0\u5165\u201c\u9ed1\u6da1\u56e2\u201d",
+        "Text_de": "Aspirant beim Mahlstrom",
+        "Text_en": "Testing the Waters",
+        "Text_fr": "Enr\u00f4lement provisoire au Maelstrom",
+        "Text_ja": "\u300c\u9ed2\u6e26\u56e3\u300d\u4eee\u914d\u5c5e",
+        "Text_ko": "\u300c\u9ed2\u6e26\u56e3\u300d\u4eee\u914d\u5c5e"
+    },
+    "229": {
+        "0xID": "E5",
+        "LegacyQuestID": "1402",
+        "Text_cn": "\u9ed1\u6da1\u56e2\u519b\u7968",
+        "Text_de": "Flottentaler du musst wandern",
+        "Text_en": "Seals for the Whorl",
+        "Text_fr": "Les sceaux du Maelstrom",
+        "Text_ja": "\u300c\u9ed2\u6e26\u56e3\u300d\u306e\u8ecd\u7968",
+        "Text_ko": "\u300c\u9ed2\u6e26\u56e3\u300d\u306e\u8ecd\u7968"
+    },
+    "23": {
+        "0xID": "17",
+        "LegacyQuestID": "79",
+        "Text_cn": "\u966a\u7ec3\u5bf9\u624b",
+        "Text_de": "Das Deb\u00fct",
+        "Text_en": "All Bark and No Bite",
+        "Text_fr": "Les \u00e9liminatoires",
+        "Text_ja": "\u565b\u307e\u305b\u72ac",
+        "Text_ko": "\u565b\u307e\u305b\u72ac"
+    },
+    "230": {
+        "0xID": "E6",
+        "LegacyQuestID": "1403",
+        "Text_cn": "\u5e1d\u56fd\u7684\u76ee\u6807",
+        "Text_de": "Elektronische Kriegsf\u00fchrung",
+        "Text_en": "Engineering Victory",
+        "Text_fr": "Les desseins de l'Empire",
+        "Text_ja": "\u5e1d\u56fd\u306e\u7167\u6e96",
+        "Text_ko": "\u5e1d\u56fd\u306e\u7167\u6e96"
+    },
+    "231": {
+        "0xID": "E7",
+        "LegacyQuestID": "1404",
+        "Text_cn": "\u5de8\u8230\u626c\u5e06",
+        "Text_de": "Rede zur Freiheit",
+        "Text_en": "An Officer and a Wise Man",
+        "Text_fr": "Un vent nouveau en poupe",
+        "Text_ja": "\u5de8\u8266\u3092\u99c6\u308a\u3066",
+        "Text_ko": "\u5de8\u8266\u3092\u99c6\u308a\u3066"
+    },
+    "232": {
+        "0xID": "E8",
+        "LegacyQuestID": "1405",
+        "Text_cn": "\u52a8\u4e71\u7684\u5927\u5730",
+        "Text_de": "Blut f\u00fcr Erdseim",
+        "Text_en": "Ceruleum Shock",
+        "Text_fr": "Ecueils \u00e0 l'horizon",
+        "Text_ja": "\u52d5\u4e71\u306e\u5927\u5730",
+        "Text_ko": "\u52d5\u4e71\u306e\u5927\u5730"
+    },
+    "233": {
+        "0xID": "E9",
+        "LegacyQuestID": "1406",
+        "Text_cn": "\u5165\u4f0d\u9ed1\u6da1\u56e2",
+        "Text_de": "Treueeid f\u00fcr den Mahlstrom",
+        "Text_en": "Till Sea Swallows All",
+        "Text_fr": "All\u00e9geance au Maelstrom",
+        "Text_ja": "\u300c\u9ed2\u6e26\u56e3\u300d\u914d\u5c5e",
+        "Text_ko": "\u300c\u9ed2\u6e26\u56e3\u300d\u914d\u5c5e"
+    },
+    "234": {
+        "0xID": "EA",
+        "LegacyQuestID": "1409",
+        "Text_cn": "\u6258\u6258\u00b7\u62c9\u514b\u5343\u72f1\uff08\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\uff09",
+        "Text_de": "Der Kerker von Toto-Rak (Limsa Lominsa)",
+        "Text_en": "Imperial Devices (Limsa Lominsa)",
+        "Text_fr": "Les Mille Gueules de Toto-Rak (Limsa Lominsa)",
+        "Text_ja": "\u30c8\u30c8\u30e9\u30af\u306e\u5343\u7344\u3000\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09",
+        "Text_ko": "\u30c8\u30c8\u30e9\u30af\u306e\u5343\u7344\u3000\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09"
+    },
+    "235": {
+        "0xID": "EB",
+        "LegacyQuestID": "1410",
+        "Text_cn": "\u6cfd\u6885\u5c14\u8981\u585e\uff08\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\uff09",
+        "Text_de": "Die unterirdische Feste (Limsa Lominsa)",
+        "Text_en": "Into the Dark (Limsa Lominsa)",
+        "Text_fr": "La Forteresse de Dzemael (Limsa Lominsa)",
+        "Text_ja": "\u30bc\u30fc\u30e1\u30eb\u8981\u585e\u3000\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09",
+        "Text_ko": "\u30bc\u30fc\u30e1\u30eb\u8981\u585e\u3000\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09"
+    },
+    "236": {
+        "0xID": "EC",
+        "LegacyQuestID": "1415",
+        "Text_cn": "\u8def\u6613\u7d22\u74e6\u76df\u4e3b\u7684\u79d8\u8ba1\uff08\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\uff09",
+        "Text_de": "Feuertaufe (Limsa Lominsa)",
+        "Text_en": "It Kills with Fire (Limsa Lominsa)",
+        "Text_fr": "Combattre le feu par le feu (Limsa Lominsa)",
+        "Text_ja": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u79d8\u7b56\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09",
+        "Text_ko": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u79d8\u7b56\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09"
+    },
+    "237": {
+        "0xID": "ED",
+        "LegacyQuestID": "1416",
+        "Text_cn": "\u6ce1\u6ce1\u5927\u4f5c\u6218",
+        "Text_de": "Tr\u00e4ume sind Sch\u00e4ume",
+        "Text_en": "The Cove",
+        "Text_fr": "Bulles troubles",
+        "Text_ja": "\u30a2\u30ef\u30a2\u30ef\u5927\u4f5c\u6226",
+        "Text_ko": "\u30a2\u30ef\u30a2\u30ef\u5927\u4f5c\u6226"
+    },
+    "238": {
+        "0xID": "EE",
+        "LegacyQuestID": "1417",
+        "Text_cn": "\u72c2\u66b4\u7684\u6d77\u76d7",
+        "Text_de": "Der Gute, die B\u00f6sen und die Kobolde",
+        "Text_en": "Saving the Stead Instead",
+        "Text_fr": "Les bons, les brutes et les Kobolds",
+        "Text_ja": "\u8352\u3076\u308b\u6d77\u8cca\u305f\u3061",
+        "Text_ko": "\u8352\u3076\u308b\u6d77\u8cca\u305f\u3061"
+    },
+    "239": {
+        "0xID": "EF",
+        "LegacyQuestID": "1418",
+        "Text_cn": "\u7f8e\u5473\u5c0f\u751c\u997c\u5927\u9a9a\u52a8",
+        "Text_de": "Manche m\u00f6gen's scharf",
+        "Text_en": "It's a Piece of Cake to Bake a Poison Cake",
+        "Text_fr": "Qui s'y frotte, s'y pique",
+        "Text_ja": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30d3\u30b9\u30b1\u30c3\u30c8\u9a12\u52d5",
+        "Text_ko": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30d3\u30b9\u30b1\u30c3\u30c8\u9a12\u52d5"
+    },
+    "24": {
+        "0xID": "18",
+        "LegacyQuestID": "80",
+        "Text_cn": "\u81ea\u7531\u7684\u6743\u5229",
+        "Text_de": "Der Preis der Freiheit",
+        "Text_en": "Unalienable Rights",
+        "Text_fr": "Droits inali\u00e9nables",
+        "Text_ja": "\u81ea\u7531\u306e\u6a29\u5229",
+        "Text_ko": "\u81ea\u7531\u306e\u6a29\u5229"
+    },
+    "240": {
+        "0xID": "F0",
+        "LegacyQuestID": "1419",
+        "Text_cn": "\u5730\u5e95\u79d8\u5883",
+        "Text_de": "Kobold-R\u00e4nkeschmiede",
+        "Text_en": "Kobold and the Beautiful",
+        "Text_fr": "Forages au centre de la Terre",
+        "Text_ja": "\u5730\u5e95\u306e\u79d8\u5883",
+        "Text_ko": "\u5730\u5e95\u306e\u79d8\u5883"
+    },
+    "241": {
+        "0xID": "F1",
+        "LegacyQuestID": "1425",
+        "Text_cn": "\u82b1\u6cb9\u5371\u673a",
+        "Text_de": "\u00d6lkrise",
+        "Text_en": "Oil Crisis",
+        "Text_fr": "Aux bons ouvriers, les bons outils",
+        "Text_ja": "\u4e00\u6d41\u3092\u652f\u3048\u308b\u3082\u306e",
+        "Text_ko": "\u4e00\u6d41\u3092\u652f\u3048\u308b\u3082\u306e"
+    },
+    "242": {
+        "0xID": "F2",
+        "LegacyQuestID": "1426",
+        "Text_cn": "\u4e3a\u738b\u72fc\u996f\u884c",
+        "Text_de": "Cid und der Wolf",
+        "Text_en": "Alive",
+        "Text_fr": "La pierre et le Loup",
+        "Text_ja": "\u738b\u72fc\u3078\u306e\u306f\u306a\u3080\u3051",
+        "Text_ko": "\u738b\u72fc\u3078\u306e\u306f\u306a\u3080\u3051"
+    },
+    "243": {
+        "0xID": "F3",
+        "LegacyQuestID": "1427",
+        "Text_cn": "\u5730\u7075\u519b\u8425\u5730\u75b2\u52b3\u4f5c\u6218",
+        "Text_de": "Ausbluten lassen",
+        "Text_en": "The Weakest Link",
+        "Text_fr": "Des infiltrations chez les Kobolds",
+        "Text_ja": "\u300c\u30b3\u30dc\u30eb\u30c9\u8ecd\u91ce\u55b6\u300d\u75b2\u5f0a\u4f5c\u6226",
+        "Text_ko": "\u300c\u30b3\u30dc\u30eb\u30c9\u8ecd\u91ce\u55b6\u300d\u75b2\u5f0a\u4f5c\u6226"
+    },
+    "244": {
+        "0xID": "F4",
+        "LegacyQuestID": "1428",
+        "Text_cn": "\u5929\u964d\u5947\u5175",
+        "Text_de": "Deus ex Machina",
+        "Text_en": "Deus ex Machina",
+        "Text_fr": "Deus ex Machina",
+        "Text_ja": "\u958b\u304b\u308c\u305f\u8840\u8def",
+        "Text_ko": "\u958b\u304b\u308c\u305f\u8840\u8def"
+    },
+    "245": {
+        "0xID": "F5",
+        "LegacyQuestID": "1429",
+        "Text_cn": "\u8def\u6613\u7d22\u74e6\u76df\u4e3b\u7684\u5f15\u5bfc\uff08\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\uff09",
+        "Text_de": "Die grausame Herrin der St\u00fcrme (Limsa Lominsa)",
+        "Text_en": "In for Garuda Wakening (Limsa Lominsa)",
+        "Text_fr": "Qui s\u00e8me le vent r\u00e9colte la temp\u00eate (Limsa Lominsa)",
+        "Text_ja": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u5c0e\u304d\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09",
+        "Text_ko": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u5c0e\u304d\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09"
+    },
+    "246": {
+        "0xID": "F6",
+        "LegacyQuestID": "1430",
+        "Text_cn": "\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\u7684\u6b67\u8def",
+        "Text_de": "Am Scheideweg (Limsa Lominsa)",
+        "Text_en": "Don't Hate the Messenger (Limsa Lominsa)",
+        "Text_fr": "L'union fait la force (Limsa Lominsa)",
+        "Text_ja": "\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u306e\u5c90\u8def",
+        "Text_ko": "\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\u306e\u5c90\u8def"
+    },
+    "247": {
+        "0xID": "F7",
+        "LegacyQuestID": "1431",
+        "Text_cn": "\u5411\u80dc\u5229\u524d\u8fdb\uff08\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\uff09",
+        "Text_de": "Auf der Siegerstra\u00dfe (Limsa Lominsa)",
+        "Text_en": "United We Stand (Limsa Lominsa)",
+        "Text_fr": "Les sentiers de la victoire (Limsa Lominsa)",
+        "Text_ja": "\u52dd\u5229\u3078\u306e\u884c\u9032\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09",
+        "Text_ko": "\u52dd\u5229\u3078\u306e\u884c\u9032\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09"
+    },
+    "248": {
+        "0xID": "F8",
+        "LegacyQuestID": "1432",
+        "Text_cn": "\u6708\u4e0b\u4e4b\u6218\uff08\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428\uff09",
+        "Text_de": "Monds\u00fcchtig (Limsa Lominsa)",
+        "Text_en": "To Kill a Raven (Limsa Lominsa)",
+        "Text_fr": "Joute sous la lune (Limsa Lominsa)",
+        "Text_ja": "\u6708\u4e0b\u306e\u95d8\u3044\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09",
+        "Text_ko": "\u6708\u4e0b\u306e\u95d8\u3044\uff08\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5\uff09"
+    },
+    "249": {
+        "0xID": "F9",
+        "LegacyQuestID": "1433",
+        "Text_cn": "\u64bc\u5929\u731b\u725b\u8ba8\u4f10\u4f5c\u6218",
+        "Text_de": "Offizier zur See",
+        "Text_en": "Patrol, Interrupted",
+        "Text_fr": "Le buffle se rebiffe",
+        "Text_ja": "\u300c\u30b0\u30ec\u30fc\u30c8\u30d0\u30c3\u30d5\u30a1\u30ed\u30fc\u300d\u8a0e\u4f10\u4f5c\u6226",
+        "Text_ko": "\u300c\u30b0\u30ec\u30fc\u30c8\u30d0\u30c3\u30d5\u30a1\u30ed\u30fc\u300d\u8a0e\u4f10\u4f5c\u6226"
+    },
+    "25": {
+        "0xID": "19",
+        "LegacyQuestID": "81",
+        "Text_cn": "\u5174\u594b\u7684\u4ee3\u4ef7",
+        "Text_de": "Das gro\u00dfe Turnier",
+        "Text_en": "Thrill of the Fight",
+        "Text_fr": "Le tournoi",
+        "Text_ja": "\u8208\u596e\u306e\u4ee3\u511f",
+        "Text_ko": "\u8208\u596e\u306e\u4ee3\u511f"
+    },
+    "250": {
+        "0xID": "FA",
+        "LegacyQuestID": "1600",
+        "Text_cn": "\u8d24\u8005\u7684\u523b\u5370",
+        "Text_de": "Ich bin die Axt, ich bin die Flamme",
+        "Text_en": "Breaking the Seals",
+        "Text_fr": "Les marques du Preux",
+        "Text_ja": "\u8ce2\u8005\u306e\u523b\u5370",
+        "Text_ko": "\u8ce2\u8005\u306e\u523b\u5370"
+    },
+    "251": {
+        "0xID": "FB",
+        "LegacyQuestID": "1601",
+        "Text_cn": "\u4e34\u65f6\u52a0\u5165\u201c\u53cc\u86c7\u515a\u201d",
+        "Text_de": "Aspirant der Bruderschaft",
+        "Text_en": "Why Did It Have to Be Snakes",
+        "Text_fr": "Enr\u00f4lement provisoire dans l'ordre des Deux Vip\u00e8res",
+        "Text_ja": "\u300c\u53cc\u86c7\u515a\u300d\u4eee\u914d\u5c5e",
+        "Text_ko": "\u300c\u53cc\u86c7\u515a\u300d\u4eee\u914d\u5c5e"
+    },
+    "252": {
+        "0xID": "FC",
+        "LegacyQuestID": "1602",
+        "Text_cn": "\u53cc\u86c7\u515a\u519b\u7968",
+        "Text_de": "Ordenstaler, du musst wandern",
+        "Text_en": "Adders' Nest Egg",
+        "Text_fr": "Les sceaux de l'ordre des Deux Vip\u00e8res",
+        "Text_ja": "\u300c\u53cc\u86c7\u515a\u300d\u306e\u8ecd\u7968",
+        "Text_ko": "\u300c\u53cc\u86c7\u515a\u300d\u306e\u8ecd\u7968"
+    },
+    "253": {
+        "0xID": "FD",
+        "LegacyQuestID": "1603",
+        "Text_cn": "\u89c9\u609f\u7684\u4fe1\u606f",
+        "Text_de": "Unter Schutz und Undercover",
+        "Text_en": "The Mail Must Get Through",
+        "Text_fr": "Une lettre cher pay\u00e9e",
+        "Text_ja": "\u899a\u609f\u306e\u4fbf\u308a",
+        "Text_ko": "\u899a\u609f\u306e\u4fbf\u308a"
+    },
+    "254": {
+        "0xID": "FE",
+        "LegacyQuestID": "1604",
+        "Text_cn": "\u548c\u8c10\u65b0\u7eaa\u5143",
+        "Text_de": "Die Summe der einzelnen Teile",
+        "Text_en": "Their Finest Hour",
+        "Text_fr": "Vers une nouvelle harmonie",
+        "Text_ja": "\u65b0\u305f\u306a\u8abf\u548c\u3092",
+        "Text_ko": "\u65b0\u305f\u306a\u8abf\u548c\u3092"
+    },
+    "255": {
+        "0xID": "FF",
+        "LegacyQuestID": "1605",
+        "Text_cn": "\u7834\u574f\u4e4b\u529b",
+        "Text_de": "Traumatische Erlebnisse",
+        "Text_en": "Appetite for Destruction",
+        "Text_fr": "Blessures de l'\u00e2me",
+        "Text_ja": "\u7834\u58ca\u306e\u529b",
+        "Text_ko": "\u7834\u58ca\u306e\u529b"
+    },
+    "256": {
+        "0xID": "100",
+        "LegacyQuestID": "1606",
+        "Text_cn": "\u5165\u4f0d\u53cc\u86c7\u515a",
+        "Text_de": "Treueeid f\u00fcr die Bruderschaft",
+        "Text_en": "Serenity, Purity, Sanctity",
+        "Text_fr": "All\u00e9geance \u00e0 l'ordre des Deux Vip\u00e8res",
+        "Text_ja": "\u300c\u53cc\u86c7\u515a\u300d\u914d\u5c5e",
+        "Text_ko": "\u300c\u53cc\u86c7\u515a\u300d\u914d\u5c5e"
+    },
+    "257": {
+        "0xID": "101",
+        "LegacyQuestID": "1609",
+        "Text_cn": "\u6258\u6258\u00b7\u62c9\u514b\u5343\u72f1\uff08\u683c\u91cc\u8fbe\u5c3c\u4e9a\uff09",
+        "Text_de": "Der Kerker von Toto-Rak (Gridania)",
+        "Text_en": "Imperial Devices (Gridania)",
+        "Text_fr": "Les Mille Gueules de Toto-Rak (Gridania)",
+        "Text_ja": "\u30c8\u30c8\u30e9\u30af\u306e\u5343\u7344\u3000\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09",
+        "Text_ko": "\u30c8\u30c8\u30e9\u30af\u306e\u5343\u7344\u3000\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09"
+    },
+    "258": {
+        "0xID": "102",
+        "LegacyQuestID": "1610",
+        "Text_cn": "\u6cfd\u6885\u5c14\u8981\u585e\uff08\u683c\u91cc\u8fbe\u5c3c\u4e9a\uff09",
+        "Text_de": "Die unterirdische Feste (Gridania)",
+        "Text_en": "Into the Dark (Gridania)",
+        "Text_fr": "La Forteresse de Dzemael (Gridania)",
+        "Text_ja": "\u30bc\u30fc\u30e1\u30eb\u8981\u585e\u3000\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09",
+        "Text_ko": "\u30bc\u30fc\u30e1\u30eb\u8981\u585e\u3000\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09"
+    },
+    "259": {
+        "0xID": "103",
+        "LegacyQuestID": "1615",
+        "Text_cn": "\u8def\u6613\u7d22\u74e6\u76df\u4e3b\u7684\u79d8\u8ba1\uff08\u683c\u91cc\u8fbe\u5c3c\u4e9a\uff09",
+        "Text_de": "Feuertaufe (Gridania)",
+        "Text_en": "It Kills with Fire (Gridania)",
+        "Text_fr": "Combattre le feu par le feu (Gridania)",
+        "Text_ja": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u79d8\u7b56\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09",
+        "Text_ko": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u79d8\u7b56\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09"
+    },
+    "26": {
+        "0xID": "1A",
+        "LegacyQuestID": "99",
+        "Text_cn": "\u65ad\u7f6a\u515a\u7684\u6d17\u793c",
+        "Text_de": "Blutiger Baptismus",
+        "Text_en": "Bloody Baptism",
+        "Text_fr": "Le bapt\u00eame des Bourreaux",
+        "Text_ja": "\u65ad\u7f6a\u515a\u306e\u6d17\u793c",
+        "Text_ko": "\u65ad\u7f6a\u515a\u306e\u6d17\u793c"
+    },
+    "260": {
+        "0xID": "104",
+        "LegacyQuestID": "1616",
+        "Text_cn": "\u9065\u8fdc\u7684\u5faa\u73af",
+        "Text_de": "Der Wald gibt, der Wald nimmt",
+        "Text_en": "Eternal Recurrence",
+        "Text_fr": "Le cycle de la vie",
+        "Text_ja": "\u9065\u304b\u306a\u308b\u5faa\u74b0",
+        "Text_ko": "\u9065\u304b\u306a\u308b\u5faa\u74b0"
+    },
+    "261": {
+        "0xID": "105",
+        "LegacyQuestID": "1617",
+        "Text_cn": "\u536b\u56fd\u7684\u51b3\u5fc3",
+        "Text_de": "Individuelle St\u00e4rken",
+        "Text_en": "The Pen Is Mightier than the Spear",
+        "Text_fr": "Trouver sa voie",
+        "Text_ja": "\u8b77\u56fd\u306b\u304b\u3051\u308b\u6c7a\u610f",
+        "Text_ko": "\u8b77\u56fd\u306b\u304b\u3051\u308b\u6c7a\u610f"
+    },
+    "262": {
+        "0xID": "106",
+        "LegacyQuestID": "1618",
+        "Text_cn": "\u95ea\u5149\u7684\u79cd\u5b50",
+        "Text_de": "Die Leiden der G\u00e4rtner",
+        "Text_en": "Woes of the Botanist",
+        "Text_fr": "L'\u00e9thique de la botanique",
+        "Text_ja": "\u3072\u3089\u3081\u304d\u306e\u7a2e",
+        "Text_ko": "\u3072\u3089\u3081\u304d\u306e\u7a2e"
+    },
+    "263": {
+        "0xID": "107",
+        "LegacyQuestID": "1619",
+        "Text_cn": "\u70c8\u98ce\u8981\u585e",
+        "Text_de": "Vom Winde verweht",
+        "Text_en": "Gone with the Wind",
+        "Text_fr": "La conqu\u00eate du ciel",
+        "Text_ja": "\u70c8\u98a8\u306e\u8981\u585e",
+        "Text_ko": "\u70c8\u98a8\u306e\u8981\u585e"
+    },
+    "264": {
+        "0xID": "108",
+        "LegacyQuestID": "1625",
+        "Text_cn": "\u541e\u566c\u5c38\u9ab8\u4e4b\u4eba",
+        "Text_de": "Eine Vorliebe f\u00fcr Totes",
+        "Text_en": "A Taste for Death",
+        "Text_fr": "Emb\u00fbches pour les b\u00fbcherons",
+        "Text_ja": "\u9ab8\u3092\u55b0\u3089\u3046\u8005",
+        "Text_ko": "\u9ab8\u3092\u55b0\u3089\u3046\u8005"
+    },
+    "265": {
+        "0xID": "109",
+        "LegacyQuestID": "1626",
+        "Text_cn": "\u51f6\u9e1f\u4e4b\u821e",
+        "Text_de": "Die linke und die rechte Hand des Schicksals",
+        "Text_en": "Two Vans are Better than One",
+        "Text_fr": "L'oiseau de mauvais augure",
+        "Text_ja": "\u51f6\u9ce5\u306e\u821e",
+        "Text_ko": "\u51f6\u9ce5\u306e\u821e"
+    },
+    "266": {
+        "0xID": "10A",
+        "LegacyQuestID": "1627",
+        "Text_cn": "\u9e1f\u4eba\u519b\u91c7\u4f10\u6240\u6025\u88ad\u4f5c\u6218",
+        "Text_de": "Party platzen lassen",
+        "Text_en": "You Don't Have the Rite",
+        "Text_fr": "Raid sur le site de d\u00e9boisement des Ixali",
+        "Text_ja": "\u300c\u30a4\u30af\u30b5\u30eb\u8ecd\u4f10\u63a1\u6240\u300d\u6025\u8972\u4f5c\u6226",
+        "Text_ko": "\u300c\u30a4\u30af\u30b5\u30eb\u8ecd\u4f10\u63a1\u6240\u300d\u6025\u8972\u4f5c\u6226"
+    },
+    "267": {
+        "0xID": "10B",
+        "LegacyQuestID": "1628",
+        "Text_cn": "\u4e07\u4f17\u4e00\u5fc3",
+        "Text_de": "Schuldlose S\u00fchne",
+        "Text_en": "Shadow of the Raven",
+        "Text_fr": "Le feu au lac",
+        "Text_ja": "\u5fc3\u3092\u3072\u3068\u3064\u306b",
+        "Text_ko": "\u5fc3\u3092\u3072\u3068\u3064\u306b"
+    },
+    "268": {
+        "0xID": "10C",
+        "LegacyQuestID": "1629",
+        "Text_cn": "\u8def\u6613\u7d22\u74e6\u76df\u4e3b\u7684\u5f15\u5bfc\uff08\u683c\u91cc\u8fbe\u5c3c\u4e9a\uff09",
+        "Text_de": "Die grausame Herrin der St\u00fcrme (Gridania)",
+        "Text_en": "In for Garuda Wakening (Gridania)",
+        "Text_fr": "Qui s\u00e8me le vent r\u00e9colte la temp\u00eate (Gridania)",
+        "Text_ja": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u5c0e\u304d\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09",
+        "Text_ko": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u5c0e\u304d\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09"
+    },
+    "269": {
+        "0xID": "10D",
+        "LegacyQuestID": "1630",
+        "Text_cn": "\u683c\u91cc\u8fbe\u5c3c\u4e9a\u7684\u6b67\u8def",
+        "Text_de": "Am Scheideweg (Gridania)",
+        "Text_en": "Don't Hate the Messenger (Gridania)",
+        "Text_fr": "L'union fait la force (Gridania)",
+        "Text_ja": "\u30b0\u30ea\u30c0\u30cb\u30a2\u306e\u5c90\u8def",
+        "Text_ko": "\u30b0\u30ea\u30c0\u30cb\u30a2\u306e\u5c90\u8def"
+    },
+    "27": {
+        "0xID": "1B",
+        "LegacyQuestID": "100",
+        "Text_cn": "\u6211\u4eec\u662f\u6d77\u76d7",
+        "Text_de": "Der Piratenball",
+        "Text_en": "Two-man Crew",
+        "Text_fr": "Le bal des pirates",
+        "Text_ja": "\u4ffa\u305f\u3061\u306e\u6d77\u8cca",
+        "Text_ko": "\u4ffa\u305f\u3061\u306e\u6d77\u8cca"
+    },
+    "270": {
+        "0xID": "10E",
+        "LegacyQuestID": "1631",
+        "Text_cn": "\u5411\u80dc\u5229\u524d\u8fdb\uff08\u683c\u91cc\u8fbe\u5c3c\u4e9a\uff09",
+        "Text_de": "Auf der Siegerstra\u00dfe (Gridania)",
+        "Text_en": "United We Stand (Gridania)",
+        "Text_fr": "Les sentiers de la victoire (Gridania)",
+        "Text_ja": "\u52dd\u5229\u3078\u306e\u884c\u9032\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09",
+        "Text_ko": "\u52dd\u5229\u3078\u306e\u884c\u9032\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09"
+    },
+    "271": {
+        "0xID": "10F",
+        "LegacyQuestID": "1632",
+        "Text_cn": "\u6708\u4e0b\u4e4b\u6218\uff08\u683c\u91cc\u8fbe\u5c3c\u4e9a\uff09",
+        "Text_de": "Monds\u00fcchtig (Gridania)",
+        "Text_en": "To Kill a Raven (Gridania)",
+        "Text_fr": "Joute sous la lune (Gridania)",
+        "Text_ja": "\u6708\u4e0b\u306e\u95d8\u3044\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09",
+        "Text_ko": "\u6708\u4e0b\u306e\u95d8\u3044\uff08\u30b0\u30ea\u30c0\u30cb\u30a2\uff09"
+    },
+    "272": {
+        "0xID": "110",
+        "LegacyQuestID": "1633",
+        "Text_cn": "\u5927\u809a\u5b50\u8c6a\u7279\u73c0\u514b\u65af\u8ba8\u4f10\u4f5c\u6218",
+        "Text_de": "Immun gegen Pocken und Narben",
+        "Text_en": "Cure for the Common Pox",
+        "Text_fr": "Les yeux plus gros que le ventru",
+        "Text_ja": "\u300c\u592a\u3063\u8179\u306e\u30db\u30c3\u30c8\u30dd\u30c3\u30af\u30b9\u300d\u8a0e\u4f10\u4f5c\u6226",
+        "Text_ko": "\u300c\u592a\u3063\u8179\u306e\u30db\u30c3\u30c8\u30dd\u30c3\u30af\u30b9\u300d\u8a0e\u4f10\u4f5c\u6226"
+    },
+    "273": {
+        "0xID": "111",
+        "LegacyQuestID": "1800",
+        "Text_cn": "\u8d24\u8005\u7684\u7b56\u7565",
+        "Text_de": "Stolz und Vorurteil",
+        "Text_en": "Career Opportunities",
+        "Text_fr": "La r\u00e9ponse du Preux",
+        "Text_ja": "\u8ce2\u8005\u306e\u7b56\u7565",
+        "Text_ko": "\u8ce2\u8005\u306e\u7b56\u7565"
+    },
+    "274": {
+        "0xID": "112",
+        "LegacyQuestID": "1801",
+        "Text_cn": "\u4e34\u65f6\u52a0\u5165\u201c\u6052\u8f89\u961f\u201d",
+        "Text_de": "Aspirant der Unsterblichen",
+        "Text_en": "Kindling a Flame",
+        "Text_fr": "Enr\u00f4lement provisoire chez les Immortels",
+        "Text_ja": "\u300c\u4e0d\u6ec5\u968a\u300d\u4eee\u914d\u5c5e",
+        "Text_ko": "\u300c\u4e0d\u6ec5\u968a\u300d\u4eee\u914d\u5c5e"
+    },
+    "275": {
+        "0xID": "113",
+        "LegacyQuestID": "1802",
+        "Text_cn": "\u6052\u8f89\u961f\u519b\u7968",
+        "Text_de": "Legionstaler, du musst wandern",
+        "Text_en": "Burning a Hole in One's Pocket",
+        "Text_fr": "Les sceaux des Immortels",
+        "Text_ja": "\u300c\u4e0d\u6ec5\u968a\u300d\u306e\u8ecd\u7968",
+        "Text_ko": "\u300c\u4e0d\u6ec5\u968a\u300d\u306e\u8ecd\u7968"
+    },
+    "276": {
+        "0xID": "114",
+        "LegacyQuestID": "1803",
+        "Text_cn": "\u519b\u5907\u7684\u52a8\u8109",
+        "Text_de": "Der Weg und seine Belagerer",
+        "Text_en": "Arms Race",
+        "Text_fr": "Course \u00e0 l'armement",
+        "Text_ja": "\u8ecd\u5099\u306e\u52d5\u8108",
+        "Text_ko": "\u8ecd\u5099\u306e\u52d5\u8108"
+    },
+    "277": {
+        "0xID": "115",
+        "LegacyQuestID": "1804",
+        "Text_cn": "\u771f\u8d22\u5b9e\u5bcc",
+        "Text_de": "Wirklicher Wohlstand",
+        "Text_en": "Burning Man",
+        "Text_fr": "Pour la prosp\u00e9rit\u00e9",
+        "Text_ja": "\u771f\u306a\u308b\u5bcc",
+        "Text_ko": "\u771f\u306a\u308b\u5bcc"
+    },
+    "278": {
+        "0xID": "116",
+        "LegacyQuestID": "1805",
+        "Text_cn": "\u5185\u654c",
+        "Text_de": "Der Verr\u00e4ter",
+        "Text_en": "Know Your Enemy",
+        "Text_fr": "Le tra\u00eetre",
+        "Text_ja": "\u5185\u306a\u308b\u6575",
+        "Text_ko": "\u5185\u306a\u308b\u6575"
+    },
+    "279": {
+        "0xID": "117",
+        "LegacyQuestID": "1806",
+        "Text_cn": "\u5165\u4f0d\u6052\u8f89\u961f",
+        "Text_de": "Treueeid f\u00fcr die Legion",
+        "Text_en": "By Fire Reborn",
+        "Text_fr": "All\u00e9geance aux Immortels",
+        "Text_ja": "\u300c\u4e0d\u6ec5\u968a\u300d\u914d\u5c5e",
+        "Text_ko": "\u300c\u4e0d\u6ec5\u968a\u300d\u914d\u5c5e"
+    },
+    "28": {
+        "0xID": "1C",
+        "LegacyQuestID": "101",
+        "Text_cn": "\u5fae\u7b11\u6ce8\u89c6\u5427",
+        "Text_de": "Befehl des Kapit\u00e4ns",
+        "Text_en": "Captain's Orders",
+        "Text_fr": "Tous les coups sont permis",
+        "Text_ja": "\u7b11\u3063\u3066\u898b\u3066\u308d",
+        "Text_ko": "\u7b11\u3063\u3066\u898b\u3066\u308d"
+    },
+    "280": {
+        "0xID": "118",
+        "LegacyQuestID": "1809",
+        "Text_cn": "\u6258\u6258\u00b7\u62c9\u514b\u5343\u72f1\uff08\u4e4c\u5c14\u8fbe\u54c8\uff09",
+        "Text_de": "Der Kerker von Toto-Rak (Ul'dah)",
+        "Text_en": "Imperial Devices (Ul'dah)",
+        "Text_fr": "Les Mille Gueules de Toto-Rak (Ul'dah)",
+        "Text_ja": "\u30c8\u30c8\u30e9\u30af\u306e\u5343\u7344\u3000\uff08\u30a6\u30eb\u30c0\u30cf\uff09",
+        "Text_ko": "\u30c8\u30c8\u30e9\u30af\u306e\u5343\u7344\u3000\uff08\u30a6\u30eb\u30c0\u30cf\uff09"
+    },
+    "281": {
+        "0xID": "119",
+        "LegacyQuestID": "1810",
+        "Text_cn": "\u6cfd\u6885\u5c14\u8981\u585e\uff08\u4e4c\u5c14\u8fbe\u54c8\uff09",
+        "Text_de": "Die unterirdische Feste (Ul'dah)",
+        "Text_en": "Into the Dark (Ul'dah)",
+        "Text_fr": "La Forteresse de Dzemael (Ul'dah)",
+        "Text_ja": "\u30bc\u30fc\u30e1\u30eb\u8981\u585e\u3000\uff08\u30a6\u30eb\u30c0\u30cf\uff09",
+        "Text_ko": "\u30bc\u30fc\u30e1\u30eb\u8981\u585e\u3000\uff08\u30a6\u30eb\u30c0\u30cf\uff09"
+    },
+    "282": {
+        "0xID": "11A",
+        "LegacyQuestID": "1815",
+        "Text_cn": "\u8def\u6613\u7d22\u74e6\u76df\u4e3b\u7684\u79d8\u8ba1\uff08\u4e4c\u5c14\u8fbe\u54c8\uff09",
+        "Text_de": "Feuertaufe (Ul'dah)",
+        "Text_en": "It Kills with Fire (Ul'dah)",
+        "Text_fr": "Combattre le feu par le feu (Ul'dah)",
+        "Text_ja": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u79d8\u7b56\uff08\u30a6\u30eb\u30c0\u30cf\uff09",
+        "Text_ko": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u79d8\u7b56\uff08\u30a6\u30eb\u30c0\u30cf\uff09"
+    },
+    "283": {
+        "0xID": "11B",
+        "LegacyQuestID": "1816",
+        "Text_cn": "\u827e\u65af\u6cf0\u59c6\u7684\u65b0\u5236\u54c1",
+        "Text_de": "Der b\u00f6se Blick",
+        "Text_en": "Prying Eyes",
+        "Text_fr": "Faire les gros yeux",
+        "Text_ja": "\u30a8\u30b7\u30e5\u30c6\u30e0\u306e\u65b0\u88fd\u54c1",
+        "Text_ko": "\u30a8\u30b7\u30e5\u30c6\u30e0\u306e\u65b0\u88fd\u54c1"
+    },
+    "284": {
+        "0xID": "11C",
+        "LegacyQuestID": "1817",
+        "Text_cn": "\u4e89\u6267\u7684\u7ed3\u679c",
+        "Text_de": "Wie du mir, so ich dir",
+        "Text_en": "Different Strokes",
+        "Text_fr": "Brandon de discorde",
+        "Text_ja": "\u78ba\u57f7\u306e\u679c\u3066",
+        "Text_ko": "\u78ba\u57f7\u306e\u679c\u3066"
+    },
+    "285": {
+        "0xID": "11D",
+        "LegacyQuestID": "1818",
+        "Text_cn": "\u58eb\u5175\u5c31\u662f\u4e0a\u5e1d",
+        "Text_de": "Nur das Beste auf die B\u00fchne",
+        "Text_en": "A Weaver and a Mummer",
+        "Text_fr": "De fil en \u00e9p\u00e9e",
+        "Text_ja": "\u3059\u3079\u3066\u306f\u968a\u58eb\u69d8\u306e\u305f\u3081\u306b",
+        "Text_ko": "\u3059\u3079\u3066\u306f\u968a\u58eb\u69d8\u306e\u305f\u3081\u306b"
+    },
+    "286": {
+        "0xID": "11E",
+        "LegacyQuestID": "1819",
+        "Text_cn": "\u707c\u70ed\u5723\u57df",
+        "Text_de": "Nymeias Gnade",
+        "Text_en": "When Alchemists Cry",
+        "Text_fr": "Mort-aux-draconides",
+        "Text_ja": "\u707c\u71b1\u306e\u8056\u57df",
+        "Text_ko": "\u707c\u71b1\u306e\u8056\u57df"
+    },
+    "287": {
+        "0xID": "11F",
+        "LegacyQuestID": "1825",
+        "Text_cn": "\u8ba1\u4e2d\u8ba1",
+        "Text_de": "Herausforderung angenommen",
+        "Text_en": "Challenge Accepted",
+        "Text_fr": "Dette or Alive",
+        "Text_ja": "\u88cf\u306e\u88cf",
+        "Text_ko": "\u88cf\u306e\u88cf"
+    },
+    "288": {
+        "0xID": "120",
+        "LegacyQuestID": "1826",
+        "Text_cn": "\u7236\u5b50\u673a\u68b0\u5e08",
+        "Text_de": "Konfrontation mit der Vergangenheit",
+        "Text_en": "Like Father, Like Son",
+        "Text_fr": "Tel p\u00e8re, tel fils",
+        "Text_ja": "\u3075\u305f\u308a\u306e\u6a5f\u5de5\u5e2b",
+        "Text_ko": "\u3075\u305f\u308a\u306e\u6a5f\u5de5\u5e2b"
+    },
+    "289": {
+        "0xID": "121",
+        "LegacyQuestID": "1827",
+        "Text_cn": "\u8725\u8734\u4eba\u519b\u796d\u53f0\u8865\u7ed9\u65ad\u7edd\u4f5c\u6218",
+        "Text_de": "Den Hahn zudrehn",
+        "Text_en": "Gore a Lizard, Hurry",
+        "Text_fr": "Descente \u00e0 l'autel amalj'aa",
+        "Text_ja": "\u300c\u30a2\u30de\u30eb\u30b8\u30e3\u8ecd\u796d\u5834\u300d\u88dc\u7d66\u65ad\u7d76\u4f5c\u6226",
+        "Text_ko": "\u300c\u30a2\u30de\u30eb\u30b8\u30e3\u8ecd\u796d\u5834\u300d\u88dc\u7d66\u65ad\u7d76\u4f5c\u6226"
+    },
+    "29": {
+        "0xID": "1D",
+        "LegacyQuestID": "139",
+        "Text_cn": "\u5df4\u5fb7\u9f99\u7684\u63a8\u8350",
+        "Text_de": "Tipps f\u00fcr Abenteurer",
+        "Text_en": "Getting Started",
+        "Text_fr": "Les comptoirs de l'auberge",
+        "Text_ja": "\u30d0\u30c7\u30ed\u30f3\u306e\u304a\u52e7\u3081",
+        "Text_ko": "\u30d0\u30c7\u30ed\u30f3\u306e\u304a\u52e7\u3081"
+    },
+    "290": {
+        "0xID": "122",
+        "LegacyQuestID": "1828",
+        "Text_cn": "\u72fc\u70df\u5cf0\u8d77",
+        "Text_de": "Fanal der Entscheidung",
+        "Text_en": "Careless Whispers",
+        "Text_fr": "Confidence pour confidence",
+        "Text_ja": "\u6c7a\u65ad\u306e\u72fc\u7159",
+        "Text_ko": "\u6c7a\u65ad\u306e\u72fc\u7159"
+    },
+    "291": {
+        "0xID": "123",
+        "LegacyQuestID": "1829",
+        "Text_cn": "\u8def\u6613\u7d22\u74e6\u76df\u4e3b\u7684\u5f15\u5bfc\uff08\u4e4c\u5c14\u8fbe\u54c8\uff09",
+        "Text_de": "Die grausame Herrin der St\u00fcrme (Ul'dah)",
+        "Text_en": "In for Garuda Wakening (Ul'dah)",
+        "Text_fr": "Qui s\u00e8me le vent r\u00e9colte la temp\u00eate (Ul'dah)",
+        "Text_ja": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u5c0e\u304d\uff08\u30a6\u30eb\u30c0\u30cf\uff09",
+        "Text_ko": "\u76df\u4e3b\u30eb\u30a4\u30be\u30ef\u306e\u5c0e\u304d\uff08\u30a6\u30eb\u30c0\u30cf\uff09"
+    },
+    "292": {
+        "0xID": "124",
+        "LegacyQuestID": "1830",
+        "Text_cn": "\u4e4c\u5c14\u8fbe\u54c8\u7684\u6b67\u8def",
+        "Text_de": "Am Scheideweg (Ul'dah)",
+        "Text_en": "Don't Hate the Messenger (Ul'dah)",
+        "Text_fr": "L'union fait la force (Ul'dah)",
+        "Text_ja": "\u30a6\u30eb\u30c0\u30cf\u306e\u5c90\u8def",
+        "Text_ko": "\u30a6\u30eb\u30c0\u30cf\u306e\u5c90\u8def"
+    },
+    "293": {
+        "0xID": "125",
+        "LegacyQuestID": "1831",
+        "Text_cn": "\u5411\u80dc\u5229\u524d\u8fdb\uff08\u4e4c\u5c14\u8fbe\u54c8\uff09",
+        "Text_de": "Auf der Siegerstra\u00dfe (Ul'dah)",
+        "Text_en": "United We Stand (Ul'dah)",
+        "Text_fr": "Les sentiers de la victoire (Ul'dah)",
+        "Text_ja": "\u52dd\u5229\u3078\u306e\u884c\u9032\uff08\u30a6\u30eb\u30c0\u30cf\uff09",
+        "Text_ko": "\u52dd\u5229\u3078\u306e\u884c\u9032\uff08\u30a6\u30eb\u30c0\u30cf\uff09"
+    },
+    "294": {
+        "0xID": "126",
+        "LegacyQuestID": "1832",
+        "Text_cn": "\u6708\u4e0b\u4e4b\u6218\uff08\u4e4c\u5c14\u8fbe\u54c8\uff09",
+        "Text_de": "Monds\u00fcchtig (Ul'dah)",
+        "Text_en": "To Kill a Raven (Ul'dah)",
+        "Text_fr": "Joute sous la lune (Ul'dah)",
+        "Text_ja": "\u6708\u4e0b\u306e\u95d8\u3044\uff08\u30a6\u30eb\u30c0\u30cf\uff09",
+        "Text_ko": "\u6708\u4e0b\u306e\u95d8\u3044\uff08\u30a6\u30eb\u30c0\u30cf\uff09"
+    },
+    "295": {
+        "0xID": "127",
+        "LegacyQuestID": "1833",
+        "Text_cn": "\u82d4\u89d2\u957f\u8001\u8ba8\u4f10\u4f5c\u6218",
+        "Text_de": "Ins Bockshorn gejagt",
+        "Text_en": "Mess with the Goat, Get the Horns",
+        "Text_fr": "Avancer \u00e0 coup de b\u00e9lier",
+        "Text_ja": "\u300c\u30a8\u30eb\u30c0\u30fc\u30e2\u30b9\u30db\u30fc\u30f3\u300d\u8a0e\u4f10\u4f5c\u6226",
+        "Text_ko": "\u300c\u30a8\u30eb\u30c0\u30fc\u30e2\u30b9\u30db\u30fc\u30f3\u300d\u8a0e\u4f10\u4f5c\u6226"
+    },
+    "3": {
+        "0xID": "3",
+        "LegacyQuestID": "2",
+        "Text_cn": "\u5229\u59c6\u83b1\u8335\u7684\u4f20\u8bf4",
+        "Text_de": "Llymlaens Legende",
+        "Text_en": "Legends Adrift",
+        "Text_fr": "La l\u00e9gende de Llymlaen",
+        "Text_ja": "\u30ea\u30e0\u30ec\u30fc\u30f3\u306e\u4f1d\u8aac",
+        "Text_ko": "\u30ea\u30e0\u30ec\u30fc\u30f3\u306e\u4f1d\u8aac"
+    },
+    "30": {
+        "0xID": "1E",
+        "LegacyQuestID": "140",
+        "Text_cn": "\u7f2a\u6069\u7684\u63a8\u8350",
+        "Text_de": "Tipps f\u00fcr Abenteurer",
+        "Text_en": "Getting Started",
+        "Text_fr": "Les comptoirs de l'auberge",
+        "Text_ja": "\u30df\u30e5\u30fc\u30cc\u306e\u304a\u52e7\u3081",
+        "Text_ko": "\u30df\u30e5\u30fc\u30cc\u306e\u304a\u52e7\u3081"
+    },
+    "31": {
+        "0xID": "1F",
+        "LegacyQuestID": "141",
+        "Text_cn": "\u83ab\u83ab\u8482\u7684\u63a8\u8350",
+        "Text_de": "Tipps f\u00fcr Abenteurer",
+        "Text_en": "Getting Started",
+        "Text_fr": "Les comptoirs de l'auberge",
+        "Text_ja": "\u30e2\u30e2\u30c7\u30a3\u306e\u304a\u52e7\u3081",
+        "Text_ko": "\u30e2\u30e2\u30c7\u30a3\u306e\u304a\u52e7\u3081"
+    },
+    "32": {
+        "0xID": "20",
+        "LegacyQuestID": "143",
+        "Text_cn": "\u60f3\u66f4\u6362\u642d\u6863",
+        "Text_de": "Auswahl eines neuen Partners",
+        "Text_en": "Selecting a Different Path Companion",
+        "Text_fr": "J'aimerais changer de partenaire",
+        "Text_ja": "\u76f8\u68d2\u3092\u5909\u66f4\u3057\u305f\u3044",
+        "Text_ko": "\u76f8\u68d2\u3092\u5909\u66f4\u3057\u305f\u3044"
+    },
+    "33": {
+        "0xID": "21",
+        "LegacyQuestID": "159",
+        "Text_cn": "\u795e\u52c7\u961f",
+        "Text_de": "Gemeinsam stark",
+        "Text_en": "Filling the Quiver",
+        "Text_fr": "Les fl\u00e8ches divines",
+        "Text_ja": "\u795e\u52c7\u968a",
+        "Text_ko": "\u795e\u52c7\u968a"
+    },
+    "34": {
+        "0xID": "22",
+        "LegacyQuestID": "160",
+        "Text_cn": "\u660f\u6697\u4e4b\u68ee",
+        "Text_de": "Der finstere Wald",
+        "Text_en": "The Foreboding Forest",
+        "Text_fr": "Sombre for\u00eat",
+        "Text_ja": "\u660f\u3044\u68ee",
+        "Text_ko": "\u660f\u3044\u68ee"
+    },
+    "35": {
+        "0xID": "23",
+        "LegacyQuestID": "161",
+        "Text_cn": "\u4ece\u8fc7\u53bb\u4f38\u51fa\u7684\u624b",
+        "Text_de": "Schatten der Vergangenheit",
+        "Text_en": "There Can Be Only One",
+        "Text_fr": "Blessures du pass\u00e9",
+        "Text_ja": "\u904e\u53bb\u3088\u308a\u4f38\u3073\u308b\u624b",
+        "Text_ko": "\u904e\u53bb\u3088\u308a\u4f38\u3073\u308b\u624b"
+    },
+    "36": {
+        "0xID": "24",
+        "LegacyQuestID": "179",
+        "Text_cn": "\u9b3c\u54ed\u961f",
+        "Text_de": "Kein Grund zum Klagen",
+        "Text_en": "A Wailing Welcome",
+        "Text_fr": "Les vigiles sombres",
+        "Text_ja": "\u9b3c\u54ed\u968a",
+        "Text_ko": "\u9b3c\u54ed\u968a"
+    },
+    "37": {
+        "0xID": "25",
+        "LegacyQuestID": "180",
+        "Text_cn": "\u77f3\u5934\u4e0e\u9ec4\u91d1",
+        "Text_de": "Lockruf des Goldes",
+        "Text_en": "Culture Shock",
+        "Text_fr": "Choc de cultures",
+        "Text_ja": "\u77f3\u3068\u9ec4\u91d1",
+        "Text_ko": "\u77f3\u3068\u9ec4\u91d1"
+    },
+    "38": {
+        "0xID": "26",
+        "LegacyQuestID": "181",
+        "Text_cn": "\u68d8\u624b\u7684\u4efb\u52a1",
+        "Text_de": "Sicheres Geleit",
+        "Text_en": "Necessary Evils",
+        "Text_fr": "Un mal n\u00e9cessaire",
+        "Text_ja": "\u3057\u305f\u305f\u304b\u306b",
+        "Text_ko": "\u3057\u305f\u305f\u304b\u306b"
+    },
+    "39": {
+        "0xID": "27",
+        "LegacyQuestID": "239",
+        "Text_cn": "\u590d\u4ec7\u59d4\u6258",
+        "Text_de": "Bestellte Blutrache",
+        "Text_en": "The Big Payback",
+        "Text_fr": "Les contrats de vendetta",
+        "Text_ja": "\u5fa9\u8b90\u4f9d\u983c",
+        "Text_ko": "\u5fa9\u8b90\u4f9d\u983c"
+    },
+    "4": {
+        "0xID": "4",
+        "LegacyQuestID": "3",
+        "Text_cn": "\u540e\u4f1a\u65e0\u671f",
+        "Text_de": "Duell an Deck",
+        "Text_en": "Never the Twain Shall Meet",
+        "Text_fr": "Duel sur le pont",
+        "Text_ja": "\u5225\u60f3",
+        "Text_ko": "\u5225\u60f3"
+    },
+    "40": {
+        "0xID": "28",
+        "LegacyQuestID": "240",
+        "Text_cn": "\u9a6c\u864e\u7684\u4f20\u6559\u58eb",
+        "Text_de": "Die Rivalin",
+        "Text_en": "Revelry in Rivalry",
+        "Text_fr": "La rivale",
+        "Text_ja": "\u3084\u3063\u3064\u3051\u4f1d\u9053\u5e2b",
+        "Text_ko": "\u3084\u3063\u3064\u3051\u4f1d\u9053\u5e2b"
+    },
+    "41": {
+        "0xID": "29",
+        "LegacyQuestID": "241",
+        "Text_cn": "\u7eb3\u5c14\u672d\u5c14\u6559\u56e2\u7279\u7ea6",
+        "Text_de": "Die Lehre Nald'thals",
+        "Text_en": "Law and the Order",
+        "Text_fr": "La parole de Nald'thal",
+        "Text_ja": "\u30ca\u30eb\u30fb\u30b6\u30eb\u6559\u56e3\u7279\u7d04",
+        "Text_ko": "\u30ca\u30eb\u30fb\u30b6\u30eb\u6559\u56e3\u7279\u7d04"
+    },
+    "42": {
+        "0xID": "2A",
+        "LegacyQuestID": "259",
+        "Text_cn": "\u6811\u7cbe\u4efb\u52a1",
+        "Text_de": "Im Dienste der Gebieter",
+        "Text_en": "Dendrological Duties",
+        "Text_fr": "Au service des esprits",
+        "Text_ja": "\u6728\u970a\u304c\u52d9\u3081",
+        "Text_ko": "\u6728\u970a\u304c\u52d9\u3081"
+    },
+    "43": {
+        "0xID": "2B",
+        "LegacyQuestID": "260",
+        "Text_cn": "\u9f99\u9a91\u58eb\u7684\u68a6",
+        "Text_de": "Des Ritters Traum",
+        "Text_en": "Good Knight, Sweet Dreams",
+        "Text_fr": "Le r\u00eave du chevalier",
+        "Text_ja": "\u7adc\u9a0e\u58eb\u306e\u5922",
+        "Text_ko": "\u7adc\u9a0e\u58eb\u306e\u5922"
+    },
+    "44": {
+        "0xID": "2C",
+        "LegacyQuestID": "261",
+        "Text_cn": "\u547c\u5524",
+        "Text_de": "Stimmen im Wind",
+        "Text_en": "The Call of Nature",
+        "Text_fr": "La voix des esprits",
+        "Text_ja": "\u547c\u3073\u58f0",
+        "Text_ko": "\u547c\u3073\u58f0"
+    },
+    "45": {
+        "0xID": "2D",
+        "LegacyQuestID": "299",
+        "Text_cn": "\u5c0f\u5c0f\u7684\u8001\u5e08",
+        "Text_de": "Kleine Lehrer",
+        "Text_en": "The Mouths of Babes",
+        "Text_fr": "De bien jeunes professeurs",
+        "Text_ja": "\u5c0f\u3055\u306a\u5148\u751f",
+        "Text_ko": "\u5c0f\u3055\u306a\u5148\u751f"
+    },
+    "46": {
+        "0xID": "2E",
+        "LegacyQuestID": "300",
+        "Text_cn": "\u5c0f\u9b3c",
+        "Text_de": "Kleine Teufel",
+        "Text_en": "Hide and Seek Shenanigans",
+        "Text_fr": "Les petits d\u00e9mons",
+        "Text_ja": "\u5c0f\u3055\u306a\u9b3c",
+        "Text_ko": "\u5c0f\u3055\u306a\u9b3c"
+    },
+    "47": {
+        "0xID": "2F",
+        "LegacyQuestID": "301",
+        "Text_cn": "\u5143\u7075\u7684\u793c\u7269",
+        "Text_de": "Ausflug ins Gr\u00fcne",
+        "Text_en": "Spanning the Spectrum",
+        "Text_fr": "Le cadeau des esprits",
+        "Text_ja": "\u7cbe\u970a\u305f\u3061\u306e\u8d08\u308a\u7269",
+        "Text_ko": "\u7cbe\u970a\u305f\u3061\u306e\u8d08\u308a\u7269"
+    },
+    "48": {
+        "0xID": "30",
+        "LegacyQuestID": "319",
+        "Text_cn": "\u5de6\u8033\u7537\u5b50",
+        "Text_de": "Auf einem Ohr taub",
+        "Text_en": "An Ear for Quality",
+        "Text_fr": "Dur d'oreille",
+        "Text_ja": "\u5de6\u8033\u306e\u7537",
+        "Text_ko": "\u5de6\u8033\u306e\u7537"
+    },
+    "49": {
+        "0xID": "31",
+        "LegacyQuestID": "320",
+        "Text_cn": "\u585e\u58ec\u7684\u6b4c\u58f0",
+        "Text_de": "Sirenengesang",
+        "Text_en": "Song of the Sirens",
+        "Text_fr": "Le chant des sir\u00e8nes",
+        "Text_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u306e\u6b4c\u58f0",
+        "Text_ko": "\u30bb\u30a4\u30ec\u30fc\u30f3\u306e\u6b4c\u58f0"
+    },
+    "5": {
+        "0xID": "5",
+        "LegacyQuestID": "4",
+        "Text_cn": "\u503e\u6ce8\u4e4b\u5149",
+        "Text_de": "Der Himmel brennt",
+        "Text_en": "Sundered Skies",
+        "Text_fr": "Naufrage",
+        "Text_ja": "\u964d\u308a\u6ce8\u3050\u5149",
+        "Text_ko": "\u964d\u308a\u6ce8\u3050\u5149"
+    },
+    "50": {
+        "0xID": "32",
+        "LegacyQuestID": "321",
+        "Text_cn": "\u8ff7\u60d1\u4e4b\u5c9b",
+        "Text_de": "Insel der Versuchungen",
+        "Text_en": "The Sound of Silence",
+        "Text_fr": "L'\u00eele interdite",
+        "Text_ja": "\u9b45\u60d1\u306e\u5cf6",
+        "Text_ko": "\u9b45\u60d1\u306e\u5cf6"
+    },
+    "51": {
+        "0xID": "33",
+        "LegacyQuestID": "359",
+        "Text_cn": "\u4f60\u7684\u5bb9\u989c",
+        "Text_de": "Von herrlicher Gestalt",
+        "Text_en": "She Walks in Beauty",
+        "Text_fr": "Donner forme \u00e0 la beaut\u00e9",
+        "Text_ja": "\u8cb4\u65b9\u306e\u304b\u305f\u3061",
+        "Text_ko": "\u8cb4\u65b9\u306e\u304b\u305f\u3061"
+    },
+    "52": {
+        "0xID": "34",
+        "LegacyQuestID": "360",
+        "Text_cn": "\u8299\u00b7\u62c9\u654f\u4e4b\u82b1",
+        "Text_de": "F'lhaminns Blume",
+        "Text_en": "F'lhaminn's Flower",
+        "Text_fr": "La Fleur de F'lhaminn",
+        "Text_ja": "\u30d5\u30fb\u30e9\u30df\u30f3\u306e\u82b1",
+        "Text_ko": "\u30d5\u30fb\u30e9\u30df\u30f3\u306e\u82b1"
+    },
+    "53": {
+        "0xID": "35",
+        "LegacyQuestID": "361",
+        "Text_cn": "\u5fc3\u810f\u4e4b\u5203",
+        "Text_de": "Die Kordialklinge",
+        "Text_en": "Struck Through the Heart",
+        "Text_fr": "Percec\u0153ur",
+        "Text_ja": "\u5fc3\u306e\u81d3\u306e\u5203",
+        "Text_ko": "\u5fc3\u306e\u81d3\u306e\u5203"
+    },
+    "54": {
+        "0xID": "36",
+        "LegacyQuestID": "379",
+        "Text_cn": "\u65e0\u8a00\u4e4b\u4eba",
+        "Text_de": "Lebensrettendes Leder",
+        "Text_en": "The Silent Partners",
+        "Text_fr": "Contr\u00f4le qualit\u00e9",
+        "Text_ja": "\u7269\u8a00\u308f\u306c\u3082\u306e",
+        "Text_ko": "\u7269\u8a00\u308f\u306c\u3082\u306e"
+    },
+    "55": {
+        "0xID": "37",
+        "LegacyQuestID": "380",
+        "Text_cn": "\u7b2c\u4e8c\u5de5\u4f5c\u5ba4",
+        "Text_de": "Markenschutz muss sein",
+        "Text_en": "Designer Imposters",
+        "Text_fr": "Le deuxi\u00e8me Atelier",
+        "Text_ja": "\u7b2c\u4e8c\u306e\u30a2\u30c8\u30ea\u30a8",
+        "Text_ko": "\u7b2c\u4e8c\u306e\u30a2\u30c8\u30ea\u30a8"
+    },
+    "56": {
+        "0xID": "38",
+        "LegacyQuestID": "381",
+        "Text_cn": "\u5e08\u5f92\u8bc4\u4ef7\u5236\u5ea6",
+        "Text_de": "Reparatur-Abitur",
+        "Text_en": "Head of the Class",
+        "Text_fr": "Evaluation g\u00e9n\u00e9rale",
+        "Text_ja": "\u5e2b\u5f1f\u8a55\u4fa1\u5236\u5ea6",
+        "Text_ko": "\u5e2b\u5f1f\u8a55\u4fa1\u5236\u5ea6"
+    },
+    "57": {
+        "0xID": "39",
+        "LegacyQuestID": "399",
+        "Text_cn": "\u7ea2\u4e4b\u7ae0",
+        "Text_de": "Akt I: Rot",
+        "Text_en": "Hoodwinked",
+        "Text_fr": "Acte I : Le rouge",
+        "Text_ja": "\u8d64\u306e\u7ae0",
+        "Text_ko": "\u8d64\u306e\u7ae0"
+    },
+    "58": {
+        "0xID": "3A",
+        "LegacyQuestID": "400",
+        "Text_cn": "\u7070\u4e4b\u7ae0",
+        "Text_de": "Akt II: Asche",
+        "Text_en": "Dance the Night Away",
+        "Text_fr": "Acte II : La cendre",
+        "Text_ja": "\u7070\u306e\u7ae0",
+        "Text_ko": "\u7070\u306e\u7ae0"
+    },
+    "59": {
+        "0xID": "3B",
+        "LegacyQuestID": "401",
+        "Text_cn": "\u767d\u4e4b\u7ae0",
+        "Text_de": "Akt III: Schnee",
+        "Text_en": "A Fruitful Murder",
+        "Text_fr": "Acte III : Le blanc",
+        "Text_ja": "\u767d\u306e\u7ae0",
+        "Text_ko": "\u767d\u306e\u7ae0"
+    },
+    "6": {
+        "0xID": "6",
+        "LegacyQuestID": "5",
+        "Text_cn": "\u719f\u7761\u9b3c",
+        "Text_de": "Der Fluch des Waldes",
+        "Text_en": "Souls Gone Wild",
+        "Text_fr": "La souillure",
+        "Text_ja": "\u7720\u308c\u308b\u9b3c",
+        "Text_ko": "\u7720\u308c\u308b\u9b3c"
+    },
+    "60": {
+        "0xID": "3C",
+        "LegacyQuestID": "419",
+        "Text_cn": "\u6c89\u7761\u7684\u6df1\u6e0a",
+        "Text_de": "Abgrundtiefer Schlaf",
+        "Text_en": "Sleep, Cousin of Death",
+        "Text_fr": "Un sommeil sans fin",
+        "Text_ja": "\u7720\u308a\u306e\u6df5",
+        "Text_ko": "\u7720\u308a\u306e\u6df5"
+    },
+    "61": {
+        "0xID": "3D",
+        "LegacyQuestID": "420",
+        "Text_cn": "\u5316\u8eab\u4e3a\u9f99\u7684\u5c11\u5e74",
+        "Text_de": "Der J\u00fcngling und der Drache",
+        "Text_en": "The Boy and the Dragon Gay",
+        "Text_fr": "Le gar\u00e7on et le dragon",
+        "Text_ja": "\u30c9\u30e9\u30b4\u30f3\u306b\u306a\u3063\u305f\u5c11\u5e74",
+        "Text_ko": "\u30c9\u30e9\u30b4\u30f3\u306b\u306a\u3063\u305f\u5c11\u5e74"
+    },
+    "62": {
+        "0xID": "3E",
+        "LegacyQuestID": "421",
+        "Text_cn": "\u68a6\u5883\u6216\u73b0\u5b9e",
+        "Text_de": "Tr\u00e4um ich oder wach ich",
+        "Text_en": "Dream On, Dream Away",
+        "Text_fr": "R\u00eave... ou r\u00e9alit\u00e9 ?",
+        "Text_ja": "\u5922\u304b\u73fe\u304b",
+        "Text_ko": "\u5922\u304b\u73fe\u304b"
+    },
+    "63": {
+        "0xID": "3F",
+        "LegacyQuestID": "439",
+        "Text_cn": "\u98a4\u6296\u7684\u5bf9\u51b3",
+        "Text_de": "Showdown",
+        "Text_en": "Showdown",
+        "Text_fr": "Duel aux fourneaux",
+        "Text_ja": "\u30d7\u30eb\u30d7\u30eb\u5bfe\u6c7a",
+        "Text_ko": "\u30d7\u30eb\u30d7\u30eb\u5bfe\u6c7a"
+    },
+    "64": {
+        "0xID": "40",
+        "LegacyQuestID": "440",
+        "Text_cn": "\u6d88\u5931\u7684\u7f8e\u98df\u5bb6",
+        "Text_de": "Der verschwundene Kunde",
+        "Text_en": "Mystery of the Gastronome Gone Home",
+        "Text_fr": "Le gourmet disparu",
+        "Text_ja": "\u6d88\u3048\u305f\u7f8e\u98df\u5bb6",
+        "Text_ko": "\u6d88\u3048\u305f\u7f8e\u98df\u5bb6"
+    },
+    "65": {
+        "0xID": "41",
+        "LegacyQuestID": "441",
+        "Text_cn": "\u70ed\u6c14\u6bd2\u6740\u4e8b\u4ef6",
+        "Text_de": "Die Suppe versalzen",
+        "Text_en": "Something in the Soup",
+        "Text_fr": "La soupe empoisonn\u00e9e",
+        "Text_ja": "\u6e6f\u3051\u3080\u308a\u6bd2\u6bba\u4e8b\u4ef6",
+        "Text_ko": "\u6e6f\u3051\u3080\u308a\u6bd2\u6bba\u4e8b\u4ef6"
+    },
+    "66": {
+        "0xID": "42",
+        "LegacyQuestID": "459",
+        "Text_cn": "\u65f6\u95f4\u788e\u7247",
+        "Text_de": "Ein Fragment vergangener Zeiten",
+        "Text_en": "A Piece of History",
+        "Text_fr": "Un fragment du pass\u00e9",
+        "Text_ja": "\u6642\u306e\u304b\u3051\u3089",
+        "Text_ko": "\u6642\u306e\u304b\u3051\u3089"
+    },
+    "67": {
+        "0xID": "43",
+        "LegacyQuestID": "460",
+        "Text_cn": "\u79d8\u85cf\u5927\u4f5c\u6218",
+        "Text_de": "Sabotage",
+        "Text_en": "Little Saboteurs",
+        "Text_fr": "Sabotage",
+        "Text_ja": "\u3068\u3063\u3066\u304a\u304d\u5927\u4f5c\u6226",
+        "Text_ko": "\u3068\u3063\u3066\u304a\u304d\u5927\u4f5c\u6226"
+    },
+    "68": {
+        "0xID": "44",
+        "LegacyQuestID": "461",
+        "Text_cn": "\u9003\u8dd1\u7684\u5973\u5b69",
+        "Text_de": "Die Ausrei\u00dferin",
+        "Text_en": "Runaway Little Girl",
+        "Text_fr": "La fugue",
+        "Text_ja": "\u5f7c\u5973\u306e\u9003\u907f\u884c",
+        "Text_ko": "\u5f7c\u5973\u306e\u9003\u907f\u884c"
+    },
+    "69": {
+        "0xID": "45",
+        "LegacyQuestID": "479",
+        "Text_cn": "\u683c\u91cc\u8fbe\u5c3c\u4e9a\u7684\u690d\u7269\u6839",
+        "Text_de": "Die Wurzeln Gridanias",
+        "Text_en": "Gridanian Roots",
+        "Text_fr": "Les racines de Gridania",
+        "Text_ja": "\u30b0\u30ea\u30c0\u30cb\u30a2\u306e\u6839\u3063\u3053",
+        "Text_ko": "\u30b0\u30ea\u30c0\u30cb\u30a2\u306e\u6839\u3063\u3053"
+    },
+    "7": {
+        "0xID": "7",
+        "LegacyQuestID": "6",
+        "Text_cn": "\u6210\u5343\u4e0a\u4e07\u7684\u7cbe\u7075",
+        "Text_de": "Der Groll der Gebieter",
+        "Text_en": "Whispers in the Wood",
+        "Text_fr": "La col\u00e8re des esprits",
+        "Text_ja": "\u90a3\u7531\u4ed6\u306e\u7cbe\u970a",
+        "Text_ko": "\u90a3\u7531\u4ed6\u306e\u7cbe\u970a"
+    },
+    "70": {
+        "0xID": "46",
+        "LegacyQuestID": "480",
+        "Text_cn": "\u61a7\u61ac\u7684\u5927\u90fd\u5e02",
+        "Text_de": "Fernweh",
+        "Text_en": "The Grass is Always Greener",
+        "Text_fr": "La Cit\u00e9 lumi\u00e8re",
+        "Text_ja": "\u61a7\u308c\u306e\u5927\u90fd\u4f1a",
+        "Text_ko": "\u61a7\u308c\u306e\u5927\u90fd\u4f1a"
+    },
+    "71": {
+        "0xID": "47",
+        "LegacyQuestID": "481",
+        "Text_cn": "\u83ab\u53e4\u529b\u7684\u82b1\u5703",
+        "Text_de": "Mogrys auf Blumen betten",
+        "Text_en": "A Moogle Bouquet",
+        "Text_fr": "Le champ de fleurs des Mogs",
+        "Text_ja": "\u30e2\u30fc\u30b0\u30ea\u306e\u82b1\u7551",
+        "Text_ko": "\u30e2\u30fc\u30b0\u30ea\u306e\u82b1\u7551"
+    },
+    "72": {
+        "0xID": "48",
+        "LegacyQuestID": "499",
+        "Text_cn": "\u6536\u62fe\u9c7c\u4eba\u65cf",
+        "Text_de": "Fischr\u00fccken bezwingen",
+        "Text_en": "To Fight a Fishback",
+        "Text_fr": "Unis contre les Sahuagins",
+        "Text_ja": "\u30b5\u30cf\u30ae\u30f3\u65cf\u3092\u3084\u3063\u3064\u3051\u308d",
+        "Text_ko": "\u30b5\u30cf\u30ae\u30f3\u65cf\u3092\u3084\u3063\u3064\u3051\u308d"
+    },
+    "73": {
+        "0xID": "49",
+        "LegacyQuestID": "500",
+        "Text_cn": "\u9c7c\u5858\u7cbe\u7075",
+        "Text_de": "Terz am Teich",
+        "Text_en": "The Beast of the Barrel",
+        "Text_fr": "Le Ma\u00eetre des viviers",
+        "Text_ja": "\u3044\u3051\u3059\u306e\u30cc\u30b7",
+        "Text_ko": "\u3044\u3051\u3059\u306e\u30cc\u30b7"
+    },
+    "74": {
+        "0xID": "4A",
+        "LegacyQuestID": "501",
+        "Text_cn": "\u5e78\u798f\u65f6\u5149",
+        "Text_de": "Eine gute Zeit",
+        "Text_en": "Polishing the Mast",
+        "Text_fr": "Op\u00e9ration exceptionnelle",
+        "Text_ja": "\u3046\u306f\u3046\u306f\u671f\u9593",
+        "Text_ko": "\u3046\u306f\u3046\u306f\u671f\u9593"
+    },
+    "75": {
+        "0xID": "4B",
+        "LegacyQuestID": "626",
+        "Text_cn": "\u4e1a\u706b\u7684\u8bd5\u70bc",
+        "Text_de": "G\u00f6tterd\u00e4mmerung, Akt I \u201eIfrit\u201c",
+        "Text_en": "Ifrit Bleeds, We Can Kill It",
+        "Text_fr": "L'\u00e9preuve du feu",
+        "Text_ja": "\u696d\u706b\u306e\u8a66\u7df4",
+        "Text_ko": "\u696d\u706b\u306e\u8a66\u7df4"
+    },
+    "76": {
+        "0xID": "4C",
+        "LegacyQuestID": "632",
+        "Text_cn": "\u6885\u5c14\u51e1\u6d77\u5173\u7684\u5931\u8d25",
+        "Text_de": "Verh\u00f6rt, versenkt, verzweifelt",
+        "Text_en": "Assessing the Damage",
+        "Text_fr": "Marchandises \u00e9gar\u00e9es \u00e0 la douane",
+        "Text_ja": "\u30e1\u30eb\u30f4\u30a1\u30f3\u7a0e\u95a2\u516c\u793e\u306e\u5931\u6557",
+        "Text_ko": "\u30e1\u30eb\u30f4\u30a1\u30f3\u7a0e\u95a2\u516c\u793e\u306e\u5931\u6557"
+    },
+    "77": {
+        "0xID": "4D",
+        "LegacyQuestID": "633",
+        "Text_cn": "\u5e0c\u671b\u4e4b\u6865",
+        "Text_de": "Endg\u00fcltige \u00dcbergangsl\u00f6sung",
+        "Text_en": "Bridging the Gap",
+        "Text_fr": "Un pont \u00e0 r\u00e9parer",
+        "Text_ja": "\u5e0c\u671b\u306e\u6a4b",
+        "Text_ko": "\u5e0c\u671b\u306e\u6a4b"
+    },
+    "78": {
+        "0xID": "4E",
+        "LegacyQuestID": "635",
+        "Text_cn": "\u68ad\u9c7c\u7684\u590d\u4ec7",
+        "Text_de": "Auge um Auge",
+        "Text_en": "Revenge on the Reavers",
+        "Text_fr": "La revanche des Barracudas",
+        "Text_ja": "\u30d0\u30e9\u30af\u30fc\u30c0\u306e\u5fa9\u8b90",
+        "Text_ko": "\u30d0\u30e9\u30af\u30fc\u30c0\u306e\u5fa9\u8b90"
+    },
+    "79": {
+        "0xID": "4F",
+        "LegacyQuestID": "637",
+        "Text_cn": "\u7231\u610f\u6ee1\u6ee1",
+        "Text_de": "Der richtige Pfiff",
+        "Text_en": "Till Death Do Us Part",
+        "Text_fr": "Tout pour mon rago\u00fbt",
+        "Text_ja": "\u611b\u60c5\u305f\u3063\u3077\u308a",
+        "Text_ko": "\u611b\u60c5\u305f\u3063\u3077\u308a"
+    },
+    "8": {
+        "0xID": "8",
+        "LegacyQuestID": "7",
+        "Text_cn": "\u4e0d\u901f\u4e4b\u5ba2",
+        "Text_de": "Der Wald ruft",
+        "Text_en": "Beckon of the Elementals",
+        "Text_fr": "Les invit\u00e9s",
+        "Text_ja": "\u62db\u304b\u308c\u3056\u308b\u5ba2",
+        "Text_ko": "\u62db\u304b\u308c\u3056\u308b\u5ba2"
+    },
+    "80": {
+        "0xID": "50",
+        "LegacyQuestID": "638",
+        "Text_cn": "\u832b\u7136\u7684\u6d77\u76d7",
+        "Text_de": "Harte Schale, weicher Kern",
+        "Text_en": "Beryl Overboard",
+        "Text_fr": "Un pirate bien distrait",
+        "Text_ja": "\u6d77\u8cca\u3046\u3063\u304b\u308a",
+        "Text_ko": "\u6d77\u8cca\u3046\u3063\u304b\u308a"
+    },
+    "81": {
+        "0xID": "51",
+        "LegacyQuestID": "639",
+        "Text_cn": "\u513f\u5b50\u7684\u6d88\u606f",
+        "Text_de": "Der verlorene Sohn",
+        "Text_en": "Have You Seen My Son",
+        "Text_fr": "L'amour d'une m\u00e8re",
+        "Text_ja": "\u606f\u5b50\u306e\u6d88\u606f",
+        "Text_ko": "\u606f\u5b50\u306e\u6d88\u606f"
+    },
+    "82": {
+        "0xID": "52",
+        "LegacyQuestID": "640",
+        "Text_cn": "\u53d1\u4eba\u6df1\u601d",
+        "Text_de": "Werben und umwerben",
+        "Text_en": "Food for Thought",
+        "Text_fr": "Bon pour le moral",
+        "Text_ja": "\u6c17\u5408\u304c\u3063\u3064\u308a",
+        "Text_ko": "\u6c17\u5408\u304c\u3063\u3064\u308a"
+    },
+    "83": {
+        "0xID": "53",
+        "LegacyQuestID": "641",
+        "Text_cn": "\u6d9f\u6f2a\u4e4b\u97f3",
+        "Text_de": "Das Rauschen des Meeres",
+        "Text_en": "Seashells by the Seashore",
+        "Text_fr": "La plage aux coquillages",
+        "Text_ja": "\u3055\u3056\u306a\u307f\u306e\u97f3\u8272",
+        "Text_ko": "\u3055\u3056\u306a\u307f\u306e\u97f3\u8272"
+    },
+    "84": {
+        "0xID": "54",
+        "LegacyQuestID": "642",
+        "Text_cn": "\u9493\u9c7c\u9769\u547d",
+        "Text_de": "Im Tr\u00fcben fischen",
+        "Text_en": "Fishing for Answers",
+        "Text_fr": "Mauvaise p\u00eache",
+        "Text_ja": "\u304a\u9b5a\u9769\u547d",
+        "Text_ko": "\u304a\u9b5a\u9769\u547d"
+    },
+    "85": {
+        "0xID": "55",
+        "LegacyQuestID": "643",
+        "Text_cn": "\u6708\u8272\u64a9\u4eba",
+        "Text_de": "Vom richtigen Zeitpunkt",
+        "Text_en": "Moonstruck",
+        "Text_fr": "Un peu plus pr\u00e8s des \u00e9toiles",
+        "Text_ja": "\u6708\u306e\u80f8\u9a12\u304e",
+        "Text_ko": "\u6708\u306e\u80f8\u9a12\u304e"
+    },
+    "86": {
+        "0xID": "56",
+        "LegacyQuestID": "645",
+        "Text_cn": "\u9ed1\u8272\u5173\u7cfb",
+        "Text_de": "Dreck am Stecken",
+        "Text_en": "A Misty Past",
+        "Text_fr": "Un sombre pass\u00e9",
+        "Text_ja": "\u9ed2\u3044\u95a2\u4fc2",
+        "Text_ko": "\u9ed2\u3044\u95a2\u4fc2"
+    },
+    "87": {
+        "0xID": "57",
+        "LegacyQuestID": "647",
+        "Text_cn": "\u96d5\u523b\u5bb6\u7684\u91ce\u5fc3",
+        "Text_de": "Im Namen der Kunst",
+        "Text_en": "Carving a Name",
+        "Text_fr": "Une mission taill\u00e9e sur mesure",
+        "Text_ja": "\u5f6b\u523b\u5bb6\u306e\u91ce\u671b",
+        "Text_ko": "\u5f6b\u523b\u5bb6\u306e\u91ce\u671b"
+    },
+    "88": {
+        "0xID": "58",
+        "LegacyQuestID": "652",
+        "Text_cn": "\u68ad\u9c7c\u9a91\u58eb\u56e2\u7279\u6b8a\u4efb\u52a1",
+        "Text_de": "Der Widerspenstigen Z\u00e4hmung",
+        "Text_en": "The Tug of the Whorl",
+        "Text_fr": "Les petits secrets des pirates",
+        "Text_ja": "\u30d0\u30e9\u30af\u30fc\u30c0\u9a0e\u58eb\u56e3\u7279\u52d9",
+        "Text_ko": "\u30d0\u30e9\u30af\u30fc\u30c0\u9a0e\u58eb\u56e3\u7279\u52d9"
+    },
+    "89": {
+        "0xID": "59",
+        "LegacyQuestID": "653",
+        "Text_cn": "\u5c0f\u5fc3\u591c\u8def",
+        "Text_de": "Pfade der Erleuchtung",
+        "Text_en": "Proceed with Caution",
+        "Text_fr": "Mets de l'huile",
+        "Text_ja": "\u591c\u9053\u306b\u6ce8\u610f",
+        "Text_ko": "\u591c\u9053\u306b\u6ce8\u610f"
+    },
+    "9": {
+        "0xID": "9",
+        "LegacyQuestID": "8",
+        "Text_cn": "\u706b\u7130\u4e4b\u65e5",
+        "Text_de": "Ein bewegtes Fest",
+        "Text_en": "Flowers for All",
+        "Text_fr": "Un festival mouvement\u00e9",
+        "Text_ja": "\u307b\u3080\u3089\u306e\u65e5",
+        "Text_ko": "\u307b\u3080\u3089\u306e\u65e5"
+    },
+    "90": {
+        "0xID": "5A",
+        "LegacyQuestID": "654",
+        "Text_cn": "\u51f6\u731b\u7684\u706b\u820c",
+        "Text_de": "Elementarentsch\u00e4rfung",
+        "Text_en": "Playing with Fire",
+        "Text_fr": "Rallumer les feux",
+        "Text_ja": "\u731b\u308b\u708e",
+        "Text_ko": "\u731b\u308b\u708e"
+    },
+    "91": {
+        "0xID": "5B",
+        "LegacyQuestID": "655",
+        "Text_cn": "\u852c\u83dc\u9769\u547d",
+        "Text_de": "Vegetarismus Venerabile",
+        "Text_en": "A Well-Balanced Diet",
+        "Text_fr": "Les l\u00e9gumes de Sandre",
+        "Text_ja": "\u304a\u91ce\u83dc\u9769\u547d",
+        "Text_ko": "\u304a\u91ce\u83dc\u9769\u547d"
+    },
+    "92": {
+        "0xID": "5C",
+        "LegacyQuestID": "657",
+        "Text_cn": "\u6076\u4f5c\u5267\u7684\u5e8f\u66f2",
+        "Text_de": "Schelmisches Schlitzohr",
+        "Text_en": "The Penultimate Prank",
+        "Text_fr": "Petit farceur",
+        "Text_ja": "\u3044\u305f\u305a\u3089\u306e\u5e8f\u66f2",
+        "Text_ko": "\u3044\u305f\u305a\u3089\u306e\u5e8f\u66f2"
+    },
+    "93": {
+        "0xID": "5D",
+        "LegacyQuestID": "658",
+        "Text_cn": "\u4f20\u8bf4\u7684\u7075\u7cbe\u9f20",
+        "Text_de": "Wie im M\u00e4rchen",
+        "Text_en": "The Search for Sicksa",
+        "Text_fr": "L\u00e9gendaire sicksa",
+        "Text_ja": "\u4f1d\u8aac\u306e\u30b7\u30af\u30b5",
+        "Text_ko": "\u4f1d\u8aac\u306e\u30b7\u30af\u30b5"
+    },
+    "94": {
+        "0xID": "5E",
+        "LegacyQuestID": "659",
+        "Text_cn": "\u6076\u4f5c\u5267\u7684\u8f6e\u821e\u66f2",
+        "Text_de": "Schocktherapie",
+        "Text_en": "The Ultimate Prank",
+        "Text_fr": "Tel est pris qui croyait prendre",
+        "Text_ja": "\u3044\u305f\u305a\u3089\u306e\u8f2a\u821e\u66f2",
+        "Text_ko": "\u3044\u305f\u305a\u3089\u306e\u8f2a\u821e\u66f2"
+    },
+    "95": {
+        "0xID": "5F",
+        "LegacyQuestID": "661",
+        "Text_cn": "\u513f\u5b50\u7684\u82e6\u6597",
+        "Text_de": "Der Kampf um Anerkennung",
+        "Text_en": "Say It with Wolf Tails",
+        "Text_fr": "Les tourments d'un fils",
+        "Text_ja": "\u606f\u5b50\u306e\u82e6\u95d8",
+        "Text_ko": "\u606f\u5b50\u306e\u82e6\u95d8"
+    },
+    "96": {
+        "0xID": "60",
+        "LegacyQuestID": "662",
+        "Text_cn": "\u4e22\u5931\u7684\u65e5\u8bb0",
+        "Text_de": "Lonsyggs Logbuch",
+        "Text_en": "Embarrassing Excerpts",
+        "Text_fr": "Le carnet de Lonsygg",
+        "Text_ja": "\u5931\u308f\u308c\u305f\u65e5\u8a18",
+        "Text_ko": "\u5931\u308f\u308c\u305f\u65e5\u8a18"
+    },
+    "97": {
+        "0xID": "61",
+        "LegacyQuestID": "663",
+        "Text_cn": "\u85cf\u533f\u7684\u611f\u60c5",
+        "Text_de": "Lass Blumen sprechen",
+        "Text_en": "A Forbidden Love",
+        "Text_fr": "Dites-le avec des fleurs",
+        "Text_ja": "\u79d8\u3081\u3089\u308c\u305f\u60f3\u3044",
+        "Text_ko": "\u79d8\u3081\u3089\u308c\u305f\u60f3\u3044"
+    },
+    "98": {
+        "0xID": "62",
+        "LegacyQuestID": "664",
+        "Text_cn": "\u54c0\u60bc",
+        "Text_de": "T\u00f6dliche Arglosigkeit",
+        "Text_en": "Last Respects",
+        "Text_fr": "En l'honneur de nos proches",
+        "Text_ja": "\u8ab0\u304c\u305f\u3081\u306e\u7948\u308a",
+        "Text_ko": "\u8ab0\u304c\u305f\u3081\u306e\u7948\u308a"
+    },
+    "99": {
+        "0xID": "63",
+        "LegacyQuestID": "665",
+        "Text_cn": "\u539f\u521d\u7684\u547c\u5524",
+        "Text_de": "Steinernes Schweigen",
+        "Text_en": "Stone Deaf",
+        "Text_fr": "Pierre muette",
+        "Text_ja": "\u539f\u521d\u306e\u547c\u5fdc",
+        "Text_ko": "\u539f\u521d\u306e\u547c\u5fdc"
+    }
+}

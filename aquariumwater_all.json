@@ -1,0 +1,29 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "\u7121\u52b9",
+        "Name_de": "Ung\u00fcltig",
+        "Name_en": "nothing",
+        "Name_fr": "Invalide",
+        "Name_ja": "\u7121\u52b9",
+        "Name_ko": "\ubb34\ud6a8"
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u6de1\u6c34",
+        "Name_de": "S\u00fc\u00dfwasser",
+        "Name_en": "Freshwater",
+        "Name_fr": "Eau douce",
+        "Name_ja": "\u6de1\u6c34",
+        "Name_ko": "\ubbfc\ubb3c"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u6d77\u6c34",
+        "Name_de": "Salzwasser",
+        "Name_en": "Saltwater",
+        "Name_fr": "Eau de mer",
+        "Name_ja": "\u6d77\u6c34",
+        "Name_ko": "\ubc14\ub2f7\ubb3c"
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "0": {
+        "0xID": "0",
+        "Text_cn": "",
+        "Text_de": "",
+        "Text_en": "",
+        "Text_fr": "",
+        "Text_ja": "",
+        "Text_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Text_cn": "\u5230\u8fbe\u4e86\u963f\u5df4\u62c9\u63d0\u4e9a\u4e91\u6d77\u7684\u672a\u77e5\u533a\u57df\uff0c\u5373\u5c06\u5411\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\u8c03\u6574\u822a\u7ebf\u3002",
+        "Text_de": "Abalathias R\u00fcckgrat erreicht. Nehme Kurs auf: <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>.",
+        "Text_en": "Abalathia's Spine reached. Plotting course to <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>.",
+        "Text_fr": "Montagnes d'Abalathia franchies. Mettons le cap vers \u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d.",
+        "Text_ja": "\u30a2\u30d0\u30e9\u30b7\u30a2\u96f2\u6d77\u306e\u672a\u8e0f\u7834\u5730\u57df\u306b\u5230\u9054\u3001\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u3092\u76ee\u6307\u3057\u3066\u822a\u884c\u3057\u307e\u3059\u3002",
+        "Text_ko": "\uc544\ubc1c\ub77c\uc2dc\uc544 \uad6c\ub984\ubc14\ub2e4\uc758 \ubbf8\ud0d0\uc0ac \uc9c0\uc5ed\uc5d0 \ub3c4\ub2ec\ud588\uc2b5\ub2c8\ub2e4. <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> \ubc29\uba74\uc73c\ub85c \ud56d\ud574\ud569\ub2c8\ub2e4."
+    },
+    "10": {
+        "0xID": "A",
+        "Text_cn": "\u53d1\u73b0\u4e86\u5305\u542b\u4f18\u8d28\u6210\u5206\u7684\u201c<Sheet(Item,IntegerParameter(1),0)/>\u201d\uff0c\u5373\u5c06\u5f00\u59cb\u6311\u9009\u56de\u6536\u5bf9\u8c61\u3002",
+        "Text_de": "Hochwertige <SheetDe(Item,5,IntegerParameter(1),2,4,1)/> entdeckt. Beginne Extraktion nach Auswahl der optimalen Probe.",
+        "Text_en": "Several high-quality <SheetEn(Item,3,IntegerParameter(1),2,1)/> discovered. Commencing extraction upon determining ideal sample.",
+        "Text_fr": "<SheetFr(Item,12,IntegerParameter(1),2,1)/> de bonne qualit\u00e9 d\u00e9couvert)>es. Commen\u00e7ons extraction s\u00e9lective.",
+        "Text_ja": "\u826f\u8cea\u306a\u7269\u3092\u542b\u3080\u300c<Sheet(Item,IntegerParameter(1),0)/>\u300d\u3092\u767a\u898b\u3001\u5ff5\u5165\u308a\u306b\u5bfe\u8c61\u3092\u9078\u3073\u56de\u53ce\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
+        "Text_ko": "\ud488\uc9c8\uc774 \ub192\uc740 \uac83\uc774 \ud3ec\ud568\ub41c <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4. \ub300\uc0c1\uc744 \uc2e0\uc911\ud788 \uc120\ubcc4\ud558\uc5ec \ud68c\uc218\ud569\ub2c8\ub2e4."
+    },
+    "11": {
+        "0xID": "B",
+        "Text_cn": "\u53d1\u73b0\u4e86\u5305\u542b\u4f18\u8d28\u6210\u5206\u7684\u201c<Sheet(Item,IntegerParameter(1),0)/>\u201d\uff0c\u5373\u5c06\u5f00\u59cb\u8fdb\u884c\u56de\u6536\u3002",
+        "Text_de": "Hochwertige <SheetDe(Item,5,IntegerParameter(1),2,4,1)/> entdeckt. Beginne Extraktion.",
+        "Text_en": "High-quality <SheetEn(Item,3,IntegerParameter(1),1,1)/> discovered. Commencing extraction.",
+        "Text_fr": "<SheetFr(Item,12,IntegerParameter(1),2,1)/> de bonne qualit\u00e9 d\u00e9couvert)>es. Commen\u00e7ons extraction.",
+        "Text_ja": "\u826f\u8cea\u306a\u7269\u3092\u542b\u3080\u300c<Sheet(Item,IntegerParameter(1),0)/>\u300d\u3092\u767a\u898b\u3001\u56de\u53ce\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
+        "Text_ko": "\ud488\uc9c8\uc774 \ub192\uc740 \uac83\uc774 \ud3ec\ud568\ub41c <Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4. \ub300\uc0c1\uc744 \ud68c\uc218\ud569\ub2c8\ub2e4."
+    },
+    "12": {
+        "0xID": "C",
+        "Text_cn": "\u68c0\u6d4b\u5230\u201c<Sheet(Item,IntegerParameter(1),0)/>\u201d\uff0c\u5373\u5c06\u5f00\u59cb\u8fdb\u884c\u56de\u6536\u3002",
+        "Text_de": "<SheetDe(Item,5,IntegerParameter(1),2,4,1)/> entdeckt. Beginne Extraktion.",
+        "Text_en": "<SheetEn(Item,3,IntegerParameter(1),1,1)/> discovered. Commencing extraction.",
+        "Text_fr": "<SheetFr(Item,12,IntegerParameter(1),2,1)/> d\u00e9couvert)>es. Commen\u00e7ons extraction.",
+        "Text_ja": "\u300c<Sheet(Item,IntegerParameter(1),0)/>\u300d\u3092\u691c\u77e5\u3001\u56de\u53ce\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
+        "Text_ko": "<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4. \ub300\uc0c1\uc744 \ud68c\uc218\ud569\ub2c8\ub2e4."
+    },
+    "13": {
+        "0xID": "D",
+        "Text_cn": "\u68c0\u6d4b\u5230\u201c<Sheet(Item,IntegerParameter(1),0)/>\u201d\uff0c\u5373\u5c06\u5f00\u59cb\u8fdb\u884c\u56de\u6536\u3002",
+        "Text_de": "Vorz\u00fcgliche <SheetDe(Item,5,IntegerParameter(1),2,4,1)/> entdeckt. Beginne Extraktion.",
+        "Text_en": "<SheetEn(Item,3,IntegerParameter(1),1,1)/> discovered. Commencing extraction.",
+        "Text_fr": "<SheetFr(Item,12,IntegerParameter(1),2,1)/> d\u00e9couvert)>es. Commen\u00e7ons extraction.",
+        "Text_ja": "\u898b\u4e8b\u306b\u300c<Sheet(Item,IntegerParameter(1),0)/>\u300d\u3092\u691c\u77e5\u3001\u56de\u53ce\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
+        "Text_ko": "<Sheet(Item,IntegerParameter(1),0)/><13>FF0E02280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> \uc131\uacf5\uc801\uc73c\ub85c \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4. \ub300\uc0c1\uc744 \ud68c\uc218\ud569\ub2c8\ub2e4."
+    },
+    "14": {
+        "0xID": "E",
+        "Text_cn": "\u5145\u5206\u5229\u7528\u4e86\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\uff0c\u56de\u6536\u91cf\u4ee4\u4eba\u975e\u5e38\u6ee1\u610f\uff01",
+        "Text_de": "Hervorragende Ausbeute aufgrund optimaler <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>!",
+        "Text_en": "Optimal <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> result in excellent extraction yield.",
+        "Text_fr": "Mise en \u0153uvre optimale de la <Unknown2F>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103</Unknown2F> de l'appareil. R\u00e9sultat d'extraction excellent.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u3092\u5341\u5206\u306b\u6d3b\u304b\u3057\u3001\u56de\u53ce\u91cf\u3082\u6e80\u8db3\u306a\u7d50\u679c\u3068\u306a\u308a\u307e\u3057\u305f\uff01",
+        "Text_ko": "<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><13>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EBA5BCFF04EC9D84</13> \uc2ed\ubd84 \ubc1c\ud718\ud558\uc5ec \ud48d\uc871\ud55c \ubb3c\ub7c9\uc744 \ud68c\uc218\ud588\uc2b5\ub2c8\ub2e4!"
+    },
+    "15": {
+        "0xID": "F",
+        "Text_cn": "\u5229\u7528\u4e86\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\uff0c\u56de\u6536\u91cf\u7ed3\u679c\u8fd8\u7b97\u8fc7\u5f97\u53bb\u3002",
+        "Text_de": "Gute Ausbeute aufgrund hoher <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>!",
+        "Text_en": "High <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> result in above-average extraction yield.",
+        "Text_fr": "Bonne mise en \u0153uvre de la <Unknown2F>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103</Unknown2F> de l'appareil. R\u00e9sultat d'extraction plus que satisfaisant.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u3092\u6d3b\u304b\u3057\u3001\u56de\u53ce\u91cf\u3082\u307e\u305a\u307e\u305a\u306e\u7d50\u679c\u3068\u306a\u308a\u307e\u3057\u305f\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><13>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EBA5BCFF04EC9D84</13> \ubc1c\ud718\ud558\uc5ec \ub109\ub109\ud55c \ubb3c\ub7c9\uc744 \ud68c\uc218\ud588\uc2b5\ub2c8\ub2e4."
+    },
+    "16": {
+        "0xID": "10",
+        "Text_cn": "\u4ee5\u5f53\u524d\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\u6765\u8bf4\u56de\u6536\u91cf\u6709\u4e9b\u4ee4\u4eba\u4e0d\u592a\u6ee1\u610f\u2026\u2026",
+        "Text_de": "Durchschnittliche Ausbeute aufgrund mittlerer <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>.",
+        "Text_en": "Normal <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> result in average extraction yield.",
+        "Text_fr": "Mise en \u0153uvre normale de la <Unknown2F>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103</Unknown2F> de l'appareil. R\u00e9sultat d'extraction satisfaisant.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u306b\u5bfe\u3057\u3066\u3001\u56de\u53ce\u91cf\u306f\u6e80\u8db3\u3044\u304b\u306a\u3044\u7d50\u679c\u3068\u306a\u308a\u307e\u3057\u305f\u2026\u2026\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\uc5d0 \ube44\ud574 \uc2e0\ud1b5\uce58 \uc54a\uc740 \ubb3c\ub7c9\uc744 \ud68c\uc218\ud588\uc2b5\ub2c8\ub2e4\u2026\u2026."
+    },
+    "17": {
+        "0xID": "11",
+        "Text_cn": "\u8003\u8651\u5230\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\uff0c\u56de\u6536\u91cf\u5df2\u7ecf\u7b97\u8fd8\u53ef\u4ee5\u4e86\u3002",
+        "Text_de": "Unterdurchschnittliche Ausbeute aufgrund niedriger <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>.",
+        "Text_en": "Sub-normal <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> result in below-average extraction yield.",
+        "Text_fr": "Mise en \u0153uvre limit\u00e9e de la <Unknown2F>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103</Unknown2F> de l'appareil. R\u00e9sultat d'extraction \u00e0 peine satisfaisant.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u3092\u8003\u3048\u308b\u3068\u3001\u56de\u53ce\u91cf\u306f\u5341\u5206\u306a\u7d50\u679c\u3068\u306a\u308a\u307e\u3057\u305f\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\uc5d0 \ube44\ud558\uba74 \ub109\ub109\ud55c \ubb3c\ub7c9\uc744 \ud68c\uc218\ud588\uc2b5\ub2c8\ub2e4."
+    },
+    "18": {
+        "0xID": "12",
+        "Text_cn": "\u4ee5\u5f53\u524d\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\u6765\u8bf4\u56de\u6536\u91cf\u4ee4\u4eba\u76f8\u5f53\u4e0d\u6ee1\u610f\u2026\u2026",
+        "Text_de": "Mangelhafte Ausbeute aufgrund \u00e4u\u00dferst niedriger <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>.",
+        "Text_en": "Low <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> result in disappointing extraction yield.",
+        "Text_fr": "Mise en \u0153uvre tr\u00e8s limit\u00e9e de la <Unknown2F>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103</Unknown2F> de l'appareil. R\u00e9sultat d'extraction insatisfaisant.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u306b\u5bfe\u3057\u3066\u3001\u56de\u53ce\u91cf\u306f\u7269\u8db3\u308a\u306a\u3044\u7d50\u679c\u3068\u306a\u308a\u307e\u3057\u305f\u2026\u2026\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\uc5d0 \ube44\ud574 \uc544\uc26c\uc6b4 \ubb3c\ub7c9\uc744 \ud68c\uc218\ud588\uc2b5\ub2c8\ub2e4\u2026\u2026."
+    },
+    "19": {
+        "0xID": "13",
+        "Text_cn": "\u8003\u8651\u5230\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\uff0c\u56de\u6536\u91cf\u57fa\u672c\u6ca1\u6709\u591a\u5c11\u6307\u671b\u2026\u2026",
+        "Text_de": "Verschwindend geringe Ausbeute aufgrund minimaler <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>.",
+        "Text_en": "Poor <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> result in extremely disappointing extraction yield.",
+        "Text_fr": "Mise en \u0153uvre m\u00e9diocre de la <Unknown2F>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103</Unknown2F> de l'appareil. R\u00e9sultat d'extraction tr\u00e8s insatisfaisant.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u3092\u8003\u3048\u308b\u3068\u3001\u56de\u53ce\u91cf\u306f\u6c7a\u3057\u3066\u591a\u304f\u306f\u671b\u3081\u307e\u305b\u3093\u2026\u2026\u3002",
+        "Text_ko": "\uc774 \ube44\uacf5\uc815\uc758 <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><14>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EBA19CFF07EC9CBCEBA19C</14>\ub294 \ub9ce\uc740 \ubb3c\ub7c9\uc744 \ud68c\uc218\ud560 \uc218 \uc5c6\uc2b5\ub2c8\ub2e4\u2026\u2026."
+    },
+    "2": {
+        "0xID": "2",
+        "Text_cn": "\u521d\u6b21\u5230\u8fbe\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\uff0c\u5373\u5c06\u5f00\u59cb\u63a2\u7d22\u3002",
+        "Text_de": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> erreicht. Beginne die Erstuntersuchung.",
+        "Text_en": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> reached. Commencing initial survey.",
+        "Text_fr": "\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d atteint. Commen\u00e7ons exploration pr\u00e9liminaire.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u306b\u521d\u5230\u9054\u3001\u63a2\u7d22\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\uc5d0 \ucc98\uc74c\uc73c\ub85c \ub3c4\ub2ec\ud588\uc2b5\ub2c8\ub2e4. \ud0d0\uc0ac\ub97c \uc2dc\uc791\ud569\ub2c8\ub2e4."
+    },
+    "20": {
+        "0xID": "14",
+        "Text_cn": "\u83b7\u5f97\u4e86[IntegerParameter(2)]\u4e2a\u201c<Sheet(Item,IntegerParameter(1),0)/>\u201d\uff01",
+        "Text_de": "<SheetDe(Item,1,IntegerParameter(1),IntegerParameter(2),4,1)/> erhalten!",
+        "Text_en": "<SheetEn(Item,3,IntegerParameter(1),1,1)/> retrieved!",
+        "Text_fr": "<SheetFr(Item,1,IntegerParameter(1),1,1)/> obtenu)>e!",
+        "Text_ja": "\u300c<Sheet(Item,IntegerParameter(1),0)/>\u300d\u3092[IntegerParameter(2)]\u500b\u7372\u5f97\u3057\u307e\u3057\u305f\uff01",
+        "Text_ko": "<Sheet(Item,IntegerParameter(1),0)/><13>FF1C024804F201F403024904F201F50302280AFF054974656DE8020103FF04EBA5BCFF04EC9D84</13> [IntegerParameter(2)]\uac1c \ud68d\ub4dd\ud588\uc2b5\ub2c8\ub2e4!"
+    },
+    "21": {
+        "0xID": "15",
+        "Text_cn": "\u6709\u4e00\u4e9b\u989d\u5916\u7684\u53d1\u73b0\uff0c\u63a2\u7d22\u7ee7\u7eed\u8fdb\u884c\u3002",
+        "Text_de": "Vielversprechende Auff\u00e4lligkeiten registriert. Setze Erkundung fort.",
+        "Text_en": "Additional anomalies detected. Continuing exploration.",
+        "Text_fr": "Autres points d'int\u00e9r\u00eat d\u00e9tect\u00e9s... Poursuivons exploration.",
+        "Text_ja": "\u3055\u3089\u306b\u4f55\u304b\u3092\u767a\u898b\u2026\u2026\u63a2\u7d22\u3092\u7d9a\u884c\u3059\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+        "Text_ko": "\ucd94\uac00\ub85c \ubb34\uc5b8\uac00\ub97c \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4\u2026\u2026 \uacc4\uc18d\ud574\uc11c \ud0d0\uc0ac\ub97c \uc9c4\ud589\ud569\ub2c8\ub2e4."
+    },
+    "22": {
+        "0xID": "16",
+        "Text_cn": "\u6709\u4e00\u4e9b\u989d\u5916\u7684\u53d1\u73b0\uff0c\u4e0d\u8fc7\u8fd8\u662f\u5148\u8fd4\u822a\u4e86\u3002",
+        "Text_de": "Vielversprechende Auff\u00e4lligkeiten registriert. Zustand des Luftschiffs erlaubt jedoch keine weitere Erkundung. Kehre zur Werkst\u00e4tte zur\u00fcck.",
+        "Text_en": "Additional anomalies detected. However, current airship condition found insufficient for further exploration. Setting course to next destination.",
+        "Text_fr": "Autres points d'int\u00e9r\u00eat d\u00e9tect\u00e9s... Mais l'\u00e9tat de l'a\u00e9ronef ne permettant pas d'explorer davantage, poursuivons notre chemin.",
+        "Text_ja": "\u3055\u3089\u306b\u4f55\u304b\u3092\u767a\u898b\u2026\u2026\u3057\u304b\u3057\u3001\u5e30\u9084\u3092\u512a\u5148\u3057\u5f15\u304d\u3042\u3052\u308b\u3053\u3068\u306b\u3057\u307e\u3057\u305f\u3002",
+        "Text_ko": "\ucd94\uac00\ub85c \ubb34\uc5b8\uac00\ub97c \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4\u2026\u2026 \ud558\uc9c0\ub9cc \uc548\uc804\ud558\uac8c \ubcf5\uadc0\ud558\ub294 \uac83\uc744 \uc6b0\uc120\ud569\ub2c8\ub2e4."
+    },
+    "23": {
+        "0xID": "17",
+        "Text_cn": "\u6709\u4e00\u4e9b\u989d\u5916\u7684\u53d1\u73b0\u2026\u2026\u4e0d\u8fc7\u53c8\u4e0d\u89c1\u4e86\u3002",
+        "Text_de": "Vielversprechende Auff\u00e4lligkeiten registriert, jedoch wieder verloren. ",
+        "Text_en": "Additional anomalies detected...but lost.",
+        "Text_fr": "Autres points d'int\u00e9r\u00eat d\u00e9tect\u00e9s... Mais signal perdu.",
+        "Text_ja": "\u3055\u3089\u306b\u4f55\u304b\u3092\u767a\u898b\u2026\u2026\u3057\u304b\u3057\u3001\u898b\u5931\u3063\u3066\u3057\u307e\u3044\u307e\u3057\u305f\u3002",
+        "Text_ko": "\ucd94\uac00\ub85c \ubb34\uc5b8\uac00\ub97c \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4\u2026\u2026 \ud558\uc9c0\ub9cc \uc9c0\uc18d\uc801\uc73c\ub85c \ud3ec\ucc29\ud558\ub294 \ub370 \uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4."
+    },
+    "24": {
+        "0xID": "18",
+        "Text_cn": "\u53c8\u89c2\u5bdf\u4e86\u4e00\u4e0b\u5468\u56f4\u7684\u60c5\u51b5\uff0c\u53ef\u662f\u6ca1\u6709\u4efb\u4f55\u53d1\u73b0\u3002",
+        "Text_de": "Keine weiteren Auff\u00e4lligkeiten in diesem Gebiet gefunden.",
+        "Text_en": "No additional anomalies detected in the sector.",
+        "Text_fr": "Aucune autre point d'int\u00e9r\u00eat d\u00e9tect\u00e9.",
+        "Text_ja": "\u3055\u3089\u306b\u5468\u8fba\u3092\u898b\u6e21\u3057\u307e\u3057\u305f\u304c\u3001\u4f55\u3082\u767a\u898b\u3067\u304d\u307e\u305b\u3093\u3067\u3057\u305f\u3002",
+        "Text_ko": "\ucd94\uac00\ub85c \uc8fc\ubcc0\uc744 \uc870\uc0ac\ud588\uc9c0\ub9cc, \uc544\ubb34\uac83\ub3c4 \ubc1c\uacac\ud558\uc9c0 \ubabb\ud588\uc2b5\ub2c8\ub2e4."
+    },
+    "25": {
+        "0xID": "19",
+        "Text_cn": "\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\u63a2\u7d22\u5b8c\u6210\uff01\u3000\u53d1\u6325\u51fa\u4e86[StringParameter(2)]\u7684\u6700\u5927\u6027\u80fd\uff0c\u53d6\u5f97\u4e86\u5341\u5206\u559c\u4eba\u7684\u6210\u679c\uff01",
+        "Text_de": "Untersuchung von Zielort \u201e<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201c abgeschlossen. Die Leistung der [StringParameter(2)] wurde als optimal bewertet!",
+        "Text_en": "Survey of <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> complete. [StringParameter(2)] performance rated as outstanding.",
+        "Text_fr": "Exploration de \u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d termin\u00e9e! Performance exceptionnelle de [StringParameter(2)]!",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u306e\u63a2\u7d22\u3092\u5b8c\u4e86\uff01\u3000[StringParameter(2)]\u306e\u6027\u80fd\u3092\u6700\u5927\u9650\u306b\u767a\u63ee\u3057\u3001\u3059\u3070\u3089\u3057\u3044\u6210\u679c\u3092\u3042\u3052\u307e\u3057\u305f\uff01",
+        "Text_ko": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> \ud0d0\uc0ac\ub97c \uc644\ub8cc\ud588\uc2b5\ub2c8\ub2e4! [StringParameter(2)]\uc758 \uc131\ub2a5\uc744 \ucd5c\ub300\ud55c \ubc1c\ud718\ud558\uc5ec \ud6cc\ub96d\ud55c \uc131\uacfc\ub97c \uc5bb\uc5c8\uc2b5\ub2c8\ub2e4!"
+    },
+    "26": {
+        "0xID": "1A",
+        "Text_cn": "\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\u63a2\u7d22\u5b8c\u6210\uff01\u3000\u53d1\u6325\u51fa\u4e86[StringParameter(2)]\u7684\u6027\u80fd\uff0c\u53d6\u5f97\u4e86\u4e0d\u9519\u7684\u6210\u679c\uff01",
+        "Text_de": "Untersuchung von Zielort \u201e<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201c abgeschlossen. Die Leistung der [StringParameter(2)] wurde als gut bewertet!",
+        "Text_en": "Survey of <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> complete. [StringParameter(2)] performance rated as decent.",
+        "Text_fr": "Exploration de \u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d termin\u00e9e! Bonne performance de [StringParameter(2)]!",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u306e\u63a2\u7d22\u3092\u5b8c\u4e86\uff01\u3000[StringParameter(2)]\u306e\u6027\u80fd\u3092\u767a\u63ee\u3057\u3001\u3088\u3044\u7d50\u679c\u3092\u3048\u3089\u308c\u307e\u3057\u305f\uff01",
+        "Text_ko": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> \ud0d0\uc0ac\ub97c \uc644\ub8cc\ud588\uc2b5\ub2c8\ub2e4! [StringParameter(2)]\uc758 \uc131\ub2a5\uc744 \ubc1c\ud718\ud558\uc5ec \uc88b\uc740 \uc131\uacfc\ub97c \uc5bb\uc5c8\uc2b5\ub2c8\ub2e4!"
+    },
+    "27": {
+        "0xID": "1B",
+        "Text_cn": "\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\u63a2\u7d22\u5b8c\u6210\uff01\u3000\u867d\u7136\u6210\u679c\u8fd8\u4e0d\u9519\uff0c\u4f46\u4e0b\u6b21\u8fd8\u8981\u518d\u7ee7\u7eed\u63d0\u9ad8\uff01",
+        "Text_de": "Untersuchung von Zielort \u201e<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201c abgeschlossen. Die Leistung der [StringParameter(2)] wurde als zufriedenstellend bewertet.",
+        "Text_en": "Survey of <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> complete. [StringParameter(2)] performance rated as satisfactory.",
+        "Text_fr": "Exploration de \u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d termin\u00e9e! Performance satisfaisante de [StringParameter(2)]!",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u306e\u63a2\u7d22\u3092\u5b8c\u4e86\uff01\u3000\u3088\u3044\u7d50\u679c\u3092\u51fa\u305b\u307e\u3057\u305f\u304c\u3001\u307e\u3060\u307e\u3060\u9ad8\u3044\u7d50\u679c\u3092\u76ee\u6307\u305b\u308b\u306f\u305a\u3067\u3059\uff01",
+        "Text_ko": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> \ud0d0\uc0ac\ub97c \uc644\ub8cc\ud588\uc2b5\ub2c8\ub2e4! \uc88b\uc740 \uacb0\uacfc\ub97c \uc5bb\uc5c8\uc9c0\ub9cc, \ub354 \ub192\uc740 \uc131\uacfc\ub97c \uae30\ub300\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4!"
+    },
+    "28": {
+        "0xID": "1C",
+        "Text_cn": "\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\u63a2\u7d22\u5b8c\u6210\uff01\u3000\u6210\u679c\u8fd8\u7b97\u8fc7\u5f97\u53bb\uff0c\u6216\u8bb8\u6709\u5fc5\u8981\u8003\u8651\u4e00\u4e0b\u8c03\u6574\u98de\u7a7a\u8247\u7684\u914d\u4ef6\u4e86\u3002",
+        "Text_de": "Untersuchung von Zielort \u201e<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201c abgeschlossen. Die Leistung der [StringParameter(2)] wurde als nicht ausreichend bewertet. Austausch von Bauteilen empfohlen.",
+        "Text_en": "Survey of <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> complete. [StringParameter(2)] performance rated as substandard.",
+        "Text_fr": "Exploration de \u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d termin\u00e9e! Performance \u00e0 peine satisfaisante de [StringParameter(2)]!",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u306e\u63a2\u7d22\u3092\u5b8c\u4e86\uff01\u3000\u7d50\u679c\u306f\u307e\u305a\u307e\u305a\u2026\u2026\u4eca\u5f8c\u3001\u30d1\u30fc\u30c4\u3092\u6574\u3048\u308b\u3053\u3068\u3082\u8003\u616e\u3059\u3079\u304d\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> \ud0d0\uc0ac\ub97c \uc644\ub8cc\ud588\uc2b5\ub2c8\ub2e4! \uc774\ubc88 \uc131\uacfc\ub294 \ud3c9\ubc94\ud569\ub2c8\ub2e4\u2026\u2026 \ubd80\ud488\uc744 \uad50\uccb4\ud558\ub294 \uac83\uc774 \uc88b\uc744\uc9c0\ub3c4 \ubaa8\ub985\ub2c8\ub2e4."
+    },
+    "29": {
+        "0xID": "1D",
+        "Text_cn": "\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\u63a2\u7d22\u5b8c\u6210\uff01\u3000\u7ed3\u679c\u5341\u5206\u4e0d\u7406\u60f3\u2026\u2026",
+        "Text_de": "Untersuchung von Zielort \u201e<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201c abgeschlossen. Die Leistung der [StringParameter(2)] wurde als \u00e4u\u00dferst unzufriedenstellend bewertet.",
+        "Text_en": "Survey of <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> complete. [StringParameter(2)] performance rated as abysmal.",
+        "Text_fr": "Exploration de \u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d termin\u00e9e! Performance d\u00e9cevante de [StringParameter(2)]!",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u306e\u63a2\u7d22\u3092\u5b8c\u4e86\uff01\u3000\u3042\u307e\u308a\u82b3\u3057\u3044\u7d50\u679c\u3068\u306f\u8a00\u3048\u307e\u305b\u3093\u3067\u3057\u305f\u2026\u2026\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> \ud0d0\uc0ac\ub97c \uc644\ub8cc\ud588\uc2b5\ub2c8\ub2e4! \uacb0\uacfc\ub294 \uc369 \ub9cc\uc871\uc2a4\ub7fd\uc9c0 \uc54a\uc544 \ubcf4\uc785\ub2c8\ub2e4\u2026\u2026."
+    },
+    "3": {
+        "0xID": "3",
+        "Text_cn": "\u5230\u8fbe\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\uff0c\u5373\u5c06\u5f00\u59cb\u63a2\u7d22\u3002",
+        "Text_de": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> erreicht. Beginne die Untersuchung.",
+        "Text_en": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> reached. Commencing survey.",
+        "Text_fr": "\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d atteint. Commen\u00e7ons exploration.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u306b\u5230\u9054\u3001\u63a2\u7d22\u3092\u958b\u59cb\u3057\u307e\u3059\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\uc5d0 \ub3c4\ub2ec\ud588\uc2b5\ub2c8\ub2e4. \ud0d0\uc0ac\ub97c \uc2dc\uc791\ud569\ub2c8\ub2e4."
+    },
+    "30": {
+        "0xID": "1E",
+        "Text_cn": "[StringParameter(1)]\u83b7\u5f97\u4e86[IntegerParameter(2)]\u70b9\u7ecf\u9a8c\u503c\uff01",
+        "Text_de": "[StringParameter(1)] hat [IntegerParameter(2)] Routine erhalten.",
+        "Text_en": "[StringParameter(1)] gains [IntegerParameter(2)] experience points.",
+        "Text_fr": "[StringParameter(1)] gagne [IntegerParameter(2)]  points d'exp\u00e9rience.",
+        "Text_ja": "[StringParameter(1)]\u306f\u3001[IntegerParameter(2)]EXP\u3092\u7372\u5f97\u3057\u307e\u3057\u305f\uff01",
+        "Text_ko": "[StringParameter(1)]<13>FF15024804F201F603024904F201F703022903EA0203FF04EAB080FF04EC9DB4</13> [IntegerParameter(2)] \uacbd\ud5d8\uce58\ub97c \ud68d\ub4dd\ud588\uc2b5\ub2c8\ub2e4!"
+    },
+    "31": {
+        "0xID": "1F",
+        "Text_cn": "\u5373\u5c06\u8f6c\u5411\u4e0b\u4e00\u4e2a\u76ee\u7684\u5730\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\u3002",
+        "Text_de": "Nehme Kurs auf n\u00e4chsten Zielort: <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>.",
+        "Text_en": "Changing course to <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>.",
+        "Text_fr": "Mettons le cap vers la prochaine destination : <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>.",
+        "Text_ja": "\u6b21\u306e\u76ee\u7684\u5730\u3001\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u3078\u5411\u304b\u3044\u307e\u3059\u3002",
+        "Text_ko": "\ub2e4\uc74c \ubaa9\uc801\uc9c0\uc778 <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> \ubc29\uba74\uc73c\ub85c \uc774\ub3d9\ud569\ub2c8\ub2e4."
+    },
+    "32": {
+        "0xID": "20",
+        "Text_cn": "\u6240\u6709\u76ee\u7684\u5730\u90fd\u63a2\u7d22\u5b8c\u6210\uff01\u3000\u5373\u5c06\u8fd4\u822a\uff01\uff3b\u63a2\u7d22\u5b8c\u6210\uff3d",
+        "Text_de": "Alle Zielorte untersucht. Kehre zur Werkst\u00e4tte zur\u00fcck.",
+        "Text_en": "All locations surveyed. Returning to workshop.",
+        "Text_fr": "Exploration de toutes les destinations termin\u00e9e. Retournons \u00e0 l'atelier.",
+        "Text_ja": "\u5168\u76ee\u7684\u5730\u306e\u63a2\u7d22\u5b8c\u4e86\uff01\u3000\u5e30\u9084\u3057\u307e\u3059\uff01\uff3b\u63a2\u7d22\u5b8c\u4e86\uff3d",
+        "Text_ko": "\ubaa8\ub4e0 \ubaa9\uc801\uc9c0\ub97c \ud0d0\uc0ac\ud588\uc2b5\ub2c8\ub2e4! \uc9c0\uae08\ubd80\ud130 \ubcf5\uadc0\ud569\ub2c8\ub2e4. [\ud0d0\uc0ac \uc644\ub8cc]"
+    },
+    "33": {
+        "0xID": "21",
+        "Text_cn": "\u5728\u822a\u884c\u4e2d\u53d1\u73b0\u4e86\u201c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u201d\uff01",
+        "Text_de": "Neuen potenziellen Zielort entdeckt: <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>!",
+        "Text_en": "<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/> discovered!",
+        "Text_fr": "Nouveau lieu d'exploration d\u00e9couvert : <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>.",
+        "Text_ja": "\u822a\u884c\u4e2d\u306b\u300c<Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/>\u300d\u3092\u767a\u898b\u3057\u307e\u3057\u305f\uff01",
+        "Text_ko": "\ud56d\ud574 \uc911\uc5d0 <Sheet(AirshipExplorationPoint,IntegerParameter(1),0)/><13>FF2102281DFF18416972736869704578706C6F726174696F6E506F696E74E8020103FF04EBA5BCFF04EC9D84</13> \ubc1c\uacac\ud588\uc2b5\ub2c8\ub2e4!"
+    },
+    "34": {
+        "0xID": "22",
+        "Text_cn": "\u63a2\u7d22\u7684\u6210\u679c\u5f97\u5230\u4e86\u8ba4\u53ef\uff0c\u53ef\u4ee5\u767b\u8bb0\u65b0\u7684\u98de\u7a7a\u8247\u4e86\uff01",
+        "Text_de": "Erlaubnis zur Registrierung eines weiteren Luftschiffs erhalten!",
+        "Text_en": "Permission granted to register an additional airship!",
+        "Text_fr": "Enregistrement d'un a\u00e9ronef suppl\u00e9mentaire autoris\u00e9!",
+        "Text_ja": "\u63a2\u7d22\u306e\u6210\u679c\u304c\u8a8d\u3081\u3089\u308c\u3001\u65b0\u305f\u306b\u98db\u7a7a\u8247\u3092\u767b\u9332\u3059\u308b\u8cc7\u683c\u3092\u5f97\u307e\u3057\u305f\uff01",
+        "Text_ko": "\ud0d0\uc0ac \uc131\uacfc\uac00 \uc778\uc815\ub418\uc5b4 \uc0c8 \ube44\uacf5\uc815\uc744 \ub4f1\ub85d\ud560 \uc790\uaca9\uc744 \uc5bb\uc5c8\uc2b5\ub2c8\ub2e4!"
+    },
+    "4": {
+        "0xID": "4",
+        "Text_cn": "\u6c14\u6d41\u5b89\u5b9a\uff0c[StringParameter(1)]\u7684\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\u6ee1\u8db3\u51fa\u53d1\u63a2\u7d22\u7684\u8981\u6c42\u3002",
+        "Text_de": "Keine Turbulenzen, ideale Flugbedingungen. <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> der [StringParameter(1)] ist ausreichend f\u00fcr die Erkundung des Zielorts. ",
+        "Text_en": "No wind or turbulence detected. [StringParameter(1)] <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> sufficient for exploration.",
+        "Text_fr": "Conditions de vol id\u00e9ales... <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> de [StringParameter(1)] suffisante.",
+        "Text_ja": "\u6c17\u6d41\u5b89\u5b9a\u3001\u7d76\u597d\u306e\u6761\u4ef6\u2026\u2026[StringParameter(1)]\u306e\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u306f\u5341\u5206\u3067\u3059\u3002",
+        "Text_ko": "\uae30\ub958\uac00 \uc628\ud654\ud558\uc5ec \uc808\ud638\uc758 \uc870\uac74\uc785\ub2c8\ub2e4\u2026\u2026 [StringParameter(1)]\uc758 <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><13>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EB8A94FF04EC9D80</13> \ucda9\ubd84\ud569\ub2c8\ub2e4."
+    },
+    "5": {
+        "0xID": "5",
+        "Text_cn": "\u68c0\u6d4b\u5230\u5f3a\u98ce\uff0c\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\u867d\u7136\u6ee1\u8db3\u63a2\u7d22\u7684\u8981\u6c42\uff0c\u4f46\u4f1a\u53d7\u5230\u4e00\u5b9a\u7684\u5f71\u54cd\u3002",
+        "Text_de": "Starker Wind. <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> stabil, aber eine Beeintr\u00e4chtigung der Erkundung ist m\u00f6glich.",
+        "Text_en": "Experiencing high winds. Airship <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> unaffected, but exploratory capability may be slightly hindered.",
+        "Text_fr": "Subissons vents violents... <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> de [StringParameter(1)] suffisante, mais influence sur les op\u00e9rations \u00e0 craindre.",
+        "Text_ja": "\u5f37\u98a8\u767a\u751f\u2026\u2026\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u306f\u5341\u5206\u3067\u3059\u304c\u3001\u63a2\u7d22\u306b\u5f71\u97ff\u304c\u51fa\u3066\u3044\u307e\u3059\u3002",
+        "Text_ko": "\uac15\ud48d\uc774 \ubd88\uace0 \uc788\uc2b5\ub2c8\ub2e4\u2026\u2026 <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><13>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EB8A94FF04EC9D80</13> \ucda9\ubd84\ud558\uc9c0\ub9cc, \ud0d0\uc0ac\uc5d0 \uc601\ud5a5\uc774 \uc788\uc2b5\ub2c8\ub2e4."
+    },
+    "6": {
+        "0xID": "6",
+        "Text_cn": "\u68c0\u6d4b\u5230\u5f3a\u70c8\u7684\u6e4d\u6d41\uff0c\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\u867d\u7136\u6ee1\u8db3\u63a2\u7d22\u7684\u8981\u6c42\uff0c\u4f46\u5f53\u524d\u5929\u6c14\u8fdb\u884c\u63a2\u7d22\u5341\u5206\u56f0\u96be\u3002",
+        "Text_de": "Heftige Turbulenzen. <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> stabil, aber eine starke Beeintr\u00e4chtigung der Erkundung ist wahrscheinlich.",
+        "Text_en": "Experiencing violent turbulence. Airship <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> unaffected, but exploratory capability may be significantly hindered.",
+        "Text_fr": "Subissons violentes turbulences... <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> de [StringParameter(1)] suffisante, mais conduite des op\u00e9rations tr\u00e8s difficile.",
+        "Text_ja": "\u4e71\u6c17\u6d41\u767a\u751f\u4e2d\u2026\u2026\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u306f\u5341\u5206\u3067\u3059\u304c\u3001\u63a2\u7d22\u306f\u975e\u5e38\u306b\u56f0\u96e3\u3067\u3059\u3002",
+        "Text_ko": "\ub09c\uae30\ub958\uac00 \ubc1c\uc0dd\ud588\uc2b5\ub2c8\ub2e4\u2026\u2026 <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><13>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EB8A94FF04EC9D80</13> \ucda9\ubd84\ud558\uc9c0\ub9cc, \ud0d0\uc0ac\uc5d0 \ud070 \uc9c0\uc7a5\uc774 \uc788\uc2b5\ub2c8\ub2e4."
+    },
+    "7": {
+        "0xID": "7",
+        "Text_cn": "\u6c14\u6d41\u5b89\u5b9a\uff0c\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\u6ca1\u6709\u4efb\u4f55\u95ee\u9898\u3002",
+        "Text_de": "Keine Turbulenzen, Flug stabil. <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> ist im Normalbereich.",
+        "Text_en": "No turbulence detected. Airship <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> normal.",
+        "Text_fr": "Aucune turbulence d\u00e9tect\u00e9e... <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> de [StringParameter(1)] normale.",
+        "Text_ja": "\u6c17\u6d41\u5b89\u5b9a\u2026\u2026\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u306b\u554f\u984c\u306f\u3042\u308a\u307e\u305b\u3093\u3002",
+        "Text_ko": "\uae30\ub958\uac00 \uc628\ud654\ud569\ub2c8\ub2e4\u2026\u2026 <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><13>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EB8A94FF04EC9D80</13> \uc801\ub2f9\ud569\ub2c8\ub2e4."
+    },
+    "8": {
+        "0xID": "8",
+        "Text_cn": "\u68c0\u6d4b\u5230\u5f3a\u98ce\uff0c\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\u867d\u7136\u6ee1\u8db3\u63a2\u7d22\u7684\u8981\u6c42\uff0c\u4f46\u5f53\u524d\u5929\u6c14\u8fdb\u884c\u63a2\u7d22\u5341\u5206\u56f0\u96be\u3002",
+        "Text_de": "Starker Wind. <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> stabil, aber eine starke Beeintr\u00e4chtigung der Erkundung ist wahrscheinlich.",
+        "Text_en": "Experiencing high winds. Airship <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> normal, but exploratory capability may be significantly hindered.",
+        "Text_fr": "Subissons vents violents... <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> de [StringParameter(1)] normale, mais conduite des op\u00e9rations tr\u00e8s difficile.",
+        "Text_ja": "\u5f37\u98a8\u767a\u751f\u2026\u2026\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u306b\u554f\u984c\u306f\u3042\u308a\u307e\u305b\u3093\u304c\u3001\u63a2\u7d22\u306f\u975e\u5e38\u306b\u56f0\u96e3\u3067\u3059\u3002",
+        "Text_ko": "\uac15\ud48d\uc774 \ubd88\uace0 \uc788\uc2b5\ub2c8\ub2e4\u2026\u2026 <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><13>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EB8A94FF04EC9D80</13> \uc801\ub2f9\ud558\uc9c0\ub9cc, \ud0d0\uc0ac\uc5d0 \ud070 \uc9c0\uc7a5\uc774 \uc788\uc2b5\ub2c8\ub2e4."
+    },
+    "9": {
+        "0xID": "9",
+        "Text_cn": "\u201c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u201d\u5904\u4e8e\u4e0d\u5b89\u5b9a\u7684\u72b6\u6001\uff0c\u4e0d\u8fc7\u4ecd\u7136\u53ef\u4ee5\u5f3a\u884c\u63a2\u7d22\u3002",
+        "Text_de": "<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> sinkend. Setze Erkundung bis zum Erreichen des Grenzwerts fort.",
+        "Text_en": "Airship <Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/> dropping. Continuing exploration until rendered unable.",
+        "Text_fr": "L'a\u00e9ronef conna\u00eet une perte de <Unknown2F>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103</Unknown2F>. Poursuivons la conduite des op\u00e9rations autant que possible.",
+        "Text_ja": "\u300c<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/>\u300d\u306b\u4e0d\u5b89\u304c\u3042\u308b\u72b6\u614b\u3067\u3059\u304c\u3001\u63a2\u7d22\u3092\u5f37\u884c\u3057\u307e\u3059\u3002",
+        "Text_ko": "<Sheet(AirshipExplorationParamType,IntegerParameter(2),0)/><13>FF25022821FF1C416972736869704578706C6F726174696F6E506172616D54797065E8030103FF04EAB080FF04EC9DB4</13> \ubd80\uc871\ud558\uc9c0\ub9cc, \ud0d0\uc0ac\ub97c \uac15\ud589\ud569\ub2c8\ub2e4."
+    }
+}

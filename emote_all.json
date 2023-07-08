@@ -1,0 +1,2672 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/064000/064001.png",
+        "Name_cn": "\u60ca\u8bb6",
+        "Name_de": "\u00dcberrascht",
+        "Name_en": "Surprised",
+        "Name_fr": "Surprise",
+        "Name_ja": "\u304a\u3069\u308d\u304f",
+        "Name_ko": "\ub180\ub77c\uae30"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/064000/064010.png",
+        "Name_cn": "\u54ed\u6ce3",
+        "Name_de": "Weinen",
+        "Name_en": "Cry",
+        "Name_fr": "Pleurer",
+        "Name_ja": "\u6ce3\u304f",
+        "Name_ko": "\uc5c9\uc5c9 \uc6b8\uae30"
+    },
+    "100": {
+        "0xID": "64",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "101": {
+        "0xID": "65",
+        "Icon": "ui/icon/064000/064069.png",
+        "Name_cn": "\u8e22\u8e0f\u821e",
+        "Name_de": "Stepptanz",
+        "Name_en": "Step Dance",
+        "Name_fr": "Claquettes",
+        "Name_ja": "\u30b9\u30c6\u30c3\u30d7\u30c0\u30f3\u30b9",
+        "Name_ko": "\ud0ed\ub304\uc2a4"
+    },
+    "102": {
+        "0xID": "66",
+        "Icon": "ui/icon/064000/064070.png",
+        "Name_cn": "\u4e30\u9976\u4e4b\u821e",
+        "Name_de": "Tanz der Fruchtbarkeit",
+        "Name_en": "Harvest Dance",
+        "Name_fr": "Danse des moissons",
+        "Name_ja": "\u8c4a\u7a63\u306e\u821e",
+        "Name_ko": "\ud48d\uc694\uc758 \ucda4"
+    },
+    "103": {
+        "0xID": "67",
+        "Icon": "ui/icon/064000/064071.png",
+        "Name_cn": "\u5bab\u5ef7\u4e4b\u821e",
+        "Name_de": "Tanz der H\u00f6flinge",
+        "Name_en": "Ball Dance",
+        "Name_fr": "Danse de la cour",
+        "Name_ja": "\u5bae\u5ef7\u306e\u821e",
+        "Name_ko": "\uad81\uc911 \ubb34\uc6a9"
+    },
+    "104": {
+        "0xID": "68",
+        "Icon": "ui/icon/064000/064072.png",
+        "Name_cn": "\u7ec5\u58eb\u4e4b\u821e",
+        "Name_de": "Tanz der Chevaliers",
+        "Name_en": "Manderville Dance",
+        "Name_fr": "Danse du gentilhomme",
+        "Name_ja": "\u7d33\u58eb\u306e\u821e",
+        "Name_ko": "\uc2e0\uc0ac\uc758 \ucda4"
+    },
+    "105": {
+        "0xID": "69",
+        "Icon": "ui/icon/064000/064067.png",
+        "Name_cn": "\u629a\u6478",
+        "Name_de": "Streicheln",
+        "Name_en": "Pet",
+        "Name_fr": "Caresser",
+        "Name_ja": "\u306a\u3067\u308b",
+        "Name_ko": "\uc4f0\ub2e4\ub4ec\uae30"
+    },
+    "106": {
+        "0xID": "6A",
+        "Icon": "ui/icon/064000/064073.png",
+        "Name_cn": "\u9012\u4ea4",
+        "Name_de": "\u00dcbergeben",
+        "Name_en": "Hand Over",
+        "Name_fr": "Donner",
+        "Name_ja": "\u308f\u305f\u3059",
+        "Name_ko": "\uac74\ub124\uae30"
+    },
+    "107": {
+        "0xID": "6B",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "108": {
+        "0xID": "6C",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "109": {
+        "0xID": "6D",
+        "Icon": "ui/icon/064000/064074.png",
+        "Name_cn": "\u706b\u76c6\u821e",
+        "Name_de": "Feuertanz",
+        "Name_en": "Bomb Dance",
+        "Name_fr": "Danse du bombo",
+        "Name_ja": "\u30dc\u30e0\u8e0a\u308a",
+        "Name_ko": "\ucd95\uc81c\uc758 \ucda4"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/064000/064011.png",
+        "Name_cn": "\u8df3\u821e",
+        "Name_de": "Tanzen",
+        "Name_en": "Dance",
+        "Name_fr": "Danser",
+        "Name_ja": "\u8e0a\u308b",
+        "Name_ko": "\ucda4\ucd94\uae30"
+    },
+    "110": {
+        "0xID": "6E",
+        "Icon": "ui/icon/064000/064075.png",
+        "Name_cn": "\u80dc\u5229\u6b22\u547c",
+        "Name_de": "Hurra",
+        "Name_en": "Huzzah",
+        "Name_fr": "Hourra",
+        "Name_ja": "\u52dd\u3061\u3069\u304d",
+        "Name_ko": "\uc2b9\ub9ac\uc758 \ud568\uc131"
+    },
+    "111": {
+        "0xID": "6F",
+        "Icon": "ui/icon/064000/064076.png",
+        "Name_cn": "\u7529\u5df4\u638c",
+        "Name_de": "Schlagen",
+        "Name_en": "Slap",
+        "Name_fr": "Claque",
+        "Name_ja": "\u5e73\u624b\u6253\u3061",
+        "Name_ko": "\ubea8 \ub54c\ub9ac\uae30"
+    },
+    "112": {
+        "0xID": "70",
+        "Icon": "ui/icon/064000/064077.png",
+        "Name_cn": "\u62e5\u62b1",
+        "Name_de": "Umarmen",
+        "Name_en": "Hug",
+        "Name_fr": "Accolade",
+        "Name_ja": "\u30cf\u30b0",
+        "Name_ko": "\ud3ec\uc639\ud558\uae30"
+    },
+    "113": {
+        "0xID": "71",
+        "Icon": "ui/icon/064000/064078.png",
+        "Name_cn": "\u6df1\u60c5\u62e5\u62b1",
+        "Name_de": "Ans Herz dr\u00fccken",
+        "Name_en": "Embrace",
+        "Name_fr": "\u00c9treinte",
+        "Name_ja": "\u62b1\u304d\u5408\u3046",
+        "Name_ko": "\uc560\uc815\uc744 \ub2f4\uc544 \uaef4\uc548\uae30"
+    },
+    "114": {
+        "0xID": "72",
+        "Icon": "ui/icon/064000/064079.png",
+        "Name_cn": "\u7ec5\u58eb\u98ce\u5ea6",
+        "Name_de": "Hildibrand-Pose",
+        "Name_en": "Most Gentlemanly",
+        "Name_fr": "Pose du d\u00e9tective",
+        "Name_ja": "\u4e8b\u4ef6\u5c4b\u306e\u6c7a\u3081\u30dd\u30fc\u30ba",
+        "Name_ko": "\uc0ac\uac74\ud574\uacb0\uc0ac \ud3ec\uc988"
+    },
+    "115": {
+        "0xID": "73",
+        "Icon": "ui/icon/064000/064080.png",
+        "Name_cn": "\u5bf9\u62f3",
+        "Name_de": "Faustgru\u00df",
+        "Name_en": "Fist Bump",
+        "Name_fr": "Salut du poing",
+        "Name_ja": "\u62f3\u3092\u7a81\u304d\u51fa\u3059",
+        "Name_ko": "\uc8fc\uba39 \ub0b4\ubc00\uae30"
+    },
+    "116": {
+        "0xID": "74",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "\ud070\uc808"
+    },
+    "117": {
+        "0xID": "75",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "118": {
+        "0xID": "76",
+        "Icon": "ui/icon/064000/064082.png",
+        "Name_cn": "\u8428\u7ef4\u5948\u821e",
+        "Name_de": "Thavnair-Tanz",
+        "Name_en": "Thavnairian Dance",
+        "Name_fr": "Danse thavnairoise",
+        "Name_ja": "\u30b5\u30d9\u30cd\u30a2\u30f3\u30c0\u30f3\u30b9",
+        "Name_ko": "\uc0ac\ubca0\ub124\uc5b4\uc758 \ucda4"
+    },
+    "119": {
+        "0xID": "77",
+        "Icon": "ui/icon/064000/064083.png",
+        "Name_cn": "\u9ec4\u91d1\u4e4b\u821e",
+        "Name_de": "Goldtanz",
+        "Name_en": "Gold Dance",
+        "Name_fr": "Danse de l'or",
+        "Name_ja": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30c0\u30f3\u30b9",
+        "Name_ko": "\ud669\uae08\uc758 \ucda4"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/064000/064012.png",
+        "Name_cn": "\u8d28\u7591",
+        "Name_de": "Beschuldigen",
+        "Name_en": "Doubt",
+        "Name_fr": "Questionner",
+        "Name_ja": "\u554f\u3044\u8a70\u3081\u308b",
+        "Name_ko": "\ucd94\uad81"
+    },
+    "120": {
+        "0xID": "78",
+        "Icon": "ui/icon/064000/064084.png",
+        "Name_cn": "\u592a\u9633\u4e4b\u821e",
+        "Name_de": "Sonnentanz",
+        "Name_en": "Sundrop Dance",
+        "Name_fr": "Danse du soleil",
+        "Name_ja": "\u592a\u967d\u306e\u821e",
+        "Name_ko": "\ud0dc\uc591\uc758 \ucda4"
+    },
+    "121": {
+        "0xID": "79",
+        "Icon": "ui/icon/064000/064085.png",
+        "Name_cn": "\u51c6\u5907\u6218\u6597",
+        "Name_de": "Aufw\u00e4rmen",
+        "Name_en": "Battle Stance",
+        "Name_fr": "Se pr\u00e9parer au combat",
+        "Name_ja": "\u6226\u3044\u306b\u5099\u3048\u308b",
+        "Name_ko": "\uc804\ud22c\ud0dc\uc138"
+    },
+    "122": {
+        "0xID": "7A",
+        "Icon": "ui/icon/064000/064086.png",
+        "Name_cn": "\u6b22\u547c\u80dc\u5229",
+        "Name_de": "Triumph",
+        "Name_en": "Victory",
+        "Name_fr": "Se r\u00e9jouir de la victoire",
+        "Name_ja": "\u52dd\u5229\u3092\u559c\u3076",
+        "Name_ko": "\uc2b9\ub9ac\uc758 \uae30\uc068"
+    },
+    "123": {
+        "0xID": "7B",
+        "Icon": "ui/icon/064000/064087.png",
+        "Name_cn": "\u540e\u7a7a\u7ffb",
+        "Name_de": "Salto",
+        "Name_en": "Backflip",
+        "Name_fr": "Salto arri\u00e8re",
+        "Name_ja": "\u5b99\u8fd4\u308a",
+        "Name_ko": "\uacf5\uc911\uc81c\ube44"
+    },
+    "124": {
+        "0xID": "7C",
+        "Icon": "ui/icon/064000/064088.png",
+        "Name_cn": "\u62b1\u62f3\u793c",
+        "Name_de": "Fern\u00f6stlicher Gru\u00df",
+        "Name_en": "Eastern Greeting",
+        "Name_fr": "Salut oriental",
+        "Name_ja": "\u62b1\u62f3\u793c",
+        "Name_ko": "\ud3ec\uad8c\uc758 \uc608"
+    },
+    "125": {
+        "0xID": "7D",
+        "Icon": "ui/icon/064000/064089.png",
+        "Name_cn": "\u7075\u5149\u4e00\u73b0",
+        "Name_de": "Aha",
+        "Name_en": "Eureka",
+        "Name_fr": "\u00c9clair de g\u00e9nie",
+        "Name_ja": "\u9583\u304f",
+        "Name_ko": "\ubc88\ub729\uc774\ub294 \uc0dd\uac01"
+    },
+    "126": {
+        "0xID": "7E",
+        "Icon": "ui/icon/064000/064090.png",
+        "Name_cn": "\u83ab\u53e4\u83ab\u53e4\u821e",
+        "Name_de": "Mogry-Tanz",
+        "Name_en": "Moogle Dance",
+        "Name_fr": "Danse mog",
+        "Name_ja": "\u30e2\u30b0\u30e2\u30b0\u30c0\u30f3\u30b9",
+        "Name_ko": "\ubaa8\uadf8\ubaa8\uadf8 \ucda4"
+    },
+    "127": {
+        "0xID": "7F",
+        "Icon": "ui/icon/064000/064091.png",
+        "Name_cn": "\u592a\u68d2\u4e86\uff01",
+        "Name_de": "Haurchefant",
+        "Name_en": "Haurchefant",
+        "Name_fr": "Geste d'Haurchefant",
+        "Name_ja": "\u300c\u30a4\u30a4\uff01\u300d",
+        "Name_ko": "\uc544\uc8fc \uc88b\uc544!"
+    },
+    "128": {
+        "0xID": "80",
+        "Icon": "ui/icon/064000/064092.png",
+        "Name_cn": "\u70ed\u8eab",
+        "Name_de": "Fern\u00f6stliches Strecken",
+        "Name_en": "Eastern Stretch",
+        "Name_fr": "\u00c9tirements orientaux",
+        "Name_ja": "\u30a6\u30a9\u30fc\u30e0\u30a2\u30c3\u30d7",
+        "Name_ko": "\ubab8 \ud480\uae30"
+    },
+    "129": {
+        "0xID": "81",
+        "Icon": "ui/icon/064000/064093.png",
+        "Name_cn": "\u4e1c\u65b9\u4f20\u7edf\u821e\u8e48",
+        "Name_de": "Fern\u00f6stlicher Tanz",
+        "Name_en": "Eastern Dance",
+        "Name_fr": "Danse orientale",
+        "Name_ja": "\u6771\u65b9\u306e\u4f1d\u7d71\u821e\u8e0a",
+        "Name_ko": "\ub3d9\ubc29\uc758 \uc804\ud1b5 \ubb34\uc6a9"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/064000/064013.png",
+        "Name_cn": "\u6253\u76f9",
+        "Name_de": "M\u00fcde",
+        "Name_en": "Doze",
+        "Name_fr": "Somnoler",
+        "Name_ja": "\u5c45\u7720\u308a\u3059\u308b",
+        "Name_ko": "\uafb8\ubc85\uafb8\ubc85 \uc878\uae30"
+    },
+    "130": {
+        "0xID": "82",
+        "Icon": "ui/icon/064000/064094.png",
+        "Name_cn": "\u6218\u961f\u6f14\u6b66\u6b63\u7ea2\u4e00\u5f0f",
+        "Name_de": "Roter Bombattant I",
+        "Name_en": "Red Ranger Pose A",
+        "Name_fr": "Bomboforce rouge",
+        "Name_ja": "\u6226\u58eb\u306e\u6f14\u6b66\uff1a\u58f1",
+        "Name_ko": "\ub808\ub4dc \uc804\uc0ac\uc758 \uc5f0\ubb34(\uc67c\ucabd)"
+    },
+    "131": {
+        "0xID": "83",
+        "Icon": "ui/icon/064000/064095.png",
+        "Name_cn": "\u6218\u961f\u6f14\u6b66\u6b63\u9ed1\u4e8c\u5f0f",
+        "Name_de": "Schwarze Bombattantin I",
+        "Name_en": "Black Ranger Pose A",
+        "Name_fr": "Bomboforce noire",
+        "Name_ja": "\u6226\u58eb\u306e\u6f14\u6b66\uff1a\u5f10",
+        "Name_ko": "\ube14\ub799 \uc804\uc0ac\uc758 \uc5f0\ubb34(\uc67c\ucabd)"
+    },
+    "132": {
+        "0xID": "84",
+        "Icon": "ui/icon/064000/064096.png",
+        "Name_cn": "\u6218\u961f\u6f14\u6b66\u6b63\u9ec4\u4e09\u5f0f",
+        "Name_de": "Gelber Bombattant I",
+        "Name_en": "Yellow Ranger Pose A",
+        "Name_fr": "Bomboforce jaune",
+        "Name_ja": "\u6226\u58eb\u306e\u6f14\u6b66\uff1a\u53c2",
+        "Name_ko": "\uc610\ub85c \uc804\uc0ac\uc758 \uc5f0\ubb34(\uc67c\ucabd)"
+    },
+    "133": {
+        "0xID": "85",
+        "Icon": "ui/icon/064000/064118.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u53f3\u98de\u773c",
+        "Name_de": "Zwinkern (rechts)",
+        "Name_en": "Wink (Right)",
+        "Name_fr": "Clin d'\u0153il droit",
+        "Name_ja": "\u8868\u60c5\uff1a\u30a6\u30a3\u30f3\u30af\u53f3",
+        "Name_ko": "\uc624\ub978\ub208 \uc719\ud06c"
+    },
+    "134": {
+        "0xID": "86",
+        "Icon": "ui/icon/064000/064097.png",
+        "Name_cn": "\u6218\u961f\u6f14\u6b66\u9006\u7ea2\u4e00\u5f0f",
+        "Name_de": "Roter Bombattant II",
+        "Name_en": "Red Ranger Pose B",
+        "Name_fr": "Bomboforce rouge invers\u00e9",
+        "Name_ja": "\u6226\u58eb\u306e\u6f14\u6b66\uff1a\u58f1\u30ce\u88cf",
+        "Name_ko": "\ub808\ub4dc \uc804\uc0ac\uc758 \uc5f0\ubb34(\uc624\ub978\ucabd)"
+    },
+    "135": {
+        "0xID": "87",
+        "Icon": "ui/icon/064000/064098.png",
+        "Name_cn": "\u6218\u961f\u6f14\u6b66\u9006\u9ed1\u4e8c\u5f0f",
+        "Name_de": "Schwarze Bombattantin II",
+        "Name_en": "Black Ranger Pose B",
+        "Name_fr": "Bomboforce noire invers\u00e9",
+        "Name_ja": "\u6226\u58eb\u306e\u6f14\u6b66\uff1a\u5f10\u30ce\u88cf",
+        "Name_ko": "\ube14\ub799 \uc804\uc0ac\uc758 \uc5f0\ubb34(\uc624\ub978\ucabd)"
+    },
+    "136": {
+        "0xID": "88",
+        "Icon": "ui/icon/064000/064099.png",
+        "Name_cn": "\u6218\u961f\u6f14\u6b66\u9006\u9ec4\u4e09\u5f0f",
+        "Name_de": "Gelber Bombattant II",
+        "Name_en": "Yellow Ranger Pose B",
+        "Name_fr": "Bomboforce jaune invers\u00e9",
+        "Name_ja": "\u6226\u58eb\u306e\u6f14\u6b66\uff1a\u53c2\u30ce\u88cf",
+        "Name_ko": "\uc610\ub85c \uc804\uc0ac\uc758 \uc5f0\ubb34(\uc624\ub978\ucabd)"
+    },
+    "137": {
+        "0xID": "89",
+        "Icon": "ui/icon/064000/064326.png",
+        "Name_cn": "\u6342\u8138",
+        "Name_de": "Gesicht vergraben",
+        "Name_en": "Facepalm",
+        "Name_fr": "Se prendre la t\u00eate",
+        "Name_ja": "\u9854\u3092\u8986\u3046",
+        "Name_ko": "\uba38\ub9ac \uac10\uc2f8\uae30"
+    },
+    "138": {
+        "0xID": "8A",
+        "Icon": "ui/icon/064000/064327.png",
+        "Name_cn": "\u65a9\u94c1\u5251",
+        "Name_de": "Zantetsuken",
+        "Name_en": "Zantetsuken",
+        "Name_fr": "Zantetsuken",
+        "Name_ja": "\u65ac\u9244\u5263",
+        "Name_ko": "\ucc38\ucca0\uac80"
+    },
+    "139": {
+        "0xID": "8B",
+        "Icon": "ui/icon/064000/064328.png",
+        "Name_cn": "\u8089\u4f53\u4e4b\u7f8e",
+        "Name_de": "Muskeln anspannen",
+        "Name_en": "Flex",
+        "Name_fr": "Contracter ses muscles",
+        "Name_ja": "\u8089\u4f53\u7f8e",
+        "Name_ko": "\uc721\uccb4\ubbf8"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/064000/064014.png",
+        "Name_cn": "\u540e\u6094",
+        "Name_de": "Frustriert",
+        "Name_en": "Fume",
+        "Name_fr": "D\u00e9pit",
+        "Name_ja": "\u6094\u3057\u304c\u308b",
+        "Name_ko": "\ubd84\uac1c"
+    },
+    "140": {
+        "0xID": "8C",
+        "Icon": "ui/icon/064000/064329.png",
+        "Name_cn": "\u9ed8\u54c0",
+        "Name_de": "Respekt",
+        "Name_en": "Pay Respects",
+        "Name_fr": "Se recueillir",
+        "Name_ja": "\u9ed9\u7977",
+        "Name_ko": "\ubb35\ub150"
+    },
+    "141": {
+        "0xID": "8D",
+        "Icon": "ui/icon/064000/064119.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u9634\u9669",
+        "Name_de": "Ver\u00e4chtlich",
+        "Name_en": "Sneer",
+        "Name_fr": "Visage vicieux",
+        "Name_ja": "\u8868\u60c5\uff1a\u60aa\u3060\u304f\u307f",
+        "Name_ko": "\uad50\ud65c\ud55c \uc6c3\uc74c"
+    },
+    "142": {
+        "0xID": "8E",
+        "Icon": "ui/icon/064000/064330.png",
+        "Name_cn": "\u6492\u5a07",
+        "Name_de": "Lieb bitten",
+        "Name_en": "Pretty Please",
+        "Name_fr": "Attendrir",
+        "Name_ja": "\u304a\u306d\u3060\u308a",
+        "Name_ko": "\uadc0\uc5ec\uc6b4 \ubd80\ud0c1"
+    },
+    "143": {
+        "0xID": "8F",
+        "Icon": "ui/icon/064000/064331.png",
+        "Name_cn": "\u88c5\u6b7b",
+        "Name_de": "Totstellen",
+        "Name_en": "Play Dead",
+        "Name_fr": "Feindre la mort",
+        "Name_ja": "\u6b7b\u3093\u3060\u3075\u308a",
+        "Name_ko": "\uc8fd\uc740 \ucc99\ud558\uae30"
+    },
+    "144": {
+        "0xID": "90",
+        "Icon": "ui/icon/064000/064332.png",
+        "Name_cn": "\u5bd2\u51b0\u7684\u5e7b\u60f3",
+        "Name_de": "Eisiges Erscheinen",
+        "Name_en": "Diamond Dust",
+        "Name_fr": "Illusions glac\u00e9es",
+        "Name_ja": "\u6c37\u7d50\u306e\u5e7b\u60f3",
+        "Name_ko": "\ube59\uacb0\uc758 \ud658\uc0c1"
+    },
+    "145": {
+        "0xID": "91",
+        "Icon": "ui/icon/064000/064333.png",
+        "Name_cn": "\u65e5\u6708\u4e4b\u821e",
+        "Name_de": "Sonne-und-Mond-Tanz",
+        "Name_en": "Moonlift Dance",
+        "Name_fr": "Danse du soleil et de la lune",
+        "Name_ja": "\u592a\u967d\u3068\u6708\u306e\u821e",
+        "Name_ko": "\ud0dc\uc591\uacfc \ub2ec\uc758 \ucda4"
+    },
+    "146": {
+        "0xID": "92",
+        "Icon": "ui/icon/064000/064334.png",
+        "Name_cn": "\u8868\u8fbe\u7231\u610f",
+        "Name_de": "Kussregen",
+        "Name_en": "Dote",
+        "Name_fr": "Exprimer son amour",
+        "Name_ja": "\u611b\u3092\u8868\u73fe\u3059\u308b",
+        "Name_ko": "\uc560\uc815 \ud45c\ud604"
+    },
+    "147": {
+        "0xID": "93",
+        "Icon": "",
+        "Name_cn": "\u8868\u8fbe\u7231\u610f",
+        "Name_de": "Kussregen",
+        "Name_en": "Dote",
+        "Name_fr": "Exprimer son amour",
+        "Name_ja": "\u611b\u3092\u8868\u73fe\u3059\u308b",
+        "Name_ko": "\uc560\uc815 \ud45c\ud604"
+    },
+    "148": {
+        "0xID": "94",
+        "Icon": "ui/icon/064000/064335.png",
+        "Name_cn": "\u6258\u773c\u955c",
+        "Name_de": "Brille",
+        "Name_en": "Spectacles",
+        "Name_fr": "Ajuster ses lunettes",
+        "Name_ja": "\u773c\u93e1\u3092\u6b63\u3059",
+        "Name_ko": "\uc548\uacbd \uace0\uccd0\uc4f0\uae30"
+    },
+    "149": {
+        "0xID": "95",
+        "Icon": "ui/icon/064000/064336.png",
+        "Name_cn": "\u5c0f\u9ec4\u83ba\u4e4b\u821e",
+        "Name_de": "Singdrossel",
+        "Name_en": "Songbird",
+        "Name_fr": "Danse des \u00c9glantines",
+        "Name_ja": "\u6b4c\u59eb\u3092\u771f\u4f3c\u308b",
+        "Name_ko": "\uac00\ud76c \ub530\ub77c\ud558\uae30"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/064000/064015.png",
+        "Name_cn": "\u9053\u522b",
+        "Name_de": "Tsch\u00fcs",
+        "Name_en": "Goodbye",
+        "Name_fr": "Au revoir",
+        "Name_ja": "\u3055\u3088\u3046\u306a\u3089",
+        "Name_ko": "\uc791\ubcc4 \uc778\uc0ac"
+    },
+    "150": {
+        "0xID": "96",
+        "Icon": "ui/icon/064000/064337.png",
+        "Name_cn": "\u6d6e\u6c34",
+        "Name_de": "Toter Mann",
+        "Name_en": "Water Float",
+        "Name_fr": "Faire la planche",
+        "Name_ja": "\u6c34\u9762\u306b\u6d6e\u304f",
+        "Name_ko": "\uc218\uba74\uc5d0 \ub728\uae30"
+    },
+    "151": {
+        "0xID": "97",
+        "Icon": "ui/icon/064000/064338.png",
+        "Name_cn": "\u6c34\u4e2d\u7ffb\u8ddf\u5934",
+        "Name_de": "Unterwasserrolle",
+        "Name_en": "Water Flip",
+        "Name_fr": "Salto arri\u00e8re aquatique",
+        "Name_ja": "\u6c34\u4e2d\u5b99\u8fd4\u308a",
+        "Name_ko": "\uc218\uc911 \uacf5\uc911\uc81c\ube44"
+    },
+    "152": {
+        "0xID": "98",
+        "Icon": "ui/icon/064000/064120.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u561f\u5634",
+        "Name_de": "Mund kr\u00e4useln",
+        "Name_en": "Pucker Up",
+        "Name_fr": "Bouche en c\u0153ur",
+        "Name_ja": "\u8868\u60c5\uff1a\u53e3\u3092\u3059\u307c\u3081\u308b",
+        "Name_ko": "\uc785\uc220 \ub0b4\ubc00\uae30"
+    },
+    "153": {
+        "0xID": "99",
+        "Icon": "ui/icon/064000/064339.png",
+        "Name_cn": "\u84c4\u529b\u8ff8\u53d1",
+        "Name_de": "Kraft sammeln",
+        "Name_en": "Power Up",
+        "Name_fr": "Concentrer ses forces",
+        "Name_ja": "\u529b\u3092\u9ad8\u3081\u308b",
+        "Name_ko": "\ud798 \ubaa8\uc73c\uae30"
+    },
+    "154": {
+        "0xID": "9A",
+        "Icon": "ui/icon/064000/064340.png",
+        "Name_cn": "\u884c\u4e1c\u65b9\u793c",
+        "Name_de": "Fern\u00f6stliche Verbeugung",
+        "Name_en": "Eastern Bow",
+        "Name_fr": "R\u00e9v\u00e9rence orientale",
+        "Name_ja": "\u6771\u65b9\u98a8\u304a\u8f9e\u5100",
+        "Name_ko": "\ub3d9\ubc29\uc2dd \uc778\uc0ac"
+    },
+    "155": {
+        "0xID": "9B",
+        "Icon": "ui/icon/064000/064341.png",
+        "Name_cn": "\u6df1\u8e72",
+        "Name_de": "Kniebeugen",
+        "Name_en": "Squats",
+        "Name_fr": "Flexions de jambes",
+        "Name_ja": "\u30b9\u30af\u30ef\u30c3\u30c8",
+        "Name_ko": "\uc2a4\ucffc\ud2b8"
+    },
+    "156": {
+        "0xID": "9C",
+        "Icon": "ui/icon/064000/064342.png",
+        "Name_cn": "\u4fef\u5367\u6491",
+        "Name_de": "Liegest\u00fctze",
+        "Name_en": "Push-ups",
+        "Name_fr": "Pompes",
+        "Name_ja": "\u8155\u7acb\u3066\u4f0f\u305b",
+        "Name_ko": "\ud314\uad7d\ud600\ud3b4\uae30"
+    },
+    "157": {
+        "0xID": "9D",
+        "Icon": "ui/icon/064000/064343.png",
+        "Name_cn": "\u4ef0\u5367\u8d77\u5750",
+        "Name_de": "Sit-ups",
+        "Name_en": "Sit-ups",
+        "Name_fr": "Abdos",
+        "Name_ja": "\u8179\u7b4b\u904b\u52d5",
+        "Name_ko": "\uc717\ubab8\uc77c\uc73c\ud0a4\uae30"
+    },
+    "158": {
+        "0xID": "9E",
+        "Icon": "ui/icon/064000/064344.png",
+        "Name_cn": "\u6df1\u547c\u5438",
+        "Name_de": "Atem\u00fcbung",
+        "Name_en": "Breath Control",
+        "Name_fr": "Respiration profonde",
+        "Name_ja": "\u6df1\u547c\u5438",
+        "Name_ko": "\uc2ec\ud638\ud761"
+    },
+    "159": {
+        "0xID": "9F",
+        "Icon": "ui/icon/064000/064345.png",
+        "Name_cn": "\u8bf4\u8bdd",
+        "Name_de": "Erz\u00e4hlen",
+        "Name_en": "Converse",
+        "Name_fr": "Parler",
+        "Name_ja": "\u8a71\u3059",
+        "Name_ko": "\uc774\uc57c\uae30"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/064000/064016.png",
+        "Name_cn": "\u6325\u624b",
+        "Name_de": "Winken",
+        "Name_en": "Wave",
+        "Name_fr": "Signe de la main",
+        "Name_ja": "\u624b\u3092\u632f\u308b",
+        "Name_ko": "\uc190 \ud754\ub4e4\uc5b4 \uc778\uc0ac"
+    },
+    "160": {
+        "0xID": "A0",
+        "Icon": "ui/icon/064000/064121.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u8ba4\u771f",
+        "Name_de": "Ernst",
+        "Name_en": "Concentrate",
+        "Name_fr": "Visage s\u00e9rieux",
+        "Name_ja": "\u8868\u60c5\uff1a\u771f\u5263",
+        "Name_ko": "\uc9c4\uc9c0\ud55c \ud45c\uc815"
+    },
+    "161": {
+        "0xID": "A1",
+        "Icon": "ui/icon/064000/064122.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u56f0\u60d1",
+        "Name_de": "Betr\u00fcbt",
+        "Name_en": "Confused",
+        "Name_fr": "Visage perplexe",
+        "Name_ja": "\u8868\u60c5\uff1a\u56f0\u60d1",
+        "Name_ko": "\ub2f9\ud639\uc2a4\ub7ec\uc6b4 \ud45c\uc815"
+    },
+    "162": {
+        "0xID": "A2",
+        "Icon": "ui/icon/064000/064123.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u67d4\u548c",
+        "Name_de": "Sanftm\u00fctig",
+        "Name_en": "Simper",
+        "Name_fr": "Sourire tendre",
+        "Name_ja": "\u8868\u60c5\uff1a\u67d4\u548c",
+        "Name_ko": "\uc628\ud654\ud55c \ud45c\uc815"
+    },
+    "163": {
+        "0xID": "A3",
+        "Icon": "ui/icon/064000/064124.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u6ee1\u8db3",
+        "Name_de": "Zufrieden",
+        "Name_en": "Beam",
+        "Name_fr": "Visage satisfait",
+        "Name_ja": "\u8868\u60c5\uff1a\u6e80\u8db3",
+        "Name_ko": "\ub9cc\uc871\uc2a4\ub7ec\uc6b4 \ud45c\uc815"
+    },
+    "164": {
+        "0xID": "A4",
+        "Icon": "ui/icon/064000/064346.png",
+        "Name_cn": "\u7acb\u6b63",
+        "Name_de": "Habachtstellung",
+        "Name_en": "Attention",
+        "Name_fr": "Garde-\u00e0-vous",
+        "Name_ja": "\u6c17\u3092\u3064\u3051",
+        "Name_ko": "\ucc28\ub824"
+    },
+    "165": {
+        "0xID": "A5",
+        "Icon": "ui/icon/064000/064347.png",
+        "Name_cn": "\u7a0d\u606f",
+        "Name_de": "R\u00fchren",
+        "Name_en": "At Ease",
+        "Name_fr": "Repos",
+        "Name_ja": "\u4f11\u3081",
+        "Name_ko": "\uc5f4\uc911\uc26c\uc5b4"
+    },
+    "166": {
+        "0xID": "A6",
+        "Icon": "ui/icon/064000/064348.png",
+        "Name_cn": "\u7ec3\u62f3",
+        "Name_de": "Schattenboxen",
+        "Name_en": "Box",
+        "Name_fr": "Boxe",
+        "Name_ja": "\u683c\u95d8\u8a13\u7df4",
+        "Name_ko": "\uaca9\ud22c \ud6c8\ub828"
+    },
+    "167": {
+        "0xID": "A7",
+        "Icon": "ui/icon/064000/064349.png",
+        "Name_cn": "\u795d\u7977",
+        "Name_de": "Beschw\u00f6rung",
+        "Name_en": "Ritual Prayer",
+        "Name_fr": "Pri\u00e8re rituelle",
+        "Name_ja": "\u304a\u307e\u3058\u306a\u3044",
+        "Name_ko": "\uc8fc\uc220\uac78\uae30"
+    },
+    "168": {
+        "0xID": "A8",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "169": {
+        "0xID": "A9",
+        "Icon": "ui/icon/064000/064358.png",
+        "Name_cn": "\u5bb3\u6015",
+        "Name_de": "Vor Angst zittern",
+        "Name_en": "Tremble",
+        "Name_fr": "Trembler de peur",
+        "Name_ja": "\u602f\u3048\u308b",
+        "Name_ko": "\ub35c\ub35c \ub5a8\uae30"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/064000/064017.png",
+        "Name_cn": "\u83ab\u540d",
+        "Name_de": "Tja",
+        "Name_en": "Huh",
+        "Name_fr": "Consterner",
+        "Name_ja": "\u5446\u308c\u308b",
+        "Name_ko": "\uc5b4\uc774\uc5c6\uc74c"
+    },
+    "170": {
+        "0xID": "AA",
+        "Icon": "ui/icon/064000/064359.png",
+        "Name_cn": "\u5355\u819d\u8dea\u5730",
+        "Name_de": "Au\u00dfer Atem",
+        "Name_en": "Winded",
+        "Name_fr": "Genou \u00e0 terre",
+        "Name_ja": "\u819d\u3092\u7a81\u304f",
+        "Name_ko": "\uae30\uc9c4\ub9e5\uc9c4"
+    },
+    "171": {
+        "0xID": "AB",
+        "Icon": "ui/icon/064000/064360.png",
+        "Name_cn": "\u5927\u5403\u4e00\u60ca",
+        "Name_de": "Huch",
+        "Name_en": "Aback",
+        "Name_fr": "Stup\u00e9faction",
+        "Name_ja": "\u4ef0\u5929",
+        "Name_ko": "\ud760\uce6b"
+    },
+    "172": {
+        "0xID": "AC",
+        "Icon": "ui/icon/064000/064361.png",
+        "Name_cn": "\u6253\u62db\u547c",
+        "Name_de": "Salopper Gru\u00df",
+        "Name_en": "Greeting",
+        "Name_fr": "Salut d\u00e9contract\u00e9",
+        "Name_ja": "\u6328\u62f6\u3059\u308b",
+        "Name_ko": "\uac00\ubcbc\uc6b4 \uc778\uc0ac"
+    },
+    "173": {
+        "0xID": "AD",
+        "Icon": "ui/icon/064000/064362.png",
+        "Name_cn": "\u65b9\u5f62\u6b65",
+        "Name_de": "Tanzgrundschritt",
+        "Name_en": "Box Step",
+        "Name_fr": "Pas de base",
+        "Name_ja": "\u30dc\u30c3\u30af\u30b9\u30b9\u30c6\u30c3\u30d7",
+        "Name_ko": "\ubcf5\uc2f1 \uc2a4\ud15d"
+    },
+    "174": {
+        "0xID": "AE",
+        "Icon": "ui/icon/064000/064363.png",
+        "Name_cn": "\u4fa7\u6b65",
+        "Name_de": "Seitw\u00e4rtsschritt",
+        "Name_en": "Side Step",
+        "Name_fr": "Pas de c\u00f4t\u00e9",
+        "Name_ja": "\u30b5\u30a4\u30c9\u30b9\u30c6\u30c3\u30d7",
+        "Name_ko": "\uc0ac\uc774\ub4dc \uc2a4\ud15d"
+    },
+    "175": {
+        "0xID": "AF",
+        "Icon": "ui/icon/064000/064364.png",
+        "Name_cn": "\u7a76\u6781",
+        "Name_de": "Ultima",
+        "Name_en": "Ultima",
+        "Name_fr": "Ultima",
+        "Name_ja": "\u30a2\u30eb\u30c6\u30de",
+        "Name_ko": "\uc54c\ud14c\ub9c8"
+    },
+    "176": {
+        "0xID": "B0",
+        "Icon": "ui/icon/064000/064365.png",
+        "Name_cn": "\u80e1\u9e70\u4e4b\u821e",
+        "Name_de": "Yol-Tanz",
+        "Name_en": "Yol Dance",
+        "Name_fr": "Danse des yols",
+        "Name_ja": "\u30e8\u30eb\u30c0\u30f3\u30b9",
+        "Name_ko": "\uc69c\uc758 \ucda4"
+    },
+    "177": {
+        "0xID": "B1",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "178": {
+        "0xID": "B2",
+        "Icon": "ui/icon/064000/064366.png",
+        "Name_cn": "\u64a9\u6c34",
+        "Name_de": "Wasserschlacht",
+        "Name_en": "Splash",
+        "Name_fr": "\u00c9clabousser",
+        "Name_ja": "\u6c34\u3092\u304b\u3051\u308b",
+        "Name_ko": "\ubb3c \ubfcc\ub9ac\uae30"
+    },
+    "179": {
+        "0xID": "B3",
+        "Icon": "ui/icon/064000/064366.png",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/064000/064018.png",
+        "Name_cn": "\u9ad8\u5174",
+        "Name_de": "Freuen",
+        "Name_en": "Joy",
+        "Name_fr": "Se r\u00e9jouir",
+        "Name_ja": "\u559c\u3076",
+        "Name_ko": "\uae30\uc068"
+    },
+    "180": {
+        "0xID": "B4",
+        "Icon": "ui/icon/064000/064367.png",
+        "Name_cn": "\u597d\u70ed",
+        "Name_de": "Mir ist hei\u00df",
+        "Name_en": "Sweat",
+        "Name_fr": "Transpirer",
+        "Name_ja": "\u6691\u304c\u308b",
+        "Name_ko": "\ub354\uc704"
+    },
+    "181": {
+        "0xID": "B5",
+        "Icon": "ui/icon/064000/064368.png",
+        "Name_cn": "\u597d\u51b7",
+        "Name_de": "Mir ist kalt",
+        "Name_en": "Shiver",
+        "Name_fr": "Grelotter",
+        "Name_ja": "\u5bd2\u304c\u308b",
+        "Name_ko": "\ucd94\uc704"
+    },
+    "182": {
+        "0xID": "B6",
+        "Icon": "ui/icon/064000/064369.png",
+        "Name_cn": "\u8bf4\u660e",
+        "Name_de": "Erkl\u00e4ren",
+        "Name_en": "Elucidate",
+        "Name_fr": "\u00c9lucider",
+        "Name_ja": "\u8aac\u660e",
+        "Name_ko": "\uc124\uba85"
+    },
+    "183": {
+        "0xID": "B7",
+        "Icon": "ui/icon/064000/064129.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u601d\u7d22",
+        "Name_de": "Ahnungslos",
+        "Name_en": "Ponder",
+        "Name_fr": "Visage songeur",
+        "Name_ja": "\u8868\u60c5\uff1a\u7a7a\u60f3",
+        "Name_ko": "\ub534\uc0dd\uac01"
+    },
+    "184": {
+        "0xID": "B8",
+        "Icon": "ui/icon/064000/064130.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u5de6\u98de\u773c",
+        "Name_de": "Zwinkern (links)",
+        "Name_en": "Wink (Left)",
+        "Name_fr": "Clin d'\u0153il gauche",
+        "Name_ja": "\u8868\u60c5\uff1a\u30a6\u30a3\u30f3\u30af\u5de6",
+        "Name_ko": "\uc67c\ub208 \uc719\ud06c"
+    },
+    "185": {
+        "0xID": "B9",
+        "Icon": "ui/icon/064000/064370.png",
+        "Name_cn": "\u5e7b\u60f3\u821e\u6b65",
+        "Name_de": "Funky-Fantasy-Tanz",
+        "Name_en": "Get Fantasy",
+        "Name_fr": "Fantaisie urbaine",
+        "Name_ja": "\u30b2\u30c3\u30c8\u30d5\u30a1\u30f3\u30bf\u30b8\u30fc",
+        "Name_ko": "\uac9f \ud310\ud0c0\uc9c0"
+    },
+    "186": {
+        "0xID": "BA",
+        "Icon": "ui/icon/064000/064371.png",
+        "Name_cn": "\u6ce2\u6ce2\u6258\u6b65",
+        "Name_de": "Toffel-Tanz",
+        "Name_en": "Popoto Step",
+        "Name_fr": "Popping popoto",
+        "Name_ja": "\u30dd\u30dd\u30c8\u30b9\u30c6\u30c3\u30d7",
+        "Name_ko": "\ud3ec\ud3ec\ud1a0 \uc2a4\ud15d"
+    },
+    "187": {
+        "0xID": "BB",
+        "Icon": "ui/icon/064000/064372.png",
+        "Name_cn": "\u54fc\u6b4c",
+        "Name_de": "Summen",
+        "Name_en": "Hum",
+        "Name_fr": "Fredonner",
+        "Name_ja": "\u9f3b\u6b4c",
+        "Name_ko": "\ucf67\ub178\ub798"
+    },
+    "188": {
+        "0xID": "BC",
+        "Icon": "ui/icon/064000/064373.png",
+        "Name_cn": "\u786e\u8ba4",
+        "Name_de": "Vergewissern",
+        "Name_en": "Confirm",
+        "Name_fr": "Confirmer",
+        "Name_ja": "\u78ba\u8a8d",
+        "Name_ko": "\ud655\uc778"
+    },
+    "189": {
+        "0xID": "BD",
+        "Icon": "ui/icon/064000/064374.png",
+        "Name_cn": "\u8bf4\u660e\u8ba1\u5212",
+        "Name_de": "Plan erl\u00e4utern",
+        "Name_en": "Scheme",
+        "Name_fr": "Expliquer son plan",
+        "Name_ja": "\u4f01\u307f\u3092\u8a71\u3059",
+        "Name_ko": "\uacc4\ub7b5"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/064000/064019.png",
+        "Name_cn": "\u4e0b\u8dea",
+        "Name_de": "Knien",
+        "Name_en": "Kneel",
+        "Name_fr": "S'agenouiller",
+        "Name_ja": "\u3072\u3056\u307e\u305a\u304f",
+        "Name_ko": "\ubb34\ub98e \uafc7\uae30"
+    },
+    "190": {
+        "0xID": "BE",
+        "Icon": "ui/icon/064000/064131.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u5fcd\u8010",
+        "Name_de": "Z\u00e4hne zusammenbei\u00dfen",
+        "Name_en": "Endure",
+        "Name_fr": "Visage crisp\u00e9",
+        "Name_ja": "\u8868\u60c5\uff1a\u5fcd\u8010",
+        "Name_ko": "\uafb9 \ucc38\ub294 \ud45c\uc815"
+    },
+    "191": {
+        "0xID": "BF",
+        "Icon": "ui/icon/064000/064375.png",
+        "Name_cn": "\u795e\u5178\u77f3",
+        "Name_de": "Allagischer Stein",
+        "Name_en": "Tomestone",
+        "Name_fr": "M\u00e9moquartz",
+        "Name_ja": "\u30c8\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3",
+        "Name_ko": "\uc11d\ud310"
+    },
+    "192": {
+        "0xID": "C0",
+        "Icon": "ui/icon/064000/064376.png",
+        "Name_cn": "\u8dbe\u8e35\u6b65",
+        "Name_de": "Salontanz",
+        "Name_en": "Heel Toe",
+        "Name_fr": "Danse sautillante",
+        "Name_ja": "\u30d2\u30fc\u30eb\u30c8\u30fc",
+        "Name_ko": "\ud790\ud1a0 \uc2a4\ud15d"
+    },
+    "193": {
+        "0xID": "C1",
+        "Icon": "ui/icon/064000/064377.png",
+        "Name_cn": "\u53e4\u83e9\u6b65",
+        "Name_de": "Goobbue-Poplock",
+        "Name_en": "Goobbue Do",
+        "Name_fr": "Danse festive du goobbue",
+        "Name_ja": "\u30b0\u30a5\u30fc\u30d6\u30fc\u30fb\u30c9\u30a5",
+        "Name_ko": "\uad6c\ubd80\ub450 \ucda4"
+    },
+    "194": {
+        "0xID": "C2",
+        "Icon": "ui/icon/064000/064378.png",
+        "Name_cn": "\u5fc3\u610f",
+        "Name_de": "Spendierhose",
+        "Name_en": "Gratuity",
+        "Name_fr": "Charit\u00e9 chafouine",
+        "Name_ja": "\u5fc3\u3065\u3051",
+        "Name_ko": "\uc0ac\ub840\uae08"
+    },
+    "195": {
+        "0xID": "C3",
+        "Icon": "ui/icon/064000/064379.png",
+        "Name_cn": "\u632f\u4f5c\u7cbe\u795e",
+        "Name_de": "Gewinnerpose",
+        "Name_en": "Fist Pump",
+        "Name_fr": "Poing en l'air",
+        "Name_ja": "\u30ac\u30c3\u30c4\u30dd\u30fc\u30ba",
+        "Name_ko": "\ud798\ucc2c \uc790\ucd95"
+    },
+    "196": {
+        "0xID": "C4",
+        "Icon": "ui/icon/064000/064380.png",
+        "Name_cn": "\u63d0\u9192",
+        "Name_de": "Ermahnen",
+        "Name_en": "Reprimand",
+        "Name_fr": "R\u00e9primander",
+        "Name_ja": "\u6ce8\u610f\u3059\u308b",
+        "Name_ko": "\uafb8\uc9d6\uae30"
+    },
+    "197": {
+        "0xID": "C5",
+        "Icon": "ui/icon/064000/064381.png",
+        "Name_cn": "\u4f18\u96c5\u4ed9\u4eba\u523a",
+        "Name_de": "Se\u00f1or Kaktor",
+        "Name_en": "Senor Sabotender",
+        "Name_fr": "Pas de pampa",
+        "Name_ja": "\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc\u30dd\u30fc\u30ba",
+        "Name_ko": "\uc0ac\ubcf4\ud150\ub354"
+    },
+    "198": {
+        "0xID": "C6",
+        "Icon": "ui/icon/064000/064382.png",
+        "Name_cn": "\u7ec5\u58eb\u821e\u6b65",
+        "Name_de": "Manderville-Mambo",
+        "Name_en": "Manderville Mambo",
+        "Name_fr": "Mambo du gentilhomme",
+        "Name_ja": "\u4e8b\u4ef6\u5c4b\u306e\u30de\u30f3\u30dc",
+        "Name_ko": "\uc0ac\uac74\ud574\uacb0\uc0ac \ub9d8\ubcf4"
+    },
+    "199": {
+        "0xID": "C7",
+        "Icon": "ui/icon/064000/064383.png",
+        "Name_cn": "\u5566\u54e9\u543c",
+        "Name_de": "Holladrio",
+        "Name_en": "Lali-ho",
+        "Name_fr": "Lali-ho",
+        "Name_ja": "\u30e9\u30ea\u30db\u30fc",
+        "Name_ko": "\ub77c\ub9ac\ud638"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/064000/064002.png",
+        "Name_cn": "\u4e0d\u6ee1",
+        "Name_de": "Ver\u00e4rgert",
+        "Name_en": "Angry",
+        "Name_fr": "Se f\u00e2cher",
+        "Name_ja": "\u4e0d\u6e80\u3092\u8868\u3059",
+        "Name_ko": "\ubd88\ub9cc \ud45c\uc2dc"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/064000/064020.png",
+        "Name_cn": "\u8f7b\u7b11",
+        "Name_de": "Lachen",
+        "Name_en": "Chuckle",
+        "Name_fr": "Rire",
+        "Name_ja": "\u7b11\u3046",
+        "Name_ko": "\uc6c3\uae30"
+    },
+    "200": {
+        "0xID": "C8",
+        "Icon": "ui/icon/064000/064384.png",
+        "Name_cn": "\u6b27\u7c73\u8304M\u67b6\u52bf",
+        "Name_de": "Omega-M",
+        "Name_en": "Simulation M",
+        "Name_fr": "Simulation M",
+        "Name_ja": "\u30aa\u30e1\u30acM\u306e\u69cb\u3048",
+        "Name_ko": "\uc624\uba54\uac00 M \uc790\uc138"
+    },
+    "201": {
+        "0xID": "C9",
+        "Icon": "ui/icon/064000/064385.png",
+        "Name_cn": "\u6b27\u7c73\u8304F\u67b6\u52bf",
+        "Name_de": "Omega-F",
+        "Name_en": "Simulation F",
+        "Name_fr": "Simulation F",
+        "Name_ja": "\u30aa\u30e1\u30acF\u306e\u69cb\u3048",
+        "Name_ko": "\uc624\uba54\uac00 F \uc790\uc138"
+    },
+    "202": {
+        "0xID": "CA",
+        "Icon": "ui/icon/064000/064386.png",
+        "Name_cn": "\u5e72\u676f",
+        "Name_de": "Prosit",
+        "Name_en": "Toast",
+        "Name_fr": "Trinquer",
+        "Name_ja": "\u4e7e\u676f\u3059\u308b",
+        "Name_ko": "\uac74\ubc30"
+    },
+    "203": {
+        "0xID": "CB",
+        "Icon": "ui/icon/064000/064388.png",
+        "Name_cn": "\u80cc\u9760",
+        "Name_de": "Anlehnen",
+        "Name_en": "Lean",
+        "Name_fr": "Posture inclin\u00e9e",
+        "Name_ja": "\u659c\u3081\u7acb\u3061",
+        "Name_ko": "\uae30\ub300\uae30"
+    },
+    "204": {
+        "0xID": "CC",
+        "Icon": "ui/icon/064000/064387.png",
+        "Name_cn": "\u5934\u75db",
+        "Name_de": "Kopfschmerz",
+        "Name_en": "Headache",
+        "Name_fr": "Maux de t\u00eate",
+        "Name_ja": "\u982d\u75db",
+        "Name_ko": "\ub450\ud1b5"
+    },
+    "205": {
+        "0xID": "CD",
+        "Icon": "ui/icon/064000/064389.png",
+        "Name_cn": "\u6253\u54cd\u6307",
+        "Name_de": "Fingerschnippen",
+        "Name_en": "Snap",
+        "Name_fr": "Claquer des doigts",
+        "Name_ja": "\u30d5\u30a3\u30f3\u30ac\u30fc\u30b9\u30ca\u30c3\u30d7",
+        "Name_ko": "\ud551\uac70 \uc2a4\ub0c5"
+    },
+    "206": {
+        "0xID": "CE",
+        "Icon": "ui/icon/064000/064390.png",
+        "Name_cn": "\u5403\u9762\u5305",
+        "Name_de": "Brot essen",
+        "Name_en": "Break Fast",
+        "Name_fr": "Manger du pain",
+        "Name_ja": "\u30d1\u30f3\u3092\u98df\u3079\u308b",
+        "Name_ko": "\ube75 \uba39\uae30"
+    },
+    "207": {
+        "0xID": "CF",
+        "Icon": "ui/icon/064000/064391.png",
+        "Name_cn": "\u770b\u4e66",
+        "Name_de": "Buchlekt\u00fcre",
+        "Name_en": "Read",
+        "Name_fr": "Lire un livre",
+        "Name_ja": "\u672c\u3092\u8aad\u3080",
+        "Name_ko": "\ucc45 \uc77d\uae30"
+    },
+    "208": {
+        "0xID": "D0",
+        "Icon": "ui/icon/064000/064393.png",
+        "Name_cn": "\u575a\u6301\u4e3b\u5f20",
+        "Name_de": "Insistieren",
+        "Name_en": "Insist",
+        "Name_fr": "Insister",
+        "Name_ja": "\u4e3b\u5f35\u3059\u308b",
+        "Name_ko": "\uac15\ub825\ud55c \uc8fc\uc7a5"
+    },
+    "209": {
+        "0xID": "D1",
+        "Icon": "ui/icon/064000/064392.png",
+        "Name_cn": "\u7591\u95ee",
+        "Name_de": "Hm",
+        "Name_en": "Consider",
+        "Name_fr": "S'interroger",
+        "Name_ja": "\u7591\u554f\u3092\u62b1\u304f",
+        "Name_ko": "\uc758\ubb38"
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/064000/064021.png",
+        "Name_cn": "\u5927\u7b11",
+        "Name_de": "Totlachen",
+        "Name_en": "Laugh",
+        "Name_fr": "S'esclaffer",
+        "Name_ja": "\u5927\u7b11\u3044\u3059\u308b",
+        "Name_ko": "\ud3ed\uc18c"
+    },
+    "210": {
+        "0xID": "D2",
+        "Icon": "ui/icon/064000/064394.png",
+        "Name_cn": "\u563f\u54df",
+        "Name_de": "Wasshoi",
+        "Name_en": "Wasshoi",
+        "Name_fr": "Oh hisse !",
+        "Name_ja": "\u308f\u3063\u3057\u3087\u3044",
+        "Name_ko": "\uc601\uce58\uae30\uc601\ucc28"
+    },
+    "211": {
+        "0xID": "D3",
+        "Icon": "ui/icon/064000/064395.png",
+        "Name_cn": "\u82b1\u96e8",
+        "Name_de": "Bl\u00fctenregen",
+        "Name_en": "Flower Shower",
+        "Name_fr": "Pluie de p\u00e9tales",
+        "Name_ja": "\u30d5\u30e9\u30ef\u30fc\u30b7\u30e3\u30ef\u30fc",
+        "Name_ko": "\uaf43\ube44"
+    },
+    "212": {
+        "0xID": "D4",
+        "Icon": "ui/icon/064000/064396.png",
+        "Name_cn": "\u706b\u7130\u4e4b\u821e",
+        "Name_de": "Flammentanz",
+        "Name_en": "Flame Dance",
+        "Name_fr": "Danse des flammes",
+        "Name_ja": "\u30d5\u30ec\u30a4\u30e0\u30c0\u30f3\u30b9",
+        "Name_ko": "\ubd88\uaf43\ucda4"
+    },
+    "213": {
+        "0xID": "D5",
+        "Icon": "ui/icon/064000/064397.png",
+        "Name_cn": "\u51fb\u638c",
+        "Name_de": "Schlag ein",
+        "Name_en": "High Five",
+        "Name_fr": "Tope l\u00e0",
+        "Name_ja": "\u30cf\u30a4\u30bf\u30c3\u30c1",
+        "Name_ko": "\ud558\uc774\ud30c\uc774\ube0c"
+    },
+    "214": {
+        "0xID": "D6",
+        "Icon": "ui/icon/064000/064398.png",
+        "Name_cn": "\u5de1\u89c6",
+        "Name_de": "Wachsam",
+        "Name_en": "Guard",
+        "Name_fr": "Monter la garde",
+        "Name_ja": "\u8b66\u5099\u3059\u308b",
+        "Name_ko": "\uacbd\ube44"
+    },
+    "215": {
+        "0xID": "D7",
+        "Icon": "ui/icon/064000/064399.png",
+        "Name_cn": "\u8bc5\u5492",
+        "Name_de": "Fluch",
+        "Name_en": "Malevolence",
+        "Name_fr": "Pose de l'occultiste",
+        "Name_ja": "\u546a\u3046",
+        "Name_ko": "\uc800\uc8fc"
+    },
+    "216": {
+        "0xID": "D8",
+        "Icon": "ui/icon/064000/064400.png",
+        "Name_cn": "\u871c\u8702\u4e4b\u821e",
+        "Name_de": "Bienen-Swing",
+        "Name_en": "Bee's Knees",
+        "Name_fr": "Danse des abeilles",
+        "Name_ja": "\u30d3\u30fc\u30b9\u30c6\u30c3\u30d7",
+        "Name_ko": "\uafc0\ubc8c \uc2a4\ud15d"
+    },
+    "217": {
+        "0xID": "D9",
+        "Icon": "ui/icon/064000/064401.png",
+        "Name_cn": "\u5566\u54e9\u543c\u821e",
+        "Name_de": "Holladrihopsasa",
+        "Name_en": "Lali Hop",
+        "Name_fr": "Lali-hop",
+        "Name_ja": "\u30e9\u30ea\u30db\u30c3\u30d7",
+        "Name_ko": "\ub77c\ub9ac\ud649"
+    },
+    "218": {
+        "0xID": "DA",
+        "Icon": "",
+        "Name_cn": "\u6539\u53d8\u59ff\u52bf",
+        "Name_de": "Pose \u00e4ndern",
+        "Name_en": "Change Pose",
+        "Name_fr": "Changer de pose",
+        "Name_ja": "\u30dd\u30fc\u30ba\u3092\u5909\u3048\u308b",
+        "Name_ko": "\uc790\uc138 \ubcc0\uacbd"
+    },
+    "219": {
+        "0xID": "DB",
+        "Icon": "",
+        "Name_cn": "\u6539\u53d8\u59ff\u52bf",
+        "Name_de": "Pose \u00e4ndern",
+        "Name_en": "Change Pose",
+        "Name_fr": "Changer de pose",
+        "Name_ja": "\u30dd\u30fc\u30ba\u3092\u5909\u3048\u308b",
+        "Name_ko": "\uc790\uc138 \ubcc0\uacbd"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/064000/064022.png",
+        "Name_cn": "\u5f20\u671b",
+        "Name_de": "Sp\u00e4hen",
+        "Name_en": "Lookout",
+        "Name_fr": "Scruter",
+        "Name_ja": "\u898b\u308f\u305f\u3059",
+        "Name_ko": "\uc8fc\uc704 \ub458\ub7ec\ubcf4\uae30"
+    },
+    "220": {
+        "0xID": "DC",
+        "Icon": "ui/icon/064000/064402.png",
+        "Name_cn": "\u5403\u996d\u56e2",
+        "Name_de": "Onigiri essen",
+        "Name_en": "Eat Rice Ball",
+        "Name_fr": "Manger un onigiri",
+        "Name_ja": "\u304a\u306b\u304e\u308a\u3092\u98df\u3079\u308b",
+        "Name_ko": "\uc8fc\uba39\ubc25 \uba39\uae30"
+    },
+    "221": {
+        "0xID": "DD",
+        "Icon": "ui/icon/064000/064403.png",
+        "Name_cn": "\u5403\u82f9\u679c",
+        "Name_de": "Apfel essen",
+        "Name_en": "Eat Apple",
+        "Name_fr": "Manger une pomme",
+        "Name_ja": "\u30ea\u30f3\u30b4\u3092\u98df\u3079\u308b",
+        "Name_ko": "\uc0ac\uacfc \uba39\uae30"
+    },
+    "222": {
+        "0xID": "DE",
+        "Icon": "ui/icon/064000/064404.png",
+        "Name_cn": "\u6413\u624b",
+        "Name_de": "H\u00e4ndereiben",
+        "Name_en": "Wring Hands",
+        "Name_fr": "Se frotter les mains",
+        "Name_ja": "\u3082\u307f\u624b\u3092\u3059\u308b",
+        "Name_ko": "\uc544\ucca8"
+    },
+    "223": {
+        "0xID": "DF",
+        "Icon": "ui/icon/064000/064405.png",
+        "Name_cn": "\u626b\u5730",
+        "Name_de": "Kehren",
+        "Name_en": "Sweep Up",
+        "Name_fr": "Balayer",
+        "Name_ja": "\u30db\u30a6\u30ad\u3067\u6383\u304f",
+        "Name_ko": "\ube57\uc790\ub8e8\uc9c8"
+    },
+    "224": {
+        "0xID": "E0",
+        "Icon": "ui/icon/064000/064406.png",
+        "Name_cn": "\u9ed1\u8272\u9646\u884c\u9e1f\u4e4b\u7b14",
+        "Name_de": "Pinselstrich: Schwarz",
+        "Name_en": "Paint It Black",
+        "Name_fr": "Pinceau chocobo : noir",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u306e\u7b46\uff1a\u9ed2",
+        "Name_ko": "\uac80\uc740\uc0c9 \ucd08\ucf54\ubcf4 \ubd93"
+    },
+    "225": {
+        "0xID": "E1",
+        "Icon": "ui/icon/064000/064407.png",
+        "Name_cn": "\u7ea2\u8272\u9646\u884c\u9e1f\u4e4b\u7b14",
+        "Name_de": "Pinselstrich: Rot",
+        "Name_en": "Paint It Red",
+        "Name_fr": "Pinceau chocobo : rouge",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u306e\u7b46\uff1a\u8d64",
+        "Name_ko": "\ube68\uac04\uc0c9 \ucd08\ucf54\ubcf4 \ubd93"
+    },
+    "226": {
+        "0xID": "E2",
+        "Icon": "ui/icon/064000/064408.png",
+        "Name_cn": "\u9ec4\u8272\u9646\u884c\u9e1f\u4e4b\u7b14",
+        "Name_de": "Pinselstrich: Gelb",
+        "Name_en": "Paint It Yellow",
+        "Name_fr": "Pinceau chocobo : jaune",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u306e\u7b46\uff1a\u9ec4",
+        "Name_ko": "\ub178\ub780\uc0c9 \ucd08\ucf54\ubcf4 \ubd93"
+    },
+    "227": {
+        "0xID": "E3",
+        "Icon": "ui/icon/064000/064409.png",
+        "Name_cn": "\u84dd\u8272\u9646\u884c\u9e1f\u4e4b\u7b14",
+        "Name_de": "Pinselstrich: Blau",
+        "Name_en": "Paint It Blue",
+        "Name_fr": "Pinceau chocobo : bleu",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u306e\u7b46\uff1a\u9752",
+        "Name_ko": "\ud30c\ub780\uc0c9 \ucd08\ucf54\ubcf4 \ubd93"
+    },
+    "228": {
+        "0xID": "E4",
+        "Icon": "ui/icon/064000/064132.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u5047\u7b11",
+        "Name_de": "Aufgesetztes L\u00e4cheln",
+        "Name_en": "Fake Smile",
+        "Name_fr": "Sourire forc\u00e9",
+        "Name_ja": "\u8868\u60c5\uff1a\u4f5c\u308a\u7b11\u3044",
+        "Name_ko": "\uafb8\uba70\ub0b8 \uc6c3\uc74c"
+    },
+    "229": {
+        "0xID": "E5",
+        "Icon": "ui/icon/064000/064410.png",
+        "Name_cn": "\u9ed8\u5267",
+        "Name_de": "Pantomime",
+        "Name_en": "Pantomime",
+        "Name_fr": "Pantomime",
+        "Name_ja": "\u30d1\u30f3\u30c8\u30de\u30a4\u30e0",
+        "Name_ko": "\ubb34\uc5b8\uadf9"
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "ui/icon/064000/064023.png",
+        "Name_cn": "\u5c55\u793a",
+        "Name_de": "Ich",
+        "Name_en": "Me",
+        "Name_fr": "Moi",
+        "Name_ja": "\u30a2\u30d4\u30fc\u30eb",
+        "Name_ko": "\uc790\uc2e0 \uac00\ub9ac\ud0a4\uae30"
+    },
+    "230": {
+        "0xID": "E6",
+        "Icon": "ui/icon/064000/064411.png",
+        "Name_cn": "\u56f0\u60d1",
+        "Name_de": "Gr\u00fcbeln",
+        "Name_en": "Vexed",
+        "Name_fr": "M\u00e9contentement",
+        "Name_ja": "\u56f0\u60d1\u3059\u308b",
+        "Name_ko": "\uc9dc\uc99d"
+    },
+    "231": {
+        "0xID": "E7",
+        "Icon": "ui/icon/064000/064412.png",
+        "Name_cn": "\u5618",
+        "Name_de": "Pst",
+        "Name_en": "Shush",
+        "Name_fr": "Chut",
+        "Name_ja": "\u9759\u5bc2\u3092\u4fc3\u3059",
+        "Name_ko": "\uc27f"
+    },
+    "232": {
+        "0xID": "E8",
+        "Icon": "ui/icon/064000/064413.png",
+        "Name_cn": "\u5403\u62ab\u8428",
+        "Name_de": "Pizza essen",
+        "Name_en": "Eat Pizza",
+        "Name_fr": "Manger une pizza",
+        "Name_ja": "\u30d4\u30b6\u3092\u98df\u3079\u308b",
+        "Name_ko": "\ud53c\uc790 \uba39\uae30"
+    },
+    "233": {
+        "0xID": "E9",
+        "Icon": "ui/icon/064000/064416.png",
+        "Name_cn": "\u62b1\u5934",
+        "Name_de": "An den Kopf fassen",
+        "Name_en": "Clutch Head",
+        "Name_fr": "Se tenir la t\u00eate",
+        "Name_ja": "\u982d\u3092\u62b1\u3048\u308b",
+        "Name_ko": "\uace0\ub1cc"
+    },
+    "234": {
+        "0xID": "EA",
+        "Icon": "ui/icon/064000/064415.png",
+        "Name_cn": "\u5403\u604b\u4eba\u5de7\u514b\u529b",
+        "Name_de": "Schokolade essen",
+        "Name_en": "Eat Chocolate",
+        "Name_fr": "Manger un chocolat",
+        "Name_ja": "\u30f4\u30a1\u30ec\u30f3\u30c6\u30a3\u30aa\u30f3\u30c1\u30e7\u30b3\u3092\u98df\u3079\u308b",
+        "Name_ko": "\ubc1c\ub80c\ud2f0\uc628 \ucd08\ucf5c\ub9bf \uba39\uae30"
+    },
+    "235": {
+        "0xID": "EB",
+        "Icon": "ui/icon/064000/064417.png",
+        "Name_cn": "\u5403\u6c34\u716e\u86cb",
+        "Name_de": "Ei essen",
+        "Name_en": "Eat Egg",
+        "Name_fr": "Manger un \u0153uf dur",
+        "Name_ja": "\u3086\u3067\u5375\u3092\u98df\u3079\u308b",
+        "Name_ko": "\uc0b6\uc740 \ub2ec\uac40 \uba39\uae30"
+    },
+    "236": {
+        "0xID": "EC",
+        "Icon": "ui/icon/064000/064133.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u5e78\u798f",
+        "Name_de": "Gl\u00fcckselig",
+        "Name_en": "Content",
+        "Name_fr": "Visage heureux",
+        "Name_ja": "\u8868\u60c5\uff1a\u5e78\u798f",
+        "Name_ko": "\ud589\ubcf5\ud55c \ud45c\uc815"
+    },
+    "237": {
+        "0xID": "ED",
+        "Icon": "ui/icon/064000/064422.png",
+        "Name_cn": "\u6536\u56de\u6b66\u5668",
+        "Name_de": "Waffe wegstecken",
+        "Name_en": "Sheathe Weapon",
+        "Name_fr": "Ranger son arme",
+        "Name_ja": "\u6b66\u5668\u3092\u53ce\u3081\u308b",
+        "Name_ko": "\ubb34\uae30 \ub123\uae30"
+    },
+    "238": {
+        "0xID": "EE",
+        "Icon": "ui/icon/064000/064423.png",
+        "Name_cn": "\u4eae\u51fa\u6b66\u5668",
+        "Name_de": "Waffe ziehen",
+        "Name_en": "Draw Weapon",
+        "Name_fr": "Sortir son arme",
+        "Name_ja": "\u6b66\u5668\u3092\u69cb\u3048\u308b",
+        "Name_ko": "\ubb34\uae30 \uaebc\ub0b4\uae30"
+    },
+    "239": {
+        "0xID": "EF",
+        "Icon": "ui/icon/064000/064418.png",
+        "Name_cn": "\u996e\u7528\u7ea2\u8336",
+        "Name_de": "Tee trinken",
+        "Name_en": "Drink Tea",
+        "Name_fr": "Boire du th\u00e9",
+        "Name_ja": "\u7d05\u8336\u3092\u98f2\u3080",
+        "Name_ko": "\ud64d\ucc28 \ub9c8\uc2dc\uae30"
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "ui/icon/064000/064024.png",
+        "Name_cn": "\u6447\u5934",
+        "Name_de": "Nein",
+        "Name_en": "No",
+        "Name_fr": "Non",
+        "Name_ja": "\u9996\u3092\u6a2a\u306b\u632f\u308b",
+        "Name_ko": "\uace0\uac1c \uc813\uae30"
+    },
+    "240": {
+        "0xID": "F0",
+        "Icon": "ui/icon/064000/064419.png",
+        "Name_cn": "\u5e72\u52b2\u5341\u8db3",
+        "Name_de": "Entschlossen",
+        "Name_en": "Determined",
+        "Name_fr": "D\u00e9termination",
+        "Name_ja": "\u610f\u6c17\u8fbc\u3080",
+        "Name_ko": "\uc758\uc695"
+    },
+    "241": {
+        "0xID": "F1",
+        "Icon": "ui/icon/064000/064420.png",
+        "Name_cn": "\u5c55\u73b0\u53f3\u4fa7",
+        "Name_de": "Tadaa (rechts)",
+        "Name_en": "Show Right",
+        "Name_fr": "Montrer fi\u00e8rement la droite",
+        "Name_ja": "\u898b\u305b\u3064\u3051\u308b\uff1a\u53f3",
+        "Name_ko": "\uc624\ub978\ucabd \ubcf4\uc5ec\uc8fc\uae30"
+    },
+    "242": {
+        "0xID": "F2",
+        "Icon": "ui/icon/064000/064421.png",
+        "Name_cn": "\u5c55\u73b0\u5de6\u4fa7",
+        "Name_de": "Tadaa (links)",
+        "Name_en": "Show Left",
+        "Name_fr": "Montrer fi\u00e8rement la gauche",
+        "Name_ja": "\u898b\u305b\u3064\u3051\u308b\uff1a\u5de6",
+        "Name_ko": "\uc67c\ucabd \ubcf4\uc5ec\uc8fc\uae30"
+    },
+    "243": {
+        "0xID": "F3",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "244": {
+        "0xID": "F4",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "245": {
+        "0xID": "F5",
+        "Icon": "ui/icon/064000/064424.png",
+        "Name_cn": "\u53db\u9006\u7cbe\u795e",
+        "Name_de": "Verh\u00f6hnen",
+        "Name_en": "Deride",
+        "Name_fr": "Montrer son c\u00f4t\u00e9 rebelle",
+        "Name_ja": "\u53cd\u9aa8\u7cbe\u795e\u3092\u793a\u3059",
+        "Name_ko": "\uc870\ub871\ud558\ub294 \ubab8\uc9d3"
+    },
+    "246": {
+        "0xID": "F6",
+        "Icon": "ui/icon/064000/064425.png",
+        "Name_cn": "\u4e24\u773c\u653e\u5149",
+        "Name_de": "Entz\u00fcckt",
+        "Name_en": "Wow",
+        "Name_fr": "Avoir des \u00e9toiles dans les yeux",
+        "Name_ja": "\u76ee\u3092\u8f1d\u304b\u305b\u308b",
+        "Name_ko": "\ucd08\ub871\ucd08\ub871"
+    },
+    "247": {
+        "0xID": "F7",
+        "Icon": "ui/icon/064000/064414.png",
+        "Name_cn": "\u5403\u5357\u74dc\u66f2\u5947",
+        "Name_de": "K\u00fcrbiskeks essen",
+        "Name_en": "Eat Pumpkin Cookie",
+        "Name_fr": "Manger un biscuit citrouille",
+        "Name_ja": "\u30d1\u30f3\u30d7\u30ad\u30f3\u30af\u30c3\u30ad\u30fc\u3092\u98df\u3079\u308b",
+        "Name_ko": "\ud638\ubc15 \ucfe0\ud0a4 \uba39\uae30"
+    },
+    "248": {
+        "0xID": "F8",
+        "Icon": "ui/icon/064000/064426.png",
+        "Name_cn": "\u89c2\u6218",
+        "Name_de": "Ol\u00e9, ol\u00e9, ol\u00e9, ol\u00e9!",
+        "Name_en": "Spirit",
+        "Name_fr": "Appr\u00e9cier le spectacle",
+        "Name_ja": "\u89b3\u6226\u3059\u308b",
+        "Name_ko": "\uad00\uc804\ud558\uae30"
+    },
+    "249": {
+        "0xID": "F9",
+        "Icon": "",
+        "Name_cn": "\u9b54\u672f",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/064000/064025.png",
+        "Name_cn": "\u5426\u5b9a",
+        "Name_de": "Niemals",
+        "Name_en": "Deny",
+        "Name_fr": "Refuser",
+        "Name_ja": "\u5426\u5b9a\u3059\u308b",
+        "Name_ko": "\ubd80\uc815"
+    },
+    "250": {
+        "0xID": "FA",
+        "Icon": "ui/icon/064000/064428.png",
+        "Name_cn": "\u516c\u4e3b\u4e4b\u821e",
+        "Name_de": "Prinzessinnentanz",
+        "Name_en": "Little Ladies' Dance",
+        "Name_fr": "Danse des princesses",
+        "Name_ja": "\u59eb\u306e\u821e\u8e0a",
+        "Name_ko": ""
+    },
+    "251": {
+        "0xID": "FB",
+        "Icon": "ui/icon/064000/064429.png",
+        "Name_cn": "\u901a\u8baf\u73e0",
+        "Name_de": "Kontaktperle",
+        "Name_en": "Linkpearl",
+        "Name_fr": "Appel via linkperle",
+        "Name_ja": "\u30ea\u30f3\u30af\u30d1\u30fc\u30eb\u901a\u4fe1",
+        "Name_ko": ""
+    },
+    "252": {
+        "0xID": "FC",
+        "Icon": "ui/icon/064000/064430.png",
+        "Name_cn": "",
+        "Name_de": "L\u00f6ffelwackeln",
+        "Name_en": "Ear Wiggle",
+        "Name_fr": "Longues oreilles soyeuses",
+        "Name_ja": "\u304a\u307f\u307f\u30d4\u30b3\u30d4\u30b3",
+        "Name_ko": ""
+    },
+    "253": {
+        "0xID": "FD",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "254": {
+        "0xID": "FE",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "255": {
+        "0xID": "FF",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "256": {
+        "0xID": "100",
+        "Icon": "ui/icon/064000/064431.png",
+        "Name_cn": "\u5413\u552c\u4eba",
+        "Name_de": "Angst und Schrecken",
+        "Name_en": "Frighten",
+        "Name_fr": "Effrayer",
+        "Name_ja": "\u9a5a\u304b\u3059",
+        "Name_ko": ""
+    },
+    "257": {
+        "0xID": "101",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "258": {
+        "0xID": "102",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "259": {
+        "0xID": "103",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/064000/064026.png",
+        "Name_cn": "\u614c\u5f20",
+        "Name_de": "Panik",
+        "Name_en": "Panic",
+        "Name_fr": "Paniquer",
+        "Name_ja": "\u614c\u3066\u308b",
+        "Name_ko": "\ub2f9\ud669"
+    },
+    "260": {
+        "0xID": "104",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "261": {
+        "0xID": "105",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "262": {
+        "0xID": "106",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "263": {
+        "0xID": "107",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "264": {
+        "0xID": "108",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "265": {
+        "0xID": "109",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "266": {
+        "0xID": "10A",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/064000/064027.png",
+        "Name_cn": "\u6307\u5411",
+        "Name_de": "Zeigen",
+        "Name_en": "Point",
+        "Name_fr": "Montrer",
+        "Name_ja": "\u6307\u3055\u3059",
+        "Name_ko": "\uc190\uac00\ub77d\uc73c\ub85c \uac00\ub9ac\ud0a4\uae30"
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/064000/064028.png",
+        "Name_cn": "\u6233\u6307",
+        "Name_de": "Anstupsen",
+        "Name_en": "Poke",
+        "Name_fr": "Toucher",
+        "Name_ja": "\u3064\u3064\u304f",
+        "Name_ko": "\ucfe1\ucfe1 \ucc0c\ub974\uae30"
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/064000/064029.png",
+        "Name_cn": "\u79f0\u8d5e",
+        "Name_de": "Super",
+        "Name_en": "Congratulate",
+        "Name_fr": "F\u00e9liciter",
+        "Name_ja": "\u79f0\u8cdb\u3059\u308b",
+        "Name_ko": "\uce6d\ucc2c"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/064000/064003.png",
+        "Name_cn": "\u6124\u6012",
+        "Name_de": "Zornig",
+        "Name_en": "Furious",
+        "Name_fr": "Furieux",
+        "Name_ja": "\u6012\u308b",
+        "Name_ko": "\ud654\ub0b4\uae30"
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/064000/064030.png",
+        "Name_cn": "\u6fc0\u52b1",
+        "Name_de": "Auf geht's",
+        "Name_en": "Psych",
+        "Name_fr": "Se motiver",
+        "Name_ja": "\u6d3b\u3092\u5165\u308c\u308b",
+        "Name_ko": "\ud798 \ubd88\uc5b4\ub123\uae30"
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/064000/064031.png",
+        "Name_cn": "\u656c\u793c",
+        "Name_de": "Salutieren",
+        "Name_en": "Salute",
+        "Name_fr": "Saluer",
+        "Name_ja": "\u656c\u793c\u3059\u308b",
+        "Name_ko": "\uacbd\ub840"
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/064000/064032.png",
+        "Name_cn": "\u9707\u60ca",
+        "Name_de": "Schockiert",
+        "Name_en": "Shocked",
+        "Name_fr": "Choc",
+        "Name_ja": "\u52d5\u8ee2\u3059\u308b",
+        "Name_ko": "\uae30\uac81"
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/064000/064033.png",
+        "Name_cn": "\u8038\u80a9",
+        "Name_de": "Schultern zucken",
+        "Name_en": "Shrug",
+        "Name_fr": "Hausser les \u00e9paules",
+        "Name_ja": "\u80a9\u3092\u3059\u304f\u3081\u308b",
+        "Name_ko": "\uc5b4\uae68 \uc73c\uc4f1\ud558\uae30"
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/064000/064034.png",
+        "Name_cn": "\u9f13\u52b1",
+        "Name_de": "Aufmuntern",
+        "Name_en": "Rally",
+        "Name_fr": "Stimuler",
+        "Name_ja": "\u52b1\u307e\u3059",
+        "Name_ko": "\uaca9\ub824"
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/064000/064035.png",
+        "Name_cn": "\u5b89\u629a",
+        "Name_de": "Beruhigen",
+        "Name_en": "Soothe",
+        "Name_fr": "Apaiser",
+        "Name_ja": "\u306a\u3060\u3081\u308b",
+        "Name_ko": "\uc9c4\uc815\uc2dc\ud0a4\uae30"
+    },
+    "36": {
+        "0xID": "24",
+        "Icon": "ui/icon/064000/064036.png",
+        "Name_cn": "\u8ff7\u7cca",
+        "Name_de": "Taumeln",
+        "Name_en": "Stagger",
+        "Name_fr": "Tituber",
+        "Name_ja": "\u3088\u308d\u3081\u304f",
+        "Name_ko": "\ube44\ud2c0\uac70\ub9ac\uae30"
+    },
+    "37": {
+        "0xID": "25",
+        "Icon": "ui/icon/064000/064037.png",
+        "Name_cn": "\u4f38\u5c55",
+        "Name_de": "Sich strecken",
+        "Name_en": "Stretch",
+        "Name_fr": "S'\u00e9tirer",
+        "Name_ja": "\u4f38\u3073\u3092\u3059\u308b",
+        "Name_ko": "\uae30\uc9c0\uac1c \ucf1c\uae30"
+    },
+    "38": {
+        "0xID": "26",
+        "Icon": "ui/icon/064000/064038.png",
+        "Name_cn": "\u6120\u6012",
+        "Name_de": "Schmollen",
+        "Name_en": "Sulk",
+        "Name_fr": "Bouder",
+        "Name_ja": "\u3059\u306d\u308b",
+        "Name_ko": "\uc090\uce58\uae30"
+    },
+    "39": {
+        "0xID": "27",
+        "Icon": "ui/icon/064000/064039.png",
+        "Name_cn": "\u601d\u8003",
+        "Name_de": "Denken",
+        "Name_en": "Think",
+        "Name_fr": "Penser",
+        "Name_ja": "\u8003\u3048\u308b",
+        "Name_ko": "\uc0dd\uac01\uc5d0 \uc7a0\uae30\uae30"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/064000/064004.png",
+        "Name_cn": "\u5bb3\u7f9e",
+        "Name_de": "Err\u00f6ten",
+        "Name_en": "Blush",
+        "Name_fr": "Rougir",
+        "Name_ja": "\u7167\u308c\u308b",
+        "Name_ko": "\uc218\uc90d\uc5b4\ud558\uae30"
+    },
+    "40": {
+        "0xID": "28",
+        "Icon": "ui/icon/064000/064040.png",
+        "Name_cn": "\u5931\u671b",
+        "Name_de": "Na toll",
+        "Name_en": "Upset",
+        "Name_fr": "D\u00e9ception",
+        "Name_ja": "\u304c\u3063\u304b\u308a\u3059\u308b",
+        "Name_ko": "\uc2e4\ub9dd"
+    },
+    "41": {
+        "0xID": "29",
+        "Icon": "ui/icon/064000/064041.png",
+        "Name_cn": "\u6b22\u8fce",
+        "Name_de": "Willkommen",
+        "Name_en": "Welcome",
+        "Name_fr": "Accueillir",
+        "Name_ja": "\u6b53\u8fce\u3059\u308b",
+        "Name_ko": "\ud658\uc601"
+    },
+    "42": {
+        "0xID": "2A",
+        "Icon": "ui/icon/064000/064042.png",
+        "Name_cn": "\u70b9\u5934",
+        "Name_de": "Ja",
+        "Name_en": "Yes",
+        "Name_fr": "Oui",
+        "Name_ja": "\u3046\u306a\u305a\u304f",
+        "Name_ko": "\uace0\uac1c \ub044\ub355\uc774\uae30"
+    },
+    "43": {
+        "0xID": "2B",
+        "Icon": "ui/icon/064000/064043.png",
+        "Name_cn": "\u80af\u5b9a",
+        "Name_de": "Jawohl",
+        "Name_en": "Thumbs Up",
+        "Name_fr": "Accord",
+        "Name_ja": "\u80af\u5b9a\u3059\u308b",
+        "Name_ko": "\uc5c4\uc9c0 \uc138\uc6b0\uae30"
+    },
+    "44": {
+        "0xID": "2C",
+        "Icon": "ui/icon/064000/064044.png",
+        "Name_cn": "\u81ea\u89c6",
+        "Name_de": "Sich betrachten",
+        "Name_en": "Examine Self",
+        "Name_fr": "Se regarder",
+        "Name_ja": "\u81ea\u5206\u3092\u898b\u308b",
+        "Name_ko": "\uc790\uae30 \ubaa8\uc2b5 \ud655\uc778"
+    },
+    "45": {
+        "0xID": "2D",
+        "Icon": "ui/icon/064000/064045.png",
+        "Name_cn": "\u6446\u9020\u578b",
+        "Name_de": "Posieren",
+        "Name_en": "Pose",
+        "Name_fr": "Poser",
+        "Name_ja": "\u30dd\u30fc\u30ba\u3092\u3068\u308b",
+        "Name_ko": "\uba4b\uc9c4 \uc790\uc138 \ucde8\ud558\uae30"
+    },
+    "46": {
+        "0xID": "2E",
+        "Icon": "ui/icon/064000/064049.png",
+        "Name_cn": "\u98de\u543b",
+        "Name_de": "Kusshand",
+        "Name_en": "Blow Kiss",
+        "Name_fr": "Envoyer un baiser",
+        "Name_ja": "\u6295\u3052\u30ad\u30c3\u30b9",
+        "Name_ko": "\uc190\ud0a4\uc2a4 \ub0a0\ub9ac\uae30"
+    },
+    "47": {
+        "0xID": "2F",
+        "Icon": "ui/icon/064000/064051.png",
+        "Name_cn": "\u4e0b\u8dea\u8ba4\u9519",
+        "Name_de": "Dem\u00fctig",
+        "Name_en": "Grovel",
+        "Name_fr": "Se prosterner",
+        "Name_ja": "\u571f\u4e0b\u5ea7",
+        "Name_ko": "\ubb34\ub98e \uafc7\uace0 \uc0ac\uc8c4"
+    },
+    "48": {
+        "0xID": "30",
+        "Icon": "ui/icon/064000/064052.png",
+        "Name_cn": "\u6b23\u559c\u82e5\u72c2",
+        "Name_de": "Freudentaumel",
+        "Name_en": "Happy",
+        "Name_fr": "Jubiler",
+        "Name_ja": "\u3059\u3054\u304f\u559c\u3076",
+        "Name_ko": "\ud589\ubcf5"
+    },
+    "49": {
+        "0xID": "31",
+        "Icon": "ui/icon/064000/064053.png",
+        "Name_cn": "\u5927\u5931\u6240\u671b",
+        "Name_de": "Vernichtet",
+        "Name_en": "Disappointed",
+        "Name_fr": "D\u00e9sesp\u00e9rer",
+        "Name_ja": "\u3059\u3054\u304f\u304c\u3063\u304b\u308a\u3059\u308b",
+        "Name_ko": "\uc88c\uc808"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/064000/064005.png",
+        "Name_cn": "\u884c\u793c",
+        "Name_de": "Verbeugen",
+        "Name_en": "Bow",
+        "Name_fr": "S'incliner",
+        "Name_ja": "\u304a\u8f9e\u5100\u3059\u308b",
+        "Name_ko": "\uacf5\uc190\ud558\uac8c \uc778\uc0ac"
+    },
+    "50": {
+        "0xID": "32",
+        "Icon": "ui/icon/064000/064056.png",
+        "Name_cn": "\u5750\u4e0b",
+        "Name_de": "Sitzen",
+        "Name_en": "Sit",
+        "Name_fr": "S'asseoir",
+        "Name_ja": "\u5ea7\u308b",
+        "Name_ko": "\uc549\uae30"
+    },
+    "51": {
+        "0xID": "33",
+        "Icon": "ui/icon/064000/064054.png",
+        "Name_cn": "\u8d77\u8eab",
+        "Name_de": "Aufstehen",
+        "Name_en": "Stand Up",
+        "Name_fr": "Se lever",
+        "Name_ja": "\u7acb\u3061\u4e0a\u304c\u308b",
+        "Name_ko": "\uc11c\uae30"
+    },
+    "52": {
+        "0xID": "34",
+        "Icon": "ui/icon/064000/064054.png",
+        "Name_cn": "\u5750\u4e0b\u5230\u5730\u4e0a",
+        "Name_de": "Auf Boden setzen",
+        "Name_en": "Sit on Ground",
+        "Name_fr": "S'asseoir par terre",
+        "Name_ja": "\u5730\u9762\u306b\u5ea7\u308b",
+        "Name_ko": "\ubc14\ub2e5\uc5d0 \uc549\uae30"
+    },
+    "53": {
+        "0xID": "35",
+        "Icon": "ui/icon/064000/064054.png",
+        "Name_cn": "\u8d77\u8eab",
+        "Name_de": "Aufstehen",
+        "Name_en": "Stand Up",
+        "Name_fr": "Se lever",
+        "Name_ja": "\u7acb\u3061\u4e0a\u304c\u308b",
+        "Name_ko": "\uc11c\uae30"
+    },
+    "54": {
+        "0xID": "36",
+        "Icon": "ui/icon/064000/064063.png",
+        "Name_cn": "\u5f15\u7528",
+        "Name_de": "Ironisch",
+        "Name_en": "Air Quotes",
+        "Name_fr": "Guillemets",
+        "Name_ja": "\u5f15\u7528",
+        "Name_ko": "\uac15\uc870"
+    },
+    "55": {
+        "0xID": "37",
+        "Icon": "ui/icon/064000/064046.png",
+        "Name_cn": "\u9ed1\u6da1\u56e2\u519b\u793c",
+        "Name_de": "Mahlstrom-Salut",
+        "Name_en": "Storm Salute",
+        "Name_fr": "Salut du Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3\u30fb\u656c\u793c",
+        "Name_ko": "\ud751\uc640\ub2e8\uc2dd \uacbd\ub840"
+    },
+    "56": {
+        "0xID": "38",
+        "Icon": "ui/icon/064000/064047.png",
+        "Name_cn": "\u53cc\u86c7\u515a\u519b\u793c",
+        "Name_de": "Bruderschafts-Salut",
+        "Name_en": "Serpent Salute",
+        "Name_fr": "Salut des Deux Vip\u00e8res",
+        "Name_ja": "\u53cc\u86c7\u515a\u30fb\u656c\u793c",
+        "Name_ko": "\uc30d\uc0ac\ub2f9\uc2dd \uacbd\ub840"
+    },
+    "57": {
+        "0xID": "39",
+        "Icon": "ui/icon/064000/064048.png",
+        "Name_cn": "\u6052\u8f89\u961f\u519b\u793c",
+        "Name_de": "Legions-Salut",
+        "Name_en": "Flame Salute",
+        "Name_fr": "Salut des Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a\u30fb\u656c\u793c",
+        "Name_ko": "\ubd88\uba78\ub300\uc2dd \uacbd\ub840"
+    },
+    "58": {
+        "0xID": "3A",
+        "Icon": "ui/icon/064000/064064.png",
+        "Name_cn": "\u7948\u7977",
+        "Name_de": "Beten",
+        "Name_en": "Pray",
+        "Name_fr": "Prier",
+        "Name_ja": "\u7948\u308b",
+        "Name_ko": "\uae30\ub3c4\ud558\uae30"
+    },
+    "59": {
+        "0xID": "3B",
+        "Icon": "ui/icon/064000/064066.png",
+        "Name_cn": "\u5e1d\u56fd\u5f0f\u519b\u793c",
+        "Name_de": "Garleischer Salut",
+        "Name_en": "Imperial Salute",
+        "Name_fr": "Salut imp\u00e9rial",
+        "Name_ja": "\u5e1d\u56fd\u5f0f\u656c\u793c",
+        "Name_ko": "\uc81c\uad6d\uc2dd \uacbd\ub840"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/064000/064006.png",
+        "Name_cn": "\u52a0\u6cb9",
+        "Name_de": "Anfeuern",
+        "Name_en": "Cheer",
+        "Name_fr": "Encourager",
+        "Name_ja": "\u5fdc\u63f4\u3059\u308b",
+        "Name_ko": "\uc751\uc6d0"
+    },
+    "60": {
+        "0xID": "3C",
+        "Icon": "ui/icon/064000/064065.png",
+        "Name_cn": "\u5934\u90e8\u88c5\u5907\u64cd\u4f5c",
+        "Name_de": "Visier",
+        "Name_en": "Visor",
+        "Name_fr": "Visi\u00e8re",
+        "Name_ja": "\u982d\u88c5\u5099\u306e\u64cd\u4f5c",
+        "Name_ko": "\uba38\ub9ac \uc7a5\ube44 \uc870\uc791"
+    },
+    "61": {
+        "0xID": "3D",
+        "Icon": "ui/icon/064000/064065.png",
+        "Name_cn": "\u5934\u90e8\u88c5\u5907\u64cd\u4f5c",
+        "Name_de": "Visier",
+        "Name_en": "Visor",
+        "Name_fr": "Visi\u00e8re",
+        "Name_ja": "\u982d\u88c5\u5099\u306e\u64cd\u4f5c",
+        "Name_ko": "\uba38\ub9ac \uc7a5\ube44 \uc870\uc791"
+    },
+    "62": {
+        "0xID": "3E",
+        "Icon": "ui/icon/064000/064352.png",
+        "Name_cn": "\u767e\u4e07\u6838\u7206",
+        "Name_de": "Megaflare",
+        "Name_en": "Megaflare",
+        "Name_fr": "M\u00e9gaBrasier",
+        "Name_ja": "\u30e1\u30ac\u30d5\u30ec\u30a2",
+        "Name_ko": "\uba54\uac00\ud50c\ub808\uc5b4"
+    },
+    "63": {
+        "0xID": "3F",
+        "Icon": "ui/icon/064000/064353.png",
+        "Name_cn": "\u7ec3\u6b66",
+        "Name_de": "Purpurlotos",
+        "Name_en": "Crimson Lotus",
+        "Name_fr": "Chor\u00e9graphie martiale",
+        "Name_ja": "\u6f14\u821e",
+        "Name_ko": "\uc5f0\ubb34"
+    },
+    "64": {
+        "0xID": "40",
+        "Icon": "ui/icon/064000/064354.png",
+        "Name_cn": "\u9b45\u60d1\u62e5\u62b1",
+        "Name_de": "Lockende Umarmung",
+        "Name_en": "Charmed",
+        "Name_fr": "Tomber sous le charme",
+        "Name_ja": "\u9b45\u60d1\u306e\u62b1\u64c1",
+        "Name_ko": "\ub9e4\ud639\uc801\uc778 \ud3ec\uc639"
+    },
+    "65": {
+        "0xID": "41",
+        "Icon": "ui/icon/064000/064355.png",
+        "Name_cn": "\u58f0\u63f4\u5c0f\u84dd",
+        "Name_de": "Anfeuern (blau)",
+        "Name_en": "Cheer On",
+        "Name_fr": "Encourager (bleu)",
+        "Name_ja": "\u58f0\u63f4\uff1a\u9752",
+        "Name_ko": "\ud30c\ub780 \uc751\uc6d0\ubd09"
+    },
+    "66": {
+        "0xID": "42",
+        "Icon": "ui/icon/064000/064356.png",
+        "Name_cn": "\u58f0\u63f4\u5c0f\u9ec4",
+        "Name_de": "Anfeuern (gelb)",
+        "Name_en": "Cheer Wave",
+        "Name_fr": "Encourager (jaune)",
+        "Name_ja": "\u58f0\u63f4\uff1a\u9ec4",
+        "Name_ko": "\ub178\ub780 \uc751\uc6d0\ubd09"
+    },
+    "67": {
+        "0xID": "43",
+        "Icon": "ui/icon/064000/064357.png",
+        "Name_cn": "\u58f0\u63f4\u5c0f\u7ea2",
+        "Name_de": "Anfeuern (rot)",
+        "Name_en": "Cheer Jump",
+        "Name_fr": "Encourager (rouge)",
+        "Name_ja": "\u58f0\u63f4\uff1a\u8d64",
+        "Name_ko": "\ube68\uac04 \uc751\uc6d0\ubd09"
+    },
+    "68": {
+        "0xID": "44",
+        "Icon": "ui/icon/064000/064101.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u5e73\u5e38",
+        "Name_de": "Neutrale Miene",
+        "Name_en": "Straight Face",
+        "Name_fr": "Visage normal",
+        "Name_ja": "\u8868\u60c5\uff1a\u7d20\u9854",
+        "Name_ko": "\uc815\uc0c9"
+    },
+    "69": {
+        "0xID": "45",
+        "Icon": "ui/icon/064000/064102.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u5fae\u7b11",
+        "Name_de": "L\u00e4chelnd",
+        "Name_en": "Smile",
+        "Name_fr": "Visage souriant",
+        "Name_ja": "\u8868\u60c5\uff1a\u5fae\u7b11",
+        "Name_ko": "\ubbf8\uc18c \uc9d3\uae30"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/064000/064007.png",
+        "Name_cn": "\u62cd\u624b",
+        "Name_de": "Klatschen",
+        "Name_en": "Clap",
+        "Name_fr": "Applaudir",
+        "Name_ja": "\u62cd\u624b\u3059\u308b",
+        "Name_ko": "\ubc15\uc218"
+    },
+    "70": {
+        "0xID": "46",
+        "Icon": "ui/icon/064000/064103.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u7b11\u989c",
+        "Name_de": "Grinsend",
+        "Name_en": "Grin",
+        "Name_fr": "Visage radieux",
+        "Name_ja": "\u8868\u60c5\uff1a\u7b11\u9854",
+        "Name_ko": "\uc6c3\ub294 \uc5bc\uad74"
+    },
+    "71": {
+        "0xID": "47",
+        "Icon": "ui/icon/064000/064104.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u81ea\u4fe1",
+        "Name_de": "Zuversichtlich",
+        "Name_en": "Smirk",
+        "Name_fr": "Visage confiant",
+        "Name_ja": "\u8868\u60c5\uff1a\u81ea\u4fe1",
+        "Name_ko": "\uc790\uc2e0\uac10 \ub118\uce58\ub294 \ud45c\uc815"
+    },
+    "72": {
+        "0xID": "48",
+        "Icon": "ui/icon/064000/064105.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u65e0\u754f",
+        "Name_de": "Siegessicher",
+        "Name_en": "Taunt",
+        "Name_fr": "Visage arrogant",
+        "Name_ja": "\u8868\u60c5\uff1a\u4e0d\u6575",
+        "Name_ko": "\uc74c\ud749\ud55c \uc6c3\uc74c"
+    },
+    "73": {
+        "0xID": "49",
+        "Icon": "ui/icon/064000/064106.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u95ed\u76ee",
+        "Name_de": "Augen zu",
+        "Name_en": "Shut Eyes",
+        "Name_fr": "Visage endormi",
+        "Name_ja": "\u8868\u60c5\uff1a\u7791\u76ee",
+        "Name_ko": "\ub208 \uac10\uae30"
+    },
+    "74": {
+        "0xID": "4A",
+        "Icon": "ui/icon/064000/064107.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u60b2\u4f24",
+        "Name_de": "Traurig",
+        "Name_en": "Sad",
+        "Name_fr": "Visage larmoyant",
+        "Name_ja": "\u8868\u60c5\uff1a\u6ce3\u304d\u9854",
+        "Name_ko": "\uc6b8\uc0c1 \uc9d3\uae30"
+    },
+    "75": {
+        "0xID": "4B",
+        "Icon": "ui/icon/064000/064108.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u6050\u6016",
+        "Name_de": "\u00c4ngstlich",
+        "Name_en": "Scared",
+        "Name_fr": "Visage craintif",
+        "Name_ja": "\u8868\u60c5\uff1a\u6050\u6016",
+        "Name_ko": "\uacf5\ud3ec\uc5d0 \uc9c8\ub9b0 \ud45c\uc815"
+    },
+    "76": {
+        "0xID": "4C",
+        "Icon": "ui/icon/064000/064109.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u610f\u5916",
+        "Name_de": "Sprachlos",
+        "Name_en": "Amazed",
+        "Name_fr": "Visage stup\u00e9fait",
+        "Name_ja": "\u8868\u60c5\uff1a\u5446\u7136",
+        "Name_ko": "\uc5b4\ub9ac\ub465\uc808\ud55c \ud45c\uc815"
+    },
+    "77": {
+        "0xID": "4D",
+        "Icon": "ui/icon/064000/064110.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u75db\u82e6",
+        "Name_de": "Schmerzerf\u00fcllt",
+        "Name_en": "Ouch",
+        "Name_fr": "Visage souffrant",
+        "Name_ja": "\u8868\u60c5\uff1a\u6fc0\u75db",
+        "Name_ko": "\uc544\ud508 \ud45c\uc815"
+    },
+    "78": {
+        "0xID": "4E",
+        "Icon": "ui/icon/064000/064111.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u53cd\u611f",
+        "Name_de": "Genervt",
+        "Name_en": "Annoyed",
+        "Name_fr": "Visage maussade",
+        "Name_ja": "\u8868\u60c5\uff1a\u4e0d\u6a5f\u5acc",
+        "Name_ko": "\ubd88\ucf8c\ud55c \ud45c\uc815"
+    },
+    "79": {
+        "0xID": "4F",
+        "Icon": "ui/icon/064000/064112.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u5403\u60ca",
+        "Name_de": "Alarmiert",
+        "Name_en": "Alert",
+        "Name_fr": "Visage interloqu\u00e9",
+        "Name_ja": "\u8868\u60c5\uff1a\u611f\u77e5",
+        "Name_ko": "\uae68\ub2ec\uc740 \ud45c\uc815"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/064000/064008.png",
+        "Name_cn": "\u62db\u624b",
+        "Name_de": "Herbeiwinken",
+        "Name_en": "Beckon",
+        "Name_fr": "Inviter",
+        "Name_ja": "\u624b\u307e\u306d\u304d\u3059\u308b",
+        "Name_ko": "\uc190\uc9d3"
+    },
+    "80": {
+        "0xID": "50",
+        "Icon": "ui/icon/064000/064113.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u62c5\u5fc3",
+        "Name_de": "Besorgt",
+        "Name_en": "Worried",
+        "Name_fr": "Visage inquiet",
+        "Name_ja": "\u8868\u60c5\uff1a\u5fc3\u914d",
+        "Name_ko": "\uac71\uc815\uc2a4\ub7ec\uc6b4 \ud45c\uc815"
+    },
+    "81": {
+        "0xID": "51",
+        "Icon": "ui/icon/064000/064125.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u54a7\u5634",
+        "Name_de": "Feist grinsend",
+        "Name_en": "Big Grin",
+        "Name_fr": "Visage rieur",
+        "Name_ja": "\u8868\u60c5\uff1a\u7834\u9854",
+        "Name_ko": "\uc528\uc775 \uc6c3\ub294 \uc5bc\uad74"
+    },
+    "82": {
+        "0xID": "52",
+        "Icon": "ui/icon/064000/064126.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u6c89\u601d",
+        "Name_de": "In sich gekehrt",
+        "Name_en": "Reflect",
+        "Name_fr": "Visage m\u00e9ditatif",
+        "Name_ja": "\u8868\u60c5\uff1a\u719f\u8003",
+        "Name_ko": "\uc2ec\uc0ac\uc219\uace0"
+    },
+    "83": {
+        "0xID": "53",
+        "Icon": "ui/icon/064000/064127.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u76b1\u7709",
+        "Name_de": "Augenbrauen",
+        "Name_en": "Furrow",
+        "Name_fr": "Sourcils fronc\u00e9s",
+        "Name_ja": "\u8868\u60c5\uff1a\u7709\u3092\u3072\u305d\u3081\u308b",
+        "Name_ko": "\ub208\uc0b4 \ucc0c\ud478\ub9ac\uae30"
+    },
+    "84": {
+        "0xID": "54",
+        "Icon": "ui/icon/064000/064128.png",
+        "Name_cn": "\u8868\u60c5\uff1a\u82e6\u7b11",
+        "Name_de": "\u00dcberheblich l\u00e4chelnd",
+        "Name_en": "Scoff",
+        "Name_fr": "Sourire navr\u00e9",
+        "Name_ja": "\u8868\u60c5\uff1a\u82e6\u7b11\u3044",
+        "Name_ko": "\uc4f4\uc6c3\uc74c"
+    },
+    "85": {
+        "0xID": "55",
+        "Icon": "ui/icon/064000/064050.png",
+        "Name_cn": "\u6295\u63b7",
+        "Name_de": "Werfen",
+        "Name_en": "Throw",
+        "Name_fr": "Lancer",
+        "Name_ja": "\u6295\u3052\u308b",
+        "Name_ko": "\ub358\uc9c0\uae30"
+    },
+    "86": {
+        "0xID": "56",
+        "Icon": "ui/icon/064000/064050.png",
+        "Name_cn": "\u6295\u96ea\u7403",
+        "Name_de": "Schneeball",
+        "Name_en": "Snowball",
+        "Name_fr": "Boule de neige",
+        "Name_ja": "\u96ea\u7389\u3092\u6295\u3052\u308b",
+        "Name_ko": "\ub208\ub369\uc774 \ub358\uc9c0\uae30"
+    },
+    "87": {
+        "0xID": "57",
+        "Icon": "ui/icon/064000/064050.png",
+        "Name_cn": "\u6295\u96ea\u7403",
+        "Name_de": "Schneeball",
+        "Name_en": "Snowball",
+        "Name_fr": "Boule de neige",
+        "Name_ja": "\u96ea\u7389\u3092\u6295\u3052\u308b",
+        "Name_ko": "\ub208\ub369\uc774 \ub358\uc9c0\uae30"
+    },
+    "88": {
+        "0xID": "58",
+        "Icon": "",
+        "Name_cn": "\u7761\u89c9",
+        "Name_de": "Schlafen",
+        "Name_en": "Sleep",
+        "Name_fr": "Dormir",
+        "Name_ja": "\u5bdd\u308b",
+        "Name_ko": "\uc7a0\uc790\uae30"
+    },
+    "89": {
+        "0xID": "59",
+        "Icon": "ui/icon/064000/064054.png",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/064000/064009.png",
+        "Name_cn": "\u5b89\u6170",
+        "Name_de": "Tr\u00f6sten",
+        "Name_en": "Comfort",
+        "Name_fr": "Consoler",
+        "Name_ja": "\u306a\u3050\u3055\u3081\u308b",
+        "Name_ko": "\uc704\ub85c"
+    },
+    "90": {
+        "0xID": "5A",
+        "Icon": "ui/icon/064000/064068.png",
+        "Name_cn": "\u6539\u53d8\u59ff\u52bf",
+        "Name_de": "Pose \u00e4ndern",
+        "Name_en": "Change Pose",
+        "Name_fr": "Changer de pose",
+        "Name_ja": "\u30dd\u30fc\u30ba\u3092\u5909\u3048\u308b",
+        "Name_ko": "\uc790\uc138 \ubcc0\uacbd"
+    },
+    "91": {
+        "0xID": "5B",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "92": {
+        "0xID": "5C",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "93": {
+        "0xID": "5D",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "94": {
+        "0xID": "5E",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "95": {
+        "0xID": "5F",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "96": {
+        "0xID": "60",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "97": {
+        "0xID": "61",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "98": {
+        "0xID": "62",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "99": {
+        "0xID": "63",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    }
+}

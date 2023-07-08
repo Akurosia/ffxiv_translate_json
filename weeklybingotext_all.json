@@ -1,0 +1,326 @@
+{
+    "0": {
+        "0xID": "0",
+        "Description_cn": "\u30c0\u30df\u30fc",
+        "Description_de": "\u30c0\u30df\u30fc",
+        "Description_en": "Dammies",
+        "Description_fr": "Test",
+        "Description_ja": "\u30c0\u30df\u30fc",
+        "Description_ko": "\ub354\ubbf8"
+    },
+    "1": {
+        "0xID": "1",
+        "Description_cn": "1-49\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 1 - 49)",
+        "Description_en": "Dungeons (Lv. 1-49)",
+        "Description_fr": "donjons (nv 1-49)",
+        "Description_ja": "Lv1-49\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 1-49 \ub358\uc804"
+    },
+    "10": {
+        "0xID": "A",
+        "Description_cn": "\u5b9d\u7269\u5e93",
+        "Description_de": "Geheime Horte",
+        "Description_en": "Treasure Dungeons",
+        "Description_fr": "caches au tr\u00e9sor",
+        "Description_ja": "\u5b9d\u7269\u5eab",
+        "Description_ko": "\ubcf4\ubb3c\uace0"
+    },
+    "11": {
+        "0xID": "B",
+        "Description_cn": "\u70c8\u7fbd\u4e89\u950b",
+        "Description_de": "Stahlschwingen",
+        "Description_en": "Rival Wings",
+        "Description_fr": "Ailes rivales",
+        "Description_ja": "\u30e9\u30a4\u30d0\u30eb\u30a6\u30a3\u30f3\u30b0\u30ba",
+        "Description_ko": "\uacbd\uc7c1\uc758 \ub0a0\uac1c"
+    },
+    "12": {
+        "0xID": "C",
+        "Description_cn": "\u6df1\u5c42\u8ff7\u5bab",
+        "Description_de": "Tiefes Gew\u00f6lbe",
+        "Description_en": "Deep Dungeons",
+        "Description_fr": "donjons sans fond",
+        "Description_ja": "\u30c7\u30a3\u30fc\u30d7\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub525 \ub358\uc804"
+    },
+    "13": {
+        "0xID": "D",
+        "Description_cn": "71-79\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 71 - 79)",
+        "Description_en": "Dungeons (Lv. 71-79)",
+        "Description_fr": "donjons (nv 71-79)",
+        "Description_ja": "Lv71-79\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 71-79 \ub358\uc804"
+    },
+    "14": {
+        "0xID": "E",
+        "Description_cn": "80\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 80)",
+        "Description_en": "Dungeons (Lv. 80)",
+        "Description_fr": "donjons (nv 80)",
+        "Description_ja": "Lv80\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 80 \ub358\uc804"
+    },
+    "15": {
+        "0xID": "F",
+        "Description_cn": "81-89\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 81 - 89)",
+        "Description_en": "Dungeons (Lv. 81-89)",
+        "Description_fr": "donjons (nv 81-89)",
+        "Description_ja": "Lv81-89\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 81-89 \ub358\uc804"
+    },
+    "16": {
+        "0xID": "10",
+        "Description_cn": "90\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 90)",
+        "Description_en": "Dungeons (Lv. 90)",
+        "Description_fr": "donjons (nv 90)",
+        "Description_ja": "Lv90\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 90 \ub358\uc804"
+    },
+    "17": {
+        "0xID": "11",
+        "Description_cn": "\u6c34\u6676\u51b2\u7a81",
+        "Description_de": "Crystalline Conflict",
+        "Description_en": "Crystalline Conflict",
+        "Description_fr": "Crystalline Conflict",
+        "Description_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8",
+        "Description_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8"
+    },
+    "18": {
+        "0xID": "12",
+        "Description_cn": "\u5df4\u54c8\u59c6\u7279\u5927\u8ff7\u5bab \u9082\u9005\u4e4b\u7ae01-5",
+        "Description_de": "Verschlungene Schatten 1-5",
+        "Description_en": "Binding Coil of Bahamut",
+        "Description_fr": "Labyrinthe de Bahamut",
+        "Description_ja": "\u5927\u8ff7\u5bae\u30d0\u30cf\u30e0\u30fc\u30c8\uff1a\u9082\u9005\u7de81-5",
+        "Description_ko": "\ub300\ubbf8\uad81 \ubc14\ud558\ubb34\ud2b8: \ud574\ud6c4\ud3b8 1-5"
+    },
+    "19": {
+        "0xID": "13",
+        "Description_cn": "\u5df4\u54c8\u59c6\u7279\u5927\u8ff7\u5bab \u5165\u4fb5\u4e4b\u7ae01-4",
+        "Description_de": "Verschlungene Schatten 2 - 1-4",
+        "Description_en": "Second Coil of Bahamut",
+        "Description_fr": "M\u00e9andres de Bahamut",
+        "Description_ja": "\u5927\u8ff7\u5bae\u30d0\u30cf\u30e0\u30fc\u30c8\uff1a\u4fb5\u653b\u7de81-4",
+        "Description_ko": "\ub300\ubbf8\uad81 \ubc14\ud558\ubb34\ud2b8: \uce68\uacf5\ud3b8 1-4"
+    },
+    "2": {
+        "0xID": "2",
+        "Description_cn": "50\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 50)",
+        "Description_en": "Dungeons (Lv. 50)",
+        "Description_fr": "donjons (nv 50)",
+        "Description_ja": "Lv50\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 50 \ub358\uc804"
+    },
+    "20": {
+        "0xID": "14",
+        "Description_cn": "\u5df4\u54c8\u59c6\u7279\u5927\u8ff7\u5bab \u771f\u6e90\u4e4b\u7ae01-4",
+        "Description_de": "Verschlungene Schatten 3 - 1-4",
+        "Description_en": "Final Coil of Bahamut",
+        "Description_fr": "Ab\u00eeme de Bahamut",
+        "Description_ja": "\u5927\u8ff7\u5bae\u30d0\u30cf\u30e0\u30fc\u30c8\uff1a\u771f\u6210\u7de81-4",
+        "Description_ko": "\ub300\ubbf8\uad81 \ubc14\ud558\ubb34\ud2b8: \uc9c4\uc131\ud3b8 1-4"
+    },
+    "21": {
+        "0xID": "15",
+        "Description_cn": "\u4e9a\u5386\u5c71\u5927\u673a\u795e\u57ce \u542f\u52a8\u4e4b\u7ae01-4",
+        "Description_de": "Alexander - Gordios 1-4",
+        "Description_en": "Alexander: Gordias",
+        "Description_fr": "Alexander : le P\u00e8re",
+        "Description_ja": "\u6a5f\u5de5\u57ce\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\uff1a\u8d77\u52d5\u7de81-4",
+        "Description_ko": "\uae30\uacf5\uc131 \uc54c\ub809\uc0b0\ub354: \uae30\ub3d9\ud3b8 1-4"
+    },
+    "22": {
+        "0xID": "16",
+        "Description_cn": "\u4e9a\u5386\u5c71\u5927\u673a\u795e\u57ce \u5f8b\u52a8\u4e4b\u7ae01-4",
+        "Description_de": "Alexander - Midas 1-4",
+        "Description_en": "Alexander: Midas",
+        "Description_fr": "Alexander : le Fils",
+        "Description_ja": "\u6a5f\u5de5\u57ce\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\uff1a\u5f8b\u52d5\u7de81-4",
+        "Description_ko": "\uae30\uacf5\uc131 \uc54c\ub809\uc0b0\ub354: \uc728\ub3d9\ud3b8 1-4"
+    },
+    "23": {
+        "0xID": "17",
+        "Description_cn": "\u4e9a\u5386\u5c71\u5927\u673a\u795e\u57ce \u5929\u52a8\u4e4b\u7ae01-4",
+        "Description_de": "Alexander - Der Sch\u00f6pfer 1-4",
+        "Description_en": "Alexander: The Creator",
+        "Description_fr": "Alexander : le Cr\u00e9ateur",
+        "Description_ja": "\u6a5f\u5de5\u57ce\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc\uff1a\u5929\u52d5\u7de81-4",
+        "Description_ko": "\uae30\uacf5\uc131 \uc54c\ub809\uc0b0\ub354: \ucc9c\ub3d9\ud3b81-4"
+    },
+    "24": {
+        "0xID": "18",
+        "Description_cn": "\u6b27\u7c73\u8304\u65f6\u7a7a\u72ed\u7f1d \u5fb7\u5c14\u5854\u5e7b\u58831-4",
+        "Description_de": "Deltametrie 1.0-4.0",
+        "Description_en": "Omega: Deltascape",
+        "Description_fr": "Om\u00e9ga : Deltastice",
+        "Description_ja": "\u6b21\u5143\u306e\u72ed\u9593\u30aa\u30e1\u30ac\uff1a\u30c7\u30eb\u30bf\u7de81-4",
+        "Description_ko": "\ucc28\uc6d0\uc758 \ud2c8 \uc624\uba54\uac00: \ub378\ud0c0\ud3b8 1-4"
+    },
+    "25": {
+        "0xID": "19",
+        "Description_cn": "\u6b27\u7c73\u8304\u65f6\u7a7a\u72ed\u7f1d \u897f\u683c\u739b\u5e7b\u58831-4",
+        "Description_de": "Sigmametrie 1.0-4.0",
+        "Description_en": "Omega: Sigmascape",
+        "Description_fr": "Om\u00e9ga : Sigmastice",
+        "Description_ja": "\u6b21\u5143\u306e\u72ed\u9593\u30aa\u30e1\u30ac\uff1a\u30b7\u30b0\u30de\u7de81-4",
+        "Description_ko": "\ucc28\uc6d0\uc758 \ud2c8 \uc624\uba54\uac00: \uc2dc\uadf8\ub9c8\ud3b8 1-4"
+    },
+    "26": {
+        "0xID": "1A",
+        "Description_cn": "\u6b27\u7c73\u8304\u65f6\u7a7a\u72ed\u7f1d \u963f\u5c14\u6cd5\u5e7b\u58831-4",
+        "Description_de": "Alphametrie 1.0-4.0",
+        "Description_en": "Omega: Alphascape",
+        "Description_fr": "Om\u00e9ga : Alphastice",
+        "Description_ja": "\u6b21\u5143\u306e\u72ed\u9593\u30aa\u30e1\u30ac\uff1a\u30a2\u30eb\u30d5\u30a1\u7de81-4",
+        "Description_ko": "\ucc28\uc6d0\uc758 \ud2c8 \uc624\uba54\uac00: \uc54c\ud30c\ud3b8 1-4"
+    },
+    "27": {
+        "0xID": "1B",
+        "Description_cn": "\u4f0a\u7538\u5e0c\u671b\u4e50\u56ed \u89c9\u9192\u4e4b\u7ae01-2",
+        "Description_de": "Edens Erwachen - Auferstehung & Niederkunft",
+        "Description_en": "Eden's Gate: Resurrection or Descent",
+        "Description_fr": "L'\u00c9veil d'\u00c9den - R\u00e9surrection/Descente",
+        "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u899a\u9192\u7de81-2",
+        "Description_ko": ""
+    },
+    "28": {
+        "0xID": "1C",
+        "Description_cn": "\u4f0a\u7538\u5e0c\u671b\u4e50\u56ed \u89c9\u9192\u4e4b\u7ae03-4",
+        "Description_de": "Edens Erwachen - \u00dcberflutung & Beerdigung",
+        "Description_en": "Eden's Gate: Inundation or Sepulture",
+        "Description_fr": "L'\u00c9veil d'\u00c9den - D\u00e9luge/Inhumation",
+        "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u899a\u9192\u7de83-4",
+        "Description_ko": ""
+    },
+    "29": {
+        "0xID": "1D",
+        "Description_cn": "\u4f0a\u7538\u5e0c\u671b\u4e50\u56ed \u5171\u9e23\u4e4b\u7ae01-2",
+        "Description_de": "Edens Resonanz - Entladung & Raserei",
+        "Description_en": "Eden's Verse: Fulmination or Furor",
+        "Description_fr": "Les Accords d'\u00c9den - Fulmination/Fureur",
+        "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u5171\u9cf4\u7de81-2",
+        "Description_ko": ""
+    },
+    "3": {
+        "0xID": "3",
+        "Description_cn": "51-59\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 51 - 59)",
+        "Description_en": "Dungeons (Lv. 51-59)",
+        "Description_fr": "donjons (nv 51-59)",
+        "Description_ja": "Lv51-59\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 51-59 \ub358\uc804"
+    },
+    "30": {
+        "0xID": "1E",
+        "Description_cn": "\u4f0a\u7538\u5e0c\u671b\u4e50\u56ed \u5171\u9e23\u4e4b\u7ae03-4",
+        "Description_de": "Edens Resonanz - Bildersturm & Erstarrung",
+        "Description_en": "Eden's Verse: Iconoclasm or Refulgence",
+        "Description_fr": "Les Accords d'\u00c9den - Iconoclasme/\u00c9clat",
+        "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u5171\u9cf4\u7de83-4",
+        "Description_ko": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "Description_cn": "\u4f0a\u7538\u5e0c\u671b\u4e50\u56ed \u518d\u751f\u4e4b\u7ae01-2",
+        "Description_de": "Edens Verhei\u00dfung - Umbra & Litanei",
+        "Description_en": "Eden's Promise: Umbra or Litany",
+        "Description_fr": "La Promesse d'\u00c9den - Nu\u00e9e/Litanie",
+        "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u518d\u751f\u7de81-2",
+        "Description_ko": ""
+    },
+    "32": {
+        "0xID": "20",
+        "Description_cn": "\u4f0a\u7538\u5e0c\u671b\u4e50\u56ed \u518d\u751f\u4e4b\u7ae03-4",
+        "Description_de": "Edens Verhei\u00dfung - Anamorphose & Ewigkeit",
+        "Description_en": "Eden's Promise: Anamorphosis or Eternity",
+        "Description_fr": "La Promesse d'\u00c9den - Anamorphose/\u00c9ternit\u00e9",
+        "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u518d\u751f\u7de83-4",
+        "Description_ko": ""
+    },
+    "33": {
+        "0xID": "21",
+        "Description_cn": "\u4e07\u9b54\u6bbf \u8fb9\u5883\u4e4b\u72f11-2",
+        "Description_de": "Asphodelos - Erster und Zweiter Kreis",
+        "Description_en": "Asphodelos: First or Second Circles",
+        "Description_fr": "Les Limbes du Pand\u00e6monium - Parvis/Cloaque",
+        "Description_ja": "\u4e07\u9b54\u6bbf\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\uff1a\u8fba\u7344\u7de81-2",
+        "Description_ko": ""
+    },
+    "34": {
+        "0xID": "22",
+        "Description_cn": "\u4e07\u9b54\u6bbf \u8fb9\u5883\u4e4b\u72f13-4",
+        "Description_de": "Asphodelos - Dritter und Vierter Kreis",
+        "Description_en": "Asphodelos: Third or Fourth Circles",
+        "Description_fr": "Les Limbes du Pand\u00e6monium - Fournaise/Ab\u00eeme",
+        "Description_ja": "\u4e07\u9b54\u6bbf\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\uff1a\u8fba\u7344\u7de83-4",
+        "Description_ko": ""
+    },
+    "35": {
+        "0xID": "23",
+        "Description_cn": "",
+        "Description_de": "",
+        "Description_en": "",
+        "Description_fr": "",
+        "Description_ja": "",
+        "Description_ko": ""
+    },
+    "4": {
+        "0xID": "4",
+        "Description_cn": "60\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 60)",
+        "Description_en": "Dungeons (Lv. 60)",
+        "Description_fr": "donjons (nv 60)",
+        "Description_ja": "Lv60\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 60 \ub358\uc804"
+    },
+    "5": {
+        "0xID": "5",
+        "Description_cn": "\u6b7b\u8005\u5bab\u6bbf",
+        "Description_de": "Palast der Toten",
+        "Description_en": "Palace of the Dead",
+        "Description_fr": "Palais des morts",
+        "Description_ja": "\u6b7b\u8005\u306e\u5bae\u6bbf",
+        "Description_ko": "\ub9dd\uc790\uc758 \uad81\uc804"
+    },
+    "6": {
+        "0xID": "6",
+        "Description_cn": "\u7eb7\u4e89\u524d\u7ebf",
+        "Description_de": "Carteneauer Front",
+        "Description_en": "Frontline",
+        "Description_fr": "Front",
+        "Description_ja": "\u30d5\u30ed\u30f3\u30c8\u30e9\u30a4\u30f3",
+        "Description_ko": "\uc804\uc7a5"
+    },
+    "7": {
+        "0xID": "7",
+        "Description_cn": "\u7fa4\u72fc\u76db\u5bb4",
+        "Description_de": "The Feast",
+        "Description_en": "The Feast",
+        "Description_fr": "The Feast",
+        "Description_ja": "\u30b6\u30fb\u30d5\u30a3\u30fc\u30b9\u30c8",
+        "Description_ko": "\ub354 \ud53c\uc2a4\ud2b8"
+    },
+    "8": {
+        "0xID": "8",
+        "Description_cn": "61-69\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 61 - 69)",
+        "Description_en": "Dungeons (Lv. 61-69)",
+        "Description_fr": "donjons (nv 61-69)",
+        "Description_ja": "Lv61-69\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 61-69 \ub358\uc804"
+    },
+    "9": {
+        "0xID": "9",
+        "Description_cn": "70\u7ea7\u8ff7\u5bab",
+        "Description_de": "Dungeons (St. 70)",
+        "Description_en": "Dungeons (Lv. 70)",
+        "Description_fr": "donjons (nv 70)",
+        "Description_ja": "Lv70\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Description_ko": "\ub808\ubca8 70 \ub358\uc804"
+    }
+}

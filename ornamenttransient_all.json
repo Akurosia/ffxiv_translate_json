@@ -1,0 +1,290 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "col_0_cn": "\u6491\u8d77\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen Sonnenschirm.",
+        "col_0_en": "Open a parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle.",
+        "col_0_ja": "\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "10": {
+        "0xID": "A",
+        "col_0_cn": "\u6491\u8d77\u91d1\u789f\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen Gold Saucer-Sonnenschirm.",
+        "col_0_en": "Open a gold parasaucer.",
+        "col_0_fr": "D\u00e9ploie une ombrelle du Gold Saucer.",
+        "col_0_ja": "\u30b4\u30fc\u30eb\u30c9\u30bd\u30fc\u30b5\u30fc\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\uace8\ub4dc \uc18c\uc11c \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "11": {
+        "0xID": "B",
+        "col_0_cn": "\u6491\u8d77\u8da3\u5473\u5706\u70b9\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen blau-wei\u00df gepunkteten Sonnenschirm.",
+        "col_0_en": "Open a pleasant dot parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle bleue \u00e0 pois.",
+        "col_0_ja": "\u30d7\u30ec\u30b6\u30f3\u30c8\u30c9\u30c3\u30c8\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\uc0b0\ub73b\ud55c \ubb3c\ubc29\uc6b8\ubb34\ub2ac \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "12": {
+        "0xID": "C",
+        "col_0_cn": "\u6491\u8d77\u7aef\u5e84\u5706\u70b9\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen rosa-wei\u00df gepunkteten Sonnenschirm.",
+        "col_0_en": "Open a prim dot parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle rose \u00e0 pois.",
+        "col_0_ja": "\u30d7\u30ea\u30e0\u30c9\u30c3\u30c8\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\uc0c8\uce68\ud55c \ubb3c\ubc29\uc6b8\ubb34\ub2ac \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "13": {
+        "0xID": "D",
+        "col_0_cn": "\u6491\u8d77\u7530\u56ed\u5706\u70b9\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen hellblau-wei\u00df gepunkteten Sonnenschirm.",
+        "col_0_en": "Open a pastoral dot parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle vert d'eau \u00e0 pois.",
+        "col_0_ja": "\u30d1\u30b9\u30c8\u30fc\u30e9\u30eb\u30c9\u30c3\u30c8\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\uc804\uc6d0\ud48d \ubb3c\ubc29\uc6b8\ubb34\ub2ac \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "14": {
+        "0xID": "E",
+        "col_0_cn": "\u6491\u8d77\u732b\u5c0f\u80d6\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen Dicke-Katze-Sonnenschirm.",
+        "col_0_en": "Open a fat cat parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle gros minou.",
+        "col_0_ja": "\u30d5\u30a1\u30c3\u30c8\u30ad\u30e3\u30c3\u30c8\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\ub6b1\ub0e5\uc774 \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "15": {
+        "0xID": "F",
+        "col_0_cn": "\u6491\u8d77\u9686\u5361\u7684\u6c34\u86c7\u4f1e\uff1f",
+        "col_0_de": "\u00d6ffne deinen Wasserschlange-Sonnenschirm.",
+        "col_0_en": "Open a great paraserpent.",
+        "col_0_fr": "D\u00e9ploie un parapluie Serpent marin de Ronka?",
+        "col_0_ja": "\u30ed\u30f3\u30ab\u306e\u6c34\u86c7\u5098\uff1f\u3092\u3055\u3059",
+        "col_0_ko": "\ub871\uce74\uc758 \ubb3c\ubc40 \uc6b0\uc0b0?\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "16": {
+        "0xID": "10",
+        "col_0_cn": "\u6491\u8d77\u7ea2\u6708\u6cb9\u7eb8\u4f1e",
+        "col_0_de": "\u00d6ffne deinen Dalamud-Papierschirm.",
+        "col_0_en": "Open a red moon parasol.",
+        "col_0_fr": "D\u00e9ploie un parapluie Dalamud.",
+        "col_0_ja": "\u7d05\u5c0f\u6708\u756a\u5098\u3092\u3055\u3059",
+        "col_0_ko": "\ubd89\uc740 \ub2ec \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "17": {
+        "0xID": "11",
+        "col_0_cn": "\u5728\u80cc\u540e\u663e\u793a\u51fa\u5815\u5929\u4f7f\u4e4b\u7ffc\u7684\u5e7b\u5f71",
+        "col_0_de": "Projiziere die F\u00fcgel eines gefallenen Engels auf deinen R\u00fccken.",
+        "col_0_en": "Spread angel wings blacker than your heart (or so you will doubtless say).",
+        "col_0_fr": "D\u00e9ploie une paire d'ailes d'ange d\u00e9chu.",
+        "col_0_ja": "\u80cc\u4e2d\u306b\u30d5\u30a9\u30fc\u30ea\u30f3\u30fb\u30a8\u30f3\u30b8\u30a7\u30eb\u30a6\u30a3\u30f3\u30b0\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\ub4f1\uc5d0 \ud0c0\ub77d\ucc9c\uc0ac \ub0a0\uac1c \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    },
+    "18": {
+        "0xID": "12",
+        "col_0_cn": "\u5728\u80cc\u540e\u663e\u793a\u51fa\u5927\u5929\u4f7f\u4e4b\u7ffc\u7684\u5e7b\u5f71",
+        "col_0_de": "Projiziere die F\u00fcgel eines Erzengels auf deinen R\u00fccken.",
+        "col_0_en": "Spread your illusory\u2500yet still impressive\u2500golden wings.",
+        "col_0_fr": "D\u00e9ploie une paire d'ailes d'archange.",
+        "col_0_ja": "\u80cc\u4e2d\u306b\u30a2\u30fc\u30af\u30fb\u30a8\u30f3\u30b8\u30a7\u30eb\u30a6\u30a3\u30f3\u30b0\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\ub4f1\uc5d0 \ub300\ucc9c\uc0ac \ub0a0\uac1c \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    },
+    "19": {
+        "0xID": "13",
+        "col_0_cn": "\u5728\u80cc\u540e\u663e\u793a\u51fa\u8fea\u4e9a\u6ce2\u7f57\u65af\u4e4b\u7ffc\u7684\u5e7b\u5f71",
+        "col_0_de": "Projiziere die F\u00fcgel Diabolos' auf deinen R\u00fccken.",
+        "col_0_en": "Spread your wicked wings, realistic enough to fool any man\u2500though voidsent are another matter.",
+        "col_0_fr": "D\u00e9ploie une paire d'ailes de Diabolos.",
+        "col_0_ja": "\u80cc\u4e2d\u306b\u30c7\u30a3\u30a2\u30dc\u30ed\u30b9\u30a6\u30a3\u30f3\u30b0\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\ub4f1\uc5d0 \ub514\uc544\ubcfc\ub85c\uc2a4 \ub0a0\uac1c \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    },
+    "2": {
+        "0xID": "2",
+        "col_0_cn": "\u6491\u8d77\u5929\u84dd\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen himmlischen Sonnenschirm.",
+        "col_0_en": "Open a sky blue parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle d'azur.",
+        "col_0_ja": "\u30b9\u30ab\u30a4\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\ud558\ub298\uc0c9 \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "20": {
+        "0xID": "14",
+        "col_0_cn": "\u5728\u80cc\u540e\u663e\u793a\u51fa\u4ed9\u5b50\u65cf\u4e4b\u7ffc\u7684\u5e7b\u5f71",
+        "col_0_de": "Projiziere die F\u00fcgel einer Pixie auf deinen R\u00fccken.",
+        "col_0_en": "Spread mischief and mayhem! Also, fae wings.",
+        "col_0_fr": "D\u00e9ploie une paire d'ailes de Pixie.",
+        "col_0_ja": "\u80cc\u4e2d\u306b\u30d4\u30af\u30b7\u30fc\u30a6\u30a3\u30f3\u30b0\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\ub4f1\uc5d0 \ud53d\uc2dc \ub0a0\uac1c \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    },
+    "21": {
+        "0xID": "15",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "22": {
+        "0xID": "16",
+        "col_0_cn": "\u5728\u9762\u90e8\u663e\u793a\u51fa\u5e7b\u8c61\u692d\u5706\u773c\u955c\u7684\u5e7b\u5f71",
+        "col_0_de": "Projiziere eine ovale Brille auf deine Nase.",
+        "col_0_en": "Don a pair of oval spectacles that do not improve your eyesight in any way.",
+        "col_0_fr": "D\u00e9ploie un mirage de lunettes ovales.",
+        "col_0_ja": "\u30df\u30e9\u30fc\u30b8\u30e5\u30fb\u30aa\u30fc\u30d0\u30eb\u30b0\u30e9\u30b9\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\uc5bc\uad74\uc5d0 \ud0c0\uc6d0\ud615 \uc548\uacbd \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    },
+    "23": {
+        "0xID": "17",
+        "col_0_cn": "\u6491\u8d77\u767d\u8272\u82b1\u8fb9\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen wei\u00dfen R\u00fcschen-Sonnenschirm.",
+        "col_0_en": "Open a white lace parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle \u00e0 dentelle blanche.",
+        "col_0_ja": "\u30db\u30ef\u30a4\u30c8\u30d5\u30ea\u30eb\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\ud770\uc0c9 \uc8fc\ub984\uc7a5\uc2dd \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "24": {
+        "0xID": "18",
+        "col_0_cn": "\u6491\u8d77\u84dd\u8272\u5370\u82b1\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen blauen Bl\u00fcten-Sonnenschirm.",
+        "col_0_en": "Open a blue blossom parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle \u00e0 fleurs bleues.",
+        "col_0_ja": "\u30d6\u30eb\u30fc\u30d6\u30ed\u30c3\u30b5\u30e0\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\ud30c\ub780 \uaf43\ubb34\ub2ac \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "25": {
+        "0xID": "19",
+        "col_0_cn": "\u5728\u9762\u90e8\u663e\u793a\u51fa\u5e7b\u8c61\u91d1\u8fb9\u58a8\u955c\u7684\u5e7b\u5f71",
+        "col_0_de": "Projiziere eine get\u00f6nte Brille auf deine Nase.",
+        "col_0_en": "Don a pair of tinted lenses and try not to bump into anything.",
+        "col_0_fr": "D\u00e9ploie un mirage de lunettes teint\u00e9es.",
+        "col_0_ja": "\u30df\u30e9\u30fc\u30b8\u30e5\u30fb\u30b7\u30a7\u30a4\u30c7\u30c3\u30c9\u30b0\u30e9\u30b9\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\uc5bc\uad74\uc5d0 \uac80\uc740\uc54c \uc548\uacbd \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    },
+    "26": {
+        "0xID": "1A",
+        "col_0_cn": "\u5728\u9762\u90e8\u663e\u793a\u51fa\u5e7b\u8c61\u7ecf\u5178\u773c\u955c\u7684\u5e7b\u5f71",
+        "col_0_de": "Projiziere eine klassische Brille auf deine Nase.",
+        "col_0_en": "Don a pair of rectangular glasses for a classic illusion of intelligence.",
+        "col_0_fr": "D\u00e9ploie un mirage de lunettes classiques.",
+        "col_0_ja": "\u30df\u30e9\u30fc\u30b8\u30e5\u30fb\u30af\u30e9\u30b7\u30c3\u30af\u30b0\u30e9\u30b9\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\uc5bc\uad74\uc5d0 \ubfd4\ud14c \uc548\uacbd \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    },
+    "27": {
+        "0xID": "1B",
+        "col_0_cn": "\u6491\u8d77\u4ed9\u4eba\u523a\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen Sabotender-Sonnenschirm.",
+        "col_0_en": "Open a sabotender parasol. Inscrutable twirling recommended.",
+        "col_0_fr": "D\u00e9ploie une ombrelle pampa.",
+        "col_0_ja": "\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\uc0ac\ubcf4\ud150\ub354 \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "28": {
+        "0xID": "1C",
+        "col_0_cn": "\u5728\u80cc\u540e\u663e\u793a\u51fa\u84dd\u8272\u4ed9\u5b50\u65cf\u4e4b\u7ffc\u7684\u5e7b\u5f71",
+        "col_0_de": "Projiziere blaue F\u00fcgel einer Pixie auf deinen R\u00fccken.",
+        "col_0_en": "Spread mischief, mayhem, and your lovely aquamarine fae wings.",
+        "col_0_fr": "D\u00e9ploie une paire d'ailes de Pixie bleues.",
+        "col_0_ja": "\u80cc\u4e2d\u306b\u30d6\u30eb\u30fc\u30d4\u30af\u30b7\u30fc\u30a6\u30a3\u30f3\u30b0\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\ub4f1\uc5d0 \ud478\ub978 \ud53d\uc2dc \ub0a0\uac1c \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    },
+    "29": {
+        "0xID": "1D",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "3": {
+        "0xID": "3",
+        "col_0_cn": "\u6491\u8d77\u7ea2\u6f06\u6cb9\u7eb8\u4f1e",
+        "col_0_de": "\u00d6ffne deinen roten \u00d6lpapierschirm.",
+        "col_0_en": "Open a vermilion paper parasol.",
+        "col_0_fr": "D\u00e9ploie un parapluie pourpre laqu\u00e9.",
+        "col_0_ja": "\u7d05\u6f06\u5857\u756a\u5098\u3092\u3055\u3059",
+        "col_0_ko": "\ube68\uac04\uc0c9 \uc885\uc774\uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "30": {
+        "0xID": "1E",
+        "col_0_cn": "\u6491\u8d77\u732b\u8033\u5c0f\u4f1e",
+        "col_0_de": "\u00d6ffne deinen Miaurizius-Schirm.",
+        "col_0_en": "Open a felicitous furball umbrella.",
+        "col_0_fr": "D\u00e9ploie un parapluie Chamoiselle.",
+        "col_0_ja": "\u306d\u3053\u307f\u307f\u3055\u3093\u306e\u5098\u3092\u3055\u3059",
+        "col_0_ko": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "col_0_cn": "",
+        "col_0_de": "\u00d6ffne dein Wasserschutz-System.",
+        "col_0_en": "Engage your raindrop defense system.",
+        "col_0_fr": "D\u00e9ploie un syst\u00e8me de protection anti-gouttes.",
+        "col_0_ja": "\u9632\u6ef4\u30b7\u30b9\u30c6\u30e0\u3092\u3055\u3059",
+        "col_0_ko": ""
+    },
+    "4": {
+        "0xID": "4",
+        "col_0_cn": "\u6491\u8d77\u7d2b\u6f06\u6cb9\u7eb8\u4f1e",
+        "col_0_de": "\u00d6ffne deinen violetten \u00d6lpapierschirm.",
+        "col_0_en": "Open a plum paper parasol.",
+        "col_0_fr": "D\u00e9ploie un parapluie mauve laqu\u00e9.",
+        "col_0_ja": "\u7d2b\u6f06\u5857\u756a\u5098\u3092\u3055\u3059",
+        "col_0_ko": "\ubcf4\ub77c\uc0c9 \uc885\uc774\uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "5": {
+        "0xID": "5",
+        "col_0_cn": "\u6491\u8d77\u9ec4\u6f06\u6cb9\u7eb8\u4f1e",
+        "col_0_de": "\u00d6ffne deinen gelben \u00d6lpapierschirm.",
+        "col_0_en": "Open a gold paper parasol.",
+        "col_0_fr": "D\u00e9ploie un parapluie dor\u00e9 laqu\u00e9.",
+        "col_0_ja": "\u9ec4\u6f06\u5857\u756a\u5098\u3092\u3055\u3059",
+        "col_0_ko": "\ub178\ub780\uc0c9 \uc885\uc774\uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "6": {
+        "0xID": "6",
+        "col_0_cn": "\u6491\u8d77\u6c89\u7a33\u65b9\u683c\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen blau karierten Sonnenschirm.",
+        "col_0_en": "Open a calming checkered parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle \u00e0 carreaux bleue.",
+        "col_0_ja": "\u30ab\u30eb\u30e0\u30c1\u30a7\u30c3\u30af\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\ucc28\ubd84\ud55c \uccb4\ud06c \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "7": {
+        "0xID": "7",
+        "col_0_cn": "\u6491\u8d77\u6d3b\u529b\u65b9\u683c\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen rot karierten Sonnenschirm.",
+        "col_0_en": "Open a cheerful checkered parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle \u00e0 carreaux rouge.",
+        "col_0_ja": "\u30c1\u30a2\u30d5\u30eb\u30c1\u30a7\u30c3\u30af\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\ubc1c\ub784\ud55c \uccb4\ud06c \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "8": {
+        "0xID": "8",
+        "col_0_cn": "\u6491\u8d77\u5178\u96c5\u65b9\u683c\u9633\u4f1e",
+        "col_0_de": "\u00d6ffne deinen schwarz karierten Sonnenschirm.",
+        "col_0_en": "Open a classy checkered parasol.",
+        "col_0_fr": "D\u00e9ploie une ombrelle \u00e0 carreaux noire.",
+        "col_0_ja": "\u30af\u30e9\u30c3\u30b7\u30fc\u30c1\u30a7\u30c3\u30af\u30d1\u30e9\u30bd\u30eb\u3092\u3055\u3059",
+        "col_0_ko": "\uc138\ub828\ub41c \uccb4\ud06c \uc6b0\uc0b0\uc744 \uc501\ub2c8\ub2e4."
+    },
+    "9": {
+        "0xID": "9",
+        "col_0_cn": "\u5728\u80cc\u540e\u663e\u793a\u51fa\u5929\u4f7f\u4e4b\u7ffc\u7684\u5e7b\u5f71",
+        "col_0_de": "Lass dir Engelsfl\u00fcgel auf den R\u00fccken projizieren.",
+        "col_0_en": "Spread your angel wings.",
+        "col_0_fr": "D\u00e9ploie une paire d'ailes ang\u00e9liques.",
+        "col_0_ja": "\u80cc\u4e2d\u306b\u30a8\u30f3\u30b8\u30a7\u30eb\u30a6\u30a3\u30f3\u30b0\u306e\u5e7b\u5f71\u3092\u5199\u3057\u51fa\u3059",
+        "col_0_ko": "\ub4f1\uc5d0 \ucc9c\uc0ac \ub0a0\uac1c \ud658\uc601\uc744 \ube44\ucda5\ub2c8\ub2e4."
+    }
+}

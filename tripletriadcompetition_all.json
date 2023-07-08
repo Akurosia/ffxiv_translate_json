@@ -1,0 +1,227 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u66fc\u5fb7\u7ef4\u5c14\u9526\u6807\u8d5b",
+        "Name_de": "Manderville-Masters",
+        "Name_en": "the Manderville Tournament of Champions",
+        "Name_fr": "le Championnat des Manderville",
+        "Name_ja": "\u30de\u30f3\u30c0\u30f4\u30a3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30b7\u30c3\u30d7",
+        "Name_ko": "\ub9e8\ub354\ube4c\ubc30 \uc120\uc218\uad8c \ub300\ud68c"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u547d\u8fd0\u795e\u5927\u5956\u8d5b",
+        "Name_de": "Gro\u00dfer Preis von Nymeia",
+        "Name_en": "the Spinner's Pull",
+        "Name_fr": "le Grand Prix de la Fileuse",
+        "Name_ja": "\u661f\u795e\u30cb\u30e1\u30fc\u30e4\u8cde\u5178",
+        "Name_ko": "\ubcc4\uc758 \uc2e0 \ub2c8\uba54\uc774\uc544\ubc30"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u5965\u5170\u7eaa\u5ff5\u8d5b",
+        "Name_de": "Orran-Durai-Ehrenturnier",
+        "Name_en": "the Durai Memorial",
+        "Name_fr": "le Jubil\u00e9 Orran Durai",
+        "Name_ja": "\u30aa\u30fc\u30e9\u30f3\u8a18\u5ff5",
+        "Name_ko": "\uc624\ub780 \uae30\ub150 \ub300\ud68c"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u7f57\u8587\u5a1c\u676f",
+        "Name_de": "Rowena-Pokal",
+        "Name_en": "the Rowena Cup Classic",
+        "Name_fr": "la Coupe Rowena",
+        "Name_ja": "\u30ed\u30a6\u30a7\u30ca\u5546\u4f1a\u676f",
+        "Name_ko": "\ub85c\uc6e8\ub098 \uc0c1\ud68c\ubc30"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u66fc\u5fb7\u7ef4\u5c14\u9526\u6807\u8d5b",
+        "Name_de": "Manderville-Masters",
+        "Name_en": "the Manderville Tournament of Champions",
+        "Name_fr": "le Championnat des Manderville",
+        "Name_ja": "\u30de\u30f3\u30c0\u30f4\u30a3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30b7\u30c3\u30d7",
+        "Name_ko": "\ub9e8\ub354\ube4c\ubc30 \uc120\uc218\uad8c \ub300\ud68c"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u547d\u8fd0\u795e\u5927\u5956\u8d5b",
+        "Name_de": "Gro\u00dfer Preis von Nymeia",
+        "Name_en": "the Spinner's Pull",
+        "Name_fr": "le Grand Prix de la Fileuse",
+        "Name_ja": "\u661f\u795e\u30cb\u30e1\u30fc\u30e4\u8cde\u5178",
+        "Name_ko": "\ubcc4\uc758 \uc2e0 \ub2c8\uba54\uc774\uc544\ubc30"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u5965\u5170\u7eaa\u5ff5\u8d5b",
+        "Name_de": "Orran-Durai-Ehrenturnier",
+        "Name_en": "the Durai Memorial",
+        "Name_fr": "le Jubil\u00e9 Orran Durai",
+        "Name_ja": "\u30aa\u30fc\u30e9\u30f3\u8a18\u5ff5",
+        "Name_ko": "\uc624\ub780 \uae30\ub150 \ub300\ud68c"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u7f57\u8587\u5a1c\u676f",
+        "Name_de": "Rowena-Pokal",
+        "Name_en": "the Rowena Cup Classic",
+        "Name_fr": "la Coupe Rowena",
+        "Name_ja": "\u30ed\u30a6\u30a7\u30ca\u5546\u4f1a\u676f",
+        "Name_ko": "\ub85c\uc6e8\ub098 \uc0c1\ud68c\ubc30"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u66fc\u5fb7\u7ef4\u5c14\u9526\u6807\u8d5b",
+        "Name_de": "Manderville-Masters",
+        "Name_en": "the Manderville Tournament of Champions",
+        "Name_fr": "le Championnat des Manderville",
+        "Name_ja": "\u30de\u30f3\u30c0\u30f4\u30a3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30b7\u30c3\u30d7",
+        "Name_ko": "\ub9e8\ub354\ube4c\ubc30 \uc120\uc218\uad8c \ub300\ud68c"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u547d\u8fd0\u795e\u5927\u5956\u8d5b",
+        "Name_de": "Gro\u00dfer Preis von Nymeia",
+        "Name_en": "the Spinner's Pull",
+        "Name_fr": "le Grand Prix de la Fileuse",
+        "Name_ja": "\u661f\u795e\u30cb\u30e1\u30fc\u30e4\u8cde\u5178",
+        "Name_ko": "\ubcc4\uc758 \uc2e0 \ub2c8\uba54\uc774\uc544\ubc30"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u5965\u5170\u7eaa\u5ff5\u8d5b",
+        "Name_de": "Orran-Durai-Ehrenturnier",
+        "Name_en": "the Durai Memorial",
+        "Name_fr": "le Jubil\u00e9 Orran Durai",
+        "Name_ja": "\u30aa\u30fc\u30e9\u30f3\u8a18\u5ff5",
+        "Name_ko": "\uc624\ub780 \uae30\ub150 \ub300\ud68c"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u547d\u8fd0\u795e\u5927\u5956\u8d5b",
+        "Name_de": "Gro\u00dfer Preis von Nymeia",
+        "Name_en": "the Spinner's Pull",
+        "Name_fr": "le Grand Prix de la Fileuse",
+        "Name_ja": "\u661f\u795e\u30cb\u30e1\u30fc\u30e4\u8cde\u5178",
+        "Name_ko": "\ubcc4\uc758 \uc2e0 \ub2c8\uba54\uc774\uc544\ubc30"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u7f57\u8587\u5a1c\u676f",
+        "Name_de": "Rowena-Pokal",
+        "Name_en": "the Rowena Cup Classic",
+        "Name_fr": "la Coupe Rowena",
+        "Name_ja": "\u30ed\u30a6\u30a7\u30ca\u5546\u4f1a\u676f",
+        "Name_ko": "\ub85c\uc6e8\ub098 \uc0c1\ud68c\ubc30"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u66fc\u5fb7\u7ef4\u5c14\u9526\u6807\u8d5b",
+        "Name_de": "Manderville-Masters",
+        "Name_en": "the Manderville Tournament of Champions",
+        "Name_fr": "le Championnat des Manderville",
+        "Name_ja": "\u30de\u30f3\u30c0\u30f4\u30a3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30b7\u30c3\u30d7",
+        "Name_ko": "\ub9e8\ub354\ube4c\ubc30 \uc120\uc218\uad8c \ub300\ud68c"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u547d\u8fd0\u795e\u5927\u5956\u8d5b",
+        "Name_de": "Gro\u00dfer Preis von Nymeia",
+        "Name_en": "the Spinner's Pull",
+        "Name_fr": "le Grand Prix de la Fileuse",
+        "Name_ja": "\u661f\u795e\u30cb\u30e1\u30fc\u30e4\u8cde\u5178",
+        "Name_ko": "\ubcc4\uc758 \uc2e0 \ub2c8\uba54\uc774\uc544\ubc30"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u5965\u5170\u7eaa\u5ff5\u8d5b",
+        "Name_de": "Orran-Durai-Ehrenturnier",
+        "Name_en": "the Durai Memorial",
+        "Name_fr": "le Jubil\u00e9 Orran Durai",
+        "Name_ja": "\u30aa\u30fc\u30e9\u30f3\u8a18\u5ff5",
+        "Name_ko": "\uc624\ub780 \uae30\ub150 \ub300\ud68c"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u7f57\u8587\u5a1c\u676f",
+        "Name_de": "Rowena-Pokal",
+        "Name_en": "the Rowena Cup Classic",
+        "Name_fr": "la Coupe Rowena",
+        "Name_ja": "\u30ed\u30a6\u30a7\u30ca\u5546\u4f1a\u676f",
+        "Name_ko": "\ub85c\uc6e8\ub098 \uc0c1\ud68c\ubc30"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u5965\u5170\u7eaa\u5ff5\u8d5b",
+        "Name_de": "Orran-Durai-Ehrenturnier",
+        "Name_en": "the Durai Memorial",
+        "Name_fr": "le Jubil\u00e9 Orran Durai",
+        "Name_ja": "\u30aa\u30fc\u30e9\u30f3\u8a18\u5ff5",
+        "Name_ko": "\uc624\ub780 \uae30\ub150 \ub300\ud68c"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u7f57\u8587\u5a1c\u676f",
+        "Name_de": "Rowena-Pokal",
+        "Name_en": "the Rowena Cup Classic",
+        "Name_fr": "la Coupe Rowena",
+        "Name_ja": "\u30ed\u30a6\u30a7\u30ca\u5546\u4f1a\u676f",
+        "Name_ko": "\ub85c\uc6e8\ub098 \uc0c1\ud68c\ubc30"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u66fc\u5fb7\u7ef4\u5c14\u9526\u6807\u8d5b",
+        "Name_de": "Manderville-Masters",
+        "Name_en": "the Manderville Tournament of Champions",
+        "Name_fr": "le Championnat des Manderville",
+        "Name_ja": "\u30de\u30f3\u30c0\u30f4\u30a3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30b7\u30c3\u30d7",
+        "Name_ko": "\ub9e8\ub354\ube4c\ubc30 \uc120\uc218\uad8c \ub300\ud68c"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u547d\u8fd0\u795e\u5927\u5956\u8d5b",
+        "Name_de": "Gro\u00dfer Preis von Nymeia",
+        "Name_en": "the Spinner's Pull",
+        "Name_fr": "le Grand Prix de la Fileuse",
+        "Name_ja": "\u661f\u795e\u30cb\u30e1\u30fc\u30e4\u8cde\u5178",
+        "Name_ko": "\ubcc4\uc758 \uc2e0 \ub2c8\uba54\uc774\uc544\ubc30"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5965\u5170\u7eaa\u5ff5\u8d5b",
+        "Name_de": "Orran-Durai-Ehrenturnier",
+        "Name_en": "the Durai Memorial",
+        "Name_fr": "le Jubil\u00e9 Orran Durai",
+        "Name_ja": "\u30aa\u30fc\u30e9\u30f3\u8a18\u5ff5",
+        "Name_ko": "\uc624\ub780 \uae30\ub150 \ub300\ud68c"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u7f57\u8587\u5a1c\u676f",
+        "Name_de": "Rowena-Pokal",
+        "Name_en": "the Rowena Cup Classic",
+        "Name_fr": "la Coupe Rowena",
+        "Name_ja": "\u30ed\u30a6\u30a7\u30ca\u5546\u4f1a\u676f",
+        "Name_ko": "\ub85c\uc6e8\ub098 \uc0c1\ud68c\ubc30"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u66fc\u5fb7\u7ef4\u5c14\u9526\u6807\u8d5b",
+        "Name_de": "Manderville-Masters",
+        "Name_en": "the Manderville Tournament of Champions",
+        "Name_fr": "le Championnat des Manderville",
+        "Name_ja": "\u30de\u30f3\u30c0\u30f4\u30a3\u30eb\u30fb\u30c1\u30e3\u30f3\u30d4\u30aa\u30f3\u30b7\u30c3\u30d7",
+        "Name_ko": "\ub9e8\ub354\ube4c\ubc30 \uc120\uc218\uad8c \ub300\ud68c"
+    }
+}

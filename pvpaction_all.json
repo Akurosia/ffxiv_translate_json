@@ -1,0 +1,461 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u63a9\u62a4\u76fe",
+        "Name_de": "Testudo",
+        "Name_en": "Testudo",
+        "Name_fr": "Testudo",
+        "Name_ja": "\u30c6\u30b9\u30c8\u30a5\u30c9",
+        "Name_ko": "\uadc0\uac11 \ubc29\ud328"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u67aa\u6746\u51fb",
+        "Name_de": "Spie\u00df",
+        "Name_en": "Skewer",
+        "Name_fr": "Embrochement",
+        "Name_ja": "\u30b9\u30ad\u30e5\u30a2\u30fc",
+        "Name_ko": "\uaf2c\ucc59\uc774 \uaff0\uae30"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u82f1\u52c7\u8fdb\u884c\u66f2",
+        "Name_de": "Kriegsmarsch",
+        "Name_en": "Battlefield March",
+        "Name_fr": "Marche du champ de bataille",
+        "Name_ja": "\u52c7\u6226\u306e\u30de\u30fc\u30c1",
+        "Name_ko": "\uc6a9\uc0ac\uc758 \ud589\uc9c4\uace1"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u8fdc\u5c04",
+        "Name_de": "Weitschuss",
+        "Name_en": "Farshot",
+        "Name_fr": "Tir lointain",
+        "Name_ja": "\u30d5\u30a1\u30fc\u30b7\u30e7\u30c3\u30c8",
+        "Name_ko": "\uc6d0\uac70\ub9ac \uc0ac\uaca9"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u7206\u53d1\u5c04\u51fb",
+        "Name_de": "Sto\u00dfschuss",
+        "Name_en": "Blast Shot",
+        "Name_fr": "Tir explosif",
+        "Name_ja": "\u30d6\u30e9\u30b9\u30c8\u30b7\u30e7\u30c3\u30c8",
+        "Name_ko": "\ud3ed\ubc1c \uc0ac\uaca9"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u5973\u795e\u7684\u6148\u60b2",
+        "Name_de": "Barmherzigkeit",
+        "Name_en": "Sacred Prism",
+        "Name_fr": "Prisme sacr\u00e9",
+        "Name_ja": "\u5973\u795e\u306e\u6148\u60b2",
+        "Name_ko": "\uc5ec\uc2e0\uc758 \uc790\ube44"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u5973\u795e\u7684\u6c14\u606f",
+        "Name_de": "G\u00f6ttlicher Atem",
+        "Name_en": "Divine Breath",
+        "Name_fr": "Souffle divin",
+        "Name_ja": "\u5973\u795e\u306e\u606f\u5439",
+        "Name_ko": "\uc5ec\uc2e0\uc758 \uc228\uacb0"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u591c\u7ffc",
+        "Name_de": "Nachtschwinge",
+        "Name_en": "Night Wing",
+        "Name_fr": "Aile nocturne",
+        "Name_ja": "\u30ca\u30a4\u30c8\u30a6\u30a3\u30f3\u30b0",
+        "Name_ko": "\ubc24\uc758 \ub0a0\uac1c"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u5e7b\u5f71\u5f39",
+        "Name_de": "Phantompfeil",
+        "Name_en": "Phantom Dart",
+        "Name_fr": "Projectile fant\u00f4me",
+        "Name_ja": "\u30d5\u30a1\u30f3\u30c8\u30e0\u30c0\u30fc\u30c8",
+        "Name_ko": "\uc720\ub839 \uc410\uae30"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u795e\u79d8\u9762\u7eb1",
+        "Name_de": "Nebelschleier",
+        "Name_en": "Misty Veil",
+        "Name_fr": "Voile de brume",
+        "Name_ja": "\u30df\u30b9\u30c6\u30a3\u30f4\u30a7\u30fc\u30eb",
+        "Name_ko": "\uc548\uac1c\uc758 \uc7a5\ub9c9"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u51cb\u96f6",
+        "Name_de": "Entkr\u00e4ften",
+        "Name_en": "Wither",
+        "Name_fr": "Fl\u00e9trissure",
+        "Name_ja": "\u30a6\u30a3\u30b6\u30fc",
+        "Name_ko": "\uc1e0\ud1f4"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u8363\u8000\u65a9",
+        "Name_de": "Prunkhieb",
+        "Name_en": "Glory Slash",
+        "Name_fr": "Lac\u00e9ration glorieuse",
+        "Name_ja": "\u30b0\u30ed\u30fc\u30ea\u30fc\u30b9\u30e9\u30c3\u30b7\u30e5",
+        "Name_ko": "\uba85\uc608\ub85c\uc6b4 \uc77c\uaca9"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u751f\u547d\u6ce2\u52a8\u6cd5",
+        "Name_de": "Auratische Resonanz",
+        "Name_en": "Aura Blast",
+        "Name_fr": "D\u00e9tonation d'aura",
+        "Name_ja": "\u751f\u547d\u6ce2\u52d5\u6cd5",
+        "Name_ko": "\uc0dd\uba85\ud30c\ub3d9\uc220"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u7cbe\u795e\u7edf\u4e00\u4e4b\u7b56",
+        "Name_de": "Lege Artis",
+        "Name_en": "Focalization",
+        "Name_fr": "Trait\u00e9 de la focalisation",
+        "Name_ja": "\u7cbe\u795e\u7d71\u4e00\u306e\u7b56",
+        "Name_ko": "\uc815\uc2e0\ud1b5\uc77c\ucc45"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u6b66\u5668\u6295\u63b7",
+        "Name_de": "Waffenwurf",
+        "Name_en": "Weapon Throw",
+        "Name_fr": "Jet d'arme",
+        "Name_ja": "\u30a6\u30a7\u30dd\u30f3\u30b9\u30ed\u30fc",
+        "Name_ko": "\ubb34\uae30 \ud22c\ucc99"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u594b\u8d77",
+        "Name_de": "\u00dcberschwang",
+        "Name_en": "Enliven",
+        "Name_fr": "Remotivation",
+        "Name_ja": "\u596e\u8d77",
+        "Name_ko": "\ubd84\ubc1c"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u4ee5\u592a\u7206\u53d1",
+        "Name_de": "\u00c4therschub",
+        "Name_en": "Aetheric Burst",
+        "Name_fr": "Explosion \u00e9th\u00e9r\u00e9e",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30eb\u30d0\u30fc\u30b9\u30c8",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ubd84\ucd9c"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u96c6\u4e2d",
+        "Name_de": "Konzentration",
+        "Name_en": "Concentrate",
+        "Name_fr": "Concentration",
+        "Name_ja": "\u96c6\u4e2d",
+        "Name_ko": "\uc9d1\uc911"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u9b54\u6c14",
+        "Name_de": "Manaquelle",
+        "Name_en": "Muse",
+        "Name_fr": "Source de mana",
+        "Name_ja": "\u9b54\u6c17",
+        "Name_ko": "\uba85\uc0c1"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u575a\u5b88",
+        "Name_de": "Schutzwehr",
+        "Name_en": "Safeguard",
+        "Name_fr": "Sauvegarde",
+        "Name_ja": "\u5805\u5b88",
+        "Name_ko": "\uc218\ube44"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u5f3a\u88ad",
+        "Name_de": "Blitzattacke",
+        "Name_en": "Overwhelm",
+        "Name_fr": "Assaut",
+        "Name_ja": "\u5f37\u8972\u6483",
+        "Name_ko": "\uac15\uc2b5 \uacf5\uaca9"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u79d8\u94f6\u66b4\u98ce",
+        "Name_de": "Mithril-Gewitter",
+        "Name_en": "Mythril Tempest",
+        "Name_fr": "Temp\u00eate de mithril",
+        "Name_ja": "\u30df\u30b9\u30ea\u30eb\u30c6\u30f3\u30da\u30b9\u30c8",
+        "Name_ko": "\ubbf8\uc2a4\ub9b4 \ud3ed\ud48d"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u5c18\u5377",
+        "Name_de": "Staubteufel",
+        "Name_en": "Ill Wind",
+        "Name_fr": "Vent mauvais",
+        "Name_ja": "\u8fbb\u98a8",
+        "Name_ko": "\ub3cc\uac1c\ubc14\ub78c"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u5343\u91cc\u773c",
+        "Name_de": "Hellsehen",
+        "Name_en": "Malmsight",
+        "Name_fr": "Clairvoyance",
+        "Name_ja": "\u5343\u91cc\u773c",
+        "Name_ko": "\ucc9c\ub9ac\uc548"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u8bc6\u7834",
+        "Name_de": "Enttarnen",
+        "Name_en": "Detect",
+        "Name_fr": "D\u00e9tection",
+        "Name_ja": "\u307f\u3084\u3076\u308b",
+        "Name_ko": "\ud0d0\uc9c0"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u81ea\u6108",
+        "Name_de": "Genesung",
+        "Name_en": "Recuperate",
+        "Name_fr": "R\u00e9tablissement",
+        "Name_ja": "\u5feb\u6c17",
+        "Name_ko": "\ud65c\uae30"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u72d9\u51fb",
+        "Name_de": "Zwischen die Augen",
+        "Name_en": "Between the Eyes",
+        "Name_fr": "Entre les yeux",
+        "Name_ja": "\u72d9\u6483",
+        "Name_ko": "\uc800\uaca9"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u7535\u51fb\u67aa",
+        "Name_de": "Bet\u00e4ubungsgewehr",
+        "Name_en": "Stun Gun",
+        "Name_fr": "Pistolet \u00e9tourdissant",
+        "Name_ja": "\u30b9\u30bf\u30f3\u30ac\u30f3",
+        "Name_ko": "\uc804\uae30 \ucda9\uaca9"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u67aa\u58f0",
+        "Name_de": "Report",
+        "Name_en": "Report",
+        "Name_fr": "Report",
+        "Name_ja": "\u30ac\u30f3\u30ec\u30dd\u30fc\u30c8",
+        "Name_ko": "\ucd1d\uc131"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u9006\u884c",
+        "Name_de": "Retrograder Zyklus",
+        "Name_en": "Retrogradation",
+        "Name_fr": "R\u00e9trogradation",
+        "Name_ja": "\u30ec\u30c8\u30ed\u30b0\u30e9\u30c7\u30fc\u30b7\u30e7\u30f3",
+        "Name_ko": "\uc5ed\ud589"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u6ca5\u9752\u9677\u9631",
+        "Name_de": "Teergrube",
+        "Name_en": "Tar Pit",
+        "Name_fr": "Mare de goudron",
+        "Name_ja": "\u30bf\u30fc\u30eb\u30d4\u30c3\u30c8",
+        "Name_ko": "\ud0c0\ub974 \uc6c5\ub369\uc774"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u538c\u4e16",
+        "Name_de": "Greifbares Grauen",
+        "Name_en": "Carnal Chill",
+        "Name_fr": "Froideur charnelle",
+        "Name_ja": "\u30ab\u30fc\u30ca\u30eb\u30c1\u30eb",
+        "Name_ko": "\uc695\ub9dd\uc758 \ub0c9\uae30"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u6218\u6296",
+        "Name_de": "Schlachtrausch",
+        "Name_en": "Thrill of War",
+        "Name_fr": "Frisson de la guerre",
+        "Name_ja": "\u30b9\u30ea\u30eb\u30fb\u30aa\u30d6\u30fb\u30a6\u30a9\u30fc",
+        "Name_ko": "\uc804\uc7c1\uc758 \uc9dc\ub9bf\ud568"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u53cd\u63a8",
+        "Name_de": "Absto\u00dfung",
+        "Name_en": "Repel",
+        "Name_fr": "R\u00e9pulsion",
+        "Name_ja": "\u53cd\u767a",
+        "Name_ko": "\ub418\ubc1b\uc544\uce58\uae30"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u5168\u529b\u6325\u6253",
+        "Name_de": "Voller Schwinger",
+        "Name_en": "Full Swing",
+        "Name_fr": "Plein \u00e9lan",
+        "Name_ja": "\u30d5\u30eb\u30b9\u30a4\u30f3\u30b0",
+        "Name_ko": "\uc804\ub825 \uac15\ud0c0"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u843d\u8e35\u8e22",
+        "Name_de": "Axttritt",
+        "Name_en": "Axe Kick",
+        "Name_fr": "Coup de pied retombant",
+        "Name_ja": "\u304b\u304b\u3068\u843d\u3068\u3057",
+        "Name_ko": "\ucc0d\uc5b4\ucc28\uae30"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u7b4b\u6597\u8e22",
+        "Name_de": "Salto",
+        "Name_en": "Somersault",
+        "Name_fr": "Saut p\u00e9rilleux",
+        "Name_ja": "\u30b5\u30de\u30fc\u30bd\u30eb\u30c8",
+        "Name_ko": "\uacf5\uc911\uc81c\ube44"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u9694\u79bb\u7f69",
+        "Name_de": "Obhut",
+        "Name_en": "Fetter Ward",
+        "Name_fr": "\u00c9mancipation",
+        "Name_ja": "\u30d5\u30a7\u30bf\u30fc\u30a6\u30a9\u30fc\u30c9",
+        "Name_ko": "\uad6c\uc18d \ubc29\uc9c0"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u8109\u51b2\u523a",
+        "Name_de": "Impuls-Ansturm",
+        "Name_en": "Impulse Rush",
+        "Name_fr": "Impulsion subite",
+        "Name_ja": "\u30a4\u30f3\u30d1\u30eb\u30b9\u30e9\u30c3\u30b7\u30e5",
+        "Name_ko": "\uc5f0\uc1c4 \ub3cc\uaca9"
+    }
+}

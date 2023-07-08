@@ -1,0 +1,596 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u6218\u5973\u795e\u4e4b\u6012\u8fde\u51fb",
+        "Name_de": "Kombo Halones Groll",
+        "Name_en": "Rage of Halone Combo",
+        "Name_fr": "Combo Rage de Halone",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30ec\u30a4\u30b8\u30fb\u30aa\u30d6\u30fb\u30cf\u30eb\u30aa\u30fc\u30cd",
+        "Name_ko": "\ud560\ub85c\ub124\uc758 \ubd84\ub178 \ucf64\ubcf4"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u9f99\u5c3e\u5927\u56de\u65cb\u8fde\u51fb",
+        "Name_de": "Kombo F\u00e4chersto\u00df",
+        "Name_en": "Wheeling Thrust Combo",
+        "Name_fr": "Combo Perc\u00e9e tournante",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u7adc\u5c3e\u5927\u8eca\u8f2a",
+        "Name_ko": "\uc6a9\uc758 \uaf2c\ub9ac \ucf64\ubcf4"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u65cb\u98ce\u5203\u8fde\u51fb",
+        "Name_de": "Kombo \u00c4olusklinge",
+        "Name_en": "Aeolian Edge Combo",
+        "Name_fr": "Combo Lame \u00e9olienne",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u65cb\u98a8\u5203",
+        "Name_ko": "\uce7c\ub0a0 \uc120\ud48d \ucf64\ubcf4"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u5f71\u7259\u8fde\u51fb",
+        "Name_de": "Kombo Schattenfang",
+        "Name_en": "Shadow Fang Combo",
+        "Name_fr": "Combo Croc d'ombre",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u5f71\u7259",
+        "Name_ko": "\uadf8\ub9bc\uc790 \uc1a1\uacf3\ub2c8 \ucf64\ubcf4"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u96ea\u98ce\u8fde\u51fb",
+        "Name_de": "Kombo Yukikaze",
+        "Name_en": "Yukikaze Combo",
+        "Name_fr": "Combo Yukikaze",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u96ea\u98a8",
+        "Name_ko": "\uc124\ud48d \ucf64\ubcf4"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u6708\u5149\u8fde\u51fb",
+        "Name_de": "Kombo Gekko",
+        "Name_en": "Gekko Combo",
+        "Name_fr": "Combo Gekk\u00f4",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u6708\u5149",
+        "Name_ko": "\uc6d4\uad11 \ucf64\ubcf4"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u82b1\u8f66\u8fde\u51fb",
+        "Name_de": "Kombo Kasha",
+        "Name_en": "Kasha Combo",
+        "Name_fr": "Combo Kasha",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u82b1\u8eca",
+        "Name_ko": "\ud654\ucc28 \ucf64\ubcf4"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u76f4\u7ebf\u5c04\u51fb\u8fde\u51fb",
+        "Name_de": "Kombo Direkter Schuss",
+        "Name_en": "Straight Shot Combo",
+        "Name_fr": "Combo Tir droit",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b9\u30c8\u30ec\u30fc\u30c8\u30b7\u30e7\u30c3\u30c8",
+        "Name_ko": "\uc9c1\uc120 \uc0ac\uaca9 \ucf64\ubcf4"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u72c2\u98ce\u8680\u7bad\u8fde\u51fb",
+        "Name_de": "Kombo Sturmbiss",
+        "Name_en": "Stormbite Combo",
+        "Name_fr": "Combo Morsure de la temp\u00eate",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b9\u30c8\u30fc\u30e0\u30d0\u30a4\u30c8",
+        "Name_ko": "\ud3ed\ud48d \ud654\uc0b4 \ucf64\ubcf4"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u70ed\u72d9\u51fb\u5f39\u8fde\u51fb",
+        "Name_de": "Kombo Sauberer H\u00f6llenschuss",
+        "Name_en": "Heated Clean Shot Combo",
+        "Name_fr": "Combo Tir net chauff\u00e9",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30d2\u30fc\u30c8\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8",
+        "Name_ko": "\uc5f4\uc815\ubc00\ud0c4 \ucf64\ubcf4"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u9b54\u8fde\u653b\u8fde\u51fb",
+        "Name_de": "Kombo Magisches Redoublement",
+        "Name_en": "Enchanted Redoublement Combo",
+        "Name_fr": "Combo Redoublement enchant\u00e9",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30a8\u30f3\u30eb\u30c9\u30a5\u30d6\u30eb\u30de\u30f3",
+        "Name_ko": "\uc778\ub974\ub450\ube14\ub9dd \ucf64\ubcf4"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u738b\u6743\u5251\u8fde\u51fb",
+        "Name_de": "Kombo K\u00f6nigsklinge",
+        "Name_en": "Royal Authority Combo",
+        "Name_fr": "Combo Autorit\u00e9 royale",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30ed\u30a4\u30e4\u30eb\u30a2\u30bd\u30ea\u30c6\u30a3",
+        "Name_ko": "\uc81c\uc655\uc758 \uad8c\uc704 \ucf64\ubcf4"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u8fc5\u8fde\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Stahlwalze",
+        "Name_en": "Solid Barrel Combo",
+        "Name_fr": "Combo Salve tranchante",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30bd\u30ea\u30c3\u30c9\u30d0\u30ec\u30eb",
+        "Name_ko": "\uace7\uc740 \ucd1d\uc5f4 \ucf64\ubcf4"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u51f6\u79bd\u722a\u8fde\u51fb",
+        "Name_de": "Kombo T\u00fcckische Kralle",
+        "Name_en": "Wicked Talon Combo",
+        "Name_fr": "Combo Serre vicieuse",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30a6\u30a3\u30b1\u30c3\u30c9\u30bf\u30ed\u30f3",
+        "Name_ko": "\uc545\ub784\ud55c \uac08\ud034 \ucf64\ubcf4"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u55b7\u6cc9\u8fde\u51fb",
+        "Name_de": "Kombo Font\u00e4ne",
+        "Name_en": "Fountain Combo",
+        "Name_fr": "Combo Fontaine",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30d5\u30a1\u30a6\u30f3\u30c6\u30f3",
+        "Name_ko": "\ud30c\uc6b4\ud2f4 \ucf64\ubcf4"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u6e38\u8361\u5251\u8fde\u51fb",
+        "Name_de": "Kombo S\u00e4belrassler",
+        "Name_en": "Swashbuckler Combo",
+        "Name_fr": "Combo Spadassin",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b9\u30ef\u30c3\u30b7\u30e5\u30d0\u30c3\u30af\u30e9\u30fc",
+        "Name_ko": "\ubb34\ubaa8\ud55c \uac80\uaca9 \ucf64\ubcf4"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u5927\u65e5\u98df\u8fde\u51fb",
+        "Name_de": "Kombo Totale Eklipse",
+        "Name_en": "Greatest Eclipse Combo",
+        "Name_fr": "Combo \u00c9clipse supr\u00eame",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b0\u30ec\u30a4\u30c6\u30b9\u30c8\u30a8\u30af\u30ea\u30d7\u30b9",
+        "Name_ko": "\uc7a5\ub300\ud55c \uac1c\uae30\uc2dd \ucf64\ubcf4"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u8fc5\u8fde\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Stahlwalze",
+        "Name_en": "Solid Barrel Combo",
+        "Name_fr": "Combo Salve tranchante",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30bd\u30ea\u30c3\u30c9\u30d0\u30ec\u30eb",
+        "Name_ko": "\uace7\uc740 \ucd1d\uc5f4 \ucf64\ubcf4"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u5c71\u5883\u9177\u5211\u8fde\u51fb",
+        "Name_de": "Kombo Coerthische Folter",
+        "Name_en": "Coerthan Torment Combo",
+        "Name_fr": "Combo Tourment du Coerthas",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30af\u30eb\u30b6\u30f3\u30c8\u30fc\u30e1\u30f3\u30c8",
+        "Name_ko": "\ucee4\ub974\ub2e4\uc2a4\uc758 \uace0\ud1b5 \ucf64\ubcf4"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u65e5\u73e5\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Protuberanz",
+        "Name_en": "Prominence Combo",
+        "Name_fr": "Combo \u00c9vidence",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30d7\u30ed\u30df\u30cd\u30f3\u30b9",
+        "Name_ko": "\ud64d\uc5fc \ucf64\ubcf4"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u94a2\u94c1\u65cb\u98ce\u8fde\u51fb",
+        "Name_de": "Kombo Kreiselklinge",
+        "Name_en": "Steel Cyclone Combo",
+        "Name_fr": "Combo Cyclone de fer",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b9\u30c1\u30fc\u30eb\u30b5\u30a4\u30af\u30ed\u30f3",
+        "Name_ko": "\uac15\ucca0 \ud68c\uc624\ub9ac \ucf64\ubcf4"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u521a\u9b42\u8fde\u51fb",
+        "Name_de": "Kombo Seelenst\u00e4rke",
+        "Name_en": "Stalwart Soul Combo",
+        "Name_fr": "Combo Noirceur insoumise",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b9\u30c8\u30eb\u30ef\u30fc\u30c8\u30bd\u30a6\u30eb",
+        "Name_ko": "\ubd88\uad74\uc758 \uc601\ud63c \ucf64\ubcf4"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u5bd2\u98ce\u65a7\u8fde\u51fb",
+        "Name_de": "Kombo Fleischerbeil",
+        "Name_en": "Butcher's Block Combo",
+        "Name_fr": "Combo Billot du boucher",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30dc\u30fc\u30e9\u30a2\u30af\u30b9",
+        "Name_ko": "\ud718\ub3c4\ub294 \ub3c4\ub07c \ucf64\ubcf4"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u5730\u70c8\u52b2\u8fde\u51fb",
+        "Name_de": "Kombo Erdspaltung",
+        "Name_en": "Rockbreaker Combo",
+        "Name_fr": "Combo Briseur de rocs",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u5730\u70c8\u65ac",
+        "Name_ko": "\uc9c0\uc5f4\ucc38 \ucf64\ubcf4"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u5c71\u5883\u9177\u5211\u8fde\u51fb",
+        "Name_de": "Kombo Coerthische Folter",
+        "Name_en": "Coerthan Torment Combo",
+        "Name_fr": "Combo Tourment du Coerthas",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30af\u30eb\u30b6\u30f3\u30c8\u30fc\u30e1\u30f3\u30c8",
+        "Name_ko": "\ucee4\ub974\ub2e4\uc2a4\uc758 \uace0\ud1b5 \ucf64\ubcf4"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u516b\u5366\u65e0\u5203\u6740\u8fde\u51fb",
+        "Name_de": "Kombo Hakke Mujinsatsu",
+        "Name_en": "Hakke Mujinsatsu Combo",
+        "Name_fr": "Combo Hakke Mujinsatsu",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u516b\u5366\u7121\u5203\u6bba",
+        "Name_ko": "\ud314\uad18\ubb34\uc778\uc0b4 \ucf64\ubcf4"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u82b1\u8f66\u8fde\u51fb",
+        "Name_de": "Kombo Kasha",
+        "Name_en": "Kasha Combo",
+        "Name_fr": "Combo Kasha",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u82b1\u8eca",
+        "Name_ko": "\ud654\ucc28 \ucf64\ubcf4"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u6a31\u82b1\u8fde\u51fb",
+        "Name_de": "Kombo Oka",
+        "Name_en": "Oka Combo",
+        "Name_fr": "Combo \u00d4ka",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u685c\u82b1",
+        "Name_ko": "\uc575\ud654 \ucf64\ubcf4"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u6076\u9b54\u6740\u8fde\u51fb",
+        "Name_de": "Kombo D\u00e4monenschlachter",
+        "Name_en": "Demon Slaughter Combo",
+        "Name_fr": "Combo Massacre d\u00e9moniaque",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30c7\u30fc\u30e2\u30f3\u30b9\u30ed\u30fc\u30bf\u30fc",
+        "Name_ko": "\uc545\ub9c8\uc758 \uc0b4\uc721 \ucf64\ubcf4"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u843d\u5203\u96e8\u8fde\u51fb",
+        "Name_de": "Kombo Klingenflut",
+        "Name_en": "Bladeshower Combo",
+        "Name_fr": "Combo Averse de lames",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30d6\u30ec\u30fc\u30c9\u30b7\u30e3\u30ef\u30fc",
+        "Name_ko": "\ube14\ub808\uc774\ub4dc \uc0e4\uc6cc \ucf64\ubcf4"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u591c\u6708\u8fde\u51fb",
+        "Name_de": "Kombo Yogetsu",
+        "Name_en": "Yagetsu Combo",
+        "Name_fr": "Combo Yagetsu",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u591c\u6708",
+        "Name_ko": "\uc57c\uc6d4 \ucf64\ubcf4"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u4ee5\u592a\u5149\u5251\u8fde\u51fb",
+        "Name_de": "Kombo \u00c4thers\u00e4bel",
+        "Name_en": "Final Flourish Combo",
+        "Name_fr": "Combo Sabre \u00e9th\u00e9r\u00e9",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30a8\u30fc\u30c6\u30eb\u30b5\u30fc\u30d9\u30eb",
+        "Name_ko": "\uc5d0\ud14c\ub974 \uc0ac\ube0c\ub974 \ucf64\ubcf4"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u8d64\u6838\u7206\u8fde\u51fb",
+        "Name_de": "Kombo Erzflare",
+        "Name_en": "Verflare Combo",
+        "Name_fr": "Combo VerBrasier",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30f4\u30a1\u30eb\u30d5\u30ec\u30a2",
+        "Name_ko": "\ubc84\ud50c\ub808\uc5b4 \ucf64\ubcf4"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u66b4\u98ce\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Sturmkeil",
+        "Name_en": "Storm's Path Combo",
+        "Name_fr": "Combo Couperet de justice",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b7\u30e5\u30c8\u30eb\u30e0\u30f4\u30a3\u30f3\u30c8",
+        "Name_ko": "\ud3ed\ud48d \uc410\uae30 \ucf64\ubcf4"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u79fd\u6d4a\u8fde\u51fb",
+        "Name_de": "Kombo Moder",
+        "Name_en": "Foul Combo",
+        "Name_fr": "Combo Infect",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30d5\u30a1\u30a6\u30eb",
+        "Name_ko": "\uae08\uc9c0\ub41c \uc5b8\uc5b4 \ucf64\ubcf4"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u738b\u51a0\u4e4b\u9886\u4e3b\u8fde\u51fb",
+        "Name_de": "Kombo K\u00f6nig der Kronen",
+        "Name_en": "Lord of Crowns Combo",
+        "Name_fr": "Combo Roi des couronnes",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30af\u30e9\u30a6\u30f3\u30ed\u30fc\u30c9",
+        "Name_ko": "\uc655\uc758 \uac80 \ucf64\ubcf4"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u6cb3\u6d41\u795e\u7684\u5377\u8f74\u8fde\u51fb",
+        "Name_de": "Kombo Thaliaks Schriftrolle",
+        "Name_en": "The Scroll Combo",
+        "Name_fr": "Combo Parchemin de Thaliak",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b5\u30ea\u30e3\u30af\u306e\u5dfb\u7269",
+        "Name_ko": "\uc0b4\ub9ac\uc544\ud06c\uc758 \ub450\ub8e8\ub9c8\ub9ac \ucf64\ubcf4"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u7126\u70ed\u8fde\u51fb",
+        "Name_de": "Kombo Versengung",
+        "Name_en": "Scorch Combo",
+        "Name_fr": "Combo Calcination",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b9\u30b3\u30fc\u30c1",
+        "Name_ko": "\uc791\uc5f4\ud654 \ucf64\ubcf4"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u6218\u5973\u795e\u4e4b\u6012\u8fde\u51fb",
+        "Name_de": "Kombo Halones Groll",
+        "Name_en": "Rage of Halone Combo",
+        "Name_fr": "Combo Rage de Halone",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30ec\u30a4\u30b8\u30fb\u30aa\u30d6\u30fb\u30cf\u30eb\u30aa\u30fc\u30cd",
+        "Name_ko": "\ud560\ub85c\ub124\uc758 \ubd84\ub178 \ucf64\ubcf4"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u8d64\u6838\u7206\u8fde\u51fb",
+        "Name_de": "Kombo Erzflare",
+        "Name_en": "Verflare Combo",
+        "Name_fr": "Combo VerBrasier",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30f4\u30a1\u30eb\u30d5\u30ec\u30a2",
+        "Name_ko": "\ubc84\ud50c\ub808\uc5b4 \ucf64\ubcf4"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u7126\u70ed\u8fde\u51fb",
+        "Name_de": "Kombo Versengung",
+        "Name_en": "Scorch Combo",
+        "Name_fr": "Combo Calcination",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b9\u30b3\u30fc\u30c1",
+        "Name_ko": "\uc791\uc5f4\ud654 \ucf64\ubcf4"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u8fc5\u8fde\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Stahlwalze",
+        "Name_en": "Solid Barrel Combo",
+        "Name_fr": "Combo Salve tranchante",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30bd\u30ea\u30c3\u30c9\u30d0\u30ec\u30eb",
+        "Name_ko": "\uace7\uc740 \ucd1d\uc5f4 \ucf64\ubcf4"
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u5730\u72f1\u5207\u5272\u8fde\u51fb",
+        "Name_de": "Kombo Infernalischer Schlitzer",
+        "Name_en": "Infernal Slice Combo",
+        "Name_fr": "Combo Tranchage infernal",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30a4\u30f3\u30d5\u30a1\u30ca\u30eb\u30b9\u30e9\u30a4\u30b9",
+        "Name_ko": "\uc9c0\uc625 \ub0ab\uc9c8 \ucf64\ubcf4"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u5669\u68a6\u9490\u5272\u8fde\u51fb",
+        "Name_de": "Kombo Schneidender Albtraum",
+        "Name_en": " Nightmare Scythe Combo",
+        "Name_fr": "Combo Faux cauchemardesque",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30ca\u30a4\u30c8\u30e1\u30a2\u30b5\u30a4\u30ba",
+        "Name_ko": "\uc545\ubabd\uc758 \ub0ab \ucf64\ubcf4"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u5f3a\u529b\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Kraftschlitzer",
+        "Name_en": "Power Slash Combo",
+        "Name_fr": "Combo Taillade puissante",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30d1\u30ef\u30fc\u30b9\u30e9\u30c3\u30b7\u30e5",
+        "Name_ko": "\ub300\ucc38\uaca9 \ucf64\ubcf4"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u738b\u6743\u5251\u8fde\u51fb",
+        "Name_de": "Kombo K\u00f6nigsklinge",
+        "Name_en": "Royal Authority Combo",
+        "Name_fr": "Combo Autorit\u00e9 royale",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30ed\u30a4\u30e4\u30eb\u30a2\u30bd\u30ea\u30c6\u30a3",
+        "Name_ko": "\uc81c\uc655\uc758 \uad8c\uc704 \ucf64\ubcf4"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u66b4\u98ce\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Sturmkeil",
+        "Name_en": "Storm's Path Combo",
+        "Name_fr": "Combo Couperet de justice",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30b7\u30e5\u30c8\u30eb\u30e0\u30f4\u30a3\u30f3\u30c8",
+        "Name_ko": "\ud3ed\ud48d \uc410\uae30 \ucf64\ubcf4"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "\u566c\u9b42\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Seelenfresser",
+        "Name_en": "Souleater Combo",
+        "Name_fr": "Combo D\u00e9voreur d'\u00e2me",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30bd\u30a6\u30eb\u30a4\u30fc\u30bf\u30fc",
+        "Name_ko": "\ud761\ud63c\uac80 \ucf64\ubcf4"
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u8fc5\u8fde\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Stahlwalze",
+        "Name_en": "Solid Barrel Combo",
+        "Name_fr": "Combo Salve tranchante",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30bd\u30ea\u30c3\u30c9\u30d0\u30ec\u30eb",
+        "Name_ko": "\uace7\uc740 \ucd1d\uc5f4 \ucf64\ubcf4"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "\u55b7\u6cc9\u8fde\u51fb",
+        "Name_de": "Kombo Font\u00e4ne",
+        "Name_en": "Fountain Combo",
+        "Name_fr": "Combo Fontaine",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30d5\u30a1\u30a6\u30f3\u30c6\u30f3",
+        "Name_ko": "\ud30c\uc6b4\ud2f4 \ucf64\ubcf4"
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u68a6\u5e7b\u6597\u821e\u8fde\u51fb",
+        "Name_de": "Kombo Phantomsto\u00df",
+        "Name_en": "Phantom Rush Combo",
+        "Name_fr": "Combo Rixe \u00e9vanescente",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u5922\u5e7b\u95d8\u821e",
+        "Name_ko": "\ubabd\ud658\ud22c\ubb34 \ucf64\ubcf4"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u9f99\u5c3e\u5927\u56de\u65cb\u8fde\u51fb",
+        "Name_de": "Kombo F\u00e4chersto\u00df",
+        "Name_en": "Wheeling Thrust Combo",
+        "Name_fr": "Combo Perc\u00e9e tournante",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u7adc\u5c3e\u5927\u8eca\u8f2a",
+        "Name_ko": "\uc6a9\uc758 \uaf2c\ub9ac \ucf64\ubcf4"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u65cb\u98ce\u5203\u8fde\u51fb",
+        "Name_de": "Kombo \u00c4olusklinge",
+        "Name_en": "Aeolian Edge Combo",
+        "Name_fr": "Combo Lame \u00e9olienne",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u65cb\u98a8\u5203",
+        "Name_ko": "\uce7c\ub0a0 \uc120\ud48d \ucf64\ubcf4"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u82b1\u8f66\u8fde\u51fb",
+        "Name_de": "Kombo Kasha",
+        "Name_en": "Kasha Combo",
+        "Name_fr": "Combo Kasha",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u82b1\u8eca",
+        "Name_ko": "\ud654\ucc28 \ucf64\ubcf4"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u5730\u72f1\u5207\u5272\u8fde\u51fb",
+        "Name_de": "Kombo Infernalischer Schlitzer",
+        "Name_en": "Infernal Slice Combo",
+        "Name_fr": "Combo Tranchage infernal",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30a4\u30f3\u30d5\u30a1\u30ca\u30eb\u30b9\u30e9\u30a4\u30b9",
+        "Name_ko": "\uc9c0\uc625 \ub0ab\uc9c8 \ucf64\ubcf4"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u566c\u9b42\u65a9\u8fde\u51fb",
+        "Name_de": "Kombo Seelenfresser",
+        "Name_en": "Souleater Combo",
+        "Name_fr": "Combo D\u00e9voreur d'\u00e2me",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30bd\u30a6\u30eb\u30a4\u30fc\u30bf\u30fc",
+        "Name_ko": "\ud761\ud63c\uac80 \ucf64\ubcf4"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "",
+        "Name_de": "Kombo Gentleman-Wut",
+        "Name_en": "Rage of the Gentleman Combo",
+        "Name_fr": "Combo Rage du gentilhomme",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30ec\u30a4\u30b8\u30fb\u30aa\u30d6\u30fb\u30b8\u30a7\u30f3\u30c8\u30eb\u30de\u30f3",
+        "Name_ko": ""
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u5730\u72f1\u5207\u5272\u8fde\u51fb",
+        "Name_de": "Kombo Infernalischer Schlitzer",
+        "Name_en": "Infernal Slice Combo",
+        "Name_fr": "Combo Tranchage infernal",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30a4\u30f3\u30d5\u30a1\u30ca\u30eb\u30b9\u30e9\u30a4\u30b9",
+        "Name_ko": ""
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u5669\u68a6\u9490\u5272\u8fde\u51fb",
+        "Name_de": "Kombo Schneidender Albtraum",
+        "Name_en": "Nightmare Scythe Combo",
+        "Name_fr": "Combo Faux cauchemardesque",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u30ca\u30a4\u30c8\u30e1\u30a2\u30b5\u30a4\u30ba",
+        "Name_ko": ""
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5d29\u62f3\u8fde\u51fb",
+        "Name_de": "Kombo Peitschenhieb",
+        "Name_en": "Snap Punch Combo",
+        "Name_fr": "Combo Coup de poing brusque",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u5d29\u62f3",
+        "Name_ko": "\ubd95\uad8c \ucf64\ubcf4"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u7834\u788e\u62f3\u8fde\u51fb",
+        "Name_de": "Kombo Demolieren",
+        "Name_en": "Demolish Combo",
+        "Name_fr": "Combo D\u00e9molition",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u7834\u7815\u62f3",
+        "Name_ko": "\ud30c\uc1c4\uad8c \ucf64\ubcf4"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u9f99\u5c3e\u5927\u56de\u65cb\u8fde\u51fb",
+        "Name_de": "Kombo F\u00e4chersto\u00df",
+        "Name_en": "Wheeling Thrust Combo",
+        "Name_fr": "Combo Perc\u00e9e tournante",
+        "Name_ja": "\u30b3\u30f3\u30dc\uff1a\u7adc\u5c3e\u5927\u8eca\u8f2a",
+        "Name_ko": "\uc6a9\uc758 \uaf2c\ub9ac \ucf64\ubcf4"
+    }
+}

@@ -1,0 +1,2711 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u7b2c\u4e00\u8230\u961f\u7b2c\u4e8c\u9646\u6218\u961f \u5e0c\u5c14\u65af\u51ef\u8f9b\u9646\u58eb",
+        "Name_de": "Auftraggeber: Gelbjackengefreiter Sylskaetsyn",
+        "Name_en": "Client: 2nd Levy Infantry, Yellowjacket Sergeant Sylskaetsyn",
+        "Name_fr": "Client : Sergent-major Sylskaetsyn",
+        "Name_ja": "\u7b2c\u4e00\u8266\u968a\u7b2c\u4e8c\u6226\u968a\u9ec4\u5957\uff1a\u30b7\u30eb\u30b9\u30b1\u30fc\u30c8\u30b7\u30f3\u9678\u66f9",
+        "Name_ko": "\uc81c1\ud568\ub300 \uc81c2\uc804\ub300 \ub178\ub780\uc154\uce20: \uc958\uce20\ucf00\ucdec \ud558\uc0ac"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e09\u67aa\u961f\u961f\u5458",
+        "Name_de": "Auftraggeber: Klageregiment",
+        "Name_en": "Client: Third Spear Wood Wailers",
+        "Name_fr": "Client : 3e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u53c2\u756a\u69cd\u968a\u58eb",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c3\ucc3d\ubcd1\uc870\uc6d0"
+    },
+    "100": {
+        "0xID": "64",
+        "Name_cn": "\u9ed1\u6da1\u56e2 \u7279\u6b8a\u9646\u6218\u961f",
+        "Name_de": "Auftraggeber: Mahlstrom-Flottenkommando, Abt. Zollwesen",
+        "Name_en": "Client: Maelstrom Foreign Levy",
+        "Name_fr": "Client : Infanterie sp\u00e9ciale du Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3\uff1a\u7279\u6b8a\u9678\u6226\u968a",
+        "Name_ko": "\ud751\uc640\ub2e8: \ud2b9\uc218\uc0c1\ub959\ubd80\ub300"
+    },
+    "101": {
+        "0xID": "65",
+        "Name_cn": "\u9ed1\u6da1\u56e2 \u8bbe\u65bd\u90e8\u5de5\u5175\u961f",
+        "Name_de": "Auftraggeber: Mahlstrom-Flottenkommando, Abt. Technik",
+        "Name_en": "Client: Maelstrom Command, Board of Engineers",
+        "Name_fr": "Client : Comit\u00e9 du g\u00e9nie du Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3\uff1a\u65bd\u8a2d\u79d1\u5de5\u5175\u968a",
+        "Name_ko": "\ud751\uc640\ub2e8: \uc2dc\uc124\uacfc \uacf5\ubcd1\ub300"
+    },
+    "102": {
+        "0xID": "66",
+        "Name_cn": "\u9ed1\u6da1\u56e2 \u6253\u51fb\u8230\u961f\u6240\u5c5e\u7b2c3\u9646\u6218\u961f",
+        "Name_de": "Auftraggeber: Die Schwarzen Segel des Mahlstroms",
+        "Name_en": "Client: The Maelstrom Black Sails",
+        "Name_fr": "Client : 3e d'infanterie du Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3\uff1a\u6253\u6483\u8266\u968a\u6240\u5c5e\u7b2c3\u9678\u6226\u968a",
+        "Name_ko": "\ud751\uc640\ub2e8: \ud0c0\uaca9\ud568\ub300 \ubd80\uc18d \uc81c3\uc0c1\ub959\ubd80\ub300"
+    },
+    "103": {
+        "0xID": "67",
+        "Name_cn": "\u53cc\u86c7\u515a \u7384\u732a\u961f",
+        "Name_de": "Auftraggeber: Bruderschaft der Morgenviper, Schwarze Eber",
+        "Name_en": "Client: The Order of the Twin Adder Black Boars",
+        "Name_fr": "Client : Brigade du Sanglier noir",
+        "Name_ja": "\u53cc\u86c7\u515a\uff1a\u7384\u732a\u968a",
+        "Name_ko": "\uc30d\uc0ac\ub2f9: \uba67\ub3fc\uc9c0\ubd80\ub300"
+    },
+    "104": {
+        "0xID": "68",
+        "Name_cn": "\u53cc\u86c7\u515a \u9752\u8c89\u961f",
+        "Name_de": "Auftraggeber: Bruderschaft der Morgenviper, Blaue Dachse",
+        "Name_en": "Client: The Order of the Twin Adder Blue Badgers",
+        "Name_fr": "Client : Brigade du Blaireau bleu",
+        "Name_ja": "\u53cc\u86c7\u515a\uff1a\u9752\u72e2\u968a",
+        "Name_ko": "\uc30d\uc0ac\ub2f9: \uc624\uc18c\ub9ac\ubd80\ub300"
+    },
+    "105": {
+        "0xID": "69",
+        "Name_cn": "\u53cc\u86c7\u515a \u6731\u736d\u961f",
+        "Name_de": "Auftraggeber: Bruderschaft der Morgenviper, Rote Otter",
+        "Name_en": "Client: The Order of the Twin Adder Red Otters",
+        "Name_fr": "Client : Brigade de la Loutre rouge",
+        "Name_ja": "\u53cc\u86c7\u515a\uff1a\u6731\u737a\u968a",
+        "Name_ko": "\uc30d\uc0ac\ub2f9: \uc218\ub2ec\ubd80\ub300"
+    },
+    "106": {
+        "0xID": "6A",
+        "Name_cn": "\u53cc\u86c7\u515a \u767d\u72fc\u961f",
+        "Name_de": "Auftraggeber: Bruderschaft der Morgenviper, Wei\u00dfe W\u00f6lfe",
+        "Name_en": "Client: The Order of the Twin Adder White Wolves",
+        "Name_fr": "Client : Brigade du Loup blanc",
+        "Name_ja": "\u53cc\u86c7\u515a\uff1a\u767d\u72fc\u968a",
+        "Name_ko": "\uc30d\uc0ac\ub2f9: \ub291\ub300\ubd80\ub300"
+    },
+    "107": {
+        "0xID": "6B",
+        "Name_cn": "\u6052\u8f89\u961f \u963f\u62c9\u7c73\u683c\u4eba\u90e8\u961f",
+        "Name_de": "Auftraggeber: Legion der Unsterblichen, Brigade Ala Mhigo",
+        "Name_en": "Client: The Immortal Flames Ala Mhigan Brigade",
+        "Name_fr": "Client : Brigade mhigoise des Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a\uff1a\u30a2\u30e9\u30df\u30b4\u4eba\u90e8\u968a",
+        "Name_ko": "\ubd88\uba78\ub300: \uc54c\ub77c\ubbf8\uace0\uc778 \ubd80\ub300"
+    },
+    "108": {
+        "0xID": "6C",
+        "Name_cn": "\u6052\u8f89\u961f \u7b2c\u4e00\u5de5\u5175\u4e2d\u961f",
+        "Name_de": "Auftraggeber: Legion der Unsterblichen, Pionierbrigade",
+        "Name_en": "Client: The Immortal Flames 1st Corps of Engineers",
+        "Name_fr": "Client : 1er r\u00e9giment du g\u00e9nie des Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a\uff1a\u7b2c\u4e00\u5de5\u5175\u4e2d\u968a",
+        "Name_ko": "\ubd88\uba78\ub300: \uc81c1\uacf5\ubcd1\uc911\ub300"
+    },
+    "109": {
+        "0xID": "6D",
+        "Name_cn": "\u6052\u8f89\u961f \u7b2c\u4e8c\u6218\u6597\u5927\u961f",
+        "Name_de": "Auftraggeber: Legion der Unsterblichen, 2. Hauptbrigade",
+        "Name_en": "Client: The Immortal Flames 2nd Main Brigade",
+        "Name_fr": "Client : 2e r\u00e9giment d'infanterie des Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a\uff1a\u7b2c\u4e8c\u6226\u95d8\u5927\u968a",
+        "Name_ko": "\ubd88\uba78\ub300: \uc81c2\uc804\ud22c\ub300\ub300"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u56db\u67aa\u961f\u961f\u5458",
+        "Name_de": "Auftraggeber: Klageregiment",
+        "Name_en": "Client: Fourth Spear Wood Wailers",
+        "Name_fr": "Client : 4e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u56db\u756a\u69cd\u968a\u58eb",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c4\ucc3d\ubcd1\uc870\uc6d0"
+    },
+    "110": {
+        "0xID": "6E",
+        "Name_cn": "\u6052\u8f89\u961f \u5c40\u957f\u76f4\u5c5e\u8840\u8346\u68d8\u7279\u52a1\u90e8\u961f",
+        "Name_de": "Auftraggeber: Legion der Unsterblichen, Blutgeschworene",
+        "Name_en": "Client: The Immortal Flames Bloodsworn",
+        "Name_fr": "Client : Escadron des Ronces sanglantes",
+        "Name_ja": "\u4e0d\u6ec5\u968a\uff1a\u5c40\u9577\u4ed8\u7279\u52d9\u968a\u300c\u30d6\u30e9\u30c3\u30c9\u30bd\u30fc\u30f3\u300d",
+        "Name_ko": "\ubd88\uba78\ub300: \uad6d\uc7a5 \ubd80\uc18d \ud2b9\ubb34\ub300 '\ube14\ub7ec\ub4dc\uc190'"
+    },
+    "111": {
+        "0xID": "6F",
+        "Name_cn": "\u6052\u8f89\u961f \u5916\u56fd\u4eba\u90e8\u961f",
+        "Name_de": "Auftraggeber: Legion der Unsterblichen, Fremdenbrigade",
+        "Name_en": "Client: The Immortal Flames Foreign Brigade",
+        "Name_fr": "Client : L\u00e9gion \u00e9trang\u00e8re des Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a\uff1a\u5916\u56fd\u4eba\u90e8\u968a",
+        "Name_ko": "\ubd88\uba78\ub300: \uc678\uad6d\uc778 \ubd80\ub300"
+    },
+    "112": {
+        "0xID": "70",
+        "Name_cn": "\u6052\u8f89\u961f \u7b2c\u4e09\u6218\u6597\u5927\u961f",
+        "Name_de": "Auftraggeber: Legion der Unsterblichen, 3. Hauptbrigade",
+        "Name_en": "Client: The Immortal Flames 3rd Main Brigade",
+        "Name_fr": "Client : 3e r\u00e9giment d'infanterie des Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a\uff1a\u7b2c\u4e09\u6226\u95d8\u5927\u968a",
+        "Name_ko": "\ubd88\uba78\ub300: \uc81c3\uc804\ud22c\ub300\ub300"
+    },
+    "113": {
+        "0xID": "71",
+        "Name_cn": "\u683c\u683c\u9c81\u7396\u5546\u4f1a\u7ba1\u7406\u5458 \u5229\u5229\u4f5b\u6069",
+        "Name_de": "Auftraggeber: Ririphon, Chefeink\u00e4ufer von Gegeruju",
+        "Name_en": "Client: Gegeruju Shipping Head Clerk, Ririphon Liliphon",
+        "Name_fr": "Client : Ririphon, employ\u00e9 de la Maison Gegeruju",
+        "Name_ja": "\u300c\u30b2\u30b2\u30eb\u30b8\u30e5\u5546\u4f1a\u300d\u756a\u982d\uff1a\u30ea\u30ea\u30d5\u30a9\u30f3",
+        "Name_ko": "'\uac8c\uac8c\ub8e8\uc8fc \uc0c1\ud68c' \uc9c0\ubc30\uc778: \ub9ac\ub9ac\ud3f0"
+    },
+    "114": {
+        "0xID": "72",
+        "Name_cn": "\u5e03\u9c81\u76d6\u5c14\u5546\u4f1a\u526f\u4f1a\u957f \u73ed\u6208\u00b7\u8d5e\u6208",
+        "Name_de": "Auftraggeber: Bango Zango vom Brugaire-Konsortium",
+        "Name_en": "Client: Brugaire Consortium Vice-chairman, Bango Zango",
+        "Name_fr": "Client : Bango Zango, du Consortium de Brugaire",
+        "Name_ja": "\u300c\u30d6\u30eb\u30b2\u30fc\u30eb\u5546\u4f1a\u300d\u526f\u4f1a\u9577\uff1a\u30d0\u30f3\u30b4\u30fb\u30b6\u30f3\u30b4",
+        "Name_ko": "'\ube0c\ub8e8\uac8c\uc774\ub974 \uc0c1\ud68c' \ubd80\ud68c\uc7a5: \ubc29\uace0 \uc7a5\uace0"
+    },
+    "115": {
+        "0xID": "73",
+        "Name_cn": "\u8d64\u8840\u96c4\u9e21\u519c\u573a \u5179\u5a01\u6069\u5a01\u8fbe",
+        "Name_de": "Auftraggeber: Zwynwyda von der Gockelburg",
+        "Name_en": "Client: Red Rooster Stead Smallholder, Zwynwyda the Tall",
+        "Name_fr": "Client : Zwynwyda, de la m\u00e9tairie du Coq rouge",
+        "Name_ja": "\u30ec\u30c3\u30c9\u30eb\u30fc\u30b9\u30bf\u30fc\u8fb2\u5834\uff1a\u30c4\u30a3\u30f3\u30a6\u30a3\u30c0",
+        "Name_ko": "\ubd89\uc740\uc218\ud0c9 \ub18d\uc7a5: \uce20\ubdd8\uc704\ub2e4"
+    },
+    "116": {
+        "0xID": "74",
+        "Name_cn": "\u4e2a\u4f53\u8d38\u6613\u5546\u4eba \u5f17\u5965\u6069\u00b7\u5e03\u91cc\u5965\u6069",
+        "Name_de": "Auftraggeber: Fewon Bulion, Exporteur",
+        "Name_en": "Client: Independent Exporter, Fewon Bulion",
+        "Name_fr": "Client : Fewon Bulion, marchand ind\u00e9pendant",
+        "Name_ja": "\u72ec\u7acb\u7cfb\u4ea4\u6613\u5546\u4eba\uff1a\u30d5\u30aa\u30f3\u30fb\u30d6\u30ea\u30aa\u30f3",
+        "Name_ko": "\ub3c5\ub9bd \uad50\uc5ed\uc0c1\uc778: \ud4e8\uc628 \ubd88\ub9ac\uc628"
+    },
+    "117": {
+        "0xID": "75",
+        "Name_cn": "\u51b0\u7075\u516c\u4e3b\u53f7\u5546\u8239\u8239\u957f \u8d6b\u00b7\u5170\u535a\u7f57",
+        "Name_de": "Auftraggeber: H'rhanbolo, Kapit\u00e4nin der Eisprinzessin",
+        "Name_en": "Client: Ice Princess Captain H'rhanbolo Oya",
+        "Name_fr": "Client : H'rhanbolo, capitaine de la Princesse de glace",
+        "Name_ja": "\u5546\u8239\u300c\u30a2\u30a4\u30b9\u30d7\u30ea\u30f3\u30bb\u30b9\u53f7\u300d\u8239\u9577\uff1a\u30cf\u30fb\u30e9\u30f3\u30dc\u30ed",
+        "Name_ko": "\uc0c1\uc120 '\uc5bc\uc74c\uacf5\uc8fc\ud638' \uc120\uc7a5: \ud558\ub780\ubcfc\ub85c"
+    },
+    "118": {
+        "0xID": "76",
+        "Name_cn": "\u963f\u4fee\u52a0\u7eb3\u8d38\u6613\u516c\u53f8\u7ecf\u7406 \u52b3\u529b\u58eb",
+        "Name_de": "Auftraggeber: Roarich vom Ashgana-\u00dcberseedepartment",
+        "Name_en": "Client: Ashgana Exports, Baron Roarich",
+        "Name_fr": "Client : Roarich, pr\u00e9sident des comptoirs d'Ashgana",
+        "Name_ja": "\u300c\u30a2\u30b7\u30e5\u30ac\u30ca\u8cbf\u6613\u300d\u4f1a\u9577\uff1a\u30ed\u30ea\u30c3\u30d2",
+        "Name_ko": "'\uc544\uc288\uac00\ub098 \ubb34\uc5ed' \ud68c\uc7a5: \ub85c\uc5b4\ub9ad"
+    },
+    "119": {
+        "0xID": "77",
+        "Name_cn": "\u5546\u961f\u4e92\u52a9\u4f1a \u5409\u5409\u5c24\u6069",
+        "Name_de": "Auftraggeber: Gigiyon von den 77 Karawanen",
+        "Name_en": "Client: Seventy-Seven Caravans Dispatch, Gigiyon",
+        "Name_fr": "Client : Gigiyon, des Soixante-dix-sept caravanes",
+        "Name_ja": "\u968a\u5546\u4e92\u52a9\u4f1a\uff1a\u30ae\u30ae\u30e8\u30f3",
+        "Name_ko": "\uc0c1\uc778\uacf5\uc81c\ud68c: \uae30\uae30\uc698"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e94\u67aa\u961f\u961f\u5458",
+        "Name_de": "Auftraggeber: Klageregiment",
+        "Name_en": "Client: Fifth Spear Wood Wailers",
+        "Name_fr": "Client : 5e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u4f0d\u756a\u69cd\u968a\u58eb",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c5\ucc3d\ubcd1\uc870\uc6d0"
+    },
+    "120": {
+        "0xID": "78",
+        "Name_cn": "\u5546\u961f\u4e92\u52a9\u4f1a \u7c73\u7c73\u5a1c",
+        "Name_de": "Auftraggeber: Mimina von den 77 Karawanen",
+        "Name_en": "Client: Seventy-Seven Caravans Dispatch, Mimina Mina",
+        "Name_fr": "Client : Mimina, des Soixante-dix-sept caravanes",
+        "Name_ja": "\u968a\u5546\u4e92\u52a9\u4f1a\uff1a\u30df\u30df\u30ca",
+        "Name_ko": "\uc0c1\uc778\uacf5\uc81c\ud68c: \ubbf8\ubbf8\ub098"
+    },
+    "121": {
+        "0xID": "79",
+        "Name_cn": "\u5546\u961f\u4e92\u52a9\u4f1a \u8299\u745e\u8fea\u65af\u7ef4\u838e",
+        "Name_de": "Auftraggeber: Frediswitha von den 77 Karawanen",
+        "Name_en": "Client: Seventy-Seven Caravans Dispatch, Frediswitha",
+        "Name_fr": "Client : Frediswitha, des Soixante-dix-sept caravanes",
+        "Name_ja": "\u968a\u5546\u4e92\u52a9\u4f1a\uff1a\u30d5\u30ec\u30c7\u30a3\u30b9\u30a3\u30b5",
+        "Name_ko": "\uc0c1\uc778\uacf5\uc81c\ud68c: \ud504\ub808\ub514\uc2a4\uc704\uc0ac"
+    },
+    "122": {
+        "0xID": "7A",
+        "Name_cn": "\u9152\u4fdd\u5546\u4eba \u7ef4\u6e29\u5a1c",
+        "Name_de": "Auftraggeber: Fahrende H\u00e4ndlerin Vivenne",
+        "Name_en": "Client: Independent Sutler, Vivenne Pamisolaux",
+        "Name_fr": "Client : Vivenne, cantini\u00e8re",
+        "Name_ja": "\u9152\u4fdd\u5546\u4eba\uff1a\u30d3\u30d9\u30cc",
+        "Name_ko": "\uc885\uad70\uc0c1\uc778: \ube44\ubca4"
+    },
+    "123": {
+        "0xID": "7B",
+        "Name_cn": "\u9152\u4fdd\u5546\u4eba \u5170\u51ef\u5c14",
+        "Name_de": "Auftraggeber: Fahrender H\u00e4ndler Lanquairt",
+        "Name_en": "Client: Independent Sutler, Lanquairt the Lean",
+        "Name_fr": "Client : Lanquairt, cantinier",
+        "Name_ja": "\u9152\u4fdd\u5546\u4eba\uff1a\u30e9\u30f3\u30b1\u30fc\u30eb",
+        "Name_ko": "\uc885\uad70\uc0c1\uc778: \ub791\ucf00\ub974\ud2b8"
+    },
+    "124": {
+        "0xID": "7C",
+        "Name_cn": "\u5723\u5bc7\u4f0a\u7eb3\u514b\u8d22\u56e2 \u838e\u4f0a\u827e\u52d2",
+        "Name_de": "Auftraggeber: Syele, Sankt Coinach-Stiftung",
+        "Name_en": "Client: Sons of Saint Coinach Cataloger, Syele Steele",
+        "Name_fr": "Client : Syele, de la Trouvaille de Saint-Coinach",
+        "Name_ja": "\u8056\u30b3\u30a4\u30ca\u30af\u8ca1\u56e3\uff1a\u30b5\u30a4\u30a8\u30eb",
+        "Name_ko": "\uc131 \ucf54\uc774\ub098\ud06c \uc7ac\ub2e8: \uc0ac\uc774\uc5d8"
+    },
+    "125": {
+        "0xID": "7D",
+        "Name_cn": "\u9152\u4fdd\u5546\u4eba \u8fea\u7ef4\u5e93\u9c81\u74e6",
+        "Name_de": "Auftraggeber: Schankwirt Duvicauroix",
+        "Name_en": "Client: Independent Sutler, Duvicauroix Dariustel",
+        "Name_fr": "Client : Duvicauroix, cantinier",
+        "Name_ja": "\u9152\u4fdd\u5546\u4eba\uff1a\u30c9\u30a5\u30d3\u30b3\u30ed\u30ef",
+        "Name_ko": "\uc885\uad70\uc0c1\uc778: \ub4c0\ube44\ucf54\ub8e8\uc544"
+    },
+    "126": {
+        "0xID": "7E",
+        "Name_cn": "\u4f0a\u4fee\u52a0\u5fb7\u6559\u7687\u5385\u795e\u6bbf\u9a91\u58eb \u9a6c\u745f\u5170",
+        "Name_de": "Auftraggeber: Ritter Marcelain, Ishgard",
+        "Name_en": "Client: Holy See of Ishgard Temple Knight Marcelain the Meek",
+        "Name_fr": "Client : Marcelain, chevalier ishgardais",
+        "Name_ja": "\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u6559\u7687\u5e81\uff1a\u795e\u6bbf\u9a0e\u58eb\u30de\u30eb\u30b9\u30e9\u30f3",
+        "Name_ko": "\uc774\uc288\uac00\ub974\ub4dc \uad50\ud669\uccad: \uc2e0\uc804\uae30\uc0ac \ub9c8\ub974\uc140\ub791"
+    },
+    "127": {
+        "0xID": "7F",
+        "Name_cn": "\u963f\u5fb7\u5185\u5c14\u5360\u661f\u53f0\u5360\u661f\u5b66\u5bb6 \u57c3\u5fb7\u6885\u52d2",
+        "Name_de": "Auftraggeber: Astrologin Edmelle, Observatorium",
+        "Name_en": "Client: Observatorium Astrologian, Edmelle Lothaire",
+        "Name_fr": "Client : Edmelle, astrologue de l'Observatoire",
+        "Name_ja": "\u30a2\u30c9\u30cd\u30fc\u30eb\u5360\u661f\u53f0\uff1a\u5360\u661f\u8853\u58eb\u30a8\u30c9\u30e1\u30eb",
+        "Name_ko": "\uc544\ub3c4\ub12c \uc810\uc131\ub300: \uc810\uc131\uc220\uc0ac \uc5d0\ub4dc\uba5c"
+    },
+    "128": {
+        "0xID": "80",
+        "Name_cn": "\u798f\u5c14\u5510\u5bb6\u9a91\u5175 \u963f\u8482\u91cc\u4e4c",
+        "Name_de": "Auftraggeber: Ritter Arthurioux aus dem Haus Fortemps",
+        "Name_en": "Client: House Fortemps Knight, Arthurioux the Bear",
+        "Name_fr": "Client : Arthurioux, chevalier de la maison Fortemps",
+        "Name_ja": "\u30d5\u30a9\u30eb\u30bf\u30f3\u5bb6\u306e\u9a0e\u5175\uff1a\u30a2\u30eb\u30c1\u30e5\u30ea\u30e5\u30fc",
+        "Name_ko": "\ud3ec\ub974\ud0d5 \uac00 \uae30\ubcd1: \uc544\ub974\ud280\ub9ac\uc6b0"
+    },
+    "129": {
+        "0xID": "81",
+        "Name_cn": "\u6597\u6280\u573a\u8d22\u56e2 \u4e4c\u7ef4\u5c14\u5174",
+        "Name_de": "Auftraggeber: Uwilsyng, Kolosseum",
+        "Name_en": "Client: Coliseum Coincounter, Uwilsyng Hollkoensyn",
+        "Name_fr": "Client : Uwilsyng, promoteur du Colis\u00e9e",
+        "Name_ja": "\u30b3\u30ed\u30bb\u30a6\u30e0\u8ca1\u56e3\uff1a\u30a6\u30f4\u30a3\u30eb\u30b7\u30f3\u30b0",
+        "Name_ko": "\uac80\ud22c \uc7ac\ub2e8: \uc6b0\ubddc\uc9d5\ud06c"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e94\u67aa\u961f\u961f\u5458 \u6731\u5229\u6602\u8d1d\u5c14",
+        "Name_de": "Auftraggeber: Juliembert vom Klageregiment",
+        "Name_en": "Client: Fifth Spear Wood Wailer, Juliembert Loitalant",
+        "Name_fr": "Client : Juliembert, de la 5e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u4f0d\u756a\u69cd\u968a\u58eb\uff1a\u30b8\u30e5\u30ea\u30a2\u30f3\u30d9\u30fc\u30eb",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c5\ucc3d\ubcd1\uc870\uc6d0: \uc904\ub9ac\uc559\ubca0\ub974"
+    },
+    "130": {
+        "0xID": "82",
+        "Name_cn": "\u5723\u5bc7\u4f0a\u7eb3\u514b\u8d22\u56e2\u6587\u5316\u4eba\u7c7b\u5b66\u8005 \u62c9\u59c6\u5e03\u9c81\u65af",
+        "Name_de": "Auftraggeber: Rammbroes, Sankt Coinach-Stiftung",
+        "Name_en": "Client: Sons of Saint Coinach Anthropogeographer, Rammbroes",
+        "Name_fr": "Client : Rammbroes, anthropologue de la Trouvaille de Saint-Coinach",
+        "Name_ja": "\u8056\u30b3\u30a4\u30ca\u30af\u8ca1\u56e3\uff1a\u6587\u5316\u4eba\u985e\u5b66\u8005\u30e9\u30e0\u30d6\u30eb\u30fc\u30b9",
+        "Name_ko": "\uc131 \ucf54\uc774\ub098\ud06c \uc7ac\ub2e8: \ubb38\ud654\uc778\ub958\ud559\uc790 \ub78c\ube0c\ub8e8\uc2a4"
+    },
+    "131": {
+        "0xID": "83",
+        "Name_cn": "\u5723\u5bc7\u4f0a\u7eb3\u514b\u8d22\u56e2\u8c03\u67e5\u5458 \u7eb3\u5409\u5c14\u00b7\u90fd\u5409\u5c14",
+        "Name_de": "Auftraggeber: Forscher Nazyl Duzyl, Sankt Coinach-Stiftung",
+        "Name_en": "Client: Sons of Saint Coinach Bone Sifter, Nazyl Duzyl",
+        "Name_fr": "Client : Nazyl Duzyl, chercheur de la Trouvaille de Saint-Coinach",
+        "Name_ja": "\u8056\u30b3\u30a4\u30ca\u30af\u8ca1\u56e3\uff1a\u8abf\u67fb\u54e1\u30ca\u30b8\u30eb\u30fb\u30c9\u30a5\u30b8\u30eb ",
+        "Name_ko": "\uc131 \ucf54\uc774\ub098\ud06c \uc7ac\ub2e8: \uc870\uc0ac\uc6d0 \ub098\uc9c8 \ub450\uc9c8"
+    },
+    "132": {
+        "0xID": "84",
+        "Name_cn": "\u53cc\u86c7\u515a \u9ec4\u86c7\u961f",
+        "Name_de": "Auftraggeber: Bruderschaft der Morgenviper, Gelbe Schlangen",
+        "Name_en": "Client: The Order of the Twin Adder Yellow Serpents",
+        "Name_fr": "Client : Bataillon de la vip\u00e8re jaune",
+        "Name_ja": "\u53cc\u86c7\u515a\uff1a\u9ec4\u86c7\u968a",
+        "Name_ko": "\uc30d\uc0ac\ub2f9: \ub3c5\uc0ac\ubd80\ub300"
+    },
+    "133": {
+        "0xID": "85",
+        "Name_cn": "\u827e\u739b\u5409\u5a1c\u77ff\u5c71\u516c\u53f8 \u5e03\u5170\u5e03\u9c81\u65af",
+        "Name_de": "Auftraggeber: Blanbroes, Amajina Bergbau AG",
+        "Name_en": "Client: Amajina & Sons Miner, Blanbroes ",
+        "Name_fr": "Client : Blanbroes, des Bons filons d'Amajina et Fils",
+        "Name_ja": "\u30a2\u30de\u30b8\u30ca\u9271\u5c71\u793e\uff1a\u30d6\u30e9\u30f3\u30d6\u30eb\u30fc\u30b9",
+        "Name_ko": "\uc544\ub9c8\uc9c0\ub098 \uad11\uc0b0\ud68c\uc0ac: \ube0c\ub791\ubd80\ub974\uc2a4"
+    },
+    "134": {
+        "0xID": "86",
+        "Name_cn": "\u827e\u739b\u5409\u5a1c\u77ff\u5c71\u516c\u53f8 \u963f\u6885\u6069\u52a0\u5c14\u5fb7",
+        "Name_de": "Auftraggeber: Irmengard, Amajina Bergbau AG",
+        "Name_en": "Client: Amajina & Sons Minekeep, Eight Lives Irmengard",
+        "Name_fr": "Client : Irmengard, des Bons filons d'Amajina et Fils",
+        "Name_ja": "\u30a2\u30de\u30b8\u30ca\u9271\u5c71\u793e\uff1a\u30a2\u30fc\u30e1\u30f3\u30ac\u30eb\u30c9",
+        "Name_ko": "\uc544\ub9c8\uc9c0\ub098 \uad11\uc0b0\ud68c\uc0ac: \uc77c\uba58\uac00\ub974\ud2b8"
+    },
+    "135": {
+        "0xID": "87",
+        "Name_cn": "\u827e\u56e0\u54c8\u7279\u5bb6\u9a91\u5175 \u666e\u96f7\u91cc\u7ea6",
+        "Name_de": "Auftraggeber: Ritter Prairillot aus dem Haus Haillenarte",
+        "Name_en": "Client: House Haillenarte Knight, Prairillot the Silver",
+        "Name_fr": "Client : Prairillot, chevalier de la maison Haillenarte",
+        "Name_ja": "\u30a2\u30a4\u30f3\u30cf\u30eb\u30c8\u5bb6\u306e\u9a0e\u5175\uff1a\u30d7\u30ec\u30ea\u30aa\u30fc",
+        "Name_ko": "\uc544\uc720\ub098\ub974\ud2b8 \uac00 \uae30\ubcd1: \ud504\ub808\ub9ac\uc624"
+    },
+    "136": {
+        "0xID": "88",
+        "Name_cn": "\u671b\u8fdc\u955c\u6280\u5e08 \u57c3\u7c73\u91cc\u5b89",
+        "Name_de": "Auftraggeber: Ingenieur Aimiliens, Teleskop-Techniker",
+        "Name_en": "Client: Astroscope Engineer, Aimiliens Ouraux",
+        "Name_fr": "Client : Aimiliens, sp\u00e9cialiste en t\u00e9l\u00e9scopes",
+        "Name_ja": "\u671b\u9060\u93e1\u6280\u5e2b\uff1a\u30a8\u30df\u30ea\u30a2\u30f3",
+        "Name_ko": "\ub9dd\uc6d0\uacbd \uae30\uc220\uc790: \uc5d0\ubc00\ub9ac\uc5b8"
+    },
+    "137": {
+        "0xID": "89",
+        "Name_cn": "\u5927\u51b0\u58c1\u8c03\u67e5\u5458 \u6717\u65af\u8d39\u5c14",
+        "Name_de": "Auftraggeber: Lancefer, Forscher an der Schneekleid-Felswand",
+        "Name_en": "Client: Snowcloak Expeditionary Unit, Lancefer Hortimont",
+        "Name_fr": "Client : Lancefer, chercheur \u00e0 Manteneige",
+        "Name_ja": "\u5927\u6c37\u58c1\u306e\u8abf\u67fb\u54e1\uff1a\u30e9\u30f3\u30b9\u30d5\u30a7\u30eb",
+        "Name_ko": "\ub300\ube59\ubcbd \uc870\uc0ac\uc6d0: \ub791\uc138\ud398\ub974"
+    },
+    "138": {
+        "0xID": "8A",
+        "Name_cn": "\u798f\u5c14\u5510\u5bb6\u9a91\u5175 \u79d1\u6717\u8482\u5965",
+        "Name_de": "Auftraggeber: Ritter Corentiaux aus dem Haus Fortemps",
+        "Name_en": "Client: House Fortemps Knight, Corentiaux the Colder",
+        "Name_fr": "Client : Corentiaux, chevalier de la maison Fortemps",
+        "Name_ja": "\u30d5\u30a9\u30eb\u30bf\u30f3\u5bb6\u306e\u9a0e\u5175\uff1a\u30b3\u30e9\u30f3\u30c6\u30a3\u30aa",
+        "Name_ko": "\ud3ec\ub974\ud0d5 \uac00 \uae30\ubcd1: \ucf54\ub791\ud2f0\uc624"
+    },
+    "139": {
+        "0xID": "8B",
+        "Name_cn": "\u72c4\u5170\u8fbe\u5c14\u5bb6\u9a91\u5175 \u5e03\u5415\u7eb3\u8fea\u8036",
+        "Name_de": "Auftraggeber: Ritter Brunadier aus dem Haus Durendaire",
+        "Name_en": "Client: House Durendaire Knight, Brunadier of the Blue Bell",
+        "Name_fr": "Client : Brunadier, chevalier de la maison Durendaire",
+        "Name_ja": "\u30c7\u30e5\u30e9\u30f3\u30c7\u30eb\u5bb6\u306e\u9a0e\u5175\uff1a\u30d6\u30eb\u30ca\u30c7\u30a3\u30a8",
+        "Name_ko": "\ub4a4\ub791\ub370\ub974 \uac00 \uae30\ubcd1: \ube0c\ub93c\ub098\ub514\uc5d0"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u77f3\u573a\u6c34\u8f66\u5c45\u6c11",
+        "Name_de": "Auftraggeber: Anwohner des Weilers M\u00fchlenbruch",
+        "Name_en": "Client: Residents of Quarrymill",
+        "Name_fr": "Client : Les habitants du Moulin de la Carri\u00e8re",
+        "Name_ja": "\u30af\u30a9\u30fc\u30ea\u30fc\u30df\u30eb\u306e\u4f4f\u4eba",
+        "Name_ko": "\ucc44\uc11d\uacf5\ubc29 \uc8fc\ubbfc"
+    },
+    "140": {
+        "0xID": "8C",
+        "Name_cn": "\u72c4\u5170\u8fbe\u5c14\u5bb6\u7267\u7ae5 \u6602\u91cc\u5965",
+        "Name_de": "Auftraggeber: Hirte Hanrieaux, Bediensteter im Haus Durendaire",
+        "Name_en": "Client: House Durendaire Housebond, Hanrieaux",
+        "Name_fr": "Client : Hanrieaux, serviteur de la maison Durendaire",
+        "Name_ja": "\u30c7\u30e5\u30e9\u30f3\u30c7\u30eb\u5bb6\u306e\u4f7f\u7528\u4eba\uff1a\u7267\u7ae5\u30a2\u30f3\u30ea\u30aa\u30fc",
+        "Name_ko": "\ub4a4\ub791\ub370\ub974 \uac00 \ud558\uc778: \ubaa9\ub3d9 \uc559\ub9ac\uc624"
+    },
+    "141": {
+        "0xID": "8D",
+        "Name_cn": "\u521b\u610f\u70f9\u8c03\u5e08 \u4e4c\u6069\u8f9b\u97e6\u5c14\u592b",
+        "Name_de": "Auftraggeber: Gourmet Unsynwilf",
+        "Name_en": "Client: Cultured Culinarian, Unsynwilf Greensleeves",
+        "Name_fr": "Client : Unsynwilf, cuisinier avant-gardiste",
+        "Name_ja": "\u5275\u4f5c\u8abf\u7406\u5e2b\uff1a\u30a6\u30f3\u30b7\u30f3\u30f4\u30a3\u30eb\u30d5",
+        "Name_ko": "\uc694\ub9ac\uc5f0\uad6c\uac00: \uc6b4\uc954\ube4c\ud504"
+    },
+    "142": {
+        "0xID": "8E",
+        "Name_cn": "\u6279\u53d1\u5546\u4eba \u4e4c\u6069\u8f9b\u97e6\u5c14\u592b",
+        "Name_de": "Auftraggeber: Gro\u00dfh\u00e4ndlerin Q'molosi",
+        "Name_en": "Client: Wholesale Trader, Silvertail Q'molosi",
+        "Name_fr": "Client : Q'molosi, grossiste",
+        "Name_ja": "\u5378\u58f2\u5546\u4eba\uff1a\u30ad\u30fb\u30e2\u30ed\u30b7",
+        "Name_ko": "\ub3c4\ub9e4\uc0c1\uc778: \ud0a4\ubab0\ub85c\uc2dc"
+    },
+    "143": {
+        "0xID": "8F",
+        "Name_cn": "\u7ecf\u7eaa\u4eba \u5f17\u4f69\u4f69",
+        "Name_de": "Auftraggeber: Vermittlerin Fupepe",
+        "Name_en": "Client: Fupepe and Associates Brokerage Owner, Fupepe Fupe",
+        "Name_fr": "Client : Fupepe, interm\u00e9diaire",
+        "Name_ja": "\u4ef2\u8cb7\u4eba\uff1a\u30d5\u30da\u30da",
+        "Name_ko": "\uc911\ub9e4\uc778: \ud478\ud398\ud398"
+    },
+    "144": {
+        "0xID": "90",
+        "Name_cn": "\u6797\u95f4\u6355\u9c7c\u4eba \u8fbe\u5361\u00b7\u57fa\u6069\u52a0\u5c14",
+        "Name_de": "Auftraggeber: Finsterwald-Fischerin Daca Jinjahl",
+        "Name_en": "Client: Twelveswood Fisher, Daca Jinjahl",
+        "Name_fr": "Client : Daca Jinjahl, p\u00eacheuse en rivi\u00e8res de for\u00eat",
+        "Name_ja": "\u68ee\u306e\u6f01\u5e2b\uff1a\u30c0\u30ab\u30fb\u30b8\u30f3\u30b8\u30e3\u30eb",
+        "Name_ko": "\uc232\uc758 \uc5b4\ubd80: \ub2e4\uce74 \uc9c4\uc798"
+    },
+    "145": {
+        "0xID": "91",
+        "Name_cn": "\u683c\u683c\u9c81\u7396\u5bb6\u4f63\u4eba \u8299\u00b7\u96c5\u6ce2\u57fa",
+        "Name_de": "Auftraggeber: F'abodji, Bedienstete von Gegeruju",
+        "Name_en": "Client: Gegeruju Manor Retainer, F'abodji Nhal",
+        "Name_fr": "Client : F'abodji, domestique du seigneur Gegeruju",
+        "Name_ja": "\u30b2\u30b2\u30eb\u30b8\u30e5\u6c0f\u306e\u4f7f\u7528\u4eba\uff1a\u30d5\u30fb\u30a2\u30dc\u30c3\u30b8",
+        "Name_ko": "\uac8c\uac8c\ub8e8\uc8fc \uc528\uc758 \uc2dc\uc885: \ud504\uc544\ubcf4\uc950"
+    },
+    "146": {
+        "0xID": "92",
+        "Name_cn": "\u5c71\u95f4\u6355\u9c7c\u4eba \u5fb7\u91cc\u7ef4\u591a",
+        "Name_de": "Auftraggeber: Bergfischer Drividot",
+        "Name_en": "Client: Mountain Skyfisher, Drividot Shortline",
+        "Name_fr": "Client : Drividot, p\u00eacheur en rivi\u00e8res de montagne",
+        "Name_ja": "\u5c71\u306e\u6f01\u5e2b\uff1a\u30c9\u30ea\u30f4\u30a3\u30c9\u30fc",
+        "Name_ko": "\uc0b0\uc758 \uc5b4\ubd80: \ub4dc\ub9ac\ube44\ub3c4"
+    },
+    "147": {
+        "0xID": "93",
+        "Name_cn": "\u6279\u53d1\u5546\u4eba \u5362\u8587\u5965\u5a1c",
+        "Name_de": "Auftraggeber: Gro\u00dfh\u00e4ndlerin Louviaune",
+        "Name_en": "Client: Wholesale Trader, Louviaune of the Lake",
+        "Name_fr": "Client : Louviaune, grossiste",
+        "Name_ja": "\u5378\u58f2\u5546\u4eba\uff1a\u30eb\u30f4\u30a3\u30aa\u30cc",
+        "Name_ko": "\ub3c4\ub9e4\uc0c1\uc778: \ub8e8\ube44\uc628"
+    },
+    "148": {
+        "0xID": "94",
+        "Name_cn": "\u5723\u5bc7\u4f0a\u7eb3\u514b\u8d22\u56e2 \u514b\u5229\u592b\u987f",
+        "Name_de": "Auftraggeber: Clifton, Sankt Coinach-Stiftung",
+        "Name_en": "Client: Sons of Saint Coinach Cataloger, Clifton Crabbe",
+        "Name_fr": "Client : Clifton, membre de la Trouvaille de Saint-Coinach",
+        "Name_ja": "\u8056\u30b3\u30a4\u30ca\u30af\u8ca1\u56e3\uff1a\u30af\u30ea\u30d5\u30c8\u30f3",
+        "Name_ko": "\uc131 \ucf54\uc774\ub098\ud06c \uc7ac\ub2e8: \ud074\ub9ac\ud504\ud134"
+    },
+    "149": {
+        "0xID": "95",
+        "Name_cn": "\u77f3\u573a\u6c34\u8f66\u5c45\u6c11 \u7231\u5fb7\u53ef",
+        "Name_de": "Auftraggeberin: Aedoc, Bewohnerin von M\u00fchlenbruch",
+        "Name_en": "Client: Quarrymill Resident, Aedoc the Ailing",
+        "Name_fr": "Client : Aedoc, habitant du Moulin de la Carri\u00e8re",
+        "Name_ja": "\u30af\u30a9\u30fc\u30ea\u30fc\u30df\u30eb\u306e\u4f4f\u4eba\uff1a\u30a8\u30c9\u30c3\u30af",
+        "Name_ko": "\ucc44\uc11d\uacf5\ubc29 \uc8fc\ubbfc: \uc560\ub355"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u56ed\u827a\u5de5\u884c\u4f1a\u4f1a\u5458",
+        "Name_de": "Auftraggeber: \u00c4hrenkranzkolonie",
+        "Name_en": "Client: Greatloam Growery",
+        "Name_fr": "Client : Un membre de la guilde des botanistes",
+        "Name_ja": "\u5712\u82b8\u5e2b\u30ae\u30eb\u30c9\u54e1",
+        "Name_ko": "\uc6d0\uc608\uac00 \uae38\ub4dc\uc6d0"
+    },
+    "150": {
+        "0xID": "96",
+        "Name_cn": "\u74e6\u74e6\u62c9\u54e5\u7f51\u7ec4 \u5e03\u9c81\u6885\u5c14",
+        "Name_de": "Auftraggeber: Bloemerl von Wawalagos Reusenfischern",
+        "Name_en": "Client: Wawalago's Pullers Shoalskimmer, Bloemerl",
+        "Name_fr": "Client : Bloemerl, des p\u00eacheurs de Wawalago",
+        "Name_ja": "\u30ef\u30ef\u30e9\u30b4\u306e\u7db2\u7d44\uff1a\u30d6\u30eb\u30fc\u30e1\u30eb",
+        "Name_ko": "\uc640\uc640\ub77c\uace0 \uc5b4\ubbfc \uc870\ud569: \ube14\ub8e8\uba5c"
+    },
+    "151": {
+        "0xID": "97",
+        "Name_cn": "\u795e\u6bbf\u9a91\u58eb\u56e2\u6307\u6325\u5b98 \u6602\u5fb7\u5362",
+        "Name_de": "Auftraggeber: Handeloup, Kommandant der Tempelritter",
+        "Name_en": "Client: Temple Knights Second Commander Ser Handeloup",
+        "Name_fr": "Client : Handeloup, commandant en second des templiers",
+        "Name_ja": "\u795e\u6bbf\u9a0e\u58eb\u56e3\u30b3\u30de\u30f3\u30c9\uff1a\u30a2\u30f3\u30c9\u30a5\u30eb\u30fc",
+        "Name_ko": "\uc2e0\uc804\uae30\uc0ac\ub2e8 \uc9c0\ud718\uad00: \uc559\ub378\ub8e8"
+    },
+    "152": {
+        "0xID": "98",
+        "Name_cn": "\u795e\u6bbf\u9a91\u58eb\u56e2\u4fee\u9053\u796d\u53f8 \u5e15\u8fea\u5c24",
+        "Name_de": "Auftraggeber: Bruder Padilloux vom Orden der Tempelritter",
+        "Name_en": "Client: Order of the Friars Templar, Brother Padilloux",
+        "Name_fr": "Client : Fr\u00e8re Padilloux, pr\u00eatre de l'ordre du Temple",
+        "Name_ja": "\u795e\u6bbf\u9a0e\u58eb\u56e3\u4fee\u9053\u53f8\u796d\uff1a\u30d1\u30c7\u30a3\u30e6\u30fc",
+        "Name_ko": "\uc2e0\uc804\uae30\uc0ac\ub2e8 \uc218\ub3c4\uc0ac\uc81c: \ud30c\ub514\uc720"
+    },
+    "153": {
+        "0xID": "99",
+        "Name_cn": "\u795e\u6bbf\u9a91\u58eb\u56e2\u8d22\u52a1\u957f \u963f\u7c73\u5b89\u5a1c",
+        "Name_de": "Auftraggeberin: Amianne, Schatzmeisterin der Tempelritter",
+        "Name_en": "Client: Temple Knights Minister of Coin, Amianne Tristelle",
+        "Name_fr": "Client : Amianne, surintendante des finances des templiers",
+        "Name_ja": "\u795e\u6bbf\u9a0e\u58eb\u56e3\u8ca1\u52d9\u9577\uff1a\u30a2\u30df\u30a2\u30cc",
+        "Name_ko": "\uc2e0\uc804\uae30\uc0ac\ub2e8 \uc7ac\ubb34\uc7a5: \uc544\ubbf8\uc548"
+    },
+    "154": {
+        "0xID": "9A",
+        "Name_cn": "\u795e\u6bbf\u9a91\u58eb\u56e2\u533b\u9662\u9662\u957f \u4e9a\u4f2f",
+        "Name_de": "Auftraggeber: Abel, Hospitaliter der Tempelritter",
+        "Name_en": "Client: Temple Knights Hospitalier Captain Abel Whitecape",
+        "Name_fr": "Client : Abel, chef de service hospitalier des templiers",
+        "Name_ja": "\u795e\u6bbf\u9a0e\u58eb\u56e3\u75c5\u9662\u9577\uff1a\u30a8\u30fc\u30d9\u30eb",
+        "Name_ko": "\uc2e0\uc804\uae30\uc0ac\ub2e8 \ubcd1\uc6d0\uc7a5: \uc544\ubca8"
+    },
+    "155": {
+        "0xID": "9B",
+        "Name_cn": "\u5f02\u7aef\u5ba1\u95ee\u5b98 \u76d6\u5fb7\u8389",
+        "Name_de": "Auftraggeber: Inquisitor Gaidelie ",
+        "Name_en": "Client: Holy Inquisitor Gaidelie the Just",
+        "Name_fr": "Client : Gaidelie, inquisitrice",
+        "Name_ja": "\u7570\u7aef\u5be9\u554f\u5b98\uff1a\u30b2\u30fc\u30c9\u30a5\u30ea",
+        "Name_ko": "\uc774\ub2e8\uc2ec\ubb38\uad00: \uac8c\ub4e4\ub9ac"
+    },
+    "156": {
+        "0xID": "9C",
+        "Name_cn": "\u795e\u6bbf\u9a91\u58eb\u56e2\u9f99\u9a91\u58eb \u5e03\u5415\u65af\u8499",
+        "Name_de": "Auftraggeber: Dragoon Brucemont",
+        "Name_en": "Client: Ser Brucemont of the Knights Dragoon",
+        "Name_fr": "Client : Brucemont, chevalier dragon",
+        "Name_ja": "\u795e\u6bbf\u9a0e\u58eb\u56e3\u7adc\u9a0e\u58eb\uff1a\u30d6\u30eb\u30b9\u30e2\u30f3",
+        "Name_ko": "\uc2e0\uc804\uae30\uc0ac\ub2e8 \uc6a9\uae30\uc0ac: \ube0c\ub93c\uc138\ubabd"
+    },
+    "157": {
+        "0xID": "9D",
+        "Name_cn": "\u795e\u6bbf\u9a91\u58eb\u56e2\u526f\u9a91\u58eb\u957f \u9732\u742a\u4e9a",
+        "Name_de": "Auftraggeberin: Seneschall Lucia",
+        "Name_en": "Client: Temple Knights First Commander Ser Lucia",
+        "Name_fr": "Client : Lucia, commandant en chef des templiers",
+        "Name_ja": "\u795e\u6bbf\u9a0e\u58eb\u56e3\u30b3\u30de\u30f3\u30c9\uff1a\u30eb\u30ad\u30a2",
+        "Name_ko": "\uc2e0\uc804\uae30\uc0ac\ub2e8 \uc9c0\ud718\uad00: \ub8e8\ud0a4\uc544"
+    },
+    "158": {
+        "0xID": "9E",
+        "Name_cn": "\u52a0\u9686\u5fb7\u70bc\u94c1\u5382\u6280\u5e08 \u6d1b\u5384\u5c14",
+        "Name_de": "Auftraggeber: Lowell, Ingenieur der Metallwerke",
+        "Name_en": "Client: Ironworks Engineer, Lowell Tanner",
+        "Name_fr": "Client : Lowell, ing\u00e9nieur aux Forges de Garlond",
+        "Name_ja": "\u30ac\u30fc\u30ed\u30f3\u30c9\u30fb\u30a2\u30a4\u30a2\u30f3\u30ef\u30fc\u30af\u30b9\u793e\u6280\u5e2b\uff1a\u30ed\u30fc\u30a6\u30a7\u30eb",
+        "Name_ko": "\uac08\ub860\ub4dc \uc544\uc774\uc5b8\uc6cd\uc2a4 \uae30\uc220\uc790: \ub85c\uc6f0"
+    },
+    "159": {
+        "0xID": "9F",
+        "Name_cn": "\u535a\u7269\u5b66\u5bb6 \u5854\u6069\u5609\u00b7\u6258\u6069\u5609",
+        "Name_de": "Auftraggeber: Tanga Tonga, Reisender Naturkundler",
+        "Name_en": "Client: Traveling Scholar, Tanga Tonga",
+        "Name_fr": "Client : Tanga Tonga, chercheur",
+        "Name_ja": "\u535a\u7269\u5b66\u8005\uff1a\u30bf\u30f3\u30ac\u30fb\u30c8\u30f3\u30ac",
+        "Name_ko": "\ubc15\ubb3c\ud559\uc790: \ud0d5\uac00 \ud1b5\uac00"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u72e9\u730e\u4eba\u884c\u4f1a",
+        "Name_de": "Auftraggeber: J\u00e4gergilde",
+        "Name_en": "Client: The Trappers' League",
+        "Name_fr": "Client : Guilde des chasseurs",
+        "Name_ja": "\u731f\u5e2b\u30ae\u30eb\u30c9",
+        "Name_ko": "\uc0ac\ub0e5\uafbc \uae38\ub4dc"
+    },
+    "160": {
+        "0xID": "A0",
+        "Name_cn": "\u963f\u62c9\u7c73\u683c\u89e3\u653e\u519b\u5de5\u5175 \u8335\u5e03\u83b2",
+        "Name_de": "Auftraggeber: Imblen vom Pionierbataillion der Befreiungsarmee",
+        "Name_en": "Client: Resistance Sapper, Imblen the Mole",
+        "Name_fr": "Client : Imblen, ing\u00e9nieure militaire dans l'arm\u00e9e de lib\u00e9ration d'Ala Mhigo",
+        "Name_ja": "\u30a2\u30e9\u30df\u30b4\u89e3\u653e\u8ecd\u306e\u5de5\u5175\uff1a\u30a4\u30e0\u30d6\u30ec\u30f3",
+        "Name_ko": "\uc54c\ub77c\ubbf8\uace0 \ud574\ubc29\uad70 \uacf5\ubcd1: \uc784\ube14\ub80c"
+    },
+    "161": {
+        "0xID": "A1",
+        "Name_cn": "\u77f3\u6750\u4e94\u91d1\u4f9b\u5e94\u5546\u53f3\u5cb8\u5c4b\u8001\u677f \u53f3\u5cb8",
+        "Name_de": "Auftraggeber: Ugan Akiudo, H\u00e4ndler f\u00fcr Steine und Metalle",
+        "Name_en": "Client: Ugan Akiudo, Dealer in Stone and Metal",
+        "Name_fr": "Client : Ugan, grossiste en bois et m\u00e9taux",
+        "Name_ja": "\u77f3\u6750\u91d1\u7269\u554f\u5c4b\u300c\u53f3\u5cb8\u5c4b\u300d\u306e\u4e3b\uff1a\u30a6\u30ac\u30f3",
+        "Name_ko": "\uc11d\uc7ac \ucca0\ubb3c \ub3c4\ub9e4\uc0c1 '\uc6b0\uac04\uc57c' \uc8fc\uc778: \uc6b0\uac04"
+    },
+    "162": {
+        "0xID": "A2",
+        "Name_cn": "\u6728\u6750\u4f9b\u5e94\u5546\u5de6\u5cb8\u5c4b\u8001\u677f \u5de6\u5cb8",
+        "Name_de": "Auftraggeber: Sagan Akiudo, H\u00e4ndler f\u00fcr Bauholz",
+        "Name_en": "Client: Sagan Akiudo, Dealer in Lumber and Lumber",
+        "Name_fr": "Client : Sagan, grossiste en bois",
+        "Name_ja": "\u6750\u6728\u554f\u5c4b\u300c\u5de6\u5cb8\u5c4b\u300d\u306e\u4e3b\uff1a\u30b5\u30ac\u30f3",
+        "Name_ko": "\ubaa9\uc7ac \ub3c4\ub9e4\uc0c1 '\uc0ac\uac04\uc57c' \uc8fc\uc778: \uc0ac\uac04"
+    },
+    "163": {
+        "0xID": "A3",
+        "Name_cn": "\u53d1\u7c2a\u5de5\u5320 \u8299\u84c9",
+        "Name_de": "Auftraggeber: Fuyo Kaneuchi, Schmuckhaarnadel-Fabrikant",
+        "Name_en": "Client: Hairpin Crafter, Fuyo Kaneuchi",
+        "Name_fr": "Client : Fuyo, fabricante de kanzashi",
+        "Name_ja": "\u304b\u3093\u3056\u3057\u8077\u4eba\uff1a\u30d5\u30e8\u30a6",
+        "Name_ko": "\ube44\ub140 \uc7a5\uc778: \ud6c4\uc694"
+    },
+    "164": {
+        "0xID": "A4",
+        "Name_cn": "\u62c5\u5fe7\u591a\u739b\u7684\u533f\u540d\u8005",
+        "Name_de": "Auftraggeber: Anonyme Person, die um Doma weint",
+        "Name_en": "Client: He Who Weeps for Doma",
+        "Name_fr": "Client : Un anonyme qui pleure pour Doma",
+        "Name_ja": "\u30c9\u30de\u3092\u6182\u3046\u8005\uff1a\u533f\u540d",
+        "Name_ko": "\ub3c4\ub9c8\ub97c \uac71\uc815\ud558\ub294 \uc0ac\ub78c: \uc775\uba85"
+    },
+    "165": {
+        "0xID": "A5",
+        "Name_cn": "\u6b66\u5668\u5de5\u5320 \u96ea\u82b1",
+        "Name_de": "Auftraggeberin: Waffenschmiedin Sekka",
+        "Name_en": "Client: Independent Weaponsmith, Sekka Furukane",
+        "Name_fr": "Client : Sekka, forgeronne et armuri\u00e8re",
+        "Name_ja": "\u6b66\u5177\u8077\u4eba\uff1a\u30bb\u30c3\u30ab",
+        "Name_ko": "\ubb34\uae30 \uc7a5\uc778: \uc138\uce74"
+    },
+    "166": {
+        "0xID": "A6",
+        "Name_cn": "\u8fdc\u4e1c\u4e4b\u56fd\u533b\u5e08 \u6666\u65e5",
+        "Name_de": "Auftraggeber: Tsugomori, Hinganischer Mediziner",
+        "Name_en": "Client: Hingan Physicker, Steady Hand Tsugomori",
+        "Name_fr": "Client : Tsugomori, m\u00e9decin en Hingashi",
+        "Name_ja": "\u3072\u3093\u304c\u3057\u306e\u56fd\u306e\u533b\u5e2b\uff1a\u30c4\u30b4\u30e2\u30ea",
+        "Name_ko": "\ub3d9\ucabd \ub098\ub77c \uc758\uc0ac: \uce20\uace0\ubaa8\ub9ac"
+    },
+    "167": {
+        "0xID": "A7",
+        "Name_cn": "\u5c0f\u963f\u62c9\u7c73\u683c\u9996\u9886 \u53e4\u6069\u5fb7\u5df4\u5c14\u5fb7",
+        "Name_de": "Auftraggeber: Gundobald, Anf\u00fchrer von Klein-Ala Mhigo",
+        "Name_en": "Client: Little Ala Mhigo Leader, Gundobald the Resolute",
+        "Name_fr": "Client : Gundobald, chef de camp \u00e0 Petite Ala Mhigo",
+        "Name_ja": "\u30ea\u30c8\u30eb\u30a2\u30e9\u30df\u30b4\u306e\u9577\uff1a\u30b0\u30f3\u30c9\u30d0\u30eb\u30c9",
+        "Name_ko": "\ub9ac\ud2c0 \uc54c\ub77c\ubbf8\uace0 \uc218\uc7a5: \uad70\ub3c4\ubc1c\ub4dc"
+    },
+    "168": {
+        "0xID": "A8",
+        "Name_cn": "\u963f\u62c9\u52a0\u7eb3\u6751\u957f \u62c9\u52a0\u6069\u5f17\u91cc\u5fb7",
+        "Name_de": "Auftraggeber: Raganfrid, Dorf\u00e4ltester von Ala Gannha",
+        "Name_en": "Client: Ala Gannha Village Elder, Ragnafrid the Old",
+        "Name_fr": "Client : Raganfrid, chef d'Ala Gannha",
+        "Name_ja": "\u30a2\u30e9\u30ac\u30fc\u30ca\u306e\u6751\u9577\uff1a\u30e9\u30ac\u30f3\u30d5\u30ea\u30c3\u30c9",
+        "Name_ko": "\uc54c\ub77c\uac00\ub098 \ucd0c\uc7a5: \ub77c\uac04\ud504\ub9ac\ub4dc"
+    },
+    "169": {
+        "0xID": "A9",
+        "Name_cn": "\u963f\u62c9\u7c73\u683c\u89e3\u653e\u519b\u6218\u58eb \u5409\u585e\u62c9",
+        "Name_de": "Auftraggeberin: Gisela, Mhigische Befreiungsk\u00e4mpferin",
+        "Name_en": "Client: Resistance Fighter, Gisela the Unfortunate",
+        "Name_fr": "Client : Gisela, r\u00e9sistante mhigoise",
+        "Name_ja": "\u30a2\u30e9\u30df\u30b4\u89e3\u653e\u8ecd\u306e\u95d8\u58eb\uff1a\u30ae\u30bb\u30e9",
+        "Name_ko": "\uc54c\ub77c\ubbf8\uace0 \ud574\ubc29\uad70 \ud22c\uc0ac: \uae30\uc140\ub77c"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u52a0\u6bd4\u8bfa\u8001\u7239",
+        "Name_de": "Auftraggeber: Gabineaux",
+        "Name_en": "Client: Master Gabineaux",
+        "Name_fr": "Client : Gabineaux",
+        "Name_ja": "\u30ac\u30d3\u30ce\u30fc\u89aa\u65b9",
+        "Name_ko": "\uac00\ube44\ub178 \uc0ac\ubd80"
+    },
+    "170": {
+        "0xID": "AA",
+        "Name_cn": "\u91ce\u6218\u533b\u9662\u533b\u5e08 \u5965\u857e\u62c9",
+        "Name_de": "Auftraggeberin: Orella, Heilerin im Feldlazarett der Befreiungsarmee",
+        "Name_en": "Client: Resistance Infirmary Healer, Orella Heavenstouch",
+        "Name_fr": "Client : Orella, m\u00e9decin au Barbier",
+        "Name_ja": "\u91ce\u6226\u75c5\u9662\u306e\u6cbb\u7642\u5e2b\uff1a\u30aa\u30ec\u30e9",
+        "Name_ko": "\uc57c\uc804\ubcd1\uc6d0 \uce58\ub8cc\uc0ac: \uc624\ub810\ub77c"
+    },
+    "171": {
+        "0xID": "AB",
+        "Name_cn": "\u56ed\u827a\u5de5\u884c\u4f1a\u4f1a\u957f \u5f17\u5f17\u8336",
+        "Name_de": "Auftraggeberin: Fufucha, Gildenmeisterin der G\u00e4rtnergilde",
+        "Name_en": "Client: Botanists' Guild Guildmaster, Fufucha Fucha",
+        "Name_fr": "Client : Fufucha, chef de la guilde des botanistes",
+        "Name_ja": "\u5712\u82b8\u5e2b\u30ae\u30eb\u30c9\u30de\u30b9\u30bf\u30fc\uff1a\u30d5\u30d5\u30c1\u30e3",
+        "Name_ko": "\uc6d0\uc608\uac00 \uae38\ub4dc\ub9c8\uc2a4\ud130: \ud478\ud478\ucc28"
+    },
+    "172": {
+        "0xID": "AC",
+        "Name_cn": "\u4e1c\u963f\u5c14\u8fea\u7eb3\u5fb7\u5546\u4f1a\u4f19\u8ba1 \u742a\u742a\u8309",
+        "Name_de": "Auftraggeberin: Kikimo, Kontoristin der Ostaldenard-HG",
+        "Name_en": "Client: East Aldenard Trading Company Associate, Kikimo Kimo",
+        "Name_fr": "Client : Kikimo, associ\u00e9e de la F.C.A.O.",
+        "Name_ja": "\u6771\u30a2\u30eb\u30c7\u30ca\u30fc\u30c9\u5546\u4f1a\u306e\u624b\u4ee3\uff1a\u30ad\u30ad\u30e2",
+        "Name_ko": "\ub3d9\ubd80 \uc54c\ub370\ub098\ub4dc \uc0c1\ud68c \ube44\uc11c: \ud0a4\ud0a4\ubaa8"
+    },
+    "173": {
+        "0xID": "AD",
+        "Name_cn": "\u5bf9\u7b49\u77f3\u9996\u9886 \u6885\u00b7\u62c9\u5179\u00b7\u52aa\u6069",
+        "Name_de": "Auftraggeber: M'rahz Nunh, Stammesf\u00fchrer der M",
+        "Name_en": "Client: Peering Stones Chief, M'rahz Nunh",
+        "Name_fr": "Client : M'rahz Nunh, chef de camp aux Rochers d'aguet",
+        "Name_ja": "\u30d4\u30fc\u30ea\u30f3\u30b0\u30b9\u30c8\u30fc\u30f3\u30ba\u306e\u9577\uff1a\u30e1\u30fb\u30e9\u30c4\u30fb\u30cc\u30f3",
+        "Name_ko": "\uad7d\uc5b4\ubcf4\ub294 \ubc14\uc704 \uc218\uc7a5: \uba54\ub77c\uce20 \ub208"
+    },
+    "174": {
+        "0xID": "AE",
+        "Name_cn": "\u6742\u8d27\u5e97\u8001\u677f \u845b\u82b1",
+        "Name_de": "Auftraggeber: Kuzubana Kasanui, bescheidener Ladenbesitzer",
+        "Name_en": "Client: Humble Shopkeep, Kuzubana Kasanui",
+        "Name_fr": "Client : Kuzubana, propri\u00e9taire d'un petit commerce",
+        "Name_ja": "\u5c0f\u7269\u5c4b\u306e\u4e3b\uff1a\u30af\u30ba\u30d0\u30ca",
+        "Name_ko": "\ub3c4\uad6c\uc0c1 \uc8fc\uc778: \ucfe0\uc988\ubc14\ub098"
+    },
+    "175": {
+        "0xID": "AF",
+        "Name_cn": "\u6b66\u5177\u5546 \u91d1\u6900",
+        "Name_de": "Auftraggeber: Waffenh\u00e4ndler Kanamari",
+        "Name_en": "Client: Independent Arms Dealer, Kanamari Six Knives",
+        "Name_fr": "Client : Kanamari, marchande",
+        "Name_ja": "\u6b66\u5177\u5546\uff1a\u30ab\u30ca\u30de\u30ea",
+        "Name_ko": "\ubb34\uae30 \uc0c1\uc810: \uce74\ub098\ub9c8\ub9ac"
+    },
+    "176": {
+        "0xID": "B0",
+        "Name_cn": "\u548c\u670d\u4f9b\u5e94\u5546\u5927\u5929\u5c4b\u638c\u67dc \u77e2\u5207",
+        "Name_de": "Auftraggeber: Yagiri, Eink\u00e4ufer des Kimonogesch\u00e4fts \u201eDaitenya\u201c",
+        "Name_en": "Client: Daitenya Attendant, Yagiri Kawanami",
+        "Name_fr": "Client : Yagiri, grossiste en tissus",
+        "Name_ja": "\u5449\u670d\u554f\u5c4b\u300c\u5927\u5929\u5c4b\u300d\u306e\u756a\u982d\uff1a\u30e4\u30ae\u30ea",
+        "Name_ko": "\ud3ec\ubaa9 \ub3c4\ub9e4\uc0c1 '\ub2e4\uc774\ud150\uc57c' \uc9c0\ubc30\uc778: \uc57c\uae30\ub9ac"
+    },
+    "177": {
+        "0xID": "B1",
+        "Name_cn": "\u7eaa\u884c\u4f5c\u5bb6 \u4e3d\u4e3d\u7396",
+        "Name_de": "Auftraggeberin: Liliju, reisende Schriftstellerin",
+        "Name_en": "Client: Writer and Ul'dahn Dignitary, Liliju Liju",
+        "Name_fr": "Client : Liliju, auteur de r\u00e9cits de voyage",
+        "Name_ja": "\u7d00\u884c\u4f5c\u5bb6\uff1a\u30ea\u30ea\u30b8\u30e5",
+        "Name_ko": "\uae30\ud589\ubb38 \uc791\uac00: \ub9ac\ub9ac\uc8fc"
+    },
+    "178": {
+        "0xID": "B2",
+        "Name_cn": "\u8d64\u8bda\u7ec4\u8d26\u623f \u971c\u591c",
+        "Name_de": "Auftraggeber: Shimoyo, Schatzmeister der Sekiseigumi",
+        "Name_en": "Client: Sekiseigumi Coincounter, Shimoyo Quickfingers",
+        "Name_fr": "Client : Shimoyo, tr\u00e9sori\u00e8re au sein du Sekiseigumi",
+        "Name_ja": "\u8d64\u8aa0\u7d44\u52d8\u5b9a\u65b9\uff1a\u30b7\u30e2\u30e8",
+        "Name_ko": "\uc801\uc131\uc870 \ud68c\uacc4 \ub2f4\ub2f9: \uc2dc\ubaa8\uc694"
+    },
+    "179": {
+        "0xID": "B3",
+        "Name_cn": "\u8fdc\u6d0b\u4ea4\u6613\u8239\u201c\u5723\u7687\u5983\u53f7\u201d\u8239\u957f \u73e0\u5e03\u4e3d\u5c14",
+        "Name_de": "Auftraggeber: Jubleel, Kapit\u00e4n der Imperialen Hoheit",
+        "Name_en": "Client: Imperial Princess Captain, Jubleel of House Hazaar",
+        "Name_fr": "Client : Jubleel, capitaine d'un navire marchand",
+        "Name_ja": "\u5916\u6d0b\u4ea4\u6613\u8239\u300c\u8056\u7687\u306e\u5983\u53f7\u300d\u8239\u9577\uff1a\u30b8\u30e5\u30d6\u30ea\u30fc\u30eb",
+        "Name_ko": "\uc6d0\uc591 \uad50\uc5ed\uc120 '\uc131\ud669\uc758 \ube44 \ud638' \uc120\uc7a5: \uc8fc\ube0c\ub9b4"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e00\u67aa\u961f\u961f\u5458",
+        "Name_de": "Auftraggeber: Klageregiment",
+        "Name_en": "Client: First Spear Wood Wailers",
+        "Name_fr": "Client : 1re Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u58f1\u756a\u69cd\u968a\u58eb",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c1\ucc3d\ubcd1\uc870\uc6d0"
+    },
+    "180": {
+        "0xID": "B4",
+        "Name_cn": "\u5546\u4f1a\u5de8\u4eba\u953b\u7089\u5546\u4eba \u5361\u00b7\u6069\u8fbe\u59ae\u4e9a",
+        "Name_de": "Auftraggeber: C'ndanya, H\u00e4ndler der Gigas-Schmiede",
+        "Name_en": "Client: Gigas Forge Merchant, C'ndanya Ahlk",
+        "Name_fr": "Client : C'ndanya, marchande dans une forge",
+        "Name_ja": "\u300c\u30ae\u30ac\u30fc\u30b9\u30d5\u30a9\u30fc\u30b8\u300d\u5546\u4f1a\u306e\u5546\u4eba\uff1a\u30ab\u30fb\u30f3\u30c0\u30cb\u30e3",
+        "Name_ko": "'\uae30\uac00\uc2a4 \ub300\uc7a5\uac04' \uc0c1\ud68c\uc758 \uc0c1\uc778: \uce74\uc548\ub2e4\ub0d0"
+    },
+    "181": {
+        "0xID": "B5",
+        "Name_cn": "\u79df\u501f\u5e97\u8001\u677f \u5bff",
+        "Name_de": "Auftraggeber: Kotobuki, Inhaber eines Verleihs f\u00fcr westliche Kleidung",
+        "Name_en": "Client: Formalwear Rentals, Kotobuki Chosai",
+        "Name_fr": "Client : Kotobuki, loueur de v\u00eatements de style occidental",
+        "Name_ja": "\u640d\u6599\u5c4b\u306e\u4ead\u4e3b\uff1a\u30b3\u30c8\u30d6\u30ad",
+        "Name_ko": "\ub300\uc5ec\uc810 \uc8fc\uc778: \ucf54\ud1a0\ubd80\ud0a4"
+    },
+    "182": {
+        "0xID": "B6",
+        "Name_cn": "\u953b\u94c1\u5de5\u5320 \u4e91\u9f99",
+        "Name_de": "Auftraggeber: Unryu, Handwerker im Kokajiya",
+        "Name_en": "Client: Hingan Metalsmith, Unryu the Stubborn",
+        "Name_fr": "Client : Unryu, artisan \u00e0 Kokajiya",
+        "Name_ja": "\u5c0f\u935b\u51b6\u306e\u8077\u4eba\uff1a\u30a6\u30f3\u30ea\u30e5\u30a6",
+        "Name_ko": "\ucf54\uce74\uc9c0\uc57c \uc7a5\uc778: \uc6b4\ub958"
+    },
+    "183": {
+        "0xID": "B7",
+        "Name_cn": "\u8d64\u8bda\u7ec4\u53a8\u5e08 \u4e09\u4e94\u591c",
+        "Name_de": "Auftraggeber: Sangoya, Koch der Sekiseigumi",
+        "Name_en": "Client: Sekiseigumi Potwatch, Sangoya Blackbottom",
+        "Name_fr": "Client : Sangoya, cuisini\u00e8re au sein du Sekiseigumi",
+        "Name_ja": "\u8d64\u8aa0\u7d44\u52d8\u8cc4\u3044\u65b9\uff1a\u30b5\u30f3\u30b4\u30e4",
+        "Name_ko": "\uc801\uc131\uc870 \uc2dd\ub8cc\ud488 \ub2f4\ub2f9: \uc0b0\uace0\uc57c "
+    },
+    "184": {
+        "0xID": "B8",
+        "Name_cn": "\u65e0\u5730\u9f13\u5ea7\u5e55\u540e\u4eba\u5458 \u4ea4\u5599",
+        "Name_de": "Auftraggeber: Isuka, Hilfskraft hinter den Kulissen des \u201eMujikoza\u201c",
+        "Name_en": "Client: Mujikoza Stagehand, Iskua Gakunin",
+        "Name_fr": "Client : Isuka, employ\u00e9e dans les coulisses du Mujikoza",
+        "Name_ja": "\u300c\u7121\u5730\u9f13\u5ea7\u300d\u88cf\u65b9\uff1a\u30a4\u30b9\u30ab",
+        "Name_ko": "'\ubb34\uc9c0\ucf54 \uadf9\uc7a5' \uc81c\uc791\uc9c4: \uc774\uc2a4\uce74"
+    },
+    "185": {
+        "0xID": "B9",
+        "Name_cn": "\u6d77\u732b\u8336\u5c4b\u5e97\u4e3b \u6885",
+        "Name_de": "Auftraggeberin: Ume, Betreiberin des Umineko-Teehauses",
+        "Name_en": "Client: Umineko Teahouse Proprietress, Ume Kaujin ",
+        "Name_fr": "Client : Ume, propri\u00e9taire de la maison de th\u00e9 Umineko",
+        "Name_ja": "\u300c\u30a6\u30df\u30cd\u30b3\u8336\u5c4b\u300d\u5e97\u4e3b\uff1a\u30a6\u30e1",
+        "Name_ko": "'\uac08\ub9e4\uae30 \ucc3b\uc9d1' \uc8fc\uc778: \uc6b0\uba54"
+    },
+    "186": {
+        "0xID": "BA",
+        "Name_cn": "\u6f6e\u98ce\u4ead\u8001\u677f\u5a18 \u7434\u98ce",
+        "Name_de": "Auftraggeberin: Kotokaze, Gastwirtin des \u201eShiokaze\u201c",
+        "Name_en": "Client: Shiokaze Hostelry Proprietress, Kotokaze Benitoki",
+        "Name_fr": "Client : Kotokaze, patronne de l'auberge du Shiokaze",
+        "Name_ja": "\u300c\u6f6e\u98a8\u4ead\u300d\u5973\u5c06\uff1a\u30b3\u30c8\u30ab\u30bc",
+        "Name_ko": "'\uc2dc\uc624\uce74\uc81c \uc815' \uc8fc\uc778: \ucf54\ud1a0\uce74\uc81c"
+    },
+    "187": {
+        "0xID": "BB",
+        "Name_cn": "\u62c9\u672d\u7f55\u5927\u4f7f\u9986\u4e66\u8bb0\u5b98 \u5df4\u745e\u54c8\u5c14",
+        "Name_de": "Auftraggeber: Bharifhal, Sekret\u00e4r des Konsulats von Thavnair",
+        "Name_en": "Client: Thavnairian Consulate Clerk, Bharifhal Dzak",
+        "Name_fr": "Client : Bharifhal, secr\u00e9taire au consulat de Radz-at-Han",
+        "Name_ja": "\u30e9\u30b6\u30cf\u30f3\u5927\u4f7f\u9928\u306e\u66f8\u8a18\u5b98\uff1a\u30d0\u30ea\u30cf\u30fc\u30eb",
+        "Name_ko": "\ub77c\uc790\ud55c \ub300\uc0ac\uad00 \uc11c\uae30\uad00: \ubc14\ub9ac\ud560"
+    },
+    "188": {
+        "0xID": "BC",
+        "Name_cn": "\u8d64\u677e\u4ead\u996d\u9986\u8001\u677f\u5a18 \u5c0f\u679d",
+        "Name_de": "Auftraggeberin: Saeda, Gastwirtin des \u201eAkamatsu\u201c",
+        "Name_en": "Client: Akamatsu-tei Proprietress, Saeda the Silken",
+        "Name_fr": "Client : Saeda, patronne de l'auberge Akamatsu",
+        "Name_ja": "\u6599\u4ead\u300c\u8d64\u677e\u4ead\u300d\u5973\u5c06\uff1a\u30b5\u30a8\u30c0",
+        "Name_ko": "\uc694\uc815 '\uc544\uce74\ub9c8\uce20 \uc815' \uc8fc\uc778: \uc0ac\uc5d0\ub2e4"
+    },
+    "189": {
+        "0xID": "BD",
+        "Name_cn": "\u897f\u98ce\u5802\u4e66\u5e97\u5e97\u4e3b \u897f\u98ce",
+        "Name_de": "Auftraggeber: Seifu, Inhaber von Seifus B\u00fcchertempel",
+        "Name_en": "Client: Seifu's Temple of Tomes, Seifu the Well-read",
+        "Name_fr": "Client : Seifu, propri\u00e9taire d'une librairie",
+        "Name_ja": "\u66f8\u7269\u5c4b\u300c\u897f\u98a8\u5802\u300d\u5e97\u4e3b\uff1a\u30bb\u30a4\u30d5\u30a6",
+        "Name_ko": "'\uc138\uc774\ud6c4 \uc11c\uc810' \uc8fc\uc778: \uc138\uc774\ud6c4"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e00\u67aa\u961f\u8f8e\u91cd\u5175 \u6717\u97e6\u5c14\u83b1",
+        "Name_de": "Auftraggeber: Lanverlais vom Klageregiment",
+        "Name_en": "Client: First Spear Wood Wailer, Lanverlais the Lawful",
+        "Name_fr": "Client : Lanverlais, de la 1re Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u58f1\u756a\u69cd\u8f1c\u91cd\u5175\uff1a\u30e9\u30f3\u30d9\u30eb\u30ec",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c1\ucc3d\ubcd1\uc870 \uc218\uc1a1\ubcd1: \ub791\ubca0\ub97c\ub808"
+    },
+    "190": {
+        "0xID": "BE",
+        "Name_cn": "\u9b54\u6676\u77f3\u5e08\u5085 \u514b\u83b1\u96f7\u535a\u5c14\u5fb7",
+        "Name_de": "Auftraggeber: Clerebold, erfolgloser Materia-Einsetzer",
+        "Name_en": "Client: Struggling Materia Melder, Clerebold the Cracked",
+        "Name_fr": "Client : Clerebold, sp\u00e9cialiste \u00e8s mat\u00e9rias",
+        "Name_ja": "\u30de\u30c6\u30ea\u30a2\u5e2b\uff1a\u30af\u30ec\u30fc\u30eb\u30dc\u30eb\u30c9",
+        "Name_ko": "\ub9c8\ud14c\ub9ac\uc544 \uc7a5\uc778: \ud074\ub808\ub974\ubcfc\ub4dc"
+    },
+    "191": {
+        "0xID": "BF",
+        "Name_cn": "\u6d41\u52a8\u5546\u4eba \u624b\u7eb2",
+        "Name_de": "Auftraggeber: Tazuna, reisender H\u00e4ndler",
+        "Name_en": "Client: Traveling Salesman, Tazuna Fleet-of-Foot",
+        "Name_fr": "Client : Tazuna, marchande itin\u00e9rante",
+        "Name_ja": "\u9023\u96c0\u5546\u4eba\uff1a\u30bf\u30ba\u30ca",
+        "Name_ko": "\ubcf4\ubd80\uc0c1: \ud0c0\uc988\ub098"
+    },
+    "192": {
+        "0xID": "C0",
+        "Name_cn": "\u5fa1\u7528\u5546\u4eba \u624b\u7eb2",
+        "Name_de": "Auftraggeber: Hoflieferant Tazuna",
+        "Name_en": "Client: Bakufu-approved Salesman, Tazuna ",
+        "Name_fr": "Client : Tazuna, n\u00e9gociante au service des nobles",
+        "Name_ja": "\u5fa1\u7528\u5546\u4eba\uff1a\u30bf\u30ba\u30ca",
+        "Name_ko": "\uc5b4\uc6a9\uc0c1\uc778: \ud0c0\uc988\ub098"
+    },
+    "193": {
+        "0xID": "C1",
+        "Name_cn": "\u6797\u573a\u6c34\u8f66\u5c45\u6c11 \u963f\u5c14\u5e03\u857e\u8fbe",
+        "Name_de": "Auftraggeberin: Albreda, Bewohnerin von M\u00fchlenbruch",
+        "Name_en": "Client: Hyrstmill Resident, Albreda Pike",
+        "Name_fr": "Client : Albreda, habitante du Moulin des Bois",
+        "Name_ja": "\u30cf\u30fc\u30b9\u30c8\u30df\u30eb\u306e\u4f4f\u4eba\uff1a\u30a2\u30eb\u30d6\u30ec\u30c0",
+        "Name_ko": "\uc232\uc5b8\ub355 \uacf5\ubc29 \uc8fc\ubbfc: \uc54c\ube0c\ub808\ub2e4"
+    },
+    "194": {
+        "0xID": "C2",
+        "Name_cn": "\u78a7\u7532\u65cf\u65c5\u884c\u5546\u4eba \u7b97\u76d8",
+        "Name_de": "Auftraggeber: Soroban, reisender Kojin-H\u00e4ndler",
+        "Name_en": "Client: Kojin Importer, Soroban ",
+        "Name_fr": "Client : Soroban, colporteur kojin",
+        "Name_ja": "\u78a7\u7532\u7f85\u306e\u884c\u5546\u4eba\uff1a\u30bd\u30ed\u30d0\u30f3",
+        "Name_ko": "\ud478\ub978\ub4f1 \ud589\uc0c1\uc778: \uc18c\ub85c\ubc18"
+    },
+    "195": {
+        "0xID": "C3",
+        "Name_cn": "\u5f77\u5fa8\u9636\u68af\u4ead\u8001\u677f\uff1a\u683c\u6797\u7eb3\u5fb7",
+        "Name_de": "Auftraggeber: Glynard, Gesch\u00e4ftsf\u00fchrer des Sternenhagels",
+        "Name_en": "Client: Wandering Stairs Proprietor, Glynard",
+        "Name_fr": "Client : Glynard, g\u00e9rant des Marches n\u00e9buleuses",
+        "Name_ja": "\u5f77\u5fa8\u3046\u968e\u6bb5\u4ead\u30de\u30b9\u30bf\u30fc\uff1a\u30b0\u30ea\u30ca\u30fc\u30c9",
+        "Name_ko": "\ud5e4\ub9e4\ub294 \uacc4\ub2e8 \uc2dd\ub2f9 \uc8fc\uc778: \uae00\ub9ac\ub098\ub4dc"
+    },
+    "196": {
+        "0xID": "C4",
+        "Name_cn": "\u70bc\u91d1\u533b\u7597\u9986\u9986\u957f\uff1a\u8c22\u8428\u7c73\u5c14",
+        "Name_de": "Auftraggeberin: Chessamile, Leiterin der Spagyrik",
+        "Name_en": "Client: Spagyrics Chief Chirurgeon, Chessamile ",
+        "Name_fr": "Client : Chessamile, directrice de la clinique spagyrique",
+        "Name_ja": "\u30b9\u30d1\u30b8\u30e3\u30a4\u30ea\u30af\u30b9\u533b\u7642\u9928\u9928\u9577\uff1a\u30b7\u30a7\u30c3\u30b5\u30df\u30fc\u30eb",
+        "Name_ko": "\uc5f0\uae08\uc220 \uc758\ub8cc\uad00 \uad00\uc7a5: \uc250\uc0ac\ubc00"
+    },
+    "197": {
+        "0xID": "C5",
+        "Name_cn": "\u73c2\u9732\u897f\u4e9a\u51fa\u8eab\u7684\u4ea4\u6613\u5546\uff1a\u65af\u5e15\u767b",
+        "Name_de": "Auftraggeber: Spadden, H\u00e4ndler aus Kholusia",
+        "Name_en": "Client: Independent Kholusian Trader, Spadden",
+        "Name_fr": "Client : Spadden, marchand originaire de Kholusia",
+        "Name_ja": "\u30b3\u30eb\u30b7\u30a2\u51fa\u8eab\u306e\u4ea4\u6613\u5546\uff1a\u30b9\u30d1\u30c3\u30c7\u30f3",
+        "Name_ko": "\ucf5c\ub8e8\uc2dc\uc544 \ucd9c\uc2e0 \uad50\uc5ed\uc0c1: \uc2a4\ud30c\ub374"
+    },
+    "198": {
+        "0xID": "C6",
+        "Name_cn": "\u91d1\u5c5e\u5de5\u827a\u90e8\u7684\u5de5\u5320\u5b66\u5f92\uff1a\u54c8\u79d1\u6069",
+        "Name_de": "Auftraggeber: Hakon, Lehrling aus der Schwarzeisen-Schmiede",
+        "Name_en": "Client: Facet of Forging Apprentice, Hakon",
+        "Name_fr": "Client : Hakon, apprenti artisan des m\u00e9tallurgistes",
+        "Name_ja": "\u932c\u9244\u79d1\u306e\u65b0\u7c73\u8077\u4eba\uff1a\u30cf\u30b3\u30f3",
+        "Name_ko": "\uc5f0\ucca0\uacfc \uc2e0\uc785 \uc7a5\uc778: \ud558\ucf58"
+    },
+    "199": {
+        "0xID": "C7",
+        "Name_cn": "\u5927\u5730\u8d44\u6e90\u90e8\u6b21\u957f\uff1a\u5854\u6070\u00b7\u595a",
+        "Name_de": "Auftraggeberin: Shee-Tatcha, Vizedirektorin der Abteilung Materialbeschaffung",
+        "Name_en": "Client: Facet of Gathering Deputy Chief, Tatcha",
+        "Name_fr": "Client : Shee-Tatcha, vice-chef des naturalistes",
+        "Name_ja": "\u8abf\u9054\u79d1\u6b21\u9577\uff1a\u30bf\u30c3\u30c1\u30e3\u30fb\u30b7\u30fc",
+        "Name_ko": "\uc870\ub2ec\uacfc \ucc28\uc7a5: \ud0c0\ucc28 \uc2dc"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u5e03\u9c81\u76d6\u5c14\u5546\u4f1a \u91c7\u8d2d\u8d1f\u8d23\u4eba \u6587\u65af\u6c40\u00b7\u74e6\u5c14\u8fbe",
+        "Name_de": "Auftraggeber: Wynstin Walder vom Brugaire-Konsortium",
+        "Name_en": "Client: Brugaire Consortium Warehouse Foreman, Wynstin Walder",
+        "Name_fr": "Client : Wynstin Walder, du Consortium de Brugaire",
+        "Name_ja": "\u30d6\u30eb\u30b2\u30fc\u30eb\u5546\u4f1a\uff1a\u4ed5\u5165\u62c5\u5f53\u30a6\u30a3\u30f3\u30b9\u30c6\u30a3\u30f3\u30fb\u30ef\u30eb\u30c0\u30fc",
+        "Name_ko": "\ube0c\ub8e8\uac8c\uc774\ub974 \uc0c1\ud68c: \uad6c\ub9e4\ub2f4\ub2f9 \uc708\uc2a4\ud2f4 \uc648\ub354"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u72e9\u730e\u4eba\u884c\u4f1a \u5384\u8ba9\u5948\u5c14",
+        "Name_de": "Auftraggeber: Eugenaire der Graue von der J\u00e4gergilde",
+        "Name_en": "Client: Trappers' League Huntsman, Eugenaire the Grey",
+        "Name_fr": "Client : Eugenaire, de la guilde des chasseurs",
+        "Name_ja": "\u731f\u5e2b\u30ae\u30eb\u30c9\uff1a\u30a6\u30b8\u30a7\u30cd\u30fc\u30eb",
+        "Name_ko": "\uc0ac\ub0e5\uafbc \uae38\ub4dc: \uc6b0\uac8c\ub12c"
+    },
+    "200": {
+        "0xID": "C8",
+        "Name_cn": "\u5f39\u9053\u519b\u6b66\u9986\u6280\u5e08\uff1a\u7d22\u00b7\u4efb\u5fb7",
+        "Name_de": "Auftraggeber: Soe-Rend, Ingenieur der Ballistik",
+        "Name_en": "Client: Ballistics Engineer, Soe-Rend",
+        "Name_fr": "Client : Soe-Rend, ing\u00e9nieur des ateliers balistiques",
+        "Name_ja": "\u30d0\u30ea\u30b9\u30c6\u30a3\u30af\u30b9\u9020\u5175\u9928\u6280\u5e2b\uff1a\u30bd\u30fc\u30fb\u30ec\u30f3\u30c9",
+        "Name_ko": "\ud0c4\ub3c4\ud559 \uc870\ubcd1\uad00 \uae30\uc220\uc790: \uc18c \ub80c\ub4dc"
+    },
+    "201": {
+        "0xID": "C9",
+        "Name_cn": "\u91d1\u5c5e\u5de5\u827a\u90e8\u7684\u65b0\u9510\u5de5\u5320\uff1a\u54c8\u79d1\u6069",
+        "Name_de": "Auftraggeber: Hakon, Talent aus der Schwarzeisen-Schmiede",
+        "Name_en": "Client: Facet of Forging Journeyman, Hakon",
+        "Name_fr": "Client : Hakon, artisan motiv\u00e9 des m\u00e9tallurgistes",
+        "Name_ja": "\u932c\u9244\u79d1\u306e\u6c17\u92ed\u8077\u4eba\uff1a\u30cf\u30b3\u30f3",
+        "Name_ko": "\uc5f0\ucca0\uacfc \uc6b0\uc218 \uc7a5\uc778: \ud558\ucf58"
+    },
+    "202": {
+        "0xID": "CA",
+        "Name_cn": "\u91d1\u5c5e\u5de5\u827a\u90e8\u7684\u4e2a\u4eba\u5de5\u623f\u4e3b\uff1a\u54c8\u79d1\u6069",
+        "Name_de": "Auftraggeber: Hakon, Werkstattbetreiber",
+        "Name_en": "Client: Facet of Forging Forgemaster, Hakon",
+        "Name_fr": "Client : Hakon, artisan populaire des m\u00e9tallurgistes",
+        "Name_ja": "\u932c\u9244\u79d1\u306e\u500b\u4eba\u5de5\u623f\u4e3b\uff1a\u30cf\u30b3\u30f3",
+        "Name_ko": "\uc5f0\ucca0\uacfc \uac1c\uc778 \uacf5\ubc29\uc8fc: \ud558\ucf58"
+    },
+    "203": {
+        "0xID": "CB",
+        "Name_cn": "\u91d1\u5c5e\u5de5\u827a\u90e8\u7684\u6709\u540d\u5de5\u623f\u4e3b\uff1a\u54c8\u79d1\u6069",
+        "Name_de": "Auftraggeber: Hakon, Betreiber einer ber\u00fchmten Werkstatt",
+        "Name_en": "Client: Facet of Forging Famed Forgemaster, Hakon",
+        "Name_fr": "Client : Hakon, artisan c\u00e9l\u00e8bre des m\u00e9tallurgistes",
+        "Name_ja": "\u932c\u9244\u79d1\u306e\u6709\u540d\u5de5\u623f\u4e3b\uff1a\u30cf\u30b3\u30f3",
+        "Name_ko": "\uc5f0\ucca0\uacfc \uc720\uba85 \uacf5\ubc29\uc8fc: \ud558\ucf58"
+    },
+    "204": {
+        "0xID": "CC",
+        "Name_cn": "\u5b64\u9ad8\u7684\u6709\u540d\u5de5\u5320\uff1a\u54c8\u79d1\u6069",
+        "Name_de": "Auftraggeber: Hakon, Koryph\u00e4e unter den Metallurgen",
+        "Name_en": "Client: Independent Legendary Forgemaster, Hakon",
+        "Name_fr": "Client : Hakon, artisan illustre des m\u00e9tallurgistes",
+        "Name_ja": "\u5b64\u9ad8\u306e\u540d\u8077\u4eba\uff1a\u30cf\u30b3\u30f3",
+        "Name_ko": "\uace0\uace0\ud55c \uba85\uc7a5: \ud558\ucf58"
+    },
+    "205": {
+        "0xID": "CD",
+        "Name_cn": "\u4f5c\u7269\u56ed\u827a\u9986\u7814\u7a76\u5458\uff1a\u827e\u767b\u5fb7\u4e3d\u8fbe",
+        "Name_de": "Auftraggeberin: Edendreda, Forscherin des Hortoriums",
+        "Name_en": "Client: Hortorium Researcher, Edendreda",
+        "Name_fr": "Client : Edendreda, chercheuse \u00e0 L'Hortorium",
+        "Name_ja": "\u30db\u30eb\u30c8\u30ea\u30a6\u30e0\u5712\u82b8\u9928\u7814\u7a76\u54e1\uff1a\u30a8\u30c7\u30f3\u30c9\u30ec\u30c0",
+        "Name_ko": "\uc2dd\ubb3c \ud45c\ubcf8\uad00 \uc5f0\uad6c\uc6d0: \uc5d0\ub374\ub4dc\ub808\ub2e4"
+    },
+    "206": {
+        "0xID": "CE",
+        "Name_cn": "\u98df\u836f\u5de5\u827a\u90e8\u7684\u53a8\u5e08\u5b66\u5f92\uff1a\u7ecd\u5c14\u798f\u7279",
+        "Name_de": "Auftraggeber: Saulfort, K\u00fcchenhilfe bei \u201eKr\u00e4uter, D\u00fcfte & Aromen\u201c",
+        "Name_en": "Client: Facet of Nourishing Apprentice, Saulfort",
+        "Name_fr": "Client : Saulfort, apprenti cuisinier des pr\u00e9parateurs",
+        "Name_ja": "\u98df\u85ac\u79d1\u306e\u65b0\u7c73\u6599\u7406\u4eba\uff1a\u30bd\u30fc\u30eb\u30d5\u30a9\u30fc\u30c8",
+        "Name_ko": "\uc2dd\uc57d\uacfc\uc758 \uc2e0\uc785 \uc694\ub9ac\uc0ac: \uc194\ud3ec\ud2b8"
+    },
+    "207": {
+        "0xID": "CF",
+        "Name_cn": "\u6c34\u751f\u8d44\u6e90\u90e8\u6b21\u957f\uff1a\u620a\u00b7\u5e0c\u5c14",
+        "Name_de": "Auftraggeber: Vrue-Shirr, Vizedirektor der Abteilung Fischerei",
+        "Name_en": "Client: Facet of Fishing Deputy Chief, Vrue-Shirr",
+        "Name_fr": "Client : Vrue-Shirr, vice-chef des p\u00eacheurs",
+        "Name_ja": "\u6f01\u696d\u79d1\u6b21\u9577\uff1a\u30f4\u30eb\u30fc\u30fb\u30b7\u30eb",
+        "Name_ko": "\uc5b4\uc5c5\uacfc \ucc28\uc7a5: \ube0c\ub8e8 \uc2dc\ub974"
+    },
+    "208": {
+        "0xID": "D0",
+        "Name_cn": "\u98df\u836f\u5de5\u827a\u90e8\u7684\u65b0\u9510\u53a8\u5e08\uff1a\u7ecd\u5c14\u798f\u7279",
+        "Name_de": "Auftraggeber: Saulfort, Koch bei \u201eKr\u00e4uter, D\u00fcfte & Aromen\u201c",
+        "Name_en": "Client: Facet of Nourishing Journeyman, Saulfort",
+        "Name_fr": "Client : Saulfort, cuisinier motiv\u00e9 des pr\u00e9parateurs",
+        "Name_ja": "\u98df\u85ac\u79d1\u306e\u6c17\u92ed\u6599\u7406\u4eba\uff1a\u30bd\u30fc\u30eb\u30d5\u30a9\u30fc\u30c8",
+        "Name_ko": "\uc2dd\uc57d\uacfc\uc758 \uc6b0\uc218 \uc694\ub9ac\uc0ac: \uc194\ud3ec\ud2b8"
+    },
+    "209": {
+        "0xID": "D1",
+        "Name_cn": "\u98df\u836f\u5de5\u827a\u90e8\u7684\u4eba\u6c14\u53a8\u5e08\uff1a\u7ecd\u5c14\u798f\u7279",
+        "Name_de": "Auftraggeber: Saulfort, beliebter Koch bei \u201eKr\u00e4uter, D\u00fcfte & Aromen\u201c",
+        "Name_en": "Client: Facet of Nourishing Master Culinarian, Saulfort",
+        "Name_fr": "Client : Saulfort, cuisinier populaire des pr\u00e9parateurs",
+        "Name_ja": "\u98df\u85ac\u79d1\u306e\u4eba\u6c17\u6599\u7406\u4eba\uff1a\u30bd\u30fc\u30eb\u30d5\u30a9\u30fc\u30c8",
+        "Name_ko": "\uc2dd\uc57d\uacfc\uc758 \uc778\uae30 \uc694\ub9ac\uc0ac: \uc194\ud3ec\ud2b8"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u795e\u52c7\u961f\u4eba\u9a6c\u5e08\u56e2 \u52a0\u5c14\u5f17\u91cc\u5fb7\u6559\u5b98",
+        "Name_de": "Auftraggeber: Hauptmann Galfrid",
+        "Name_en": "Client: 1st Bow of the Quiver's Centaurs, Galfrid Mossback",
+        "Name_fr": "Client : Galfrid, division du Centaure des fl\u00e8ches divines",
+        "Name_ja": "\u795e\u52c7\u968a\u4eba\u99ac\u5e2b\u56e3\uff1a\u30ac\u30eb\u30d5\u30ea\u30c3\u30c9\u6559\u5b98",
+        "Name_ko": "\uc2e0\uad81\ubd80\ub300 \uc778\ub9c8\uc0ac\ub2e8: \uac24\ud504\ub9ac\ub4dc \uad50\uad00"
+    },
+    "210": {
+        "0xID": "D2",
+        "Name_cn": "\u98df\u836f\u5de5\u827a\u90e8\u7684\u8457\u540d\u53a8\u5e08\uff1a\u7ecd\u5c14\u798f\u7279",
+        "Name_de": "Auftraggeber: Saulfort, beliebtester Koch bei \u201eKr\u00e4uter, D\u00fcfte & Aromen\u201c",
+        "Name_en": "Client: Facet of Nourishing Famed Culinarian, Saulfort",
+        "Name_fr": "Client : Saulfort, cuisinier c\u00e9l\u00e8bre des pr\u00e9parateurs",
+        "Name_ja": "\u98df\u85ac\u79d1\u306e\u540d\u6599\u7406\u4eba\uff1a\u30bd\u30fc\u30eb\u30d5\u30a9\u30fc\u30c8",
+        "Name_ko": "\uc2dd\uc57d\uacfc\uc758 \uc720\uba85 \uc694\ub9ac\uc0ac: \uc194\ud3ec\ud2b8"
+    },
+    "211": {
+        "0xID": "D3",
+        "Name_cn": "\u98df\u836f\u5de5\u827a\u90e8\u7684\u62db\u724c\u53a8\u5e08\uff1a\u7ecd\u5c14\u798f\u7279",
+        "Name_de": "Auftraggeber: Saulfort, Koryph\u00e4e unter den K\u00f6chen",
+        "Name_en": "Client: Facet of Nourishing Exceedingly Famed Culinarian, Saulfort",
+        "Name_fr": "Client : Saulfort, cuisinier illustre des pr\u00e9parateurs",
+        "Name_ja": "\u98df\u85ac\u79d1\u306e\u540d\u7269\u6599\u7406\u4eba\uff1a\u30bd\u30fc\u30eb\u30d5\u30a9\u30fc\u30c8",
+        "Name_ko": "\uc2dd\uc57d\uacfc\uc758 \uba85\ubb3c \uc694\ub9ac\uc0ac: \uc194\ud3ec\ud2b8"
+    },
+    "212": {
+        "0xID": "D4",
+        "Name_cn": "\u624b\u5de5\u5de5\u827a\u90e8\u7684\u5b9e\u529b\u6d3e\u5de5\u5320\uff1a\u5965\u5a01\u5c14",
+        "Name_de": "Auftraggeber: Owell, Handwerker der Manufaktur der Gemeinschaft",
+        "Name_en": "Client: Facet of Crafting Influential Artisan, Owell",
+        "Name_fr": "Client : Owell, artisan confirm\u00e9 des fa\u00e7onniers",
+        "Name_ja": "\u624b\u5de5\u79d1\u306e\u5b9f\u529b\u6d3e\u8077\u4eba\uff1a\u30aa\u30fc\u30a8\u30eb",
+        "Name_ko": "\uc218\uacf5\uacfc\uc758 \uc2e4\ub825\ud30c \uc7a5\uc778: \uc624\uc6f0"
+    },
+    "213": {
+        "0xID": "D5",
+        "Name_cn": "\u6c34\u751f\u8d44\u6e90\u90e8\u7684\u6355\u9c7c\u8001\u624b\uff1a\u83ab\u5a01\u5c14",
+        "Name_de": "Auftraggeber: Mervyl, Veteran aus der Abteilung Fischerei",
+        "Name_en": "Client: Facet of Fishing Master Fisherman, Mervyl ",
+        "Name_fr": "Client : Mervyl, p\u00eacheur v\u00e9t\u00e9ran",
+        "Name_ja": "\u6f01\u696d\u79d1\u306e\u719f\u7df4\u6f01\u5e2b\uff1a\u30de\u30fc\u30f4\u30a3\u30eb",
+        "Name_ko": "\uc5b4\uc5c5\uacfc\uc758 \uc219\ub828 \uc5b4\ubd80: \uba38\ube4c"
+    },
+    "214": {
+        "0xID": "D6",
+        "Name_cn": "\u5546\u961f\u961f\u957f\uff1a\u5361\u8428\u5fb7",
+        "Name_de": "Auftraggeber: Cassard, Karawanenf\u00fchrer",
+        "Name_en": "Client: Caravan Leader, Cassard",
+        "Name_fr": "Client : Cassard, chef de caravane",
+        "Name_ja": "\u30ad\u30e3\u30e9\u30d0\u30f3\u968a\u9577\uff1a\u30ab\u30b5\u30fc\u30c9",
+        "Name_ko": "\uc0c1\ub2e8 \ub2e8\uc7a5: \uce74\uc0ac\ub4dc"
+    },
+    "215": {
+        "0xID": "D7",
+        "Name_cn": "\u536b\u5175\u56e2\u519b\u5b98\uff1a\u76ae\u7279\u91cc\u683c",
+        "Name_de": "Auftraggeber: Pitrig, Offizier der Wache",
+        "Name_en": "Client: Crystarium Guard Officer, Pitrig ",
+        "Name_fr": "Client : Pitrig, officier de la garde",
+        "Name_ja": "\u885b\u5175\u56e3\u5c06\u6821\uff1a\u30d4\u30c3\u30c8\u30ea\u30c3\u30b0",
+        "Name_ko": "\uc704\ubcd1\ub300 \uc7a5\uad50: \ud53c\ud2b8\ub9ac\uadf8"
+    },
+    "216": {
+        "0xID": "D8",
+        "Name_cn": "\u9ed1\u94c1\u5de5\u623f\u7684\u5de5\u5320\uff1a\u827e\u65af\u8499",
+        "Name_de": "Auftraggeber: Eismon, Handwerker der Schwarzeisen-Schmiede",
+        "Name_en": "Client: The Bellows Smith, Eismon",
+        "Name_fr": "Client : Eismon, artisan de la Soufflerie d'airain",
+        "Name_ja": "\u9ed2\u9244\u5de5\u623f\u306e\u8077\u4eba\uff1a\u30a8\u30a4\u30b9\u30e2\u30f3",
+        "Name_ko": "\ud751\ucca0 \uacf5\ubc29 \uc7a5\uc778: \uc5d0\uc774\uc2a4\ubabd"
+    },
+    "217": {
+        "0xID": "D9",
+        "Name_cn": "\u9632\u5177\u5e97\u201c\u4fdd\u62a4\u5c42\u201d\u5e97\u4e3b\uff1a\u6735\u8fbe\u5fb7",
+        "Name_de": "Auftraggeber: Doddard, Inhaber eines Gesch\u00e4fts f\u00fcr R\u00fcstungen",
+        "Name_en": "Client: Steelskins Proprietor, Doddard",
+        "Name_fr": "Client : Doddard, g\u00e9rant de boutique de protections",
+        "Name_ja": "\u9632\u5177\u5c4b\u300c\u9762\u306e\u76ae\u300d\u5e97\u4e3b\uff1a\u30c9\u30c3\u30c0\u30fc\u30c9",
+        "Name_ko": "\ubc29\uc5b4\uad6c\uc810 '\ub0af\uac00\uc8fd' \uc8fc\uc778: \ub3c4\ub2e4\ub4dc"
+    },
+    "218": {
+        "0xID": "DA",
+        "Name_cn": "\u535a\u7269\u9648\u5217\u9986\u53f8\u4e66\u957f\uff1a\u83ab\u4f26",
+        "Name_de": "Auftraggeber: Moren, Bibliothekar im Kabinett der Kuriosit\u00e4ten",
+        "Name_en": "Client: Cabinet of Curiosity Librarian, Moren",
+        "Name_fr": "Client : Moren, biblioth\u00e9caire en chef du cabinet de curiosit\u00e9s",
+        "Name_ja": "\u535a\u7269\u9673\u5217\u9928\u53f8\u66f8\u9577\uff1a\u30e2\u30fc\u30ec\u30f3",
+        "Name_ko": "\ubc15\ubb3c\uc9c4\uc5f4\uad00 \uc0ac\uc11c\uc7a5: \ubaa8\ub80c"
+    },
+    "219": {
+        "0xID": "DB",
+        "Name_cn": "\u6b66\u5668\u5e97\u201c\u5148\u53d1\u5236\u4eba\u201d\u5e97\u4e3b\uff1a\u72ed\u00b7\u63d0\u65af\u7279",
+        "Name_de": "Auftraggeber: Shai-Tistt, Inhaber eines Waffengesch\u00e4fts",
+        "Name_en": "Client: Hack and Slash Proprietor, Shai-Tistt",
+        "Name_fr": "Client : Shai-Tistt, g\u00e9rant de boutique d'armes",
+        "Name_ja": "\u6b66\u5177\u5c4b\u300c\u5148\u5236\u653b\u6483\u300d\u5e97\u4e3b\uff1a\u30b7\u30e3\u30a4\u30fb\u30c6\u30a3\u30b9\u30c8",
+        "Name_ko": "\ubb34\uae30\uc810 '\uc120\uc81c\uacf5\uaca9' \uc8fc\uc778: \uc0e4\uc774 \ud2f0\uc2a4\ud1a0"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u56ed\u827a\u5de5\u884c\u4f1a \u52a0\u6bd4\u8bfa\u8001\u7239",
+        "Name_de": "Auftraggeber: Gabineaux",
+        "Name_en": "Client: Botanists' Guild, Master Gabineaux",
+        "Name_fr": "Client : Gabineaux, de la guilde des botanistes",
+        "Name_ja": "\u5712\u82b8\u5e2b\u30ae\u30eb\u30c9\uff1a\u30ac\u30d3\u30ce\u30fc\u89aa\u65b9",
+        "Name_ko": "\uc6d0\uc608\uac00 \uae38\ub4dc: \uac00\ube44\ub178 \uc0ac\ubd80"
+    },
+    "220": {
+        "0xID": "DC",
+        "Name_cn": "\u751c\u6ee4\u679c\u6811\u56ed\u4e3b\u4efb\uff1a\u7279\u6bd4\u5c14",
+        "Name_de": "Auftraggeber: Tobyl, Obstbauer im S\u00fc\u00dfraspelhain",
+        "Name_en": "Client: Sweetsieve Senior Groundskeeper, Tobyl",
+        "Name_fr": "Client : Tobyl, responsable du jardin du Tamisucre",
+        "Name_ja": "\u30b9\u30a6\u30a3\u30fc\u30c8\u30b7\u30fc\u30f4\u679c\u6a39\u5712\u4e3b\u4efb\uff1a\u30c8\u30d3\u30eb",
+        "Name_ko": "\ub2ec\ucf64\uccb4 \uacfc\uc218\uc6d0 \uc8fc\uc784: \ud1a0\ube4c"
+    },
+    "221": {
+        "0xID": "DD",
+        "Name_cn": "\u7f8e\u98df\u5546\u201c\u7eed\u996d\u4ead\u201d\u5e97\u4e3b\uff1a\u6657\u5409\u00b7\u6590",
+        "Name_de": "Auftraggeberin: Hanji-Fae, Betreiberin des Restaurants \u201eExtraportion\u201c",
+        "Name_en": "Client: The Second Serving Proprietor, Hanji-Fae",
+        "Name_fr": "Client : Hanji-Fae, g\u00e9rante de restaurant",
+        "Name_ja": "\u6599\u7406\u5c4b\u300c\u30aa\u30ab\u30ef\u30ea\u4ead\u300d\u5e97\u4e3b\uff1a\u30cf\u30f3\u30b8\u30fb\u30d5\u30a7\u30fc",
+        "Name_ko": "\uc74c\uc2dd\uc810 '\ub354 \uc8fc\uc138\uc694' \uc8fc\uc778: \ud55c\uc9c0 \ud398\uc774"
+    },
+    "222": {
+        "0xID": "DE",
+        "Name_cn": "\u9ed1\u94c1\u5de5\u623f\u7684\u7ecf\u8425\u8005\uff1a\u4f0a\u5965\u62c9",
+        "Name_de": "Auftraggeberin: Iola, Gesch\u00e4ftsf\u00fchrerin der Schwarzeisen-Schmiede",
+        "Name_en": "Client: The Bellows Forgemaster, Iola",
+        "Name_fr": "Client : Iola, g\u00e9rante de la Soufflerie d'airain",
+        "Name_ja": "\u9ed2\u9244\u5de5\u623f\u306e\u7d4c\u55b6\u8005\uff1a\u30a4\u30aa\u30e9",
+        "Name_ko": "\ud751\ucca0 \uacf5\ubc29 \uacbd\uc601\uc790: \uc774\uc62c\ub77c"
+    },
+    "223": {
+        "0xID": "DF",
+        "Name_cn": "\u98df\u836f\u5de5\u827a\u90e8\u7684\u517d\u533b\uff1a\u8d1d\u65af\u91cc\u514b",
+        "Name_de": "Auftraggeber: Bethric, Veterin\u00e4r bei \u201eKr\u00e4uter, D\u00fcfte & Aromen\u201c",
+        "Name_en": "Client: Facet of Nourishing Overseer, Bethric",
+        "Name_fr": "Client : Bethric, v\u00e9t\u00e9rinaire des pr\u00e9parateurs",
+        "Name_ja": "\u98df\u85ac\u79d1\u306e\u7363\u533b\u5e2b\uff1a\u30d9\u30b9\u30ea\u30af",
+        "Name_ko": "\uc2dd\uc57d\uacfc \uc218\uc758\uc0ac: \ubca0\uc2a4\ub9ad"
+    },
+    "224": {
+        "0xID": "E0",
+        "Name_cn": "\u60ac\u94fe\u516c\u9986\u7684\u7ba1\u7406\u4eba\uff1a\u5e0c\u5c14\u4f3d\u59c6",
+        "Name_de": "Auftraggeber: Sylgham, Verwalter der Ikosagon-Quartiere",
+        "Name_en": "Client: The Catenaries Manager, Sylgham",
+        "Name_fr": "Client : Sylgham, g\u00e9rant des Cha\u00eenettes",
+        "Name_ja": "\u30ab\u30c6\u30ca\u30ea\u30fc\u5c45\u4f4f\u9928\u306e\u7ba1\u7406\u4eba\uff1a\u30b7\u30eb\u30ac\u30e0",
+        "Name_ko": "\uc0ac\uc2ac \uac70\uc8fc\uad00 \uad00\ub9ac\uc778: \uc2e4\uac10"
+    },
+    "225": {
+        "0xID": "E1",
+        "Name_cn": "\u5b87\u5b99\u548c\u97f3\u7684\u5e02\u573a\u7ba1\u7406\u4eba\uff1a\u5e03\u62c9\u57fa",
+        "Name_de": "Auftraggeber: Bragi, Marktvorsteher von Musica Universalis",
+        "Name_en": "Client: Musica Universalis Master of the Markets, Bragi",
+        "Name_fr": "Client : Bragi, patron de Musica Universalis",
+        "Name_ja": "\u30e0\u30b8\u30ab\u30fb\u30e6\u30cb\u30d0\u30fc\u30b5\u30ea\u30b9\u306e\u5e02\u5834\u9577\uff1a\u30d6\u30e9\u30ae",
+        "Name_ko": "\uc6b0\uc8fc\uc758 \ud654\uc74c \uc2dc\uc7a5 \uc870\ud569\uc7a5: \ube0c\ub77c\uae30"
+    },
+    "226": {
+        "0xID": "E2",
+        "Name_cn": "\u4e2d\u5eb8\u5de5\u827a\u9986\u9986\u957f\uff1a\u5361\u7279\u8389\u4e1d",
+        "Name_de": "Auftraggeberin: Katliss, Direktorin der Manufaktur der Gemeinschaft",
+        "Name_en": "Client: Crystalline Mean Director, Katliss",
+        "Name_fr": "Client : Katliss, repr\u00e9sentante g\u00e9n\u00e9rale de la halle du Juste",
+        "Name_ja": "\u30df\u30fc\u30f3\u5de5\u82b8\u9928\u9928\u9577\uff1a\u30ab\u30c3\u30c8\u30ea\u30b9",
+        "Name_ko": "\uc911\uc6a9\uc758 \uacf5\uc608\uad00 \uad00\uc7a5: \uce74\ud2b8\ub9ac\uc2a4"
+    },
+    "227": {
+        "0xID": "E3",
+        "Name_cn": "\u795e\u79d8\u7403\u4f53\uff1a\u5b9e\u5f55\u7cfb\u7edf",
+        "Name_de": "Auftraggeber: Registrierungsmodul, r\u00e4tselhafte Kugel",
+        "Name_en": "Client: Enigmatic Sphere of Wonder, Noddy",
+        "Name_fr": "Client : Module d'enregistrement, machine \u00e9trange",
+        "Name_ja": "\u8b0e\u306e\u7403\u4f53\uff1a\u5b9f\u9332\u30b7\u30b9\u30c6\u30e0",
+        "Name_ko": "\uc218\uc0c1\ud55c \uad6c\uccb4: \uc2e4\ub85d \uc2dc\uc2a4\ud15c"
+    },
+    "228": {
+        "0xID": "E4",
+        "Name_cn": "\u9970\u54c1\u5e97\u201c\u5e7b\u661f\u5802\u201d\u5e97\u4e3b\uff1a\u963f\u5c3c\u5a05",
+        "Name_de": "Auftraggeberin: Ania, Inhaberin einer Boutique f\u00fcr Accessoires",
+        "Name_en": "Client: Wonderhall Proprietor, Ania",
+        "Name_fr": "Client : Ania, g\u00e9rante de boutique d'accessoires",
+        "Name_ja": "\u30a2\u30af\u30bb\u30b5\u30ea\u30fc\u5c4b\u300c\u5e7b\u661f\u5802\u300d\u5e97\u4e3b\uff1a\u30a2\u30cb\u30a2",
+        "Name_ko": "\uc7a5\uc2e0\uad6c\uc810 '\ud658\uc131\ub2f9' \uc8fc\uc778: \uc544\ub2c8\uc544"
+    },
+    "229": {
+        "0xID": "E5",
+        "Name_cn": "\u963f\u6885\u8389\u5b89\u4e1d\u00b7\u83b1\u97e6\u8036\u52d2\u5c14",
+        "Name_de": "Auftraggeberin: Ameliance Leveilleur",
+        "Name_en": "Client: Lady of House Leveilleur, Ameliance Leveilleur",
+        "Name_fr": "Client : Ameliance Leveilleur",
+        "Name_ja": "\u30a2\u30e1\u30ea\u30a2\u30f3\u30b9\u30fb\u30eb\u30f4\u30a7\u30e6\u30fc\u30eb",
+        "Name_ko": "\uc544\uba5c\ub9ac\uc559\uc2a4 \ub974\ubca0\uc720\ub974"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u56ed\u827a\u5de5\u884c\u4f1a \u83b1\u6602\u7d22",
+        "Name_de": "Auftraggeber: Leonceault von der G\u00e4rtnergilde",
+        "Name_en": "Client: Botanists' Guild Receptionist, Leonceault Leadthumb",
+        "Name_fr": "Client : Leonceault, de la guilde des botanistes",
+        "Name_ja": "\u5712\u82b8\u5e2b\u30ae\u30eb\u30c9\uff1a\u30ec\u30aa\u30f3\u30bd",
+        "Name_ko": "\uc6d0\uc608\uac00 \uae38\ub4dc: \ub808\uc628\uc18c"
+    },
+    "230": {
+        "0xID": "E6",
+        "Name_cn": "\u963f\u5c14\u5e03\u83b1\u7279\u5bb6\u4f63\u4eba",
+        "Name_de": "Auftraggeber: Bediensteter des Hauses Albright",
+        "Name_en": "Client: Anonymous Albright Manor Servant",
+        "Name_fr": "Client : Domestique des Albright",
+        "Name_ja": "\u30aa\u30fc\u30eb\u30d6\u30e9\u30a4\u30c8\u5bb6\u306e\u4f7f\u7528\u4eba",
+        "Name_ko": "\uc62c\ube0c\ub77c\uc774\ud2b8 \uac00 \ud558\uc778"
+    },
+    "231": {
+        "0xID": "E7",
+        "Name_cn": "\u80cc\u6c34\u5496\u5561\u5385\u5e97\u4e3b\uff1a\u8fea\u5eb7",
+        "Name_de": "Auftraggeber: Meister Dickon, Wirt der Letzten Bastion",
+        "Name_en": "Client: The Last Stand Proprietor, Dickon",
+        "Name_fr": "Client : Dickon, propri\u00e9taire du Dernier Rempart",
+        "Name_ja": "\u30ab\u30d5\u30a7\u300c\u30e9\u30b9\u30c8\u30b9\u30bf\u30f3\u30c9\u300d\u5e97\u4e3b\uff1a\u30c7\u30a3\u30b3\u30f3",
+        "Name_ko": "\uce74\ud398 '\ub77c\uc2a4\ud2b8 \uc2a4\ud0e0\ub4dc' \uc8fc\uc778: \ub515\ucf58"
+    },
+    "232": {
+        "0xID": "E8",
+        "Name_cn": "\u53ef\u53ef\u7f57\u5de5\u623f\uff1a\u53ef\u53ef\u7f57\u00b7\u4e39\u53ef\u7f57",
+        "Name_de": "Auftraggeber: Kokkol Dankkol, Inhaber von Kokkols Schmiede",
+        "Name_en": "Client: Fervent Forgemaster, Kokkol Dankkol",
+        "Name_fr": "Client : Kokkol Dankkol, forge de Kokkol",
+        "Name_ja": "\u30af\u30af\u30ed\u306e\u5de5\u623f\uff1a\u30af\u30af\u30ed\u30fb\u30c0\u30f3\u30af\u30ed",
+        "Name_ko": "\ucfe0\ucfe0\ub85c \uacf5\ubc29: \ucfe0\ucfe0\ub85c \ub2e8\ucfe0\ub85c"
+    },
+    "233": {
+        "0xID": "E9",
+        "Name_cn": "\u9774\u5b50\u6536\u85cf\u5bb6\uff1a\u8336\u5e15\u65af\u00b7\u73c0\u5c14\u5e15\u65af",
+        "Name_de": "Auftraggeber: Chapas Porpas, Sammler von Schuhen",
+        "Name_en": "Client: Footwear Enthusiast, Chapas Porpas",
+        "Name_fr": "Client : Chapas Porpas, collectionneur de chaussures",
+        "Name_ja": "\u9774\u53ce\u96c6\u5bb6\uff1a\u30c1\u30e3\u30d1\u30b9\u30fb\u30dd\u30eb\u30d1\u30b9",
+        "Name_ko": "\uad6c\ub450 \uc218\uc9d1\uac00: \ucc28\ud30c\uc2a4 \ud3ec\ub974\ud30c\uc2a4"
+    },
+    "234": {
+        "0xID": "EA",
+        "Name_cn": "\u62fe\u7a57\u4eba\u603b\u4f1a\uff1a\u57c3\u4f26\u7ef4\u5c14",
+        "Name_de": "Auftraggeber: Kokkol Dankkol, Inhaber von Kokkols Schmiede",
+        "Name_en": "Client: Gleaners' Guildship Envoy, Erenville",
+        "Name_fr": "Client : Erenville, membre du coll\u00e8ge des glaneurs",
+        "Name_ja": "\u30b0\u30ea\u30fc\u30ca\u30fc\u30ba\u30fb\u30ae\u30eb\u30c9\u30b7\u30c3\u30d7\uff1a\u30a8\u30ec\u30f3\u30f4\u30a3\u30eb",
+        "Name_ko": "\uc870\ub2ec\uafbc \uc870\ud569: \uc5d0\ub80c\ube4c"
+    },
+    "235": {
+        "0xID": "EB",
+        "Name_cn": "\u8d24\u4eba\u4f1a\u4e8b\u52a1\u5c40\u804c\u5458\uff1a\u8428\u73c2\u73c2",
+        "Name_de": "Auftraggeber: Sakoko, Mitglied des Rates des Exegeten",
+        "Name_en": "Client: Council Archon, Sakoko",
+        "Name_fr": "Client : Sakoko, membre du comit\u00e9 des Preux",
+        "Name_ja": "\u8ce2\u4eba\u4f1a\u4e8b\u52d9\u5c40\u8077\u54e1\uff1a\u30b5\u30b3\u30b3",
+        "Name_ko": "\ud604\uc778\ud68c \uc0ac\ubb34\uad6d \uc9c1\uc6d0: \uc0ac\ucf54\ucf54"
+    },
+    "236": {
+        "0xID": "EC",
+        "Name_cn": "\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u5de5\u7a0b\u7cfb\u526f\u6559\u6388\uff1a\u52a0\u57c3\u52d2",
+        "Name_de": "Auftraggeberin: Gaelle, Professorin der technischen Fakult\u00e4t an der Magieakademie",
+        "Name_en": "Client: Studium Associate Professor in Engineering, Gaelle",
+        "Name_fr": "Client : Gaelle, professeur assistante du d\u00e9partement d'ing\u00e9nierie",
+        "Name_ja": "\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u5de5\u5b66\u90e8\u51c6\u6559\u6388\uff1a\u30ac\u30a8\u30fc\u30eb",
+        "Name_ko": "\uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uacf5\ud559\ubd80 \uc900\uad50\uc218: \uac00\uc5d8"
+    },
+    "237": {
+        "0xID": "ED",
+        "Name_cn": "\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u65b0\u751f\uff1a\u672c\u683c\u5c14",
+        "Name_de": "Auftraggeber: Benger, Student an der Magieakademie",
+        "Name_en": "Client: Studium First-year Pupil, Benger",
+        "Name_fr": "Client : Benger, \u00e9tudiant en premi\u00e8re ann\u00e9e \u00e0 l'acad\u00e9mie de magie",
+        "Name_ja": "\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u65b0\u5165\u751f\uff1a\u30d9\u30f3\u30b8\u30e3\u30fc",
+        "Name_ko": "\uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uc2e0\uc785\uc0dd: \ubca4\uc800"
+    },
+    "238": {
+        "0xID": "EE",
+        "Name_cn": "\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u533b\u5b66\u7cfb\u6559\u6388\uff1a\u52a0\u5c14\u97e6\u7f57\u4ec0",
+        "Name_de": "Auftraggeber: Galveroche, Professor der Ern\u00e4hrungswissenschaften an der Magieakademie",
+        "Name_en": "Client: Faculty of Medicine Professor, Galveroche",
+        "Name_fr": "Client : Galveroche, professeur du d\u00e9partement de m\u00e9decine",
+        "Name_ja": "\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u533b\u5b66\u90e8\u6559\u6388\uff1a\u30ac\u30eb\u30f4\u30ed\u30c3\u30b7\u30e5",
+        "Name_ko": "\uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uc758\ud559\ubd80 \uad50\uc218: \uac08\ube0c\ub85c\uc288"
+    },
+    "239": {
+        "0xID": "EF",
+        "Name_cn": "\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u8868\u6f14\u7814\u7a76\u4f1a\uff1a\u8d1d\u7ef4\u65af",
+        "Name_de": "Auftraggeber: Bevis, Mitglied der Theatergruppe an der Magieakademie",
+        "Name_en": "Client: Studium Theater Society Director, Bevis",
+        "Name_fr": "Client : Bevis, membre du club de th\u00e9\u00e2tre de l'acad\u00e9mie de magie",
+        "Name_ja": "\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u6f14\u5287\u7814\u7a76\u4f1a\uff1a\u30d3\u30fc\u30f4\u30a3\u30b9",
+        "Name_ko": "\uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uc5f0\uadf9 \uc5f0\uad6c\ud68c: \ube44\ube44\uc2a4"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u7855\u8001\u6811\u51a5\u60f3\u7a9f\u6cd5\u5e08 \u963f\u4e3d\u514b\u5e0c",
+        "Name_de": "Auftraggeber: Alixie von der Druidengilde",
+        "Name_en": "Client: Stillglade Fane Conjurer, Sister Alixie",
+        "Name_fr": "Client : Alixie, du Temple de la S\u00e9r\u00e9nit\u00e9",
+        "Name_ja": "\u78a9\u8001\u6a39\u7791\u60f3\u7a9f\uff1a\u9053\u58eb\u30a2\u30ea\u30af\u30b7",
+        "Name_ko": "\uc5b4\uc9c4\ub098\ubb34 \uba85\uc0c1\uad74: \ub3c4\uc0ac \uc54c\ub9ad\uc2dc"
+    },
+    "240": {
+        "0xID": "F0",
+        "Name_cn": "\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u5386\u53f2\u7cfb\u7279\u8058\u8bb2\u5e08\uff1a\u65af\u52aa\u54c8\u5384",
+        "Name_de": "Auftraggeber: Snoeharr, Dozent der Fakult\u00e4t f\u00fcr Geschichte an der Magieakademie",
+        "Name_en": "Client: Studium Substitute History Lecturer, Snoeharr",
+        "Name_fr": "Client : Snoeharr, professeur vacataire du d\u00e9partement d'Histoire",
+        "Name_ja": "\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u53f2\u5b66\u90e8\u975e\u5e38\u52e4\u8b1b\u5e2b\uff1a\u30b9\u30cc\u30fc\u30cf\u30eb",
+        "Name_ko": "\uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uc0ac\ud559\ubd80 \ube44\uc0c1\uadfc \uac15\uc0ac: \uc2a4\ub1cc\ud558\ub974"
+    },
+    "241": {
+        "0xID": "F1",
+        "Name_cn": "\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u804c\u5458\uff1a\u5947\u4f0a\u00b7\u963f\u91cc\u4e9a\u73c0",
+        "Name_de": "Auftraggeberin: Qih Aliapoh, Angestellte der Magieakademie",
+        "Name_en": "Client: Searchers' Meet Administrator, Qih Aliapoh",
+        "Name_fr": "Client : Qih Aliapoh, employ\u00e9e de l'acad\u00e9mie de magie",
+        "Name_ja": "\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u8077\u54e1\uff1a\u30ad\u30a3\u30fb\u30a2\u30ea\u30a2\u30dd\u30fc",
+        "Name_ko": "\uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uc9c1\uc6d0: \ud0a4 \uc54c\ub9ac\uc544\ud3ec"
+    },
+    "242": {
+        "0xID": "F2",
+        "Name_cn": "\u4e0d\u4fbf\u900f\u9732\u59d3\u540d\u7684\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u5973\u6027\u5b66\u5458",
+        "Name_de": "Auftraggeberin: Anonyme Studentin der Magieakademie",
+        "Name_en": "Client: Anonymous Female Studium Pupil",
+        "Name_fr": "Client : \u00c9tudiante anonyme de l'acad\u00e9mie de magie",
+        "Name_ja": "\u533f\u540d\u306e\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u5973\u5b66\u751f",
+        "Name_ko": "\uc775\uba85\uc758 \uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uc5ec\ud559\uc0dd"
+    },
+    "243": {
+        "0xID": "F3",
+        "Name_cn": "\u4e0d\u613f\u900f\u9732\u59d3\u540d\u7684\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u7537\u6027\u5b66\u5458",
+        "Name_de": "Auftraggeber: Anonymer Student der Magieakademie",
+        "Name_en": "Client: Anonymous Male Studium Pupil",
+        "Name_fr": "Client : \u00c9tudiant anonyme de l'acad\u00e9mie de magie",
+        "Name_ja": "\u533f\u540d\u306e\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u7537\u5b50\u5b66\u751f",
+        "Name_ko": "\uc775\uba85\uc758 \uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \ub0a8\ud559\uc0dd"
+    },
+    "244": {
+        "0xID": "F4",
+        "Name_cn": "\u6240\u601d\u5927\u4e66\u9662\u53f8\u4e66\uff1a\u4f0a\u897f\u5c14\u5e0c\u65af",
+        "Name_de": "Auftraggeberin: Isilswys, Bibliothekarin im Noumenon",
+        "Name_en": "Client: Noumenon Librarian, Isilswys",
+        "Name_fr": "Client : Isilswys, archiviste du Noum\u00e8ne",
+        "Name_ja": "\u30cc\u30fc\u30e1\u30ce\u30f3\u5927\u66f8\u9662\u53f8\u66f8\uff1a\u30a4\u30b7\u30eb\u30b9\u30a3\u30b9",
+        "Name_ko": "\ub204\uba54\ub17c \ub300\uc11c\uc6d0 \uc0ac\uc11c: \uc774\uc2e4\uc2a4\uc704\uc2a4"
+    },
+    "245": {
+        "0xID": "F5",
+        "Name_cn": "\u81ea\u7136\u751f\u547d\u9662\u6240\u5c5e\u8d24\u8005\uff1a\u5854\u74e6\u51cc\u00b7\u65af\u51ef",
+        "Name_de": "Auftraggeber: Aufragender Himmel, Weiser des Physis Technon",
+        "Name_en": "Client: Physis Technon Sage, Towering Sky",
+        "Name_fr": "Client : Towering Sky, Preux rattach\u00e9 au centre de soins de Physis Technon",
+        "Name_ja": "\u30d4\u30e5\u30b7\u30b9\u751f\u547d\u9662\u6240\u5c5e\u8ce2\u8005\uff1a\u30bf\u30ef\u30fc\u30ea\u30f3\u30b0\u30fb\u30b9\u30ab\u30a4",
+        "Name_ko": "\ud4cc\uc2dc\uc2a4 \uc0dd\uba85\uc6d0 \uc18c\uc18d \ud604\uc790: \ub4dc\ub192\uc740 \ud558\ub298"
+    },
+    "246": {
+        "0xID": "F6",
+        "Name_cn": "\u4f20\u9001\u9b54\u6cd5\u7814\u7a76\u6240\u4e3b\u4efb\u7814\u7a76\u5458\uff1a\u963f\u74e6\u8d1d\u6069",
+        "Name_de": "Auftraggeberin: Avalbane, Forscherin der Konfluenz",
+        "Name_en": "Client: The Confluence Lead Researcher, Avalbane",
+        "Name_fr": "Client : Avalbane, chef du centre d'\u00e9tude des \u00e9th\u00e9rites",
+        "Name_ja": "\u8ee2\u9001\u9b54\u6cd5\u7814\u7a76\u6240\u4e3b\u4efb\u7814\u7a76\u54e1\uff1a\u30a2\u30f4\u30a1\u30eb\u30d9\u30fc\u30f3",
+        "Name_ko": "\uc804\uc1a1\ub9c8\ubc95 \uc5f0\uad6c\uc18c \uc8fc\uc784 \uc5f0\uad6c\uc6d0: \uc544\ubc1c\ubca0\uc778"
+    },
+    "247": {
+        "0xID": "F7",
+        "Name_cn": "\u6b66\u5668\u5e97\u201c\u786c\u90a6\u90a6\u5168\u8eab\u7532\u201d\u5e97\u4e3b\uff1a\u96c5\u00b7\u9882\u9526",
+        "Name_de": "Auftraggeberin: Y'sohnjin, Inhaberin von \u201eKlapperr\u00fcstungen und mehr\u201c",
+        "Name_en": "Client: Full Plate Armoire Proprietor, Y'sohnjin",
+        "Name_fr": "Client : Yah Sonjin, propri\u00e9taire de la Solide armure",
+        "Name_ja": "\u6b66\u5177\u5c4b\u300c\u30ac\u30c1\u30ac\u30c1\u30d5\u30eb\u30a2\u30fc\u30de\u30fc\u300d\u5e97\u4e3b\uff1a\u30e4\u30fb\u30bd\u30f3\u30b8\u30f3",
+        "Name_ko": "\ubb34\uae30\uc810 '\ub531\ub531\ud55c \uac11\uc637\uc810' \uc8fc\uc778: \uc57c\uc190\uc9c4"
+    },
+    "248": {
+        "0xID": "F8",
+        "Name_cn": "\u590d\u8bfb\u751f\uff1a\u672c\u683c\u5c14",
+        "Name_de": "Auftraggeber: Benger, Student im Wartesemester",
+        "Name_en": "Client: Aspiring Studium Pupil, Benger",
+        "Name_fr": "Client : Benger, candidat malheureux aux examens",
+        "Name_ja": "\u6d6a\u4eba\u751f\uff1a\u30d9\u30f3\u30b8\u30e3\u30fc",
+        "Name_ko": "\uc721\uc218\uc0dd: \ubca4\uc800"
+    },
+    "249": {
+        "0xID": "F9",
+        "Name_cn": "\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u751f\u7269\u7cfb\u6559\u6388\uff1a\u74e6\u53e4\u8fbe\u00b7\u739b\u5df4\u53e4\u8fbe",
+        "Name_de": "Auftraggeber: Waguda Mabaguda, Dozent am Biologischen Institut der Magieakademie",
+        "Name_en": "Client: Studium Biology Professor, Waguda Mabaguda",
+        "Name_fr": "Client : Waguda Mabaguda, professeur du d\u00e9partement des sciences du vivant",
+        "Name_ja": "\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u751f\u7269\u5b66\u90e8\u6559\u6388\uff1a\u30ef\u30b0\u30c0\u30fb\u30de\u30d0\u30b0\u30c0",
+        "Name_ko": "\uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uc0dd\ubb3c\ud559\ubd80 \uad50\uc218: \uc640\uad6c\ub2e4 \ub9c8\ubc14\uad6c\ub2e4"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u795e\u52c7\u961f\u4eba\u9a6c\u5e08\u56e2 \u83ab\u96f7\u5170",
+        "Name_de": "Auftraggeber: Maurelin von Nophicas Schar",
+        "Name_en": "Client: 3rd Bow of the Quiver's Centaurs, Maurelin Modreaux",
+        "Name_fr": "Client : Maurelin, division du Centaure des fl\u00e8ches divines",
+        "Name_ja": "\u795e\u52c7\u968a\u4eba\u99ac\u5e2b\u56e3\uff1a\u30e2\u30eb\u30e9\u30f3",
+        "Name_ko": "\uc2e0\uad81\ubd80\ub300 \uc778\ub9c8\uc0ac\ub2e8: \ubaa8\ub97c\ub7ad"
+    },
+    "250": {
+        "0xID": "FA",
+        "Name_cn": "\u5e15\u65af\u6885\u6717\u79cd\u755c\u7814\u7a76\u6240\u7814\u7a76\u5458\uff1a\u745e\u7d22\u8def\u7279\u00b7\u65af\u4e07",
+        "Name_de": "Auftraggeberin: Zielstrebiger Schwan, Forscherin in Passemerrants Zoaponik",
+        "Name_en": "Client: Passemerrant Pasturponics Researcher, Resolute Swan",
+        "Name_fr": "Client : Resolute Swan, chercheuse du laboratoire zootechnique de Passemerrant",
+        "Name_ja": "\u30d1\u30b9\u30e1\u30e9\u30f3\u7a2e\u755c\u7814\u7a76\u6240\u7814\u7a76\u54e1\uff1a\u30ec\u30bd\u30ea\u30e5\u30fc\u30c8\u30fb\u30b9\u30ef\u30f3",
+        "Name_ko": "\ud30c\uc2a4\uba54\ub791 \uac00\ucd95 \uc5f0\uad6c\uc18c \uc5f0\uad6c\uc6d0: \ub2e8\ud638\ud55c \ubc31\uc870"
+    },
+    "251": {
+        "0xID": "FB",
+        "Name_cn": "\u8ff7\u6d25\u7ba1\u7406\u5c40\u526f\u5c40\u957f\uff1a\u4fee\u63d0\u59c6\u7ef4\u6069",
+        "Name_de": "Auftraggeber: Stymmwaen, Vizeverwalter von Labyrinthos",
+        "Name_en": "Client: Labyrinthos Deputy Chief Administrator, Stymmwaen",
+        "Name_fr": "Client : Stymmwaen, administrateur du Labyrinthos",
+        "Name_ja": "\u30e9\u30f4\u30a3\u30ea\u30f3\u30bd\u30b9\u7ba1\u7406\u5c40\u6b21\u9577\uff1a\u30b7\u30e5\u30c6\u30a3\u30e0\u30f4\u30a7\u30fc\u30f3",
+        "Name_ko": "\ub77c\ube44\ub9b0\ud1a0\uc2a4 \uad00\ub9ac\uad6d \ucc28\uc7a5: \uc288\ud300\ubca4"
+    },
+    "252": {
+        "0xID": "FC",
+        "Name_cn": "\u5947\u77f3\u7231\u597d\u8005\uff1a\u6070\u683c\u00b7\u5854\u5c24\u6069",
+        "Name_de": "Auftraggeberin: Tyago Tayuun, Sammlerin seltener Steine",
+        "Name_en": "Client: Gem and Mineral Enthusiast, Tyago Tayuun",
+        "Name_fr": "Client : Tyago Tayuun, amoureuse des min\u00e9raux",
+        "Name_ja": "\u611b\u77f3\u5bb6\uff1a\u30c1\u30e3\u30b4\u30fb\u30bf\u30e6\u30fc\u30f3",
+        "Name_ko": "\ub3cc \uc560\ud638\uac00: \ucc28\uace0 \ud0c0\uc724"
+    },
+    "253": {
+        "0xID": "FD",
+        "Name_cn": "\u53ef\u53ef\u7f57\u5de5\u623f\uff1a\u6b27\u5e15\u5c14\u00b7\u5f17\u683c",
+        "Name_de": "Auftraggeber: Opal Nebel von Kokkols Schmiede",
+        "Name_en": "Client: Kokkol's Forgehand, Opal Fog",
+        "Name_fr": "Client : Opal Fog, forge de Kokkol",
+        "Name_ja": "\u30af\u30af\u30ed\u306e\u5de5\u623f\uff1a\u30aa\u30fc\u30d1\u30eb\u30fb\u30d5\u30a9\u30b0",
+        "Name_ko": "\ucfe0\ucfe0\ub85c \uacf5\ubc29: \ub2e8\ubc31\uc11d \uc548\uac1c"
+    },
+    "254": {
+        "0xID": "FE",
+        "Name_cn": "\u80cc\u6c34\u5496\u5561\u5385\u5e38\u5ba2\uff1a\u7c73\u5361\u8328",
+        "Name_de": "Auftraggeber: Mikac, Stammkunde der Letzten Bastion",
+        "Name_en": "Client: Regular Last Stand Customer, Mikac",
+        "Name_fr": "Client : Mikac, client r\u00e9gulier du Dernier Rempart",
+        "Name_ja": "\u30ab\u30d5\u30a7\u300c\u30e9\u30b9\u30c8\u30b9\u30bf\u30f3\u30c9\u300d\u5e38\u9023\uff1a\u30df\u30ab\u30c3\u30c1\u30e5",
+        "Name_ko": "\uce74\ud398 '\ub77c\uc2a4\ud2b8 \uc2a4\ud0e0\ub4dc' \ub2e8\uace8: \ubbf8\uce74\ucde8"
+    },
+    "255": {
+        "0xID": "FF",
+        "Name_cn": "\u8428\u96f7\u5b89\u9b54\u6cd5\u5927\u5b66\u4ee5\u592a\u7cfb\u7814\u7a76\u751f\uff1a\u5965\u5e03\u83b1\u831c",
+        "Name_de": "Auftraggeberin: Aubracie, Studentin am \u00c4therologischen Institut der Magieakademie",
+        "Name_en": "Client: Faculty of Aetherology Graduate Student, Aubracie",
+        "Name_fr": "Client : Aubracie, chercheuse du d\u00e9partement d'\u00e9th\u00e9rologie",
+        "Name_ja": "\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u9b54\u6cd5\u5927\u5b66\u30a8\u30fc\u30c6\u30eb\u5b66\u90e8\u9662\u751f\uff1a\u30aa\u30d6\u30e9\u30b7\u30fc",
+        "Name_ko": "\uc0ec\ub808\uc774\uc548 \ub9c8\ubc95\ub300\ud559 \uc5d0\ud14c\ub974 \ud559\ubd80 \uc6d0\uc0dd: \uc624\ube0c\ub77c\uc2dc"
+    },
+    "256": {
+        "0xID": "100",
+        "Name_cn": "\u6240\u601d\u5927\u4e66\u9662\u4e16\u754c\u56fe\u9274\u7f16\u7e82\u5c40\u6210\u5458\uff1a\u6208\u5fb7\u5f17\u7f57\u4f0a",
+        "Name_de": "Auftraggeber: Godefroy, Mitglied des Redaktionsausschusses der Encyclopaedia Universalis im Noumenon",
+        "Name_en": "Client: Bibliotheca Historica Compiler, Godfroy",
+        "Name_fr": "Client : Godfroy, membre du comit\u00e9 r\u00e9dactionnel de l'encyclop\u00e9die g\u00e9ographique du Noum\u00e8ne",
+        "Name_ja": "\u30cc\u30fc\u30e1\u30ce\u30f3\u5927\u66f8\u9662\u4e16\u754c\u56f3\u9451\u7de8\u7e82\u5c40\u54e1\uff1a\u30b4\u30fc\u30c9\u30d5\u30ed\u30a4",
+        "Name_ko": "\ub204\uba54\ub17c \ub300\uc11c\uc6d0 \uc138\uacc4 \ub3c4\uac10 \ud3b8\ucc2c\uad6d\uc6d0: \uace0\ub4dc\ud504\ub85c\uc774"
+    },
+    "257": {
+        "0xID": "101",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "258": {
+        "0xID": "102",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "259": {
+        "0xID": "103",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u83ab\u53e4\u529b\u793c\u5cf0\u7267\u7ae5 \u739b\u5c14\u6208",
+        "Name_de": "Auftraggeber: Margault vom Gest\u00fct \u201eMogry-Stolz\u201c",
+        "Name_en": "Client: Moogle's Gift Mounts Stablehand, Margault Shortmane",
+        "Name_fr": "Client : Margault, des Montures Mog",
+        "Name_ja": "\u30e2\u30fc\u30b0\u30ea\u30ae\u30d5\u30c8\u30de\u30a6\u30f3\u30c4\uff1a\u7267\u7ae5\u30de\u30eb\u30b4",
+        "Name_ko": "\ubaa8\uadf8\ub9ac\uc758 \ucd95\ubcf5\ud68c: \ubaa9\ub3d9 \ub9c8\ub974\uace0"
+    },
+    "260": {
+        "0xID": "104",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "261": {
+        "0xID": "105",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "262": {
+        "0xID": "106",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "263": {
+        "0xID": "107",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "264": {
+        "0xID": "108",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "265": {
+        "0xID": "109",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "266": {
+        "0xID": "10A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "267": {
+        "0xID": "10B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "268": {
+        "0xID": "10C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "269": {
+        "0xID": "10D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e09\u67aa\u961f \u827e\u5c14\u683c",
+        "Name_de": "Auftraggeber: Eylgar vom Klageregiment",
+        "Name_en": "Client: Third Spear Wood Wailer, Eylgar the Sullen",
+        "Name_fr": "Client : Eylgar, de la 3e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u53c2\u756a\u69cd\uff1a\u968a\u58eb\u30a8\u30a4\u30eb\u30ac\u30eb",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c3\ucc3d\ubcd1\uc870: \ub300\uc6d0 \uc5d0\uc77c\uac70"
+    },
+    "270": {
+        "0xID": "10E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "271": {
+        "0xID": "10F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "272": {
+        "0xID": "110",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "273": {
+        "0xID": "111",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "274": {
+        "0xID": "112",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "275": {
+        "0xID": "113",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "276": {
+        "0xID": "114",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "277": {
+        "0xID": "115",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "278": {
+        "0xID": "116",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "279": {
+        "0xID": "117",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u83ab\u53e4\u529b\u793c\u5cf0\u7267\u7ae5 \u5c45\u65af\u5854\u4e07",
+        "Name_de": "Auftraggeber: Gustavain vom Gest\u00fct \u201eMogry-Stolz\u201c",
+        "Name_en": "Client: Moogle's Gift Mounts Stablehand, Gustavain Gysahlheart",
+        "Name_fr": "Client : Gustavain, des Montures Mog",
+        "Name_ja": "\u30e2\u30fc\u30b0\u30ea\u30ae\u30d5\u30c8\u30de\u30a6\u30f3\u30c4\uff1a\u7267\u7ae5\u30b0\u30b9\u30bf\u30d0\u30f3",
+        "Name_ko": "\ubaa8\uadf8\ub9ac\uc758 \ucd95\ubcf5\ud68c: \ubaa9\ub3d9 \uac70\uc2a4\ud0c0\ubca0\uc778"
+    },
+    "280": {
+        "0xID": "118",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "281": {
+        "0xID": "119",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "282": {
+        "0xID": "11A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "283": {
+        "0xID": "11B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "284": {
+        "0xID": "11C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "285": {
+        "0xID": "11D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "286": {
+        "0xID": "11E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "287": {
+        "0xID": "11F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "288": {
+        "0xID": "120",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "289": {
+        "0xID": "121",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u7855\u8001\u6811\u51a5\u60f3\u7a9f\u6cd5\u5e08 \u74e6\u5c14\u8fea\u5c24",
+        "Name_de": "Auftraggeber: Waldew von der Druidengilde",
+        "Name_en": "Client: Stillglade Fane Conjurer, Brother Waldew",
+        "Name_fr": "Client : Waldew, du Temple de la S\u00e9r\u00e9nit\u00e9",
+        "Name_ja": "\u78a9\u8001\u6a39\u7791\u60f3\u7a9f\uff1a\u9053\u58eb\u30a6\u30a9\u30eb\u30c7\u30e5\u30fc",
+        "Name_ko": "\uc5b4\uc9c4\ub098\ubb34 \uba85\uc0c1\uad74: \ub3c4\uc0ac \uc6d4\ub4c0"
+    },
+    "290": {
+        "0xID": "122",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "291": {
+        "0xID": "123",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "292": {
+        "0xID": "124",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "293": {
+        "0xID": "125",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "294": {
+        "0xID": "126",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "295": {
+        "0xID": "127",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "296": {
+        "0xID": "128",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "297": {
+        "0xID": "129",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "298": {
+        "0xID": "12A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "299": {
+        "0xID": "12B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u6587\u5b57\u6570\u6d4b\u8bd5\uff3f\uff3f\uff3f\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d",
+        "Name_de": "Auftraggeber: Test",
+        "Name_en": "Client: Test",
+        "Name_fr": "Client : George Abitbol, l'homme le plus classe du monde",
+        "Name_ja": "\u6587\u5b57\u6570\u30c6\u30b9\u30c8\uff3f\uff3f\uff3f\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d\u25a0\u4e00\u4e8c\u4e09\u56db\u4e94\u516d\u4e03\u516b\u4e5d",
+        "Name_ko": "\uae00\uc790 \uc218 \ud14c\uc2a4\ud2b8\uff3f\uff3f\uff3f\u25a0\uc77c\uc774\uc0bc\uc0ac\uc624\uc721\uce60\ud314\uad6c\u25a0\uc77c\uc774\uc0bc\uc0ac\uc624\uc721\uce60\ud314\uad6c\u25a0\uc77c\uc774\uc0bc\uc0ac\uc624\uc721\uce60\ud314\uad6c\u25a0\uc77c\uc774\uc0bc\uc0ac\uc624\uc721\uce60\ud314\uad6c\u25a0\uc77c\uc774\uc0bc\uc0ac\uc624\uc721\uce60\ud314\uad6c\u25a0\uc77c\uc774\uc0bc\uc0ac\uc624\uc721\uce60\ud314\uad6c"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u56db\u67aa\u961f \u5f17\u6d1b\u91cc\u8499",
+        "Name_de": "Auftraggeber: Florimond vom Klageregiment",
+        "Name_en": "Client: Fourth Spear Wood Wailer, Florimond the Fleet",
+        "Name_fr": "Client : Florimond, de la 4e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u56db\u756a\u69cd\uff1a\u30d5\u30ed\u30ea\u30e2\u30f3",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c4\ucc3d\ubcd1\uc870: \ud50c\ub85c\ub9ac\ubabd"
+    },
+    "300": {
+        "0xID": "12C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u5df4\u65af\u5361\u9686\u9152\u5bb6\u8001\u677f\uff1a\u5df4\u65af\u5361\u9686",
+        "Name_de": "Auftraggeber: Schankwirt Buscarron",
+        "Name_en": "Client: Buscarron's Druthers Proprietor, Buscarron Strongarm",
+        "Name_fr": "Client : Buscarron, patron du bar \u201cAu Choix de Buscarron\u201d",
+        "Name_ja": "\u9152\u623f\u300c\u30d0\u30b9\u30ab\u30ed\u30f3\u30c9\u30e9\u30b6\u30fc\u30ba\u300d\uff1a\u5e97\u4e3b\u30d0\u30b9\u30ab\u30ed\u30f3",
+        "Name_ko": "\uc8fc\uc810 '\ubc84\uc2a4\uce74\ub860 \ub9d8\ub300\ub85c': \uc8fc\uc778 \ubc84\uc2a4\uce74\ub860"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u76db\u82b1\u517b\u8702\u573a \u7f57\u838e\u00b7\u970d\u6851",
+        "Name_de": "Auftraggeber: Rosa Hawthorne von der Imkerei Bl\u00fctengold",
+        "Name_en": "Client: Fullflower Comb Beekeeper, Rosa Hawthorne",
+        "Name_fr": "Client : Rosa Hawthorne, rucher de Pleinefleur",
+        "Name_ja": "\u30d5\u30eb\u30d5\u30e9\u30ef\u30fc\u990a\u8702\u6240\uff1a\u30ed\u30b5\u30fb\u30db\u30a6\u30bd\u30fc\u30f3",
+        "Name_ko": "\ub4e4\uaf43\ub9cc\ubc1c \uc591\ubd09\uc7a5: \ub85c\uc0ac \ud638\uc190"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u68ee\u6797\u5c45\u6c11 \u4f0a\u838e\u8d1d\u5c14\u00b7\u970d\u6851",
+        "Name_de": "Auftraggeber: Ysabel Hawthorne",
+        "Name_en": "Client: Forest Dweller, Ysabel Hawthorne",
+        "Name_fr": "Client : Ysabel Hawthorne, habitante de la for\u00eat",
+        "Name_ja": "\u68ee\u306e\u4f4f\u4eba\uff1a\u30a4\u30b5\u30d9\u30eb\u30fb\u30db\u30a6\u30bd\u30fc\u30f3",
+        "Name_ko": "\uc232 \uc8fc\ubbfc: \uc774\uc790\ubca8 \ud638\uc190"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u68ee\u6797\u5c45\u6c11 \u7f57\u5c14\u4f5b\u00b7\u970d\u6851",
+        "Name_de": "Auftraggeber: Rolfe Hawthorne",
+        "Name_en": "Client: Homestead Owner, Rolfe Hawthorne",
+        "Name_fr": "Client : Rolfe Hawthorne, habitant de la for\u00eat",
+        "Name_ja": "\u68ee\u306e\u4f4f\u4eba\uff1a\u30ed\u30eb\u30d5\u30fb\u30db\u30a6\u30bd\u30fc\u30f3",
+        "Name_ko": "\uc232 \uc8fc\ubbfc: \ub864\ud504 \ud638\uc190"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e94\u67aa\u961f \u5df4\u5170",
+        "Name_de": "Auftraggeber: Balan vom Klageregiment",
+        "Name_en": "Client: Fifth Spear Wood Wailer, Balan the Keen",
+        "Name_fr": "Client : Balan, de la 5e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u4f0d\u756a\u69cd\uff1a\u30d0\u30e9\u30f3",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c5\ucc3d\ubcd1\uc870: \ubc1c\ub780"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u77f3\u573a\u6c34\u8f66\u5c45\u6c11 \u7fc1\u5e03\u8389\u5a1c",
+        "Name_de": "Auftraggeber: Ombeline aus M\u00fchlenbruch",
+        "Name_en": "Client: Quarrymill Resident, Ombeline Delieux",
+        "Name_fr": "Client : Ombeline, habitante du Moulin de la Carri\u00e8re",
+        "Name_ja": "\u30af\u30a9\u30fc\u30ea\u30fc\u30df\u30eb\u306e\u4f4f\u4eba\uff1a\u30aa\u30f3\u30d6\u30ea\u30cc",
+        "Name_ko": "\ucc44\uc11d\uacf5\ubc29 \uc8fc\ubbfc: \uc634\ubca8\ub9b0"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u541f\u6e38\u83ab\u53e4\u529b \u5e93\u5e15\u6069\u00b7\u5494\u5657",
+        "Name_de": "Auftraggeber: Mogry-Barde Kupni Kapp",
+        "Name_en": "Client: Moogleborn Melodymaker, Kupni Kapp",
+        "Name_fr": "Client : Kupni Kapp, le Mog barde",
+        "Name_ja": "\u541f\u904a\u30e2\u30fc\u30b0\u30ea\uff1a\u30af\u30d1\u30f3\u30fb\u30ab\u30d7",
+        "Name_ko": "\uc74c\uc720 \ubaa8\uadf8\ub9ac: \ucfe0\ubfcc\ub2c8 \uce74\ubfcc"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u7855\u8001\u6811\u51a5\u60f3\u7a9f\u6cd5\u5e08 \u6c99\u5229\u5a1c",
+        "Name_de": "Auftraggeber: Charline von der Druidengilde",
+        "Name_en": "Client: Stillglade Fane Conjurer, Sister Charline",
+        "Name_fr": "Client : Charline, du Temple de la S\u00e9r\u00e9nit\u00e9",
+        "Name_ja": "\u78a9\u8001\u6a39\u7791\u60f3\u7a9f\uff1a\u9053\u58eb\u30b7\u30e3\u30eb\u30ea\u30cc",
+        "Name_ko": "\uc5b4\uc9c4\ub098\ubb34 \uba85\uc0c1\uad74: \ub3c4\uc0ac \uc0e4\ub97c\ub9b0"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u77f3\u573a\u6c34\u8f66\u5c45\u6c11 \u963f\u5c14\u5fb7\u91cc\u514b",
+        "Name_de": "Auftraggeber: Alderique aus M\u00fchlenbruch",
+        "Name_en": "Client: Quarrymill Resident, Alderique Lebronc",
+        "Name_fr": "Client : Alderique, habitante du Moulin de la Carri\u00e8re",
+        "Name_ja": "\u30af\u30a9\u30fc\u30ea\u30fc\u30df\u30eb\u306e\u4f4f\u4eba\uff1a\u30a2\u30eb\u30c9\u30a5\u30ea\u30af",
+        "Name_ko": "\ucc44\uc11d\uacf5\ubc29 \uc8fc\ubbfc: \uc54c\ub4dc\ub9ac\ud06c"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u83ab\u53e4\u529b\u793c\u5cf0\u7267\u7ae5",
+        "Name_de": "Auftraggeber: Gest\u00fct \u201eMogry-Stolz\u201c",
+        "Name_en": "Client: Moogle's Gift Mounts",
+        "Name_fr": "Client : Montures Mog",
+        "Name_ja": "\u30e2\u30fc\u30b0\u30ea\u30ae\u30d5\u30c8\u30de\u30a6\u30f3\u30c4\u7267\u7ae5",
+        "Name_ko": "\ubaa8\uadf8\ub9ac\uc758 \ucd95\ubcf5\ud68c \ubaa9\ub3d9"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u516d\u67aa\u961f \u963f\u7ef4\u96f7",
+        "Name_de": "Auftraggeber: Averay vom Klageregiment",
+        "Name_en": "Client: Third Spear Wood Wailer, Averay the Ardent",
+        "Name_fr": "Client : Averay, de la 6e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u516d\u756a\u69cd\uff1a\u30a2\u30f4\u30a7\u30ec\u30a4",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c6\ucc3d\ubcd1\uc870: \uc544\ubca0\ub808\uc774"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u7855\u8001\u6811\u51a5\u60f3\u7a9f \u827e\u5fb7\u65af\u5766",
+        "Name_de": "Auftraggeber: Adestan von der Druidengilde",
+        "Name_en": "Client: Stillglade Fane Conjurer, Brother Adestan",
+        "Name_fr": "Client : Adestan, du Temple de la S\u00e9r\u00e9nit\u00e9",
+        "Name_ja": "\u78a9\u8001\u6a39\u7791\u60f3\u7a9f\uff1a\u30a2\u30c7\u30b9\u30bf\u30f3",
+        "Name_ko": "\uc5b4\uc9c4\ub098\ubb34 \uba85\uc0c1\uad74: \uc544\ub370\uc2a4\ud0e0"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u54c1\u884c\u7aef\u6b63\u7684\u65c5\u884c\u5546\u4eba \u4f3d\u7279\u91cc\u514b\u65af",
+        "Name_de": "Auftraggeber: Guttrix Splitterpick",
+        "Name_en": "Client: Good Gobbie, Guttrix Sliverpicks",
+        "Name_fr": "Client : Guttrix, le colporteur honn\u00eate",
+        "Name_ja": "\u3068\u3066\u3082\u826f\u3044\u884c\u5546\u4eba\uff1a\u30ac\u30c3\u30c8\u30ea\u30af\u30b9",
+        "Name_ko": "\uc544\uc8fc \ucc29\ud55c \ud589\uc0c1\uc778: \uac70\ud2b8\ub9ad\uc2a4"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u683c\u5c14\u83ab\u62c9\u63a2\u7d22\u8005 \u7f57\u6717\u4ee3",
+        "Name_de": "Auftraggeber: Reliktj\u00e4ger Rolandaix",
+        "Name_en": "Client: Seeker of Antiquity, Rolandaix of House Nevelle",
+        "Name_fr": "Client : Rolandaix, prospecteur des ruines de Gelmorra",
+        "Name_ja": "\u30b2\u30eb\u30e2\u30e9\u306e\u63a2\u6c42\u8005\uff1a\u30ed\u30e9\u30f3\u30c7",
+        "Name_ko": "\uac94\ubaa8\ub77c\uc758 \ud0d0\uad6c\uc790: \ub864\ub791\ub370"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e8c\u67aa\u961f \u76ae\u8309\u00b7\u5948\u5c14\u8d6b",
+        "Name_de": "Auftraggeber: Pimoh Nelhah vom Klageregiment",
+        "Name_en": "Client: Second Spear Wood Wailer, Pimoh Nelhah",
+        "Name_fr": "Client : Pimoh Nelhah, de la 2e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u5f10\u756a\u69cd\uff1a\u30d4\u30e2\u30fb\u30cd\u30eb\u30cf\u30fc",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c3\ucc3d\ubcd1\uc870: \ud53c\ubaa8 \ub12c\ud558"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u9b3c\u54ed\u961f\u7b2c\u4e94\u67aa\u961f \u5361\u65af\u7279\u5170",
+        "Name_de": "Auftraggeber: Castellaint vom Klageregiment",
+        "Name_en": "Client: Fifth Spear Wood Wailer, Castellaint the Careful",
+        "Name_fr": "Client : Castellaint, de la 5e Lance des vigiles sombres",
+        "Name_ja": "\u9b3c\u54ed\u968a\u4f0d\u756a\u69cd\uff1a\u30ab\u30b9\u30c6\u30e9\u30f3",
+        "Name_ko": "\uadc0\uace1\ubd80\ub300 \uc81c5\ucc3d\ubcd1\uc870: \uce74\uc2a4\ud154\ub791"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u8d64\u8840\u96c4\u9e21\u519c\u573a\u4e3b \u963f\u7eb3\u5965\u514b",
+        "Name_de": "Auftraggeber: Anaoc, Vorsteher der Gockelburg",
+        "Name_en": "Client: Red Rooster Stead Landlord, Anaoc the Youngest",
+        "Name_fr": "Client : Anaoc, g\u00e9rant de la m\u00e9tairie du Coq rouge",
+        "Name_ja": "\u30ec\u30c3\u30c9\u30eb\u30fc\u30b9\u30bf\u30fc\u8fb2\u5712\uff1a\u8fb2\u5834\u9577\u30a2\u30ca\u30aa\u30af",
+        "Name_ko": "\ubd89\uc740\uc218\ud0c9 \ub18d\uc7a5: \ub18d\uc7a5 \ub300\ud45c \uc5b4\ub179"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u8d64\u8840\u96c4\u9e21\u519c\u573a\u672c\u8349\u5b66\u8005 \u4e9a\u96f7\u6069\u9686\u7eb3",
+        "Name_de": "Auftraggeber: Arenlona von der Gockelburg",
+        "Name_en": "Client: Red Rooster Stead Botanist, Arenlona of the Dawn Meadow",
+        "Name_fr": "Client : Arenlona, herboriste de la m\u00e9tairie du Coq rouge",
+        "Name_ja": "\u30ec\u30c3\u30c9\u30eb\u30fc\u30b9\u30bf\u30fc\u8fb2\u5712\uff1a\u672c\u8349\u5b66\u8005\u30a2\u30ec\u30f3\u30ed\u30ca",
+        "Name_ko": "\ubd89\uc740\uc218\ud0c9 \ub18d\uc7a5: \ubcf8\ucd08\ud559\uc790 \uc544\ub80c\ub85c\ub098"
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u8d64\u8840\u96c4\u9e21\u519c\u573a\u9a6f\u517d\u4eba \u7a46\u683c\u62c9\u59c6",
+        "Name_de": "Auftraggeber: Moegramm von der Gockelburg",
+        "Name_en": "Client: Red Rooster Stead Shepherd, Moegramm Sheepsong",
+        "Name_fr": "Client : Moegramm, dresseur \u00e0 la m\u00e9tairie du Coq rouge",
+        "Name_ja": "\u30ec\u30c3\u30c9\u30eb\u30fc\u30b9\u30bf\u30fc\u8fb2\u5712\uff1a\u7363\u7267\u58eb\u30e0\u30fc\u30b0\u30e9\u30e0",
+        "Name_ko": "\ubd89\uc740\uc218\ud0c9 \ub18d\uc7a5: \ubab0\uc774\uafbc \ubb34\uadf8\ub78c"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u7070\u8230\u98ce\u8f66\u7fa4\u98ce\u8f66\u957f \u7ef4\u5179\u963f\u96f7\u6069",
+        "Name_de": "Auftraggeber: Weitzaren vom Windpark Graue Flotte",
+        "Name_en": "Client: Grey Fleet High Miller, Weitzaren Flazmarmsyn",
+        "Name_fr": "Client : Weitzaren, chef des meuniers \u00e0 La Flotte grise",
+        "Name_ja": "\u30b0\u30ec\u30a4\u30d5\u30ea\u30fc\u30c8\u98a8\u8eca\u7fa4\uff1a\u98a8\u8eca\u756a\u982d\u30f4\u30a1\u30a4\u30c4\u30a2\u30ec\u30f3",
+        "Name_ko": "\ud68c\uc0c9\ud568\ub300 \ud48d\ucc28\ub9c8\uc744: \ud48d\ucc28\uc9c0\uae30 \uc6b0\ub450\uba38\ub9ac \ubc14\uc774\ud2b8\ucc28\ub80c"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u83ab\u53e4\u529b\u793c\u5cf0\u7267\u7ae5 \u5965\u591a\u8389",
+        "Name_de": "Auftraggeber: Audrie vom Gest\u00fct \u201eMogry-Stolz\u201c ",
+        "Name_en": "Client: Moogle's Gift Mounts Stablehand, Audrie Clovenfoot",
+        "Name_fr": "Client : Audrie, des Montures Mog",
+        "Name_ja": "\u30e2\u30fc\u30b0\u30ea\u30ae\u30d5\u30c8\u30de\u30a6\u30f3\u30c4\u7267\u7ae5\uff1a\u30aa\u30c9\u30a5\u30ea",
+        "Name_ko": "\ubaa8\uadf8\ub9ac\uc758 \ucd95\ubcf5\ud68c \ubaa9\ub3d9: \uc624\ub4dc\ub9ac"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u8fdc\u6d0b\u4ea4\u6613\u8239\u201c\u730e\u6237\u53f7\u201d\u8239\u957f \u963f\u5c14\u5fb7\u65af\u5947\u592b",
+        "Name_de": "Auftraggeber: Ahldskyf, Kapit\u00e4n der Orion",
+        "Name_en": "Client: Orion Captain, Ahldskyf the Eld",
+        "Name_fr": "Client : Ahldskyf, capitaine du navire marchand l'Orion",
+        "Name_ja": "\u5916\u6d0b\u4ea4\u6613\u8239\u300c\u30aa\u30e9\u30a4\u30aa\u30f3\u53f7\u300d\uff1a\u30a2\u30eb\u30c9\u30b9\u30ad\u30d5\u8239\u9577",
+        "Name_ko": "\uc6d0\uc591\uad50\uc5ed\uc120 '\uc624\ub9ac\uc628 \ud638': \uc54c\uce20\ud0a4\ud504 \uc120\uc7a5"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u96e8\u71d5\u5854\u6b96\u6c11\u5730 \u5229\u5c14\u592b",
+        "Name_de": "Auftraggeber: Lyulf von der T\u00f6lpelturm-Siedlung",
+        "Name_en": "Client: Swiftperch Housebond, Lyulf the Swollen",
+        "Name_fr": "Client : Lyulf, agriculteur du Martinet",
+        "Name_ja": "\u30b9\u30a6\u30a3\u30d5\u30c8\u30d1\u30fc\u30c1\u5165\u690d\u5730\uff1a\u30ea\u30a6\u30eb\u30d5",
+        "Name_ko": "\uce7c\uc0c8\ud683\ub300 \uac1c\ucc99\uc9c0: \ub9ac\uc6b8\ud504"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "\u74e6\u74e6\u62c9\u54e5\u7f51\u7ec4 \u798f\u897f\u91cc\u5b89",
+        "Name_de": "Auftraggeber: Faucillien von Wawalagos Reusenfischern",
+        "Name_en": "Client: Wawalago's Pullers Shoalskimmer, Faucillien",
+        "Name_fr": "Client : Faucillien, des p\u00eacheurs de Wawalago",
+        "Name_ja": "\u30ef\u30ef\u30e9\u30b4\u306e\u7db2\u7d44\uff1a\u30d5\u30a9\u30b7\u30ea\u30a2\u30f3",
+        "Name_ko": "\uc640\uc640\ub77c\uace0 \uc5b4\ubbfc \uc870\ud569: \ud3ec\uc2e4\ub9ac\uc559"
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u9ec4\u886b\u961f\u7b2c\u4e8c\u9646\u6218\u961f\u9646\u5175 \u5b89\u514b\u857e\u5854",
+        "Name_de": "Auftraggeber: Gelbjackeninfanterist Ancreta",
+        "Name_en": "Client: 2nd Levy Infantry, Yellowjacket Private Ancreta Ilm",
+        "Name_fr": "Client : Ancreta, 2e d'infanterie des casaques jaunes",
+        "Name_ja": "\u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8\u7b2c\u4e8c\u9678\u6226\u968a\uff1a\u30a2\u30f3\u30af\u30bf\u9678\u5175",
+        "Name_ko": "\ub178\ub780\uc154\uce20 \uc81c2\uc0c1\ub959\ubd80\ub300: \uc564\ud06c\ub9ac\ud0c0 \uc774\ub4f1\ubcd1"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "\u9ec4\u886b\u961f\u7b2c\u4e8c\u9646\u6218\u961f\u9646\u58eb \u5e0c\u5c14\u65af\u51ef\u8f9b",
+        "Name_de": "Auftraggeber: Gelbjackengefreiter Sylskaetsyn",
+        "Name_en": "Client: 2nd Levy Infantry, Yellowjacket Sergeant Sylskaetsyn",
+        "Name_fr": "Client : Sylskaetsyn, 2e d'infanterie des casaques jaunes",
+        "Name_ja": "\u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8\u7b2c\u4e8c\u9678\u6226\u968a\uff1a\u30b7\u30eb\u30b9\u30b1\u30fc\u30c8\u30b7\u30f3\u9678\u66f9",
+        "Name_ko": "\ub178\ub780\uc154\uce20 \uc81c2\uc0c1\ub959\ubd80\ub300: \uc958\uce20\ucf00\ucdec \ud558\uc0ac"
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u9ec4\u886b\u961f\u7b2c\u4e09\u9646\u6218\u961f\u9646\u5175 \u5f17\u96f7\u6d1b\u592b",
+        "Name_de": "Auftraggeber: Gelbjackeninfanterist Fraeloefsyn",
+        "Name_en": "Client: 3rd Levy Infantry, Yellowjacket Private Fraeloefsyn",
+        "Name_fr": "Client : Fraeloefsyn, 3e d'infanterie des casaques jaunes",
+        "Name_ja": "\u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8\u7b2c\u4e09\u9678\u6226\u968a\uff1a\u30d5\u30ec\u30fc\u30eb\u30fc\u30d5\u9678\u5175",
+        "Name_ko": "\ub178\ub780\uc154\uce20 \uc81c3\uc0c1\ub959\ubd80\ub300: \ud504\ub808\uc77c\ub8e8\ud504 \uc774\ub4f1\ubcd1"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u9ec4\u886b\u961f\u7b2c\u4e09\u9646\u6218\u961f\u9646\u5175 \u65af\u514b\u91cc\u5e03\u65af\u514b\u592b",
+        "Name_de": "Auftraggeber: Gelbjackeninfanterist Hyllbornsyn",
+        "Name_en": "Client: 3rd Levy Infantry, Yellowjacket Private Hyllbornsyn",
+        "Name_fr": "Client : Hyllbornsyn, 3e d'infanterie des casaques jaunes",
+        "Name_ja": "\u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8\u7b2c\u4e09\u9678\u6226\u968a\uff1a\u30b9\u30af\u30ea\u30d6\u30b9\u30af\u30fc\u30d5\u9678\u5175",
+        "Name_ko": "\ub178\ub780\uc154\uce20 \uc81c3\uc0c1\ub959\ubd80\ub300: \uc2a4\ud06c\ub9ac\ube0c\uc2a4\ucfa8\ud504 \uc774\ub4f1\ubcd1"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u9ec4\u886b\u961f\u7b2c\u56db\u9646\u6218\u961f\u9646\u58eb\u957f \u96c5\u00b7\u4e9a\u62c9\u5df4\u8389",
+        "Name_de": "Auftraggeber: Gelbjackenhauptmann Y'alabali",
+        "Name_en": "Client: 4th Levy Infantry, Yellowjacket Major Y'alabali Gojah",
+        "Name_fr": "Client : Y'alabali, 4e d'infanterie des casaques jaunes",
+        "Name_ja": "\u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30b1\u30c3\u30c8\u7b2c\u56db\u9678\u6226\u968a\uff1a\u30e4\u30fb\u30a2\u30e9\u30d0\u30ea\u9678\u58eb",
+        "Name_ko": "\ub178\ub780\uc154\uce20 \uc81c4\uc0c1\ub959\ubd80\ub300: \uc57c\ube0c\ubc14\ub9ac \uc77c\ub4f1\ubcd1"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u5c0f\u9ea6\u9152\u6e2f\u917f\u9152\u5e08 \u654f\u5fb7\u827e\u4e01",
+        "Name_de": "Auftraggeber: Braumeister Myndeidin vom Bierhafen",
+        "Name_en": "Client: Aleport Brewery, Myndeidin Three-barrels",
+        "Name_fr": "Client : Myndeidin, brasseur de Port-aux-Ales",
+        "Name_ja": "\u30a8\u30fc\u30eb\u30dd\u30fc\u30c8\u306e\u91b8\u9020\u5bb6\uff1a\u30df\u30f3\u30c9\u30a8\u30a4\u30c7\u30a3\u30f3",
+        "Name_ko": "\ub9e5\uc8fc \ud56d\uad6c \uc591\uc870\uae30\uc220\uc790: \ubbfc\ub4dc\uc774\ub518"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u5c0f\u9ea6\u9152\u6e2f\u917f\u9152\u5e08 \u5965\u00b7\u963f\u5fb7\u5e03",
+        "Name_de": "Auftraggeber: Braumeisterin O'adebh vom Bierhafen",
+        "Name_en": "Client: Aleport Brewery, O'adebh Jhah",
+        "Name_fr": "Client : O'adebh, brasseusse de Port-aux-Ales",
+        "Name_ja": "\u30a8\u30fc\u30eb\u30dd\u30fc\u30c8\u306e\u91b8\u9020\u5bb6\uff1a\u30aa\u30fb\u30a2\u30c7\u30d6",
+        "Name_ko": "\ub9e5\uc8fc \ud56d\uad6c \uc591\uc870\uae30\uc220\uc790: \uc624\uc544\ub370\ube0c"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u7855\u8001\u6811\u51a5\u60f3\u7a9f\u7684\u5e7b\u672f\u5e08",
+        "Name_de": "Auftraggeber: Grotte der Versunkenen Gedanken",
+        "Name_en": "Client: Stillglade Fane ",
+        "Name_fr": "Client : Un \u00e9l\u00e9mentaliste du Temple de la S\u00e9r\u00e9nit\u00e9",
+        "Name_ja": "\u78a9\u8001\u6a39\u7791\u60f3\u7a9f\u306e\u5e7b\u8853\u58eb",
+        "Name_ko": "\uc5b4\uc9c4\ub098\ubb34 \uba85\uc0c1\uad74 \ud658\uc220\uc0ac"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "\u5b88\u70ac\u57e0\u5934 \u54c8\u5c14\u5fb7\u5e03\u7f57\u8fbe",
+        "Name_de": "Auftraggeber: Haldbroda vom Kerzenwacht-Kai ",
+        "Name_en": "Client: Candlekeep Quay Portermaster, Haldbroda Nortnystsyn",
+        "Name_fr": "Client : Haldbroda, marin du quai de la Torche",
+        "Name_ja": "\u30ad\u30e3\u30f3\u30c9\u30eb\u30ad\u30fc\u30d7\u57e0\u982d\uff1a\u30a2\u30eb\u30c9\u30d6\u30ed\u30c0",
+        "Name_ko": "\ucd1b\ubd88\uc9c0\uae30 \ubd80\ub450: \uc54c\ub4dc\ubcf4\ub2e4"
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u683c\u683c\u9c81\u7396\u5bb6\u7ba1\u5bb6 \u53e4\u53e4\u8482",
+        "Name_de": "Auftraggeber: Gugudi, Haushofmeister von Gegeruju",
+        "Name_en": "Client: Gegeruju Manor Majordomo, Gugudi Gudi",
+        "Name_fr": "Client : Gugudi, majordome du seigneur Gegeruju",
+        "Name_ja": "\u30b2\u30b2\u30eb\u30b8\u30e5\u6c0f\u306e\u5bb6\u4ee4\uff1a\u30b0\u30b0\u30c7\u30a3",
+        "Name_ko": "\uac8c\uac8c\ub8e8\uc8fc\uc758 \uc9d1\uc0ac: \uad6c\uad6c\ub514"
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u683c\u683c\u9c81\u7396\u5bb6\u8b66\u536b \u7ef4\u65af\u51ef\u7279",
+        "Name_de": "Auftraggeber: Wheiskaet, Wachhauptmann von Gegeruju",
+        "Name_en": "Client: Gegeruju Manor Guard, Wheiskaet Saeskyfsyn",
+        "Name_fr": "Client : Wheiskaet, capitaine de la Garde personnelle de Gegeruju",
+        "Name_ja": "\u30b2\u30b2\u30eb\u30b8\u30e5\u6c0f\u306e\u8b66\u8b77\u5f79\uff1a\u30f4\u30a7\u30a4\u30b9\u30b1\u30fc\u30c8",
+        "Name_ko": "\uac8c\uac8c\ub8e8\uc8fc\uc758 \uacbd\ud638\uc6d0: \uc640\uc774\uc2a4\ucf00\ud2b8"
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "\u7eb3\u5c14\u8fea\u514b\uff06\u5a01\u7c73\u5229\u4f5c\u574a\u953b\u94c1\u5320 \u6885\u63d0\u654f\u5fb7",
+        "Name_de": "Auftraggeber: Maetimynd, Naldiq & Vymelli",
+        "Name_en": "Client: Naldiq & Vymelli's Smith, Maetimynd Hammerhands",
+        "Name_fr": "Client : Maetimynd, forgeron de Naldiq et Vymelli",
+        "Name_ja": "\u30ca\u30eb\u30c7\u30a3\u30af\uff06\u30f4\u30a3\u30e1\u30ea\u30fc\u793e\uff1a\u935b\u51b6\u5e2b\u30e1\u30fc\u30c6\u30a3\u30df\u30f3\u30c9",
+        "Name_ko": "\ub0a0\ub514\ud06c\uc640 \ube44\uba5c\ub9ac \uc0ac: \ub300\uc7a5\uc7a5\uc774 \ub9e4\ud2f0\ubbfc\ud2b8"
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "\u535a\u7269\u5b66\u5bb6 \u4f0a\u601d\u59b2",
+        "Name_de": "Auftraggeber: Naturforscherin Isouda",
+        "Name_en": "Client: Naturalist, Isouda Kindle",
+        "Name_fr": "Client : Isouda",
+        "Name_ja": "\u535a\u7269\u5b66\u8005\u30a4\u30b9\u30fc\u30c0",
+        "Name_ko": "\ubc15\ubb3c\ud559\uc790 \uc774\uc218\ub2e4"
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "\u98de\u9ca8\u5e97\u4e3b \u8fea\u5c14\u65af\u7279\u7ef4\u5179",
+        "Name_de": "Auftraggeber: Dyrstweitz, Besitzer des \u201eFliegender Haifisch\u201c",
+        "Name_en": "Client: Flying Shark Proprietor, Dyrstweitz the Daft",
+        "Name_fr": "Client : Dyrstweitz, propri\u00e9taire du Requin volant",
+        "Name_ja": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30b7\u30e3\u30fc\u30af\uff1a\u5e97\u4e3b\u30c7\u30a3\u30eb\u30b9\u30c8\u30f4\u30a7\u30a4\u30c4",
+        "Name_ko": "\ub098\ub294 \uc0c1\uc5b4: \uc8fc\uc778 \ub4a4\uc5b4\uc2a4\ud2b8\ubc14\uc774\uce20"
+    },
+    "66": {
+        "0xID": "42",
+        "Name_cn": "\u6885\u6885\u5362\u6069\u4ea4\u6613\u5546\u4f1a\u4f1a\u957f \u6885\u6885\u5362\u6069",
+        "Name_de": "Auftraggeber: Memeroon, \u201eMemeroon & Partner\u201c",
+        "Name_en": "Client: Memeroon's Trading Post Proprietor, Memeroon",
+        "Name_fr": "Client : Memeroon, du comptoir de Memeroon",
+        "Name_ja": "\u30e1\u30e1\u30eb\u30f3\u4ea4\u6613\u5546\u4f1a\uff1a\u30e1\u30e1\u30eb\u30f3\u4f1a\u9577",
+        "Name_ko": "\uba54\uba54\ub8ec \uad50\uc5ed\uc0c1\uc810: \uba54\uba54\ub8ec \ud68c\uc7a5"
+    },
+    "67": {
+        "0xID": "43",
+        "Name_cn": "\u6885\u5c14\u51e1\u6d77\u5173 \u4f69\u00b7\u5854\u5609",
+        "Name_de": "Auftraggeber: Inspektorin P'tahjha, Mealvaaner Zollbeh\u00f6rde",
+        "Name_en": "Client: Mealvaan's Gate Log Assessor, P'tahjha Stah",
+        "Name_fr": "Client : P'tahjha, de la douane de Mealvaan",
+        "Name_ja": "\u30e1\u30eb\u30f4\u30a1\u30f3\u7a0e\u95a2\u516c\u793e\uff1a\u30da\u30fb\u30bf\u30fc\u30b8\u30e3",
+        "Name_ko": "\uba5c\ubc18 \uc138\uad00\uacf5\uc0ac: \ud398\ud0c0\uc7c8"
+    },
+    "68": {
+        "0xID": "44",
+        "Name_cn": "\u8461\u8404\u9152\u6e2f\u917f\u9152\u5e08 \u897f\u5179\u798f\u9c81\u65af\u514b",
+        "Name_de": "Auftraggeber: Winzer Syzfrusk vom Weinhafen",
+        "Name_en": "Client: Wineport Vigneron, Syzfrusk Wiltwilfsyn",
+        "Name_fr": "Client : Syzfrusk, caviste de Port-aux-Vins",
+        "Name_ja": "\u30ef\u30a4\u30f3\u30dd\u30fc\u30c8\u306e\u91b8\u9020\u5bb6\uff1a\u30b7\u30c5\u30d5\u30eb\u30b9\u30af",
+        "Name_ko": "\ud3ec\ub3c4\uc8fc \ud56d\uad6c \uc591\uc870\uae30\uc220\uc790: \uc2dc\uc988\ud480\uc2a4\ud06c"
+    },
+    "69": {
+        "0xID": "45",
+        "Name_cn": "\u8461\u8404\u9152\u6e2f\u917f\u9152\u5e08 \u827e\u00b7\u5df4\u6069\u59b2\u62c9",
+        "Name_de": "Auftraggeber: Winzer E'bandala vom Weinhafen",
+        "Name_en": "Client: Wineport Winemaker, E'bandala Dajha",
+        "Name_fr": "Client : E'bandala, caviste de Port-aux-Vins",
+        "Name_ja": "\u30ef\u30a4\u30f3\u30dd\u30fc\u30c8\u306e\u91b8\u9020\u5bb6\uff1a\u30a8\u30fb\u30d0\u30f3\u30c0\u30e9",
+        "Name_ko": "\ud3ec\ub3c4\uc8fc \ud56d\uad6c \uc591\uc870\uae30\uc220\uc790: \uc5d0\ubc18\ub2e4\ub77c"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u9152\u4fdd\u5546\u4eba \u827e\u857e\u5fb7",
+        "Name_de": "Auftraggeber: Ayled Wangenrot, Schankwirt",
+        "Name_en": "Client: Vivandier, Ayled the Steadfast",
+        "Name_fr": "Client : Ayled, cantini\u00e8re",
+        "Name_ja": "\u9152\u4fdd\u5546\u4eba\uff1a\u30a2\u30a4\u30ec\u30c9",
+        "Name_ko": "\uc885\uad70\uc0c1\uc778: \uc5d0\uc77c\ub4dc"
+    },
+    "70": {
+        "0xID": "46",
+        "Name_cn": "\u827e\u739b\u5409\u5a1c\u77ff\u5c71\u516c\u53f8 \u963f\u5fb7\u62c9\u5fb7",
+        "Name_de": "Auftraggeber: Adelard von der Amajina Bergbau AG",
+        "Name_en": "Client: Amajina & Sons Minekeep, Adelard the Able",
+        "Name_fr": "Client : Adelard, des Bons filons d'Amajina et Fils",
+        "Name_ja": "\u30a2\u30de\u30b8\u30ca\u9271\u5c71\u793e\uff1a\u30a2\u30c7\u30e9\u30fc\u30c9",
+        "Name_ko": "\uc544\ub9c8\uc9c0\ub098 \uad11\uc0b0\ud68c\uc0ac: \uc560\ub378\ub77c\ub4dc"
+    },
+    "71": {
+        "0xID": "47",
+        "Name_cn": "\u827e\u739b\u5409\u5a1c\u77ff\u5c71\u516c\u53f8 \u514b\u82e5\u514b\u5fb7\u00b7\u54c8\u798f\u7279",
+        "Name_de": "Auftraggeber: Schiefer Griff von der Amajina Bergbau AG",
+        "Name_en": "Client: Amajina & Sons Miner, Crooked Haft",
+        "Name_fr": "Client : Crooked Haft, des Bons filons d'Amajina et Fils",
+        "Name_ja": "\u30a2\u30de\u30b8\u30ca\u9271\u5c71\u793e\uff1a\u30af\u30eb\u30c3\u30af\u30c9\u30fb\u30cf\u30d5\u30c8",
+        "Name_ko": "\uc544\ub9c8\uc9c0\ub098 \uad11\uc0b0\ud68c\uc0ac: \uad6c\ubd80\ub7ec\uc9c4 \uce7c\uc790\ub8e8"
+    },
+    "72": {
+        "0xID": "48",
+        "Name_cn": "\u827e\u739b\u5409\u5a1c\u77ff\u5c71\u516c\u53f8 \u7433\u5185\u7279",
+        "Name_de": "Auftraggeber: Linette von der Amajina Bergbau AG",
+        "Name_en": "Client: Amajina & Sons Minekeep, Linette",
+        "Name_fr": "Client : Linette, des Bons filons d'Amajina et Fils",
+        "Name_ja": "\u30a2\u30de\u30b8\u30ca\u9271\u5c71\u793e\uff1a\u30ea\u30cd\u30c3\u30c8",
+        "Name_ko": "\uc544\ub9c8\uc9c0\ub098 \uad11\uc0b0\ud68c\uc0ac: \ub9ac\ub137"
+    },
+    "73": {
+        "0xID": "49",
+        "Name_cn": "\u827e\u739b\u5409\u5a1c\u77ff\u5c71\u516c\u53f8 \u5fb7\u5170\u80af\u00b7\u65af\u5854\u683c",
+        "Name_de": "Auftraggeber: Berauschter Hirsch, Amajina Bergbau AG",
+        "Name_en": "Client: Amajina & Sons Minemaster, Drunken Stag",
+        "Name_fr": "Client : Drunken Stag, des Bons filons d'Amajina et Fils",
+        "Name_ja": "\u30a2\u30de\u30b8\u30ca\u9271\u5c71\u793e\uff1a\u30c9\u30e9\u30f3\u30b1\u30f3\u30fb\u30b9\u30bf\u30b0",
+        "Name_ko": "\uc544\ub9c8\uc9c0\ub098 \uad11\uc0b0\ud68c\uc0ac: \uc220 \ucde8\ud55c \uc218\uc0ac\uc2b4"
+    },
+    "74": {
+        "0xID": "4A",
+        "Name_cn": "\u535a\u7269\u5b66\u5bb6 \u9a6c\u5c14\u585e\u7279",
+        "Name_de": "Auftraggeber: Naturforscherin Marcette",
+        "Name_en": "Client: Naturalist, Marcette Manne",
+        "Name_fr": "Client : Marcette",
+        "Name_ja": "\u535a\u7269\u5b66\u8005\uff1a\u30de\u30eb\u30bb\u30c3\u30c8",
+        "Name_ko": "\ubc15\ubb3c\ud559\uc790: \ub9c8\ub974\uc138\ud2b8"
+    },
+    "75": {
+        "0xID": "4B",
+        "Name_cn": "\u59c6\u6069\u00b7\u56fe\u4f0a\u917f\u9020\u5e93 \u57c3\u91cc\u8499",
+        "Name_de": "Auftraggeber: Erimmont vom Mun-Tuy-Braukeller",
+        "Name_en": "Client: Mun-Tuy Cellars Masher, Erimmont Blackfoot",
+        "Name_fr": "Client : Erimmont, des Caves de Mun-Tuy",
+        "Name_ja": "\u30e0\u30f3\u30c8\u30a5\u30a4\u91b8\u9020\u5eab\uff1a\u30a8\u30ea\u30e2\u30f3",
+        "Name_ko": "\ubb38\ud22c\uc774 \uc591\uc870\ucc3d\uace0: \uc5d0\ub9ac\ubabd"
+    },
+    "76": {
+        "0xID": "4C",
+        "Name_cn": "\u4ffe\u65af\u9ea6\u9910\u5385\u603b\u53a8\u5e08\u957f \u6797\u683c\u8428\u65af",
+        "Name_de": "Auftraggeber: Lyngsath, Chefkoch im \u201eBismarck\u201c",
+        "Name_en": "Client: Bismarck Guildmaster, Lyngsath Doesfalksyn",
+        "Name_fr": "Client : Lyngsath, chef du restaurant Le Bismarck",
+        "Name_ja": "\u30ec\u30b9\u30c8\u30e9\u30f3\u300c\u30d3\u30b9\u30de\u30eb\u30af\u300d\uff1a\u7dcf\u6599\u7406\u9577\u30ea\u30f3\u30b0\u30b5\u30b9",
+        "Name_ko": "\ub808\uc2a4\ud1a0\ub791 '\ube44\uc2a4\ub9c8\ub974\ud06c': \uc8fc\ubc29\uc7a5 \ub9c1\uc790\ud2b8"
+    },
+    "77": {
+        "0xID": "4D",
+        "Name_cn": "\u505a\u68a6\u4eba \u76ae\u76ae\u5e93\u5229",
+        "Name_de": "Auftraggeber: Pipikkuli",
+        "Name_en": "Client: Pipikkuli the Poor",
+        "Name_fr": "Client : Pipikkuli",
+        "Name_ja": "\u5922\u898b\u308b\u7537\uff1a\u30d4\u30d4\u30c3\u30af\u30ea",
+        "Name_ko": "\uafc8\uafb8\ub294 \uc0ac\ub098\uc774: \ud53c\ud53c\ucfe0\ub9ac"
+    },
+    "78": {
+        "0xID": "4E",
+        "Name_cn": "\u4e1c\u963f\u5c14\u8fea\u7eb3\u5fb7\u5546\u4f1a \u4fee\u4fee\u5185\u6069",
+        "Name_de": "Auftraggeber: Shushunen, Ostaldenard-Handelsgesellschaft",
+        "Name_en": "Client: East Aldenard Trading Accountant, Shushunen Bubunen",
+        "Name_fr": "Client : Shushunen, Firme du commerce de l'Aldenard oriental",
+        "Name_ja": "\u6771\u30a2\u30eb\u30c7\u30ca\u30fc\u30c9\u5546\u4f1a\uff1a\u30b7\u30e5\u30b7\u30e5\u30cd\u30f3",
+        "Name_ko": "\ub3d9\ubd80 \uc54c\ub370\ub098\ub4dc \uc0c1\ud68c: \uc288\uc288\ub128"
+    },
+    "79": {
+        "0xID": "4F",
+        "Name_cn": "\u96d5\u91d1\u5320\u884c\u4f1a\u9ad8\u7ea7\u96d5\u91d1\u5320 \u827e\u4e4c\u5c14\u5fb7",
+        "Name_de": "Auftraggeber: Aurumherz von der Goldschmiedegilde",
+        "Name_en": "Client: Goldsmiths' Guild Luminary, Aurumheart Aewuld",
+        "Name_fr": "Client : Aewuld, ouvrier \u00e9m\u00e9rite de la guilde des orf\u00e8vres",
+        "Name_ja": "\u5f6b\u91d1\u5e2b\u30ae\u30eb\u30c9\uff1a\u4e0a\u7d1a\u5f6b\u91d1\u5e2b\u30a8\u30a6\u30eb\u30c9",
+        "Name_ko": "\ubcf4\uc11d\uacf5\uc608\uac00 \uae38\ub4dc: \uc0c1\uae09 \ubcf4\uc11d\uacf5\uc608\uac00 \uc5d0\uc6b8\ub4dc"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u5df4\u65af\u5361\u9686\u9152\u5bb6\u8001\u677f",
+        "Name_de": "Auftraggeber: Buscarron, Schankwirt von \u201eBuscarrons Horst\u201c",
+        "Name_en": "Client: Buscarron's Druthers Proprietor, Buscarron Strongarm",
+        "Name_fr": "Client : Buscarron",
+        "Name_ja": "\u9152\u623f\u300c\u30d0\u30b9\u30ab\u30ed\u30f3\u30c9\u30e9\u30b6\u30fc\u30ba\u300d\u5e97\u4e3b",
+        "Name_ko": "\uc8fc\uc810 '\ubc84\uc2a4\uce74\ub860 \ub9d8\ub300\ub85c' \uc8fc\uc778"
+    },
+    "80": {
+        "0xID": "50",
+        "Name_cn": "\u7eb3\u5c14\u672d\u5c14\u6559\u56e2\u52a9\u796d \u7231\u857e\u5c14",
+        "Name_de": "Auftraggeber: Airell, Priesterin des Ordens von Nald'thal",
+        "Name_en": "Client: Order of Nald'thal Deacon, Airell Finn",
+        "Name_fr": "Client : Airell, diacre de l'ordre de Nald'thal",
+        "Name_ja": "\u30ca\u30eb\u30fb\u30b6\u30eb\u6559\u56e3\uff1a\u52a9\u796d\u30a2\u30a4\u30ec\u30eb",
+        "Name_ko": "\ub0a0\ub2ec \uad50\ub2e8: \ubd80\uc81c \uc5d0\uc5b4\ub810"
+    },
+    "81": {
+        "0xID": "51",
+        "Name_cn": "\u7eb3\u5c14\u672d\u5c14\u6559\u56e2\u4e3b\u6559 \u5229\u5229\u83ab\u9c81",
+        "Name_de": "Auftraggeber: Lilimolu, Dekan des Ordens von Nald'thal",
+        "Name_en": "Client: Order of Nald'thal Bishop, Lilimolu Gigimolu",
+        "Name_fr": "Client : Lilimolu, pr\u00eatre de l'ordre de Nald'thal",
+        "Name_ja": "\u30ca\u30eb\u30fb\u30b6\u30eb\u6559\u56e3\uff1a\u53f8\u796d\u30ea\u30ea\u30e2\u30eb",
+        "Name_ko": "\ub0a0\ub2ec \uad50\ub2e8: \uc0ac\uc81c \ub9ac\ub9ac\ubab0"
+    },
+    "82": {
+        "0xID": "52",
+        "Name_cn": "\u533f\u540d\u59d4\u6258\u4eba",
+        "Name_de": "Auftraggeber: Anonym",
+        "Name_en": "Client: Anonymous",
+        "Name_fr": "Client : Anonyme",
+        "Name_ja": "\u533f\u540d\u306e\u4f9d\u983c\u4e3b",
+        "Name_ko": "\uc775\uba85\uc758 \uc758\ub8b0\uc778"
+    },
+    "83": {
+        "0xID": "53",
+        "Name_cn": "\u5546\u961f\u4e92\u52a9\u4f1a \u53e4\u6069\u7279\u62c9\u59c6",
+        "Name_de": "Auftraggeber: Guntram von den 77 Karawanen",
+        "Name_en": "Client: Seventy-Seven Caravans Dispatch, Guntram Greenbank",
+        "Name_fr": "Client : Guntram, des Soixante-dix-sept caravanes",
+        "Name_ja": "\u968a\u5546\u4e92\u52a9\u4f1a\uff1a\u30b0\u30f3\u30c8\u30e9\u30e0",
+        "Name_ko": "\uc0c1\uc778\uacf5\uc81c\ud68c: \uac74\ud2b8\ub7a8"
+    },
+    "84": {
+        "0xID": "54",
+        "Name_cn": "\u94f6\u80c4\u56e2\u8fd1\u536b\u9a91\u58eb \u5965\u8d1d\u52d2\u7279",
+        "Name_de": "Auftraggeber: Palastwachen-Gardist Aubelet ",
+        "Name_en": "Client: Sultansworn Knight, Aubelet Whiteblade",
+        "Name_fr": "Client : Aubelet, paladin des casques d'argent",
+        "Name_ja": "\u9280\u5191\u56e3\uff1a\u8fd1\u885b\u9a0e\u58eb\u30aa\u30fc\u30d9\u30ec\u30c8",
+        "Name_ko": "\uc740\uac11\uc637\ub2e8: \uadfc\uc704\uae30\uc0ac \uc624\ubca8\ub81b"
+    },
+    "85": {
+        "0xID": "55",
+        "Name_cn": "\u94dc\u5203\u56e2\u8537\u8587\u8054\u961f \u7d22\u5229\u5854\u5229\u00b7\u827e\u5c14\u514b",
+        "Name_de": "Auftraggeber: Einsamer Elch von der Rosenkompanie",
+        "Name_en": "Client: Brass Blades, Solitary Elk of the Rose",
+        "Name_fr": "Client : Solitary Elk, soldat du r\u00e9giment de la Rose",
+        "Name_ja": "\u9285\u5203\u56e3\u30ed\u30fc\u30ba\u9023\u968a\uff1a\u30bd\u30ea\u30bf\u30ea\u30fc\u30fb\u30a8\u30eb\u30af",
+        "Name_ko": "\uad6c\ub9ac\uce7c\ub0a0\ub2e8 \uc7a5\ubbf8\uc5f0\ub300: \ub098\ud640\ub85c \ud070\uc0ac\uc2b4"
+    },
+    "86": {
+        "0xID": "56",
+        "Name_cn": "\u70bc\u91d1\u672f\u58eb\u884c\u4f1a \u963f\u83b1\u6e29",
+        "Name_de": "Auftraggeber: Alewyn von der Alchemistengilde",
+        "Name_en": "Client: Frondale's Phrontistery Alchemist, Alewyn Alder",
+        "Name_fr": "Client : Alewyn, de la guilde des alchimistes",
+        "Name_ja": "\u932c\u91d1\u8853\u5e2b\u30ae\u30eb\u30c9\uff1a\u30a8\u30fc\u30eb\u30a6\u30a3\u30f3",
+        "Name_ko": "\uc5f0\uae08\uc220\uc0ac \uae38\ub4dc: \uc5d0\uc77c\uc708"
+    },
+    "87": {
+        "0xID": "57",
+        "Name_cn": "\u94dc\u5203\u56e2\u51e4\u4ed9\u82b1\u8054\u961f \u853b\u853b\u78a7",
+        "Name_de": "Auftraggeber: Kokobi von der Balsamkompanie",
+        "Name_en": "Client: Brass Blades, Kokobi Kobi of the Balsam",
+        "Name_fr": "Client : Kokobi, soldat des lames de cuivre",
+        "Name_ja": "\u9285\u5203\u56e3\u30d0\u30eb\u30b5\u30e0\u9023\u968a\uff1a\u30b3\u30b3\u30d3",
+        "Name_ko": "\uad6c\ub9ac\uce7c\ub0a0\ub2e8 \ubc1c\uc0bc\uc5f0\ub300: \ucf54\ucf54\ube44"
+    },
+    "88": {
+        "0xID": "58",
+        "Name_cn": "\u5546\u961f\u4e92\u52a9\u4f1a \u5179\u5179\u63d0\u6d1b",
+        "Name_de": "Auftraggeber: Zuzutyro von den 77 Karawanen",
+        "Name_en": "Client: Seventy-Seven Caravans Dispatch, Zuzutyro Nanatyro",
+        "Name_fr": "Client : Zuzutyro, des Soixante-dix-sept caravanes",
+        "Name_ja": "\u968a\u5546\u4e92\u52a9\u4f1a\uff1a\u30ba\u30ba\u30c6\u30a3\u30ed",
+        "Name_ko": "\uc0c1\uc778\uacf5\uc81c\ud68c: \uc988\uc988\ud2f0\ub85c"
+    },
+    "89": {
+        "0xID": "59",
+        "Name_cn": "\u94dc\u5203\u56e2\u8537\u8587\u8054\u961f \u5207\u5207\u8d5e\u6069",
+        "Name_de": "Auftraggeber: Yayazan von der Rosenkompanie",
+        "Name_en": "Client: Brass Blades, Chechezan Yayazan of the Rose",
+        "Name_fr": "Client : Chechezan, soldat du r\u00e9giment de la Rose",
+        "Name_ja": "\u9285\u5203\u56e3\u30ed\u30fc\u30ba\u9023\u968a\uff1a\u30c1\u30a7\u30c1\u30a7\u30b6\u30f3",
+        "Name_ko": "\uad6c\ub9ac\uce7c\ub0a0\ub2e8 \uc7a5\ubbf8\uc5f0\ub300: \uccb4\uccb4\uc794"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u9ed1\u5154\u5802\u91c7\u8d2d\u90e8\u957f \u9ea6\u68ee\u5854",
+        "Name_de": "Auftraggeber: Maisenta vom Handelshaus \u201eSchwarzer Hase\u201c",
+        "Name_en": "Client: Black Rabbit Traders Consignor, Maisenta Hawke",
+        "Name_fr": "Client : Maisenta, maison de commerce \u201cle Li\u00e8vre noir\u201d",
+        "Name_ja": "\u7dcf\u5408\u5546\u793e\u300c\u9ed2\u514e\u5802\u300d\u4ed5\u5165\u90e8\u9577\uff1a\u30de\u30a4\u30bb\u30f3\u30bf",
+        "Name_ko": "\uc885\ud569\uc0c1\uc0ac '\uac80\uc740\ud1a0\ub07c \ubb34\uc5ed\uc0c1\uc0ac' \uad6c\ub9e4\ubd80\uc7a5: \ub9c8\uc774\uc13c\ud0c0"
+    },
+    "90": {
+        "0xID": "5A",
+        "Name_cn": "\u5492\u672f\u5e08\u884c\u4f1a \u96c5\u96c5\u51ef",
+        "Name_de": "Auftraggeber: Yayake von der Thaumaturgengilde",
+        "Name_en": "Client: Arrzaneth Ossuary Bonekeeper, Yayake Yake",
+        "Name_fr": "Client : Yayake, de la guilde des occultistes",
+        "Name_ja": "\u546a\u8853\u58eb\u30ae\u30eb\u30c9\uff1a\u30e4\u30e4\u30b1",
+        "Name_ko": "\uc8fc\uc220\uc0ac \uae38\ub4dc: \uc57c\uc57c\ucf00"
+    },
+    "91": {
+        "0xID": "5B",
+        "Name_cn": "\u827e\u739b\u5409\u5a1c\u77ff\u5c71\u516c\u53f8 \u5fb7\u5170\u80af\u00b7\u65af\u5854\u683c",
+        "Name_de": "Auftraggeber: Berauschter Hirsch, Amajina Bergbau AG",
+        "Name_en": "Client: Amajina & Sons Minemaster, Drunken Stag",
+        "Name_fr": "Client : Drunken Stag, des Bons filons d'Amajina et Fils",
+        "Name_ja": "\u30a2\u30de\u30b8\u30ca\u9271\u5c71\u793e\uff1a\u30c9\u30e9\u30b1\u30f3\u30fb\u30b9\u30bf\u30b0",
+        "Name_ko": "\uc544\ub9c8\uc9c0\ub098 \uad11\uc0b0\ud68c\uc0ac: \uc220 \ucde8\ud55c \uc218\uc0ac\uc2b4"
+    },
+    "92": {
+        "0xID": "5C",
+        "Name_cn": "\u5386\u53f2\u5b66\u5bb6 \u54c8\u5df4\u5e93\u00b7\u963f\u9c81\u5df4\u5e93",
+        "Name_de": "Auftraggeber: Havak Alvak, Historiker",
+        "Name_en": "Client: Independent Historian, Havak Alvak",
+        "Name_fr": "Client : Havak Alvak, historien ind\u00e9pendant",
+        "Name_ja": "\u53f2\u5b66\u8005\uff1a\u30cf\u30d0\u30af\u30fb\u30a2\u30eb\u30d0\u30af",
+        "Name_ko": "\uc5ed\uc0ac\ud559\uc790: \ud558\ubc14\ud06c \uc54c\ubc14\ud06c"
+    },
+    "93": {
+        "0xID": "5D",
+        "Name_cn": "\u94dc\u5203\u56e2\u5170\u82b1\u8054\u961f \u963f\u7f57\u7279",
+        "Name_de": "Auftraggeber: Aalot von der Orchideenkompanie",
+        "Name_en": "Client: Brass Blades, Aalot Rand of the Orchid",
+        "Name_fr": "Client : Aalot, soldat du r\u00e9giment de l'Orchid\u00e9e",
+        "Name_ja": "\u9285\u5203\u56e3\u30aa\u30fc\u30ad\u30c3\u30c9\u9023\u968a\uff1a\u30a2\u30fc\u30ed\u30c3\u30c8",
+        "Name_ko": "\uad6c\ub9ac\uce7c\ub0a0\ub2e8 \ub09c\ucd08\uc5f0\ub300: \uc568\ub7ff"
+    },
+    "94": {
+        "0xID": "5E",
+        "Name_cn": "\u5546\u961f\u4e92\u52a9\u4f1a \u8328\u8328\u5e0c",
+        "Name_de": "Auftraggeber: Tutusi von den 77 Karawanen",
+        "Name_en": "Client: Seventy-Seven Caravans Dispatch, Tutusi Tusi",
+        "Name_fr": "Client : Tutusi, des Soixante-dix-sept caravanes",
+        "Name_ja": "\u968a\u5546\u4e92\u52a9\u4f1a\uff1a\u30c4\u30c4\u30b7",
+        "Name_ko": "\uc0c1\uc778\uacf5\uc81c\ud68c: \uce20\uce20\uc2dc"
+    },
+    "95": {
+        "0xID": "5F",
+        "Name_cn": "\u5c0f\u963f\u62c9\u7c73\u683c\u5c45\u6c11 \u683c\u91cc\u83f2\u5fb7",
+        "Name_de": "Auftraggeber: Grifiud, Bewohner von Klein-Ala Mhigo",
+        "Name_en": "Client: Little Ala Mhigo Resident, Grifiud the Proud",
+        "Name_fr": "Client : Grifiud, habitant de Petite Ala Mhigo",
+        "Name_ja": "\u30ea\u30c8\u30eb\u30a2\u30e9\u30df\u30b4\u306e\u4f4f\u6c11\uff1a\u30b0\u30ea\u30d5\u30a3\u30a6\u30c9",
+        "Name_ko": "\ub9ac\ud2c0 \uc54c\ub77c\ubbf8\uace0 \uc8fc\ubbfc: \uadf8\ub9ac\ud4cc\ub4dc"
+    },
+    "96": {
+        "0xID": "60",
+        "Name_cn": "\u94dc\u5203\u56e2\u8377\u82b1\u8054\u961f \u67f3\u83ab\u83ab",
+        "Name_de": "Auftraggeber: Ryumomo von der Lotuskompanie",
+        "Name_en": "Client: Brass Blades, Ryumomo Qimomo of the Lotus",
+        "Name_fr": "Client : Ryumomo, soldat du r\u00e9giment du Lotus",
+        "Name_ja": "\u9285\u5203\u56e3\u30ed\u30fc\u30bf\u30b9\u9023\u968a\uff1a\u30ea\u30e5\u30e2\u30e2",
+        "Name_ko": "\uad6c\ub9ac\uce7c\ub0a0\ub2e8 \uc5f0\uaf43\uc5f0\ub300: \ub93c\ubaa8\ubaa8"
+    },
+    "97": {
+        "0xID": "61",
+        "Name_cn": "\u7eb3\u5c14\u672d\u5c14\u6559\u56e2\u4e3b\u6559 \u739b\u739b\u6d85",
+        "Name_de": "Auftraggeber: Mamane, Bisch\u00f6fin des Ordens von Nald'thal",
+        "Name_en": "Client: Order of Nald'thal Bishop, Mamane Mane",
+        "Name_fr": "Client : Mamane, pr\u00eatre de l'ordre de Nald'thal",
+        "Name_ja": "\u30ca\u30eb\u30fb\u30b6\u30eb\u6559\u56e3\uff1a\u53f8\u796d\u30de\u30de\u30cd",
+        "Name_ko": "\ub0a0\ub2ec \uad50\ub2e8: \uc0ac\uc81c \ub9c8\ub9c8\ub124"
+    },
+    "98": {
+        "0xID": "62",
+        "Name_cn": "\u9ed1\u6da1\u56e2 \u8239\u4e1a\u90e8",
+        "Name_de": "Auftraggeber: Mahlstrom-Flottenkommando, Abt. Schiffbau",
+        "Name_en": "Client: Maelstrom Command, Board of Shipwrights",
+        "Name_fr": "Client : Comit\u00e9 des constructeurs navals du Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3\uff1a\u9020\u8239\u79d1",
+        "Name_ko": "\ud751\uc640\ub2e8: \uc870\uc120\uacfc"
+    },
+    "99": {
+        "0xID": "63",
+        "Name_cn": "\u9ed1\u6da1\u56e2 \u519b\u4ee4\u90e8\u76f4\u5c5e\u7279\u52a1\u5c0f\u961f",
+        "Name_de": "Auftraggeber: Mahlstrom-Flottenkommando",
+        "Name_en": "Client: Maelstrom Command",
+        "Name_fr": "Client : Commandement du Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3\uff1a\u8ecd\u4ee4\u90e8\u4ed8\u304d\u7279\u52d9\u5c0f\u968a",
+        "Name_ko": "\ud751\uc640\ub2e8: \uad70\ub839\ubd80 \ubd80\uc18d \ud2b9\ubb34\uc18c\ub300"
+    }
+}

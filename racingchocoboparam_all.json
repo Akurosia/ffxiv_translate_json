@@ -1,0 +1,47 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "\u6700\u9ad8\u901f\u5ea6",
+        "Name_de": "Geschwindigkeit",
+        "Name_en": "Maximum Speed",
+        "Name_fr": "Vitesse maximale",
+        "Name_ja": "\u6700\u9ad8\u901f\u529b",
+        "Name_ko": "\ucd5c\uace0 \uc18d\ub3c4"
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u52a0\u901f\u529b",
+        "Name_de": "Antritt",
+        "Name_en": "Acceleration",
+        "Name_fr": "Acc\u00e9l\u00e9ration",
+        "Name_ja": "\u52a0\u901f\u529b",
+        "Name_ko": "\uac00\uc18d\ub825"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u4f53\u529b",
+        "Name_de": "Puste",
+        "Name_en": "Endurance",
+        "Name_fr": "Vitalit\u00e9",
+        "Name_ja": "\u4f53\u529b",
+        "Name_ko": "\uccb4\ub825"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u6301\u4e45\u529b",
+        "Name_de": "Ausdauer",
+        "Name_en": "Stamina",
+        "Name_fr": "Endurance",
+        "Name_ja": "\u6301\u4e45\u529b",
+        "Name_ko": "\uc9c0\uad6c\ub825"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u9002\u5e94\u529b",
+        "Name_de": "K\u00f6pfchen",
+        "Name_en": "Cunning",
+        "Name_fr": "Agilit\u00e9",
+        "Name_ja": "\u9069\u5fdc\u529b",
+        "Name_ko": "\uc801\uc751\ub825"
+    }
+}

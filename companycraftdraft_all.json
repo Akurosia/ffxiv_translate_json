@@ -1,0 +1,344 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "\u98de\u7a7a\u8247\u8bbe\u8ba1\u56fe2",
+        "Name_de": "Luftschiff-Bauplan: Modell 2",
+        "Name_en": "airship prototype II",
+        "Name_fr": "prototype d'a\u00e9ronef II",
+        "Name_ja": "\u98db\u7a7a\u8247\u8a2d\u8a08\u56f3:\u7b2c2\u96c6",
+        "Name_ko": "\ube44\uacf5\uc815 \uc124\uacc4\ub3c4: \uc81c2\uc9d1"
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u98de\u7a7a\u8247\u8bbe\u8ba1\u56fe3",
+        "Name_de": "Luftschiff-Bauplan: Modell 3",
+        "Name_en": "airship prototype III",
+        "Name_fr": "prototype d'a\u00e9ronef III",
+        "Name_ja": "\u98db\u7a7a\u8247\u8a2d\u8a08\u56f3:\u7b2c3\u96c6",
+        "Name_ko": "\ube44\uacf5\uc815 \uc124\uacc4\ub3c4: \uc81c3\uc9d1"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u4ee5\u592a\u8f6c\u8f6e\u8bbe\u8ba1\u56fe4",
+        "Name_de": "\u00c4therrad-Bauplan: Modell 4",
+        "Name_en": "aetherial wheel prototype IV",
+        "Name_fr": "prototype de tour \u00e9th\u00e9r\u00e9en IV",
+        "Name_ja": "\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c4\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974\uc11d \uc124\uacc4\ub3c4: \uc81c4\uc9d1"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u4ee5\u592a\u8f6c\u8f6e\u8bbe\u8ba1\u56fe5",
+        "Name_de": "\u00c4therrad-Bauplan: Modell 5",
+        "Name_en": "aetherial wheel prototype V",
+        "Name_fr": "prototype de tour \u00e9th\u00e9r\u00e9en V",
+        "Name_ja": "\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c5\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974\uc11d \uc124\uacc4\ub3c4: \uc81c5\uc9d1"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u4ee5\u592a\u8f6c\u8f6e\u8bbe\u8ba1\u56fe6",
+        "Name_de": "\u00c4therrad-Bauplan: Modell 6",
+        "Name_en": "aetherial wheel prototype VI",
+        "Name_fr": "prototype de tour \u00e9th\u00e9r\u00e9en VI",
+        "Name_ja": "\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c6\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974\uc11d \uc124\uacc4\ub3c4: \uc81c6\uc9d1"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u4ee5\u592a\u8f6c\u8f6e\u8bbe\u8ba1\u56fe7",
+        "Name_de": "\u00c4therrad-Bauplan: Modell 7",
+        "Name_en": "aetherial wheel prototype VII",
+        "Name_fr": "prototype de tour \u00e9th\u00e9r\u00e9en VII",
+        "Name_ja": "\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c7\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974\uc11d \uc124\uacc4\ub3c4: \uc81c7\uc9d1"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u8f6c\u8f6e\u53f0\u8bbe\u8ba1\u56fe2",
+        "Name_de": "\u00c4therrad-St\u00e4nder-Bauplan: Modell 2",
+        "Name_en": "wheel stand prototype II",
+        "Name_fr": "prototype de base de tour \u00e9th\u00e9r\u00e9en II",
+        "Name_ja": "\u5927\u578b\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c2\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\ub300 \uc124\uacc4\ub3c4: \uc81c2\uc9d1"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u83ab\u53e4\u83ab\u53e4\u623f\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Mog-Haus",
+        "Name_en": "moghouse prototype",
+        "Name_fr": "prototype de maison mog",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30e2\u30b0\u30e2\u30b0\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ubaa8\uadf8\ubaa8\uadf8 \uc9d1"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u8f6c\u8f6e\u53f0\u8bbe\u8ba1\u56fe3",
+        "Name_de": "\u00c4therrad-St\u00e4nder-Bauplan: Modell 3",
+        "Name_en": "wheel stand prototype III",
+        "Name_fr": "prototype de base de tour \u00e9th\u00e9r\u00e9en III",
+        "Name_ja": "\u5927\u578b\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c3\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\ub300 \uc124\uacc4\ub3c4: \uc81c3\uc9d1"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u98de\u7a7a\u8247\u8bbe\u8ba1\u56fe7",
+        "Name_de": "Luftschiff-Bauplan: Modell 7",
+        "Name_en": "airship prototype VII",
+        "Name_fr": "prototype d'a\u00e9ronef VII",
+        "Name_ja": "\u98db\u7a7a\u8247\u8a2d\u8a08\u56f3:\u7b2c7\u96c6",
+        "Name_ko": "\ube44\uacf5\uc815 \uc124\uacc4\ub3c4: \uc81c7\uc9d1"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u8f6c\u8f6e\u53f0\u8bbe\u8ba1\u56fe4",
+        "Name_de": "\u00c4therrad-St\u00e4nder-Bauplan: Modell 4",
+        "Name_en": "wheel stand prototype IV",
+        "Name_fr": "prototype de base de tour \u00e9th\u00e9r\u00e9en IV",
+        "Name_ja": "\u5927\u578b\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c4\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\ub300 \uc124\uacc4\ub3c4: \uc81c4\uc9d1"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u8f6c\u8f6e\u53f0\u8bbe\u8ba1\u56fe5",
+        "Name_de": "\u00c4therrad-St\u00e4nder-Bauplan: Modell 5",
+        "Name_en": "wheel stand prototype V",
+        "Name_fr": "prototype de base de tour \u00e9th\u00e9r\u00e9en V",
+        "Name_ja": "\u5927\u578b\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c5\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\ub300 \uc124\uacc4\ub3c4: \uc81c5\uc9d1"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u98de\u7a7a\u8247\u8bbe\u8ba1\u56fe4",
+        "Name_de": "Luftschiff-Bauplan: Modell 4",
+        "Name_en": "airship prototype IV",
+        "Name_fr": "prototype d'a\u00e9ronef IV",
+        "Name_ja": "\u98db\u7a7a\u8247\u8a2d\u8a08\u56f3:\u7b2c4\u96c6",
+        "Name_ko": "\ube44\uacf5\uc815 \uc124\uacc4\ub3c4: \uc81c4\uc9d1"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u9646\u884c\u9e1f\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Chocobo-Haus",
+        "Name_en": "chocobo house prototype",
+        "Name_fr": "prototype de maison chocobo",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30c1\u30e7\u30b3\u30dc\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ucd08\ucf54\ubcf4 \uc9d1"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u7334\u9762\u96c0\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Paissa-Haus",
+        "Name_en": "paissa house prototype",
+        "Name_fr": "prototype de maison pa\u00efssa",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30d1\u30a4\u30c3\u30b5\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ud30c\uc774\uc2f8 \uc9d1"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u5b9d\u77f3\u517d\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Karfunkel-Haus",
+        "Name_en": "Carbuncle house prototype",
+        "Name_fr": "prototype de maison Carbuncle",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \uce74\ubc99\ud074 \uc9d1"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u4e1c\u6d0b\u57ce\u5821\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Burg Shirogane",
+        "Name_en": "Shirogane Castle prototype",
+        "Name_fr": "prototype de ch\u00e2teau hingashien",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u767d\u9280\u57ce\u9020",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ub3d9\ubc29\uc758 \uc131\uacfd"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u6f5c\u6c34\u8247\u8bbe\u8ba1\u56fe1",
+        "Name_de": "Tauchboot-Bauplan: Modell 1",
+        "Name_en": "submersible prototype I",
+        "Name_fr": "prototype de sous-marin I",
+        "Name_ja": "\u6f5c\u6c34\u8266\u8a2d\u8a08\u56f3:\u7b2c1\u96c6",
+        "Name_ko": "\uc7a0\uc218\ud568 \uc124\uacc4\ub3c4: \uc81c1\uc9d1"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u6f5c\u6c34\u8247\u8bbe\u8ba1\u56fe2",
+        "Name_de": "Tauchboot-Bauplan: Modell 2",
+        "Name_en": "submersible prototype II",
+        "Name_fr": "prototype de sous-marin II",
+        "Name_ja": "\u6f5c\u6c34\u8266\u8a2d\u8a08\u56f3:\u7b2c2\u96c6",
+        "Name_ko": "\uc7a0\uc218\ud568 \uc124\uacc4\ub3c4: \uc81c2\uc9d1"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u6f5c\u6c34\u8247\u8bbe\u8ba1\u56fe3",
+        "Name_de": "Tauchboot-Bauplan: Modell 3",
+        "Name_en": "submersible prototype III",
+        "Name_fr": "prototype de sous-marin III",
+        "Name_ja": "\u6f5c\u6c34\u8266\u8a2d\u8a08\u56f3:\u7b2c3\u96c6",
+        "Name_ko": "\uc7a0\uc218\ud568 \uc124\uacc4\ub3c4: \uc81c3\uc9d1"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u736d\u736d\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Obskurer-Otter-Haus",
+        "Name_en": "odder otter house prototype",
+        "Name_fr": "prototype de maison loutre choute",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30a6\u30bd\u30a6\u30bd\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ub2ec\ub2ec\uc774 \uc9d1"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u6f5c\u6c34\u8247\u8bbe\u8ba1\u56fe4",
+        "Name_de": "Tauchboot-Bauplan: Modell 4",
+        "Name_en": "submersible prototype IV",
+        "Name_fr": "prototype de sous-marin IV",
+        "Name_ja": "\u6f5c\u6c34\u8266\u8a2d\u8a08\u56f3:\u7b2c4\u96c6",
+        "Name_ko": "\uc7a0\uc218\ud568 \uc124\uacc4\ub3c4: \uc81c4\uc9d1"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u6f5c\u6c34\u8247\u8bbe\u8ba1\u56fe5",
+        "Name_de": "Tauchboot-Bauplan: Modell 5",
+        "Name_en": "submersible prototype V",
+        "Name_fr": "prototype de sous-marin V",
+        "Name_ja": "\u6f5c\u6c34\u8266\u8a2d\u8a08\u56f3:\u7b2c5\u96c6",
+        "Name_ko": "\uc7a0\uc218\ud568 \uc124\uacc4\ub3c4: \uc81c5\uc9d1"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u98de\u7a7a\u8247\u8bbe\u8ba1\u56fe5",
+        "Name_de": "Luftschiff-Bauplan: Modell 5",
+        "Name_en": "airship prototype V",
+        "Name_fr": "prototype d'a\u00e9ronef V",
+        "Name_ja": "\u98db\u7a7a\u8247\u8a2d\u8a08\u56f3:\u7b2c5\u96c6",
+        "Name_ko": "\ube44\uacf5\uc815 \uc124\uacc4\ub3c4: \uc81c5\uc9d1"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u6f5c\u6c34\u8247\u8bbe\u8ba1\u56fe6",
+        "Name_de": "Tauchboot-Bauplan: Modell 6",
+        "Name_en": "submersible prototype VI",
+        "Name_fr": "prototype de sous-marin VI",
+        "Name_ja": "\u6f5c\u6c34\u8266\u8a2d\u8a08\u56f3:\u7b2c6\u96c6",
+        "Name_ko": "\uc7a0\uc218\ud568 \uc124\uacc4\ub3c4: \uc81c6\uc9d1"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u534a\u6728\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Fachwerkhaus",
+        "Name_en": "half-timbered house prototype",
+        "Name_fr": "prototype de maison \u00e0 colombages",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30cf\u30fc\u30d5\u30c6\u30a3\u30f3\u30d0\u30fc\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ubc18\ubaa9\uc870 \uc8fc\ud0dd"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u953b\u94c1\u5320\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Ambosshaus",
+        "Name_en": "smithy prototype",
+        "Name_fr": "prototype de maison enclume",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30a2\u30f3\u30d3\u30eb\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ub300\uc7a5\uac04"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u82b1\u5e97\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Floristenhaus",
+        "Name_en": "florist prototype",
+        "Name_fr": "prototype de maison fleurie",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30d5\u30ed\u30fc\u30ea\u30b9\u30c8\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \uaf43\uc9d1"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u953b\u51b6\u5de5\u623f\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Schmiedehaus",
+        "Name_en": "forge prototype",
+        "Name_fr": "prototype de forge",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30d5\u30a9\u30fc\u30b8\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \uc81c\ub828\uc18c"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u5496\u5561\u9986\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Kaffeehaus",
+        "Name_en": "cafe prototype",
+        "Name_fr": "prototype de maison caf\u00e9",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30ab\u30d5\u30a7\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \uce74\ud398"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u59dc\u997c\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Lebkuchenhaus",
+        "Name_en": "gingerbread house prototype",
+        "Name_fr": "prototype de maison en pain d'\u00e9pice",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u30b8\u30f3\u30b8\u30e3\u30fc\u30d6\u30ec\u30c3\u30c9\u30cf\u30a6\u30b9",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \uacfc\uc790\uc9d1"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u98ce\u96c5\u4e1c\u6d0b\u623f\u5c4b\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Sukiya-Haus",
+        "Name_en": "sukiya-zukuri prototype",
+        "Name_fr": "prototype d'auberge orientale",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u6570\u5bc4\u5c4b\u9020",
+        "Name_ko": ""
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u98de\u7a7a\u8247\u8bbe\u8ba1\u56fe6",
+        "Name_de": "Luftschiff-Bauplan: Modell 6",
+        "Name_en": "airship prototype VI",
+        "Name_fr": "prototype d'a\u00e9ronef VI",
+        "Name_ja": "\u98db\u7a7a\u8247\u8a2d\u8a08\u56f3:\u7b2c6\u96c6",
+        "Name_ko": "\ube44\uacf5\uc815 \uc124\uacc4\ub3c4: \uc81c6\uc9d1"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u9910\u5385\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: K\u00fcche",
+        "Name_en": "restaurant prototype",
+        "Name_fr": "prototype de restaurant",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u6599\u7406\u5c4b",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \uc2dd\ub8cc\ud488 \uc0c1\uc810"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u9632\u5177\u5e97\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: R\u00fcstungskammer",
+        "Name_en": "armor shop prototype",
+        "Name_fr": "prototype de boutique d'armures",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u9632\u5177\u5c4b",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ubc29\uc5b4\uad6c \uc0c1\uc810"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u6b66\u5668\u5e97\u8bbe\u8ba1\u56fe",
+        "Name_de": "Geb\u00e4ude-Bauplan: Waffenkammer",
+        "Name_en": "weapon shop prototype",
+        "Name_fr": "prototype de boutique d'armes",
+        "Name_ja": "\u5bb6\u5c4b\u8a2d\u8a08\u56f3:\u6b66\u5668\u5c4b",
+        "Name_ko": "\uac74\ubb3c \uc124\uacc4\ub3c4: \ubb34\uae30 \uc0c1\uc810"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u4ee5\u592a\u8f6c\u8f6e\u8bbe\u8ba1\u56fe2",
+        "Name_de": "\u00c4therrad-Bauplan: Modell 2",
+        "Name_en": "aetherial wheel prototype II",
+        "Name_fr": "prototype de tour \u00e9th\u00e9r\u00e9en II",
+        "Name_ja": "\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c2\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974\uc11d \uc124\uacc4\ub3c4: \uc81c2\uc9d1"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u4ee5\u592a\u8f6c\u8f6e\u8bbe\u8ba1\u56fe3",
+        "Name_de": "\u00c4therrad-Bauplan: Modell 3",
+        "Name_en": "aetherial wheel prototype III",
+        "Name_fr": "prototype de tour \u00e9th\u00e9r\u00e9en III",
+        "Name_ja": "\u9b54\u5668\u8a2d\u8a08\u56f3:\u7b2c3\u96c6",
+        "Name_ko": "\uc5d0\ud14c\ub974\uc11d \uc124\uacc4\ub3c4: \uc81c3\uc9d1"
+    }
+}

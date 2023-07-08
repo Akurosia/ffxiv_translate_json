@@ -1,0 +1,4802 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/004000/004403.png",
+        "Singular_cn": "\u7206\u5f39\u4ed4",
+        "Singular_de": "Kirschbomber",
+        "Singular_en": "cherry bomb",
+        "Singular_fr": "bombino",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30dc\u30e0",
+        "Singular_ko": "\uaf2c\ub9c8 \ubd04"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/004000/004410.png",
+        "Singular_cn": "\u53cc\u86c7\u515a\u5de7\u513f\u9646\u884c\u9e1f",
+        "Singular_de": "Bruderschafts-K\u00fcken",
+        "Singular_en": "serpent hatchling",
+        "Singular_fr": "b\u00e9b\u00e9 chocobo des Deux Vip\u00e8res",
+        "Singular_ja": "\u53cc\u86c7\u306e\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\uc30d\uc0ac\ub2f9 \ucd08\ucf54\ucd08\ucf54\ubcf4"
+    },
+    "100": {
+        "0xID": "64",
+        "Icon": "ui/icon/004000/004516.png",
+        "Singular_cn": "\u81ea\u5f8b\u578b\u9b54\u5bfc\u6d6e\u6e38\u70ae",
+        "Singular_de": "Aufzieh-Magitek-Drohne",
+        "Singular_en": "model magitek bit",
+        "Singular_fr": "micro-drone magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30d3\u30c3\u30c8\u81ea\u5f8b\u578b",
+        "Singular_ko": "\ub9c8\ub3c4 \ube44\ud2b8 \uc790\uc728\ud615"
+    },
+    "101": {
+        "0xID": "65",
+        "Icon": "ui/icon/004000/004517.png",
+        "Singular_cn": "\u6697\u6de1\u4e4b\u4e91",
+        "Singular_de": "W\u00f6lkchen der Dunkelheit",
+        "Singular_en": "puff of darkness",
+        "Singular_fr": "nuage noir miniature",
+        "Singular_ja": "\u8584\u95c7\u306e\u96f2",
+        "Singular_ko": "\uc605\uc740 \uc5b4\ub460\uc758 \uad6c\ub984"
+    },
+    "102": {
+        "0xID": "66",
+        "Icon": "ui/icon/004000/004490.png",
+        "Singular_cn": "\u6dd8\u6c14\u5357\u52a0",
+        "Singular_de": "Ninki-Nanka-Puppe",
+        "Singular_en": "naughty nanka",
+        "Singular_fr": "nanka narquois",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30ca\u30f3\u30ab",
+        "Singular_ko": "\uaf2c\ub9c8 \ub0ad\uce74"
+    },
+    "103": {
+        "0xID": "67",
+        "Icon": "ui/icon/004000/004491.png",
+        "Singular_cn": "\u718a\u732b\u5b9d\u5b9d",
+        "Singular_de": "Panda-Stofftier",
+        "Singular_en": "panda cub",
+        "Singular_fr": "petit panda pataud",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d1\u30f3\u30c0",
+        "Singular_ko": "\ud310\ub2e4 \uc778\ud615"
+    },
+    "104": {
+        "0xID": "68",
+        "Icon": "ui/icon/004000/004504.png",
+        "Singular_cn": "\u8ff7\u4f60\u5965\u5c14\u7279\u7f57\u65af",
+        "Singular_de": "Aufzieh-Ultros",
+        "Singular_en": "wind-up Ultros",
+        "Singular_fr": "Orthros articul\u00e9",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30eb\u30c8\u30ed\u30b9",
+        "Singular_ko": "\uc624\ub974\ud2b8\ub85c\uc2a4 \uc778\ud615"
+    },
+    "105": {
+        "0xID": "69",
+        "Icon": "ui/icon/004000/004505.png",
+        "Singular_cn": "\u96ea\u5b69\u5b50",
+        "Singular_de": "Zuckerschneemann",
+        "Singular_en": "Hoary the Snowman",
+        "Singular_fr": "b\u00e9b\u00e9 bonhomme de neige",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b9\u30ce\u30fc\u30de\u30f3",
+        "Singular_ko": "\ub208\uc0ac\ub78c \uc778\ud615"
+    },
+    "106": {
+        "0xID": "6A",
+        "Icon": "ui/icon/004000/004506.png",
+        "Singular_cn": "\u80d6\u513f\u9646\u884c\u9e1f",
+        "Singular_de": "Chocopummelchen",
+        "Singular_en": "heavy hatchling",
+        "Singular_fr": "b\u00e9b\u00e9 chocobo grassouillet",
+        "Singular_ja": "\u30dd\u30c1\u30e3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ud1b5\ud1b5 \ucd08\ucf54\ubcf4"
+    },
+    "107": {
+        "0xID": "6B",
+        "Icon": "ui/icon/004000/004501.png",
+        "Singular_cn": "\u8ff7\u4f60\u4f0a\u8fbe",
+        "Singular_de": "Yda-Puppe",
+        "Singular_en": "wind-up Yda",
+        "Singular_fr": "Yda miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a4\u30c0",
+        "Singular_ko": "\uc774\ub2e4 \uc778\ud615"
+    },
+    "108": {
+        "0xID": "6C",
+        "Icon": "ui/icon/004000/004502.png",
+        "Singular_cn": "\u8ff7\u4f60\u5e15\u5e15\u529b\u83ab",
+        "Singular_de": "Papalymo-Puppe",
+        "Singular_en": "wind-up Papalymo",
+        "Singular_fr": "Papalymo miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d1\u30d1\u30ea\u30e2",
+        "Singular_ko": "\ud30c\ud30c\ub9ac\ubaa8 \uc778\ud615"
+    },
+    "109": {
+        "0xID": "6D",
+        "Icon": "ui/icon/004000/004503.png",
+        "Singular_cn": "\u8ff7\u4f60\u4e8e\u91cc\u6602\u70ed",
+        "Singular_de": "Urianger-Puppe",
+        "Singular_en": "wind-up Urianger",
+        "Singular_fr": "Urianger miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a6\u30ea\u30a8\u30f3\u30b8\u30a7",
+        "Singular_ko": "\uc704\ub9ac\uc559\uc81c \uc778\ud615"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/004000/004411.png",
+        "Singular_cn": "\u6052\u8f89\u961f\u5de7\u513f\u9646\u884c\u9e1f",
+        "Singular_de": "Legions-K\u00fcken",
+        "Singular_en": "flame hatchling",
+        "Singular_fr": "b\u00e9b\u00e9 chocobo des Immortels",
+        "Singular_ja": "\u4e0d\u6ec5\u306e\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ubd88\uba78\ub300 \ucd08\ucf54\ucd08\ucf54\ubcf4"
+    },
+    "110": {
+        "0xID": "6E",
+        "Icon": "ui/icon/004000/004507.png",
+        "Singular_cn": "\u732b\u5c0f\u80d6",
+        "Singular_de": "dick[a] Katze",
+        "Singular_en": "fat cat",
+        "Singular_fr": "gros minou",
+        "Singular_ja": "\u30d5\u30a1\u30c3\u30c8\u30ad\u30e3\u30c3\u30c8",
+        "Singular_ko": "\ub6b1\ub0e5\uc774"
+    },
+    "111": {
+        "0xID": "6F",
+        "Icon": "ui/icon/004000/004508.png",
+        "Singular_cn": "\u5c0f\u811a\u96ea\u4eba",
+        "Singular_de": "Kleinfu\u00df",
+        "Singular_en": "Littlefoot",
+        "Singular_fr": "petit y\u00e9ti",
+        "Singular_ja": "\u30ea\u30c8\u30eb\u30d5\u30c3\u30c8",
+        "Singular_ko": "\ub9ac\ud2c0\ud48b"
+    },
+    "112": {
+        "0xID": "70",
+        "Icon": "ui/icon/004000/004509.png",
+        "Singular_cn": "\u5c0f\u6728\u4e43\u4f0a",
+        "Singular_de": "Mini-Mumie",
+        "Singular_en": "mummy's little mummy",
+        "Singular_fr": "mini-momie",
+        "Singular_ja": "\u30ea\u30c8\u30eb\u30de\u30df\u30fc",
+        "Singular_ko": "\uc791\uc740 \ubbf8\ub77c"
+    },
+    "113": {
+        "0xID": "71",
+        "Icon": "ui/icon/004000/004497.png",
+        "Singular_cn": "\u4f01\u4e1a\u53f7\u6a21\u578b",
+        "Singular_de": "Aufzieh-Enterprise",
+        "Singular_en": "model Enterprise",
+        "Singular_fr": "maquette de l'Entreprise",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba",
+        "Singular_ko": "\uc5d4\ud130\ud504\ub77c\uc774\uc988 \ubaa8\ud615"
+    },
+    "114": {
+        "0xID": "72",
+        "Icon": "ui/icon/004000/004498.png",
+        "Singular_cn": "\u90ae\u5dee\u83ab\u53e4\u529b\u5a03\u5a03",
+        "Singular_de": "Mogry-Stoffpostbote",
+        "Singular_en": "wind-up delivery moogle",
+        "Singular_fr": "poup\u00e9e Mog postier",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ec\u30bf\u30fc\u30e2\u30fc\u30b0\u30ea",
+        "Singular_ko": "\ubc30\ub2ec\ubd80 \ubaa8\uadf8\ub9ac \uc778\ud615"
+    },
+    "115": {
+        "0xID": "73",
+        "Icon": "ui/icon/004000/004510.png",
+        "Singular_cn": "\u6697\u6597\u9c7c\u82d7",
+        "Singular_de": "fliegend[a] Kampffisch",
+        "Singular_en": "assassin fry",
+        "Singular_fr": "fretin assassin",
+        "Singular_ja": "\u30a2\u30b5\u30b7\u30f3\u30d5\u30e9\u30a4",
+        "Singular_ko": "\uc554\uc0b4\uce58\uc5b4"
+    },
+    "116": {
+        "0xID": "74",
+        "Icon": "ui/icon/004000/004513.png",
+        "Singular_cn": "\u795d\u798f\u793c\u76d2",
+        "Singular_de": "beseelt[a] Geschenkp\u00e4ckchen",
+        "Singular_en": "demon box",
+        "Singular_fr": "cadeau ambulant",
+        "Singular_ja": "\u30d7\u30ec\u30bc\u30f3\u30bf\u30fc",
+        "Singular_ko": "\uc120\ubb3c \uc0c1\uc790"
+    },
+    "117": {
+        "0xID": "75",
+        "Icon": "ui/icon/004000/004511.png",
+        "Singular_cn": "\u6cb3\u7ae5\u7ae5",
+        "Singular_de": "Flusskobold",
+        "Singular_en": "water imp",
+        "Singular_fr": "petit kappa",
+        "Singular_ja": "\u30ab\u30c3\u30d1\u30c3\u30d1",
+        "Singular_ko": "\uaf2c\ub9c8 \ubb3c\uc694\uc815"
+    },
+    "118": {
+        "0xID": "76",
+        "Icon": "ui/icon/004000/004512.png",
+        "Singular_cn": "\u8ff7\u4f60\u8def\u6613\u7d22\u74e6",
+        "Singular_de": "Aufzieh-Louisoix",
+        "Singular_en": "wind-up Louisoix",
+        "Singular_fr": "Louisoix miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30eb\u30a4\u30be\u30ef",
+        "Singular_ko": "\ub8e8\uc774\uc218\uc544 \uc778\ud615"
+    },
+    "119": {
+        "0xID": "77",
+        "Icon": "ui/icon/004000/004518.png",
+        "Singular_cn": "\u5c18\u4e16\u5e7b\u9f99",
+        "Singular_de": "Midgardsormr",
+        "Singular_en": "Midgardsormr",
+        "Singular_fr": "Midgardsormr",
+        "Singular_ja": "\u30df\u30c9\u30ac\u30eb\u30ba\u30aa\u30eb\u30e0",
+        "Singular_ko": "\ubbf8\ub4dc\uac00\ub974\ub4dc\uc624\ub984"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/004000/004412.png",
+        "Singular_cn": "\u9b54\u754c\u82b1\u9aa8\u6735",
+        "Singular_de": "Morbol-Knolle",
+        "Singular_en": "morbol seedling",
+        "Singular_fr": "bulbe de morbol",
+        "Singular_ja": "\u30e2\u30eb\u30dc\u30eb\u30d0\u30eb\u30d6",
+        "Singular_ko": "\ubab0\ubcfc \ubb18\ubaa9"
+    },
+    "120": {
+        "0xID": "78",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": "\ucd08\ub85d\ud2c0"
+    },
+    "121": {
+        "0xID": "79",
+        "Icon": "ui/icon/004000/004556.png",
+        "Singular_cn": "\u559c\u9e4a\u513f",
+        "Singular_de": "klein[a] Elster",
+        "Singular_en": "Doman magpie",
+        "Singular_fr": "pie pimpante",
+        "Singular_ja": "\u30d4\u30ab\u30d4\u30ab",
+        "Singular_ko": "\uae4d\uae4d\uc774"
+    },
+    "122": {
+        "0xID": "7A",
+        "Icon": "ui/icon/004000/004521.png",
+        "Singular_cn": "\u6069\u5947\u90fd",
+        "Singular_de": "Aufzieh-Enkidu",
+        "Singular_en": "Enkidu",
+        "Singular_fr": "Enkidu",
+        "Singular_ja": "\u30a8\u30f3\u30ad\u30c9\u30a5",
+        "Singular_ko": "\uc5d4\ud0a4\ub450"
+    },
+    "123": {
+        "0xID": "7B",
+        "Icon": "ui/icon/004000/004493.png",
+        "Singular_cn": "\u7d2b\u5996\u7cbe\u5a03\u5a03",
+        "Singular_de": "Finstrigen-Puppe",
+        "Singular_en": "wind-up Violet",
+        "Singular_fr": "poup\u00e9e de m\u00e9chant Sylphe",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d0\u30a4\u30aa\u30ec\u30c3\u30c8",
+        "Singular_ko": "\ubcf4\ub78f\ube5b \uc778\ud615"
+    },
+    "124": {
+        "0xID": "7C",
+        "Icon": "ui/icon/004000/004492.png",
+        "Singular_cn": "\u5f00\u521b\u8005\u4eba\u5076",
+        "Singular_de": "Aufzieh-Gr\u00fcnder",
+        "Singular_en": "wind-up founder",
+        "Singular_fr": "poup\u00e9e du ma\u00eetre fondateur",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d5\u30a1\u30a6\u30f3\u30c0\u30fc",
+        "Singular_ko": "\uc120\uad6c\uc790 \uc778\ud615"
+    },
+    "125": {
+        "0xID": "7D",
+        "Icon": "ui/icon/004000/004494.png",
+        "Singular_cn": "\u5c0f\u5c0f\u8fea\u5179\u5c14",
+        "Singular_de": "Dezul-Qualan-Puppe",
+        "Singular_en": "wind-up Dezul Qualan",
+        "Singular_fr": "Dezul miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c7\u30ba\u30eb",
+        "Singular_ko": "\ub370\uc990 \uc778\ud615"
+    },
+    "126": {
+        "0xID": "7E",
+        "Icon": "ui/icon/004000/004495.png",
+        "Singular_cn": "\u5730\u70752\u53f7\u5a03\u5a03",
+        "Singular_de": "Aufzieh-Kobold Nr. 2",
+        "Singular_en": "wind-up kobolder",
+        "Singular_fr": "poup\u00e9e kobolde n\u00b02",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b3\u30dc\u30eb\u30c92\u53f7",
+        "Singular_ko": "\ucf54\ubcfc\ub4dc 2\ud638"
+    },
+    "127": {
+        "0xID": "7F",
+        "Icon": "ui/icon/004000/004496.png",
+        "Singular_cn": "\u8ff7\u4f60\u6d77\u9b54",
+        "Singular_de": "Aufzieh-Seeteufel",
+        "Singular_en": "wind-up Sea Devil",
+        "Singular_fr": "d\u00e9mon des mers m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b7\u30fc\u30c7\u30d3\u30eb",
+        "Singular_ko": "\ubc14\ub2e4\uc758 \uc545\ub9c8"
+    },
+    "128": {
+        "0xID": "80",
+        "Icon": "ui/icon/004000/004524.png",
+        "Singular_cn": "\u9ed1\u5de7\u513f\u4fe1\u5dee",
+        "Singular_de": "Brief-Chocobo-K\u00fcken",
+        "Singular_en": "chocobo chick courier",
+        "Singular_fr": "b\u00e9b\u00e9 chocobo noir volant",
+        "Singular_ja": "\u9ed2\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc\u30fb\u30d5\u30e9\u30a4\u30e4\u30fc",
+        "Singular_ko": "\uac80\uc740 \ucd08\ucf54\ucd08\ucf54\ubcf4 \ube44\ud589\uc0ac"
+    },
+    "129": {
+        "0xID": "81",
+        "Icon": "ui/icon/004000/004525.png",
+        "Singular_cn": "\u8ff7\u4f60\u51ef\u56e0",
+        "Singular_de": "Kain-Puppe",
+        "Singular_en": "wind-up Kain",
+        "Singular_fr": "Ka\u00efn miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ab\u30a4\u30f3",
+        "Singular_ko": "\uce74\uc778 \uc778\ud615"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/004000/004413.png",
+        "Singular_cn": "\u5c0f\u677e\u9f20",
+        "Singular_de": "klein[a] Ratte",
+        "Singular_en": "tiny rat",
+        "Singular_fr": "\u00e9cureuil nain",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30b9\u30af\u30a6\u30a3\u30ec\u30eb",
+        "Singular_ko": "\uaf2c\ub9c8 \uccad\uc124\ubaa8"
+    },
+    "130": {
+        "0xID": "82",
+        "Icon": "ui/icon/004000/004519.png",
+        "Singular_cn": "\u8ff7\u4f60\u963f\u5c14\u83f2\u8bfa",
+        "Singular_de": "Aufzieh-Alphinaud",
+        "Singular_en": "wind-up Alphinaud",
+        "Singular_fr": "Alphinaud miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30eb\u30d5\u30a3\u30ce",
+        "Singular_ko": "\uc54c\ud53c\ub178 \uc778\ud615"
+    },
+    "131": {
+        "0xID": "83",
+        "Icon": "ui/icon/004000/004520.png",
+        "Singular_cn": "\u8ff7\u4f60\u963f\u8389\u585e",
+        "Singular_de": "Aufzieh-Alisaie",
+        "Singular_en": "wind-up Alisaie",
+        "Singular_fr": "Alisaie miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30ea\u30bc\u30fc",
+        "Singular_ko": "\uc54c\ub9ac\uc81c \uc778\ud615"
+    },
+    "132": {
+        "0xID": "84",
+        "Icon": "ui/icon/004000/004526.png",
+        "Singular_cn": "\u8ff7\u4f60\u5854\u5854\u9732",
+        "Singular_de": "Tataru-Puppe",
+        "Singular_en": "wind-up Tataru",
+        "Singular_fr": "Tataru miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30bf\u30bf\u30eb",
+        "Singular_ko": "\ud0c0\ud0c0\ub8e8 \uc778\ud615"
+    },
+    "133": {
+        "0xID": "85",
+        "Icon": "ui/icon/004000/004527.png",
+        "Singular_cn": "\u8ff7\u4f60\u897f\u5fb7",
+        "Singular_de": "Cid-Puppe",
+        "Singular_en": "wind-up Cid",
+        "Singular_fr": "Cid miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b7\u30c9",
+        "Singular_ko": "\uc2dc\ub4dc \uc778\ud615"
+    },
+    "134": {
+        "0xID": "86",
+        "Icon": "ui/icon/004000/004528.png",
+        "Singular_cn": "\u72ec\u89d2\u5e7c\u517d",
+        "Singular_de": "Kleinhorn",
+        "Singular_en": "unicolt",
+        "Singular_fr": "b\u00e9b\u00e9 licorne",
+        "Singular_ja": "\u30e6\u30cb\u30b3\u30eb\u30c8",
+        "Singular_ko": "\uc720\ub2c8\ucf5c\ud2b8"
+    },
+    "135": {
+        "0xID": "87",
+        "Icon": "ui/icon/004000/004557.png",
+        "Singular_cn": "\u886e\u675c\u73a9\u5076",
+        "Singular_de": "Aufzieh-Gundo",
+        "Singular_en": "wind-up Gundu warrior",
+        "Singular_fr": "poup\u00e9e gundu",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b0\u30f3\u30c9",
+        "Singular_ko": "\uad70\ub450 \uc778\ud615"
+    },
+    "136": {
+        "0xID": "88",
+        "Icon": "ui/icon/004000/004529.png",
+        "Singular_cn": "\u5c0f\u5c0f\u963f\u6258\u83ab\u65af",
+        "Singular_de": "Mini-Atomos",
+        "Singular_en": "atrophied Atomos",
+        "Singular_fr": "atomos atrophi\u00e9",
+        "Singular_ja": "\u30df\u30cb\u30de\u30e0\u30a2\u30c8\u30e2\u30b9",
+        "Singular_ko": "\ubbf8\ub2c8 \uc544\ud1a0\ubaa8\uc2a4"
+    },
+    "137": {
+        "0xID": "89",
+        "Icon": "ui/icon/004000/004530.png",
+        "Singular_cn": "\u732b\u5934\u5c0f\u9e70",
+        "Singular_de": "Eulette",
+        "Singular_en": "owlet",
+        "Singular_fr": "b\u00e9b\u00e9 hibou",
+        "Singular_ja": "\u30aa\u30a6\u30ec\u30c3\u30c8",
+        "Singular_ko": "\uc544\uae30 \uc62c\ube7c\ubbf8"
+    },
+    "138": {
+        "0xID": "8A",
+        "Icon": "ui/icon/004000/004531.png",
+        "Singular_cn": "\u4e11\u5c0f\u9e2d",
+        "Singular_de": "h\u00e4sslich[a] Entlein",
+        "Singular_en": "ugly duckling",
+        "Singular_fr": "vilain petit canard",
+        "Singular_ja": "\u30a2\u30b0\u30ea\u30fc\u30fb\u30c0\u30c3\u30af\u30ea\u30f3\u30b0",
+        "Singular_ko": "\ubbf8\uc6b4 \uc544\uae30 \uc624\ub9ac"
+    },
+    "139": {
+        "0xID": "8B",
+        "Icon": "ui/icon/004000/004532.png",
+        "Singular_cn": "\u98ce\u7b5d\u5c0f\u732b",
+        "Singular_de": "Geira-K\u00e4tzchen",
+        "Singular_en": "gaelikitten",
+        "Singular_fr": "ga\u00e9lichaton",
+        "Singular_ja": "\u30b2\u30a4\u30e9\u30ad\u30c8\u30f3",
+        "Singular_ko": "\uac8c\uc77c\ub9ac\ud0a4\ud2bc"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/004000/004414.png",
+        "Singular_cn": "\u9b54\u83c7\u5b9d",
+        "Singular_de": "Mini-Pilz",
+        "Singular_en": "baby bun",
+        "Singular_fr": "fungus miniature",
+        "Singular_ja": "\u30d9\u30a4\u30d3\u30fc\u30d5\u30a1\u30f3\u30ac\u30fc",
+        "Singular_ko": "\uc560\uc1a1\uc774\ubc84\uc12f"
+    },
+    "140": {
+        "0xID": "8C",
+        "Icon": "ui/icon/004000/004533.png",
+        "Singular_cn": "\u53d1\u6761\u63a8\u8f66",
+        "Singular_de": "Aufzieh-Schubkarre",
+        "Singular_en": "clockwork barrow",
+        "Singular_fr": "brouette m\u00e9canique",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30ab\u30fc\u30c8",
+        "Singular_ko": "\ud0dc\uc5fd \uc190\uc218\ub808"
+    },
+    "141": {
+        "0xID": "8D",
+        "Icon": "ui/icon/004000/004534.png",
+        "Singular_cn": "\u5c0f\u718a\u732b",
+        "Singular_de": "Rotpanda-Stofftier",
+        "Singular_en": "lesser panda",
+        "Singular_fr": "petit panda roux",
+        "Singular_ja": "\u30ec\u30c3\u30b5\u30fc\u30d1\u30f3\u30c0",
+        "Singular_ko": "\ub808\uc11c\ud310\ub2e4"
+    },
+    "142": {
+        "0xID": "8E",
+        "Icon": "ui/icon/004000/004535.png",
+        "Singular_cn": "63\u9875",
+        "Singular_de": "Seite 63",
+        "Singular_en": "page 63",
+        "Singular_fr": "page 63",
+        "Singular_ja": "63\u30da\u30fc\u30b8",
+        "Singular_ko": "63\ud398\uc774\uc9c0"
+    },
+    "143": {
+        "0xID": "8F",
+        "Icon": "ui/icon/004000/004536.png",
+        "Singular_cn": "\u94c1\u5c0f\u4eba",
+        "Singular_de": "Eisenzwerg",
+        "Singular_en": "iron dwarf",
+        "Singular_fr": "nain d'acier",
+        "Singular_ja": "\u9244\u5c0f\u4eba",
+        "Singular_ko": "\ucca0\uc18c\uc778"
+    },
+    "144": {
+        "0xID": "90",
+        "Icon": "ui/icon/004000/004537.png",
+        "Singular_cn": "\u72ee\u9e6b\u5b9d\u5b9d",
+        "Singular_de": "Greifen-K\u00fcken",
+        "Singular_en": "griffin hatchling",
+        "Singular_fr": "b\u00e9b\u00e9 griffon",
+        "Singular_ja": "\u30b0\u30ea\u30d5\u30a3\u30f3\u30fb\u30cf\u30c3\u30c1\u30ea\u30f3\u30b0",
+        "Singular_ko": "\uc544\uae30 \uadf8\ub9ac\ud540"
+    },
+    "145": {
+        "0xID": "91",
+        "Icon": "ui/icon/004000/004538.png",
+        "Singular_cn": "\u8ff7\u4f60\u51b0\u4e4b\u5deb\u5973",
+        "Singular_de": "Eisherz-Puppe",
+        "Singular_en": "wind-up Iceheart",
+        "Singular_fr": "Ysayle miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a4\u30bc\u30eb",
+        "Singular_ko": "\uc774\uc824 \uc778\ud615"
+    },
+    "146": {
+        "0xID": "92",
+        "Icon": "ui/icon/004000/004539.png",
+        "Singular_cn": "\u683c\u65af\u5854\u62c9",
+        "Singular_de": "Gestahl-Scho\u00dfhund",
+        "Singular_en": "Gestahl",
+        "Singular_fr": "Gestahl",
+        "Singular_ja": "\u30ac\u30b9\u30c8\u30e9",
+        "Singular_ko": "\uac00\uc2a4\ud2b8\ub77c"
+    },
+    "147": {
+        "0xID": "93",
+        "Icon": "ui/icon/004000/004540.png",
+        "Singular_cn": "7\u53f7\u84b8\u6c7d\u5c0f\u6218\u8f66",
+        "Singular_de": "Dampf-Stampfer",
+        "Singular_en": "steam-powered gobwalker G-VII",
+        "Singular_fr": "gobblind\u00e9 G-VII \u00e0 vapeur",
+        "Singular_ja": "VII\u53f7\u30b9\u30c1\u30fc\u30e0\u30a6\u30a9\u30fc\u30ab\u30fc",
+        "Singular_ko": "VII\ud638 \uc99d\uae30 \uc6cc\ucee4"
+    },
+    "148": {
+        "0xID": "94",
+        "Icon": "ui/icon/004000/004541.png",
+        "Singular_cn": "\u7687\u5bb6\u8d1d\u5e0c\u6469\u65af\u5b9d\u5b9d",
+        "Singular_de": "blaubl\u00fctig[a] Behemoth",
+        "Singular_en": "behemoth heir",
+        "Singular_fr": "prince b\u00e9b\u00e9h\u00e9moth",
+        "Singular_ja": "\u30ed\u30a4\u30e4\u30eb\u30d9\u30d3\u30fc\u30e2\u30b9",
+        "Singular_ko": "\ub85c\uc5f4 \ubca0\uc774\ube44\ubaa8\uc2a4"
+    },
+    "149": {
+        "0xID": "95",
+        "Icon": "ui/icon/004000/004542.png",
+        "Singular_cn": "\u8ffd\u8e2a\u7cfb\u7edf",
+        "Singular_de": "Begleitmodul",
+        "Singular_en": "accompaniment node",
+        "Singular_fr": "sph\u00e8re de guidage",
+        "Singular_ja": "\u8ffd\u5f93\u30b7\u30b9\u30c6\u30e0",
+        "Singular_ko": "\ucd94\uc885 \uc2dc\uc2a4\ud15c"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/004000/004415.png",
+        "Singular_cn": "\u6c99\u86a4\u866b\u866b",
+        "Singular_de": "Stechm\u00fccken-Larve",
+        "Singular_en": "chigoe larva",
+        "Singular_fr": "chigoe apprivois\u00e9",
+        "Singular_ja": "\u30c1\u30b4\u30fc\u30e9\u30fc\u30f4\u30a1",
+        "Singular_ko": "\ubcbc\ub8e9\ubaa8\uae30 \uc720\ucda9"
+    },
+    "150": {
+        "0xID": "96",
+        "Icon": "ui/icon/004000/004543.png",
+        "Singular_cn": "\u8ff7\u4f60\u5915\u96fe",
+        "Singular_de": "Yugiri-Puppe",
+        "Singular_en": "wind-up Yugiri",
+        "Singular_fr": "Yugiri miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e6\u30a6\u30ae\u30ea",
+        "Singular_ko": "\uc720\uc6b0\uae30\ub9ac \uc778\ud615"
+    },
+    "151": {
+        "0xID": "97",
+        "Icon": "ui/icon/004000/004544.png",
+        "Singular_cn": "\u6a44\u6984\u5b9d\u77f3\u517d",
+        "Singular_de": "Peridot-Karfunkel",
+        "Singular_en": "Peridot Carbuncle",
+        "Singular_fr": "Carbuncle p\u00e9ridot",
+        "Singular_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30da\u30ea\u30c9\u30c3\u30c8",
+        "Singular_ko": "\uce74\ubc99\ud074 \ud398\ub9ac\ub3c4\ud2b8"
+    },
+    "152": {
+        "0xID": "98",
+        "Icon": "ui/icon/004000/004545.png",
+        "Singular_cn": "\u91d1\u7eff\u5b9d\u77f3\u517d",
+        "Singular_de": "Heliodor-Karfunkel",
+        "Singular_en": "Heliodor Carbuncle",
+        "Singular_fr": "Carbuncle h\u00e9liodore",
+        "Singular_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30d8\u30ea\u30aa\u30c9\u30fc\u30eb",
+        "Singular_ko": "\uce74\ubc99\ud074 \ud5ec\ub9ac\uc624\ub3c4\ub974"
+    },
+    "153": {
+        "0xID": "99",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "154": {
+        "0xID": "9A",
+        "Icon": "ui/icon/004000/004547.png",
+        "Singular_cn": "\u6dd8\u91d1\u70ed",
+        "Singular_de": "Goldrausch-Karre",
+        "Singular_en": "gold rush minecart",
+        "Singular_fr": "chariot de mine m\u00e9canique",
+        "Singular_ja": "\u30b4\u30fc\u30eb\u30c9\u30e9\u30c3\u30b7\u30e5",
+        "Singular_ko": "\ub178\ub2e4\uc9c0"
+    },
+    "155": {
+        "0xID": "9B",
+        "Icon": "ui/icon/004000/004523.png",
+        "Singular_cn": "\u840c\u795e\u4e50\u56e2",
+        "Singular_de": "Primog-Kapelle",
+        "Singular_en": "set of Primogs",
+        "Singular_fr": "fanfare des Primogs",
+        "Singular_ja": "\u30b6\u30fb\u30d7\u30e9\u30a4\u30e2\u30b0\u30ba",
+        "Singular_ko": "\ubaa8\uadf8\ub9ac \uc74c\uc545\ub2e8"
+    },
+    "156": {
+        "0xID": "9C",
+        "Icon": "ui/icon/004000/004570.png",
+        "Singular_cn": "\u9aa8\u988c\u73a9\u5076",
+        "Singular_de": "Gnath-Puppe",
+        "Singular_en": "wind-up Gnath",
+        "Singular_fr": "poup\u00e9e gnathe",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b0\u30ca\u30fc\u30b9",
+        "Singular_ko": "\uadf8\ub098\uc2a4 \uc778\ud615"
+    },
+    "157": {
+        "0xID": "9D",
+        "Icon": "ui/icon/004000/004558.png",
+        "Singular_cn": "\u7334\u9762\u96c0\u513f",
+        "Singular_de": "Paissa-Fratz",
+        "Singular_en": "paissa brat",
+        "Singular_fr": "petiot pa\u00efssa",
+        "Singular_ja": "\u30d1\u30a4\u30c3\u30b5\u30fb\u30d6\u30e9\u30c3\u30c8",
+        "Singular_ko": "\uaf2c\ub9c8 \ud30c\uc774\uc2f8"
+    },
+    "158": {
+        "0xID": "9E",
+        "Icon": "ui/icon/004000/004559.png",
+        "Singular_cn": "\u9752\u84dd\u5c0f\u624b",
+        "Singular_de": "Indigohand-Puppe",
+        "Singular_en": "wind-up Illuminatus",
+        "Singular_fr": "Gobelin de la Mimine bleue",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d6\u30eb\u30fc\u30cf\u30f3\u30c9",
+        "Singular_ko": "\ud478\ub978\uc190 \uc778\ud615"
+    },
+    "159": {
+        "0xID": "9F",
+        "Icon": "ui/icon/004000/004548.png",
+        "Singular_cn": "\u5357\u74dc\u7ba1\u5bb6",
+        "Singular_de": "K\u00fcrbis-Butler",
+        "Singular_en": "Pumpkin Butler",
+        "Singular_fr": "majordome citrouille",
+        "Singular_ja": "\u30d1\u30f3\u30d7\u30ad\u30f3\u30d0\u30c8\u30e9\u30fc",
+        "Singular_ko": "\ud638\ubc15 \uc9d1\uc0ac"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/004000/004416.png",
+        "Singular_cn": "\u9752\u9e1f",
+        "Singular_de": "blau[a] V\u00f6gelchen",
+        "Singular_en": "bluebird",
+        "Singular_fr": "oiseau bleu",
+        "Singular_ja": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
+        "Singular_ko": "\ud30c\ub791\uc0c8"
+    },
+    "160": {
+        "0xID": "A0",
+        "Icon": "ui/icon/004000/004560.png",
+        "Singular_cn": "\u5c0f\u5c0f\u827e\u5947\u5fb7\u5a1c",
+        "Singular_de": "Aufzieh-Echidna",
+        "Singular_en": "wind-up Echidna",
+        "Singular_fr": "Echidna miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30ad\u30c9\u30ca",
+        "Singular_ko": "\uc5d0\ud0a4\ub4dc\ub098 \uc778\ud615"
+    },
+    "161": {
+        "0xID": "A1",
+        "Icon": "ui/icon/004000/004561.png",
+        "Singular_cn": "\u8ff7\u4f60\u745e\u59c6",
+        "Singular_de": "Relm-Puppe",
+        "Singular_en": "wind-up Relm",
+        "Singular_fr": "Relm miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ea\u30eb\u30e0",
+        "Singular_ko": "\ub9b4\ub984 \uc778\ud615"
+    },
+    "162": {
+        "0xID": "A2",
+        "Icon": "ui/icon/004000/004562.png",
+        "Singular_cn": "\u730e\u9e70",
+        "Singular_de": "Jagdfalke",
+        "Singular_en": "hunting hawk",
+        "Singular_fr": "buse chasseuse",
+        "Singular_ja": "\u30cf\u30f3\u30c6\u30a3\u30f3\u30b0\u30fb\u30db\u30fc\u30af",
+        "Singular_ko": "\uc0ac\ub0e5\ub9e4"
+    },
+    "163": {
+        "0xID": "A3",
+        "Icon": "ui/icon/004000/004563.png",
+        "Singular_cn": "\u6d45\u77b3",
+        "Singular_de": "Stumpfauge",
+        "Singular_en": "shalloweye",
+        "Singular_fr": "poussin oculus",
+        "Singular_ja": "\u30b7\u30e3\u30ed\u30fc\u30a2\u30a4",
+        "Singular_ko": "\ubf48\ub85d\ub208"
+    },
+    "164": {
+        "0xID": "A4",
+        "Icon": "ui/icon/004000/004564.png",
+        "Singular_cn": "\u4f01\u9e45\u738b\u5b50",
+        "Singular_de": "Pinguinprinz",
+        "Singular_en": "penguin prince",
+        "Singular_fr": "manchot prince",
+        "Singular_ja": "\u30d7\u30ea\u30f3\u30b9\u30da\u30f3\u30ae\u30f3",
+        "Singular_ko": "\uc655\uc790 \ud3ad\uadc4"
+    },
+    "165": {
+        "0xID": "A5",
+        "Icon": "ui/icon/004000/004565.png",
+        "Singular_cn": "\u53d1\u6761\u53cc\u5854\u5c3c\u4e9a",
+        "Singular_de": "Uhrwerk-Twintania",
+        "Singular_en": "clockwork Twintania",
+        "Singular_fr": "mini-G\u00e9mellia",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c4\u30a4\u30f3\u30bf\u30cb\u30a2",
+        "Singular_ko": "\ud2b8\uc708\ud0c0\ub2c8\uc544 \uc778\ud615"
+    },
+    "166": {
+        "0xID": "A6",
+        "Icon": "ui/icon/004000/004566.png",
+        "Singular_cn": "\u53f6\u5c0f\u5996\u5996",
+        "Singular_de": "Korpokkur-Pfl\u00e4nzchen",
+        "Singular_en": "korpokkur kid",
+        "Singular_fr": "pon-korpokkur",
+        "Singular_ja": "\u30b3\u30ed\u30b3\u30ed\u30dd\u30c3\u30af\u30eb",
+        "Singular_ko": "\uaf2c\ub9c8 \uba38\uc717\uc78e \uc694\uc815"
+    },
+    "167": {
+        "0xID": "A7",
+        "Icon": "ui/icon/004000/004549.png",
+        "Singular_cn": "\u8ff7\u4f60\u5f17\u5229\u5965\u5c3c\u5c14",
+        "Singular_de": "Firion-Puppe",
+        "Singular_en": "wind-up Firion",
+        "Singular_fr": "Firion miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d5\u30ea\u30aa\u30cb\u30fc\u30eb",
+        "Singular_ko": "\ud504\ub9ac\uc624\ub2d0 \uc778\ud615"
+    },
+    "168": {
+        "0xID": "A8",
+        "Icon": "ui/icon/004000/004567.png",
+        "Singular_cn": "\u4f0a\u5f17\u5229\u7279\u4e4b\u5f62",
+        "Singular_de": "Mini-Ifrit",
+        "Singular_en": "wind-up Ifrit",
+        "Singular_fr": "petit Ifrit",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a4\u30d5\u30ea\u30fc\u30c8",
+        "Singular_ko": "\uc774\ud504\ub9ac\ud2b8 \uc778\ud615"
+    },
+    "169": {
+        "0xID": "A9",
+        "Icon": "ui/icon/004000/004572.png",
+        "Singular_cn": "\u8fe6\u697c\u7f57\u4e4b\u5f62",
+        "Singular_de": "Mini-Garuda",
+        "Singular_en": "wind-up Garuda",
+        "Singular_fr": "petite Garuda",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ac\u30eb\u30fc\u30c0",
+        "Singular_ko": "\uac00\ub8e8\ub2e4 \uc778\ud615"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/004000/004417.png",
+        "Singular_cn": "\u5e7c\u7f9a\u7f8a",
+        "Singular_de": "Rehkitz",
+        "Singular_en": "wide-eyed fawn",
+        "Singular_fr": "faon aux yeux de biche",
+        "Singular_ja": "\u30a2\u30f3\u30c6\u30ed\u30fc\u30d7\u30fb\u30d5\u30a9\u30fc\u30f3",
+        "Singular_ko": "\uaf2c\ub9c8 \uc601\uc591"
+    },
+    "170": {
+        "0xID": "AA",
+        "Icon": "ui/icon/004000/004573.png",
+        "Singular_cn": "\u6cf0\u5766\u4e4b\u5f62",
+        "Singular_de": "Mini-Titan",
+        "Singular_en": "wind-up Titan",
+        "Singular_fr": "petit Titan",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30bf\u30a4\u30bf\u30f3",
+        "Singular_ko": "\ud0c0\uc774\ud0c4 \uc778\ud615"
+    },
+    "171": {
+        "0xID": "AB",
+        "Icon": "ui/icon/004000/004574.png",
+        "Singular_cn": "\u5229\u7ef4\u4e9a\u6851\u4e4b\u5f62",
+        "Singular_de": "Mini-Leviathan",
+        "Singular_en": "wind-up Leviathan",
+        "Singular_fr": "petit L\u00e9viathan",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ea\u30f4\u30a1\u30a4\u30a2\u30b5\u30f3",
+        "Singular_ko": "\ub9ac\ubc14\uc774\uc5b4\uc120 \uc778\ud615"
+    },
+    "172": {
+        "0xID": "AC",
+        "Icon": "ui/icon/004000/004569.png",
+        "Singular_cn": "\u5c0a\u675c\u73a9\u5076",
+        "Singular_de": "Aufzieh-Zundo-Krieger",
+        "Singular_en": "wind-up Zundu warrior",
+        "Singular_fr": "poup\u00e9e zundu",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ba\u30f3\u30c9",
+        "Singular_ko": "\uc900\ub450 \uc778\ud615"
+    },
+    "173": {
+        "0xID": "AD",
+        "Icon": "ui/icon/004000/004568.png",
+        "Singular_cn": "\u8ff7\u4f60\u5965\u5c14\u4ec0\u65b9",
+        "Singular_de": "Haurchefant-Puppe",
+        "Singular_en": "wind-up Haurchefant",
+        "Singular_fr": "Haurchefant miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30eb\u30b7\u30e5\u30d5\u30a1\u30f3",
+        "Singular_ko": "\uc624\ub974\uc288\ud321 \uc778\ud615"
+    },
+    "174": {
+        "0xID": "AE",
+        "Icon": "ui/icon/004000/004575.png",
+        "Singular_cn": "\u8ff7\u4f60\u5c3c\u7984",
+        "Singular_de": "Nero-Puppe",
+        "Singular_en": "wind-up Nero tol Scaeva",
+        "Singular_fr": "Nero tol Scaeva miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30cd\u30ed",
+        "Singular_ko": "\ub124\ub85c \uc778\ud615"
+    },
+    "175": {
+        "0xID": "AF",
+        "Icon": "ui/icon/004000/004571.png",
+        "Singular_cn": "\u81ea\u7531\u8111\u73a9\u5076",
+        "Singular_de": "Vath-Puppe",
+        "Singular_en": "wind-up Vath",
+        "Singular_fr": "poup\u00e9e vathe",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30f4\u30a1\u30b9",
+        "Singular_ko": "\ubc14\uc2a4 \uc778\ud615"
+    },
+    "176": {
+        "0xID": "B0",
+        "Icon": "ui/icon/004000/004576.png",
+        "Singular_cn": "\u8ff7\u4f60\u6d6e\u58eb\u5fb7",
+        "Singular_de": "F\u00e4ustchen",
+        "Singular_en": "faustlet",
+        "Singular_fr": "faust articul\u00e9",
+        "Singular_ja": "\u30df\u30cb\u30d5\u30a1\u30a6\u30b9\u30c8",
+        "Singular_ko": "\uaf2c\ub9c8 \ud30c\uc6b0\uc2a4\ud2b8"
+    },
+    "177": {
+        "0xID": "B1",
+        "Icon": "ui/icon/004000/004596.png",
+        "Singular_cn": "\u65b0\u578b\u8ff7\u4f60\u96c5\u00b7\u4fee\u7279\u62c9",
+        "Singular_de": "neu[a] Y'shtola-Puppe",
+        "Singular_en": "dress-up Y'shtola",
+        "Singular_fr": "nouvelle Y'shtola miniature",
+        "Singular_ja": "\u30cb\u30e5\u30fc\u30fb\u30e4\u30fb\u30b7\u30e5\u30c8\u30e9",
+        "Singular_ko": "\uc2e0 \uc57c\uc288\ud1a8\ub77c"
+    },
+    "178": {
+        "0xID": "B2",
+        "Icon": "ui/icon/004000/004577.png",
+        "Singular_cn": "\u5361\u5c14\u514b",
+        "Singular_de": "Calco-Puppe",
+        "Singular_en": "Calca",
+        "Singular_fr": "Calca",
+        "Singular_ja": "\u30ab\u30eb\u30b3",
+        "Singular_ko": "\uce7c\uce74"
+    },
+    "179": {
+        "0xID": "B3",
+        "Icon": "ui/icon/004000/004578.png",
+        "Singular_cn": "\u5e03\u8389\u5a1c",
+        "Singular_de": "Brina-Puppe",
+        "Singular_en": "Brina",
+        "Singular_fr": "Brina",
+        "Singular_ja": "\u30d6\u30ea\u30fc\u30ca",
+        "Singular_ko": "\ube0c\ub9ac\ub098"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/004000/004418.png",
+        "Singular_cn": "\u5c0f\u5c0f\u9b54\u7cbe",
+        "Singular_de": "Baby-Imp",
+        "Singular_en": "infant imp",
+        "Singular_fr": "b\u00e9b\u00e9 imp",
+        "Singular_ja": "\u30d9\u30a4\u30d3\u30fc\u30a4\u30f3\u30d7",
+        "Singular_ko": "\uc544\uae30 \uc784\ud504"
+    },
+    "180": {
+        "0xID": "B4",
+        "Icon": "ui/icon/004000/004579.png",
+        "Singular_cn": "\u84dd\u95ea\u8776",
+        "Singular_de": "Morpho",
+        "Singular_en": "morpho",
+        "Singular_fr": "morpho",
+        "Singular_ja": "\u30e2\u30eb\u30d5\u30a9",
+        "Singular_ko": "\ubaa8\ub974\ud3ec"
+    },
+    "181": {
+        "0xID": "B5",
+        "Icon": "ui/icon/004000/004580.png",
+        "Singular_cn": "\u6ce2\u7f57\u00b7\u7f57\u683c",
+        "Singular_de": "Poro Roggo",
+        "Singular_en": "Poro Roggo",
+        "Singular_fr": "Poro Roggo",
+        "Singular_ja": "\u30dd\u30ed\u30fb\u30ed\u30c3\u30b4",
+        "Singular_ko": "\ud3ec\ub85c \ub85d\uace0"
+    },
+    "182": {
+        "0xID": "B6",
+        "Icon": "ui/icon/004000/004581.png",
+        "Singular_cn": "\u8ff7\u4f60\u5409\u5c14\u4f2f\u7279",
+        "Singular_de": "Aufzieh-Edward",
+        "Singular_en": "spoony bard",
+        "Singular_fr": "Edward miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ae\u30eb\u30d0\u30fc\u30c8",
+        "Singular_ko": "\uae38\ubc84\ud2b8 \uc778\ud615"
+    },
+    "183": {
+        "0xID": "B7",
+        "Icon": "ui/icon/004000/004582.png",
+        "Singular_cn": "\u82ac\u91cc\u5c14\u5e7c\u5d3d",
+        "Singular_de": "Fenrir-Welpe",
+        "Singular_en": "Fenrir pup",
+        "Singular_fr": "b\u00e9b\u00e9 Fenrir",
+        "Singular_ja": "\u30d5\u30a7\u30f3\u30ea\u30eb\u30fb\u30d1\u30c3\u30d7",
+        "Singular_ko": "\uc5b4\ub9b0 \ud39c\ub9ac\ub974"
+    },
+    "184": {
+        "0xID": "B8",
+        "Icon": "ui/icon/004000/004597.png",
+        "Singular_cn": "\u5e7c\u9f99\u73a9\u5076",
+        "Singular_de": "Drachenjung[a]",
+        "Singular_en": "wind-up dragonet",
+        "Singular_fr": "mini-dragonnet",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c9\u30e9\u30b4\u30cd\u30c3\u30c8",
+        "Singular_ko": "\uc544\uae30 \uc6a9 \uc778\ud615"
+    },
+    "185": {
+        "0xID": "B9",
+        "Icon": "ui/icon/004000/004598.png",
+        "Singular_cn": "\u62c9\u59c6\u4e4b\u5f62",
+        "Singular_de": "Mini-Ramuh",
+        "Singular_en": "wind-up Ramuh",
+        "Singular_fr": "petit Ramuh",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e9\u30e0\u30a6",
+        "Singular_ko": "\ub77c\ubb34 \uc778\ud615"
+    },
+    "186": {
+        "0xID": "BA",
+        "Icon": "ui/icon/004000/004599.png",
+        "Singular_cn": "\u5e0c\u74e6\u4e4b\u5f62",
+        "Singular_de": "Mini-Shiva",
+        "Singular_en": "wind-up Shiva",
+        "Singular_fr": "petite Shiva",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b7\u30f4\u30a1",
+        "Singular_ko": "\uc2dc\ubc14 \uc778\ud615"
+    },
+    "187": {
+        "0xID": "BB",
+        "Icon": "ui/icon/004000/004600.png",
+        "Singular_cn": "\u6ce2\u5947",
+        "Singular_de": "Ferkelchen",
+        "Singular_en": "Piggy",
+        "Singular_fr": "porcelet promeneur",
+        "Singular_ja": "\u30dd\u30fc\u30ad\u30fc",
+        "Singular_ko": "\uc544\uae30\ub3fc\uc9c0"
+    },
+    "188": {
+        "0xID": "BC",
+        "Icon": "ui/icon/004000/004601.png",
+        "Singular_cn": "\u9b54\u6cd5\u6c34\u6876",
+        "Singular_de": "magisch[a] Eimer",
+        "Singular_en": "magic bucket",
+        "Singular_fr": "seau d'eau magique",
+        "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30d0\u30b1\u30c4",
+        "Singular_ko": "\ub9c8\ubc95 \uc591\ub3d9\uc774"
+    },
+    "189": {
+        "0xID": "BD",
+        "Icon": "ui/icon/004000/004602.png",
+        "Singular_cn": "\u89e6\u624b",
+        "Singular_de": "Tentakel",
+        "Singular_en": "calamari",
+        "Singular_fr": "tentacule minuscule",
+        "Singular_ja": "\u30b2\u30bd",
+        "Singular_ko": "\uc624\uc9d5\uc5b4 \ub2e4\ub9ac"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/004000/004452.png",
+        "Singular_cn": "\u957f\u987b\u5c0f\u8c79",
+        "Singular_de": "Mini-Coeurl",
+        "Singular_en": "coeurl kitten",
+        "Singular_fr": "joli coeurl",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30af\u30a1\u30fc\u30eb",
+        "Singular_ko": "\uaf2c\ub9c8 \ucee4\uc5bc"
+    },
+    "190": {
+        "0xID": "BE",
+        "Icon": "ui/icon/004000/004603.png",
+        "Singular_cn": "\u8155\u9f99\u73a9\u5076",
+        "Singular_de": "Brachiosaurus-Baby",
+        "Singular_en": "baby brachiosaur",
+        "Singular_fr": "b\u00e9b\u00e9 brachiosaure",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d6\u30e9\u30ad\u30aa",
+        "Singular_ko": "\ube0c\ub77c\ud0a4\uc624 \uc778\ud615"
+    },
+    "191": {
+        "0xID": "BF",
+        "Icon": "ui/icon/004000/004604.png",
+        "Singular_cn": "\u62c9\u62c9\u961f\u5c0f\u59d1\u5a18",
+        "Singular_de": "Aufzieh-Cheerleaderin",
+        "Singular_en": "wind-up cheerleader",
+        "Singular_fr": "marionnette majorette",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c1\u30a2\u30ac\u30fc\u30eb",
+        "Singular_ko": "\uc751\uc6d0\ub2e8 \uc778\ud615"
+    },
+    "192": {
+        "0xID": "C0",
+        "Icon": "ui/icon/004000/004605.png",
+        "Singular_cn": "\u8ff7\u4f60\u53ef\u9732\u513f",
+        "Singular_de": "Krile-Puppe",
+        "Singular_en": "wind-up Krile",
+        "Singular_fr": "Krile miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30af\u30eb\u30eb",
+        "Singular_ko": "\ucfe0\ub8e8\ub8e8 \uc778\ud615"
+    },
+    "193": {
+        "0xID": "C1",
+        "Icon": "ui/icon/004000/004606.png",
+        "Singular_cn": "\u8ff7\u4f60\u827e\u9ed8\u91cc\u514b",
+        "Singular_de": "Aymeric-Puppe",
+        "Singular_en": "wind-up Aymeric",
+        "Singular_fr": "Aymeric miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30a4\u30e1\u30ea\u30af",
+        "Singular_ko": "\uc544\uc774\uba54\ub9ac\ud06c \uc778\ud615"
+    },
+    "194": {
+        "0xID": "C2",
+        "Icon": "ui/icon/004000/004613.png",
+        "Singular_cn": "\u5929\u9a6c\u5e7c\u517d",
+        "Singular_de": "Pegasus-Fohlen",
+        "Singular_en": "pegasus colt",
+        "Singular_fr": "poulain p\u00e9gase",
+        "Singular_ja": "\u30da\u30ac\u30b5\u30b9\u30b3\u30eb\u30c8",
+        "Singular_ko": "\ud398\uac00\ucf5c\ud2b8"
+    },
+    "195": {
+        "0xID": "C3",
+        "Icon": "ui/icon/004000/004607.png",
+        "Singular_cn": "\u5361\u6d1b\u83f2\u65af\u63d0\u8389\u73a9\u5076",
+        "Singular_de": "Mini-Calofisteri",
+        "Singular_en": "wind-up Calofisteri",
+        "Singular_fr": "poup\u00e9e Calofisteri",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ab\u30ed\u30d5\u30a3\u30b9\u30c6\u30ea",
+        "Singular_ko": "\uce7c\ub85c\ud53c\uc2a4\ud14c\ub9ac \uc778\ud615"
+    },
+    "196": {
+        "0xID": "C4",
+        "Icon": "ui/icon/004000/004608.png",
+        "Singular_cn": "\u5927\u811a\u5c0f\u733f",
+        "Singular_de": "Sasquatch-Stofftier",
+        "Singular_en": "wind-up sasquatch",
+        "Singular_fr": "mini-sasquatch",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b5\u30b9\u30ab\u30c3\u30c1",
+        "Singular_ko": "\uc0ac\uc2a4\ucf70\uce58 \uc778\ud615"
+    },
+    "197": {
+        "0xID": "C5",
+        "Icon": "ui/icon/004000/004609.png",
+        "Singular_cn": "\u5c0f\u77ee\u5154",
+        "Singular_de": "Zwergkaninchen",
+        "Singular_en": "dwarf rabbit",
+        "Singular_fr": "lapin nain",
+        "Singular_ja": "\u30c9\u30ef\u30fc\u30d5\u30e9\u30d3\u30c3\u30c8",
+        "Singular_ko": "\ub4dc\uc6cc\ud504 \ud1a0\ub07c"
+    },
+    "198": {
+        "0xID": "C6",
+        "Icon": "ui/icon/004000/004610.png",
+        "Singular_cn": "\u767e\u76ee",
+        "Singular_de": "Hektokulinchen",
+        "Singular_en": "hecteye",
+        "Singular_fr": "hectoculus monoculaire",
+        "Singular_ja": "\u30d8\u30af\u30c8\u30a2\u30a4",
+        "Singular_ko": "\ud55c\ub208\uae54\uc774"
+    },
+    "199": {
+        "0xID": "C7",
+        "Icon": "ui/icon/004000/004611.png",
+        "Singular_cn": "\u9053\u58eb\u83ab\u53e4\u529b\u5a03\u5a03",
+        "Singular_de": "Daoisten-Mogry",
+        "Singular_en": "Taoist moogle",
+        "Singular_fr": "Mog d\u00e0oshi",
+        "Singular_ja": "\u9053\u58eb\u30e2\u30fc\u30b0\u30ea",
+        "Singular_ko": "\ub3c4\uc0ac \ubaa8\uadf8\ub9ac"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/004000/004401.png",
+        "Singular_cn": "\u81ea\u8d70\u4eba\u5076001\u53f7",
+        "Singular_de": "Marionette Nr. 001",
+        "Singular_en": "mammet #001",
+        "Singular_fr": "pantin P001",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8001",
+        "Singular_ko": "\uc790\ub3d9\uc778\ud615 001"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/004000/004514.png",
+        "Singular_cn": "\u957f\u987b\u5c0f\u9ed1\u8c79",
+        "Singular_de": "schwarz[a] Coeurl",
+        "Singular_en": "black coeurl",
+        "Singular_fr": "coeurl noir",
+        "Singular_ja": "\u30d6\u30e9\u30c3\u30af\u30af\u30a1\u30fc\u30eb",
+        "Singular_ko": "\uac80\uc740 \ucee4\uc5bc"
+    },
+    "200": {
+        "0xID": "C8",
+        "Icon": "ui/icon/004000/004584.png",
+        "Singular_cn": "\u5730\u7f1a\u732b",
+        "Singular_de": "Jibanyan",
+        "Singular_en": "Jibanyan",
+        "Singular_fr": "Jibanyan",
+        "Singular_ja": "\u30b8\u30d0\u30cb\u30e3\u30f3",
+        "Singular_ko": "\uc9c0\ubc14\ub0e5"
+    },
+    "201": {
+        "0xID": "C9",
+        "Icon": "ui/icon/004000/004586.png",
+        "Singular_cn": "\u5c0f\u72db",
+        "Singular_de": "Komasan",
+        "Singular_en": "Komasan",
+        "Singular_fr": "Komasan",
+        "Singular_ja": "\u30b3\u30de\u3055\u3093",
+        "Singular_ko": "\ubc31\uba4d\uc774"
+    },
+    "202": {
+        "0xID": "CA",
+        "Icon": "ui/icon/004000/004592.png",
+        "Singular_cn": "\u7ef4\u65af\u5e15",
+        "Singular_de": "Whisper",
+        "Singular_en": "Whisper",
+        "Singular_fr": "Whisper",
+        "Singular_ja": "\u30a6\u30a3\u30b9\u30d1\u30fc",
+        "Singular_ko": "\uc704\uc2a4\ud37c"
+    },
+    "203": {
+        "0xID": "CB",
+        "Icon": "ui/icon/004000/004594.png",
+        "Singular_cn": "\u5439\u96ea\u516c\u4e3b",
+        "Singular_de": "Glazia",
+        "Singular_en": "Blizzaria",
+        "Singular_fr": "Blizzaria",
+        "Singular_ja": "\u3075\u3076\u304d\u59eb",
+        "Singular_ko": "\ub208\ubcf4\ub77c \uacf5\uc8fc"
+    },
+    "204": {
+        "0xID": "CC",
+        "Icon": "ui/icon/004000/004591.png",
+        "Singular_cn": "\u4e5d\u5c3e",
+        "Singular_de": "Kyubi",
+        "Singular_en": "Kyubi",
+        "Singular_fr": "Kyubi",
+        "Singular_ja": "\u30ad\u30e5\u30a6\u30d3",
+        "Singular_ko": "\uad6c\ubbf8"
+    },
+    "205": {
+        "0xID": "CD",
+        "Icon": "ui/icon/004000/004587.png",
+        "Singular_cn": "\u72db\u6b21\u90ce",
+        "Singular_de": "Komajiro",
+        "Singular_en": "Komajiro",
+        "Singular_fr": "Komajiro",
+        "Singular_ja": "\u30b3\u30de\u3058\u308d\u3046",
+        "Singular_ko": "\ud669\uba4d\uc774"
+    },
+    "206": {
+        "0xID": "CE",
+        "Icon": "ui/icon/004000/004595.png",
+        "Singular_cn": "\u4eba\u9762\u72ac",
+        "Singular_de": "M\u00f6ter",
+        "Singular_en": "Manjimutt",
+        "Singular_fr": "Corniot",
+        "Singular_ja": "\u3058\u3093\u3081\u3093\u72ac",
+        "Singular_ko": "\uc778\uba74\uacac"
+    },
+    "207": {
+        "0xID": "CF",
+        "Icon": "ui/icon/004000/004588.png",
+        "Singular_cn": "\u91ce\u69cc\u86c7",
+        "Singular_de": "Noko",
+        "Singular_en": "Noko",
+        "Singular_fr": "Noko",
+        "Singular_ja": "\u30c4\u30c1\u30ce\u30b3",
+        "Singular_ko": "\ub7ed\ud0a4 \uc2a4\ub124\uc774\ud06c"
+    },
+    "208": {
+        "0xID": "D0",
+        "Icon": "ui/icon/004000/004590.png",
+        "Singular_cn": "\u5927\u86c7",
+        "Singular_de": "Viptor",
+        "Singular_en": "Venoct",
+        "Singular_fr": "Octorgone",
+        "Singular_ja": "\u30aa\u30ed\u30c1",
+        "Singular_ko": "\uc774\ubb34\uae30"
+    },
+    "209": {
+        "0xID": "D1",
+        "Icon": "ui/icon/004000/004583.png",
+        "Singular_cn": "\u6b66\u58eb\u732b",
+        "Singular_de": "Shogunyan",
+        "Singular_en": "Shogunyan",
+        "Singular_fr": "Shogunyan",
+        "Singular_ja": "\u30d6\u30b7\u30cb\u30e3\u30f3",
+        "Singular_ko": "\ubb34\uc0ac\ub0e5"
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/004000/004515.png",
+        "Singular_cn": "\u975e\u6b63\u5b97\u8c03\u67e5\u5458",
+        "Singular_de": "Hildibrand-Puppe",
+        "Singular_en": "wind-up gentleman",
+        "Singular_fr": "Hildibrand miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d2\u30eb\u30c7\u30a3",
+        "Singular_ko": "\ud790\ub514 \uc778\ud615"
+    },
+    "210": {
+        "0xID": "D2",
+        "Icon": "ui/icon/004000/004585.png",
+        "Singular_cn": "\u6d6e\u6e38\u732b",
+        "Singular_de": "Hovernyan",
+        "Singular_en": "Hovernyan",
+        "Singular_fr": "Hovernyan",
+        "Singular_ja": "\u30d5\u30e6\u30cb\u30e3\u30f3",
+        "Singular_ko": "\ubd80\uc720\ub0e5"
+    },
+    "211": {
+        "0xID": "D3",
+        "Icon": "ui/icon/004000/004593.png",
+        "Singular_cn": "\u673a\u5668\u732bF\u578b",
+        "Singular_de": "Robonyan F-Type",
+        "Singular_en": "Robonyan F-type",
+        "Singular_fr": "Robonyan F-Type",
+        "Singular_ja": "\u30ed\u30dc\u30cb\u30e3\u30f3\uff26\u578b",
+        "Singular_ko": "\ub85c\ubcf4\ub0e5 F"
+    },
+    "212": {
+        "0xID": "D4",
+        "Icon": "ui/icon/004000/004589.png",
+        "Singular_cn": "USA\u8e66",
+        "Singular_de": "Usapyon",
+        "Singular_en": "USApyon",
+        "Singular_fr": "Usapyon",
+        "Singular_ja": "\uff35\uff33\uff21\u30d4\u30e7\u30f3",
+        "Singular_ko": "\uc6b0\uc0ac\ubfc5"
+    },
+    "213": {
+        "0xID": "D5",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": "\uc57c\uad11\uadc0 \uc778\ud615"
+    },
+    "214": {
+        "0xID": "D6",
+        "Icon": "ui/icon/004000/004614.png",
+        "Singular_cn": "\u8ff7\u4f60\u547d\u540d\u5a01",
+        "Singular_de": "Namingway-Puppe",
+        "Singular_en": "Namingway",
+        "Singular_fr": "poup\u00e9e Namingway",
+        "Singular_ja": "\u30cd\u30df\u30f3\u30b0\u30a6\u30a7\u30a4",
+        "Singular_ko": "\ub124\uc774\ubc0d\uc6e8\uc774"
+    },
+    "215": {
+        "0xID": "D7",
+        "Icon": "ui/icon/004000/004615.png",
+        "Singular_cn": "\u8ff7\u4f60\u4e9a\u5386\u5c71\u5927",
+        "Singular_de": "Mini-Alexander",
+        "Singular_en": "toy Alexander",
+        "Singular_fr": "Alexander articul\u00e9",
+        "Singular_ja": "\u30df\u30cb\u30a2\u30ec\u30ad\u30b5\u30f3\u30c0\u30fc",
+        "Singular_ko": "\ubbf8\ub2c8 \uc54c\ub809\uc0b0\ub354"
+    },
+    "216": {
+        "0xID": "D8",
+        "Icon": "ui/icon/004000/004616.png",
+        "Singular_cn": "\u75a3\u732a\u5c0f\u5b50",
+        "Singular_de": "Frischling",
+        "Singular_en": "shaggy shoat",
+        "Singular_fr": "marcassin",
+        "Singular_ja": "\u3046\u308a\u574a",
+        "Singular_ko": "\uc544\uae30 \uba67\ub3fc\uc9c0"
+    },
+    "217": {
+        "0xID": "D9",
+        "Icon": "ui/icon/004000/004617.png",
+        "Singular_cn": "\u65b0\u578b\u8ff7\u4f60\u6851\u514b\u745e\u5fb7",
+        "Singular_de": "neu[a] Thancred-Puppe",
+        "Singular_en": "dress-up Thancred",
+        "Singular_fr": "nouveau Thancred miniature",
+        "Singular_ja": "\u30cb\u30e5\u30fc\u30fb\u30b5\u30f3\u30af\u30ec\u30c3\u30c9",
+        "Singular_ko": "\uc2e0 \uc0b0\ud06c\ub808\ub4dc"
+    },
+    "218": {
+        "0xID": "DA",
+        "Icon": "ui/icon/004000/004618.png",
+        "Singular_cn": "\u65b0\u578b\u8ff7\u4f60\u963f\u8389\u585e",
+        "Singular_de": "neu[a] Alisaie-Puppe",
+        "Singular_en": "dress-up Alisaie",
+        "Singular_fr": "nouvelle Alisaie miniature",
+        "Singular_ja": "\u30cb\u30e5\u30fc\u30fb\u30a2\u30ea\u30bc\u30fc",
+        "Singular_ko": "\uc2e0 \uc54c\ub9ac\uc81c"
+    },
+    "219": {
+        "0xID": "DB",
+        "Icon": "ui/icon/004000/004619.png",
+        "Singular_cn": "\u8ff7\u4f60\u827e\u8fbe",
+        "Singular_de": "Edda-Puppe",
+        "Singular_en": "wind-up Edda",
+        "Singular_fr": "Edda miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30c3\u30c0",
+        "Singular_ko": "\uc5d0\ub2e4 \uc778\ud615"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/004000/004419.png",
+        "Singular_cn": "\u7802\u783e\u5c0f\u50cf\u5175",
+        "Singular_de": "Kiesgolem",
+        "Singular_en": "gravel golem",
+        "Singular_fr": "golem graveleux",
+        "Singular_ja": "\u30b0\u30e9\u30d9\u30eb\u30b4\u30fc\u30ec\u30e0",
+        "Singular_ko": "\uc790\uac08 \uace8\ub818"
+    },
+    "220": {
+        "0xID": "DC",
+        "Icon": "ui/icon/004000/004620.png",
+        "Singular_cn": "\u8ff7\u4f60\u5c24\u5a1c",
+        "Singular_de": "Yuna-Puppe",
+        "Singular_en": "wind-up Yuna",
+        "Singular_fr": "Yuna miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e6\u30a6\u30ca",
+        "Singular_ko": "\uc720\uc6b0\ub098 \uc778\ud615"
+    },
+    "221": {
+        "0xID": "DD",
+        "Icon": "ui/icon/004000/004621.png",
+        "Singular_cn": "\u8ff7\u4f60\u7409\u514b",
+        "Singular_de": "Rikku-Puppe",
+        "Singular_en": "wind-up Rikku",
+        "Singular_fr": "Rikku miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ea\u30e5\u30c3\u30af",
+        "Singular_ko": "\ub958\ud06c \uc778\ud615"
+    },
+    "222": {
+        "0xID": "DE",
+        "Icon": "ui/icon/004000/004622.png",
+        "Singular_cn": "\u8ff7\u4f60\u9732\u9732",
+        "Singular_de": "Lulu-Puppe",
+        "Singular_en": "wind-up Lulu",
+        "Singular_fr": "Lulu miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30eb\u30fc\u30eb\u30fc",
+        "Singular_ko": "\ub8e8\ub8e8 \uc778\ud615"
+    },
+    "223": {
+        "0xID": "DF",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "224": {
+        "0xID": "E0",
+        "Icon": "ui/icon/004000/004624.png",
+        "Singular_cn": "\u8ff7\u4f60\u7a46\u6069\u5e03\u745e\u8fbe",
+        "Singular_de": "Moenbryda-Puppe",
+        "Singular_en": "wind-up Moenbryda",
+        "Singular_fr": "Moenbryda miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e0\u30fc\u30f3\u30d6\u30ea\u30c0",
+        "Singular_ko": "\ubb38\ube0c\ub93c\ub2e4 \uc778\ud615"
+    },
+    "225": {
+        "0xID": "E1",
+        "Icon": "ui/icon/004000/004625.png",
+        "Singular_cn": "\u5927\u9646\u5c0f\u773c",
+        "Singular_de": "Circus-Auge",
+        "Singular_en": "Continental eye",
+        "Singular_fr": "\u0152il du Cirque",
+        "Singular_ja": "\u30b3\u30f3\u30c1\u30cd\u30f3\u30bf\u30eb\u30a2\u30a4",
+        "Singular_ko": "\ub300\ub959\uae30\uc608\ub2e8\uc758 \ub208"
+    },
+    "226": {
+        "0xID": "E2",
+        "Icon": "ui/icon/004000/004626.png",
+        "Singular_cn": "\u6597\u725b\u5c0f\u72ac",
+        "Singular_de": "Bulldoggenwelpe",
+        "Singular_en": "bullpup",
+        "Singular_fr": "chiot bulldog",
+        "Singular_ja": "\u30d6\u30eb\u30d1\u30d4\u30fc",
+        "Singular_ko": "\uc544\uae30 \ubd88\ub3c5"
+    },
+    "227": {
+        "0xID": "E3",
+        "Icon": "ui/icon/004000/004627.png",
+        "Singular_cn": "\u590d\u6d3b\u5c0f\u5929\u4f7f",
+        "Singular_de": "Liebesengel",
+        "Singular_en": "angel of mercy",
+        "Singular_fr": "ange de la r\u00e9surrection",
+        "Singular_ja": "\u30ec\u30a4\u30ba\u30a8\u30f3\u30b8\u30a7\u30eb",
+        "Singular_ko": "\uc0ac\ub791\uc758 \ucc9c\uc0ac"
+    },
+    "228": {
+        "0xID": "E4",
+        "Icon": "ui/icon/004000/004628.png",
+        "Singular_cn": "\u8ff7\u4f60\u57c3\u65af\u8482\u5c3c\u5b89",
+        "Singular_de": "Estinien-Puppe",
+        "Singular_en": "wind-up Estinien",
+        "Singular_fr": "Estinien miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30b9\u30c6\u30a3\u30cb\u30a2\u30f3",
+        "Singular_ko": "\uc5d0\uc2a4\ud2f0\ub2c8\uc559 \uc778\ud615"
+    },
+    "229": {
+        "0xID": "E5",
+        "Icon": "ui/icon/004000/004629.png",
+        "Singular_cn": "\u8ff7\u4f60\u8d6b\u62c9\u65af\u74e6\u5c14\u683c",
+        "Singular_de": "Hraesvelgr-Stofftier",
+        "Singular_en": "wind-up Hraesvelgr",
+        "Singular_fr": "Hraesvelgr miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d5\u30ec\u30fc\u30b9\u30f4\u30a7\u30eb\u30b0",
+        "Singular_ko": "\ud750\ub808\uc2a4\ubca8\uadf8 \uc778\ud615"
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "ui/icon/004000/004453.png",
+        "Singular_cn": "\u51ac\u8d1d\u5229\u73a9\u5076",
+        "Singular_de": "Tomberry-Stofftier",
+        "Singular_en": "wind-up tonberry",
+        "Singular_fr": "tomberry m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c8\u30f3\u30d9\u30ea",
+        "Singular_ko": "\ud1a4\ubca0\ub9ac \uc778\ud615"
+    },
+    "230": {
+        "0xID": "E6",
+        "Icon": "ui/icon/004000/004630.png",
+        "Singular_cn": "\u5409\u5409",
+        "Singular_de": "Gigi",
+        "Singular_en": "Gigi",
+        "Singular_fr": "Gigi",
+        "Singular_ja": "\u30ae\u30ae",
+        "Singular_ko": "\uae30\uae30"
+    },
+    "231": {
+        "0xID": "E7",
+        "Icon": "ui/icon/004000/004631.png",
+        "Singular_cn": "\u4eba\u9020\u5143\u7075",
+        "Singular_de": "Anima",
+        "Singular_en": "anima",
+        "Singular_fr": "esprit synth\u00e9tique",
+        "Singular_ja": "\u4eba\u9020\u7cbe\u970a",
+        "Singular_ko": "\uc778\uc870 \uc815\ub839"
+    },
+    "232": {
+        "0xID": "E8",
+        "Icon": "ui/icon/004000/004632.png",
+        "Singular_cn": "\u8ff7\u4f60\u65af\u5361\u54c8",
+        "Singular_de": "Aufzieh-Scathach",
+        "Singular_en": "wind-up Scathach",
+        "Singular_fr": "Sc\u00e1thach miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b9\u30ab\u30a2\u30cf",
+        "Singular_ko": "\uc2a4\uce74\ud558\ud06c \uc778\ud615"
+    },
+    "233": {
+        "0xID": "E9",
+        "Icon": "ui/icon/004000/004633.png",
+        "Singular_cn": "\u8ff7\u4f60\u5c3c\u5fb7\u970d\u683c",
+        "Singular_de": "Nidhogg-Stofftier",
+        "Singular_en": "wind-up Nidhogg",
+        "Singular_fr": "Nidhogg miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30cb\u30fc\u30ba\u30d8\u30c3\u30b0",
+        "Singular_ko": "\ub2c8\ub4dc\ud638\uadf8 \uc778\ud615"
+    },
+    "234": {
+        "0xID": "EA",
+        "Icon": "ui/icon/004000/004634.png",
+        "Singular_cn": "\u5730\u72f1\u5c0f\u72ac",
+        "Singular_de": "H\u00f6llenhundwelpe",
+        "Singular_en": "hellpup",
+        "Singular_fr": "chiot des enfers",
+        "Singular_ja": "\u30d8\u30eb\u30d1\u30d4\u30fc",
+        "Singular_ko": "\uc9c0\uc625\uac15\uc544\uc9c0"
+    },
+    "235": {
+        "0xID": "EB",
+        "Icon": "ui/icon/004000/004636.png",
+        "Singular_cn": "\u8ff7\u4f60\u5965\u5c14\u00b7\u8fea",
+        "Singular_de": "Aufzieh-Ohl Deeh",
+        "Singular_en": "wind-up Ohl Deeh",
+        "Singular_fr": "Ohl Deeh miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30eb\u30fb\u30c7\u30a3\u30fc",
+        "Singular_ko": "\uc62c \ub514 \uc778\ud615"
+    },
+    "236": {
+        "0xID": "EC",
+        "Icon": "ui/icon/004000/004637.png",
+        "Singular_cn": "\u53d1\u6761\u6708\u4eae",
+        "Singular_de": "portabl[a] Studiomond",
+        "Singular_en": "wind-up moon",
+        "Singular_fr": "lune m\u00e9canique",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30e0\u30fc\u30f3",
+        "Singular_ko": "\ud0dc\uc5fd \ub2ec"
+    },
+    "237": {
+        "0xID": "ED",
+        "Icon": "ui/icon/004000/004638.png",
+        "Singular_cn": "\u5de7\u513f\u6d77\u9646\u884c\u9e1f",
+        "Singular_de": "schiffbr\u00fcchig[a] Chocobo-K\u00fcken",
+        "Singular_en": "castaway chocobo chick",
+        "Singular_fr": "b\u00e9b\u00e9 chocobo des mers",
+        "Singular_ja": "\u6d77\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ubc14\ub2e4 \ucd08\ucf54\ucd08\ucf54\ubcf4"
+    },
+    "238": {
+        "0xID": "EE",
+        "Icon": "ui/icon/004000/004639.png",
+        "Singular_cn": "\u8ff7\u4f60\u5df4\u5179",
+        "Singular_de": "Bartz-Puppe",
+        "Singular_en": "wind-up Bartz",
+        "Singular_fr": "Bartz miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d0\u30c3\u30c4",
+        "Singular_ko": "\ubc14\uce20 \uc778\ud615"
+    },
+    "239": {
+        "0xID": "EF",
+        "Icon": "ui/icon/004000/004640.png",
+        "Singular_cn": "\u8ff7\u4f60\u8d64\u9b54\u6cd5\u5e08",
+        "Singular_de": "Rotmagier-Puppe",
+        "Singular_en": "wind-up red mage",
+        "Singular_fr": "mage rouge m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ec\u30c3\u30c9\u30e1\u30a4\u30b8",
+        "Singular_ko": "\uc801\ub9c8\ub3c4\uc0ac \uc778\ud615"
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "ui/icon/004000/004420.png",
+        "Singular_cn": "\u7cbe\u91d1\u5e7c\u9f9f",
+        "Singular_de": "Zwergschildkr\u00f6te",
+        "Singular_en": "tiny tortoise",
+        "Singular_fr": "tortue naine",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30a2\u30c0\u30de\u30f3\u30bf\u30b9",
+        "Singular_ko": "\uaf2c\ub9c8 \uae08\uac15\uac70\ubd81"
+    },
+    "240": {
+        "0xID": "F0",
+        "Icon": "ui/icon/004000/004635.png",
+        "Singular_cn": "\u5996\u7cbe\u5c0f\u72ac",
+        "Singular_de": "Feenhundwelpe",
+        "Singular_en": "faepup",
+        "Singular_fr": "chiot fantasmagorique",
+        "Singular_ja": "\u30d5\u30a7\u30a4\u30d1\u30d4\u30fc",
+        "Singular_ko": "\uc694\uc815\uac15\uc544\uc9c0"
+    },
+    "241": {
+        "0xID": "F1",
+        "Icon": "ui/icon/004000/004641.png",
+        "Singular_cn": "\u736d\u736d",
+        "Singular_de": "obskur[a] Otter",
+        "Singular_en": "odder otter",
+        "Singular_fr": "loutre choute",
+        "Singular_ja": "\u30a6\u30bd\u30a6\u30bd",
+        "Singular_ko": "\ub2ec\ub2ec\uc774"
+    },
+    "242": {
+        "0xID": "F2",
+        "Icon": "ui/icon/004000/004642.png",
+        "Singular_cn": "\u5c0f\u5996\u72d0",
+        "Singular_de": "Fuchswelpe",
+        "Singular_en": "fox kit",
+        "Singular_fr": "b\u00e9b\u00e9 renard",
+        "Singular_ja": "\u8c46\u5996\u72d0",
+        "Singular_ko": "\ucf69\uc54c\uc5ec\uc6b0"
+    },
+    "243": {
+        "0xID": "F3",
+        "Icon": "ui/icon/004000/004643.png",
+        "Singular_cn": "\u864e\u6591\u6b21\u90ce",
+        "Singular_de": "Tora-jiro",
+        "Singular_en": "Tora-jiro",
+        "Singular_fr": "Tora-jiro",
+        "Singular_ja": "\u30c8\u30e9\u30b8\u30ed\u30a6",
+        "Singular_ko": "\uce58\uc988\ub0e5"
+    },
+    "244": {
+        "0xID": "F4",
+        "Icon": "ui/icon/004000/004644.png",
+        "Singular_cn": "\u9f99\u4e4b\u5b59",
+        "Singular_de": "winzig[a] Tatsunoko",
+        "Singular_en": "tiny tatsunoko",
+        "Singular_fr": "hippocampoupon",
+        "Singular_ja": "\u30bf\u30c4\u30de\u30b4",
+        "Singular_ko": "\ud574\ub9dd\uc544\uc9c0"
+    },
+    "245": {
+        "0xID": "F5",
+        "Icon": "ui/icon/004000/004645.png",
+        "Singular_cn": "\u523a\u7403\u7403",
+        "Singular_de": "Igelbomber",
+        "Singular_en": "bombfish",
+        "Singular_fr": "poisson-bombo",
+        "Singular_ja": "\u30cf\u30ea\u30bb\u30f3\u30dc\u30e0",
+        "Singular_ko": "\uac00\uc2dc\ubd04"
+    },
+    "246": {
+        "0xID": "F6",
+        "Icon": "ui/icon/004000/004646.png",
+        "Singular_cn": "\u5206\u798f",
+        "Singular_de": "Bom Boko",
+        "Singular_en": "Bom Boko",
+        "Singular_fr": "Bunbuku",
+        "Singular_ja": "\u30d6\u30f3\u30d6\u30af",
+        "Singular_ko": "\ubd04\ubcf4\ucf54"
+    },
+    "247": {
+        "0xID": "F7",
+        "Icon": "ui/icon/004000/004647.png",
+        "Singular_cn": "\u65c5\u96c0\u513f",
+        "Singular_de": "Stra\u00dfenspatz",
+        "Singular_en": "road sparrow",
+        "Singular_fr": "moineau voyageur",
+        "Singular_ja": "\u30bf\u30d3\u30b9\u30ba\u30e1",
+        "Singular_ko": "\uae38\ucc38\uc0c8"
+    },
+    "248": {
+        "0xID": "F8",
+        "Icon": "ui/icon/004000/004648.png",
+        "Singular_cn": "\u8ff7\u4f60\u8389\u745f",
+        "Singular_de": "Lyse-Puppe",
+        "Singular_en": "wind-up Lyse",
+        "Singular_fr": "Lyse miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ea\u30bb",
+        "Singular_ko": "\ub9ac\uc138 \uc778\ud615"
+    },
+    "249": {
+        "0xID": "F9",
+        "Icon": "ui/icon/004000/004649.png",
+        "Singular_cn": "\u65b0\u578b\u8ff7\u4f60\u5915\u96fe",
+        "Singular_de": "neu[a] Yugiri-Puppe",
+        "Singular_en": "dress-up Yugiri",
+        "Singular_fr": "Yugiri miniature revisit\u00e9e",
+        "Singular_ja": "\u30cb\u30e5\u30fc\u30fb\u30e6\u30a6\u30ae\u30ea",
+        "Singular_ko": "\uc2e0 \uc720\uc6b0\uae30\ub9ac"
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/004000/004421.png",
+        "Singular_cn": "\u76d7\u9f99\u5c0f\u5b9d",
+        "Singular_de": "Baby-Raptor",
+        "Singular_en": "baby raptor",
+        "Singular_fr": "b\u00e9b\u00e9 raptor",
+        "Singular_ja": "\u30d9\u30a4\u30d3\u30fc\u30e9\u30d7\u30c8\u30eb",
+        "Singular_ko": "\uc544\uae30 \ub78d\ud1a0\ub974"
+    },
+    "250": {
+        "0xID": "FA",
+        "Icon": "ui/icon/004000/004650.png",
+        "Singular_cn": "\u8ff7\u4f60\u8c6a\u96ea",
+        "Singular_de": "Gosetsu-Puppe",
+        "Singular_en": "wind-up Gosetsu",
+        "Singular_fr": "Gosetsu miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b4\u30a6\u30bb\u30c4",
+        "Singular_ko": "\uace0\uc6b0\uc138\uce20 \uc778\ud615"
+    },
+    "251": {
+        "0xID": "FB",
+        "Icon": "ui/icon/004000/004651.png",
+        "Singular_cn": "\u8ff7\u4f60\u591c\u9732",
+        "Singular_de": "Yotsuyu-Puppe",
+        "Singular_en": "wind-up Yotsuyu",
+        "Singular_fr": "Yotsuyu miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e8\u30c4\u30e6",
+        "Singular_ko": "\uc694\uce20\uc720 \uc778\ud615"
+    },
+    "252": {
+        "0xID": "FC",
+        "Icon": "ui/icon/004000/004652.png",
+        "Singular_cn": "\u8ff7\u4f60\u683c\u6797\u74e6\u7279",
+        "Singular_de": "Aufzieh-Grynewaht",
+        "Singular_en": "mock-up Grynewaht",
+        "Singular_fr": "Grynewaht miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b0\u30ea\u30fc\u30f3\u30ef\u30fc\u30c8",
+        "Singular_ko": "\uadf8\ub940\ubc14\ud2b8 \uc778\ud615"
+    },
+    "253": {
+        "0xID": "FD",
+        "Icon": "ui/icon/004000/004653.png",
+        "Singular_cn": "\u8ff7\u4f60\u9cb6\u9c7c\u7cbe",
+        "Singular_de": "Aufzieh-Namazuo",
+        "Singular_en": "wind-up Namazu",
+        "Singular_fr": "Namazu m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ca\u30de\u30ba\u30aa",
+        "Singular_ko": "\ub098\ub9c8\uc988\uc624 \uc778\ud615"
+    },
+    "254": {
+        "0xID": "FE",
+        "Icon": "ui/icon/004000/004654.png",
+        "Singular_cn": "\u4f0a\u6c83\u6069\u73a9\u5076",
+        "Singular_de": "Ivon Coeurlfaust-Puppe",
+        "Singular_en": "Ivon Coeurlfist doll",
+        "Singular_fr": "poup\u00e9e Ivon le Coeurl",
+        "Singular_ja": "\u30a4\u30f4\u30a9\u30f3\u4eba\u5f62",
+        "Singular_ko": "\uc774\ubcf8 \uc778\ud615"
+    },
+    "255": {
+        "0xID": "FF",
+        "Icon": "ui/icon/004000/004655.png",
+        "Singular_cn": "\u8ff7\u4f60\u5947\u7f8e\u62c9",
+        "Singular_de": "Aufzieh-Chim\u00e4ra",
+        "Singular_en": "wind-up chimera",
+        "Singular_fr": "chim\u00e8re m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30ad\u30e1\u30e9",
+        "Singular_ko": "\ud0a4\uba54\ub77c \uc778\ud615"
+    },
+    "256": {
+        "0xID": "100",
+        "Icon": "ui/icon/004000/004656.png",
+        "Singular_cn": "\u8ff7\u4f60\u98df\u8089\u8005",
+        "Singular_de": "Aufzieh-Fleischfresser",
+        "Singular_en": "wind-up meateater",
+        "Singular_fr": "croque-viande m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30df\u30fc\u30c8\u30a4\u30fc\u30bf\u30fc",
+        "Singular_ko": "\uace0\uae30\ub0e0\ub0e0\uc774 \uc778\ud615"
+    },
+    "257": {
+        "0xID": "101",
+        "Icon": "ui/icon/004000/004657.png",
+        "Singular_cn": "\u9b54\u5bfc\u590d\u4ec7\u8005\u8ffd\u8e2a\u578b",
+        "Singular_de": "A-R\u00e4cher der XII. Legion",
+        "Singular_en": "magitek avenger F1",
+        "Singular_fr": "vengeur magitek S1",
+        "Singular_ja": "\u9b54\u5c0e\u30a2\u30f4\u30a7\u30f3\u30b8\u30e3\u30fc\u8ffd\u5f93\u578b",
+        "Singular_ko": "\ub9c8\ub3c4 \uc5b4\ubca4\uc800 \ucd94\uc885\ud615"
+    },
+    "258": {
+        "0xID": "102",
+        "Icon": "ui/icon/004000/004658.png",
+        "Singular_cn": "\u5409\u591a",
+        "Singular_de": "Ghido",
+        "Singular_en": "Ghido",
+        "Singular_fr": "Ghido",
+        "Singular_ja": "\u30ae\u30fc\u30c9",
+        "Singular_ko": "\uae30\ub4dc"
+    },
+    "259": {
+        "0xID": "103",
+        "Icon": "ui/icon/004000/004659.png",
+        "Singular_cn": "\u8ff7\u4f60\u827e\u514b\u65af\u8fea\u53f8",
+        "Singular_de": "Aufzieh-Exdeath",
+        "Singular_en": "wind-up Exdeath",
+        "Singular_fr": "Exdeath miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30af\u30b9\u30c7\u30b9",
+        "Singular_ko": "\uc5d1\uc2a4\ub370\uc2a4 \uc778\ud615"
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/004000/004422.png",
+        "Singular_cn": "\u5c0f\u8759\u8760",
+        "Singular_de": "Baby-Fledermaus",
+        "Singular_en": "baby bat",
+        "Singular_fr": "b\u00e9b\u00e9 chauve-souris",
+        "Singular_ja": "\u30d9\u30a4\u30d3\u30fc\u30d0\u30c3\u30c8",
+        "Singular_ko": "\uc544\uae30 \ubc15\uc950"
+    },
+    "260": {
+        "0xID": "104",
+        "Icon": "ui/icon/004000/004660.png",
+        "Singular_cn": "\u8ff7\u4f60\u5e93\u6d1b",
+        "Singular_de": "Khloe-Puppe",
+        "Singular_en": "wind-up Khloe",
+        "Singular_fr": "Khloe miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30af\u30ed",
+        "Singular_ko": "\ucfe0\ub85c \uc778\ud615"
+    },
+    "261": {
+        "0xID": "105",
+        "Icon": "ui/icon/004000/004661.png",
+        "Singular_cn": "\u987b\u4f50\u4e4b\u7537\u4e4b\u5f62",
+        "Singular_de": "Susano-Puppe",
+        "Singular_en": "wind-up Susano",
+        "Singular_fr": "petit Susano",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b9\u30b5\u30ce\u30aa",
+        "Singular_ko": "\uc2a4\uc0ac\ub178\uc624 \uc778\ud615"
+    },
+    "262": {
+        "0xID": "106",
+        "Icon": "ui/icon/004000/004662.png",
+        "Singular_cn": "\u5409\u7965\u5929\u5973\u4e4b\u5f62",
+        "Singular_de": "Lakshmi-Puppe",
+        "Singular_en": "wind-up Lakshmi",
+        "Singular_fr": "petite Lakshmi",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e9\u30af\u30b7\u30e5\u30df",
+        "Singular_ko": "\ub77d\uc288\ubbf8 \uc778\ud615"
+    },
+    "263": {
+        "0xID": "107",
+        "Icon": "ui/icon/004000/004663.png",
+        "Singular_cn": "\u4ffe\u65af\u9ea6\u4e4b\u5f62",
+        "Singular_de": "Aufzieh-Bismarck",
+        "Singular_en": "wind-up Bismarck",
+        "Singular_fr": "petit Bismarck",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d3\u30b9\u30de\u30eb\u30af",
+        "Singular_ko": "\ube44\uc2a4\ub9c8\ub974\ud06c \uc778\ud615"
+    },
+    "264": {
+        "0xID": "108",
+        "Icon": "ui/icon/004000/004664.png",
+        "Singular_cn": "\u8ff7\u4f60\u98de\u71d5",
+        "Singular_de": "Hien-Puppe",
+        "Singular_en": "wind-up Hien",
+        "Singular_fr": "Hien miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d2\u30a8\u30f3",
+        "Singular_ko": "\ud788\uc5d4 \uc778\ud615"
+    },
+    "265": {
+        "0xID": "109",
+        "Icon": "ui/icon/004000/004665.png",
+        "Singular_cn": "\u7f57\u6ce2\u90a3\u4e4b\u5f62",
+        "Singular_de": "Mini-Ravana",
+        "Singular_en": "wind-up Ravana",
+        "Singular_fr": "petit Ravana",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e9\u30fc\u30f4\u30a1\u30ca",
+        "Singular_ko": "\ub77c\ubc14\ub098 \uc778\ud615"
+    },
+    "266": {
+        "0xID": "10A",
+        "Icon": "ui/icon/004000/004666.png",
+        "Singular_cn": "\u7532\u4eba\u73a9\u5076",
+        "Singular_de": "Kojin-Puppe",
+        "Singular_en": "wind-up Kojin",
+        "Singular_fr": "Kojin m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b3\u30a6\u30b8\u30f3",
+        "Singular_ko": "\ucf54\uc6b0\uc9c4 \uc778\ud615"
+    },
+    "267": {
+        "0xID": "10B",
+        "Icon": "ui/icon/004000/004667.png",
+        "Singular_cn": "\u8c46\u8c46\u67f4",
+        "Singular_de": "Mameshiba",
+        "Singular_en": "mameshiba",
+        "Singular_fr": "mame shiba",
+        "Singular_ja": "\u8c46\u67f4",
+        "Singular_ko": "\ucf69\uc54c\uc2dc\ubc14"
+    },
+    "268": {
+        "0xID": "10C",
+        "Icon": "ui/icon/004000/004668.png",
+        "Singular_cn": "\u5929\u72d7\u73a9\u5076",
+        "Singular_de": "Tengu-Puppe",
+        "Singular_en": "tengu doll",
+        "Singular_fr": "poup\u00e9e Tengu",
+        "Singular_ja": "\u5929\u72d7\u4eba\u5f62",
+        "Singular_ko": "\ud150\uad6c \uc778\ud615"
+    },
+    "269": {
+        "0xID": "10D",
+        "Icon": "ui/icon/004000/004669.png",
+        "Singular_cn": "\u8c61\u9b54\u4eba\u5076",
+        "Singular_de": "Matanga-Puppe",
+        "Singular_en": "wind-up Matanga",
+        "Singular_fr": "Matanga m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30de\u30bf\u30f3\u30ac",
+        "Singular_ko": "\ub9c8\ud0d5\uac00 \uc778\ud615"
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/004000/004423.png",
+        "Singular_cn": "\u6811\u82d7\u7cbe",
+        "Singular_de": "Mini-Knolle",
+        "Singular_en": "tiny bulb",
+        "Singular_fr": "bulbe miniature",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30d0\u30eb\u30d6",
+        "Singular_ko": "\uaf2c\ub9c8 \ubb18\ubaa9"
+    },
+    "270": {
+        "0xID": "10E",
+        "Icon": "ui/icon/004000/004670.png",
+        "Singular_cn": "\u8ff7\u4f60\u62c9\u59c6\u8428",
+        "Singular_de": "Ramza-Puppe",
+        "Singular_en": "wind-up Ramza",
+        "Singular_fr": "Ramza miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e9\u30e0\u30b6",
+        "Singular_ko": "\ub78c\uc790 \uc778\ud615"
+    },
+    "271": {
+        "0xID": "10F",
+        "Icon": "ui/icon/004000/004671.png",
+        "Singular_cn": "\u5c0f\u6811\u888b\u718a",
+        "Singular_de": "Koala-B\u00e4rchen",
+        "Singular_en": "koala joey",
+        "Singular_fr": "b\u00e9b\u00e9 koala",
+        "Singular_ja": "\u5b50\u30b3\u30a2\u30e9",
+        "Singular_ko": "\uaf2c\uc54c\ub77c"
+    },
+    "272": {
+        "0xID": "110",
+        "Icon": "ui/icon/004000/004672.png",
+        "Singular_cn": "\u6912\u76d0\u6d77\u8c79",
+        "Singular_de": "Gomashio-Seehund",
+        "Singular_en": "salt & pepper seal",
+        "Singular_fr": "b\u00e9b\u00e9 phoque",
+        "Singular_ja": "\u30b4\u30de\u5869\u30a2\u30b6\u30e9\u30b7",
+        "Singular_ko": "\uae68\uc54c\ubb3c\ubc94"
+    },
+    "273": {
+        "0xID": "111",
+        "Icon": "ui/icon/004000/004673.png",
+        "Singular_cn": "\u516d\u89d2\u5c0f\u8788\u8788",
+        "Singular_de": "Axolotl-Molch",
+        "Singular_en": "axolotl eft",
+        "Singular_fr": "axolotl",
+        "Singular_ja": "\u30a6\u30fc\u30d1\u30fc\u30eb\u30fc\u30d1\u30fc",
+        "Singular_ko": "\uc6b0\ud30c\ub8e8\ud30c"
+    },
+    "274": {
+        "0xID": "112",
+        "Icon": "ui/icon/004000/004674.png",
+        "Singular_cn": "\u4f0a\u514b\u897f\u7fc1\u73a9\u5076",
+        "Singular_de": "Ixion-Puppe",
+        "Singular_en": "wind-up Ixion",
+        "Singular_fr": "petit Ixion",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a4\u30af\u30b7\u30aa\u30f3",
+        "Singular_ko": "\uc775\uc2dc\uc628 \uc778\ud615"
+    },
+    "275": {
+        "0xID": "113",
+        "Icon": "ui/icon/004000/004675.png",
+        "Singular_cn": "\u795e\u9f99\u73a9\u5076",
+        "Singular_de": "Mini-Shinryu",
+        "Singular_en": "wind-up Shinryu",
+        "Singular_fr": "mini-Shinryu",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u795e\u9f8d",
+        "Singular_ko": "\uc2e0\ub8e1 \uc778\ud615"
+    },
+    "276": {
+        "0xID": "114",
+        "Icon": "ui/icon/004000/004676.png",
+        "Singular_cn": "\u65b0\u578b\u8ff7\u4f60\u52b3\u73ed",
+        "Singular_de": "neu[a] Raubahn-Puppe",
+        "Singular_en": "dress-up Raubahn",
+        "Singular_fr": "nouveau Raubahn miniature",
+        "Singular_ja": "\u30cb\u30e5\u30fc\u30fb\u30e9\u30a6\u30d0\u30fc\u30f3",
+        "Singular_ko": "\uc2e0 \ub77c\uc6b0\ubc18"
+    },
+    "277": {
+        "0xID": "115",
+        "Icon": "ui/icon/004000/004677.png",
+        "Singular_cn": "\u963f\u96be\u9640\u73a9\u5076",
+        "Singular_de": "Aufzieh-Ananta",
+        "Singular_en": "wind-up Ananta",
+        "Singular_fr": "poup\u00e9e ananta",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30ca\u30f3\u30bf",
+        "Singular_ko": "\uc544\ub09c\ud0c0 \uc778\ud615"
+    },
+    "278": {
+        "0xID": "116",
+        "Icon": "ui/icon/004000/004678.png",
+        "Singular_cn": "\u8ff7\u4f60\u83ab\u827e\u77f3\u50cf",
+        "Singular_de": "Moai-Statuette",
+        "Singular_en": "private moai",
+        "Singular_fr": "mini moai",
+        "Singular_ja": "\u30df\u30cb\u30e2\u30a2\u30a4",
+        "Singular_ko": "\uaf2c\ub9c8 \ubaa8\uc544\uc774"
+    },
+    "279": {
+        "0xID": "117",
+        "Icon": "ui/icon/004000/004679.png",
+        "Singular_cn": "\u767d\u9f2c",
+        "Singular_de": "Schneewiesel",
+        "Singular_en": "white whittret",
+        "Singular_fr": "fouine blanche",
+        "Singular_ja": "\u30b7\u30ed\u30a4\u30bf\u30c1",
+        "Singular_ko": "\ud770\uc871\uc81c\ube44"
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/004000/004424.png",
+        "Singular_cn": "\u7070\u5c18\u5154",
+        "Singular_de": "Staubh\u00e4schen",
+        "Singular_en": "dust bunny",
+        "Singular_fr": "lapin mutin",
+        "Singular_ja": "\u30c0\u30b9\u30c8\u30d0\u30cb\u30fc",
+        "Singular_ko": "\uba3c\uc9c0\ud1a0\ub07c"
+    },
+    "280": {
+        "0xID": "118",
+        "Icon": "ui/icon/004000/004680.png",
+        "Singular_cn": "\u5c0f\u4e11\u9884\u8a00\u86cb",
+        "Singular_de": "Joker-Ei",
+        "Singular_en": "motley egg",
+        "Singular_fr": "\u0153uf bouffon",
+        "Singular_ja": "\u30b8\u30e7\u30fc\u30ab\u30fc\u30a8\u30c3\u30b0",
+        "Singular_ko": "\uc5b4\ub9bf\uad11\ub300 \uc54c"
+    },
+    "281": {
+        "0xID": "119",
+        "Icon": "ui/icon/004000/004681.png",
+        "Singular_cn": "\u8ff7\u4f60\u51ef\u592b\u5361",
+        "Singular_de": "Kefka-Puppe",
+        "Singular_en": "wind-up Kefka",
+        "Singular_fr": "Kefka miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b1\u30d5\u30ab",
+        "Singular_ko": "\ucf00\ud504\uce74 \uc778\ud615"
+    },
+    "282": {
+        "0xID": "11A",
+        "Icon": "ui/icon/004000/004682.png",
+        "Singular_cn": "\u8ff7\u4f60\u739b\u683c\u5948",
+        "Singular_de": "Magnai-Puppe",
+        "Singular_en": "wind-up Magnai",
+        "Singular_fr": "Magnai miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30de\u30b0\u30ca\u30a4",
+        "Singular_ko": "\ub9c8\uadf8\ub098\uc774 \uc778\ud615"
+    },
+    "283": {
+        "0xID": "11B",
+        "Icon": "ui/icon/004000/004683.png",
+        "Singular_cn": "\u821e\u6d77\u6708",
+        "Singular_de": "Aurelia-Polyp",
+        "Singular_en": "aurelia polyp",
+        "Singular_fr": "aur\u00e9lie polype",
+        "Singular_ja": "\u821e\u6d77\u6708",
+        "Singular_ko": "\ud574\ud30c\ub9c1"
+    },
+    "284": {
+        "0xID": "11C",
+        "Icon": "ui/icon/004000/004684.png",
+        "Singular_cn": "\u767d\u5c0f\u864e",
+        "Singular_de": "Byakko-Jungtier",
+        "Singular_en": "Byakko cub",
+        "Singular_fr": "b\u00e9b\u00e9 Byakko",
+        "Singular_ja": "\u767d\u5c0f\u864e",
+        "Singular_ko": "\ubc31\ud638\ub791"
+    },
+    "285": {
+        "0xID": "11D",
+        "Icon": "ui/icon/004000/004685.png",
+        "Singular_cn": "\u8ff7\u4f60\u6cd5\u592b\u7eb3",
+        "Singular_de": "Mini-Fafnir",
+        "Singular_en": "wind-up Fafnir",
+        "Singular_fr": "Fafnir m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d5\u30a1\u30f4\u30cb\u30eb",
+        "Singular_ko": "\ud30c\ud504\ub2c8\ub974 \uc778\ud615"
+    },
+    "286": {
+        "0xID": "11E",
+        "Icon": "ui/icon/004000/004686.png",
+        "Singular_cn": "\u7c73\u65af\u62c9\u4eba\u5076",
+        "Singular_de": "Mithra-Puppe",
+        "Singular_en": "wind-up Mithra",
+        "Singular_fr": "poup\u00e9e mithra",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30df\u30b9\u30e9",
+        "Singular_ko": "\ubbf8\uc2a4\ub77c \uc778\ud615"
+    },
+    "287": {
+        "0xID": "11F",
+        "Icon": "ui/icon/004000/004687.png",
+        "Singular_cn": "\u5e38\u98ce\u738b\u5b50",
+        "Singular_de": "Prinz von Anemos",
+        "Singular_en": "the Prince of Anemos",
+        "Singular_fr": "Prince d'Anemos",
+        "Singular_ja": "\u30d7\u30ea\u30f3\u30b9\u30fb\u30aa\u30d6\u30fb\u30a2\u30cd\u30e2\u30b9",
+        "Singular_ko": "\uc544\ub124\ubaa8\uc2a4 \uc655\uc790"
+    },
+    "288": {
+        "0xID": "120",
+        "Icon": "ui/icon/004000/004688.png",
+        "Singular_cn": "\u72db\u72ac",
+        "Singular_de": "Komainu",
+        "Singular_en": "komainu",
+        "Singular_fr": "petit Komainu",
+        "Singular_ja": "\u72db\u72ac",
+        "Singular_ko": "\ud574\uce58"
+    },
+    "289": {
+        "0xID": "121",
+        "Icon": "ui/icon/004000/004689.png",
+        "Singular_cn": "\u91d1\u9cb6",
+        "Singular_de": "Goldbartel",
+        "Singular_en": "the Gold Whisker",
+        "Singular_fr": "Namazu nain dor\u00e9",
+        "Singular_ja": "\u30ca\u30de\u30ad\u30f3",
+        "Singular_ko": "\uae08\ub9c8\uc988\uc624"
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/004000/004425.png",
+        "Singular_cn": "\u65e0\u5934\u9a91\u58eb\u6a21\u578b",
+        "Singular_de": "mechanisch[a] Dullahan",
+        "Singular_en": "wind-up dullahan",
+        "Singular_fr": "dullahan nain",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c7\u30e5\u30e9\u30cf\u30f3",
+        "Singular_ko": "\ub458\ub77c\ud55c \uc778\ud615"
+    },
+    "290": {
+        "0xID": "122",
+        "Icon": "ui/icon/004000/004701.png",
+        "Singular_cn": "\u9f50\u5929\u5c0f\u5723",
+        "Singular_de": "Affenk\u00f6nig",
+        "Singular_en": "monkey king",
+        "Singular_fr": "petit Qitian Dasheng",
+        "Singular_ja": "\u30bb\u30a4\u30c6\u30f3\u30b7\u30e7\u30a6\u30bb\u30a4",
+        "Singular_ko": "\uc81c\ucc9c\ub300\uc131"
+    },
+    "291": {
+        "0xID": "123",
+        "Icon": "ui/icon/004000/004700.png",
+        "Singular_cn": "\u53d1\u6761\u63d0\u706f",
+        "Singular_de": "Uhrwerk-Laterne",
+        "Singular_en": "clockwork lantern",
+        "Singular_fr": "lanterne m\u00e9canique",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30e9\u30f3\u30bf\u30f3",
+        "Singular_ko": "\ud0dc\uc5fd \ucd08\ub871"
+    },
+    "292": {
+        "0xID": "124",
+        "Icon": "ui/icon/004000/004695.png",
+        "Singular_cn": "\u4f1e\u8725",
+        "Singular_de": "Kragenechse",
+        "Singular_en": "frilled dragon",
+        "Singular_fr": "L\u00e9zard \u00e0 collerette",
+        "Singular_ja": "\u30af\u30e9\u30df\u30c9\u30b5\u30a6\u30eb\u30b9",
+        "Singular_ko": "\ud074\ub77c\ubbf8\ub3c4\uc0ac\uc6b0\ub8e8\uc2a4"
+    },
+    "293": {
+        "0xID": "125",
+        "Icon": "ui/icon/004000/004697.png",
+        "Singular_cn": "\u8ff7\u4f60\u5176\u65e5\u5a1c",
+        "Singular_de": "Cirina-Puppe",
+        "Singular_en": "wind-up Cirina",
+        "Singular_fr": "Cirina miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b7\u30ea\u30ca",
+        "Singular_ko": "\uc2dc\ub9ac\ub098 \uc778\ud615"
+    },
+    "294": {
+        "0xID": "126",
+        "Icon": "ui/icon/004000/004696.png",
+        "Singular_cn": "\u8ff7\u4f60\u7eb1\u90fd",
+        "Singular_de": "Sadu-Puppe",
+        "Singular_en": "wind-up Sadu",
+        "Singular_fr": "Sadu miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b5\u30c9\u30a5",
+        "Singular_ko": "\uc0ac\ub450 \uc778\ud615"
+    },
+    "295": {
+        "0xID": "127",
+        "Icon": "ui/icon/004000/004690.png",
+        "Singular_cn": "\u51ef\u897f\u5e7c\u82d7",
+        "Singular_de": "Cassie-Knolle",
+        "Singular_en": "copycat bulb",
+        "Singular_fr": "pousse de Cassie",
+        "Singular_ja": "\u30ad\u30e3\u30b7\u30fc\u30d0\u30eb\u30d6",
+        "Singular_ko": "\uce90\uc2dc \uc54c\ubfcc\ub9ac"
+    },
+    "296": {
+        "0xID": "128",
+        "Icon": "ui/icon/004000/004691.png",
+        "Singular_cn": "\u5854\u9c81\u5854\u9c81\u4eba\u5076",
+        "Singular_de": "Tarutaru-Puppe",
+        "Singular_en": "wind-up Tarutaru",
+        "Singular_fr": "poup\u00e9e tarutaru",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30bf\u30eb\u30bf\u30eb",
+        "Singular_ko": "\ud0c0\ub8e8\ud0c0\ub8e8 \uc778\ud615"
+    },
+    "297": {
+        "0xID": "129",
+        "Icon": "ui/icon/004000/004699.png",
+        "Singular_cn": "\u6708\u8bfb\u4e4b\u5f62",
+        "Singular_de": "Tsukuyomi-Puppe",
+        "Singular_en": "wind-up Tsukuyomi",
+        "Singular_fr": "poup\u00e9e Tsukuyomi",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c4\u30af\u30e8\u30df",
+        "Singular_ko": "\uce20\ucfe0\uc694\ubbf8 \uc778\ud615"
+    },
+    "298": {
+        "0xID": "12A",
+        "Icon": "ui/icon/004000/004698.png",
+        "Singular_cn": "\u8ff7\u4f60\u7199\u6d1b",
+        "Singular_de": "Zhloe-Puppe",
+        "Singular_en": "wind-up Zhloe",
+        "Singular_fr": "Zhloe miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b7\u30ed",
+        "Singular_ko": "\uc2dc\ub85c \uc778\ud615"
+    },
+    "299": {
+        "0xID": "12B",
+        "Icon": "ui/icon/004000/004702.png",
+        "Singular_cn": "\u52b3\u52a8\u516b\u53f7",
+        "Singular_de": "Automat Nr. 8",
+        "Singular_en": "Construct 8",
+        "Singular_fr": "B\u00e2tisseur n\u00b08",
+        "Singular_ja": "\u52b4\u50cd\u516b\u53f7",
+        "Singular_ko": "\ub178\ub3d9 8\ud638"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/004000/004402.png",
+        "Singular_cn": "\u5de7\u513f\u9646\u884c\u9e1f",
+        "Singular_de": "Chocobo-K\u00fcken",
+        "Singular_en": "wayward hatchling",
+        "Singular_fr": "b\u00e9b\u00e9 chocobo",
+        "Singular_ja": "\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ucd08\ucf54\ucd08\ucf54\ubcf4"
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/004000/004426.png",
+        "Singular_cn": "\u5de8\u874c\u86aa",
+        "Singular_de": "Kaulquappe",
+        "Singular_en": "gigantpole",
+        "Singular_fr": "t\u00eatard g\u00e9ant",
+        "Singular_ja": "\u30ae\u30ac\u30f3\u30b8\u30e3\u30af\u30b7",
+        "Singular_ko": "\uc655\uc62c\ucc59\uc774"
+    },
+    "300": {
+        "0xID": "12C",
+        "Icon": "ui/icon/004000/004692.png",
+        "Singular_cn": "\u827e\u9732\u732b",
+        "Singular_de": "Felyne",
+        "Singular_en": "Palico",
+        "Singular_fr": "Felyne",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30fc",
+        "Singular_ko": "\uc544\uc774\ub8e8"
+    },
+    "301": {
+        "0xID": "12D",
+        "Icon": "ui/icon/004000/004693.png",
+        "Singular_cn": "\u5657\u5431\u732a",
+        "Singular_de": "Poogie",
+        "Singular_en": "Poogie",
+        "Singular_fr": "Poogie",
+        "Singular_ja": "\u30d7\u30fc\u30ae\u30fc",
+        "Singular_ko": "\ud478\uae30"
+    },
+    "302": {
+        "0xID": "12E",
+        "Icon": "ui/icon/004000/004694.png",
+        "Singular_cn": "\u796d\u793c\u9cb6\u9c7c\u7cbe",
+        "Singular_de": "Festival-Namazuo",
+        "Singular_en": "attendee #777",
+        "Singular_fr": "Namazu nain festif",
+        "Singular_ja": "\u796d\u30ca\u30de\u30ba\u30aa",
+        "Singular_ko": "\ucd95\uc81c \ub098\ub9c8\uc988\uc624"
+    },
+    "303": {
+        "0xID": "12F",
+        "Icon": "ui/icon/004000/004703.png",
+        "Singular_cn": "\u6731\u5b54\u96c0",
+        "Singular_de": "Feuerpfau",
+        "Singular_en": "scarlet peacock",
+        "Singular_fr": "paonne vermillon",
+        "Singular_ja": "\u6731\u5b54\u96c0",
+        "Singular_ko": "\uc8fc\uacf5\uc791"
+    },
+    "304": {
+        "0xID": "130",
+        "Icon": "ui/icon/004000/004704.png",
+        "Singular_cn": "\u8ff7\u4f60\u963f\u5c14\u6cd5",
+        "Singular_de": "Alpha-Puppe",
+        "Singular_en": "wind-up Alpha",
+        "Singular_fr": "Alpha m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30eb\u30d5\u30a1",
+        "Singular_ko": "\uc54c\ud30c \uc778\ud615"
+    },
+    "305": {
+        "0xID": "131",
+        "Icon": "ui/icon/004000/004705.png",
+        "Singular_cn": "\u8ff7\u4f60\u6b27\u7c73\u8304",
+        "Singular_de": "Mini-Omega",
+        "Singular_en": "OMG",
+        "Singular_fr": "mini-Om\u00e9ga",
+        "Singular_ja": "\u30d7\u30c1\u30aa\u30e1\u30ac",
+        "Singular_ko": "\uaf2c\uba54\uac00"
+    },
+    "306": {
+        "0xID": "132",
+        "Icon": "ui/icon/004000/004706.png",
+        "Singular_cn": "\u8ff7\u4f60\u53e4\u00b7\u62c9\u54c8",
+        "Singular_de": "G'raha-Tia-Puppe",
+        "Singular_en": "wind-up G'raha Tia",
+        "Singular_fr": "G'raha Tia miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b0\u30fb\u30e9\u30cf",
+        "Singular_ko": "\uadf8\ub77c\ud558 \uc778\ud615"
+    },
+    "307": {
+        "0xID": "133",
+        "Icon": "ui/icon/004000/004707.png",
+        "Singular_cn": "\u9634\u5c0f\u5e7d",
+        "Singular_de": "m\u00fcrrisch[a] Geistlein",
+        "Singular_en": "Little Yin",
+        "Singular_fr": "fant\u00f4me triste",
+        "Singular_ja": "\u9670\u6c17\u306a\u30b4\u30fc\u30b9\u30c8\u4eba\u5f62",
+        "Singular_ko": "\uc74c\uc6b8\ud55c \uc720\ub839 \uc778\ud615"
+    },
+    "308": {
+        "0xID": "134",
+        "Icon": "ui/icon/004000/004708.png",
+        "Singular_cn": "\u9633\u5c0f\u7075",
+        "Singular_de": "munter[a] Geistlein",
+        "Singular_en": "Little Yang",
+        "Singular_fr": "fant\u00f4me joyeux",
+        "Singular_ja": "\u967d\u6c17\u306a\u30b4\u30fc\u30b9\u30c8\u4eba\u5f62",
+        "Singular_ko": "\uba85\ub791\ud55c \uc720\ub839 \uc778\ud615"
+    },
+    "309": {
+        "0xID": "135",
+        "Icon": "ui/icon/004000/004709.png",
+        "Singular_cn": "\u8ff7\u4f60\u514b\u52b3\u5fb7",
+        "Singular_de": "Cloud-Puppe",
+        "Singular_en": "wind-up Cloud",
+        "Singular_fr": "Cloud miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30af\u30e9\u30a6\u30c9",
+        "Singular_ko": "\ud074\ub77c\uc6b0\ub4dc \uc778\ud615"
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/004000/004427.png",
+        "Singular_cn": "\u80d6\u58a9\u8df3\u8725",
+        "Singular_de": "Schwabbelpuk",
+        "Singular_en": "pudgy puk",
+        "Singular_fr": "puk potel\u00e9",
+        "Singular_ja": "\u30d1\u30b8\u30fc\u30d7\u30fc\u30af",
+        "Singular_ko": "\ud1b5\ud1b5\ud478\ud06c"
+    },
+    "310": {
+        "0xID": "136",
+        "Icon": "ui/icon/004000/004710.png",
+        "Singular_cn": "\u8ff7\u4f60\u7231\u4e3d\u4e1d",
+        "Singular_de": "Aerith-Puppe",
+        "Singular_en": "wind-up Aerith",
+        "Singular_fr": "Aerith miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30a2\u30ea\u30b9",
+        "Singular_ko": "\uc5d0\uc5b4\ub9ac\uc2a4 \uc778\ud615"
+    },
+    "311": {
+        "0xID": "137",
+        "Icon": "ui/icon/004000/004711.png",
+        "Singular_cn": "\u8ff7\u4f60\u8482\u6cd5",
+        "Singular_de": "Tifa-Puppe",
+        "Singular_en": "wind-up Tifa",
+        "Singular_fr": "Tifa miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c6\u30a3\u30d5\u30a1",
+        "Singular_ko": "\ud2f0\ud30c \uc778\ud615"
+    },
+    "312": {
+        "0xID": "138",
+        "Icon": "ui/icon/004000/004712.png",
+        "Singular_cn": "\u6ce5\u5c0f\u70b9",
+        "Singular_de": "Schlammprinz",
+        "Singular_en": "mudpie",
+        "Singular_fr": "p\u00e2t\u00e9 de boue",
+        "Singular_ja": "\u30c9\u30ed\u30c3\u30d7\u30c1",
+        "Singular_ko": "\uaf2c\ub9c8 \uc9c4\ud759\uc7a5\uc0ac"
+    },
+    "313": {
+        "0xID": "139",
+        "Icon": "ui/icon/004000/004713.png",
+        "Singular_cn": "\u82b1\u7bee\u83ab\u53e4\u529b",
+        "Singular_de": "Brautjungfer-Mogry",
+        "Singular_en": "bridesmoogle",
+        "Singular_fr": "Mog d'honneur",
+        "Singular_ja": "\u30d6\u30fc\u30b1\u30e2\u30fc\u30b0\u30ea",
+        "Singular_ko": "\ud654\ub3d9 \ubaa8\uadf8\ub9ac"
+    },
+    "314": {
+        "0xID": "13A",
+        "Icon": "ui/icon/004000/004714.png",
+        "Singular_cn": "\u827e\u5c14\u51e1\u4eba\u5076",
+        "Singular_de": "Elvaan-Marionette",
+        "Singular_en": "wind-up Elvaan",
+        "Singular_fr": "poup\u00e9e elvaan",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30eb\u30f4\u30a1\u30fc\u30f3",
+        "Singular_ko": "\uc5d8\ubc18 \uc778\ud615"
+    },
+    "315": {
+        "0xID": "13B",
+        "Icon": "ui/icon/004000/004715.png",
+        "Singular_cn": "\u5c0f\u957f\u9888\u9a7c",
+        "Singular_de": "Dhalmel-Kalb",
+        "Singular_en": "dhalmel calf",
+        "Singular_fr": "b\u00e9b\u00e9 dhalmel",
+        "Singular_ja": "\u30c0\u30eb\u30e1\u30eb\u30fb\u30ab\u30d5",
+        "Singular_ko": "\uc544\uae30 \ub2ec\uba5c"
+    },
+    "316": {
+        "0xID": "13C",
+        "Icon": "ui/icon/004000/004716.png",
+        "Singular_cn": "\u6c34\u8c5a\u5e7c\u5d3d",
+        "Singular_de": "Capybara-Jungtier",
+        "Singular_en": "capybara pup",
+        "Singular_fr": "b\u00e9b\u00e9 cabia\u00ef",
+        "Singular_ja": "\u30ab\u30d4\u30d0\u30e9\u30fb\u30d1\u30c3\u30d7",
+        "Singular_ko": "\uae4c\uc090\ubc14\ub77c"
+    },
+    "317": {
+        "0xID": "13D",
+        "Icon": "ui/icon/004000/004717.png",
+        "Singular_cn": "\u683c\u96f7\u59c6\u6797\u5b9d\u5b9d",
+        "Singular_de": "Baby-Gremlin",
+        "Singular_en": "baby gremlin",
+        "Singular_fr": "b\u00e9b\u00e9 gremlin",
+        "Singular_ja": "\u30d9\u30a4\u30d3\u30fc\u30b0\u30ec\u30e0\u30ea\u30f3",
+        "Singular_ko": "\uc544\uae30 \uadf8\ub818\ub9b0"
+    },
+    "318": {
+        "0xID": "13E",
+        "Icon": "ui/icon/004000/004718.png",
+        "Singular_cn": "\u6709\u9650\u7684\u7f8e\u5fb7",
+        "Singular_de": "Tugendhaft[a] Begleiter",
+        "Singular_en": "Conditional Virtue",
+        "Singular_fr": "mini-vertu",
+        "Singular_ja": "\u30d7\u30c1\u30f4\u30a1\u30fc\u30c1\u30e5\u30fc",
+        "Singular_ko": "\uc870\uac74\ubd80 \ubbf8\ub355"
+    },
+    "319": {
+        "0xID": "13F",
+        "Icon": "ui/icon/004000/004719.png",
+        "Singular_cn": "\u5c0f\u96ea\u7ae5\u5b50",
+        "Singular_de": "Schnee-Korpokkur",
+        "Singular_en": "yukinko snowflake",
+        "Singular_fr": "ko-yukinko",
+        "Singular_ja": "\u30b3\u30e6\u30ad\u30f3\u30b3",
+        "Singular_ko": "\uaf2c\ub9c8 \ub208\uc694\uc815"
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/004000/004428.png",
+        "Singular_cn": "\u5c0f\u725b\u728a",
+        "Singular_de": "B\u00fcffelkalb",
+        "Singular_en": "buffalo calf",
+        "Singular_fr": "bufflon",
+        "Singular_ja": "\u30d0\u30c3\u30d5\u30a1\u30ed\u30fc\u30fb\u30ab\u30d5",
+        "Singular_ko": "\uaf2c\ub9c8 \ubb3c\uc18c"
+    },
+    "320": {
+        "0xID": "140",
+        "Icon": "ui/icon/004000/004720.png",
+        "Singular_cn": "\u65b0\u578b\u8ff7\u4f60\u5854\u5854\u9732",
+        "Singular_de": "neu[a] Tataru-Puppe",
+        "Singular_en": "dress-up Tataru",
+        "Singular_fr": "nouvelle Tataru miniature",
+        "Singular_ja": "\u30cb\u30e5\u30fc\u30fb\u30bf\u30bf\u30eb",
+        "Singular_ko": "\uc2e0 \ud0c0\ud0c0\ub8e8"
+    },
+    "321": {
+        "0xID": "141",
+        "Icon": "ui/icon/004000/004721.png",
+        "Singular_cn": "\u8ff7\u4f60\u6b66\u88c5\u91cd\u7532",
+        "Singular_de": "Panzerwaffen-Miniatur",
+        "Singular_en": "wind-up weapon",
+        "Singular_fr": "mascotte blind\u00e9e",
+        "Singular_ja": "\u30a2\u30fc\u30e0\u30c9\u30df\u30cb\u30aa\u30f3",
+        "Singular_ko": "\uc18c\ud615 \ubb34\uc7a5 \ubcd1\uae30"
+    },
+    "322": {
+        "0xID": "142",
+        "Icon": "ui/icon/004000/004722.png",
+        "Singular_cn": "\u4f3d\u9ece\u4e9a\u73a9\u5076",
+        "Singular_de": "Aufzieh-Qalyana",
+        "Singular_en": "wind-up Qalyana",
+        "Singular_fr": "poup\u00e9e qalyana",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ab\u30ea\u30e4\u30ca",
+        "Singular_ko": "\uce7c\ub9ac\uc544\ub098 \uc778\ud615"
+    },
+    "323": {
+        "0xID": "143",
+        "Icon": "ui/icon/004000/004723.png",
+        "Singular_cn": "\u7ea2\u7532\u73a9\u5076",
+        "Singular_de": "Rotpanzer-Puppe",
+        "Singular_en": "wind-up Redback",
+        "Singular_fr": "Kojin rouge m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d9\u30cb\u30b3\u30a6\u30e9",
+        "Singular_ko": "\ubd89\uc740\ub4f1 \uc778\ud615"
+    },
+    "324": {
+        "0xID": "144",
+        "Icon": "ui/icon/004000/004724.png",
+        "Singular_cn": "\u73a9\u5076\u8fd0\u8f93\u673a",
+        "Singular_de": "Mini-Magitek-Transporter",
+        "Singular_en": "minitek conveyor",
+        "Singular_fr": "transporteur miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ad\u30e3\u30ea\u30a2\u30fc",
+        "Singular_ko": "\uc778\ud615 \uce90\ub9ac\uc5b4"
+    },
+    "325": {
+        "0xID": "145",
+        "Icon": "ui/icon/004000/004725.png",
+        "Singular_cn": "\u8ff7\u4f60\u8299\u5170",
+        "Singular_de": "Fran-Puppe",
+        "Singular_en": "wind-up Fran",
+        "Singular_fr": "Fran miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d5\u30e9\u30f3",
+        "Singular_ko": "\ud504\ub780 \uc778\ud615"
+    },
+    "326": {
+        "0xID": "146",
+        "Icon": "ui/icon/004000/004726.png",
+        "Singular_cn": "\u6069\u83ab\u65cf\u4eba\u5076",
+        "Singular_de": "Nu-Mou-Stofftier",
+        "Singular_en": "wind-up Nu Mou",
+        "Singular_fr": "Nu Mou miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30f3\u30fb\u30e2\u30a5",
+        "Singular_ko": "\uc751 \ubaa8\uc6b0 \uc778\ud615"
+    },
+    "327": {
+        "0xID": "147",
+        "Icon": "ui/icon/004000/004727.png",
+        "Singular_cn": "\u9752\u5e1d",
+        "Singular_de": "Seitei",
+        "Singular_en": "Seitei",
+        "Singular_fr": "dragonnet azur",
+        "Singular_ja": "\u9752\u5e1d",
+        "Singular_ko": "\uccad\uc81c"
+    },
+    "328": {
+        "0xID": "148",
+        "Icon": "ui/icon/004000/004728.png",
+        "Singular_cn": "\u7ef5\u7ef5\u5750\u57ab",
+        "Singular_de": "Zabuton-Sitzkissen",
+        "Singular_en": "zephyrous zabuton",
+        "Singular_fr": "coussin zabuton moelleux",
+        "Singular_ja": "\u3075\u304b\u3075\u304b\u5ea7\u5e03\u56e3",
+        "Singular_ko": "\ub3d9\ucabd \ub098\ub77c \ubc29\uc11d"
+    },
+    "329": {
+        "0xID": "149",
+        "Icon": "ui/icon/004000/004729.png",
+        "Singular_cn": "\u5357\u65b9\u5ea6\u5047\u736d\u736d",
+        "Singular_de": "Aloha-Otter",
+        "Singular_en": "abroader otter",
+        "Singular_fr": "loutre aloha",
+        "Singular_ja": "\u30a2\u30ed\u30cf\u30a6\u30bd\u30a6\u30bd",
+        "Singular_ko": "\uc54c\ub85c\ud558 \ub2ec\ub2ec\uc774"
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/004000/004429.png",
+        "Singular_cn": "\u5e7c\u5c0f\u4ed9\u4eba\u638c",
+        "Singular_de": "Kaktorfigur",
+        "Singular_en": "cactuar cutting",
+        "Singular_fr": "mini-pampa",
+        "Singular_ja": "\u30df\u30cb\u30c6\u30f3\u30c0\u30fc",
+        "Singular_ko": "\ubbf8\ub2c8\ud150\ub354"
+    },
+    "330": {
+        "0xID": "14A",
+        "Icon": "ui/icon/004000/004730.png",
+        "Singular_cn": "\u5c0f\u523a\u732c",
+        "Singular_de": "Igel",
+        "Singular_en": "hedgehoglet",
+        "Singular_fr": "h\u00e9risson mignon",
+        "Singular_ja": "\u30d8\u30c3\u30b8\u30db\u30c3\u30b0",
+        "Singular_ko": "\uace0\uc2b4\ub3c4\uce58"
+    },
+    "331": {
+        "0xID": "14B",
+        "Icon": "ui/icon/004000/004731.png",
+        "Singular_cn": "\u8ff7\u4f60\u7b2c\u4e00\u4e16\u754c\u96c5\u00b7\u4fee\u7279\u62c9",
+        "Singular_de": "Splitterwelt-Y'shtola",
+        "Singular_en": "brave new Y'shtola",
+        "Singular_fr": "Y'shtola miniature (premier reflet)",
+        "Singular_ja": "\u30d5\u30a1\u30fc\u30b9\u30c8\u30fb\u30e4\u30fb\u30b7\u30e5\u30c8\u30e9",
+        "Singular_ko": "\uc81c1\uc138\uacc4 \uc57c\uc288\ud1a8\ub77c"
+    },
+    "332": {
+        "0xID": "14C",
+        "Icon": "ui/icon/004000/004732.png",
+        "Singular_cn": "\u8ff7\u4f60\u7433",
+        "Singular_de": "Ryne-Puppe",
+        "Singular_en": "wind-up Ryne",
+        "Singular_fr": "Ryne miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ea\u30fc\u30f3",
+        "Singular_ko": "\ub9b0 \uc778\ud615"
+    },
+    "333": {
+        "0xID": "14D",
+        "Icon": "ui/icon/004000/004733.png",
+        "Singular_cn": "\u9ed1\u8c46\u67f4",
+        "Singular_de": "schwarz[a] Shiba-Welpe",
+        "Singular_en": "black hayate",
+        "Singular_fr": "kuro shiba",
+        "Singular_ja": "\u9ed2\u67f4",
+        "Singular_ko": "\uae5c\uc7a5\uc2dc\ubc14"
+    },
+    "334": {
+        "0xID": "14E",
+        "Icon": "ui/icon/004000/004734.png",
+        "Singular_cn": "\u53d8\u8272\u9f99",
+        "Singular_de": "Zwergcham\u00e4leon",
+        "Singular_en": "chameleon",
+        "Singular_fr": "cam\u00e9l\u00e9on",
+        "Singular_ja": "\u30ab\u30e1\u30ec\u30aa\u30f3",
+        "Singular_ko": "\uce74\uba5c\ub808\uc628"
+    },
+    "335": {
+        "0xID": "14F",
+        "Icon": "ui/icon/004000/004735.png",
+        "Singular_cn": "\u6c34\u5996\u4eba\u5076",
+        "Singular_de": "Fuath-Puppe",
+        "Singular_en": "wind-up Fuath",
+        "Singular_fr": "Fuath miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d5\u30fc\u30a2",
+        "Singular_ko": "\ud478\uc544 \uc778\ud615"
+    },
+    "336": {
+        "0xID": "150",
+        "Icon": "ui/icon/004000/004736.png",
+        "Singular_cn": "\u5c0f\u72b0\u72f3",
+        "Singular_de": "artistisch[a] G\u00fcrteltier",
+        "Singular_en": "armadillo bowler",
+        "Singular_fr": "tatou-boule",
+        "Singular_ja": "\u30a2\u30eb\u30de\u30b8\u30ed\u30fb\u30dc\u30fc\u30e9\u30fc",
+        "Singular_ko": "\uc544\ub974\ub9c8\ub51c\ub85c \uace1\uc608\uc0ac"
+    },
+    "337": {
+        "0xID": "151",
+        "Icon": "ui/icon/004000/004737.png",
+        "Singular_cn": "\u9686\u5361\u7684\u6c34\u86c7\uff1f",
+        "Singular_de": "Klein[a] Schlange von Ronka",
+        "Singular_en": "the Great Serpent of Ronka",
+        "Singular_fr": "serpent marin de Ronka ?",
+        "Singular_ja": "\u30ed\u30f3\u30ab\u306e\u6c34\u86c7\uff1f",
+        "Singular_ko": "\ub871\uce74\uc758 \ubb3c\ubc40?"
+    },
+    "338": {
+        "0xID": "152",
+        "Icon": "ui/icon/004000/004738.png",
+        "Singular_cn": "\u8ff7\u4f60\u5de8\u4eba\u638c",
+        "Singular_de": "Mini-Riesenkaktor",
+        "Singular_en": "micro gigantender",
+        "Singular_fr": "mini-gigapampa",
+        "Singular_ja": "\u30df\u30cb\u30ae\u30ac\u30c6\u30f3\u30c0\u30fc",
+        "Singular_ko": "\uaf2c\ub9c8 \uae30\uac00\ud150\ub354"
+    },
+    "339": {
+        "0xID": "153",
+        "Icon": "ui/icon/004000/004739.png",
+        "Singular_cn": "\u5c0f\u5c0f\u51b0\u6d77\u5929\u4f7f",
+        "Singular_de": "Clionidenlarve",
+        "Singular_en": "clionid larva",
+        "Singular_fr": "jeune clionide",
+        "Singular_ja": "\u30af\u30ea\u30aa\u30cb\u30c3\u30c9\u30fb\u30e9\u30fc\u30f4\u30a1",
+        "Singular_ko": "\uc5b4\ub9b0 \ud074\ub9ac\uc624\ub2c8\ub4dc"
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/004000/004430.png",
+        "Singular_cn": "\u5c0f\u58f3\u87f9",
+        "Singular_de": "Mini-Krabbe",
+        "Singular_en": "smallshell",
+        "Singular_fr": "coqu\u00e9pique",
+        "Singular_ja": "\u30b9\u30e2\u30fc\u30eb\u30b7\u30a7\u30eb",
+        "Singular_ko": "\uc544\uae30 \uac8c"
+    },
+    "340": {
+        "0xID": "154",
+        "Icon": "ui/icon/004000/004740.png",
+        "Singular_cn": "\u5c0f\u9e2d\u5634\u517d",
+        "Singular_de": "Baby-Schnabeltier",
+        "Singular_en": "bitty duckbill",
+        "Singular_fr": "ornithorynque nain",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30c0\u30c3\u30af\u30d3\u30eb",
+        "Singular_ko": "\uc624\ub9ac\ubd80\ub9ac"
+    },
+    "341": {
+        "0xID": "155",
+        "Icon": "ui/icon/004000/004741.png",
+        "Singular_cn": "\u8ff7\u4f60\u4f0a\u7538",
+        "Singular_de": "Mini-Eden",
+        "Singular_en": "Eden Minor",
+        "Singular_fr": "mini-\u00c9den",
+        "Singular_ja": "\u30df\u30cb\u30a8\u30c7\u30f3",
+        "Singular_ko": "\uc791\uc740 \uc5d0\ub374"
+    },
+    "342": {
+        "0xID": "156",
+        "Icon": "ui/icon/004000/004742.png",
+        "Singular_cn": "\u5927\u6cb3\u72f8",
+        "Singular_de": "Riesenbiber",
+        "Singular_en": "giant beaver",
+        "Singular_fr": "castor g\u00e9ant",
+        "Singular_ja": "\u30b8\u30e3\u30a4\u30a2\u30f3\u30c8\u30d3\u30fc\u30d0\u30fc",
+        "Singular_ko": "\uc790\uc774\uc5b8\ud2b8 \ube44\ubc84"
+    },
+    "343": {
+        "0xID": "157",
+        "Icon": "ui/icon/004000/004743.png",
+        "Singular_cn": "\u6731\u96c0\u673a\u5173\u4eba\u5076",
+        "Singular_de": "Aufzieh-Suzaku",
+        "Singular_en": "wind-up Suzaku",
+        "Singular_fr": "Suzaku m\u00e9canique",
+        "Singular_ja": "\u304b\u3089\u304f\u308a\u6731\u96c0",
+        "Singular_ko": "\uaf2d\ub450\uac01\uc2dc \uc8fc\uc791"
+    },
+    "344": {
+        "0xID": "158",
+        "Icon": "ui/icon/004000/004744.png",
+        "Singular_cn": "\u8ff7\u4f60\u6b27\u7c73\u8304M",
+        "Singular_de": "m\u00e4nnlich[a] Omega-Puppe",
+        "Singular_en": "wind-up Omega-M",
+        "Singular_fr": "Om\u00e9ga-M miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30e1\u30acM",
+        "Singular_ko": "\uc624\uba54\uac00 M \uc778\ud615"
+    },
+    "345": {
+        "0xID": "159",
+        "Icon": "ui/icon/004000/004745.png",
+        "Singular_cn": "\u8ff7\u4f60\u6b27\u7c73\u8304F",
+        "Singular_de": "weiblich[a] Omega-Puppe",
+        "Singular_en": "wind-up Omega-F",
+        "Singular_fr": "Om\u00e9ga-F miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30e1\u30acF",
+        "Singular_ko": "\uc624\uba54\uac00 F \uc778\ud615"
+    },
+    "346": {
+        "0xID": "15A",
+        "Icon": "ui/icon/004000/004746.png",
+        "Singular_cn": "\u53ee\u53ee\u6447\u94c3",
+        "Singular_de": "Gl\u00f6ckchen",
+        "Singular_en": "tinker's bell",
+        "Singular_fr": "Clochette",
+        "Singular_ja": "\u30c6\u30a3\u30f3\u30ab\u30fc\u30d9\u30eb",
+        "Singular_ko": "\ud305\ucee4\ubca8"
+    },
+    "347": {
+        "0xID": "15B",
+        "Icon": "ui/icon/004000/004747.png",
+        "Singular_cn": "\u77f3\u83b2\u5c0f\u732c",
+        "Singular_de": "klein[a] Echevore",
+        "Singular_en": "tiny echevore",
+        "Singular_fr": "\u00e9chevore nain",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30a8\u30b1\u30dc\u30a2",
+        "Singular_ko": "\uaf2c\ub9c8 \uc5d0\ucf00\ubcf4\uc5b4"
+    },
+    "348": {
+        "0xID": "15C",
+        "Icon": "ui/icon/004000/004748.png",
+        "Singular_cn": "\u9ba3\u9c7c\u7ea7\u6f5c\u6c34\u8247",
+        "Singular_de": "Tauchboot der Haiklasse",
+        "Singular_en": "sharksucker-class insubmersible",
+        "Singular_fr": "sous-marin de classe R\u00e9mora",
+        "Singular_ja": "\u30b3\u30d0\u30f3\u30b6\u30e1\u7d1a\u6f5c\u6c34\u8266",
+        "Singular_ko": "\ube68\ud310\uc0c1\uc5b4\uae09 \uc7a0\uc218\ud568"
+    },
+    "349": {
+        "0xID": "15D",
+        "Icon": "ui/icon/004000/004749.png",
+        "Singular_cn": "\u9cb8\u5934\u9e73",
+        "Singular_de": "Schuhschn\u00e4belchen",
+        "Singular_en": "shoebill",
+        "Singular_fr": "bec-en-sabot",
+        "Singular_ja": "\u30cf\u30b7\u30d3\u30ed\u30b3\u30a6",
+        "Singular_ko": "\ub113\uc801\ubd80\ub9ac\ud669\uc0c8"
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/004000/004450.png",
+        "Singular_cn": "\u5c0f\u72fc",
+        "Singular_de": "Wolfshundwelpe",
+        "Singular_en": "wolf pup",
+        "Singular_fr": "b\u00e9b\u00e9 chacal",
+        "Singular_ja": "\u30a6\u30eb\u30d5\u30fb\u30d1\u30c3\u30d7",
+        "Singular_ko": "\uc544\uae30 \ub291\ub300"
+    },
+    "350": {
+        "0xID": "15E",
+        "Icon": "ui/icon/004000/004750.png",
+        "Singular_cn": "\u8774\u8776\u6548\u5e94",
+        "Singular_de": "Schmetterlingspaar",
+        "Singular_en": "butterfly effect",
+        "Singular_fr": "couple de papillons",
+        "Singular_ja": "\u30d0\u30bf\u30d5\u30e9\u30a4\u30a8\u30d5\u30a7\u30af\u30c8",
+        "Singular_ko": "\ub098\ube44\ud6a8\uacfc"
+    },
+    "351": {
+        "0xID": "15F",
+        "Icon": "ui/icon/004000/004751.png",
+        "Singular_cn": "\u9752\u86d9\u53f7A",
+        "Singular_de": "Eisenfrosch",
+        "Singular_en": "ironfrog ambler",
+        "Singular_fr": "grenouilleur A",
+        "Singular_ja": "\u30d5\u30ed\u30c3\u30ac\u30fcA",
+        "Singular_ko": "\ucca0\uac1c\uad6c\ub9ac A"
+    },
+    "352": {
+        "0xID": "160",
+        "Icon": "ui/icon/004000/004752.png",
+        "Singular_cn": "\u5f97\u5230\u5bbd\u6055\u7684\u4ec7\u6068",
+        "Singular_de": "Mini-S\u00fcndenbereuer",
+        "Singular_en": "forgiven hate",
+        "Singular_fr": "haine pardonn\u00e9e",
+        "Singular_ja": "\u30d5\u30a9\u30fc\u30ae\u30f4\u30f3\u30fb\u30d8\u30a4\u30c8",
+        "Singular_ko": "\uba74\uc8c4\ub41c \uc801\uac1c\uc2ec"
+    },
+    "353": {
+        "0xID": "161",
+        "Icon": "ui/icon/004000/004753.png",
+        "Singular_cn": "\u732a\u5c0f\u4ed9",
+        "Singular_de": "Mini-Quiexie",
+        "Singular_en": "bacon bits",
+        "Singular_fr": "bout-de-cochon",
+        "Singular_ja": "\u30dd\u30fc\u30af\u30b7\u30fc\u30fb\u30d3\u30c3\u30c4",
+        "Singular_ko": "\ud55c\uc785 \ud3ec\ud06c\uc2dc"
+    },
+    "354": {
+        "0xID": "162",
+        "Icon": "ui/icon/004000/004754.png",
+        "Singular_cn": "\u4ed9\u5b50\u4eba\u5076",
+        "Singular_de": "Pixie-Puppe",
+        "Singular_en": "wind-up pixie",
+        "Singular_fr": "Pixie miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d4\u30af\u30b7\u30fc",
+        "Singular_ko": "\ud53d\uc2dc \uc778\ud615"
+    },
+    "355": {
+        "0xID": "163",
+        "Icon": "ui/icon/004000/004755.png",
+        "Singular_cn": "\u795e\u79d8\u5175\u88c5",
+        "Singular_de": "mystisch[a] Waffe",
+        "Singular_en": "mystic weapon",
+        "Singular_fr": "arme mystique",
+        "Singular_ja": "\u30df\u30b9\u30c6\u30a3\u30c3\u30af\u30a6\u30a7\u30dd\u30f3",
+        "Singular_ko": "\uc2e0\ube44\ud55c \ubb34\uae30\ub9c8"
+    },
+    "356": {
+        "0xID": "164",
+        "Icon": "ui/icon/004000/004756.png",
+        "Singular_cn": "\u72d0\u7374",
+        "Singular_de": "Erdm\u00e4nnchen",
+        "Singular_en": "meerkat",
+        "Singular_fr": "suricate",
+        "Singular_ja": "\u30df\u30fc\u30a2\u30ad\u30e3\u30c3\u30c8",
+        "Singular_ko": "\ubbf8\uc5b4\ucea3"
+    },
+    "357": {
+        "0xID": "165",
+        "Icon": "ui/icon/004000/004757.png",
+        "Singular_cn": "\u767d\u5c0f\u9a91\u58eb",
+        "Singular_de": "wei\u00df[a] Miniaturritter",
+        "Singular_en": "miniature white knight",
+        "Singular_fr": "mini-cavalier blanc",
+        "Singular_ja": "\u30db\u30ef\u30a4\u30c8\u30fb\u30df\u30cb\u30ca\u30a4\u30c8",
+        "Singular_ko": "\uaf2c\ub9c8 \ubc31\uae30\uc0ac"
+    },
+    "358": {
+        "0xID": "166",
+        "Icon": "ui/icon/004000/004758.png",
+        "Singular_cn": "\u6781\u5408\u91d1\u6b63\u4e49\u53f7",
+        "Singular_de": "Mini-Brutalus",
+        "Singular_en": "Cute Justice",
+        "Singular_fr": "Ultragokin Justice",
+        "Singular_ja": "\u6975\u5408\u91d1\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9",
+        "Singular_ko": "\uadf9\ud569\uae08 \uc2ec\ud310\uc790"
+    },
+    "359": {
+        "0xID": "167",
+        "Icon": "ui/icon/004000/004759.png",
+        "Singular_cn": "\u591a\u739b\u91d1\u9c7c\u513f",
+        "Singular_de": "Domakin",
+        "Singular_en": "domakin",
+        "Singular_fr": "domakin",
+        "Singular_ja": "\u30c9\u30de\u30ad\u30f3",
+        "Singular_ko": "\ub3c4\ub9c8\uae08"
+    },
+    "36": {
+        "0xID": "24",
+        "Icon": "ui/icon/004000/004431.png",
+        "Singular_cn": "\u5c0f\u4eae\u773c",
+        "Singular_de": "W\u00e4chterauge",
+        "Singular_en": "beady eye",
+        "Singular_fr": "\u0153il apprivois\u00e9",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30a2\u30a4",
+        "Singular_ko": "\uaf2c\ub9c8 \ub208\uc54c"
+    },
+    "360": {
+        "0xID": "168",
+        "Icon": "ui/icon/004000/004760.png",
+        "Singular_cn": "\u65b0\u578b\u8ff7\u4f60\u57c3\u65af\u8482\u5c3c\u5b89",
+        "Singular_de": "neu[a] Estinien-Puppe",
+        "Singular_en": "dress-up Estinien",
+        "Singular_fr": "nouvel Estinien miniature",
+        "Singular_ja": "\u30cb\u30e5\u30fc\u30fb\u30a8\u30b9\u30c6\u30a3\u30cb\u30a2\u30f3",
+        "Singular_ko": "\uc2e0 \uc5d0\uc2a4\ud2f0\ub2c8\uc559"
+    },
+    "361": {
+        "0xID": "169",
+        "Icon": "ui/icon/004000/004761.png",
+        "Singular_cn": "\u5c0f\u51c9\u5357\u5e0c",
+        "Singular_de": "klein[a] Leanan",
+        "Singular_en": "little leannan",
+        "Singular_fr": "mini-Leannan Sith",
+        "Singular_ja": "\u30d7\u30c1\u30ea\u30e3\u30ca\u30f3\u30b7\u30fc",
+        "Singular_ko": "\uaf2c\ub9c8 \ub7b4\ub09c\uc2dc"
+    },
+    "362": {
+        "0xID": "16A",
+        "Icon": "ui/icon/004000/004762.png",
+        "Singular_cn": "\u5927\u54e5\u5e03\u6797\u4eba\u5076",
+        "Singular_de": "Hobgoblin-Puppe",
+        "Singular_en": "wind-up hobgoblin",
+        "Singular_fr": "hobgobelin miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30db\u30d6\u30b4\u30d6\u30ea\u30f3",
+        "Singular_ko": "\ud649\uace0\ube14\ub9b0 \uc778\ud615"
+    },
+    "363": {
+        "0xID": "16B",
+        "Icon": "ui/icon/004000/004763.png",
+        "Singular_cn": "\u5c0f\u523b\u8033\u67cf\u6d1b\u65af",
+        "Singular_de": "Cerberus-Welpe",
+        "Singular_en": "Cerberpup",
+        "Singular_fr": "cerb\u00e8re chiot",
+        "Singular_ja": "\u30b1\u30eb\u30d9\u30ed\u30b9\u30fb\u30d1\u30d4\u30fc",
+        "Singular_ko": "\uc544\uae30 \ucf00\ub974\ubca0\ub85c\uc2a4"
+    },
+    "364": {
+        "0xID": "16C",
+        "Icon": "ui/icon/004000/004764.png",
+        "Singular_cn": "\u8f85\u52a9\u673a054",
+        "Singular_de": "Pod 054",
+        "Singular_en": "pod 054",
+        "Singular_fr": "pod 054",
+        "Singular_ja": "\u30dd\u30c3\u30c9054",
+        "Singular_ko": "\ud3ec\ub4dc 054"
+    },
+    "365": {
+        "0xID": "16D",
+        "Icon": "ui/icon/004000/004765.png",
+        "Singular_cn": "\u8f85\u52a9\u673a316",
+        "Singular_de": "Pod 316",
+        "Singular_en": "pod 316",
+        "Singular_fr": "pod 316",
+        "Singular_ja": "\u30dd\u30c3\u30c9316",
+        "Singular_ko": "\ud3ec\ub4dc 316"
+    },
+    "366": {
+        "0xID": "16E",
+        "Icon": "ui/icon/004000/004766.png",
+        "Singular_cn": "\u9ec4\u91d1\u5854\u7f57\u65af",
+        "Singular_de": "Gold-Talos",
+        "Singular_en": "sungold Talos",
+        "Singular_fr": "talos d'or",
+        "Singular_ja": "\u30b4\u30fc\u30eb\u30c9\u30bf\u30ed\u30fc\u30b9",
+        "Singular_ko": "\uae08\ube5b \ud0c8\ub85c\uc2a4"
+    },
+    "367": {
+        "0xID": "16F",
+        "Icon": "ui/icon/004000/004767.png",
+        "Singular_cn": "\u9a6c\u5c0f\u9f99",
+        "Singular_de": "Malone",
+        "Singular_en": "Malone",
+        "Singular_fr": "Malone",
+        "Singular_ja": "\u30de\u30ed\u30fc\u30f3",
+        "Singular_ko": "\ub9d0\ub860"
+    },
+    "368": {
+        "0xID": "170",
+        "Icon": "ui/icon/004000/004768.png",
+        "Singular_cn": "\u8349\u5c0f\u4eba",
+        "Singular_de": "Grasgrummelchen",
+        "Singular_en": "little leafman",
+        "Singular_fr": "enfeuill\u00e9 miniature",
+        "Singular_ja": "\u8349\u3053\u3073\u3068",
+        "Singular_ko": "\uaf2c\ub9c8 \ud480\uc778\uac04"
+    },
+    "369": {
+        "0xID": "171",
+        "Icon": "ui/icon/004000/004769.png",
+        "Singular_cn": "\u970d\u556a\u680c\u7684\u6c34\u86c7\uff1f",
+        "Singular_de": "Wasserschlange des Hopl",
+        "Singular_en": "the Behelmeted Serpent of Ronka",
+        "Singular_fr": "Grand Serpent de Hopl ?",
+        "Singular_ja": "\u30db\u30d1\u30eb\u306e\u6c34\u86c7\uff1f",
+        "Singular_ko": "\ud638\ud30c\ub8e8\uc758 \ubb3c\ubc40?"
+    },
+    "37": {
+        "0xID": "25",
+        "Icon": "ui/icon/004000/004432.png",
+        "Singular_cn": "\u6e21\u6e21\u9e1f\u96cf",
+        "Singular_de": "Dodo-K\u00fcken",
+        "Singular_en": "fledgling dodo",
+        "Singular_fr": "dodu dodo",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30c9\u30fc\u30c9\u30fc",
+        "Singular_ko": "\uaf2c\ub9c8 \ub3c4\ub3c4"
+    },
+    "370": {
+        "0xID": "172",
+        "Icon": "ui/icon/004000/004770.png",
+        "Singular_cn": "\u5947\u5854\u5229\u7684\u6c34\u86c7\uff1f",
+        "Singular_de": "Wasserschlange der Qitari",
+        "Singular_en": "the Behatted Serpent of Ronka",
+        "Singular_fr": "Grand Serpent des Qitari ?",
+        "Singular_ja": "\u30ad\u30bf\u30ea\u306e\u6c34\u86c7\uff1f",
+        "Singular_ko": "\ud0a4\ud0c0\ub9ac\uc758 \ubb3c\ubc40?"
+    },
+    "371": {
+        "0xID": "173",
+        "Icon": "ui/icon/004000/004771.png",
+        "Singular_cn": "\u94f6\u5c71\u96c0\u513f",
+        "Singular_de": "Langschwanzmeise",
+        "Singular_en": "silver dasher",
+        "Singular_fr": "m\u00e9sange \u00e0 longue queue",
+        "Singular_ja": "\u30b7\u30de\u30a8\u30ca\u30ac",
+        "Singular_ko": "\uc12c\uc624\ubaa9\ub208\uc774"
+    },
+    "372": {
+        "0xID": "174",
+        "Icon": "ui/icon/004000/004772.png",
+        "Singular_cn": "\u70f9\u8c03\u7334\u9762\u96c0\u513f",
+        "Singular_de": "Paissa-Gourmet",
+        "Singular_en": "paissa patissier",
+        "Singular_fr": "pa\u00efssa cuisinier",
+        "Singular_ja": "\u30d1\u30a4\u30c3\u30b5\u30fb\u30af\u30ea\u30ca\u30ea\u30a2\u30f3",
+        "Singular_ko": "\uc694\ub9ac\uc0ac \ud30c\uc774\uc2f8"
+    },
+    "373": {
+        "0xID": "175",
+        "Icon": "ui/icon/004000/004773.png",
+        "Singular_cn": "\u8863\u5320\u7334\u9762\u96c0\u513f",
+        "Singular_de": "Paissa-Weber",
+        "Singular_en": "paissa threadpuller",
+        "Singular_fr": "pa\u00efssa couturier",
+        "Singular_ja": "\u30d1\u30a4\u30c3\u30b5\u30fb\u30a6\u30a3\u30fc\u30d0\u30fc",
+        "Singular_ko": "\uc7ac\ubd09\uc0ac \ud30c\uc774\uc2f8"
+    },
+    "374": {
+        "0xID": "176",
+        "Icon": "ui/icon/004000/004774.png",
+        "Singular_cn": "\u5c0f\u5c0f\u53e4\u4ee3\u4eba",
+        "Singular_de": "Ascian-Puppe",
+        "Singular_en": "ancient one",
+        "Singular_fr": "poup\u00e9e ascienne",
+        "Singular_ja": "\u53e4\u4ee3\u4eba\u5f62",
+        "Singular_ko": "\uace0\ub300\uc778\ud615"
+    },
+    "375": {
+        "0xID": "177",
+        "Icon": "ui/icon/004000/004775.png",
+        "Singular_cn": "\u9ca8\u9c7c\u6307\u6325\u5b98",
+        "Singular_de": "Haikrieger",
+        "Singular_en": "the Major-General",
+        "Singular_fr": "requin commandeur",
+        "Singular_ja": "\u30b3\u30de\u30f3\u30c0\u30fc\u30fb\u30b7\u30e3\u30fc\u30af",
+        "Singular_ko": "\uc9c0\ud718\uad00 \uc0c1\uc5b4"
+    },
+    "376": {
+        "0xID": "178",
+        "Icon": "ui/icon/004000/004776.png",
+        "Singular_cn": "\u8ff7\u4f60\u675c\u4e3d\u96c5",
+        "Singular_de": "Dulia-Chai-Puppe",
+        "Singular_en": "wind-up Dulia-Chai",
+        "Singular_fr": "Dulia-Chai miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c9\u30a5\u30ea\u30a2",
+        "Singular_ko": "\ub458\ub9ac\uc544 \uc778\ud615"
+    },
+    "377": {
+        "0xID": "179",
+        "Icon": "ui/icon/004000/004777.png",
+        "Singular_cn": "\u963f\u9a6c\u7f57\u5b9d\u5b9d",
+        "Singular_de": "Amaro-K\u00fcken",
+        "Singular_en": "amaro hatchling",
+        "Singular_fr": "b\u00e9b\u00e9 amaro",
+        "Singular_ja": "\u30a2\u30de\u30ed\u30fb\u30cf\u30c3\u30c1\u30ea\u30f3\u30b0",
+        "Singular_ko": "\uc5b4\ub9b0 \uc544\ub9c8\ub85c"
+    },
+    "378": {
+        "0xID": "17A",
+        "Icon": "ui/icon/004000/004778.png",
+        "Singular_cn": "\u62c9\u62c9\u9cc4",
+        "Singular_de": "Laladil",
+        "Singular_en": "Laladile",
+        "Singular_fr": "laladile",
+        "Singular_ja": "\u30e9\u30e9\u30c0\u30a4\u30eb",
+        "Singular_ko": "\ub77c\ub77c\ub2e4\uc77c"
+    },
+    "379": {
+        "0xID": "17B",
+        "Icon": "ui/icon/004000/004779.png",
+        "Singular_cn": "\u4e0d\u5e78\u5c0f\u5154",
+        "Singular_de": "Ungl\u00fcckshase",
+        "Singular_en": "unlucky rabbit",
+        "Singular_fr": "lapin malchanceux",
+        "Singular_ja": "\u30a2\u30f3\u30e9\u30c3\u30ad\u30fc\u30e9\u30d3\u30c3\u30c8",
+        "Singular_ko": "\ubd88\ud589\ud1a0\ub07c"
+    },
+    "38": {
+        "0xID": "26",
+        "Icon": "ui/icon/004000/004433.png",
+        "Singular_cn": "\u77ff\u722c\u866b\u866b",
+        "Singular_de": "Kobalos-Larve",
+        "Singular_en": "coblyn larva",
+        "Singular_fr": "larve de coblyn",
+        "Singular_ja": "\u30b3\u30d6\u30e9\u30f3\u30e9\u30fc\u30f4\u30a1",
+        "Singular_ko": "\ucf54\ube0c\ub780 \uc720\ucda9"
+    },
+    "380": {
+        "0xID": "17C",
+        "Icon": "ui/icon/004000/004780.png",
+        "Singular_cn": "\u5566\u54e9\u543c\u77ee\u4eba",
+        "Singular_de": "Holladrio-Zwerg",
+        "Singular_en": "Lalinator 5.H0",
+        "Singular_fr": "Nain lali-ho",
+        "Singular_ja": "\u30e9\u30ea\u30db\u30fc\u30c9\u30ef\u30fc\u30d5",
+        "Singular_ko": "\ub77c\ub9ac\ud638 \ub4dc\uc6cc\ud504"
+    },
+    "381": {
+        "0xID": "17D",
+        "Icon": "ui/icon/004000/004781.png",
+        "Singular_cn": "\u732b\u79d8\u73a9\u5076",
+        "Singular_de": "Mystel-Puppe",
+        "Singular_en": "wind-up Mystel",
+        "Singular_fr": "Mystel miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30df\u30b9\u30c6\u30eb",
+        "Singular_ko": "\ubbf8\uc2a4\ud154 \uc778\ud615"
+    },
+    "382": {
+        "0xID": "17E",
+        "Icon": "ui/icon/004000/004782.png",
+        "Singular_cn": "\u8ff7\u4f60\u963f\u5c14\u535a\u7279",
+        "Singular_de": "Aufzieh-Ardbert",
+        "Singular_en": "wind-up Ardbert",
+        "Singular_fr": "Ardbert miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30eb\u30d0\u30fc\u30c8",
+        "Singular_ko": "\uc544\ub974\ubc84\ud2b8 \uc778\ud615"
+    },
+    "383": {
+        "0xID": "17F",
+        "Icon": "ui/icon/004000/004783.png",
+        "Singular_cn": "\u9b54\u5bfc\u5730\u72f1\u6f5c\u8005\u8ffd\u8e2a\u578b",
+        "Singular_de": "A-Magitek-H\u00f6llentaucher",
+        "Singular_en": "magitek helldiver F1",
+        "Singular_fr": "plongeur infernal S1",
+        "Singular_ja": "\u9b54\u5c0e\u30d8\u30eb\u30c0\u30a4\u30d0\u30fc\u8ffd\u5f93\u578b",
+        "Singular_ko": "\ub9c8\ub3c4 \ud5ec\ub2e4\uc774\ubc84 \ucd94\uc885\ud615"
+    },
+    "384": {
+        "0xID": "180",
+        "Icon": "ui/icon/004000/004784.png",
+        "Singular_cn": "\u80a5\u80a5\u98ce\u7b5d\u732b",
+        "Singular_de": "Geira-Flauschekatze",
+        "Singular_en": "weatherproof gaelicat",
+        "Singular_fr": "ga\u00e9lichat emmitoufl\u00e9",
+        "Singular_ja": "\u3082\u3061\u3082\u3061\u30b2\u30a4\u30e9\u30ad\u30e3\u30c3\u30c8",
+        "Singular_ko": "\ud3ec\ub3d9\ud3ec\ub3d9 \uac8c\uc77c\ub9ac\ucea3"
+    },
+    "385": {
+        "0xID": "181",
+        "Icon": "ui/icon/004000/004785.png",
+        "Singular_cn": "\u5e7b\u5f71\u4ea1\u7075\u6cd5\u5e08",
+        "Singular_de": "Phantom-Nekromantin",
+        "Singular_en": "ephemeral necromancer",
+        "Singular_fr": "n\u00e9cromancienne \u00e9vanescente",
+        "Singular_ja": "\u5e7b\u5f71\u306e\u30cd\u30af\u30ed\u30de\u30f3\u30b5\u30fc",
+        "Singular_ko": "\ud658\uc601 \uac15\ub839\uc220\uc0ac"
+    },
+    "386": {
+        "0xID": "182",
+        "Icon": "ui/icon/004000/004786.png",
+        "Singular_cn": "\u4e9a\u62c9\u6208\u897f\u74dc",
+        "Singular_de": "allagisch[a] Melone",
+        "Singular_en": "Allagan melon",
+        "Singular_fr": "melon allagois",
+        "Singular_ja": "\u30a2\u30e9\u30ac\u30f3\u30e1\u30ed\u30f3",
+        "Singular_ko": "\uc54c\ub77c\uadf8 \uc218\ubc15"
+    },
+    "387": {
+        "0xID": "183",
+        "Icon": "ui/icon/004000/004787.png",
+        "Singular_cn": "\u6c99\u72d0",
+        "Singular_de": "Sandfuchs",
+        "Singular_en": "sand fox",
+        "Singular_fr": "renard des sables",
+        "Singular_ja": "\u30b5\u30f3\u30c9\u30d5\u30a9\u30c3\u30af\u30b9",
+        "Singular_ko": "\ubaa8\ub798\uc5ec\uc6b0"
+    },
+    "388": {
+        "0xID": "184",
+        "Icon": "ui/icon/004000/004788.png",
+        "Singular_cn": "\u65e0\u9f7f\u7ffc\u9f99\u5e7c\u5d3d",
+        "Singular_de": "Pteranoknirps",
+        "Singular_en": "petit pteranodon",
+        "Singular_fr": "ptiranodon",
+        "Singular_ja": "\u30d7\u30c1\u30e9\u30ce\u30c9\u30f3",
+        "Singular_ko": "\ud504\ud2f0\ub77c\ub178\ub3c8"
+    },
+    "389": {
+        "0xID": "185",
+        "Icon": "ui/icon/004000/004789.png",
+        "Singular_cn": "\u8fbe\u56e0\u65af\u83b1\u74e6\u8ffd\u8e2a\u578b",
+        "Singular_de": "A-D\u00e1insleif",
+        "Singular_en": "D\u00e1insleif F1",
+        "Singular_fr": "D\u00e1insleif S1",
+        "Singular_ja": "\u30c0\u30fc\u30a4\u30f3\u30b9\u30ec\u30a4\u30f4\u8ffd\u5f93\u578b",
+        "Singular_ko": "\ub2e4\uc778\uc2ac\ub77c\uc774\ud504 \ucd94\uc885\ud615"
+    },
+    "39": {
+        "0xID": "27",
+        "Icon": "ui/icon/004000/004434.png",
+        "Singular_cn": "\u5c0f\u5c71\u7f8a\u73a9\u5076",
+        "Singular_de": "Steinbock-Stofftier",
+        "Singular_en": "wind-up aldgoat",
+        "Singular_fr": "mini-bouquetin",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b4\u30fc\u30c8",
+        "Singular_ko": "\ud070\ubfd4\uc5fc\uc18c \uc778\ud615"
+    },
+    "390": {
+        "0xID": "186",
+        "Icon": "ui/icon/004000/004790.png",
+        "Singular_cn": "\u960e\u9b54",
+        "Singular_de": "Meister Enma",
+        "Singular_en": "Lord Enma",
+        "Singular_fr": "baron Enma",
+        "Singular_ja": "\u30a8\u30f3\u30de",
+        "Singular_ko": "\uc5fc\ub77c\ub300\uc655"
+    },
+    "391": {
+        "0xID": "187",
+        "Icon": "ui/icon/004000/004791.png",
+        "Singular_cn": "\u86c7\u738b\u51ef\u62c9",
+        "Singular_de": "Meister Ananta",
+        "Singular_en": "Lord Ananta",
+        "Singular_fr": "baron Ananta",
+        "Singular_ja": "\u86c7\u738b\u30ab\u30a4\u30e9",
+        "Singular_ko": "\ubc40\uc655 \uce74\uc774\ub77c"
+    },
+    "392": {
+        "0xID": "188",
+        "Icon": "ui/icon/004000/004792.png",
+        "Singular_cn": "\u6ed1\u5934\u9b3c",
+        "Singular_de": "Sasel",
+        "Singular_en": "Zazel",
+        "Singular_fr": "Zazel",
+        "Singular_ja": "\u306c\u3089\u308a\u3072\u3087\u3093",
+        "Singular_ko": "\uc544\uc218\ub77c"
+    },
+    "393": {
+        "0xID": "189",
+        "Icon": "ui/icon/004000/004793.png",
+        "Singular_cn": "\u767e\u9b3c\u516c\u4e3b",
+        "Singular_de": "D\u00e4mona",
+        "Singular_en": "Damona",
+        "Singular_fr": "Damona",
+        "Singular_ja": "\u767e\u9b3c\u59eb",
+        "Singular_ko": "\ubc31\uadc0\uacf5\uc8fc"
+    },
+    "394": {
+        "0xID": "18A",
+        "Icon": "ui/icon/004000/004794.png",
+        "Singular_cn": "2B",
+        "Singular_de": "Aufzieh-2B",
+        "Singular_en": "2B automaton",
+        "Singular_fr": "automate 2B",
+        "Singular_ja": "\u30aa\u30fc\u30c8\u30de\u30c8\u30f3\uff12\uff22",
+        "Singular_ko": "\uc790\ub3d9\uc778\ud615 2B"
+    },
+    "395": {
+        "0xID": "18B",
+        "Icon": "ui/icon/004000/004795.png",
+        "Singular_cn": "2P",
+        "Singular_de": "Aufzieh-2P",
+        "Singular_en": "2P automaton",
+        "Singular_fr": "automate 2P",
+        "Singular_ja": "\u30aa\u30fc\u30c8\u30de\u30c8\u30f3\uff12\uff30",
+        "Singular_ko": "\uc790\ub3d9\uc778\ud615 2P"
+    },
+    "396": {
+        "0xID": "18C",
+        "Icon": "ui/icon/004000/004796.png",
+        "Singular_cn": "\u83ab\u83ab\u62c9\u00b7\u83ab\u62c9\uff01\uff01\uff01",
+        "Singular_de": "anh\u00e4nglich[a] Momora Mora",
+        "Singular_en": "much-coveted Mora",
+        "Singular_fr": "Momo Ramora",
+        "Singular_ja": "\u30e2\u30e2\u30e9\u30fb\u30e2\u30e9\uff01\uff01\uff01",
+        "Singular_ko": "\ubaa8\ubaa8\ub77c \ubaa8\ub77c!!!"
+    },
+    "397": {
+        "0xID": "18D",
+        "Icon": "ui/icon/004000/004797.png",
+        "Singular_cn": "\u5e0c\u5c14\u5fb7\u62c9\u7ea7\u6f5c\u6c34\u8247P\u578b",
+        "Singular_de": "P-Tauchboot der Klasse \u201eSyldra\u201c",
+        "Singular_en": "Syldrion-class insubmersible",
+        "Singular_fr": "sous-marin a\u00e9rien de classe Syldra",
+        "Singular_ja": "\u30b7\u30eb\u30c9\u30e9\u7d1a\u6f5c\u6c34\u8266P\u578b",
+        "Singular_ko": "\uc2e4\ub4dc\ub77c\uae09 \uc7a0\uc218\ud568 P\ud615"
+    },
+    "398": {
+        "0xID": "18E",
+        "Icon": "ui/icon/004000/004798.png",
+        "Singular_cn": "\u8ff7\u4f60\u76d6\u5a05",
+        "Singular_de": "Gaia-Puppe",
+        "Singular_en": "wind-up Gaia",
+        "Singular_fr": "Ga\u00efa miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ac\u30a4\u30a2",
+        "Singular_ko": "\uac00\uc774\uc544 \uc778\ud615"
+    },
+    "399": {
+        "0xID": "18F",
+        "Icon": "ui/icon/004000/004799.png",
+        "Singular_cn": "\u8ff7\u4f60\u5e15\u7f57\u59c6",
+        "Singular_de": "Palom-Puppe",
+        "Singular_en": "wind-up Palom",
+        "Singular_fr": "Palom miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d1\u30ed\u30e0",
+        "Singular_ko": "\ud30c\ub86c \uc778\ud615"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/004000/004404.png",
+        "Singular_cn": "\u51ef\u7279\u897f\u5a03\u5a03",
+        "Singular_de": "Cait Sith-Puppe",
+        "Singular_en": "Cait Sith doll",
+        "Singular_fr": "poup\u00e9e Cait Sith",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b1\u30c3\u30c8\u30b7\u30fc",
+        "Singular_ko": "\uce90\ud2b8\uc2dc \uc778\ud615"
+    },
+    "40": {
+        "0xID": "28",
+        "Icon": "ui/icon/004000/004435.png",
+        "Singular_cn": "\u5e7c\u78a7\u4f01\u9e45",
+        "Singular_de": "Apkallu-K\u00fcken",
+        "Singular_en": "fledgling apkallu",
+        "Singular_fr": "apkallu nain",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30a2\u30d7\u30ab\u30eb",
+        "Singular_ko": "\uaf2c\ub9c8 \uc544\ud504\uce7c\ub8e8"
+    },
+    "400": {
+        "0xID": "190",
+        "Icon": "ui/icon/004000/004800.png",
+        "Singular_cn": "\u8ff7\u4f60\u666e\u7f57\u59c6",
+        "Singular_de": "Porom-Puppe",
+        "Singular_en": "wind-up Porom",
+        "Singular_fr": "Porom miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30dd\u30ed\u30e0",
+        "Singular_ko": "\ud3ec\ub86c \uc778\ud615"
+    },
+    "401": {
+        "0xID": "191",
+        "Icon": "ui/icon/004000/004801.png",
+        "Singular_cn": "\u8ff7\u4f60\u827e\u5409",
+        "Singular_de": "Edge-Puppe",
+        "Singular_en": "wind-up Edge",
+        "Singular_fr": "Edge miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30c3\u30b8",
+        "Singular_ko": "\uc5e3\uc9c0 \uc778\ud615"
+    },
+    "402": {
+        "0xID": "192",
+        "Icon": "ui/icon/004000/004802.png",
+        "Singular_cn": "\u8ff7\u4f60\u8389\u8fea\u4e9a",
+        "Singular_de": "Rydia-Puppe",
+        "Singular_en": "wind-up Rydia",
+        "Singular_fr": "Rydia miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ea\u30c7\u30a3\u30a2",
+        "Singular_ko": "\ub9ac\ub514\uc544 \uc778\ud615"
+    },
+    "403": {
+        "0xID": "193",
+        "Icon": "ui/icon/004000/004803.png",
+        "Singular_cn": "\u8ff7\u4f60\u7f57\u838e",
+        "Singular_de": "Rosa-Puppe",
+        "Singular_en": "wind-up Rosa",
+        "Singular_fr": "Rosa miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ed\u30fc\u30b6",
+        "Singular_ko": "\ub85c\uc790 \uc778\ud615"
+    },
+    "404": {
+        "0xID": "194",
+        "Icon": "ui/icon/004000/004804.png",
+        "Singular_cn": "\u5929\u4f51\u516c\u4e3b",
+        "Singular_de": "Prinzessinnenwache",
+        "Singular_en": "Save the Princess",
+        "Singular_fr": "Garde-la-Princesse",
+        "Singular_ja": "\u30bb\u30a4\u30d6\u30fb\u30b6\u30fb\u30d7\u30ea\u30f3\u30bb\u30b9",
+        "Singular_ko": "\uc138\uc774\ube0c \ub354 \ud504\ub9b0\uc138\uc2a4"
+    },
+    "405": {
+        "0xID": "195",
+        "Icon": "ui/icon/004000/004805.png",
+        "Singular_cn": "\u6c34\u5c0f\u6ef4",
+        "Singular_de": "Tr\u00f6pfel",
+        "Singular_en": "Drippy",
+        "Singular_fr": "Drippy",
+        "Singular_ja": "\u30c9\u30ea\u30c3\u30d4\u30fc",
+        "Singular_ko": "\ub610\ub975\uc774"
+    },
+    "406": {
+        "0xID": "196",
+        "Icon": "ui/icon/004000/004806.png",
+        "Singular_cn": "\u4e09\u89d2\u9f99\u9f99",
+        "Singular_de": "Tricero",
+        "Singular_en": "Trike",
+        "Singular_fr": "Trike",
+        "Singular_ja": "\u30c8\u30e9\u30a4\u30af",
+        "Singular_ko": "\ud2b8\ub77c\uc774\ud06c"
+    },
+    "407": {
+        "0xID": "197",
+        "Icon": "ui/icon/004000/004807.png",
+        "Singular_cn": "\u9ec4\u91d1\u5927\u6cb3\u72f8",
+        "Singular_de": "Goldbiber",
+        "Singular_en": "golden beaver",
+        "Singular_fr": "castor dor\u00e9",
+        "Singular_ja": "\u30b4\u30fc\u30eb\u30c7\u30f3\u30d3\u30fc\u30d0\u30fc",
+        "Singular_ko": "\ud669\uae08 \ube44\ubc84"
+    },
+    "408": {
+        "0xID": "198",
+        "Icon": "ui/icon/004000/004808.png",
+        "Singular_cn": "\u6d77\u5c0f\u9e25",
+        "Singular_de": "M\u00f6we",
+        "Singular_en": "gull",
+        "Singular_fr": "Go\u00e9",
+        "Singular_ja": "\u30ac\u30eb",
+        "Singular_ko": "\uac08\ub9e4\uae30"
+    },
+    "409": {
+        "0xID": "199",
+        "Icon": "ui/icon/004000/004809.png",
+        "Singular_cn": "\u5c0f\u5c0f\u98df\u8681\u517d",
+        "Singular_de": "Ameisenb\u00e4r",
+        "Singular_en": "anteater",
+        "Singular_fr": "Tamandua",
+        "Singular_ja": "\u30a2\u30f3\u30c8\u30a4\u30fc\u30bf\u30fc",
+        "Singular_ko": "\uac1c\ubbf8\ud565\uae30"
+    },
+    "41": {
+        "0xID": "29",
+        "Icon": "ui/icon/004000/004436.png",
+        "Singular_cn": "\u53d1\u82bd\u5c0f\u7329\u7329",
+        "Singular_de": "Baby-Goobbue",
+        "Singular_en": "goobbue sproutling",
+        "Singular_fr": "goobbue goulu",
+        "Singular_ja": "\u30b0\u30a5\u30fc\u30d6\u30fc\u30fb\u30b9\u30d7\u30e9\u30a6\u30c8",
+        "Singular_ko": "\uc0c8\uc2f9 \uad6c\ubd80"
+    },
+    "410": {
+        "0xID": "19A",
+        "Icon": "ui/icon/004000/004810.png",
+        "Singular_cn": "\u806a\u6167\u5c0f\u6d77\u8c5a",
+        "Singular_de": "Delphinkalb",
+        "Singular_en": "dolphin calf",
+        "Singular_fr": "b\u00e9b\u00e9 dauphin",
+        "Singular_ja": "\u30c9\u30eb\u30d5\u30a3\u30f3\u30fb\u30ab\u30d5",
+        "Singular_ko": "\uc544\uae30 \ub3cc\uace0\ub798"
+    },
+    "411": {
+        "0xID": "19B",
+        "Icon": "ui/icon/004000/004811.png",
+        "Singular_cn": "\u9b54\u5bfc\u730e\u624b\u8ffd\u8e2a\u578b",
+        "Singular_de": "A-Magitek-Pr\u00e4dator",
+        "Singular_en": "magitek predator F1",
+        "Singular_fr": "pr\u00e9dateur magitek S1",
+        "Singular_ja": "\u9b54\u5c0e\u30d7\u30ec\u30c7\u30bf\u30fc\u8ffd\u5f93\u578b",
+        "Singular_ko": "\ub9c8\ub3c4 \ud504\ub808\ub370\ud130 \ucd94\uc885\ud615"
+    },
+    "412": {
+        "0xID": "19C",
+        "Icon": "ui/icon/004000/004812.png",
+        "Singular_cn": "\u4ed9\u4eba\u523a\u5973\u58eb",
+        "Singular_de": "Se\u00f1orita Kaktor",
+        "Singular_en": "Senorita Sabotender",
+        "Singular_fr": "Se\u00f1orita Pampa",
+        "Singular_ja": "\u30bb\u30cb\u30e7\u30ea\u30fc\u30bf\u30fb\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc",
+        "Singular_ko": "\uc138\ub1e8\ub9ac\ub530 \uc0ac\ubcf4\ud150\ub354"
+    },
+    "413": {
+        "0xID": "19D",
+        "Icon": "ui/icon/004000/004813.png",
+        "Singular_cn": "\u672c\u672c\u77f3",
+        "Singular_de": "Benben-Pyramide",
+        "Singular_en": "Benben stone",
+        "Singular_fr": "Benben",
+        "Singular_ja": "\u30d9\u30f3\u30d9\u30f3",
+        "Singular_ko": "\ubca4\ubca4"
+    },
+    "414": {
+        "0xID": "19E",
+        "Icon": "ui/icon/004000/004814.png",
+        "Singular_cn": "\u6d6a\u4eba\u7684\u7bdd\u706b",
+        "Singular_de": "Reise-Lagerfeuer",
+        "Singular_en": "wanderer's campfire",
+        "Singular_fr": "feu de camp de voyageur",
+        "Singular_ja": "\u653e\u6d6a\u8005\u306e\u711a\u304d\u706b",
+        "Singular_ko": "\ubc29\ub791\uc790\uc758 \ubaa8\ub2e5\ubd88"
+    },
+    "415": {
+        "0xID": "19F",
+        "Icon": "ui/icon/004000/004815.png",
+        "Singular_cn": "\u673a\u68b0\u751f\u7269",
+        "Singular_de": "Maschinenwesen-Puppe",
+        "Singular_en": "smaller stubby",
+        "Singular_fr": "forme de vie m\u00e9canique",
+        "Singular_ja": "\u6a5f\u68b0\u751f\u547d\u4f53",
+        "Singular_ko": "\uae30\uacc4\uc0dd\uba85\uccb4"
+    },
+    "416": {
+        "0xID": "1A0",
+        "Icon": "ui/icon/004000/004816.png",
+        "Singular_cn": "\u8ff7\u4f60\u83b1\u6960",
+        "Singular_de": "Lyna-Puppe",
+        "Singular_en": "wind-up Lyna",
+        "Singular_fr": "Lyna miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e9\u30a4\u30ca",
+        "Singular_ko": "\ub77c\uc774\ub098 \uc778\ud615"
+    },
+    "417": {
+        "0xID": "1A1",
+        "Icon": "ui/icon/004000/004817.png",
+        "Singular_cn": "\u8ff7\u4f60\u9c81\u7eb3\u5c14",
+        "Singular_de": "Runar-Puppe",
+        "Singular_en": "wind-up Runar",
+        "Singular_fr": "Runar miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30eb\u30ca\u30eb",
+        "Singular_ko": "\ub8e8\ub098\ub974 \uc778\ud615"
+    },
+    "418": {
+        "0xID": "1A2",
+        "Icon": "ui/icon/004000/004818.png",
+        "Singular_cn": "\u8ff7\u4f60\u8d21\u5e0c\u5c14\u5fb7",
+        "Singular_de": "Gunnhildr-Puppe",
+        "Singular_en": "wind-up Gunnhildr",
+        "Singular_fr": "Gunnhildr miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b0\u30f3\u30d2\u30eb\u30c9",
+        "Singular_ko": "\uad70\ud790\ub4dc \uc778\ud615"
+    },
+    "419": {
+        "0xID": "1A3",
+        "Icon": "ui/icon/004000/004819.png",
+        "Singular_cn": "9S",
+        "Singular_de": "Aufzieh-9S",
+        "Singular_en": "9S automaton",
+        "Singular_fr": "automate 9S",
+        "Singular_ja": "\u30aa\u30fc\u30c8\u30de\u30c8\u30f3\uff19\uff33",
+        "Singular_ko": "\uc790\ub3d9\uc778\ud615 9S"
+    },
+    "42": {
+        "0xID": "2A",
+        "Icon": "ui/icon/004000/004437.png",
+        "Singular_cn": "\u4e00\u53e3\u5c0f\u679c\u51bb",
+        "Singular_de": "Mini-Pudding",
+        "Singular_en": "bite-sized pudding",
+        "Singular_fr": "mini-pudding",
+        "Singular_ja": "\u30df\u30cb\u30d7\u30ea\u30f3",
+        "Singular_ko": "\ubbf8\ub2c8 \ud478\ub529"
+    },
+    "420": {
+        "0xID": "1A4",
+        "Icon": "ui/icon/004000/004820.png",
+        "Singular_cn": "\u9c81\u8fea\u73a9\u5076",
+        "Singular_de": "Rudy-Stofftier",
+        "Singular_en": "wind-up Rudy",
+        "Singular_fr": "Rudy miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30eb\u30c7\u30a3",
+        "Singular_ko": "\ub8e8\ub514 \uc778\ud615"
+    },
+    "421": {
+        "0xID": "1A5",
+        "Icon": "ui/icon/004000/004821.png",
+        "Singular_cn": "\u5e7b\u6817\u658b",
+        "Singular_de": "Phantom-Rissai",
+        "Singular_en": "squirrel emperor",
+        "Singular_fr": "Rissai chim\u00e9rique",
+        "Singular_ja": "\u5e7b\u6817\u658e",
+        "Singular_ko": "\ud658\uc601 \uc728\uc7ac"
+    },
+    "422": {
+        "0xID": "1A6",
+        "Icon": "ui/icon/004000/004822.png",
+        "Singular_cn": "\u5c0f\u65d7",
+        "Singular_de": "F\u00e4hnchen",
+        "Singular_en": "Flag",
+        "Singular_fr": "Drapo",
+        "Singular_ja": "\u30d5\u30e9\u30c3\u30b0",
+        "Singular_ko": "\ud314\ub791\uc774"
+    },
+    "423": {
+        "0xID": "1A7",
+        "Icon": "ui/icon/004000/004823.png",
+        "Singular_cn": "\u5c0f\u5f02\u4e9a",
+        "Singular_de": "Klein-Ea",
+        "Singular_en": "wee Ea",
+        "Singular_fr": "mini-\u00c9a",
+        "Singular_ja": "\u30d7\u30c1\u30a4\u30fc\u30a2",
+        "Singular_ko": "\uaf2c\ub9c8 \uc774\uc544"
+    },
+    "424": {
+        "0xID": "1A8",
+        "Icon": "ui/icon/004000/004824.png",
+        "Singular_cn": "\u6885\u52a0\u65af\u4e09\u59d0\u59b9\u4e4b\u5f62",
+        "Singular_de": "Magus-Schwestern-Puppentrio",
+        "Singular_en": "wind-up Magus Sisters",
+        "Singular_fr": "s\u0153urs Magus miniatures",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e1\u30fc\u30ac\u30b9",
+        "Singular_ko": "\uba54\uc774\uac70\uc2a4 \uc778\ud615"
+    },
+    "425": {
+        "0xID": "1A9",
+        "Icon": "ui/icon/004000/004825.png",
+        "Singular_cn": "\u96c6\u6210\u5965\u5bc6\u514b\u620e",
+        "Singular_de": "Optimus Omikron",
+        "Singular_en": "optimus Omicron",
+        "Singular_fr": "Omicron Optimus",
+        "Singular_ja": "\u30aa\u30d7\u30c6\u30a3\u30de\u30b9\u30fb\u30aa\u30df\u30af\u30ed\u30f3",
+        "Singular_ko": "\uc635\ud2f0\uba38\uc2a4 \uc624\ubbf8\ud06c\ub860"
+    },
+    "426": {
+        "0xID": "1AA",
+        "Icon": "ui/icon/004000/004826.png",
+        "Singular_cn": "\u963f\u5c3c\u739b\u4e4b\u5f62",
+        "Singular_de": "Aufzieh-Anima",
+        "Singular_en": "wind-up Anima",
+        "Singular_fr": "Anima miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30cb\u30de",
+        "Singular_ko": "\uc544\ub2c8\ub9c8 \uc778\ud615"
+    },
+    "427": {
+        "0xID": "1AB",
+        "Icon": "ui/icon/004000/004827.png",
+        "Singular_cn": "\u6e38\u661f\u9e1f",
+        "Singular_de": "Sternenvogel",
+        "Singular_en": "starbird",
+        "Singular_fr": "oiseau stellaire",
+        "Singular_ja": "\u30b9\u30bf\u30fc\u30d0\u30fc\u30c9",
+        "Singular_ko": "\ubcc4\uc0c8"
+    },
+    "428": {
+        "0xID": "1AC",
+        "Icon": "ui/icon/004000/004828.png",
+        "Singular_cn": "\u7eb3\u590f\u732b",
+        "Singular_de": "nagxianisch[a] Katze",
+        "Singular_en": "Nagxian cat",
+        "Singular_fr": "chat nagxien",
+        "Singular_ja": "\u30ca\u30b0\u30b5\u30ad\u30e3\u30c3\u30c8",
+        "Singular_ko": "\ub098\uadf8\uc0e4 \uace0\uc591\uc774"
+    },
+    "429": {
+        "0xID": "1AD",
+        "Icon": "ui/icon/004000/004829.png",
+        "Singular_cn": "\u65b0\u578b\u8ff7\u4f60\u4e8e\u91cc\u6602\u70ed",
+        "Singular_de": "neu[a] Urianger-Puppe",
+        "Singular_en": "brave new Urianger",
+        "Singular_fr": "nouvel Urianger miniature",
+        "Singular_ja": "\u30cb\u30e5\u30fc\u30fb\u30a6\u30ea\u30a8\u30f3\u30b8\u30a7",
+        "Singular_ko": "\uc2e0 \uc704\ub9ac\uc559\uc81c"
+    },
+    "43": {
+        "0xID": "2B",
+        "Icon": "ui/icon/004000/004438.png",
+        "Singular_cn": "\u9b54\u5bfc\u5148\u950b\u8ffd\u8e2a\u578b",
+        "Singular_de": "Aufzieh-Frontbrecher",
+        "Singular_en": "model vanguard",
+        "Singular_fr": "maquette magitek",
+        "Singular_ja": "\u9b54\u5c0e\u30f4\u30a1\u30f3\u30ac\u30fc\u30c9\u8ffd\u5f93\u578b",
+        "Singular_ko": "\ub9c8\ub3c4 \ubc45\uac00\ub4dc \ucd94\uc885\ud615"
+    },
+    "430": {
+        "0xID": "1AE",
+        "Icon": "ui/icon/004000/004830.png",
+        "Singular_cn": "\u8ff7\u4f60\u5f17\u6817\u591a",
+        "Singular_de": "Aufzieh-Vrtra",
+        "Singular_en": "wind-up Vrtra",
+        "Singular_fr": "Vrtra miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30f4\u30ea\u30c8\u30e9",
+        "Singular_ko": "\ube0c\ub9ac\ud2b8\ub77c \uc778\ud615"
+    },
+    "431": {
+        "0xID": "1AF",
+        "Icon": "ui/icon/004000/004831.png",
+        "Singular_cn": "\u6cb3\u9a6c\u5e7c\u5d3d",
+        "Singular_de": "Flusspferdkalb",
+        "Singular_en": "hippo calf",
+        "Singular_fr": "b\u00e9b\u00e9 hippo",
+        "Singular_ja": "\u30d2\u30c3\u30dd\u30ab\u30d5",
+        "Singular_ko": "\uc791\uc740 \ud558\ub9c8"
+    },
+    "432": {
+        "0xID": "1B0",
+        "Icon": "ui/icon/004000/004832.png",
+        "Singular_cn": "\u87f9\u87f9",
+        "Singular_de": "Krabbenkrebs",
+        "Singular_en": "crabe de la crabe",
+        "Singular_fr": "crabe du crabe",
+        "Singular_ja": "\u30ab\u30cb\u30ab\u30cb",
+        "Singular_ko": "\uac8c\uac8c"
+    },
+    "433": {
+        "0xID": "1B1",
+        "Icon": "ui/icon/004000/004833.png",
+        "Singular_cn": "\u6708\u9762\u4ed9\u4eba\u523a\u738b\u5b50",
+        "Singular_de": "Lunatender-Prinz",
+        "Singular_en": "Prince Lunatender",
+        "Singular_fr": "Prince pampa s\u00e9l\u00e9nien",
+        "Singular_ja": "\u30eb\u30ca\u30c6\u30f3\u30c0\u30fc\u30fb\u30d7\u30ea\u30f3\u30b9",
+        "Singular_ko": "\ub8e8\ub098\ud150\ub354 \uc655\uc790"
+    },
+    "434": {
+        "0xID": "1B2",
+        "Icon": "ui/icon/004000/004834.png",
+        "Singular_cn": "\u5c0f\u5de8\u9b54",
+        "Singular_de": "Tr\u00f6llchen",
+        "Singular_en": "tiny troll",
+        "Singular_fr": "petit troll",
+        "Singular_ja": "\u30ea\u30c8\u30eb\u30c8\u30ed\u30eb",
+        "Singular_ko": "\uaf2c\ub9c8 \ud2b8\ub864"
+    },
+    "435": {
+        "0xID": "1B3",
+        "Icon": "ui/icon/004000/004835.png",
+        "Singular_cn": "\u795e\u6756\u5c0f\u86c7",
+        "Singular_de": "Caduceus",
+        "Singular_en": "Caduceus",
+        "Singular_fr": "Caduc\u00e9e",
+        "Singular_ja": "\u30ab\u30c9\u30a5\u30b1\u30a6\u30b9",
+        "Singular_ko": "\uce74\ub450\ucf00\uc6b0\uc2a4"
+    },
+    "436": {
+        "0xID": "1B4",
+        "Icon": "ui/icon/004000/004836.png",
+        "Singular_cn": "\u5192\u9669\u8005\u91ce\u9910\u7bee",
+        "Singular_de": "Abenteurerkorb",
+        "Singular_en": "adventure basket",
+        "Singular_fr": "malle d'aventure",
+        "Singular_ja": "\u30a2\u30c9\u30d9\u30f3\u30c1\u30e3\u30fc\u30d0\u30b9\u30b1\u30c3\u30c8",
+        "Singular_ko": "\ubaa8\ud5d8 \ubc14\uad6c\ub2c8"
+    },
+    "437": {
+        "0xID": "1B5",
+        "Icon": "ui/icon/004000/004837.png",
+        "Singular_cn": "\u9ec4\u91d1\u6070\u5854\u53f7",
+        "Singular_de": "Golden[a] Dhyata",
+        "Singular_en": "Golden Dhyata",
+        "Singular_fr": "Dhyata dor\u00e9e",
+        "Singular_ja": "\u9ec4\u91d1\u306e\u30c1\u30e3\u30bf\u53f7",
+        "Singular_ko": "\ud669\uae08\uc9c0\ud590\ud0c0\ud638"
+    },
+    "438": {
+        "0xID": "1B6",
+        "Icon": "ui/icon/004000/004838.png",
+        "Singular_cn": "\u5c0f\u8349\u8d24\u4eba",
+        "Singular_de": "Laub-Klauber",
+        "Singular_en": "greener gleaner",
+        "Singular_fr": "glaneur vert",
+        "Singular_ja": "\u30b0\u30ea\u30fc\u30f3\u30b0\u30ea\u30fc\u30ca\u30fc",
+        "Singular_ko": "\ucd08\ub85d \uc870\ub2ec\uafbc"
+    },
+    "439": {
+        "0xID": "1B7",
+        "Icon": "ui/icon/004000/004839.png",
+        "Singular_cn": "\u683c\u96f7\u5e03\u6d1b\u5f17\u73a9\u5076",
+        "Singular_de": "Grebuloff-Puppe",
+        "Singular_en": "wind-up Grebuloff",
+        "Singular_fr": "Gr\u00e9buloff miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b0\u30ec\u30d3\u30e5\u30aa\u30d5",
+        "Singular_ko": "\uadf8\ub808\ubd88\ub85c\ud504 \uc778\ud615"
+    },
+    "44": {
+        "0xID": "2C",
+        "Icon": "ui/icon/004000/004439.png",
+        "Singular_cn": "\u6076\u9b54\u7816\u5757",
+        "Singular_de": "D\u00e4monenw\u00fcrfel",
+        "Singular_en": "demon brick",
+        "Singular_fr": "bloc d\u00e9monique",
+        "Singular_ja": "\u30c7\u30e2\u30f3\u30ba\u30d6\u30ed\u30c3\u30af",
+        "Singular_ko": "\uc545\ub9c8\uc758 \ubcbd\ub3cc"
+    },
+    "440": {
+        "0xID": "1B8",
+        "Icon": "ui/icon/004000/004840.png",
+        "Singular_cn": "\u8bfa\u65af\u8d39\u62c9\u56fe",
+        "Singular_de": "Nosferatu-Puppe",
+        "Singular_en": "nosferatu",
+        "Singular_fr": "Nosferatu",
+        "Singular_ja": "\u30ce\u30b9\u30d5\u30a7\u30e9\u30c8\u30a5",
+        "Singular_ko": "\ub178\uc2a4\ud398\ub77c\ud22c"
+    },
+    "441": {
+        "0xID": "1B9",
+        "Icon": "ui/icon/004000/004841.png",
+        "Singular_cn": "\u5c0f\u5c0f\u5b88\u62a4\u8005",
+        "Singular_de": "heroisch[a] Puppe",
+        "Singular_en": "wind-up herois",
+        "Singular_fr": "h\u00e9ro\u00efne miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d8\u30ed\u30a4\u30b9",
+        "Singular_ko": "\ud5e4\ub85c\uc774\uc2a4 \uc778\ud615"
+    },
+    "442": {
+        "0xID": "1BA",
+        "Icon": "ui/icon/004000/004842.png",
+        "Singular_cn": "\u660e\u706f\u5929\u738b\u4e4b\u5f62",
+        "Singular_de": "Daivadipa-Puppe",
+        "Singular_en": "wind-up Daivadipa",
+        "Singular_fr": "Da\u00efvadipa miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c0\u30a4\u30f4\u30a1\u30c7\u30a3\u30fc\u30d1",
+        "Singular_ko": "\ub2e4\uc774\ubc14\ub514\ud30c \uc778\ud615"
+    },
+    "443": {
+        "0xID": "1BB",
+        "Icon": "ui/icon/004000/004843.png",
+        "Singular_cn": "\u738b\u5bb6\u4ed9\u4eba\u523a",
+        "Singular_de": "k\u00f6niglich[a] Lunatender",
+        "Singular_en": "royal lunatender",
+        "Singular_fr": "Roi pampa s\u00e9l\u00e9nien",
+        "Singular_ja": "\u30eb\u30ca\u30c6\u30f3\u30c0\u30fc\u30fb\u30ed\u30a4\u30e4\u30eb",
+        "Singular_ko": "\uc655\uc871 \ub8e8\ub098\ud150\ub354"
+    },
+    "444": {
+        "0xID": "1BC",
+        "Icon": "ui/icon/004000/004844.png",
+        "Singular_cn": "\u608c\u9633\u8c61\u65cf\u4eba\u5076",
+        "Singular_de": "Arkasodara-Puppe",
+        "Singular_en": "wind-up Arkasodara",
+        "Singular_fr": "Arkasodara miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30eb\u30ab\u30bd\u30fc\u30c0\u30e9",
+        "Singular_ko": "\uc544\ub974\uce74\uc18c\ub2e4\ub77c \uc778\ud615"
+    },
+    "445": {
+        "0xID": "1BD",
+        "Icon": "ui/icon/004000/004845.png",
+        "Singular_cn": "\u888b\u9f20\u73a9\u5076",
+        "Singular_de": "Aufzieh-K\u00e4nguru",
+        "Singular_en": "wind-up kangaroo",
+        "Singular_fr": "kangourou miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ab\u30f3\u30ac\u30eb\u30fc",
+        "Singular_ko": "\ucea5\uac70\ub8e8 \uc778\ud615"
+    },
+    "446": {
+        "0xID": "1BE",
+        "Icon": "ui/icon/004000/004846.png",
+        "Singular_cn": "\u539f\u578b\u6050\u614c\u88c5\u7532",
+        "Singular_de": "Proto-Brummonaut",
+        "Singular_en": "protonaught",
+        "Singular_fr": "proto-Dreadnaught",
+        "Singular_ja": "\u30d7\u30ed\u30c8\u30fb\u30c9\u30ec\u30c3\u30c9\u30ce\u30fc\u30c8",
+        "Singular_ko": "\ud504\ub85c\ud1a0 \ub4dc\ub808\ub4dc\ub178\ud2b8"
+    },
+    "447": {
+        "0xID": "1BF",
+        "Icon": "ui/icon/004000/004847.png",
+        "Singular_cn": "\u95e8\u5c0f\u5974",
+        "Singular_de": "Kapipikulu",
+        "Singular_en": "teacup Kapikulu",
+        "Singular_fr": "kapipikulu",
+        "Singular_ja": "\u30ab\u30d7\u30d7\u30af\u30eb",
+        "Singular_ko": "\ucef5\ud504\ucfe8\ub8e8"
+    },
+    "448": {
+        "0xID": "1C0",
+        "Icon": "ui/icon/004000/004848.png",
+        "Singular_cn": "\u5409\u5a03\u6c6a",
+        "Singular_de": "Chiwauwau",
+        "Singular_en": "Chewy",
+        "Singular_fr": "chihuaouaf",
+        "Singular_ja": "\u30c1\u30ef\u30ef\u30f3",
+        "Singular_ko": "\uce58\uc640\uc655"
+    },
+    "449": {
+        "0xID": "1C1",
+        "Icon": "ui/icon/004000/004849.png",
+        "Singular_cn": "\u53d1\u6761\u5c0f\u6c7d\u8f66",
+        "Singular_de": "Aufzieh-Novus D",
+        "Singular_en": "clockwork Novus D",
+        "Singular_fr": "Novus D. m\u00e9canique",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30fb\u30ce\u30a6\u30b9D",
+        "Singular_ko": "\ud0dc\uc5fd \ub178\uc6b0\uc2a4 D"
+    },
+    "45": {
+        "0xID": "2D",
+        "Icon": "ui/icon/004000/004440.png",
+        "Singular_cn": "\u5927\u5934\u5c0f\u9f39\u9f20",
+        "Singular_de": "Mini-Mull",
+        "Singular_en": "mini mole",
+        "Singular_fr": "taupe trapue",
+        "Singular_ja": "\u30df\u30cb\u30e2\u30fc\u30eb",
+        "Singular_ko": "\uc791\uc740 \ub450\ub354\uc9c0"
+    },
+    "450": {
+        "0xID": "1C2",
+        "Icon": "ui/icon/004000/004850.png",
+        "Singular_cn": "\u5f00\u5fc3\u5f69\u86cb\u5e78\u798f\u5154",
+        "Singular_de": "Wunderh\u00e4schen",
+        "Singular_en": "hatching bunny",
+        "Singular_fr": "lapr\u0153uf joyeux",
+        "Singular_ja": "\u30cf\u30c3\u30d4\u30fc\u30a8\u30c3\u30b0\u30d0\u30cb\u30fc",
+        "Singular_ko": "\ud589\uc6b4\ub2ec\uac40\ud1a0\ub07c"
+    },
+    "451": {
+        "0xID": "1C3",
+        "Icon": "ui/icon/004000/004851.png",
+        "Singular_cn": "\u8ff7\u4f60\u963f\u6cfd\u739b",
+        "Singular_de": "Azeyma-Puppe",
+        "Singular_en": "wind-up Azeyma",
+        "Singular_fr": "Azeyma miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30fc\u30bc\u30de",
+        "Singular_ko": "\uc544\uc81c\ub9c8 \uc778\ud615"
+    },
+    "452": {
+        "0xID": "1C4",
+        "Icon": "ui/icon/004000/004852.png",
+        "Singular_cn": "\u8bf8\u795e\u9ec4\u660f\u53f7\u6a21\u578b",
+        "Singular_de": "Ragnar\u00f6k-Miniatur",
+        "Singular_en": "wind-up Ragnarok",
+        "Singular_fr": "Ragnarok miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e9\u30b0\u30ca\u30ed\u30af",
+        "Singular_ko": "\ub77c\uadf8\ub098\ub85c\ud06c \ubaa8\ud615"
+    },
+    "453": {
+        "0xID": "1C5",
+        "Icon": "ui/icon/004000/004853.png",
+        "Singular_cn": "\u84dd\u8db3\u9ca3\u9e1f",
+        "Singular_de": "Blaufu\u00dft\u00f6lpel",
+        "Singular_en": "blue-footed booby",
+        "Singular_fr": "fou \u00e0 pattes bleues",
+        "Singular_ja": "\u9752\u8db3\u306e\u30ab\u30c4\u30a9",
+        "Singular_ko": "\ud478\ub978\ubc1c\uc5bc\uac00\ub2c8\uc0c8"
+    },
+    "454": {
+        "0xID": "1C6",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "455": {
+        "0xID": "1C7",
+        "Icon": "ui/icon/004000/004855.png",
+        "Singular_cn": "",
+        "Singular_de": "Aufzieh-Solus",
+        "Singular_en": "clockwork Solus",
+        "Singular_fr": "Solus m\u00e9canique",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30fb\u30bd\u30eb",
+        "Singular_ko": ""
+    },
+    "456": {
+        "0xID": "1C8",
+        "Icon": "ui/icon/004000/004856.png",
+        "Singular_cn": "\u732b\u8033\u5c0f\u5c0f\u5458",
+        "Singular_de": "Miaurizius-Puppe",
+        "Singular_en": "Felicitous Fuzzball",
+        "Singular_fr": "Madmiaouselle",
+        "Singular_ja": "\u3053\u306d\u3053\u307f\u307f\u3055\u3093",
+        "Singular_ko": "\uc57c\uc639 \uc18c\uc120\uc0dd"
+    },
+    "457": {
+        "0xID": "1C9",
+        "Icon": "ui/icon/004000/004857.png",
+        "Singular_cn": "\u8ff7\u4f60\u9057\u5149",
+        "Singular_de": "Lumini",
+        "Singular_en": "lumini",
+        "Singular_fr": "lumignon",
+        "Singular_ja": "\u30df\u30cb\u30eb\u30aa\u30f3",
+        "Singular_ko": "\ubbf8\ub2c8\ub8e8\uc5b8"
+    },
+    "458": {
+        "0xID": "1CA",
+        "Icon": "ui/icon/004000/004858.png",
+        "Singular_cn": "\u53d1\u6761\u6df1\u7ea2\u9a71\u9010\u8005",
+        "Singular_de": "rot[a] Aufzieh-Chaser",
+        "Singular_en": "clockwork crimson chaser",
+        "Singular_fr": "croiseur m\u00e9canique carmin",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30fb\u30ec\u30c3\u30c9\u30c1\u30a7\u30a4\u30b5\u30fc",
+        "Singular_ko": "\ud0dc\uc5fd \uc801\uc0c9\ucd94\uaca9\uae30"
+    },
+    "459": {
+        "0xID": "1CB",
+        "Icon": "ui/icon/004000/004859.png",
+        "Singular_cn": "\u53d1\u6761\u851a\u84dd\u9a71\u9010\u8005",
+        "Singular_de": "blau[a] Aufzieh-Chaser",
+        "Singular_en": "clockwork cerulean chaser",
+        "Singular_fr": "croiseur m\u00e9canique c\u00e9rul\u00e9en",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30fb\u30d6\u30eb\u30fc\u30c1\u30a7\u30a4\u30b5\u30fc",
+        "Singular_ko": "\ud0dc\uc5fd \uccad\uc0c9\ucd94\uaca9\uae30"
+    },
+    "46": {
+        "0xID": "2E",
+        "Icon": "ui/icon/004000/004441.png",
+        "Singular_cn": "\u7761\u7f8a\u7f8a",
+        "Singular_de": "Sch\u00e4fchen",
+        "Singular_en": "tender lamb",
+        "Singular_fr": "belin b\u00ealant",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30e9\u30e0",
+        "Singular_ko": "\uaf2c\ub9c8 \uc591"
+    },
+    "460": {
+        "0xID": "1CC",
+        "Icon": "ui/icon/004000/004860.png",
+        "Singular_cn": "\u65af\u5361\u7c73\u7559\u5c3c\u4e4b\u5f62",
+        "Singular_de": "Scarmiglione-Puppe",
+        "Singular_en": "wind-up Scarmiglione",
+        "Singular_fr": "Scarmiglione miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b9\u30ab\u30eb\u30df\u30ea\u30e7\u30fc\u30cd",
+        "Singular_ko": "\uc2a4\uce74\ub974\ubc00\ub9ac\uc624\ub124 \uc778\ud615"
+    },
+    "461": {
+        "0xID": "1CD",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "462": {
+        "0xID": "1CE",
+        "Icon": "ui/icon/004000/004862.png",
+        "Singular_cn": "\u9f2f\u9f20",
+        "Singular_de": "Flugh\u00f6rnchen",
+        "Singular_en": "pterosquirrel",
+        "Singular_fr": "momonga",
+        "Singular_ja": "\u30e2\u30e2\u30f3\u30ac",
+        "Singular_ko": "\ud558\ub298\ub2e4\ub78c\uc950"
+    },
+    "463": {
+        "0xID": "1CF",
+        "Icon": "ui/icon/004000/004863.png",
+        "Singular_cn": "\u64e6\u64e6\u7fbd\u8863\u7cbe",
+        "Singular_de": "Silkie-Schw\u00e4mmchen",
+        "Singular_en": "sponge silkie",
+        "Singular_fr": "Silkie-\u00e9ponge",
+        "Singular_ja": "\u30b9\u30dd\u30f3\u30b8\u30b7\u30eb\u30ad\u30fc",
+        "Singular_ko": "\uc2a4\ud380\uc9c0 \uc2e4\ud0a4"
+    },
+    "464": {
+        "0xID": "1D0",
+        "Icon": "ui/icon/004000/004864.png",
+        "Singular_cn": "\u6c34\u9053\u8725\u8734",
+        "Singular_de": "Unterstadt-Echse",
+        "Singular_en": "sewer skink",
+        "Singular_fr": "laveur des canalisations",
+        "Singular_ja": "\u6c34\u9053\u30c8\u30ab\u30b2",
+        "Singular_ko": "\uc218\ub3c4 \ub3c4\ub9c8\ubc40"
+    },
+    "465": {
+        "0xID": "1D1",
+        "Icon": "ui/icon/004000/004865.png",
+        "Singular_cn": "\u8ff7\u4f60\u597d\u53cb",
+        "Singular_de": "Philos-Puppe",
+        "Singular_en": "wind-up philos",
+        "Singular_fr": "ami miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d5\u30a3\u30ed\u30b9",
+        "Singular_ko": ""
+    },
+    "466": {
+        "0xID": "1D2",
+        "Icon": "ui/icon/004000/004866.png",
+        "Singular_cn": "\u8ff7\u4f60\u57c3\u91cc\u514b\u7279\u7fc1\u5c3c\u4e9a\u65af",
+        "Singular_de": "Erichthonios-Puppe",
+        "Singular_en": "wind-up Erichthonios",
+        "Singular_fr": "\u00c9richthonios miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30ea\u30af\u30c8\u30cb\u30aa\u30b9",
+        "Singular_ko": "\uc5d0\ub9ac\ud06c\ud1a0\ub2c8\uc624\uc2a4 \uc778\ud615"
+    },
+    "467": {
+        "0xID": "1D3",
+        "Icon": "ui/icon/004000/004867.png",
+        "Singular_cn": "\u67ef\u57fa\u72ac",
+        "Singular_de": "Corgi",
+        "Singular_en": "corgi",
+        "Singular_fr": "corgi",
+        "Singular_ja": "\u30b3\u30fc\u30ae\u30fc",
+        "Singular_ko": ""
+    },
+    "468": {
+        "0xID": "1D4",
+        "Icon": "ui/icon/004000/004868.png",
+        "Singular_cn": "\u5929\u84dd\u80cc\u9b54\u9e1f",
+        "Singular_de": "Himmelblaur\u00fccken",
+        "Singular_en": "sky blue back",
+        "Singular_fr": "dronte \u00e9chine-bleu ciel",
+        "Singular_ja": "\u30b9\u30ab\u30a4\u30d6\u30eb\u30fc\u30d0\u30c3\u30af",
+        "Singular_ko": ""
+    },
+    "469": {
+        "0xID": "1D5",
+        "Icon": "ui/icon/004000/004869.png",
+        "Singular_cn": "\u94c3\u5c0f\u9f99",
+        "Singular_de": "Suzusaurus",
+        "Singular_en": "suzusaurus",
+        "Singular_fr": "suzusaurus",
+        "Singular_ja": "\u30b9\u30ba\u30b5\u30a6\u30eb\u30b9",
+        "Singular_ko": ""
+    },
+    "47": {
+        "0xID": "2F",
+        "Icon": "ui/icon/004000/004451.png",
+        "Singular_cn": "\u7c98\u6db2\u80f6",
+        "Singular_de": "Schleimpf\u00fctze",
+        "Singular_en": "slime puddle",
+        "Singular_fr": "mini-gluant",
+        "Singular_ja": "\u30df\u30cb\u30b9\u30e9\u30a4\u30e0",
+        "Singular_ko": "\uc791\uc740 \uc2ac\ub77c\uc784"
+    },
+    "470": {
+        "0xID": "1D6",
+        "Icon": "ui/icon/004000/004870.png",
+        "Singular_cn": "\u81ea\u8d70\u4eba\u5076\u5988\u5988",
+        "Singular_de": "Mama-Puppe",
+        "Singular_en": "Mama automaton",
+        "Singular_fr": "automate Maman",
+        "Singular_ja": "\u30aa\u30fc\u30c8\u30de\u30c8\u30f3\u30fb\u30de\u30de",
+        "Singular_ko": ""
+    },
+    "471": {
+        "0xID": "1D7",
+        "Icon": "ui/icon/004000/004871.png",
+        "Singular_cn": "\u51ef\u7eb3\u69fd\u4e4b\u5f62",
+        "Singular_de": "Aufzieh-Cagnazzo",
+        "Singular_en": "wind-up Cagnazzo",
+        "Singular_fr": "Cagnazzo miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ab\u30a4\u30ca\u30c3\u30c4\u30a9",
+        "Singular_ko": ""
+    },
+    "472": {
+        "0xID": "1D8",
+        "Icon": "ui/icon/004000/004872.png",
+        "Singular_cn": "",
+        "Singular_de": "Findingway",
+        "Singular_en": "Findingway",
+        "Singular_fr": "Findingway",
+        "Singular_ja": "\u30d5\u30a1\u30a4\u30f3\u30c7\u30a3\u30f3\u30b0\u30a6\u30a7\u30a4",
+        "Singular_ko": ""
+    },
+    "473": {
+        "0xID": "1D9",
+        "Icon": "ui/icon/004000/004873.png",
+        "Singular_cn": "",
+        "Singular_de": "Privat-Pachypodium",
+        "Singular_en": "private pachypodium",
+        "Singular_fr": "soldate pachypodium",
+        "Singular_ja": "\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30fb\u30d1\u30ad\u30dd\u30c7\u30a3\u30a6\u30e0",
+        "Singular_ko": ""
+    },
+    "474": {
+        "0xID": "1DA",
+        "Icon": "ui/icon/004000/004874.png",
+        "Singular_cn": "\u8ff7\u4f60\u54c8\u7f57\u59ae",
+        "Singular_de": "Aufzieh-Halone",
+        "Singular_en": "wind-up Halone",
+        "Singular_fr": "Halone miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30cf\u30eb\u30aa\u30fc\u30cd",
+        "Singular_ko": ""
+    },
+    "475": {
+        "0xID": "1DB",
+        "Icon": "ui/icon/004000/004875.png",
+        "Singular_cn": "\u5c0f\u706b\u8f66",
+        "Singular_de": "Modelleisenbahn",
+        "Singular_en": "bantam train",
+        "Singular_fr": "train petit mais costaud",
+        "Singular_ja": "\u8c46\u5217\u8eca",
+        "Singular_ko": ""
+    },
+    "476": {
+        "0xID": "1DC",
+        "Icon": "ui/icon/004000/004876.png",
+        "Singular_cn": "\u8ff7\u4f60\u6208\u5fb7\u4f2f\u7279",
+        "Singular_de": "Aufzieh-Godbert",
+        "Singular_en": "wind-up Godbert",
+        "Singular_fr": "Godbert miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b4\u30c3\u30c9\u30d9\u30eb\u30c8",
+        "Singular_ko": ""
+    },
+    "477": {
+        "0xID": "1DD",
+        "Icon": "ui/icon/004000/004877.png",
+        "Singular_cn": "\u8ff7\u4f60\u827e\u591a\u7ebd\u65af",
+        "Singular_de": "Aufzieh-Aidoneus",
+        "Singular_en": "wind-up Aidoneus",
+        "Singular_fr": "Aidoneus miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30a4\u30c9\u30cd\u30a6\u30b9",
+        "Singular_ko": ""
+    },
+    "478": {
+        "0xID": "1DE",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "479": {
+        "0xID": "1DF",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "48": {
+        "0xID": "30",
+        "Icon": "ui/icon/004000/004442.png",
+        "Singular_cn": "\u5c0f\u5c0f\u8513\u5fb7\u62c9",
+        "Singular_de": "Kindragora",
+        "Singular_en": "kidragora",
+        "Singular_fr": "mini-mini-mandragore",
+        "Singular_ja": "\u30df\u30cb\u30de\u30f3\u30c9\u30e9\u30b4\u30e9",
+        "Singular_ko": "\uc791\uc740 \ub9cc\ub4dc\ub77c\uace0\ub77c"
+    },
+    "49": {
+        "0xID": "31",
+        "Icon": "ui/icon/004000/004443.png",
+        "Singular_cn": "\u54e5\u5e03\u6797\u73a9\u5076",
+        "Singular_de": "Goblin-Stofftier",
+        "Singular_en": "wind-up goblin",
+        "Singular_fr": "Gobelin articul\u00e9",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b4\u30d6\u30ea\u30f3",
+        "Singular_ko": "\uace0\ube14\ub9b0 \uc778\ud615"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/004000/004405.png",
+        "Singular_cn": "\u8d1d\u5e0c\u6469\u65af\u5b9d\u5b9d",
+        "Singular_de": "Baby-Behemoth",
+        "Singular_en": "baby behemoth",
+        "Singular_fr": "b\u00e9b\u00e9h\u00e9moth",
+        "Singular_ja": "\u30d9\u30d3\u30fc\u30e2\u30b9",
+        "Singular_ko": "\ubca0\uc774\ube44\ubaa8\uc2a4"
+    },
+    "50": {
+        "0xID": "32",
+        "Icon": "ui/icon/004000/004449.png",
+        "Singular_cn": "\u5996\u7cbe\u5a03\u5a03",
+        "Singular_de": "Sylphen-Puppe",
+        "Singular_en": "wind-up sylph",
+        "Singular_fr": "Sylphe nain",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b7\u30eb\u30d5",
+        "Singular_ko": "\uc2e4\ud504 \uc778\ud615"
+    },
+    "51": {
+        "0xID": "33",
+        "Icon": "ui/icon/004000/004444.png",
+        "Singular_cn": "\u624b\u6307\u5149\u6807",
+        "Singular_de": "Zeigerh\u00e4ndchen",
+        "Singular_en": "wind-up cursor",
+        "Singular_fr": "curseur flottant",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ab\u30fc\u30bd\u30eb",
+        "Singular_ko": "\uc790\ub3d9 \ucee4\uc11c"
+    },
+    "52": {
+        "0xID": "34",
+        "Icon": "ui/icon/004000/004445.png",
+        "Singular_cn": "\u65e0\u654c\u53f7\u6a21\u578b",
+        "Singular_de": "Aufzieh-Luftschiff",
+        "Singular_en": "wind-up airship",
+        "Singular_fr": "a\u00e9ronef m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a4\u30f3\u30d3\u30f3\u30b7\u30d6\u30eb",
+        "Singular_ko": "\ubb34\uc801\ud638 \ubaa8\ud615"
+    },
+    "53": {
+        "0xID": "35",
+        "Icon": "ui/icon/004000/004446.png",
+        "Singular_cn": "\u5362\u6069\u4eba\u73a9\u5076",
+        "Singular_de": "Qiqirn-Stofftier",
+        "Singular_en": "wind-up Qiqirn",
+        "Singular_fr": "Qiqirn m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ad\u30ad\u30eb\u30f3",
+        "Singular_ko": "\ud0a4\ud0a4\ub8ec \uc778\ud615"
+    },
+    "54": {
+        "0xID": "36",
+        "Icon": "ui/icon/004000/004448.png",
+        "Singular_cn": "\u5de7\u513f\u9ed1\u9646\u884c\u9e1f",
+        "Singular_de": "schwarz[a] Chocobo-K\u00fcken",
+        "Singular_en": "black chocobo chick",
+        "Singular_fr": "b\u00e9b\u00e9 chocobo noir",
+        "Singular_ja": "\u9ed2\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\uac80\uc740 \ucd08\ucf54\ucd08\ucf54\ubcf4"
+    },
+    "55": {
+        "0xID": "37",
+        "Icon": "ui/icon/004000/004447.png",
+        "Singular_cn": "\u53d1\u6761\u536b\u6708",
+        "Singular_de": "mechanisch[a] Dalamud",
+        "Singular_en": "wind-up Dalamud",
+        "Singular_fr": "Dalamud m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30c0\u30e9\u30ac\u30d6",
+        "Singular_ko": "\ub2ec\ub77c\uac00\ube0c \uc778\ud615"
+    },
+    "56": {
+        "0xID": "38",
+        "Icon": "ui/icon/004000/004461.png",
+        "Singular_cn": "\u593a\u5fc3\u5c0f\u9b54",
+        "Singular_de": "Mini-Gedankenschinder",
+        "Singular_en": "minute mindflayer",
+        "Singular_fr": "gentil flagelleur",
+        "Singular_ja": "\u30ab\u30a4\u30f3\u30c9\u30d5\u30ec\u30a2",
+        "Singular_ko": "\uc815\uc2e0\uc9c0\ubc30\uc544"
+    },
+    "57": {
+        "0xID": "39",
+        "Icon": "ui/icon/004000/004462.png",
+        "Singular_cn": "\u4e0d\u8bf4\u8bdd\u7684\u8702\u9e1f",
+        "Singular_de": "schnatterfaul[a] Kolibri",
+        "Singular_en": "tight-beaked parrot",
+        "Singular_fr": "perroquet taciturne",
+        "Singular_ja": "\u30a2\u30f3\u30c8\u30fc\u30ad\u30f3\u30b0\u30fb\u30b3\u30ea\u30d6\u30ea",
+        "Singular_ko": "\ub9d0 \uc5c6\ub294 \ucf5c\ub9ac\ube0c\ub9ac"
+    },
+    "58": {
+        "0xID": "3A",
+        "Icon": "ui/icon/004000/004454.png",
+        "Singular_cn": "\u8725\u8734\u4eba\u73a9\u5076",
+        "Singular_de": "Aufzieh-Amalj'aa",
+        "Singular_en": "wind-up Amalj'aa",
+        "Singular_fr": "Amalj'aa m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a2\u30de\u30eb\u30b8\u30e3",
+        "Singular_ko": "\uc544\ub9d0\uc7c8 \uc778\ud615"
+    },
+    "59": {
+        "0xID": "3B",
+        "Icon": "ui/icon/004000/004474.png",
+        "Singular_cn": "\u9e1f\u4eba\u73a9\u5076",
+        "Singular_de": "Ixal-Puppe",
+        "Singular_en": "wind-up Ixal",
+        "Singular_fr": "Ixal m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a4\u30af\u30b5\u30eb",
+        "Singular_ko": "\uc774\ud06c\uc0b4 \uc778\ud615"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/004000/004406.png",
+        "Singular_cn": "\u78a7\u6d77\u4eba\u5076003\u53f7",
+        "Singular_de": "Marionette Nr. 003L",
+        "Singular_en": "mammet #003L",
+        "Singular_fr": "pantin P003L",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8003L",
+        "Singular_ko": "\uc790\ub3d9\uc778\ud615 003L"
+    },
+    "60": {
+        "0xID": "3C",
+        "Icon": "ui/icon/004000/004463.png",
+        "Singular_cn": "\u5730\u7075\u5a03\u5a03",
+        "Singular_de": "Kobold-Puppe",
+        "Singular_en": "wind-up kobold",
+        "Singular_fr": "poup\u00e9e kobolde",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b3\u30dc\u30eb\u30c9",
+        "Singular_ko": "\ucf54\ubcfc\ub4dc \uc778\ud615"
+    },
+    "61": {
+        "0xID": "3D",
+        "Icon": "ui/icon/004000/004464.png",
+        "Singular_cn": "\u9c7c\u4eba\u73a9\u5076",
+        "Singular_de": "Jung-Sahagin",
+        "Singular_en": "wind-up Sahagin",
+        "Singular_fr": "pantin sahuagin",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b5\u30cf\u30ae\u30f3",
+        "Singular_ko": "\uc0ac\ud558\uae34 \uc778\ud615"
+    },
+    "62": {
+        "0xID": "3E",
+        "Icon": "ui/icon/004000/004455.png",
+        "Singular_cn": "\u5de8\u50cf\u4e19",
+        "Singular_de": "Golem",
+        "Singular_en": "wind-up brickman",
+        "Singular_fr": "Siman m\u00e9canique",
+        "Singular_ja": "\u30b4\u30ec\u30e0\u30b9",
+        "Singular_ko": "\uace8\ub808\ubb34\uc2a4"
+    },
+    "63": {
+        "0xID": "3F",
+        "Icon": "ui/icon/004000/004456.png",
+        "Singular_cn": "\u9999\u6258\u6258\u4eba\u5076",
+        "Singular_de": "Aufzieh-Shantotto",
+        "Singular_en": "wind-up Shantotto",
+        "Singular_fr": "poup\u00e9e Shantotto",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b7\u30e3\u30f3\u30c8\u30c3\u30c8",
+        "Singular_ko": "\uc0e8\ud1a0\ud1a0 \uc778\ud615"
+    },
+    "64": {
+        "0xID": "40",
+        "Icon": "ui/icon/004000/004457.png",
+        "Singular_cn": "\u827e\u5fb7\u8587\u96c5\u4eba\u5076",
+        "Singular_de": "Aufzieh-Edvya",
+        "Singular_en": "wind-up Edvya",
+        "Singular_fr": "mini-princesse Edvya",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30a8\u30c9\u30f4\u30a3\u30a2",
+        "Singular_ko": "\uc5d0\ub4dc\ube44\uc544 \uc778\ud615"
+    },
+    "65": {
+        "0xID": "41",
+        "Icon": "ui/icon/004000/004465.png",
+        "Singular_cn": "\u53d1\u6761\u592a\u9633",
+        "Singular_de": "portabl[a] Studiosonne",
+        "Singular_en": "wind-up sun",
+        "Singular_fr": "soleil m\u00e9canique",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30b5\u30f3",
+        "Singular_ko": "\ud0dc\uc5fd \ud0dc\uc591"
+    },
+    "66": {
+        "0xID": "42",
+        "Icon": "ui/icon/004000/004466.png",
+        "Singular_cn": "\u8f6f\u8f6f\u57ab\u5b50",
+        "Singular_de": "Sitzkissen",
+        "Singular_en": "plush cushion",
+        "Singular_fr": "coussin moelleux",
+        "Singular_ja": "\u3075\u304b\u3075\u304b\u30af\u30c3\u30b7\u30e7\u30f3",
+        "Singular_ko": "\ud479\uc2e0\ud479\uc2e0 \ubc29\uc11d"
+    },
+    "67": {
+        "0xID": "43",
+        "Icon": "ui/icon/004000/004458.png",
+        "Singular_cn": "\u5149\u4e4b\u6218\u5076",
+        "Singular_de": "Begleiter des Lichts",
+        "Singular_en": "Minion of Light",
+        "Singular_fr": "h\u00e9ros de la Lumi\u00e8re",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Singular_ko": "\ube5b\uc758 \uc778\ud615"
+    },
+    "68": {
+        "0xID": "44",
+        "Icon": "ui/icon/004000/004550.png",
+        "Singular_cn": "\u5149\u4e4b\u6218\u5076",
+        "Singular_de": "Begleiter des Lichts",
+        "Singular_en": "Minion of Light",
+        "Singular_fr": "h\u00e9ros de la Lumi\u00e8re",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Singular_ko": "\ube5b\uc758 \uc778\ud615"
+    },
+    "69": {
+        "0xID": "45",
+        "Icon": "ui/icon/004000/004551.png",
+        "Singular_cn": "\u5149\u4e4b\u6218\u5076",
+        "Singular_de": "Begleiter des Lichts",
+        "Singular_en": "Minion of Light",
+        "Singular_fr": "h\u00e9ros de la Lumi\u00e8re",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Singular_ko": "\ube5b\uc758 \uc778\ud615"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/004000/004407.png",
+        "Singular_cn": "\u5bc6\u6797\u4eba\u5076003\u53f7",
+        "Singular_de": "Marionette Nr. 003G",
+        "Singular_en": "mammet #003G",
+        "Singular_fr": "pantin P003G",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8003G",
+        "Singular_ko": "\uc790\ub3d9\uc778\ud615 003G"
+    },
+    "70": {
+        "0xID": "46",
+        "Icon": "ui/icon/004000/004552.png",
+        "Singular_cn": "\u5149\u4e4b\u6218\u5076",
+        "Singular_de": "Begleiter des Lichts",
+        "Singular_en": "Minion of Light",
+        "Singular_fr": "h\u00e9ros de la Lumi\u00e8re",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Singular_ko": "\ube5b\uc758 \uc778\ud615"
+    },
+    "71": {
+        "0xID": "47",
+        "Icon": "ui/icon/004000/004459.png",
+        "Singular_cn": "\u8896\u73cd\u9886\u8896",
+        "Singular_de": "Aufzieh-Anf\u00fchrer",
+        "Singular_en": "wind-up leader",
+        "Singular_fr": "dirigeant miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ea\u30fc\u30c0\u30fc",
+        "Singular_ko": "\uc9c0\ub3c4\uc790 \uc778\ud615"
+    },
+    "72": {
+        "0xID": "48",
+        "Icon": "ui/icon/004000/004554.png",
+        "Singular_cn": "\u8896\u73cd\u6885\u5c14\u7ef4\u5e03",
+        "Singular_de": "Aufzieh-Merlwyb",
+        "Singular_en": "wind-up Merlwyb",
+        "Singular_fr": "Merlwyb miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e1\u30eb\u30a6\u30a3\u30d6",
+        "Singular_ko": "\uba5c\uc704\ube0c \uc778\ud615"
+    },
+    "73": {
+        "0xID": "49",
+        "Icon": "ui/icon/004000/004553.png",
+        "Singular_cn": "\u8896\u73cd\u5609\u6069\u00b7\u827e",
+        "Singular_de": "Aufzieh-Kan-E",
+        "Singular_en": "wind-up Kan-E",
+        "Singular_fr": "Kan-E miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ab\u30cc\u30fb\u30a8",
+        "Singular_ko": "\uce74\ub290 \uc5d0 \uc13c\ub098 \uc778\ud615"
+    },
+    "74": {
+        "0xID": "4A",
+        "Icon": "ui/icon/004000/004555.png",
+        "Singular_cn": "\u8896\u73cd\u52b3\u73ed",
+        "Singular_de": "Aufzieh-Raubahn",
+        "Singular_en": "wind-up Raubahn",
+        "Singular_fr": "Raubahn miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e9\u30a6\u30d0\u30fc\u30f3",
+        "Singular_ko": "\ub77c\uc6b0\ubc18 \uc778\ud615"
+    },
+    "75": {
+        "0xID": "4B",
+        "Icon": "ui/icon/004000/004460.png",
+        "Singular_cn": "\u5de7\u513f\u9646\u884c\u9e1f\u738b\u5b50",
+        "Singular_de": "Chocobo-Prinz",
+        "Singular_en": "princely hatchling",
+        "Singular_fr": "prince b\u00e9b\u00e9 chocobo",
+        "Singular_ja": "\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc\u30fb\u30d7\u30ea\u30f3\u30b9",
+        "Singular_ko": "\ucd08\ucf54\ucd08\ucf54\ubcf4 \uc655\uc790"
+    },
+    "76": {
+        "0xID": "4C",
+        "Icon": "ui/icon/004000/004468.png",
+        "Singular_cn": "\u5965\u4e01\u6218\u5076",
+        "Singular_de": "Mini-Odin",
+        "Singular_en": "wind-up Odin",
+        "Singular_fr": "Odin m\u00e9canique",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30fc\u30c7\u30a3\u30f3",
+        "Singular_ko": "\uc624\ub518 \uc778\ud615"
+    },
+    "77": {
+        "0xID": "4D",
+        "Icon": "ui/icon/004000/004467.png",
+        "Singular_cn": "\u5149\u4e4b\u6218\u58eb",
+        "Singular_de": "Mini-Lichtkrieger",
+        "Singular_en": "wind-up Warrior of Light",
+        "Singular_fr": "guerrier de la Lumi\u00e8re",
+        "Singular_ja": "\u30a6\u30a9\u30fc\u30ea\u30a2\u30fb\u30aa\u30d6\u30fb\u30e9\u30a4\u30c8",
+        "Singular_ko": "\ube5b\uc758 \uc804\uc0ac \uc778\ud615"
+    },
+    "78": {
+        "0xID": "4E",
+        "Icon": "ui/icon/004000/004469.png",
+        "Singular_cn": "\u53d1\u6761\u5df4\u54c8\u59c6\u7279",
+        "Singular_de": "Aufzieh-Bahamut",
+        "Singular_en": "wind-up Bahamut",
+        "Singular_fr": "b\u00e9b\u00e9 Bahamut",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d0\u30cf\u30e0\u30fc\u30c8",
+        "Singular_ko": "\ubc14\ud558\ubb34\ud2b8 \uc778\ud615"
+    },
+    "79": {
+        "0xID": "4F",
+        "Icon": "ui/icon/004000/004472.png",
+        "Singular_cn": "\u83ab\u53e4\u529b\u5a03\u5a03",
+        "Singular_de": "Mogry-Stofftier",
+        "Singular_en": "wind-up moogle",
+        "Singular_fr": "poup\u00e9e mog",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e2\u30fc\u30b0\u30ea",
+        "Singular_ko": "\ubaa8\uadf8\ub9ac \uc778\ud615"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/004000/004408.png",
+        "Singular_cn": "\u9ec4\u6c99\u4eba\u5076003\u53f7",
+        "Singular_de": "Marionette Nr. 003U",
+        "Singular_en": "mammet #003U",
+        "Singular_fr": "pantin P003U",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8003U",
+        "Singular_ko": "\uc790\ub3d9\uc778\ud615 003U"
+    },
+    "80": {
+        "0xID": "50",
+        "Icon": "ui/icon/004000/004470.png",
+        "Singular_cn": "\u5965\u7334\u5b9d\u5b9d",
+        "Singular_de": "Stoff-Opo-Opo",
+        "Singular_en": "baby opo-opo",
+        "Singular_fr": "b\u00e9b\u00e9 opo-opo",
+        "Singular_ja": "\u30d9\u30a4\u30d3\u30fc\u30aa\u30dd\u30aa\u30dd",
+        "Singular_ko": "\uc544\uae30 \uc624\ud3ec\uc624\ud3ec"
+    },
+    "81": {
+        "0xID": "51",
+        "Icon": "ui/icon/004000/004471.png",
+        "Singular_cn": "\u9b54\u6cd5\u626b\u5e1a",
+        "Singular_de": "emsig[a] Besen",
+        "Singular_en": "magic broom",
+        "Singular_fr": "balai enchant\u00e9",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30d6\u30eb\u30fc\u30e0",
+        "Singular_ko": "\ube57\uc790\ub8e8 \uc778\ud615"
+    },
+    "82": {
+        "0xID": "52",
+        "Icon": "ui/icon/004000/004475.png",
+        "Singular_cn": "\u68a6\u9b54\u5a03\u5a03",
+        "Singular_de": "Sukkubus-Puppe",
+        "Singular_en": "wind-up succubus",
+        "Singular_fr": "poup\u00e9e succube",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b5\u30ad\u30e5\u30d0\u30b9",
+        "Singular_ko": "\uc11c\ud050\ubc84\uc2a4 \uc778\ud615"
+    },
+    "83": {
+        "0xID": "53",
+        "Icon": "ui/icon/004000/004473.png",
+        "Singular_cn": "\u96cf\u9e1f\u7956",
+        "Singular_de": "Zu-K\u00fcken",
+        "Singular_en": "zu hatchling",
+        "Singular_fr": "poussin zu",
+        "Singular_ja": "\u30ba\u30fc\u30fb\u30cf\u30c3\u30c1\u30ea\u30f3\u30b0",
+        "Singular_ko": "\uc5b4\ub9b0 \uc988"
+    },
+    "84": {
+        "0xID": "54",
+        "Icon": "ui/icon/004000/004499.png",
+        "Singular_cn": "\u8ff7\u4f60\u5a1c\u5a1c\u83ab",
+        "Singular_de": "Nanamo-Puppe",
+        "Singular_en": "wind-up Nanamo",
+        "Singular_fr": "Nanamo miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ca\u30ca\u30e2",
+        "Singular_ko": "\ub098\ub098\ubaa8 \uc778\ud615"
+    },
+    "85": {
+        "0xID": "55",
+        "Icon": "ui/icon/004000/004476.png",
+        "Singular_cn": "\u5c0f\u5c0f\u5409\u5c14\u4f3d\u7f8e\u4ec0",
+        "Singular_de": "Aufzieh-Gilgamesch",
+        "Singular_en": "wind-up Gilgamesh",
+        "Singular_fr": "pantin Gilgamesh",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30ae\u30eb\u30ac\u30e1\u30c3\u30b7\u30e5",
+        "Singular_ko": "\uae38\uac00\uba54\uc2dc \uc778\ud615"
+    },
+    "86": {
+        "0xID": "56",
+        "Icon": "ui/icon/004000/004477.png",
+        "Singular_cn": "\u6d0b\u8471\u738b\u5b50",
+        "Singular_de": "Prinz Zwiebel",
+        "Singular_en": "Onion Prince",
+        "Singular_fr": "Prince oignon",
+        "Singular_ja": "\u30aa\u30cb\u30aa\u30f3\u30d7\u30ea\u30f3\u30b9",
+        "Singular_ko": "\uc591\ud30c \uc655\uc790"
+    },
+    "87": {
+        "0xID": "57",
+        "Icon": "ui/icon/004000/004478.png",
+        "Singular_cn": "\u8304\u5b50\u9a91\u58eb",
+        "Singular_de": "Ritter Aubergine",
+        "Singular_en": "Eggplant Knight",
+        "Singular_fr": "Chevalier aubergine",
+        "Singular_ja": "\u30a8\u30c3\u30b0\u30ca\u30a4\u30c8",
+        "Singular_ko": "\uac00\uc9c0 \uae30\uc0ac"
+    },
+    "88": {
+        "0xID": "58",
+        "Icon": "ui/icon/004000/004479.png",
+        "Singular_cn": "\u849c\u5934\u660e\u661f",
+        "Singular_de": "Sir Knoblauch",
+        "Singular_en": "Garlic Jester",
+        "Singular_fr": "Baron ail",
+        "Singular_ja": "\u30ac\u30fc\u30ea\u30c3\u30af\u30b9\u30bf\u30fc",
+        "Singular_ko": "\ub9c8\ub298 \uad11\ub300"
+    },
+    "89": {
+        "0xID": "59",
+        "Icon": "ui/icon/004000/004480.png",
+        "Singular_cn": "\u756a\u8304\u56fd\u738b",
+        "Singular_de": "K\u00f6nig Tomate",
+        "Singular_en": "Tomato King",
+        "Singular_fr": "Roi tomate",
+        "Singular_ja": "\u30ad\u30f3\u30b0\u30c8\u30de\u30c8",
+        "Singular_ko": "\ud1a0\ub9c8\ud1a0 \uc655"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/004000/004409.png",
+        "Singular_cn": "\u9ed1\u6da1\u56e2\u5de7\u513f\u9646\u884c\u9e1f",
+        "Singular_de": "Mahlstrom-K\u00fcken",
+        "Singular_en": "storm hatchling",
+        "Singular_fr": "b\u00e9b\u00e9 chocobo du Maelstrom",
+        "Singular_ja": "\u9ed2\u6e26\u306e\u30c1\u30e7\u30b3\u30c1\u30e7\u30b3\u30dc",
+        "Singular_ko": "\ud751\uc640\ub2e8 \ucd08\ucf54\ucd08\ucf54\ubcf4"
+    },
+    "90": {
+        "0xID": "5A",
+        "Icon": "ui/icon/004000/004481.png",
+        "Singular_cn": "\u8513\u5fb7\u62c9\u738b\u540e",
+        "Singular_de": "K\u00f6nigin Mandragora",
+        "Singular_en": "Mandragora Queen",
+        "Singular_fr": "Reine mandragore",
+        "Singular_ja": "\u30de\u30f3\u30c9\u30e9\u30af\u30a4\u30fc\u30f3",
+        "Singular_ko": "\ub9cc\ub4dc\ub77c \uc655\ube44"
+    },
+    "91": {
+        "0xID": "5B",
+        "Icon": "ui/icon/004000/004500.png",
+        "Singular_cn": "\u8ff7\u4f60\u96c5\u00b7\u4fee\u7279\u62c9",
+        "Singular_de": "Y'shtola-Puppe",
+        "Singular_en": "wind-up Y'shtola",
+        "Singular_fr": "Y'shtola miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30e4\u30fb\u30b7\u30e5\u30c8\u30e9",
+        "Singular_ko": "\uc57c\uc288\ud1a8\ub77c \uc778\ud615"
+    },
+    "92": {
+        "0xID": "5C",
+        "Icon": "ui/icon/004000/004482.png",
+        "Singular_cn": "\u6d0b\u8471\u5c0f\u9a91\u58eb",
+        "Singular_de": "Aufzieh-Zwiebelritter",
+        "Singular_en": "wind-up onion knight",
+        "Singular_fr": "poup\u00e9e chevalier oignon",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30aa\u30cb\u30aa\u30f3",
+        "Singular_ko": "\uc591\ud30c \uc778\ud615"
+    },
+    "93": {
+        "0xID": "5D",
+        "Icon": "ui/icon/004000/004483.png",
+        "Singular_cn": "\u5b9d\u5b9d\u7bb1",
+        "Singular_de": "Schatzkiste",
+        "Singular_en": "treasure box",
+        "Singular_fr": "coffre au tr\u00e9sor m\u00e9canique",
+        "Singular_ja": "\u30c8\u30ec\u30b8\u30e3\u30fc\u30dc\u30c3\u30af\u30b9",
+        "Singular_ko": "\ubcf4\ubb3c\uc0c1\uc790"
+    },
+    "94": {
+        "0xID": "5E",
+        "Icon": "ui/icon/004000/004484.png",
+        "Singular_cn": "\u5c0f\u68a6\u8c98",
+        "Singular_de": "Tapirjung[a]",
+        "Singular_en": "tiny tapir",
+        "Singular_fr": "petit tapir",
+        "Singular_ja": "\u30bf\u30a4\u30cb\u30fc\u30d0\u30af",
+        "Singular_ko": "\uaf2c\ub9c8 \ub9e5"
+    },
+    "95": {
+        "0xID": "5F",
+        "Icon": "ui/icon/004000/004485.png",
+        "Singular_cn": "\u5a1c\u5a1c\u73c2\u5c0f\u718a",
+        "Singular_de": "Nana-Stoffb\u00e4r",
+        "Singular_en": "Nana bear",
+        "Singular_fr": "ourson de Nanakko",
+        "Singular_ja": "\u30ca\u30ca\u30c3\u30b3\u30fb\u30d9\u30a2\u30fc",
+        "Singular_ko": "\ub098\ub098 \uacf0\uc778\ud615"
+    },
+    "96": {
+        "0xID": "60",
+        "Icon": "ui/icon/004000/004486.png",
+        "Singular_cn": "\u53d1\u6761\u77ff\u8f66",
+        "Singular_de": "Miniaturlore",
+        "Singular_en": "miniature minecart",
+        "Singular_fr": "wagonnet m\u00e9canique",
+        "Singular_ja": "\u30af\u30ed\u30c3\u30af\u30ef\u30fc\u30af\u30c8\u30ed\u30c3\u30b3",
+        "Singular_ko": "\ud0dc\uc5fd \uc218\ub808"
+    },
+    "97": {
+        "0xID": "61",
+        "Icon": "ui/icon/004000/004487.png",
+        "Singular_cn": "\u98df\u679c\u82b1\u9f20",
+        "Singular_de": "Nussfresser",
+        "Singular_en": "nutkin",
+        "Singular_fr": "\u00e9cureuil grignoteur",
+        "Singular_ja": "\u30ca\u30c3\u30c4\u30a4\u30fc\u30bf\u30fc",
+        "Singular_ko": "\ub108\uce20 \uc774\ud130"
+    },
+    "98": {
+        "0xID": "62",
+        "Icon": "ui/icon/004000/004488.png",
+        "Singular_cn": "\u8ff7\u4f60\u654f\u83f2\u5229\u4e9a",
+        "Singular_de": "Minfilia-Puppe",
+        "Singular_en": "wind-up Minfilia",
+        "Singular_fr": "Minfilia miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30df\u30f3\u30d5\u30a3\u30ea\u30a2",
+        "Singular_ko": "\ubbfc\ud544\ub9ac\uc544 \uc778\ud615"
+    },
+    "99": {
+        "0xID": "63",
+        "Icon": "ui/icon/004000/004489.png",
+        "Singular_cn": "\u8ff7\u4f60\u6851\u514b\u745e\u5fb7",
+        "Singular_de": "Thancred-Puppe",
+        "Singular_en": "wind-up Thancred",
+        "Singular_fr": "Thancred miniature",
+        "Singular_ja": "\u30de\u30e1\u30c3\u30c8\u30fb\u30b5\u30f3\u30af\u30ec\u30c3\u30c9",
+        "Singular_ko": "\uc0b0\ud06c\ub808\ub4dc \uc778\ud615"
+    }
+}

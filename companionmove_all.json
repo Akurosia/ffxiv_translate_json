@@ -1,0 +1,38 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u8ddf\u4ece",
+        "Name_de": "Folgt nach",
+        "Name_en": "Obedient",
+        "Name_fr": "Poursuite",
+        "Name_ja": "\u8ffd\u5f93",
+        "Name_ko": "\ub530\ub77c\uac00\uae30"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u81ea\u4e3b",
+        "Name_de": "Unabh\u00e4ngig",
+        "Name_en": "Independent",
+        "Name_fr": "Autonome",
+        "Name_ja": "\u81ea\u5f8b",
+        "Name_ko": "\uc790\uc728 \ud589\ub3d9"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u9759\u6b62",
+        "Name_de": "Station\u00e4r",
+        "Name_en": "Stationary",
+        "Name_fr": "Statique",
+        "Name_ja": "\u9759\u6b62",
+        "Name_ko": "\uc815\uc9c0"
+    }
+}

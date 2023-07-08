@@ -1,0 +1,227 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_1_cn": "",
+        "col_1_de": "",
+        "col_1_en": "",
+        "col_1_fr": "",
+        "col_1_ja": "",
+        "col_1_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "col_1_cn": "\u9493\u5230\u6c34\u6bcd\u6216\u8783\u87f9",
+        "col_1_de": "Quallen oder Krabben fangen",
+        "col_1_en": "Catch jellyfish or crabs",
+        "col_1_fr": "Attraper des m\u00e9duses ou des crabes",
+        "col_1_ja": "\u30af\u30e9\u30b2\u307e\u305f\u306f\u30ab\u30cb\u3092\u91e3\u308b",
+        "col_1_ko": "\ud574\ud30c\ub9ac \ub610\ub294 \uac8c \ub09a\uae30"
+    },
+    "10": {
+        "0xID": "A",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u4f4e\uff08\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit schwachem Zug fangen (!)",
+        "col_1_en": "Catch fish with a weak bite (!)",
+        "col_1_fr": "Attraper un poisson qui tire peu (!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f31\u3044\u9b5a\uff08\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc57d\ud55c \ubb3c\uace0\uae30(!) \ub09a\uae30"
+    },
+    "11": {
+        "0xID": "B",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u9ad8\uff08\uff01\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit starkem Zug fangen (!!)",
+        "col_1_en": "Catch fish with a strong bite (!!)",
+        "col_1_fr": "Attraper un poisson qui tire bien (!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc13c \ubb3c\uace0\uae30(!!) \ub09a\uae30"
+    },
+    "12": {
+        "0xID": "C",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u975e\u5e38\u9ad8\uff08\uff01\uff01\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit extremem Zug fangen (!!!)",
+        "col_1_en": "Catch fish with a ferocious bite (!!!)",
+        "col_1_fr": "Attraper un poisson qui tire fort (!!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u3068\u3066\u3082\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc544\uc8fc \uc13c \ubb3c\uace0\uae30(!!!) \ub09a\uae30"
+    },
+    "13": {
+        "0xID": "D",
+        "col_1_cn": "\u9493\u5230\u8783\u87f9",
+        "col_1_de": "Krabben fangen",
+        "col_1_en": "Catch crabs",
+        "col_1_fr": "Attraper des crabes",
+        "col_1_ja": "\u30ab\u30cb\u3092\u91e3\u308b",
+        "col_1_ko": "\uac8c \ub09a\uae30"
+    },
+    "14": {
+        "0xID": "E",
+        "col_1_cn": "\u9493\u5230\u2605\u2605\u2605\u4ee5\u4e0a\u7684\u9c7c",
+        "col_1_de": "Fische mit Rang \u2605\u2605\u2605 oder h\u00f6her fangen",
+        "col_1_en": "Catch fish rated \u2605\u2605\u2605 or higher",
+        "col_1_fr": "Attraper des poissons de raret\u00e9 trois \u00e9toiles (\u2605\u2605\u2605) ou plus",
+        "col_1_ja": "\u2605\u2605\u2605\u4ee5\u4e0a\u306e\u9b5a\u3092\u91e3\u308b",
+        "col_1_ko": "\u2605\u2605\u2605 \uc774\uc0c1 \ubb3c\uace0\uae30 \ub09a\uae30"
+    },
+    "15": {
+        "0xID": "F",
+        "col_1_cn": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_de": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_en": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_fr": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_ja": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_ko": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002"
+    },
+    "16": {
+        "0xID": "10",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u4f4e\uff08\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit schwachem Zug fangen (!)",
+        "col_1_en": "Catch fish with a weak bite (!)",
+        "col_1_fr": "Attraper un poisson qui tire peu (!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f31\u3044\u9b5a\uff08\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc57d\ud55c \ubb3c\uace0\uae30(!) \ub09a\uae30"
+    },
+    "17": {
+        "0xID": "11",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u9ad8\uff08\uff01\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit starkem Zug fangen (!!)",
+        "col_1_en": "Catch fish with a strong bite (!!)",
+        "col_1_fr": "Attraper un poisson qui tire bien (!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc13c \ubb3c\uace0\uae30(!!) \ub09a\uae30"
+    },
+    "18": {
+        "0xID": "12",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u975e\u5e38\u9ad8\uff08\uff01\uff01\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit extremem Zug fangen (!!!)",
+        "col_1_en": "Catch fish with a ferocious bite (!!!)",
+        "col_1_fr": "Attraper un poisson qui tire fort (!!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u3068\u3066\u3082\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc544\uc8fc \uc13c \ubb3c\uace0\uae30(!!!) \ub09a\uae30"
+    },
+    "19": {
+        "0xID": "13",
+        "col_1_cn": "\u9493\u5230\u9c80\u7c7b",
+        "col_1_de": "Kugelfische fangen",
+        "col_1_en": "Catch fugu",
+        "col_1_fr": "Attraper des fugus",
+        "col_1_ja": "\u30d5\u30b0\u3092\u91e3\u308b",
+        "col_1_ko": "\ubcf5\uc5b4 \ub09a\uae30"
+    },
+    "2": {
+        "0xID": "2",
+        "col_1_cn": "\u9493\u5230\u2605\u2605\u2605\u4ee5\u4e0a\u7684\u9c7c",
+        "col_1_de": "Fische mit Rang \u2605\u2605\u2605 oder h\u00f6her fangen",
+        "col_1_en": "Catch fish rated \u2605\u2605\u2605 or higher",
+        "col_1_fr": "Attraper des poissons de raret\u00e9 trois \u00e9toiles (\u2605\u2605\u2605) ou plus",
+        "col_1_ja": "\u2605\u2605\u2605\u4ee5\u4e0a\u306e\u9b5a\u3092\u91e3\u308b",
+        "col_1_ko": "\u2605\u2605\u2605 \uc774\uc0c1 \ubb3c\uace0\uae30 \ub09a\uae30"
+    },
+    "20": {
+        "0xID": "14",
+        "col_1_cn": "\u9493\u5230\u2605\u2605\u2605\u4ee5\u4e0a\u7684\u9c7c",
+        "col_1_de": "Fische mit Rang \u2605\u2605\u2605 oder h\u00f6her fangen",
+        "col_1_en": "Catch fish rated \u2605\u2605\u2605 or higher",
+        "col_1_fr": "Attraper des poissons de raret\u00e9 trois \u00e9toiles (\u2605\u2605\u2605) ou plus",
+        "col_1_ja": "\u2605\u2605\u2605\u4ee5\u4e0a\u306e\u9b5a\u3092\u91e3\u308b",
+        "col_1_ko": "\u2605\u2605\u2605 \uc774\uc0c1 \ubb3c\uace0\uae30 \ub09a\uae30"
+    },
+    "21": {
+        "0xID": "15",
+        "col_1_cn": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_de": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_en": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_fr": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_ja": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_ko": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002"
+    },
+    "22": {
+        "0xID": "16",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u4f4e\uff08\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit schwachem Zug fangen (!)",
+        "col_1_en": "Catch fish with a weak bite (!)",
+        "col_1_fr": "Attraper un poisson qui tire peu (!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f31\u3044\u9b5a\uff08\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc57d\ud55c \ubb3c\uace0\uae30(!) \ub09a\uae30"
+    },
+    "23": {
+        "0xID": "17",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u9ad8\uff08\uff01\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit starkem Zug fangen (!!)",
+        "col_1_en": "Catch fish with a strong bite (!!)",
+        "col_1_fr": "Attraper un poisson qui tire bien (!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc13c \ubb3c\uace0\uae30(!!) \ub09a\uae30"
+    },
+    "24": {
+        "0xID": "18",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u975e\u5e38\u9ad8\uff08\uff01\uff01\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit extremem Zug fangen (!!!)",
+        "col_1_en": "Catch fish with a ferocious bite (!!!)",
+        "col_1_fr": "Attraper un poisson qui tire fort (!!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u3068\u3066\u3082\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc544\uc8fc \uc13c \ubb3c\uace0\uae30(!!!) \ub09a\uae30"
+    },
+    "3": {
+        "0xID": "3",
+        "col_1_cn": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_de": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_en": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_fr": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_ja": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_ko": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002"
+    },
+    "4": {
+        "0xID": "4",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u4f4e\uff08\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit schwachem Zug fangen (!)",
+        "col_1_en": "Catch fish with a weak bite (!)",
+        "col_1_fr": "Attraper un poisson qui tire peu (!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f31\u3044\u9b5a\uff08\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc57d\ud55c \ubb3c\uace0\uae30(!) \ub09a\uae30"
+    },
+    "5": {
+        "0xID": "5",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u9ad8\uff08\uff01\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit starkem Zug fangen (!!)",
+        "col_1_en": "Catch fish with a strong bite (!!)",
+        "col_1_fr": "Attraper un poisson qui tire bien (!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc13c \ubb3c\uace0\uae30(!!) \ub09a\uae30"
+    },
+    "6": {
+        "0xID": "6",
+        "col_1_cn": "\u9493\u5230\u54ac\u94a9\u5f3a\u5ea6\u975e\u5e38\u9ad8\uff08\uff01\uff01\uff01\uff09\u7684\u9c7c",
+        "col_1_de": "Fische mit extremem Zug fangen (!!!)",
+        "col_1_en": "Catch fish with a ferocious bite (!!!)",
+        "col_1_fr": "Attraper un poisson qui tire fort (!!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u3068\u3066\u3082\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": "\uc785\uc9c8\uc774 \uc544\uc8fc \uc13c \ubb3c\uace0\uae30(!!!) \ub09a\uae30"
+    },
+    "7": {
+        "0xID": "7",
+        "col_1_cn": "\u9493\u5230\u9ca8\u9c7c",
+        "col_1_de": "Haie fangen",
+        "col_1_en": "Catch sharks",
+        "col_1_fr": "Attraper des requins",
+        "col_1_ja": "\u30b5\u30e1\u3092\u91e3\u308b",
+        "col_1_ko": "\uc0c1\uc5b4 \ub09a\uae30"
+    },
+    "8": {
+        "0xID": "8",
+        "col_1_cn": "\u9493\u5230\u2605\u2605\u2605\u4ee5\u4e0a\u7684\u9c7c",
+        "col_1_de": "Fische mit Rang \u2605\u2605\u2605 oder h\u00f6her fangen",
+        "col_1_en": "Catch fish rated \u2605\u2605\u2605 or higher",
+        "col_1_fr": "Attraper des poissons de raret\u00e9 trois \u00e9toiles (\u2605\u2605\u2605) ou plus",
+        "col_1_ja": "\u2605\u2605\u2605\u4ee5\u4e0a\u306e\u9b5a\u3092\u91e3\u308b",
+        "col_1_ko": "\u2605\u2605\u2605 \uc774\uc0c1 \ubb3c\uace0\uae30 \ub09a\uae30"
+    },
+    "9": {
+        "0xID": "9",
+        "col_1_cn": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_de": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_en": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_fr": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_ja": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
+        "col_1_ko": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002"
+    }
+}

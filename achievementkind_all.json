@@ -1,0 +1,128 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u6218\u6597",
+        "Name_de": "Kampferfolge",
+        "Name_en": "Battle",
+        "Name_fr": "Combats",
+        "Name_ja": "\u30d0\u30c8\u30eb",
+        "Name_ko": "\uc804\ud22c"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u63a2\u7d22",
+        "Name_de": "Erkundungen",
+        "Name_en": "Exploration",
+        "Name_fr": "Exploration",
+        "Name_ja": "\u63a2\u691c",
+        "Name_ko": "\ud0d0\ud5d8"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u5927\u56fd\u9632\u8054\u519b",
+        "Name_de": "Staatliche Gesellschaften",
+        "Name_en": "Grand Company",
+        "Name_fr": "Grandes compagnies",
+        "Name_ja": "\u30b0\u30e9\u30f3\u30c9\u30ab\u30f3\u30d1\u30cb\u30fc",
+        "Name_ko": "\ucd1d\uc0ac\ub839\ubd80"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u9057\u4ea7",
+        "Name_de": "Legacy",
+        "Name_en": "Legacy",
+        "Name_fr": "Legacy",
+        "Name_ja": "\u30ec\u30ac\u30b7\u30fc",
+        "Name_ko": "\uc81c6\uc131\ub825"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u73a9\u5bb6\u5bf9\u6218",
+        "Name_de": "PvP",
+        "Name_en": "PvP",
+        "Name_fr": "JcJ",
+        "Name_ja": "PvP",
+        "Name_ko": "PvP"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u89d2\u8272",
+        "Name_de": "Charakter",
+        "Name_en": "Character",
+        "Name_fr": "Personnage",
+        "Name_ja": "\u30ad\u30e3\u30e9\u30af\u30bf\u30fc",
+        "Name_ko": "\uce90\ub9ad\ud130"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u9053\u5177",
+        "Name_de": "Gegenst\u00e4nde",
+        "Name_en": "Items",
+        "Name_fr": "Objets",
+        "Name_ja": "\u30a2\u30a4\u30c6\u30e0",
+        "Name_ko": "\uc544\uc774\ud15c"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u5236\u4f5c&\u91c7\u96c6",
+        "Name_de": "Synthese und Sammeln",
+        "Name_en": "Crafting & Gathering",
+        "Name_fr": "Synth\u00e8se et r\u00e9colte",
+        "Name_ja": "\u88fd\u4f5c\u30fb\u63a1\u96c6",
+        "Name_ko": "\uc81c\uc791 \ubc0f \ucc44\uc9d1"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u91c7\u96c6",
+        "Name_de": "Sammeln",
+        "Name_en": "Gathering",
+        "Name_fr": "R\u00e9colte",
+        "Name_ja": "\u63a1\u96c6",
+        "Name_ko": "\ucc44\uc9d1"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u4efb\u52a1",
+        "Name_de": "Auftr\u00e4ge",
+        "Name_en": "Quests",
+        "Name_fr": "Qu\u00eates",
+        "Name_ja": "\u30af\u30a8\u30b9\u30c8",
+        "Name_ko": "\ud018\uc2a4\ud2b8"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    }
+}

@@ -1,0 +1,382 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "ui/icon/000000/000783.png",
+        "Name_Action_cn": "\u5df2\u5931\u6548\u7684\u5feb\u6377\u53d1\u8a00",
+        "Name_Action_de": "(Entfernt)",
+        "Name_Action_en": "Deleted Message",
+        "Name_Action_fr": "Expression fig\u00e9e supprim\u00e9e",
+        "Name_Action_ja": "\u524a\u9664\u3055\u308c\u305f\u30af\u30a4\u30c3\u30af\u30c1\u30e3\u30c3\u30c8",
+        "Name_Action_ko": "\uc0ad\uc81c\ub41c \uc804\ub7b5\uc801 \ub300\ud654"
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/009000/009901.png",
+        "Name_Action_cn": "\u5927\u5bb6\u597d\uff01",
+        "Name_Action_de": "Hallo",
+        "Name_Action_en": "Hello",
+        "Name_Action_fr": "Salut",
+        "Name_Action_ja": "\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\uff01",
+        "Name_Action_ko": "\uc548\ub155\ud558\uc138\uc694"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/009000/009910.png",
+        "Name_Action_cn": "\u7784\u51c6\u72fc\u5fc3",
+        "Name_Action_de": "Wolfsherz-Depot",
+        "Name_Action_en": "Wolf's Heart",
+        "Name_Action_fr": "Objectif : ravitaillement c\u0153ur-de-loup",
+        "Name_Action_ja": "\u72d9\u3046\uff1a\u30a6\u30eb\u30d5\u30cf\u30fc\u30c8\u30dc\u30c3\u30af\u30b9",
+        "Name_Action_ko": "\ubaa9\ud45c: \ub291\ub300\uc2ec\uc7a5 \uc0c1\uc790"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/009000/009911.png",
+        "Name_Action_cn": "\u653b\u51fb\u9632\u62a4\u804c\u4e1a",
+        "Name_Action_de": "Verteidiger angreifen",
+        "Name_Action_en": "Attacking Tank",
+        "Name_Action_fr": "Attaque : tank",
+        "Name_Action_ja": "\u653b\u6483\uff1a\u30bf\u30f3\u30af",
+        "Name_Action_ko": "\uacf5\uaca9: \ubc29\uc5b4 \uc5ed\ud560"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/009000/009912.png",
+        "Name_Action_cn": "\u653b\u51fb\u6cbb\u7597\u804c\u4e1a",
+        "Name_Action_de": "Heiler angreifen",
+        "Name_Action_en": "Attacking Healer",
+        "Name_Action_fr": "Attaque : soigneur",
+        "Name_Action_ja": "\u653b\u6483\uff1a\u30d2\u30fc\u30e9\u30fc",
+        "Name_Action_ko": "\uacf5\uaca9: \ud68c\ubcf5 \uc5ed\ud560"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/009000/009913.png",
+        "Name_Action_cn": "\u653b\u51fb\u8fd1\u6218\u804c\u4e1a",
+        "Name_Action_de": "Nahk\u00e4mpfer angreifen",
+        "Name_Action_en": "Attacking Melee DPS",
+        "Name_Action_fr": "Attaque : DPS de m\u00eal\u00e9e",
+        "Name_Action_ja": "\u653b\u6483\uff1a\u30e1\u30ec\u30fc",
+        "Name_Action_ko": "\uacf5\uaca9: \uadfc\uac70\ub9ac \uacf5\uaca9 \uc5ed\ud560"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/009000/009914.png",
+        "Name_Action_cn": "\u653b\u51fb\u8fdc\u7a0b\u804c\u4e1a",
+        "Name_Action_de": "Fernk\u00e4mpfer angreifen",
+        "Name_Action_en": "Attacking Ranged DPS",
+        "Name_Action_fr": "Attaque : DPS \u00e0 distance",
+        "Name_Action_ja": "\u653b\u6483\uff1a\u30ec\u30f3\u30b8",
+        "Name_Action_ko": "\uacf5\uaca9: \uc6d0\uac70\ub9ac \uacf5\uaca9 \uc5ed\ud560"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/009000/009915.png",
+        "Name_Action_cn": "\u62d6\u4f4f\u9632\u62a4\u804c\u4e1a",
+        "Name_Action_de": "Verteidiger ausschalten",
+        "Name_Action_en": "Stopping Tank",
+        "Name_Action_fr": "Immobilisation : tank",
+        "Name_Action_ja": "\u8db3\u6b62\u3081\uff1a\u30bf\u30f3\u30af",
+        "Name_Action_ko": "\uc18d\ubc15: \ubc29\uc5b4 \uc5ed\ud560"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/009000/009916.png",
+        "Name_Action_cn": "\u62d6\u4f4f\u6cbb\u7597\u804c\u4e1a",
+        "Name_Action_de": "Heiler ausschalten",
+        "Name_Action_en": "Stopping Healer",
+        "Name_Action_fr": "Immobilisation : soigneur",
+        "Name_Action_ja": "\u8db3\u6b62\u3081\uff1a\u30d2\u30fc\u30e9\u30fc",
+        "Name_Action_ko": "\uc18d\ubc15: \ud68c\ubcf5 \uc5ed\ud560"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/009000/009917.png",
+        "Name_Action_cn": "\u62d6\u4f4f\u8fd1\u6218\u804c\u4e1a",
+        "Name_Action_de": "Nahk\u00e4mpfer ausschalten",
+        "Name_Action_en": "Stopping Melee DPS",
+        "Name_Action_fr": "Immobilisation : DPS de m\u00eal\u00e9e",
+        "Name_Action_ja": "\u8db3\u6b62\u3081\uff1a\u30e1\u30ec\u30fc",
+        "Name_Action_ko": "\uc18d\ubc15: \uadfc\uac70\ub9ac \uacf5\uaca9 \uc5ed\ud560"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/009000/009918.png",
+        "Name_Action_cn": "\u62d6\u4f4f\u8fdc\u7a0b\u804c\u4e1a",
+        "Name_Action_de": "Fernk\u00e4mpfer ausschalten",
+        "Name_Action_en": "Stopping Ranged DPS",
+        "Name_Action_fr": "Immobilisation : DPS \u00e0 distance",
+        "Name_Action_ja": "\u8db3\u6b62\u3081\uff1a\u30ec\u30f3\u30b8",
+        "Name_Action_ko": "\uc18d\ubc15: \uc6d0\uac70\ub9ac \uacf5\uaca9 \uc5ed\ud560"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/009000/009919.png",
+        "Name_Action_cn": "\u6211\u6765\u62fe\u53d6\u6218\u7ae0",
+        "Name_Action_de": "Medaillen aufsammeln",
+        "Name_Action_en": "Collecting Medals",
+        "Name_Action_fr": "\u00c0 moi les m\u00e9dailles",
+        "Name_Action_ja": "\u30e1\u30c0\u30eb\uff1a\u62fe\u3044\u307e\u3059",
+        "Name_Action_ko": "\uba54\ub2ec \uc8fc\uc6b8\uac8c\uc694"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/009000/009902.png",
+        "Name_Action_cn": "\u8f9b\u82e6\u4e86\uff01",
+        "Name_Action_de": "Gutes Spiel",
+        "Name_Action_en": "Good Match",
+        "Name_Action_fr": "Beau combat",
+        "Name_Action_ja": "\u304a\u75b2\u308c\u69d8\u3067\u3057\u305f\uff01",
+        "Name_Action_ko": "\uc218\uace0\ud558\uc168\uc2b5\ub2c8\ub2e4"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/009000/009920.png",
+        "Name_Action_cn": "\u8bf7\u53bb\u62fe\u53d6\u6218\u7ae0",
+        "Name_Action_de": "Medaillen holen lassen",
+        "Name_Action_en": "Get Medals",
+        "Name_Action_fr": "\u00c0 vous les m\u00e9dailles",
+        "Name_Action_ja": "\u30e1\u30c0\u30eb\uff1a\u62fe\u3063\u3066\u304f\u3060\u3055\u3044",
+        "Name_Action_ko": "\uba54\ub2ec \uc8fc\uc6cc\uc8fc\uc138\uc694"
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/009000/009921.png",
+        "Name_Action_cn": "\u547c\u5401\u8fdb\u653b",
+        "Name_Action_de": "Angriff",
+        "Name_Action_en": "Charge",
+        "Name_Action_fr": "Attaque",
+        "Name_Action_ja": "\u53f7\u4ee4\uff1a\u653b\u6483",
+        "Name_Action_ko": "\uc804\uc6d0 \uacf5\uaca9"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/009000/009922.png",
+        "Name_Action_cn": "\u547c\u5401\u64a4\u9000",
+        "Name_Action_de": "R\u00fcckzug",
+        "Name_Action_en": "Retreat",
+        "Name_Action_fr": "Repli",
+        "Name_Action_ja": "\u53f7\u4ee4\uff1a\u64a4\u9000",
+        "Name_Action_ko": "\uc804\uc6d0 \ud6c4\ud1f4"
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "ui/icon/009000/009923.png",
+        "Name_Action_cn": "\u6c47\u62a5\u9b54\u529b",
+        "Name_Action_de": "MP",
+        "Name_Action_en": "MP",
+        "Name_Action_fr": "PM",
+        "Name_Action_ja": "\u5831\u544a\uff1aMP",
+        "Name_Action_ko": "MP \uc794\ub7c9"
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "ui/icon/009000/009924.png",
+        "Name_Action_cn": "\u6c47\u62a5\u6280\u529b",
+        "Name_Action_de": "TP",
+        "Name_Action_en": "TP",
+        "Name_Action_fr": "PT",
+        "Name_Action_ja": "\u5831\u544a\uff1aTP",
+        "Name_Action_ko": "TP \uc794\ub7c9"
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/009000/009925.png",
+        "Name_Action_cn": "\u653b\u51fb\u76ee\u6807",
+        "Name_Action_de": "Ziel angreifen",
+        "Name_Action_en": "Attacking Target",
+        "Name_Action_fr": "Attaque : cible",
+        "Name_Action_ja": "\u653b\u6483\uff1a\u30bf\u30fc\u30b2\u30c3\u30c8",
+        "Name_Action_ko": "\ub300\uc0c1 \uacf5\uaca9"
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/009000/009926.png",
+        "Name_Action_cn": "\u5e72\u6270\u76ee\u6807",
+        "Name_Action_de": "Ziel aufhalten",
+        "Name_Action_en": "Blocking Target",
+        "Name_Action_fr": "Entrave : cible",
+        "Name_Action_ja": "\u59a8\u5bb3\uff1a\u30bf\u30fc\u30b2\u30c3\u30c8",
+        "Name_Action_ko": "\ub300\uc0c1 \ubc29\ud574"
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/009000/009928.png",
+        "Name_Action_cn": "\u6c47\u62a5\u5bf9\u6218\u7528\u989d\u5916\u6280\u80fd2",
+        "Name_Action_de": "Erg\u00e4nzendes PvP-Kommando 2",
+        "Name_Action_en": "Additional Action 2",
+        "Name_Action_fr": "Disponibilit\u00e9 : [talent 2]",
+        "Name_Action_ja": "\u5831\u544a\uff1aPvP\u30a2\u30c7\u30a3\u30b7\u30e7\u30ca\u30eb\u30a2\u30af\u30b7\u30e7\u30f32",
+        "Name_Action_ko": "PvP \ubcf4\uc870 \uae30\uc220 2"
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/009000/009935.png",
+        "Name_Action_cn": "\u547c\u5401\u96c6\u4e2d\u653b\u51fb\u76ee\u6807",
+        "Name_Action_de": "Fokusangriff",
+        "Name_Action_en": "Focus Attack",
+        "Name_Action_fr": "Attaque focalis\u00e9e",
+        "Name_Action_ja": "\u53f7\u4ee4\uff1a\u96c6\u4e2d\u653b\u6483\u958b\u59cb",
+        "Name_Action_ko": "\uc9d1\uc911 \uacf5\uaca9 \uac1c\uc2dc"
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/009000/009936.png",
+        "Name_Action_cn": "\u547c\u5401\u505c\u6b62\u96c6\u4e2d\u653b\u51fb",
+        "Name_Action_de": "Fokusangriff beenden",
+        "Name_Action_en": "End Focused Attack",
+        "Name_Action_fr": "Attaque libre",
+        "Name_Action_ja": "\u53f7\u4ee4\uff1a\u96c6\u4e2d\u653b\u6483\u4e2d\u6b62",
+        "Name_Action_ko": "\uc9d1\uc911 \uacf5\uaca9 \uc911\uc9c0"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/009000/009903.png",
+        "Name_Action_cn": "\u8c22\u8c22\uff01",
+        "Name_Action_de": "Danke",
+        "Name_Action_en": "Thank You",
+        "Name_Action_fr": "Merci",
+        "Name_Action_ja": "\u3042\u308a\u304c\u3068\u3046\uff01",
+        "Name_Action_ko": "\uac10\uc0ac\ud569\ub2c8\ub2e4"
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/009000/009965.png",
+        "Name_Action_cn": "\u9053\u6b49",
+        "Name_Action_de": "Entschuldigung",
+        "Name_Action_en": "Sorry",
+        "Name_Action_fr": "Pardon",
+        "Name_Action_ja": "\u3054\u3081\u3093\u306a\u3055\u3044",
+        "Name_Action_ko": "\uc8c4\uc1a1\ud569\ub2c8\ub2e4"
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/009000/009966.png",
+        "Name_Action_cn": "\u81ea\u8eab\u524d\u8fdb",
+        "Name_Action_de": "Vorr\u00fccken",
+        "Name_Action_en": "Going Ahead",
+        "Name_Action_fr": "Positionnement : avant",
+        "Name_Action_ja": "\u884c\u52d5\uff1a\u524d\u9032",
+        "Name_Action_ko": "\uc790\uc2e0 \uc804\uc9c4"
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/009000/009967.png",
+        "Name_Action_cn": "\u81ea\u8eab\u540e\u64a4",
+        "Name_Action_de": "Zur\u00fcckfallen",
+        "Name_Action_en": "Falling Back",
+        "Name_Action_fr": "Positionnement : arri\u00e8re",
+        "Name_Action_ja": "\u884c\u52d5\uff1a\u5f8c\u9000",
+        "Name_Action_ko": "\uc790\uc2e0 \ud6c4\ud1f4"
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/009000/009968.png",
+        "Name_Action_cn": "\u6211\u6765\u62bc\u8fd0\u6218\u672f\u6c34\u6676",
+        "Name_Action_de": "Kristall eskortieren",
+        "Name_Action_en": "Moving Crystal",
+        "Name_Action_fr": "Cristal tactique : escorte",
+        "Name_Action_ja": "\u30bf\u30af\u30c6\u30a3\u30ab\u30eb\u30af\u30ea\u30b9\u30bf\u30eb\uff1a\u904b\u3073\u307e\u3059\uff01",
+        "Name_Action_ko": "\uc804\uc220 \ud06c\ub9ac\uc2a4\ud0c8 \uc6b4\ubc18"
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/009000/009969.png",
+        "Name_Action_cn": "\u8bf7\u53bb\u62bc\u8fd0\u6218\u672f\u6c34\u6676",
+        "Name_Action_de": "Kristalleskorte anfordern",
+        "Name_Action_en": "Push Crystal",
+        "Name_Action_fr": "Cristal tactique : demande d'escorte",
+        "Name_Action_ja": "\u30bf\u30af\u30c6\u30a3\u30ab\u30eb\u30af\u30ea\u30b9\u30bf\u30eb\uff1a\u904b\u3093\u3067\u304f\u3060\u3055\u3044\uff01",
+        "Name_Action_ko": "\uc804\uc220 \ud06c\ub9ac\uc2a4\ud0c8 \uc6b4\ubc18 \uc694\uccad"
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/009000/009964.png",
+        "Name_Action_cn": "\u63a9\u62a4\u76ee\u6807",
+        "Name_Action_de": "Ziel decken",
+        "Name_Action_en": "Covering Target",
+        "Name_Action_fr": "Soutien : cible",
+        "Name_Action_ja": "\u63f4\u8b77\uff1a\u30bf\u30fc\u30b2\u30c3\u30c8",
+        "Name_Action_ko": "\ub300\uc0c1 \uc9c0\uc6d0"
+    },
+    "36": {
+        "0xID": "24",
+        "Icon": "ui/icon/009000/009970.png",
+        "Name_Action_cn": "\u81ea\u8eab\u53d1\u52a8\u6781\u9650\u6280",
+        "Name_Action_de": "Limitrausch ausf\u00fchren",
+        "Name_Action_en": "Executing Limit Break",
+        "Name_Action_fr": "Activation : Transcendance",
+        "Name_Action_ja": "\u884c\u52d5\uff1a\u30ea\u30df\u30c3\u30c8\u30d6\u30ec\u30a4\u30af\u5b9f\u884c",
+        "Name_Action_ko": "\ub9ac\ubbf8\ud2b8 \ube0c\ub808\uc774\ud06c \uc2e4\ud589"
+    },
+    "37": {
+        "0xID": "25",
+        "Icon": "ui/icon/009000/009971.png",
+        "Name_Action_cn": "\u547c\u5401\u96c6\u5408",
+        "Name_Action_de": "Versammeln",
+        "Name_Action_en": "Group Up",
+        "Name_Action_fr": "Regroupement",
+        "Name_Action_ja": "\u53f7\u4ee4\uff1a\u96c6\u5408",
+        "Name_Action_ko": "\uc9d1\ud569"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/009000/009904.png",
+        "Name_Action_cn": "\u6f02\u4eae\uff01",
+        "Name_Action_de": "Gut gemacht",
+        "Name_Action_en": "Nice Job",
+        "Name_Action_fr": "Bien jou\u00e9",
+        "Name_Action_ja": "\u30ca\u30a4\u30b9\uff01",
+        "Name_Action_ko": "\uc798\ud558\uc168\uc5b4\uc694"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/009000/009927.png",
+        "Name_Action_cn": "\u6c47\u62a5\u5bf9\u6218\u7528\u989d\u5916\u6280\u80fd1",
+        "Name_Action_de": "Erg\u00e4nzendes PvP-Kommando 1",
+        "Name_Action_en": "Additional Action 1",
+        "Name_Action_fr": "Disponibilit\u00e9 : [talent 1]",
+        "Name_Action_ja": "\u5831\u544a\uff1aPvP\u30a2\u30c7\u30a3\u30b7\u30e7\u30ca\u30eb\u30a2\u30af\u30b7\u30e7\u30f31",
+        "Name_Action_ko": "PvP \ubcf4\uc870 \uae30\uc220 1"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/009000/009906.png",
+        "Name_Action_cn": "\u6c47\u62a5\u6781\u9650\u6280",
+        "Name_Action_de": "Limitrausch",
+        "Name_Action_en": "Limit Break",
+        "Name_Action_fr": "Disponibilit\u00e9 : Transcendance",
+        "Name_Action_ja": "\u5831\u544a\uff1a\u30ea\u30df\u30c3\u30c8\u30d6\u30ec\u30a4\u30af",
+        "Name_Action_ko": "\ub9ac\ubbf8\ud2b8 \ube0c\ub808\uc774\ud06c"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/009000/009907.png",
+        "Name_Action_cn": "\u7784\u51c6\u653b\u51fb\u8865\u7ed9\u7bb1",
+        "Name_Action_de": "Offensiv-Depot",
+        "Name_Action_en": "Offensive Supplies",
+        "Name_Action_fr": "Objectif : ravitaillement offensif",
+        "Name_Action_ja": "\u72d9\u3046\uff1a\u30aa\u30d5\u30a7\u30f3\u30b9\u30dc\u30c3\u30af\u30b9",
+        "Name_Action_ko": "\uacf5\uaca9 \uc0c1\uc790"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/009000/009908.png",
+        "Name_Action_cn": "\u7784\u51c6\u9632\u5fa1\u8865\u7ed9\u7bb1",
+        "Name_Action_de": "Defensiv-Depot",
+        "Name_Action_en": "Defensive Supplies",
+        "Name_Action_fr": "Objectif : ravitaillement d\u00e9fensif",
+        "Name_Action_ja": "\u72d9\u3046\uff1a\u30c7\u30a3\u30d5\u30a7\u30f3\u30b9\u30dc\u30c3\u30af\u30b9",
+        "Name_Action_ko": "\ubc29\uc5b4 \uc0c1\uc790"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/009000/009909.png",
+        "Name_Action_cn": "\u7784\u51c6\u594b\u6218\u8865\u7ed9\u7bb1",
+        "Name_Action_de": "Adrenalin-Depot",
+        "Name_Action_en": "Adrenaline Supplies",
+        "Name_Action_fr": "Objectif : ravitaillement adr\u00e9nergique",
+        "Name_Action_ja": "\u72d9\u3046\uff1a\u30a2\u30c9\u30ec\u30ca\u30ea\u30f3\u30dc\u30c3\u30af\u30b9",
+        "Name_Action_ko": "\uc544\ub4dc\ub808\ub0a0\ub9b0 \ub2e8\uc9c0"
+    }
+}

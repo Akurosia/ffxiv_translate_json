@@ -1,0 +1,142 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "\u4e0d\u77e5\u4f55\u5904",
+        "Name_de": "Nirgendwo",
+        "Name_en": "Nowheresville",
+        "Name_fr": "Cit\u00e9 invalide",
+        "Name_ja": "\u90fd\u5e02\u7121\u52b9\u5024",
+        "Name_ko": "\ubb34\ud6a8 \ub3c4\uc2dc"
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/060000/060881.png",
+        "Name_cn": "\u5229\u59c6\u8428\u00b7\u7f57\u654f\u8428",
+        "Name_de": "Limsa Lominsa",
+        "Name_en": "Limsa Lominsa",
+        "Name_fr": "Limsa Lominsa",
+        "Name_ja": "\u30ea\u30e0\u30b5\u30fb\u30ed\u30df\u30f3\u30b5",
+        "Name_ko": "\ub9bc\uc0ac \ub85c\ubbfc\uc0ac"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/060000/060886.png",
+        "Name_cn": "\u6c34\u6676\u90fd",
+        "Name_de": "Crystarium",
+        "Name_en": "Crystarium",
+        "Name_fr": "Cristarium",
+        "Name_ja": "\u30af\u30ea\u30b9\u30bf\u30ea\u30a6\u30e0",
+        "Name_ko": "\ud06c\ub9ac\uc2a4\ud0c0\ub9ac\uc6c0"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/060000/060887.png",
+        "Name_cn": "\u65e7\u8428\u96f7\u5b89",
+        "Name_de": "Alt-Sharlayan",
+        "Name_en": "Old Sharlayan",
+        "Name_fr": "Vieille Sharlayan",
+        "Name_ja": "\u30aa\u30fc\u30eb\u30c9\u30fb\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3",
+        "Name_ko": "\uc62c\ub4dc \uc0ec\ub808\uc774\uc548"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/060000/060882.png",
+        "Name_cn": "\u683c\u91cc\u8fbe\u5c3c\u4e9a",
+        "Name_de": "Gridania",
+        "Name_en": "Gridania",
+        "Name_fr": "Gridania",
+        "Name_ja": "\u30b0\u30ea\u30c0\u30cb\u30a2",
+        "Name_ko": "\uadf8\ub9ac\ub2e4\ub2c8\uc544"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/060000/060883.png",
+        "Name_cn": "\u4e4c\u5c14\u8fbe\u54c8",
+        "Name_de": "Ul'dah",
+        "Name_en": "Ul'dah",
+        "Name_fr": "Ul'dah",
+        "Name_ja": "\u30a6\u30eb\u30c0\u30cf",
+        "Name_ko": "\uc6b8\ub2e4\ud558"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/060000/060884.png",
+        "Name_cn": "\u4f0a\u4fee\u52a0\u5fb7",
+        "Name_de": "Ishgard",
+        "Name_en": "Ishgard",
+        "Name_fr": "Ishgard",
+        "Name_ja": "\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9",
+        "Name_ko": "\uc774\uc288\uac00\ub974\ub4dc"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/060000/060885.png",
+        "Name_cn": "\u9ec4\u91d1\u6e2f",
+        "Name_de": "Kugane",
+        "Name_en": "Kugane",
+        "Name_fr": "Kugane",
+        "Name_ja": "\u30af\u30ac\u30cd",
+        "Name_ko": "\ucfe0\uac00\ub124"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    }
+}

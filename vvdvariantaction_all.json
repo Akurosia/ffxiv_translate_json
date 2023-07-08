@@ -1,0 +1,56 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u591a\u53d8\u6cbb\u7597",
+        "Name_de": "Unstetes Vita",
+        "Name_en": "Variant Cure",
+        "Name_fr": "Soin embranch\u00e9",
+        "Name_ja": "\u30f4\u30a1\u30ea\u30a2\u30f3\u30c8\u30fb\u30b1\u30a2\u30eb",
+        "Name_ko": "\ubcc0\ud615 \ucf00\uc54c"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u591a\u53d8\u6700\u540e\u901a\u7252",
+        "Name_de": "Unstetes Ultimatum",
+        "Name_en": "Variant Ultimatum",
+        "Name_fr": "Ultimatum embranch\u00e9",
+        "Name_ja": "\u30f4\u30a1\u30ea\u30a2\u30f3\u30c8\u30fb\u30a2\u30eb\u30c6\u30a3\u30e1\u30a4\u30bf\u30e0",
+        "Name_ko": "\ubcc0\ud615 \ucd5c\ud6c4\ud1b5\ucca9"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u591a\u53d8\u590d\u6d3b",
+        "Name_de": "Unstetes Wiederbeleben",
+        "Name_en": "Variant Raise",
+        "Name_fr": "Vie embranch\u00e9e",
+        "Name_ja": "\u30f4\u30a1\u30ea\u30a2\u30f3\u30c8\u30fb\u30ec\u30a4\u30ba",
+        "Name_ko": "\ubcc0\ud615 \ub808\uc774\uc988"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u591a\u53d8\u7cbe\u795e\u9556",
+        "Name_de": "Unsteter Geistpfeil",
+        "Name_en": "Variant Spirit Dart",
+        "Name_fr": "Fl\u00e8che spirituelle embranch\u00e9e",
+        "Name_ja": "\u30f4\u30a1\u30ea\u30a2\u30f3\u30c8\u30fb\u30b9\u30d4\u30ea\u30c3\u30c8\u30c0\u30fc\u30c8",
+        "Name_ko": "\ubcc0\ud615 \uc815\uc2e0\uc758 \ud654\uc0b4"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u591a\u53d8\u94c1\u58c1",
+        "Name_de": "Unsteter Schutzwall",
+        "Name_en": "Variant Rampart",
+        "Name_fr": "Rempart embranch\u00e9",
+        "Name_ja": "\u30f4\u30a1\u30ea\u30a2\u30f3\u30c8\u30fb\u30e9\u30f3\u30d1\u30fc\u30c8",
+        "Name_ko": "\ubcc0\ud615 \ucca0\ubcbd \ubc29\uc5b4"
+    }
+}

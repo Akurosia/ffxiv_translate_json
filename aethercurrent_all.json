@@ -1,0 +1,3170 @@
+{
+    "2818048": {
+        "0xID": "2B0000",
+        "Name_cn": "\u5343\u5e74\u7684\u80cc\u53db",
+        "Name_de": "Freundschaftssignale",
+        "Name_en": "Purple Flame, Purple Flame",
+        "Name_fr": "Une trahison mill\u00e9naire",
+        "Name_ja": "\u5343\u5e74\u306e\u88cf\u5207\u308a",
+        "Name_ko": "\ucc9c \ub144\uc758 \ubc30\uc2e0"
+    },
+    "2818049": {
+        "0xID": "2B0001",
+        "Name_cn": "\u77f3\u5320\u7684\u70e6\u607c",
+        "Name_de": "Die kaputte Br\u00fccke",
+        "Name_en": "Bridge over Frozen Water",
+        "Name_fr": "Ouvriers en p\u00e9ril",
+        "Name_ja": "\u77f3\u5de5\u305f\u3061\u306e\u60a9\u307f",
+        "Name_ko": "\uc11d\uacf5\ub4e4\uc758 \uace0\ubbfc"
+    },
+    "2818050": {
+        "0xID": "2B0002",
+        "Name_cn": "\u9732\u8425\u5730\u98df\u6750\u5b88\u536b\u6218",
+        "Name_de": "Camp-Vorr\u00e4te in Gefahr",
+        "Name_en": "Protecting What's Important",
+        "Name_fr": "Des ours trop gourmands",
+        "Name_ja": "\u9732\u55b6\u5730\u306e\u98df\u6599\u3092\u5b88\u308c",
+        "Name_ko": "\uc57c\uc601\uc9c0\uc758 \uc2dd\ub7c9\uc744 \uc9c0\ucf1c\ub77c"
+    },
+    "2818051": {
+        "0xID": "2B0003",
+        "Name_cn": "\u5c0f\u8bd5\u725b\u5200\u7684\u7737\u5c5e\u72e9\u730e",
+        "Name_de": "Drachenjagd f\u00fcr Anf\u00e4nger",
+        "Name_en": "Baby Steps",
+        "Name_fr": "L'\u00e9toffe des chasseurs de dragons",
+        "Name_ja": "\u7737\u5c5e\u72e9\u308a\u306e\u80a9\u6163\u3089\u3057",
+        "Name_ko": "\ubab8\ud480\uae30\ub85c \uc878\uac1c \uc0ac\ub0e5"
+    },
+    "2818052": {
+        "0xID": "2B0004",
+        "Name_cn": "\u51b0\u96ea\u5e9f\u5821\u66ae\u536b\u5854",
+        "Name_de": "Im Blutrot des Abends",
+        "Name_en": "For All the Nights to Come",
+        "Name_fr": "L'ombre du cr\u00e9puscule",
+        "Name_ja": "\u5ec3\u7826\u635c\u7d22 \u30c0\u30b9\u30af\u30f4\u30a3\u30b8\u30eb",
+        "Name_ko": "\uc5b4\uc2a4\ub984 \uc694\uc0c8"
+    },
+    "2818053": {
+        "0xID": "2B0005",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818054": {
+        "0xID": "2B0006",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818055": {
+        "0xID": "2B0007",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818056": {
+        "0xID": "2B0008",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818057": {
+        "0xID": "2B0009",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818058": {
+        "0xID": "2B000A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818059": {
+        "0xID": "2B000B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818060": {
+        "0xID": "2B000C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818061": {
+        "0xID": "2B000D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818062": {
+        "0xID": "2B000E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818063": {
+        "0xID": "2B000F",
+        "Name_cn": "\u7ffb\u8d8a\u7075\u5cf0",
+        "Name_de": "Der Kreislauf von Tod und Hass",
+        "Name_en": "Mourn in Passing",
+        "Name_fr": "Les cimes de Sohm Al",
+        "Name_ja": "\u970a\u5cf0\u3092\u8d8a\u3048\u3066",
+        "Name_ko": "\uc601\ubd09\uc744 \ub118\uc5b4\uc11c"
+    },
+    "2818064": {
+        "0xID": "2B0010",
+        "Name_cn": "\u5de1\u56de\u8c03\u67e5",
+        "Name_de": "Keine Nachrichten sind schlechte Nachrichten",
+        "Name_en": "Some Bad News",
+        "Name_fr": "On a tous nos probl\u00e8mes",
+        "Name_ja": "\u5de1\u56de\u8abf\u67fb",
+        "Name_ko": "\uc21c\ud68c\uc870\uc0ac"
+    },
+    "2818065": {
+        "0xID": "2B0011",
+        "Name_cn": "\u5929\u7136\u9a71\u9f99\u9999",
+        "Name_de": "Stinkekraut",
+        "Name_en": "Natural Repellent",
+        "Name_fr": "Une fum\u00e9e salvatrice",
+        "Name_ja": "\u72ec\u7279\u306a\u7159",
+        "Name_ko": "\ub3c5\ud2b9\ud55c \uc5f0\uae30"
+    },
+    "2818066": {
+        "0xID": "2B0012",
+        "Name_cn": "\u9a71\u9010\u5de8\u9e1f",
+        "Name_de": "Marcechamps Plan",
+        "Name_en": "Chocobo's Last Stand",
+        "Name_fr": "Le sale boulot",
+        "Name_ja": "\u5927\u7269\u306e\u99c6\u9664",
+        "Name_ko": "\uac70\ubb3c \ud1f4\uce58\ud558\uae30"
+    },
+    "2818067": {
+        "0xID": "2B0013",
+        "Name_cn": "\u9f99\u773c\u770b\u4eba\u4f4e",
+        "Name_de": "Lektion f\u00fcr Drachenjunge",
+        "Name_en": "A Lesson in Humility",
+        "Name_fr": "Une le\u00e7on pour les dragons",
+        "Name_ja": "\u30d2\u30c8\u3092\u4fae\u308b\u306a\u304b\u308c",
+        "Name_ko": "\uc778\uac04\uc744 \ubb34\uc2dc\ud558\uc9c0 \ub9c8"
+    },
+    "2818068": {
+        "0xID": "2B0014",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818069": {
+        "0xID": "2B0015",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818070": {
+        "0xID": "2B0016",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818071": {
+        "0xID": "2B0017",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818072": {
+        "0xID": "2B0018",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818073": {
+        "0xID": "2B0019",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818074": {
+        "0xID": "2B001A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818075": {
+        "0xID": "2B001B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818076": {
+        "0xID": "2B001C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818077": {
+        "0xID": "2B001D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818078": {
+        "0xID": "2B001E",
+        "Name_cn": "\u6c89\u7761\u5728\u7981\u4e66\u5e93\u7684\u8bba\u6587",
+        "Name_de": "Verbotene Schriften",
+        "Name_en": "Forbidden Knowledge",
+        "Name_fr": "D\u00e9poussi\u00e9rage de livres",
+        "Name_ja": "\u7981\u66f8\u5eab\u306b\u7720\u308b\u8ad6\u6587",
+        "Name_ko": "\uae08\uc11c\uace0\uc5d0 \uc7a0\ub4e0 \ub17c\ubb38"
+    },
+    "2818079": {
+        "0xID": "2B001F",
+        "Name_cn": "\u5192\u9669\u8005\u662f\u540c\u4f34\u54e5\u5e03\uff01",
+        "Name_de": "Lange Indigofinger",
+        "Name_en": "Louder than Words",
+        "Name_fr": "Avec nous ou contre nous",
+        "Name_ja": "\u5192\u967a\u8005\u306f\u30b4\u30d6\u306e\u4ef2\u9593",
+        "Name_ko": "\ubaa8\ud5d8\uac00\ub294 \uace0\ube0c\uc758 \uce5c\uad6c"
+    },
+    "2818080": {
+        "0xID": "2B0020",
+        "Name_cn": "\u7ef4\u62a4\u4ee5\u592a\u4e4b\u5149",
+        "Name_de": "Alte Technik gut gewartet",
+        "Name_en": "Ebb and Aetherflow",
+        "Name_fr": "L'entretien des \u00e9th\u00e9rites",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30e9\u30a4\u30c8\u306e\u4fdd\u5b88\u70b9\u691c",
+        "Name_ko": "\uc5d0\ud14c\ub77c\uc774\ud2b8 \ubcf4\uc218 \uc810\uac80"
+    },
+    "2818081": {
+        "0xID": "2B0021",
+        "Name_cn": "\u4eba\u7c7b\u7684\u7f6a\u5b7d",
+        "Name_de": "Nasse F\u00fc\u00dfe",
+        "Name_en": "Taking Stock",
+        "Name_fr": "Les voleurs d'Idyll\u00e9e",
+        "Name_ja": "\u4eba\u306e\u72af\u3057\u305f\u6240\u696d",
+        "Name_ko": "\uc778\uac04\uc774 \uc800\uc9c0\ub978 \uc8c4"
+    },
+    "2818082": {
+        "0xID": "2B0022",
+        "Name_cn": "\u4f7f\u9b54\u667a\u86d9",
+        "Name_de": "Abwarten und Tee eingie\u00dfen",
+        "Name_en": "Saro Roggo's Common Life",
+        "Name_fr": "Le serviteur poroggo",
+        "Name_ja": "\u4f7f\u3044\u9b54\u30dd\u30ed\u30c3\u30b4",
+        "Name_ko": "\uc0ac\uc5ed\ub9c8 \ud3ec\ub85d\uace0"
+    },
+    "2818083": {
+        "0xID": "2B0023",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818084": {
+        "0xID": "2B0024",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818085": {
+        "0xID": "2B0025",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818086": {
+        "0xID": "2B0026",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818087": {
+        "0xID": "2B0027",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818088": {
+        "0xID": "2B0028",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818089": {
+        "0xID": "2B0029",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818090": {
+        "0xID": "2B002A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818091": {
+        "0xID": "2B002B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818092": {
+        "0xID": "2B002C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818093": {
+        "0xID": "2B002D",
+        "Name_cn": "\u72e9\u730e\u90aa\u9f99",
+        "Name_de": "Mit den Augen eines Drachen",
+        "Name_en": "Into the Aery",
+        "Name_fr": "La col\u00e8re du dragon",
+        "Name_ja": "\u90aa\u7adc\u72e9\u308a",
+        "Name_ko": "\uc0ac\ub8e1 \uc0ac\ub0e5"
+    },
+    "2818094": {
+        "0xID": "2B002E",
+        "Name_cn": "\u83ab\u53e4\u5657\u7684\u5f31\u70b9",
+        "Name_de": "Weder Fisch noch Drachen",
+        "Name_en": "The Bathing Bully",
+        "Name_fr": "Se remettre dans le bain",
+        "Name_ja": "\u30e2\u30b0\u30d7\u30a6\u306e\u82e6\u624b\u306a\u3082\u306e",
+        "Name_ko": "\ubaa8\uadf8\ud478\uac00 \uc2eb\uc5b4\ud558\ub294 \uac83"
+    },
+    "2818095": {
+        "0xID": "2B002F",
+        "Name_cn": "\u8def\u9738",
+        "Name_de": "Nur keinen Bommel",
+        "Name_en": "Road Kill",
+        "Name_fr": "Passage difficile",
+        "Name_ja": "\u9053\u4e2d\u306e\u66b4\u308c\u3093\u574a",
+        "Name_ko": "\uae38\uac00\uc758 \ud3ed\uad70"
+    },
+    "2818096": {
+        "0xID": "2B0030",
+        "Name_cn": "\u5fd9\u788c\u7684\u56ed\u827a\u5bb6\u4eec",
+        "Name_de": "F\u00fcr die Blumen nur das Beste",
+        "Name_en": "The Unceasing Gardener",
+        "Name_fr": "Jardiner n'est pas jouer",
+        "Name_ja": "\u5fd9\u3057\u304d\u5ead\u5e2b\u305f\u3061",
+        "Name_ko": "\ubd84\uc8fc\ud55c \uc815\uc6d0\uc0ac\ub4e4"
+    },
+    "2818097": {
+        "0xID": "2B0031",
+        "Name_cn": "\u997f\u5230\u4e0d\u884c",
+        "Name_de": "Ein S\u00fcndenbock muss her",
+        "Name_en": "Waiting to Inhale",
+        "Name_fr": "Borborygmes et bourdonnements",
+        "Name_ja": "\u76e3\u8996\u306e\u7dca\u6025\u4e8b\u614b",
+        "Name_ko": "\uac10\uc2dc\uc6d0\uc758 \uae34\uae09 \uc0ac\ud0dc"
+    },
+    "2818098": {
+        "0xID": "2B0032",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818099": {
+        "0xID": "2B0033",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818100": {
+        "0xID": "2B0034",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818101": {
+        "0xID": "2B0035",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818102": {
+        "0xID": "2B0036",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818103": {
+        "0xID": "2B0037",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818104": {
+        "0xID": "2B0038",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818105": {
+        "0xID": "2B0039",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818106": {
+        "0xID": "2B003A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818107": {
+        "0xID": "2B003B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818108": {
+        "0xID": "2B003C",
+        "Name_cn": "\u9b54\u5927\u9646\u7684\u94a5\u5319",
+        "Name_de": "Himmlischer K\u00f6der",
+        "Name_en": "Bolt, Chain, and Island",
+        "Name_fr": "La p\u00eache \u00e0 la baleine",
+        "Name_ja": "\u9b54\u5927\u9678\u306e\u9375",
+        "Name_ko": "\ub9c8\ub300\ub959\uc758 \uc5f4\uc1e0"
+    },
+    "2818109": {
+        "0xID": "2B003D",
+        "Name_cn": "\u4fdd\u5b58\u5b8c\u597d\u7684\u98de\u819c",
+        "Name_de": "Filigranmembran",
+        "Name_en": "Clipped Wings",
+        "Name_fr": "D\u00e9licates ailes f\u00e9lines",
+        "Name_ja": "\u7121\u50b7\u306e\u98db\u819c",
+        "Name_ko": "\uc628\uc804\ud55c \ube44\ub9c9"
+    },
+    "2818110": {
+        "0xID": "2B003E",
+        "Name_cn": "\u5728\u5e9f\u6751\u7b49\u5f85\u7684\u4eba",
+        "Name_de": "Vermisste Ritter",
+        "Name_en": "Search and Rescue",
+        "Name_fr": "Les roses \u00e9gar\u00e9es",
+        "Name_ja": "\u5ec3\u6751\u3067\u5f85\u3064\u3082\u306e",
+        "Name_ko": "\ud3d0\ud5c8\uc5d0\uc11c \uae30\ub2e4\ub9ac\ub294 \uac83"
+    },
+    "2818111": {
+        "0xID": "2B003F",
+        "Name_cn": "\u9a71\u866b\u690d\u7269",
+        "Name_de": "L\u00e4stige Fliegen",
+        "Name_en": "Sleepless in Ok' Zundu",
+        "Name_fr": "Gazon b\u00e9ni",
+        "Name_ja": "\u6e26\u5dfb\u304f\u9583\u5149\u306e\u3088\u3046\u306b",
+        "Name_ko": "\uc18c\uc6a9\ub3cc\uc774\uce58\ub294 \uc12c\uad11\ucc98\ub7fc"
+    },
+    "2818112": {
+        "0xID": "2B0040",
+        "Name_cn": "\u4e0d\u601d\u8fdb\u53d6\u7684\u53e4\u52aa\u74e6\u52aa",
+        "Name_de": "Die Reifepr\u00fcfung",
+        "Name_en": "Flying the Nest",
+        "Name_fr": "R\u00e9veil difficile",
+        "Name_ja": "\u5f7c\u306e\u540d\u306f\u30b0\u30cc\u30d0\u30cc",
+        "Name_ko": "\uadf8\uc758 \uc774\ub984\uc740 \uad6c\ub204\ubc14\ub204"
+    },
+    "2818113": {
+        "0xID": "2B0041",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818114": {
+        "0xID": "2B0042",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818115": {
+        "0xID": "2B0043",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818116": {
+        "0xID": "2B0044",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818117": {
+        "0xID": "2B0045",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818118": {
+        "0xID": "2B0046",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818119": {
+        "0xID": "2B0047",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818120": {
+        "0xID": "2B0048",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818121": {
+        "0xID": "2B0049",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818122": {
+        "0xID": "2B004A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818123": {
+        "0xID": "2B004B",
+        "Name_cn": "\u632f\u7fc5\u9ad8\u98de",
+        "Name_de": "Fesseln der Reue",
+        "Name_en": "Fetters of Lament",
+        "Name_fr": "Un dragon aux fers",
+        "Name_ja": "\u7ffc\u3001\u5e83\u3052\u3066",
+        "Name_ko": "\ub0a0\uac1c\ub97c \ud3bc\uce58\uace0"
+    },
+    "2818124": {
+        "0xID": "2B004C",
+        "Name_cn": "\u4e9a\u62c9\u6208\u7684\u9057\u4ea7",
+        "Name_de": "Erkundung mit System",
+        "Name_en": "Systematic Exploration",
+        "Name_fr": "Allag, l'autre empire",
+        "Name_ja": "\u30a2\u30e9\u30b0\u306e\u907a\u7523",
+        "Name_ko": "\uc54c\ub77c\uadf8\uc758 \uc720\uc0b0"
+    },
+    "2818125": {
+        "0xID": "2B004D",
+        "Name_cn": "\u4fe1\u8d56\u5bfc\u822a",
+        "Name_de": "Kompetent gef\u00fchrt",
+        "Name_en": "In Node We Trust",
+        "Name_fr": "Suivez le guide",
+        "Name_ja": "\u8a98\u5c0e\u3092\u4fe1\u3058\u3066",
+        "Name_ko": "\uc720\ub3c4\ub97c \ubbff\uace0"
+    },
+    "2818126": {
+        "0xID": "2B004E",
+        "Name_cn": "\u5408\u6210\u517d\u4e4b\u5c9b",
+        "Name_de": "Schleusenwartung",
+        "Name_en": "Chimerical Maintenance",
+        "Name_fr": "L'\u00eele des chim\u00e8res",
+        "Name_ja": "\u30ad\u30e1\u30e9\u306e\u68f2\u3080\u5cf6",
+        "Name_ko": "\ud0a4\uba54\ub77c\uac00 \uc0ac\ub294 \uc12c"
+    },
+    "2818127": {
+        "0xID": "2B004F",
+        "Name_cn": "\u84dd\u8272\u94e0\u7532\u7684\u731b\u5c06",
+        "Name_de": "Kontakt vermeiden",
+        "Name_en": "Close Encounters of the VIth Kind",
+        "Name_fr": "Revanche imp\u00e9riale",
+        "Name_ja": "\u9752\u304d\u93a7\u306e\u731b\u8005",
+        "Name_ko": "\ud478\ub978 \uac11\uc8fc\uc758 \uc6a9\uc0ac"
+    },
+    "2818128": {
+        "0xID": "2B0050",
+        "Name_cn": "\u6e29\u6696\u7684\u6b3e\u5f85",
+        "Name_de": "Zeit zu rasten, Zeit zu sinnieren",
+        "Name_en": "The Silence of the Gods",
+        "Name_fr": "L'hospitalit\u00e9 des M",
+        "Name_ja": "\u6e29\u304b\u306a\u6b53\u5f85",
+        "Name_ko": "\ub530\ub73b\ud55c \ud658\ub300"
+    },
+    "2818129": {
+        "0xID": "2B0051",
+        "Name_cn": "\u66b4\u8d70\u7684\u9b54\u5bfc\u5175\u5668",
+        "Name_de": "Hoch zu Ross, mit Geschoss",
+        "Name_en": "Magiteknical Failure",
+        "Name_fr": "Traque en armure",
+        "Name_ja": "\u9b54\u5c0e\u5175\u5668\u306f\u66b4\u8d70\u3059\u308b",
+        "Name_ko": "\ud3ed\uc8fc\ud558\ub294 \ub9c8\ub3c4 \ubcd1\uae30"
+    },
+    "2818130": {
+        "0xID": "2B0052",
+        "Name_cn": "\u9690\u853d\u7684\u771f\u76f8",
+        "Name_de": "Die Milit\u00e4rhistorikerin",
+        "Name_en": "The Hidden Truth",
+        "Name_fr": "Am\u00e8res disparitions",
+        "Name_ja": "\u3042\u306e\u4eba\u305f\u3061\u306f\u4eca",
+        "Name_ko": "\uadf8\ub4e4\uc740 \uc9c0\uae08"
+    },
+    "2818131": {
+        "0xID": "2B0053",
+        "Name_cn": "\u9886\u5730\u4ea4\u6d89\u4eba",
+        "Name_de": "Sicherung der Jagdgr\u00fcnde",
+        "Name_en": "Unexpected Guests",
+        "Name_fr": "Querelle de chasseurs",
+        "Name_ja": "\u7e04\u5f35\u308a\u4ea4\u6e09\u4eba",
+        "Name_ko": "\uc138\ub825\uad8c \uad50\uc12d\uc778"
+    },
+    "2818132": {
+        "0xID": "2B0054",
+        "Name_cn": "\u8c22\u8c22\u4f60\uff0c\u5e1d\u56fd\u519b",
+        "Name_de": "Geschenk der Garlear",
+        "Name_en": "Eyes Bigger than Her Stomach",
+        "Name_fr": "La peur du ventre vide",
+        "Name_ja": "\u5b09\u3057\u3044\u7f6e\u304d\u571f\u7523",
+        "Name_ko": "\uc81c\uad6d\uc5d0 \uac10\uc0ac"
+    },
+    "2818133": {
+        "0xID": "2B0055",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818134": {
+        "0xID": "2B0056",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818135": {
+        "0xID": "2B0057",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818136": {
+        "0xID": "2B0058",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818137": {
+        "0xID": "2B0059",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818138": {
+        "0xID": "2B005A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818139": {
+        "0xID": "2B005B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818140": {
+        "0xID": "2B005C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818141": {
+        "0xID": "2B005D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818142": {
+        "0xID": "2B005E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818143": {
+        "0xID": "2B005F",
+        "Name_cn": "\u81ea\u7531\u6216\u662f\u6b7b\u4ea1",
+        "Name_de": "Freiheit oder Tod",
+        "Name_en": "Liberty or Death",
+        "Name_fr": "La libert\u00e9 ou la mort!",
+        "Name_ja": "\u81ea\u7531\u304b\u6b7b\u304b",
+        "Name_ko": "\uc790\uc720\ub0d0, \uc8fd\uc74c\uc774\ub0d0"
+    },
+    "2818144": {
+        "0xID": "2B0060",
+        "Name_cn": "\u593a\u56de\u91c7\u77f3\u573a",
+        "Name_de": "Fr\u00fcher war alles besser",
+        "Name_en": "Saint Sayer",
+        "Name_fr": "Les c\u0153urs de pierre",
+        "Name_ja": "\u77f3\u5207\u5834\u3092\u53d6\u308a\u623b\u305b",
+        "Name_ko": "\ucc44\uc11d\uc7a5\uc744 \ub418\ucc3e\uc544\ub77c"
+    },
+    "2818145": {
+        "0xID": "2B0061",
+        "Name_cn": "\u963f\u62c9\u57fa\u5229\u7684\u6069\u4eba",
+        "Name_de": "Ein guter Garlear",
+        "Name_en": "Out of Sight",
+        "Name_fr": "Le bienfaiteur d'Ala Ghiri",
+        "Name_ja": "\u30a2\u30e9\u30ae\u30ea\u306e\u6069\u4eba",
+        "Name_ko": "\uc54c\ub77c\uae30\ub9ac\uc758 \uc740\uc778"
+    },
+    "2818146": {
+        "0xID": "2B0062",
+        "Name_cn": "\u4e3a\u4e86\u586b\u9971\u809a\u5b50",
+        "Name_de": "Immer nach vorne schauen",
+        "Name_en": "A Hunger for Trade",
+        "Name_fr": "Les laiss\u00e9s-pour-compte",
+        "Name_ja": "\u524d\u3060\u3051\u3092\u898b\u3066\u3044\u304f",
+        "Name_ko": "\uc55e\ub9cc \ubcf4\uace0 \uac04\ub2e4"
+    },
+    "2818147": {
+        "0xID": "2B0063",
+        "Name_cn": "\u5bd2\u7089\u6751\u7684\u5e74\u8f7b\u4eba",
+        "Name_de": "Ein gutherziger H\u00e4ndler",
+        "Name_en": "Closing Up Shop",
+        "Name_fr": "Donner sans rien attendre en retour",
+        "Name_ja": "\u5bd2\u6751\u306e\u82e5\u8005\u305f\u3061",
+        "Name_ko": "\uc794\ubd88 \ub9c8\uc744 \uc80a\uc740\uc774\ub4e4"
+    },
+    "2818148": {
+        "0xID": "2B0064",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818149": {
+        "0xID": "2B0065",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818150": {
+        "0xID": "2B0066",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818151": {
+        "0xID": "2B0067",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818152": {
+        "0xID": "2B0068",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818153": {
+        "0xID": "2B0069",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818154": {
+        "0xID": "2B006A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818155": {
+        "0xID": "2B006B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818156": {
+        "0xID": "2B006C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818157": {
+        "0xID": "2B006D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818158": {
+        "0xID": "2B006E",
+        "Name_cn": "\u7ea2\u83b2\u4e4b\u72c2\u6f6e",
+        "Name_de": "Blutiger Sturm",
+        "Name_en": "Stormblood",
+        "Name_fr": "Temp\u00eate de sang",
+        "Name_ja": "\u7d05\u84ee\u306e\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc",
+        "Name_ko": "\ud64d\ub828\uc758 \ud574\ubc29\uc790"
+    },
+    "2818159": {
+        "0xID": "2B006F",
+        "Name_cn": "\u9884\u60f3\u4e4b\u5916\u7684\u654c\u4eba",
+        "Name_de": "In luftigen H\u00f6hen",
+        "Name_en": "It's a Zu Out There",
+        "Name_fr": "Ennemi volant parfaitement identifi\u00e9",
+        "Name_ja": "\u60f3\u5b9a\u5916\u306e\u6575",
+        "Name_ko": "\uc608\uc0c1\uce58 \ubabb\ud55c \uc801"
+    },
+    "2818160": {
+        "0xID": "2B0070",
+        "Name_cn": "\u60bc\u5ff5\u5f77\u5fa8\u7684\u6b7b\u7075",
+        "Name_de": "Schemenhafte Erl\u00f6sung",
+        "Name_en": "A Rite to Rest",
+        "Name_fr": "\u00c2mes errantes",
+        "Name_ja": "\u6b7b\u970a\u3092\u93ae\u3081\u308b\u65b9\u6cd5",
+        "Name_ko": "\uc0ac\ub839\uc744 \uc9c4\uc815\uc2dc\ud0a4\ub294 \ubc29\ubc95"
+    },
+    "2818161": {
+        "0xID": "2B0071",
+        "Name_cn": "\u5e1d\u56fd\u5175\u4e0e\u79d8\u5bc6\u7684\u5730\u56fe",
+        "Name_de": "Der Schatz vom Seldsee",
+        "Name_en": "If I Were a Fish",
+        "Name_fr": "Un secret imp\u00e9rial",
+        "Name_ja": "\u5e1d\u56fd\u5175\u3068\u79d8\u5bc6\u306e\u5730\u56f3",
+        "Name_ko": "\uc81c\uad6d \ubcd1\uc0ac\uc640 \ube44\ubc00 \uc9c0\ub3c4"
+    },
+    "2818162": {
+        "0xID": "2B0072",
+        "Name_cn": "\u9b54\u7269\u7684\u4f7f\u7528\u65b9\u6cd5",
+        "Name_de": "Yabby-Dabby-Duu!",
+        "Name_en": "Are They Ill-tempered",
+        "Name_fr": "Une r\u00e9sistance \u00e0 toute \u00e9preuve",
+        "Name_ja": "\u9b54\u7269\u306f\u4f7f\u3044\u3088\u3046",
+        "Name_ko": "\ub9c8\ubb3c\uc740 \uc774\uc6a9\ud558\uae30 \ub098\ub984"
+    },
+    "2818163": {
+        "0xID": "2B0073",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818164": {
+        "0xID": "2B0074",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818165": {
+        "0xID": "2B0075",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818166": {
+        "0xID": "2B0076",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818167": {
+        "0xID": "2B0077",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818168": {
+        "0xID": "2B0078",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818169": {
+        "0xID": "2B0079",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818170": {
+        "0xID": "2B007A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818171": {
+        "0xID": "2B007B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818172": {
+        "0xID": "2B007C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818173": {
+        "0xID": "2B007D",
+        "Name_cn": "\u7247\u523b\u7684\u98ce\u5e73\u6d6a\u9759",
+        "Name_de": "Die Befreier von Isari",
+        "Name_en": "Tide Goes in, Imperials Go Out",
+        "Name_fr": "Isari, village lib\u00e9r\u00e9",
+        "Name_ja": "\u3072\u3068\u3068\u304d\u306e\u51ea",
+        "Name_ko": "\uc794\uc794\ud55c \ud55c \ub54c"
+    },
+    "2818174": {
+        "0xID": "2B007E",
+        "Name_cn": "\u6697\u4e2d\u8054\u7edc",
+        "Name_de": "Ein Schmuggler im Netz",
+        "Name_en": "The Price of Betrayal",
+        "Name_fr": "Curieux butin",
+        "Name_ja": "\u9ed2\u3044\u95a2\u4fc2",
+        "Name_ko": "\uac80\uc740 \uad00\uacc4"
+    },
+    "2818175": {
+        "0xID": "2B007F",
+        "Name_cn": "\u8d70\u51fa\u7edd\u5883",
+        "Name_de": "Ebbe in der Konf\u00f6derationskasse",
+        "Name_en": "Pulling Double Booty",
+        "Name_fr": "Sortir la t\u00eate de l'eau",
+        "Name_ja": "\u6f15\u304e\u51fa\u305b\u52d8\u5b9a\u65b9",
+        "Name_ko": "\ub178 \uc813\ub294 \ud68c\uacc4 \ub2f4\ub2f9"
+    },
+    "2818176": {
+        "0xID": "2B0080",
+        "Name_cn": "\u98de\u8eab\u5411\u5251\uff01",
+        "Name_de": "Springendes Vorbild",
+        "Name_en": "The Sword in the Stone",
+        "Name_fr": "Sauter sans avoir l'air sot",
+        "Name_ja": "\u5263\u306b\u5411\u304b\u3063\u3066\u8df3\u3079\uff01",
+        "Name_ko": "\uac80\uc744 \ud5a5\ud574 \ub6f0\uc5b4\ub77c!"
+    },
+    "2818177": {
+        "0xID": "2B0081",
+        "Name_cn": "\u7d2b\u6c34\u5bab\u7684\u5f02\u53d8",
+        "Name_de": "Eine Prinzessin in Not",
+        "Name_en": "The Palace of Lost Souls",
+        "Name_fr": "Le Palais aux Mar\u00e9es troubl\u00e9es",
+        "Name_ja": "\u7d2b\u6c34\u5bae\u306e\u59eb\u541b",
+        "Name_ko": "\uc2dc\uc2a4\uc774 \uad81\uc758 \uacf5\uc8fc\ub2d8"
+    },
+    "2818178": {
+        "0xID": "2B0082",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818179": {
+        "0xID": "2B0083",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818180": {
+        "0xID": "2B0084",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818181": {
+        "0xID": "2B0085",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818182": {
+        "0xID": "2B0086",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818183": {
+        "0xID": "2B0087",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818184": {
+        "0xID": "2B0088",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818185": {
+        "0xID": "2B0089",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818186": {
+        "0xID": "2B008A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818187": {
+        "0xID": "2B008B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818188": {
+        "0xID": "2B008C",
+        "Name_cn": "\u8fc8\u51fa\u7684\u4e00\u6b65",
+        "Name_de": "Der Traum von Domas Freiheit",
+        "Name_en": "All the Little Angels",
+        "Name_fr": "Le premier pas en avant",
+        "Name_ja": "\u8e0f\u307f\u51fa\u3059\u4e00\u6b69",
+        "Name_ko": "\ud55c \uac78\uc74c \ub0b4\ub51b\ub2e4"
+    },
+    "2818189": {
+        "0xID": "2B008D",
+        "Name_cn": "\u81ed\u6709\u6240\u7528",
+        "Name_de": "Das etwas andere Parf\u00fcm",
+        "Name_en": "Something Smells",
+        "Name_fr": "La bouillie et l'odeur",
+        "Name_ja": "\u4fbf\u5229\u306a\u60aa\u81ed",
+        "Name_ko": "\ud3b8\ub9ac\ud55c \uc545\ucde8"
+    },
+    "2818190": {
+        "0xID": "2B008E",
+        "Name_cn": "\u98de\u5427\uff0c\u5bb6\u9ebb\u96c0",
+        "Name_de": "Reisfeldpflege",
+        "Name_en": "Fly, My Pretties",
+        "Name_fr": "Vis ma vie de riziculteur",
+        "Name_ja": "\u30ca\u30de\u30a4\u306e\u91ce\u826f\u4ed5\u4e8b",
+        "Name_ko": "\ub098\ub9c8\uc774 \ub9c8\uc744\uc758 \ub18d\uc0ac\uc77c"
+    },
+    "2818191": {
+        "0xID": "2B008F",
+        "Name_cn": "\u6816\u606f\u5730\u8fc1\u5f99",
+        "Name_de": "Wandernde Wasserschlangen",
+        "Name_en": "Whacking Day",
+        "Name_fr": "Avoir les foies... de serpents",
+        "Name_ja": "\u5909\u308f\u308b\u68f2\u606f\u5730",
+        "Name_ko": "\ubcc0\ud558\ub294 \uc11c\uc2dd\uc9c0"
+    },
+    "2818192": {
+        "0xID": "2B0090",
+        "Name_cn": "\u5c0a\u4e25\u4e0d\u518d",
+        "Name_de": "Pharmazeutennachwuchs",
+        "Name_en": "Wolves and Weeds",
+        "Name_fr": "L'homme-loup est un loup pour l'homme",
+        "Name_ja": "\u8a87\u308a\u306f\u3069\u3053\u3078",
+        "Name_ko": "\uae0d\uc9c0\ub294 \uc5b4\ub514\uc5d0"
+    },
+    "2818193": {
+        "0xID": "2B0091",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818194": {
+        "0xID": "2B0092",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818195": {
+        "0xID": "2B0093",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818196": {
+        "0xID": "2B0094",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818197": {
+        "0xID": "2B0095",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818198": {
+        "0xID": "2B0096",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818199": {
+        "0xID": "2B0097",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818200": {
+        "0xID": "2B0098",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818201": {
+        "0xID": "2B0099",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818202": {
+        "0xID": "2B009A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818203": {
+        "0xID": "2B009B",
+        "Name_cn": "\u54cd\u5f7b\u8349\u539f\u7684\u6b22\u547c\u58f0",
+        "Name_de": "Laut hallt der Jubel",
+        "Name_en": "Glory to the Khagan",
+        "Name_fr": "Jubilation collective",
+        "Name_ja": "\u6b53\u58f0\u306f\u9060\u304f\u9ad8\u304f",
+        "Name_ko": "\ud37c\uc838\uac00\ub294 \ud658\ud638\uc131"
+    },
+    "2818204": {
+        "0xID": "2B009C",
+        "Name_cn": "\u7f04\u9ed8\u4e4b\u6c11",
+        "Name_de": "Schweigen ist Gold",
+        "Name_en": "Words Are Very Unnecessary",
+        "Name_fr": "Un homme de bien des mots",
+        "Name_ja": "\u6c88\u9ed9\u306e\u6c11",
+        "Name_ko": "\uce68\ubb35\uc758 \uc77c\uc871"
+    },
+    "2818205": {
+        "0xID": "2B009D",
+        "Name_cn": "\u6355\u83b7\u80c6\u5c0f\u7684\u7f8a",
+        "Name_de": "Schlaf sch\u00f6n, kleiner Ausrei\u00dfer",
+        "Name_en": "Sheep Snatcher",
+        "Name_fr": "Retrouve-moi un mouton",
+        "Name_ja": "\u81c6\u75c5\u306a\u7f8a\u306e\u6355\u7372",
+        "Name_ko": "\uac81\uc7c1\uc774 \uc591 \ud3ec\ud68d\ud558\uae30"
+    },
+    "2818206": {
+        "0xID": "2B009E",
+        "Name_cn": "\u9ed8\u9ed8\u65e0\u95fb\u56db\u5341\u8f7d",
+        "Name_de": "Das schwarze Schaf",
+        "Name_en": "Forty Years and Counting",
+        "Name_fr": "Quarante ans, toujours Poucet",
+        "Name_ja": "\u672b\u5f1f\u306e\u4ed5\u4e8b",
+        "Name_ko": "\ub9c9\ub0b4\uc758 \uc77c"
+    },
+    "2818207": {
+        "0xID": "2B009F",
+        "Name_cn": "\u9a6c\u5140\u8d64\u7684\u70e6\u607c",
+        "Name_de": "Zweifelhafte Reinkarnation",
+        "Name_en": "Mauci of the Seven Worries",
+        "Name_fr": "Erreur sur la r\u00e9incarnation?",
+        "Name_ja": "\u300c\u4e03\u5263\u300d\u30de\u30a6\u30b7\u306e\u60a9\u307f",
+        "Name_ko": "'\uce60\uac80' \ub9c8\uc6b0\uc2dc\uc758 \uace0\ubbfc"
+    },
+    "2818208": {
+        "0xID": "2B00A0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818209": {
+        "0xID": "2B00A1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818210": {
+        "0xID": "2B00A2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818211": {
+        "0xID": "2B00A3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818212": {
+        "0xID": "2B00A4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818213": {
+        "0xID": "2B00A5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818214": {
+        "0xID": "2B00A6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818215": {
+        "0xID": "2B00A7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818216": {
+        "0xID": "2B00A8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818217": {
+        "0xID": "2B00A9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818218": {
+        "0xID": "2B00AA",
+        "Name_cn": "\u901a\u8fc7\u675f\u5e26\u8def\uff01",
+        "Name_de": "Auf nach Ostalls Befehl",
+        "Name_en": "Logistics of War",
+        "Name_fr": "Logistique amaro",
+        "Name_ja": "\u5e2f\u306e\u9053\u3092\u9032\u3081\uff01",
+        "Name_ko": "\ub9e4\ub4ed\uae38\uc744 \uc9c0\ub098"
+    },
+    "2818219": {
+        "0xID": "2B00AB",
+        "Name_cn": "\ue0be \u6170\u52b3\u4e54\u5e03\u8981\u585e",
+        "Name_de": "\ue0be Kleine Geste, gro\u00dfe Freude",
+        "Name_en": "\ue0be A Jobb Well Done",
+        "Name_fr": "\ue0be Tout travail m\u00e9rite casse-cro\u00fbte!",
+        "Name_ja": "\ue0be \u30b8\u30e7\u30c3\u30d6\u7826\u3078\u306e\u52b4\u3044",
+        "Name_ko": "\ue0be \uc881 \uc694\uc0c8 \uc704\ubcd1\uc758 \ub178\uace0\ub97c \uc704\ub85c\ud558\uba70"
+    },
+    "2818220": {
+        "0xID": "2B00AC",
+        "Name_cn": "\ue0be \u7c89\u5237\u4e25\u547d\u57ce",
+        "Name_de": "\ue0be Mit M\u00f6rtel verputzen auf Ostalls Befehl",
+        "Name_en": "\ue0be Imperative Repairs",
+        "Name_fr": "\ue0be Mettre la main au mortier",
+        "Name_ja": "\ue0be \u53b3\u547d\u57ce\u306e\u30e2\u30eb\u30bf\u30eb\u5857\u308a",
+        "Name_ko": "\ue0be \uc5c4\uba85\uc131\uc5d0 \ud68c\ubc18\uc8fd \ubc14\ub974\uae30"
+    },
+    "2818221": {
+        "0xID": "2B00AD",
+        "Name_cn": "\ue0be \u963f\u9a6c\u7f57\u4e0e\u5931\u8e2a\u7684\u536b\u5175",
+        "Name_de": "\ue0be Ein Amaro rettet den Tag",
+        "Name_en": "\ue0be The Astute Amaro",
+        "Name_fr": "\ue0be Celui qui murmurait \u00e0 l'oreille des amaros",
+        "Name_ja": "\ue0be \u30a2\u30de\u30ed\u3068\u6d88\u3048\u305f\u885b\u5175",
+        "Name_ko": "\ue0be \uc544\ub9c8\ub85c\uc640 \uc0ac\ub77c\uc9c4 \uc704\ubcd1"
+    },
+    "2818222": {
+        "0xID": "2B00AE",
+        "Name_cn": "\ue0be \u7ed9\u77ad\u671b\u5854\u7684\u547d\u4ee4",
+        "Name_de": "\ue0be Wie bestellt",
+        "Name_en": "\ue0be An Unreasonable Request",
+        "Name_fr": "\ue0be Une nouvelle recrue?",
+        "Name_ja": "\ue0be \u7269\u898b\u5854\u3078\u306e\u4f1d\u4ee4",
+        "Name_ko": "\ue0be \ub9dd\ub8e8\ub85c \ubcf4\ub0b4\ub294 \uc804\ub839"
+    },
+    "2818223": {
+        "0xID": "2B00AF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818224": {
+        "0xID": "2B00B0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818225": {
+        "0xID": "2B00B1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818226": {
+        "0xID": "2B00B2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818227": {
+        "0xID": "2B00B3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818228": {
+        "0xID": "2B00B4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818229": {
+        "0xID": "2B00B5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818230": {
+        "0xID": "2B00B6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818231": {
+        "0xID": "2B00B7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818232": {
+        "0xID": "2B00B8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818233": {
+        "0xID": "2B00B9",
+        "Name_cn": "\u7184\u706d\u6700\u540e\u7684\u5149",
+        "Name_de": "Sturm auf den Gulg",
+        "Name_en": "Extinguishing the Last Light",
+        "Name_fr": "Le dernier grand purgateur",
+        "Name_ja": "\u5149\u3092\u3082\u305f\u3089\u3059\u8005",
+        "Name_ko": "\ube5b\uc744 \uac00\uc838\uc624\ub294 \uc790"
+    },
+    "2818234": {
+        "0xID": "2B00BA",
+        "Name_cn": "\ue0be \u62c6\u8239\u7684\u9020\u8239\u5de5",
+        "Name_de": "\ue0be Der Schiffsbauer, der das Schiff zerlegt",
+        "Name_en": "\ue0be A Plankless Task",
+        "Name_fr": "\ue0be Parfois construire, parfois d\u00e9truire",
+        "Name_ja": "\ue0be \u8239\u3092\u58ca\u3059\u8239\u5927\u5de5",
+        "Name_ko": "\ue0be \ubc30\ub97c \ubd80\uc218\ub294 \uc870\uc120\uacf5"
+    },
+    "2818235": {
+        "0xID": "2B00BB",
+        "Name_cn": "\ue0be \u60e8\u5267\u4e4b\u6751",
+        "Name_de": "\ue0be Ein Dorf in Not",
+        "Name_en": "\ue0be Village of Woe",
+        "Name_fr": "\ue0be Un village meurtri",
+        "Name_ja": "\ue0be \u60e8\u5287\u306e\u6751",
+        "Name_ko": "\ue0be \ucc38\uadf9\uc758 \ub9c8\uc744"
+    },
+    "2818236": {
+        "0xID": "2B00BC",
+        "Name_cn": "\ue0be \u4eab\u4e50\u57ce\u5e02\u7684\u8ffd\u5175",
+        "Name_de": "\ue0be Die Gefl\u00fcchteten",
+        "Name_en": "\ue0be Fugitive of Fear",
+        "Name_fr": "\ue0be Les \u00e9vad\u00e9es",
+        "Name_ja": "\ue0be \u60a6\u697d\u90fd\u5e02\u304b\u3089\u306e\u8ffd\u624b",
+        "Name_ko": "\ue0be \ucf8c\ub77d\ub3c4\uc2dc\uc5d0\uc11c \uc628 \ucd94\uaca9\uc790"
+    },
+    "2818237": {
+        "0xID": "2B00BD",
+        "Name_cn": "\ue0be \u77ee\u4eba\u65cf\u7684\u4e0d\u826f\u9752\u5e74",
+        "Name_de": "\ue0be Ein hammerharter Zwerg",
+        "Name_en": "\ue0be A Disagreeable Dwarf",
+        "Name_fr": "\ue0be Parle \u00e0 mon Nain",
+        "Name_ja": "\ue0be \u3076\u3063\u3053\u307f\u306e\u30c9\u30ef\u30fc\u30d5",
+        "Name_ko": "\ue0be \ubc18\ud56d\uae30 \ub4dc\uc6cc\ud504"
+    },
+    "2818238": {
+        "0xID": "2B00BE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818239": {
+        "0xID": "2B00BF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818240": {
+        "0xID": "2B00C0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818241": {
+        "0xID": "2B00C1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818242": {
+        "0xID": "2B00C2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818243": {
+        "0xID": "2B00C3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818244": {
+        "0xID": "2B00C4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818245": {
+        "0xID": "2B00C5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818246": {
+        "0xID": "2B00C6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818247": {
+        "0xID": "2B00C7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818248": {
+        "0xID": "2B00C8",
+        "Name_cn": "\u6211\u5728\u8fd9\u91cc\u6c89\u7761",
+        "Name_de": "Hinab in den Brunnen",
+        "Name_en": "A Fresh Start",
+        "Name_fr": "Le Puits de Malikah",
+        "Name_ja": "\u79c1\u306f\u3053\u3053\u306b\u7720\u308b",
+        "Name_ko": "\uc0c8\ub85c\uc6b4 \uc2dc\uc791"
+    },
+    "2818249": {
+        "0xID": "2B00C9",
+        "Name_cn": "\ue0be \u8fc7\u4e8e\u52e4\u52b3\u7684\u9f39\u7075\u65cf",
+        "Name_de": "\ue0be Kleiner Mordh, gro\u00dfer Eifer",
+        "Name_en": "\ue0be Work to Live or Live to Work",
+        "Name_fr": "\ue0be Le Mord qui travaillait trop",
+        "Name_ja": "\ue0be \u50cd\u304d\u3059\u304e\u306e\u30e2\u30eb\u30c9\u65cf",
+        "Name_ko": "\ue0be \uc77c \uc911\ub3c5 \ubaa8\ub974\ub4dc\uc871"
+    },
+    "2818250": {
+        "0xID": "2B00CA",
+        "Name_cn": "\ue0be \u6551\u547d\uff01\u62fe\u8352\u8005",
+        "Name_de": "\ue0be Rettung der Schatzsucher",
+        "Name_en": "\ue0be Scavengers Assemble",
+        "Name_fr": "\ue0be Chasseurs de tr\u00e9sors en d\u00e9tresse",
+        "Name_ja": "\ue0be \u52a9\u3051\u3066\uff01 \u30b9\u30ab\u30d9\u30f3\u30b8\u30e3\u30fc",
+        "Name_ko": "\ue0be \ub3c4\uc640\uc918! \ub11d\ub9c8\uc8fc\uc774"
+    },
+    "2818251": {
+        "0xID": "2B00CB",
+        "Name_cn": "\ue0be \u77ff\u5de5\u7684\u73cd\u8d35\u62a4\u8eab\u7b26",
+        "Name_de": "\ue0be Verlorenes Gl\u00fcck",
+        "Name_en": "\ue0be Charmless Man",
+        "Name_fr": "\ue0be Un pr\u00e9cieux talisman",
+        "Name_ja": "\ue0be \u52b4\u50cd\u8005\u306e\u5927\u4e8b\u306a\u304a\u5b88\u308a",
+        "Name_ko": "\ue0be \ub178\ub3d9\uc790\uc758 \uc18c\uc911\ud55c \ubd80\uc801"
+    },
+    "2818252": {
+        "0xID": "2B00CC",
+        "Name_cn": "\ue0be \u732b\u79d8\u65cf\u7684\u77ff\u5de5",
+        "Name_de": "\ue0be Ein Mystel-Bergarbeiter",
+        "Name_en": "\ue0be A Vein Pursuit",
+        "Name_fr": "\ue0be Le r\u00eave du mineur mystel",
+        "Name_ja": "\ue0be \u30df\u30b9\u30c6\u30eb\u65cf\u306e\u9271\u592b",
+        "Name_ko": "\ue0be \ubbf8\uc2a4\ud154\uc871 \uad11\ubd80"
+    },
+    "2818253": {
+        "0xID": "2B00CD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818254": {
+        "0xID": "2B00CE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818255": {
+        "0xID": "2B00CF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818256": {
+        "0xID": "2B00D0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818257": {
+        "0xID": "2B00D1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818258": {
+        "0xID": "2B00D2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818259": {
+        "0xID": "2B00D3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818260": {
+        "0xID": "2B00D4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818261": {
+        "0xID": "2B00D5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818262": {
+        "0xID": "2B00D6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818263": {
+        "0xID": "2B00D7",
+        "Name_cn": "\u7f8e\u9910\u4e00\u987f",
+        "Name_de": "Lyhe Ghiah",
+        "Name_en": "Acht-la Ormh Inn",
+        "Name_fr": "Passation de pouvoir",
+        "Name_ja": "\u30a2\u30af\u30c8\u30e9\u30fb\u30aa\u30eb\u30ef\u30fb\u30a4\u30f3",
+        "Name_ko": "\uc990\uac70\uc6b4 \ucd95\ud558\uc5f0"
+    },
+    "2818264": {
+        "0xID": "2B00D8",
+        "Name_cn": "\ue0be \u5bfb\u5bfb\u89c5\u89c5",
+        "Name_de": "\ue0be Nagende Neugierde",
+        "Name_en": "\ue0be The Forbidden Lran",
+        "Name_fr": "\ue0be Jeux interdits",
+        "Name_ja": "\ue0be \u30b9\u30bf\u30f3\u30c9\u30fb\u30d0\u30a4\u30fb\u30e6\u30a2\u30bb\u30eb\u30d5",
+        "Name_ko": "\ue0be \uae08\uc9c0\ub41c \uc7a5\uc18c"
+    },
+    "2818265": {
+        "0xID": "2B00D9",
+        "Name_cn": "\ue0be \u88c5\u70b9\u5bb6\u5c45",
+        "Name_de": "\ue0be Uriangers Haus soll sch\u00f6ner werden",
+        "Name_en": "\ue0be Delightful Decorations",
+        "Name_fr": "\ue0be Les as de la d\u00e9co",
+        "Name_ja": "\ue0be \u7d20\u6575\u306a\u98fe\u308a\u4ed8\u3051",
+        "Name_ko": "\ue0be \uba4b\uc9c4 \uc7a5\uc2dd\ud488"
+    },
+    "2818266": {
+        "0xID": "2B00DA",
+        "Name_cn": "\ue0be \u6210\u4e3a\u540d\u4eba\u7684\u7b2c\u4e00\u6b65",
+        "Name_de": "\ue0be Die beliebteste Pixie von allen",
+        "Name_en": "\ue0be The Path to Popularity",
+        "Name_fr": "\ue0be La plus populaire des Pixies",
+        "Name_ja": "\ue0be \u4eba\u6c17\u8005\u306b\u306a\u308a\u305f\u3044\u306e\uff01",
+        "Name_ko": "\ue0be \uc778\uae30\uc778\uc774 \ub418\uace0 \uc2f6\uc5b4!"
+    },
+    "2818267": {
+        "0xID": "2B00DB",
+        "Name_cn": "\ue0be \u65b0\u6765\u7684\u963f\u9a6c\u7f57",
+        "Name_de": "\ue0be Ein Neuank\u00f6mmling",
+        "Name_en": "\ue0be A New Amaro",
+        "Name_fr": "\ue0be Un nouveau venu",
+        "Name_ja": "\ue0be \u65b0\u305f\u306a\u30a2\u30de\u30ed\u306e\u6765\u8a2a\u8005",
+        "Name_ko": "\ue0be \uc0c8\ub85c\uc6b4 \uc544\ub9c8\ub85c \ubc29\ubb38\ud558\ub2e4"
+    },
+    "2818268": {
+        "0xID": "2B00DC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818269": {
+        "0xID": "2B00DD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818270": {
+        "0xID": "2B00DE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818271": {
+        "0xID": "2B00DF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818272": {
+        "0xID": "2B00E0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818273": {
+        "0xID": "2B00E1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818274": {
+        "0xID": "2B00E2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818275": {
+        "0xID": "2B00E3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818276": {
+        "0xID": "2B00E4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818277": {
+        "0xID": "2B00E5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818278": {
+        "0xID": "2B00E6",
+        "Name_cn": "\u5947\u5766\u90a3\u795e\u5f71\u6d1e",
+        "Name_de": "Quer durch die Irrungen der Qitari",
+        "Name_en": "The Burden of Knowledge",
+        "Name_fr": "L'Enchev\u00eatrement des Qitari",
+        "Name_ja": "\u30ad\u30bf\u30f3\u30ca\u795e\u5f71\u6d1e",
+        "Name_ko": "\ud0a4\ud0c0\ub098 \uc2e0\uad74"
+    },
+    "2818279": {
+        "0xID": "2B00E7",
+        "Name_cn": "\ue0be \u6b8b\u5b58\u56de\u5fc6\u7684\u8981\u585e",
+        "Name_de": "\ue0be Gef\u00e4hrliches Heimweh",
+        "Name_en": "\ue0be What We Do for Family",
+        "Name_fr": "\ue0be Un peu de poison",
+        "Name_ja": "\ue0be \u60f3\u3044\u6b8b\u308a\u3057\u7826",
+        "Name_ko": "\ue0be \uc18c\uc911\ud55c \uac83\uc774 \ub0a8\uc740 \uc694\uc0c8"
+    },
+    "2818280": {
+        "0xID": "2B00E8",
+        "Name_cn": "\ue0be \u660f\u6697\u68ee\u6797\u7684\u5b88\u62a4\u8005",
+        "Name_de": "\ue0be Die Besch\u00fctzerin des Waldes",
+        "Name_en": "\ue0be The Great Deceiver",
+        "Name_fr": "\ue0be Le Gardien de la for\u00eat obscure",
+        "Name_ja": "\ue0be \u660f\u304d\u68ee\u306e\u5b88\u8b77\u8005",
+        "Name_ko": "\ue0be \uc5b4\ub451\ud55c \uc232\uc758 \uc218\ud638\uc790"
+    },
+    "2818281": {
+        "0xID": "2B00E9",
+        "Name_cn": "\ue0be \u4e0e\u9732\u5bbf\u5730\u7684\u4ea4\u6d41",
+        "Name_de": "\ue0be Besuch in Bogenruh",
+        "Name_en": "\ue0be Suit Up",
+        "Name_fr": "\ue0be Les nouveaux habits de la Halte",
+        "Name_ja": "\ue0be \u9732\u5bbf\u3068\u306e\u4ea4\u6d41",
+        "Name_ko": "\ue0be \uc57c\uc601\uc9c0\uc640\uc758 \uad50\ub958"
+    },
+    "2818282": {
+        "0xID": "2B00EA",
+        "Name_cn": "\ue0be \u53cc\u80de\u80ce\u4e0e\u53cc\u5143\u7075",
+        "Name_de": "\ue0be Alles doppelt",
+        "Name_en": "\ue0be Stand on Ceremony",
+        "Name_fr": "\ue0be Esprits oppos\u00e9s",
+        "Name_ja": "\ue0be \u53cc\u5b50\u3068\u3075\u305f\u3064\u306e\u7cbe\u970a",
+        "Name_ko": "\ue0be \uc30d\ub465\uc774\uc640 \ub450 \uc815\ub839"
+    },
+    "2818283": {
+        "0xID": "2B00EB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818284": {
+        "0xID": "2B00EC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818285": {
+        "0xID": "2B00ED",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818286": {
+        "0xID": "2B00EE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818287": {
+        "0xID": "2B00EF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818288": {
+        "0xID": "2B00F0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818289": {
+        "0xID": "2B00F1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818290": {
+        "0xID": "2B00F2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818291": {
+        "0xID": "2B00F3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818292": {
+        "0xID": "2B00F4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818293": {
+        "0xID": "2B00F5",
+        "Name_cn": "\u90a3\u4e2a\u4eba\u7684\u7ed3\u5c40",
+        "Name_de": "Der Plan des Konvents",
+        "Name_en": "A Greater Purpose",
+        "Name_fr": "Le fardeau d'Emet-Selch",
+        "Name_ja": "\u305d\u306e\u8005\u306e\u7d50\u672b",
+        "Name_ko": "\uadf8\ub4e4\uc758 \ubaa9\uc801"
+    },
+    "2818294": {
+        "0xID": "2B00F6",
+        "Name_cn": "\ue0be \u6f6e\u6c60\u7684\u602a\u4eba",
+        "Name_de": "\ue0be Wie ein Fisch auf dem Trockenen",
+        "Name_en": "\ue0be Koal of the Cups",
+        "Name_fr": "\ue0be Un Ondo pas comme les autres",
+        "Name_ja": "\ue0be \u6f6e\u6e9c\u307e\u308a\u306e\u5909\u308f\u308a\u8005",
+        "Name_ko": "\ue0be \ubc14\ub2e4\uc6c5\ub369\uc774\uc758 \uad34\uc9dc"
+    },
+    "2818295": {
+        "0xID": "2B00F7",
+        "Name_cn": "\ue0be \u4f18\u7b49\u5e02\u6c11\u7684\u4e49\u52a1",
+        "Name_de": "\ue0be Idee und Umsetzung",
+        "Name_en": "\ue0be Responsible Creation",
+        "Name_fr": "\ue0be Les cr\u00e9ateurs amateurs",
+        "Name_ja": "\ue0be \u512a\u7b49\u306a\u5e02\u6c11\u306e\u52d9\u3081",
+        "Name_ko": "\ue0be \uc6b0\ub4f1 \uc2dc\ubbfc\uc758 \ubcf8\ubd84"
+    },
+    "2818296": {
+        "0xID": "2B00F8",
+        "Name_cn": "\ue0be \u8a00\u8bba\u81ea\u7531",
+        "Name_de": "\ue0be Charakterbildung",
+        "Name_en": "\ue0be Debate and Discourse",
+        "Name_fr": "\ue0be La rh\u00e9torique du peuple",
+        "Name_ja": "\ue0be \u8a00\u8ad6\u306e\u81ea\u7531",
+        "Name_ko": "\ue0be \uc5b8\ub860\uc758 \uc790\uc720"
+    },
+    "2818297": {
+        "0xID": "2B00F9",
+        "Name_cn": "\ue0be \u4f18\u826f\u5e02\u6c11\u9700\u6ce8\u610f\u5f62\u8c61",
+        "Name_de": "\ue0be Angemessenes \u00c4u\u00dferes",
+        "Name_en": "\ue0be Community Cohesion",
+        "Name_fr": "\ue0be La coule attitude",
+        "Name_ja": "\ue0be \u512a\u826f\u306a\u5e02\u6c11\u305f\u3089\u3057\u3081\u308b\u3082\u306e",
+        "Name_ko": "\ue0be \uc6b0\ub7c9 \uc2dc\ubbfc\uc758 \ub9c8\uc74c\uac00\uc9d0"
+    },
+    "2818298": {
+        "0xID": "2B00FA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818299": {
+        "0xID": "2B00FB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818300": {
+        "0xID": "2B00FC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818301": {
+        "0xID": "2B00FD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818302": {
+        "0xID": "2B00FE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818303": {
+        "0xID": "2B00FF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818304": {
+        "0xID": "2B0100",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818305": {
+        "0xID": "2B0101",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818306": {
+        "0xID": "2B0102",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818307": {
+        "0xID": "2B0103",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818308": {
+        "0xID": "2B0104",
+        "Name_cn": "\u8d85\u8d8a\u5e7b\u60f3\uff0c\u7a76\u6781\u795e\u5175",
+        "Name_de": "Die ultimative Waffe",
+        "Name_en": "The Ultimate Weapon",
+        "Name_fr": "L'ultime passe d'armes",
+        "Name_ja": "\u7a76\u6975\u5e7b\u60f3\u30a2\u30eb\u30c6\u30de\u30a6\u30a7\u30dd\u30f3",
+        "Name_ko": "\uc54c\ud14c\ub9c8 \uc6e8\ud3f0 \ud30c\uad34\uc791\uc804"
+    },
+    "2818309": {
+        "0xID": "2B0105",
+        "Name_cn": "\u523b\u5370\u7684\u8db3\u8ff9",
+        "Name_de": "Flotten voller Freunde",
+        "Name_en": "Bonds of Adamant(ite)",
+        "Name_fr": "La crois\u00e9e de nos \u00e9pop\u00e9es",
+        "Name_ja": "\u523b\u3093\u3060\u8db3\u8de1",
+        "Name_ko": "\uc871\uc801\uc744 \uc0c8\uae30\ub2e4"
+    },
+    "2818310": {
+        "0xID": "2B0106",
+        "Name_cn": "\ue0be \u8ff7\u8def\u7684\u5c0f\u6bdb\u7403",
+        "Name_de": "\ue0be Ein Trollkind auf Abwegen",
+        "Name_en": "\ue0be Lost Little Troll",
+        "Name_fr": "\ue0be Un amour de Poilu",
+        "Name_ja": "\ue0be \u8ff7\u5b50\u306e\u6bdb\u7389\u3061\u3083\u3093",
+        "Name_ko": "\ue0be \uae38 \uc783\uc740 \ubcf5\uc2ac\uc774"
+    },
+    "2818311": {
+        "0xID": "2B0107",
+        "Name_cn": "\ue0be \u5c0f\u8428\u96f7\u5b89\u7684\u5c11\u5e74",
+        "Name_de": "\ue0be Der Junge aus Klein-Sharlayan",
+        "Name_en": "\ue0be The Lad in Labyrinthos",
+        "Name_fr": "\ue0be L'enfant de la Petite Sharlayan",
+        "Name_ja": "\ue0be \u30ea\u30c8\u30eb\u30b7\u30e3\u30fc\u30ec\u30a2\u30f3\u306e\u5c11\u5e74",
+        "Name_ko": "\ue0be \ub9ac\ud2c0 \uc0ec\ub808\uc774\uc548\uc758 \uc18c\ub144"
+    },
+    "2818312": {
+        "0xID": "2B0108",
+        "Name_cn": "\ue0be \u62fe\u7a57\u4eba\u7684\u613f\u671b",
+        "Name_de": "\ue0be F\u00fcr eine sichere Reise",
+        "Name_en": "\ue0be Gleaner's Wish",
+        "Name_fr": "\ue0be La pri\u00e8re du voyageur",
+        "Name_ja": "\ue0be \u30b0\u30ea\u30fc\u30ca\u30fc\u306e\u9858\u639b\u3051",
+        "Name_ko": "\ue0be \uc870\ub2ec\uafbc\uc758 \uc18c\uc6d0 \ube4c\uae30"
+    },
+    "2818313": {
+        "0xID": "2B0109",
+        "Name_cn": "\ue0be \u68ee\u6797\u8d24\u8005",
+        "Name_de": "\ue0be Die H\u00fcter des Waldes",
+        "Name_en": "\ue0be Let the Good Times Troll",
+        "Name_fr": "\ue0be Le protecteur de la for\u00eat",
+        "Name_ja": "\ue0be \u68ee\u306e\u8ce2\u8005",
+        "Name_ko": "\ue0be \uc232\uc758 \ud604\uc790"
+    },
+    "2818314": {
+        "0xID": "2B010A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818315": {
+        "0xID": "2B010B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818316": {
+        "0xID": "2B010C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818317": {
+        "0xID": "2B010D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818318": {
+        "0xID": "2B010E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818319": {
+        "0xID": "2B010F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818320": {
+        "0xID": "2B0110",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818321": {
+        "0xID": "2B0111",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818322": {
+        "0xID": "2B0112",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818323": {
+        "0xID": "2B0113",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818324": {
+        "0xID": "2B0114",
+        "Name_cn": "\u5fae\u5c0f\u7684\u65e5\u5e38",
+        "Name_de": "Warm ist die Seele Thavnairs",
+        "Name_en": "Simple Pleasures",
+        "Name_fr": "Des bienfaits de l'ordinaire",
+        "Name_ja": "\u3061\u3063\u307d\u3051\u306a\u65e5\u5e38",
+        "Name_ko": "\uc18c\uc18c\ud55c \uc77c\uc0c1"
+    },
+    "2818325": {
+        "0xID": "2B0115",
+        "Name_cn": "\ue0be \u70bc\u91d1\u672f\u58eb\u4e0e\u821e\u8005",
+        "Name_de": "\ue0be Eine Alchemistin gibt nicht auf",
+        "Name_en": "\ue0be Alchemist or Dancer",
+        "Name_fr": "\ue0be R\u00e9orientation et r\u00e9fections",
+        "Name_ja": "\ue0be \u932c\u91d1\u8853\u5e2b\u3068\u8e0a\u308a\u5b50\u3068",
+        "Name_ko": "\ue0be \uc5f0\uae08\uc220\uc0ac\uc640 \ubb34\ub3c4\uac00"
+    },
+    "2818326": {
+        "0xID": "2B0116",
+        "Name_cn": "\ue0be \u6765\u81ea\u8349\u539f\u7684\u5e74\u8f7b\u5192\u9669\u8005",
+        "Name_de": "\ue0be Die Abenteurerin aus der Azim-Steppe",
+        "Name_en": "\ue0be Steppe Child",
+        "Name_fr": "\ue0be L'aventuri\u00e8re de la Steppe d'Azim",
+        "Name_ja": "\ue0be \u30a2\u30b8\u30e0\u30b9\u30c6\u30c3\u30d7\u306e\u82e5\u304d\u5192\u967a\u8005",
+        "Name_ko": "\ue0be \uc544\uc9d0 \ub300\ucd08\uc6d0\uc758 \uc80a\uc740 \ubaa8\ud5d8\uac00"
+    },
+    "2818327": {
+        "0xID": "2B0117",
+        "Name_cn": "\ue0be \u661f\u6218\u58eb\u56e2\u7684\u5de1\u903b",
+        "Name_de": "\ue0be Patrouille f\u00fcr das Himmelsheer",
+        "Name_en": "\ue0be Radiant Patrol",
+        "Name_fr": "\ue0be La patrouille de l'Ost rayonnant",
+        "Name_ja": "\ue0be \u661f\u6226\u58eb\u56e3\u306e\u5de1\u56de",
+        "Name_ko": "\ue0be \ubcc4\ube5b\uc804\uc0ac\ub2e8\uc758 \uc21c\ucc30"
+    },
+    "2818328": {
+        "0xID": "2B0118",
+        "Name_cn": "\ue0be \u91c7\u96c6\u82cf\u6469\u8349\u4e4b\u4eba",
+        "Name_de": "\ue0be Auf der Suche nach Soma-Bl\u00fcten",
+        "Name_en": "\ue0be Curing What Ails",
+        "Name_fr": "\ue0be Qui a cueilli le soma?",
+        "Name_ja": "\ue0be \u30bd\u30fc\u30de\u8349\u3092\u6458\u3080\u8005\u306f",
+        "Name_ko": "\ue0be \uc18c\ub9c8\ud480\uc744 \ub72f\ub294 \uc790"
+    },
+    "2818329": {
+        "0xID": "2B0119",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818330": {
+        "0xID": "2B011A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818331": {
+        "0xID": "2B011B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818332": {
+        "0xID": "2B011C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818333": {
+        "0xID": "2B011D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818334": {
+        "0xID": "2B011E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818335": {
+        "0xID": "2B011F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818336": {
+        "0xID": "2B0120",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818337": {
+        "0xID": "2B0121",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818338": {
+        "0xID": "2B0122",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818339": {
+        "0xID": "2B0123",
+        "Name_cn": "\u795e\u4e4b\u95e8",
+        "Name_de": "Der Turm von Babil",
+        "Name_en": "Gateway of the Gods",
+        "Name_fr": "La porte des Dieux",
+        "Name_ja": "\u795e\u306e\u9580",
+        "Name_ko": "\uc2e0\uc758 \ubb38"
+    },
+    "2818340": {
+        "0xID": "2B0124",
+        "Name_cn": "\ue0be \u8865\u7ed9\u961f\u5458\u4e0e\u62a4\u536b\u4e4b\u65c5",
+        "Name_de": "\ue0be Zusammen laufen",
+        "Name_en": "\ue0be Best Delivered Cold",
+        "Name_fr": "\ue0be De l'aide",
+        "Name_ja": "\ue0be \u88dc\u7d66\u968a\u54e1\u3068\u8b77\u885b\u65c5",
+        "Name_ko": "\ue0be \ubcf4\uae09\ub300\uc6d0\uacfc \ud638\uc704 \uc5ec\ud589"
+    },
+    "2818341": {
+        "0xID": "2B0125",
+        "Name_cn": "\ue0be \u4e0d\u8bf7\u81ea\u6765\u7684\u9752\u78f7\u6280\u5e08",
+        "Name_de": "\ue0be Ein \u00fcberzeugender Ingenieur",
+        "Name_en": "\ue0be In Pursuit of Power",
+        "Name_fr": "\ue0be Un ing\u00e9nieur d\u00e9termin\u00e9",
+        "Name_ja": "\ue0be \u9752\u71d0\u6280\u5e2b\u306f\u62bc\u3057\u304b\u3051\u4e0a\u624b",
+        "Name_ko": "\ue0be \uc800\ub3cc\uc801\uc778 \uccad\ub9b0\uae30\uc220\uc790"
+    },
+    "2818342": {
+        "0xID": "2B0126",
+        "Name_cn": "\ue0be \u5411\u5b69\u5b50\u4f20\u8fbe\u7684\u5e0c\u671b",
+        "Name_de": "\ue0be Junge, komm bald wieder",
+        "Name_en": "\ue0be Children Are Our Future",
+        "Name_fr": "\ue0be Tu peux toujours courir!",
+        "Name_ja": "\ue0be \u5b50\u306b\u8a9e\u308b\u5e0c\u671b",
+        "Name_ko": "\ue0be \uc544\uc774\uc5d0\uac8c \uc804\ud558\ub294 \ud76c\ub9dd"
+    },
+    "2818343": {
+        "0xID": "2B0127",
+        "Name_cn": "\ue0be \u4e0d\u80af\u79bb\u5f00\u8f66\u7ad9\u7684\u5c11\u5e74",
+        "Name_de": "\ue0be Gestrandet am Bahnhof",
+        "Name_en": "\ue0be Stranded at the Station",
+        "Name_fr": "\ue0be Le gar\u00e7on qui attendait",
+        "Name_ja": "\ue0be \u99c5\u3068\u5f85\u3061\u307c\u3046\u3051\u306e\u5c11\u5e74",
+        "Name_ko": "\ue0be \uc5ed\uacfc \uae30\ub2e4\ub9ac\ub294 \uc18c\ub144"
+    },
+    "2818344": {
+        "0xID": "2B0128",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818345": {
+        "0xID": "2B0129",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818346": {
+        "0xID": "2B012A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818347": {
+        "0xID": "2B012B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818348": {
+        "0xID": "2B012C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818349": {
+        "0xID": "2B012D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818350": {
+        "0xID": "2B012E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818351": {
+        "0xID": "2B012F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818352": {
+        "0xID": "2B0130",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818353": {
+        "0xID": "2B0131",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818354": {
+        "0xID": "2B0132",
+        "Name_cn": "\u4e8e\u91cc\u6602\u70ed\u7684\u51b3\u5fc3",
+        "Name_de": "Growingway und die vierzig Loporrit",
+        "Name_en": "Heart of the Matter",
+        "Name_fr": "Le temps de se comprendre",
+        "Name_ja": "\u9752\u304d\u661f\u306e\u541b\u305f\u3061\u3078",
+        "Name_ko": "\ud478\ub978 \ubcc4\uc758 \uadf8\ub300\ub4e4\uc5d0\uac8c"
+    },
+    "2818355": {
+        "0xID": "2B0133",
+        "Name_cn": "\ue0be \u6709\u7f6a\uff01\u5904\u4ee5\u5494\u5693\u5494\u5693\u5c71\u4e4b\u5211\uff01",
+        "Name_de": "\ue0be Vier Karotten, ein T\u00e4ter",
+        "Name_en": "\ue0be True Carrot Crimes",
+        "Name_fr": "\ue0be Le signe des carottes",
+        "Name_ja": "\ue0be \u30b6\u30fb\u30ad\u30e3\u30ed\u30c3\u30c8\u30fb\u30aa\u30d6\u30fb\u30d5\u30a9\u30fc",
+        "Name_ko": "\ue0be \ub2f9\uadfc 4\uac1c"
+    },
+    "2818356": {
+        "0xID": "2B0134",
+        "Name_cn": "\ue0be \u5154\u5154\u65cf\u7684\u53f9\u606f\u6d77\u98df\u5802",
+        "Name_de": "\ue0be Zu Tisch im Hause Loporrit",
+        "Name_en": "\ue0be Carrots: It's What's for Dinner",
+        "Name_fr": "\ue0be Le cri de ralliement des Loporrites",
+        "Name_ja": "\ue0be \u30ec\u30dd\u30ea\u30c3\u30c8\u306e\u98df\u5353",
+        "Name_ko": "\ue0be \ub808\ud3ec\ub9bf\uc758 \uc2dd\ud0c1"
+    },
+    "2818357": {
+        "0xID": "2B0135",
+        "Name_cn": "\ue0be \u8b66\u60d5\u4e9a\u62c9\u6208\u96f6\u5143\u8d2d\u9677\u9631",
+        "Name_de": "\ue0be Ausgrabungen am allagischen Wrack",
+        "Name_en": "\ue0be Alluring Allag",
+        "Name_fr": "\ue0be Les myst\u00e8res encore insolubles d'Allag",
+        "Name_ja": "\ue0be \u30a2\u30e9\u30b0\u306b\u9b45\u305b\u3089\u308c\u3066",
+        "Name_ko": "\ue0be \uc54c\ub77c\uadf8\uc5d0 \ub9e4\ud639\ub418\uc5b4"
+    },
+    "2818358": {
+        "0xID": "2B0136",
+        "Name_cn": "\ue0be \u6211\u7684\u540d\u5b57\u4e0e\u6211\u5fc3\u4e2d\u7684\u70e6\u607c",
+        "Name_de": "\ue0be Tr\u00e4ume fallen nicht vom Mond",
+        "Name_en": "\ue0be Name That Way",
+        "Name_fr": "\ue0be Le Loporrite qui n'aimait pas son nom",
+        "Name_ja": "\ue0be \u307c\u304f\u306e\u540d\u524d\u3068\u3001\u307c\u304f\u306e\u60a9\u307f",
+        "Name_ko": "\ue0be \ub098\uc758 \uc774\ub984, \ub098\uc758 \uace0\ubbfc"
+    },
+    "2818359": {
+        "0xID": "2B0137",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818360": {
+        "0xID": "2B0138",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818361": {
+        "0xID": "2B0139",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818362": {
+        "0xID": "2B013A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818363": {
+        "0xID": "2B013B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818364": {
+        "0xID": "2B013C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818365": {
+        "0xID": "2B013D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818366": {
+        "0xID": "2B013E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818367": {
+        "0xID": "2B013F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818368": {
+        "0xID": "2B0140",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818369": {
+        "0xID": "2B0141",
+        "Name_cn": "\u5e26\u6765\u5e78\u798f\u7684\u9e1f",
+        "Name_de": "Alarm im Hyperboreia",
+        "Name_en": "Caging the Messenger",
+        "Name_fr": "Le chercheur et l'oiseau",
+        "Name_ja": "\u5e78\u305b\u3092\u904b\u3076\u9ce5",
+        "Name_ko": "\ud589\ubcf5\uc744 \uac00\uc838\uc624\ub294 \uc0c8"
+    },
+    "2818370": {
+        "0xID": "2B0142",
+        "Name_cn": "\ue0be \u98de\u7fd4\u5427\u8fc5\u5c3e\u517d",
+        "Name_de": "\ue0be Ein K\u00e4tzchen mit dem 6. Sinn",
+        "Name_en": "\ue0be You and the Ailouros",
+        "Name_fr": "\ue0be Patrouille anti-chamailleries",
+        "Name_ja": "\ue0be \u7fbd\u3070\u305f\u3051\u3001\u30a2\u30a4\u30eb\u30fc\u30ed\u30b9",
+        "Name_ko": "\ue0be \ub0a0\uc544\ub77c, \uc544\uc77c\ub8e8\ub85c\uc2a4"
+    },
+    "2818371": {
+        "0xID": "2B0143",
+        "Name_cn": "\ue0be \u5b66\u9662\u7814\u7a76\u751f\u7684\u59d4\u6258",
+        "Name_de": "\ue0be Keine Peilung",
+        "Name_en": "\ue0be The Perks of Being a Lost Flower ",
+        "Name_fr": "\ue0be Discr\u00e8tes indiscr\u00e9tions",
+        "Name_ja": "\ue0be \u30a2\u30ab\u30c7\u30df\u30a2\u9662\u751f\u306e\u983c\u307e\u308c\u3054\u3068",
+        "Name_ko": "\ue0be \uc544\uce74\ub370\ubbf8\uc544 \uc6d0\uc0dd\uc758 \ubd80\ud0c1"
+    },
+    "2818372": {
+        "0xID": "2B0144",
+        "Name_cn": "\ue0be \u5929\u6d4b\u56ed\u7684\u5de5\u4f5c\u5185\u5bb9",
+        "Name_de": "\ue0be Wer will flei\u00dfige Beobachter sehen?",
+        "Name_en": "\ue0be Touring Anagnorisis, Part I",
+        "Name_fr": "\ue0be Observateurs observ\u00e9s",
+        "Name_ja": "\ue0be \u5929\u6e2c\u5712\u306e\u4ed5\u4e8b\u3068\u306f\uff1f",
+        "Name_ko": "\ue0be \ucc9c\uce21\uc6d0\uc774 \ud558\ub294 \uc77c"
+    },
+    "2818373": {
+        "0xID": "2B0145",
+        "Name_cn": "\ue0be \u4e0e\u8bbf\u5ba2\u76f8\u9047",
+        "Name_de": "\ue0be Ein erwarteter Gast",
+        "Name_en": "\ue0be An Expected Guest",
+        "Name_fr": "\ue0be \u00c0 la rencontre d'un visiteur",
+        "Name_ja": "\ue0be \u6765\u8a2a\u8005\u3068\u306e\u51fa\u4f1a\u3044",
+        "Name_ko": "\ue0be \ubc29\ubb38\uc790\uc640\uc758 \ub9cc\ub0a8"
+    },
+    "2818374": {
+        "0xID": "2B0146",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818375": {
+        "0xID": "2B0147",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818376": {
+        "0xID": "2B0148",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818377": {
+        "0xID": "2B0149",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818378": {
+        "0xID": "2B014A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818379": {
+        "0xID": "2B014B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818380": {
+        "0xID": "2B014C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818381": {
+        "0xID": "2B014D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818382": {
+        "0xID": "2B014E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818383": {
+        "0xID": "2B014F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818384": {
+        "0xID": "2B0150",
+        "Name_cn": "\u4f60\u4e0d\u662f\u5b64\u72ec\u4e00\u4eba",
+        "Name_de": "Du bist nicht allein",
+        "Name_en": "You're Not Alone",
+        "Name_fr": "Jamais seuls",
+        "Name_ja": "\u541b\u306f\u6c7a\u3057\u3066",
+        "Name_ko": "\ud63c\uc790\uac00 \uc544\ub2c8\uc57c"
+    },
+    "2818385": {
+        "0xID": "2B0151",
+        "Name_cn": "\ue0be \u6574\u5408\u7684\u5f02\u4e9a\u4e4b\u6b7b",
+        "Name_de": "\ue0be Tod durch Verschmelzung",
+        "Name_en": "\ue0be Ending as One",
+        "Name_fr": "\ue0be Mourir ensemble",
+        "Name_ja": "\ue0be \u7d71\u5408\u3059\u308b\u30a4\u30fc\u30a2\u306e\u6b7b",
+        "Name_ko": "\ue0be \ud1b5\ud569\ud558\ub294 \uc774\uc544\uc758 \uc8fd\uc74c"
+    },
+    "2818386": {
+        "0xID": "2B0152",
+        "Name_cn": "\ue0be \u4ea4\u6d41\u7684\u79ef\u6781\u4f5c\u7528",
+        "Name_de": "\ue0be Der Sinn des Seins",
+        "Name_en": "\ue0be A Most Stimulating Discussion",
+        "Name_fr": "\ue0be Parlez-en \u00e0 votre aventurier",
+        "Name_ja": "\ue0be \u4f1a\u8a71\u306f\u30a4\u30fc\u30a2\u306e\u3088\u3044\u523a\u6fc0",
+        "Name_ko": "\ue0be \ub300\ud654\ub294 \uc774\uc544\uc5d0\uac8c \uc88b\uc740 \uc790\uadf9"
+    },
+    "2818387": {
+        "0xID": "2B0153",
+        "Name_cn": "\ue0be \u6218\u6597\u80fd\u529b\u83b7\u5f97\u8d28\u7684\u98de\u8dc3",
+        "Name_de": "\ue0be Die Kampfkraft der Liebe",
+        "Name_en": "\ue0be Learn to Love",
+        "Name_fr": "\ue0be Un amour explosif",
+        "Name_ja": "\ue0be \u6226\u95d8\u80fd\u529b\u306e\u98db\u8e8d\u7684\u306a\u5411\u4e0a\u3092\u78ba\u8a8d\u3057\u307e\u3057\u305f",
+        "Name_ko": "\ue0be \uc804\ud22c \ub2a5\ub825\uc758 \ube44\uc57d\uc801\uc778 \ud5a5\uc0c1\uc744 \ud655\uc778\ud558\uc600\uc2b5\ub2c8\ub2e4"
+    },
+    "2818388": {
+        "0xID": "2B0154",
+        "Name_cn": "\ue0be \u6218\u6597\u6709\u52a9\u4e8e\u8fdb\u5316",
+        "Name_de": "\ue0be Neue Daten, neue Hoffnung",
+        "Name_en": "\ue0be Combat Evolved",
+        "Name_fr": "\ue0be Nous voulons nous battre!",
+        "Name_ja": "\ue0be \u30ef\u30bf\u30b7\u305f\u3061\u306f\u6226\u95d8\u306b\u3088\u308a\u9032\u5316\u3059\u308b",
+        "Name_ko": "\ue0be \uc6b0\ub9ac\ub294 \uc804\ud22c\ub97c \ud1b5\ud574 \uc9c4\ud654\ud55c\ub2e4"
+    },
+    "2818389": {
+        "0xID": "2B0155",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818390": {
+        "0xID": "2B0156",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818391": {
+        "0xID": "2B0157",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818392": {
+        "0xID": "2B0158",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818393": {
+        "0xID": "2B0159",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818394": {
+        "0xID": "2B015A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818395": {
+        "0xID": "2B015B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818396": {
+        "0xID": "2B015C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818397": {
+        "0xID": "2B015D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818398": {
+        "0xID": "2B015E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2818399": {
+        "0xID": "2B015F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    }
+}

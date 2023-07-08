@@ -1,0 +1,947 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u9f3b\u606f",
+        "Name_de": "Nieser",
+        "Name_en": "Snort",
+        "Name_fr": "Souffle nasal",
+        "Name_ja": "\u9f3b\u606f",
+        "Name_ko": "\ucf67\uae40"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u6a61\u679c\u70b8\u5f39",
+        "Name_de": "Eichelbombe",
+        "Name_en": "Acorn Bomb",
+        "Name_fr": "Gland explosif",
+        "Name_ja": "\u3069\u3093\u3050\u308a\u7206\u5f3e",
+        "Name_ko": "\ub3c4\ud1a0\ub9ac \ud3ed\ud0c4"
+    },
+    "100": {
+        "0xID": "64",
+        "Name_cn": "\u9a6c\u7279\u62c9\u9b54\u672f",
+        "Name_de": "Matra-Magie",
+        "Name_en": "Matra Magic",
+        "Name_fr": "Magie Matra",
+        "Name_ja": "\u30de\u30c8\u30e9\u30de\u30b8\u30c3\u30af",
+        "Name_ko": "\ub9c8\ud2b8\ub77c \ub9c8\ubc95"
+    },
+    "101": {
+        "0xID": "65",
+        "Name_cn": "\u751f\u6210\u5916\u8bbe",
+        "Name_de": "Replikator",
+        "Name_en": "Peripheral Synthesis",
+        "Name_fr": "Impression",
+        "Name_ja": "\u30d7\u30ea\u30f3\u30c8\u30a2\u30a6\u30c8",
+        "Name_ko": "\ucd9c\ub825"
+    },
+    "102": {
+        "0xID": "66",
+        "Name_cn": "\u5982\u610f\u5927\u65cb\u98ce",
+        "Name_de": "Beide Enden",
+        "Name_en": "Both Ends",
+        "Name_fr": "Coup de b\u00e2ton tournicotant",
+        "Name_ja": "\u5982\u610f\u5927\u65cb\u98a8",
+        "Name_ko": "\uc5ec\uc758 \ub300\uc120\ud48d"
+    },
+    "103": {
+        "0xID": "67",
+        "Name_cn": "\u9b3c\u5bbf\u811a",
+        "Name_de": "Phantomhast",
+        "Name_en": "Phantom Flurry",
+        "Name_fr": "Fr\u00e9n\u00e9sie spectrale",
+        "Name_ja": "\u9b3c\u5bbf\u811a",
+        "Name_ko": "\uadc0\uc218\uac01"
+    },
+    "104": {
+        "0xID": "68",
+        "Name_cn": "\u6708\u4e0b\u5f7c\u5cb8\u82b1",
+        "Name_de": "Mondd\u00e4mmerung",
+        "Name_en": "Nightbloom",
+        "Name_fr": "Lis araign\u00e9e",
+        "Name_ja": "\u6708\u4e0b\u5f7c\u5cb8\u82b1",
+        "Name_ko": "\ub2ec\ube5b \uc800\uc2b9\uaf43"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u6012\u53d1\u51b2\u51a0",
+        "Name_de": "Borstigkeit",
+        "Name_en": "Bristle",
+        "Name_fr": "H\u00e9rissement",
+        "Name_ja": "\u6012\u9aea\u5929",
+        "Name_ko": "\ub178\ubc1c\ub300\ubc1c"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u7cbe\u795e\u51b2\u51fb",
+        "Name_de": "Geiststo\u00df",
+        "Name_en": "Mind Blast",
+        "Name_fr": "Explosion mentale",
+        "Name_ja": "\u30de\u30a4\u30f3\u30c9\u30d6\u30e9\u30b9\u30c8",
+        "Name_ko": "\uc815\uc2e0\ud30c\uad34"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u5438\u8840",
+        "Name_de": "Blutsauger",
+        "Name_en": "Blood Drain",
+        "Name_fr": "Suceur de sang",
+        "Name_ja": "\u5438\u8840",
+        "Name_ko": "\ud761\ud608"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u6295\u5f39",
+        "Name_de": "Bombenwurf",
+        "Name_en": "Bomb Toss",
+        "Name_fr": "Lancer de bombe",
+        "Name_ja": "\u7206\u5f3e\u6295\u3052",
+        "Name_ko": "\ud3ed\ud0c4 \ub358\uc9c0\uae30"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u5343\u9488\u523a",
+        "Name_de": "1000 Nadeln",
+        "Name_en": "1000 Needles",
+        "Name_fr": "1000 aiguilles",
+        "Name_ja": "\u91dd\u5343\u672c",
+        "Name_ko": "\ubc14\ub298 1,000\uac1c"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u94bb\u5934\u70ae",
+        "Name_de": "Bohrkanone",
+        "Name_en": "Drill Cannons",
+        "Name_fr": "Canon-foreur",
+        "Name_ja": "\u30c9\u30ea\u30eb\u30ad\u30e3\u30ce\u30f3",
+        "Name_ko": "\ub4dc\ub9b4 \ub300\ud3ec"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u8be1\u5f02\u89c6\u7ebf",
+        "Name_de": "Schiefer Blick",
+        "Name_en": "the Look",
+        "Name_fr": "Regard intense",
+        "Name_ja": "\u602a\u8996\u7dda",
+        "Name_ko": "\uad34\uc774\ud55c \uc2dc\uc120"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u950b\u5229\u83dc\u5200",
+        "Name_de": "Blankes Messer",
+        "Name_en": "Sharpened Knife",
+        "Name_fr": "Couteau aiguis\u00e9",
+        "Name_ja": "\u3068\u304e\u305f\u3066",
+        "Name_ko": "\uce7c\uac08\uc774"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u82e5\u9690\u82e5\u73b0",
+        "Name_de": "B\u00f6se Ahnung",
+        "Name_en": "Loom",
+        "Name_fr": "Approche masqu\u00e9e",
+        "Name_ja": "\u30eb\u30fc\u30e0",
+        "Name_ko": "\ud76c\ubbf8\ud55c \uc9d5\uc870"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "4\u661f\u5428",
+        "Name_de": "4-Tonzen-Gewicht",
+        "Name_en": "4-tonze Weight",
+        "Name_fr": "Poids de 4 tonz",
+        "Name_ja": "4\u30c8\u30f3\u30ba",
+        "Name_ko": "4\ud1a4\uc988"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u706b\u708e\u653e\u5c04",
+        "Name_de": "Flammensturm",
+        "Name_en": "Flame Thrower",
+        "Name_fr": "Crache-flammes",
+        "Name_ja": "\u706b\u708e\u653e\u5c04",
+        "Name_ko": "\ud654\uc5fc\ubc29\uc0ac"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u62cd\u638c",
+        "Name_de": "Verwirrung",
+        "Name_en": "Faze",
+        "Name_fr": "D\u00e9sorientation",
+        "Name_ja": "\u732b\u3060\u307e\u3057",
+        "Name_ko": "\uc720\uce58\ud55c \uc18d\uc784\uc218"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u6012\u89c6",
+        "Name_de": "Finsterer Blick",
+        "Name_en": "Glower",
+        "Name_fr": "Regard noir",
+        "Name_ja": "\u30b0\u30e9\u30ef\u30fc",
+        "Name_ko": "\ub178\ub824\ubcf4\uae30"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u5bfc\u5f39",
+        "Name_de": "Rakete",
+        "Name_en": "Missile",
+        "Name_fr": "Missile",
+        "Name_ja": "\u30df\u30b5\u30a4\u30eb",
+        "Name_ko": "\ubbf8\uc0ac\uc77c"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u767d\u98ce",
+        "Name_de": "Wei\u00dfer Wind",
+        "Name_en": "White Wind",
+        "Name_fr": "Vent blanc",
+        "Name_ja": "\u30db\u30ef\u30a4\u30c8\u30a6\u30a3\u30f3\u30c9",
+        "Name_ko": "\ud558\uc580 \ubc14\ub78c"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u7ec8\u6781\u9488",
+        "Name_de": "Schlussstich",
+        "Name_en": "Final Sting",
+        "Name_fr": "Dard final",
+        "Name_ja": "\u30d5\u30a1\u30a4\u30ca\u30eb\u30b9\u30d4\u30a2",
+        "Name_ko": "\ub9c8\uc9c0\ub9c9 \ubc8c\uce68"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u81ea\u7206",
+        "Name_de": "Selbstzerst\u00f6rung",
+        "Name_en": "Self-destruct",
+        "Name_fr": "Auto-destruction",
+        "Name_ja": "\u81ea\u7206",
+        "Name_ko": "\uc790\ud3ed"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u878d\u5408",
+        "Name_de": "Assimilation",
+        "Name_en": "Transfusion",
+        "Name_fr": "Fusion",
+        "Name_ja": "\u878d\u5408",
+        "Name_ko": "\uc735\ud569"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u6cb9\u6027\u5206\u6ccc\u7269",
+        "Name_de": "Schleimiges Sekret",
+        "Name_en": "Toad Oil",
+        "Name_fr": "Huile de crapaud",
+        "Name_ja": "\u30ac\u30de\u306e\u8102",
+        "Name_ko": "\ub450\uaebc\ube44 \uae30\ub984"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u7834\u9632",
+        "Name_de": "Einsch\u00fcchtern",
+        "Name_en": "Off-guard",
+        "Name_fr": "Sans d\u00e9fense",
+        "Name_ja": "\u30ac\u30fc\u30c9\u30aa\u30d5\u30a1",
+        "Name_ko": "\ubb34\ubc29\ube44"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u6c34\u70ae",
+        "Name_de": "Wasserkanone",
+        "Name_en": "Water Cannon",
+        "Name_fr": "Tir d'eau",
+        "Name_ja": "\u6c34\u9244\u7832",
+        "Name_ko": "\ubb3c\ub300\ud3ec"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u6ed1\u820c",
+        "Name_de": "Spitze Zunge",
+        "Name_en": "Sticky Tongue",
+        "Name_fr": "Langue poisseuse",
+        "Name_ja": "\u30b9\u30c6\u30a3\u30c3\u30ad\u30fc\u30bf\u30f3",
+        "Name_ko": "\ucc10\ub4dd\ud55c \ud600"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u87ba\u65cb\u5c3e",
+        "Name_de": "Schweifschraube",
+        "Name_en": "Tail Screw",
+        "Name_fr": "Queue forante",
+        "Name_ja": "\u30c6\u30fc\u30eb\u30b9\u30af\u30ea\u30e5\u30fc",
+        "Name_ko": "\uaf2c\ub9ac \ud6c4\ub824\uce58\uae30"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "5\u7ea7\u77f3\u5316",
+        "Name_de": "Petrifikation Stufe 5",
+        "Name_en": "Level 5 Petrify",
+        "Name_fr": "P\u00e9trification niveau 5",
+        "Name_ja": "\u30ec\u30d9\u30eb5\u77f3\u5316",
+        "Name_ko": "\ub808\ubca8 5 \uc11d\ud654"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u6708\u4e4b\u7b1b",
+        "Name_de": "Mondfl\u00f6te",
+        "Name_en": "Moon Flute",
+        "Name_fr": "Fl\u00fbte lunaire",
+        "Name_ja": "\u6708\u306e\u7b1b",
+        "Name_ko": "\ub2ec\uc758 \ud53c\ub9ac"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u6b7b\u4ea1\u5ba3\u544a",
+        "Name_de": "Verh\u00e4ngnis",
+        "Name_en": "Doom",
+        "Name_fr": "Glas",
+        "Name_ja": "\u6b7b\u306e\u5ba3\u544a",
+        "Name_ko": "\uc8fd\uc74c\uc758 \uc120\uace0"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u5f3a\u529b\u5b88\u62a4",
+        "Name_de": "Totalabwehr",
+        "Name_en": "Mighty Guard",
+        "Name_fr": "Garde puissante",
+        "Name_ja": "\u30de\u30a4\u30c6\u30a3\u30ac\u30fc\u30c9",
+        "Name_ko": "\uac15\ub825 \ubc29\uc5b4"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u51b0\u68d8\u5c4f\u969c",
+        "Name_de": "Eisstachel",
+        "Name_en": "Ice Spikes",
+        "Name_fr": "Pointes de glace",
+        "Name_ja": "\u30a2\u30a4\u30b9\u30b9\u30d1\u30a4\u30af",
+        "Name_ko": "\uc5bc\uc74c \ubcf4\ud638\ub9c9"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u5bd2\u51b0\u5486\u54ee",
+        "Name_de": "Stimme des Widders",
+        "Name_en": "the Ram's Voice",
+        "Name_fr": "Voix du b\u00e9lier",
+        "Name_ja": "\u6c37\u7d50\u306e\u5486\u54ee",
+        "Name_ko": "\ube59\uacb0\uc758 \ud3ec\ud6a8"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u96f7\u7535\u5486\u54ee",
+        "Name_de": "Stimme des Drachen",
+        "Name_en": "the Dragon's Voice",
+        "Name_fr": "Voix du dragon",
+        "Name_ja": "\u96f7\u96fb\u306e\u5486\u54ee",
+        "Name_ko": "\ub1cc\uc804\uc758 \ud3ec\ud6a8"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u60ca\u5947\u5149",
+        "Name_de": "Unheimliche Aura",
+        "Name_en": "Peculiar Light",
+        "Name_fr": "Lumi\u00e8re sinistre",
+        "Name_ja": "\u4e0d\u601d\u8b70\u306a\u5149",
+        "Name_ko": "\uc2e0\ube44\ud55c \ube5b"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u82e6\u95f7\u4e4b\u6b4c",
+        "Name_de": "Gesang der Gemarterten",
+        "Name_en": "Song of Torment",
+        "Name_fr": "Chant de l'agonie",
+        "Name_ja": "\u82e6\u60b6\u306e\u6b4c",
+        "Name_ko": "\uace0\ud1b5\uc758 \ub178\ub798"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u55b7\u58a8",
+        "Name_de": "Tintenstrahl",
+        "Name_en": "Ink Jet",
+        "Name_fr": "Tir d'encre",
+        "Name_ja": "\u30a4\u30f3\u30af\u30b8\u30a7\u30c3\u30c8",
+        "Name_ko": "\uba39\ubb3c \uc3d8\uae30"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u6295\u63b7\u6c99\u4e01\u9c7c",
+        "Name_de": "Spucksardine",
+        "Name_en": "Flying Sardine",
+        "Name_fr": "Sardine volante",
+        "Name_ja": "\u30d5\u30e9\u30a4\u30f3\u30b0\u30b5\u30fc\u30c7\u30a3\u30f3",
+        "Name_ko": "\ub0a0\uc544\ub77c \uc815\uc5b4\ub9ac"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u8d85\u786c\u5316",
+        "Name_de": "Diamantr\u00fccken",
+        "Name_en": "Diamondback",
+        "Name_fr": "Blindage",
+        "Name_ja": "\u8d85\u786c\u5316",
+        "Name_ko": "\ucd08\uacbd\ud654"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u706b\u6295\u67aa",
+        "Name_de": "Feuer-Ango",
+        "Name_en": "Fire Angon",
+        "Name_fr": "Angon enflamm\u00e9",
+        "Name_ja": "\u30d5\u30a1\u30a4\u30a2\u30a2\u30f3\u30b4\u30f3",
+        "Name_ko": "\ud654\uc5fc \ud22c\ucc3d"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u98de\u7fce\u96e8",
+        "Name_de": "Federregen",
+        "Name_en": "Feather Rain",
+        "Name_fr": "Pluie de plumes",
+        "Name_ja": "\u30d5\u30a7\u30b6\u30fc\u30ec\u30a4\u30f3",
+        "Name_ko": "\uae43\ud138\ube44"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u5730\u706b\u55b7\u53d1",
+        "Name_de": "Eruption",
+        "Name_en": "Eruption",
+        "Name_fr": "\u00c9ruption",
+        "Name_ja": "\u30a8\u30e9\u30d7\u30b7\u30e7\u30f3",
+        "Name_ko": "\uc6a9\uc554 \ubd84\ucd9c"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u5c71\u5d29",
+        "Name_de": "Bergsprenger",
+        "Name_en": "Mountain Buster",
+        "Name_fr": "Casse-montagnes",
+        "Name_ja": "\u30de\u30a6\u30f3\u30c6\u30f3\u30d0\u30b9\u30bf\u30fc",
+        "Name_ko": "\uc0b0 \ucabc\uac1c\uae30"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u8f70\u96f7",
+        "Name_de": "Schockschlag",
+        "Name_en": "Shock Strike",
+        "Name_fr": "Frappe de choc",
+        "Name_ja": "\u30b7\u30e7\u30c3\u30af\u30b9\u30c8\u30e9\u30a4\u30af",
+        "Name_ko": "\ubc88\uac1c \ucda9\uaca9"
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u51b0\u96ea\u4e71\u821e",
+        "Name_de": "Gl\u00e4serner Tanz",
+        "Name_en": "Glass Dance",
+        "Name_fr": "Danse de glace",
+        "Name_ja": "\u6c37\u96ea\u4e71\u821e",
+        "Name_ko": "\ube59\uc124\ub09c\ubb34"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u6c34\u795e\u7684\u9762\u7eb1",
+        "Name_de": "Wogenschleier",
+        "Name_en": "Veil of the Whorl",
+        "Name_fr": "Voile du D\u00e9cha\u00eeneur",
+        "Name_ja": "\u6c34\u795e\u306e\u30f4\u30a7\u30fc\u30eb",
+        "Name_ko": "\uc218\uc2e0\uc758 \uc7a5\ub9c9"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u9ad8\u538b\u7535\u6d41",
+        "Name_de": "Hochstrom",
+        "Name_en": "High Voltage",
+        "Name_fr": "Haute tension",
+        "Name_ja": "\u9ad8\u5727\u96fb\u6d41",
+        "Name_ko": "\uace0\uc555 \uc804\ub958"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u9ad8\u5c71\u6c14\u6d41",
+        "Name_de": "Gletscherluft",
+        "Name_en": "Alpine Draft",
+        "Name_fr": "Vent alpin",
+        "Name_ja": "\u30a2\u30eb\u30da\u30f3\u30c9\u30e9\u30d5\u30c8",
+        "Name_ko": "\uace0\uc0b0 \uae30\ub958"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u4e07\u53d8\u6c34\u6ce2",
+        "Name_de": "Proteische Welle",
+        "Name_en": "Protean Wave",
+        "Name_fr": "Vague inconstante",
+        "Name_ja": "\u30d7\u30ed\u30c6\u30a3\u30a2\u30f3\u30a6\u30a7\u30a4\u30d6",
+        "Name_ko": "\ubcc0\ud654\uc758 \ubb3c\uacb0"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "\u72c2\u98ce\u66b4\u96ea",
+        "Name_de": "Schneesturm",
+        "Name_en": "Northerlies",
+        "Name_fr": "Aquilons",
+        "Name_ja": "\u731b\u5439\u96ea",
+        "Name_ko": "\uac70\uce5c \ub208\ubcf4\ub77c"
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u751f\u7269\u7535",
+        "Name_de": "Elektrogenese",
+        "Name_en": "Electrogenesis",
+        "Name_fr": "\u00c9lectrogen\u00e8se",
+        "Name_ja": "\u30a8\u30ec\u30af\u30c8\u30ed\u30b8\u30a7\u30cd\u30b7\u30b9",
+        "Name_ko": "\uc804\uae30 \ubc1c\uc0dd"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "\u5bd2\u5149",
+        "Name_de": "Kaltstrahl",
+        "Name_en": "Kaltstrahl",
+        "Name_fr": "Kaltstrahl",
+        "Name_ja": "\u30ab\u30eb\u30c8\u30b7\u30e5\u30c8\u30e9\u30fc\u30eb",
+        "Name_ko": "\ub0c9\ubcd1\uae30 \uacf5\uaca9"
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u6df1\u6e0a\u8d2f\u7a7f",
+        "Name_de": "Abyssal-Transfixion",
+        "Name_en": "Abyssal Transfixion",
+        "Name_fr": "Transfixion abyssale",
+        "Name_ja": "\u30a2\u30d3\u30b5\u30eb\u30c8\u30e9\u30f3\u30b9\u30d5\u30a3\u30af\u30b7\u30e7\u30f3",
+        "Name_ko": "\uc2ec\uc5f0\uc758 \uad00\ud1b5"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u5527\u5527\u548b\u548b",
+        "Name_de": "Fiepsen",
+        "Name_en": "Chirp",
+        "Name_fr": "Gazouillement",
+        "Name_ja": "\u30c1\u30e3\u30fc\u30d7",
+        "Name_ko": "\uc9c0\uc800\uadd0"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u602a\u97f3\u6ce2",
+        "Name_de": "Ekplexie",
+        "Name_en": "Eerie Soundwave",
+        "Name_fr": "Onde lugubre",
+        "Name_ja": "\u602a\u97f3\u6ce2",
+        "Name_ko": "\uad34\uc74c\ud30c"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u7ed2\u7ed2\u6cbb\u7597",
+        "Name_de": "Vitakupo",
+        "Name_en": "Pom Cure",
+        "Name_fr": "Pompon soignant",
+        "Name_ja": "\u30dd\u30f3\u30dd\u30f3\u30b1\u30a2\u30eb",
+        "Name_ko": "\ud3fc\ud3fc \ucf00\uc54c"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u54e5\u5e03\u9632\u5fa1",
+        "Name_de": "Gobhaut",
+        "Name_en": "Gobskin",
+        "Name_fr": "Gob\u00e9piderme",
+        "Name_ja": "\u30b4\u30d6\u30b9\u30ad\u30f3",
+        "Name_ko": "\uace0\ube0c\ud1a4\uc2a4\ud0a8"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u81ed\u6c14",
+        "Name_de": "Schlechter Atem",
+        "Name_en": "Bad Breath",
+        "Name_fr": "Mauvaise haleine",
+        "Name_ja": "\u81ed\u3044\u606f",
+        "Name_ko": "\uc5ed\ud55c \uc785\ub0c4\uc0c8"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "\u9b54\u6cd5\u9524",
+        "Name_de": "Zauberhammer",
+        "Name_en": "Magic Hammer",
+        "Name_fr": "Marteau magique",
+        "Name_ja": "\u30de\u30b8\u30c3\u30af\u30cf\u30f3\u30de\u30fc",
+        "Name_ko": "\ub9c8\ubc95 \ub9dd\uce58"
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u9632\u5fa1\u6307\u793a",
+        "Name_de": "Absichern",
+        "Name_en": "Avail",
+        "Name_fr": "Ordre d\u00e9fensif",
+        "Name_ja": "\u9632\u5fa1\u6307\u793a",
+        "Name_ko": "\ubc29\uc5b4 \uc9c0\uc2dc"
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u86d9\u817f",
+        "Name_de": "Froschkonzert",
+        "Name_en": "Frog Legs",
+        "Name_fr": "Ritournelle batracienne",
+        "Name_ja": "\u30d5\u30ed\u30c3\u30b0\u30ec\u30c3\u30b0",
+        "Name_ko": "\uac1c\uad6c\ub9ac \ub2e4\ub9ac"
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "\u97f3\u7206",
+        "Name_de": "Schallwelle",
+        "Name_en": "Sonic Boom",
+        "Name_fr": "Bang supersonique",
+        "Name_ja": "\u30bd\u30cb\u30c3\u30af\u30d6\u30fc\u30e0",
+        "Name_ko": "\ud3ed\uc74c \ud30c\ub3d9"
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "\u53e3\u7b1b",
+        "Name_de": "Pfeife",
+        "Name_en": "Whistle",
+        "Name_fr": "Sifflement",
+        "Name_ja": "\u30db\u30a4\u30c3\u30b9\u30eb",
+        "Name_ko": "\ud638\ub8e8\ub77c\uae30"
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "\u767d\u9a91\u58eb\u4e4b\u65c5",
+        "Name_de": "Wei\u00dfer R\u00f6sselsprung",
+        "Name_en": "White Knight's Tour",
+        "Name_fr": "Tour de cavalier blanc",
+        "Name_ja": "\u30db\u30ef\u30a4\u30c8\u30ca\u30a4\u30c8\u30c4\u30a2\u30fc",
+        "Name_ko": "\ubc31\uae30\uc0ac \ud589\uc9c4"
+    },
+    "66": {
+        "0xID": "42",
+        "Name_cn": "\u9ed1\u9a91\u58eb\u4e4b\u65c5",
+        "Name_de": "Schwarzer R\u00f6sselsprung",
+        "Name_en": "Black Knight's Tour",
+        "Name_fr": "Tour de cavalier noir",
+        "Name_ja": "\u30d6\u30e9\u30c3\u30af\u30ca\u30a4\u30c8\u30c4\u30a2\u30fc",
+        "Name_ko": "\ud751\uae30\uc0ac \ud589\uc9c4"
+    },
+    "67": {
+        "0xID": "43",
+        "Name_cn": "5\u7ea7\u5373\u6b7b",
+        "Name_de": "Todesstufe 5",
+        "Name_en": "Level 5 Death",
+        "Name_fr": "Mort niveau 5",
+        "Name_ja": "\u30ec\u30d9\u30eb5\u30c7\u30b9",
+        "Name_ko": "\ub808\ubca8 5 \ub370\uc2a4"
+    },
+    "68": {
+        "0xID": "44",
+        "Name_cn": "\u706b\u7bad\u70ae",
+        "Name_de": "Raketenwerfer",
+        "Name_en": "Launcher",
+        "Name_fr": "Lance-roquettes",
+        "Name_ja": "\u30e9\u30f3\u30c1\u30e3\u30fc",
+        "Name_ko": "\ucc99\ud0c4"
+    },
+    "69": {
+        "0xID": "45",
+        "Name_cn": "\u6c38\u6052\u5c04\u7ebf",
+        "Name_de": "Perpetueller Strahl",
+        "Name_en": "Perpetual Ray",
+        "Name_fr": "Rayon perp\u00e9tuel",
+        "Name_ja": "\u30d1\u30fc\u30da\u30c1\u30e5\u30a2\u30eb\u30ec\u30a4",
+        "Name_ko": "\uc601\uc6d0\ud55c \ube5b\uc904\uae30"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u72c2\u4e71",
+        "Name_de": "Rasender Sturz",
+        "Name_en": "Flying Frenzy",
+        "Name_fr": "D\u00e9mence",
+        "Name_ja": "\u72c2\u4e71",
+        "Name_ko": "\uad11\ub780"
+    },
+    "70": {
+        "0xID": "46",
+        "Name_cn": "\u4ed9\u4eba\u76fe",
+        "Name_de": "Sukkulentenschild",
+        "Name_en": "Cactguard",
+        "Name_fr": "Cactugarde",
+        "Name_ja": "\u30ab\u30af\u30c8\u30ac\u30fc\u30c9",
+        "Name_ko": "\uc120\uc778\uc7a5 \ubc29\ud328"
+    },
+    "71": {
+        "0xID": "47",
+        "Name_cn": "\u590d\u4ec7\u51b2\u51fb",
+        "Name_de": "Rachesto\u00df",
+        "Name_en": "Revenge Blast",
+        "Name_fr": "\u00c9clat vengeur",
+        "Name_ja": "\u30ea\u30d9\u30f3\u30b8\u30d6\u30e9\u30b9\u30c8",
+        "Name_ko": "\ubcf5\uc218 \ud3ed\ubc1c"
+    },
+    "72": {
+        "0xID": "48",
+        "Name_cn": "\u5929\u4f7f\u4f4e\u8bed",
+        "Name_de": "Engelsfl\u00fcstern",
+        "Name_en": "Angel Whisper",
+        "Name_fr": "Gr\u00e2ce ang\u00e9lique",
+        "Name_ja": "\u5929\u4f7f\u306e\u3055\u3055\u3084\u304d",
+        "Name_ko": "\ucc9c\uc0ac\uc758 \uc18d\uc0ad\uc784"
+    },
+    "73": {
+        "0xID": "49",
+        "Name_cn": "\u8715\u76ae",
+        "Name_de": "Exuviation",
+        "Name_en": "Exuviation",
+        "Name_fr": "Exuviation",
+        "Name_ja": "\u30a4\u30b0\u30b8\u30e5\u30d3\u30a8\u30fc\u30b7\u30e7\u30f3",
+        "Name_ko": "\ud5c8\ubb3c \ubc97\uae30"
+    },
+    "74": {
+        "0xID": "4A",
+        "Name_cn": "\u9006\u6d41",
+        "Name_de": "Reflux",
+        "Name_en": "Reflux",
+        "Name_fr": "Reflux",
+        "Name_ja": "\u30ea\u30d5\u30e9\u30c3\u30af\u30b9",
+        "Name_ko": "\uc5ed\ub958"
+    },
+    "75": {
+        "0xID": "4B",
+        "Name_cn": "\u6355\u98df",
+        "Name_de": "Verschlingen",
+        "Name_en": "Devour",
+        "Name_fr": "D\u00e9voration",
+        "Name_ja": "\u6355\u98df",
+        "Name_ko": "\ud3ec\uc2dd"
+    },
+    "76": {
+        "0xID": "4C",
+        "Name_cn": "\u5c0f\u4fa6\u6d4b",
+        "Name_de": "Kurzanalyse",
+        "Name_en": "Condensed Libra",
+        "Name_fr": "Acuit\u00e9 concentr\u00e9e",
+        "Name_ja": "\u30d7\u30c1\u30e9\u30a4\u30d6\u30e9",
+        "Name_ko": "\ud504\ud2f0 \ub77c\uc774\ube0c\ub77c"
+    },
+    "77": {
+        "0xID": "4D",
+        "Name_cn": "\u4ee5\u592a\u590d\u5236",
+        "Name_de": "\u00c4ther-Mimikry",
+        "Name_en": "Aetheric Mimicry",
+        "Name_fr": "Imitation \u00e9th\u00e9r\u00e9enne",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30eb\u30b3\u30d4\u30fc",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ubcf5\uc0ac"
+    },
+    "78": {
+        "0xID": "4E",
+        "Name_cn": "\u7a7f\u7532\u6563\u5f39",
+        "Name_de": "Surpanakha",
+        "Name_en": "Surpanakha",
+        "Name_fr": "Surpanakha",
+        "Name_ja": "\u5fb9\u7532\u6563\u5f3e",
+        "Name_ko": "\uad00\ud1b5\uc0b0\ud0c4"
+    },
+    "79": {
+        "0xID": "4F",
+        "Name_cn": "\u7c7b\u661f\u4f53",
+        "Name_de": "Quasar",
+        "Name_en": "Quasar",
+        "Name_fr": "Quasar",
+        "Name_ja": "\u30af\u30a8\u30fc\u30b5\u30fc",
+        "Name_ko": "\ud018\uc774\uc0ac"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u6c34\u6d41\u5410\u606f",
+        "Name_de": "Aqua-Atem",
+        "Name_en": "Aqua Breath",
+        "Name_fr": "Aquasouffle",
+        "Name_ja": "\u30a2\u30af\u30a2\u30d6\u30ec\u30b9",
+        "Name_ko": "\ubb3c\uc758 \uc228\uacb0"
+    },
+    "80": {
+        "0xID": "50",
+        "Name_cn": "\u6b63\u4e49\u98de\u8e22",
+        "Name_de": "Gewissenstritt",
+        "Name_en": "J Kick",
+        "Name_fr": "Pied justicier",
+        "Name_ja": "\u30b8\u30e3\u30b9\u30c6\u30a3\u30b9\u30ad\u30c3\u30af",
+        "Name_ko": "\uc815\uc758\uc758 \ubc1c\ucc28\uae30"
+    },
+    "81": {
+        "0xID": "51",
+        "Name_cn": "\u6e14\u53c9\u4e09\u6bb5",
+        "Name_de": "Dreizack",
+        "Name_en": "Triple Trident",
+        "Name_fr": "Triple trident",
+        "Name_ja": "\u929b\u4e09\u6bb5",
+        "Name_ko": "\uc0bc\ub2e8 \uc791\uc0b4"
+    },
+    "82": {
+        "0xID": "52",
+        "Name_cn": "\u54d4\u54e9\u54d4\u54e9",
+        "Name_de": "Kribbeln",
+        "Name_en": "Tingle",
+        "Name_fr": "Fourmillement",
+        "Name_ja": "\u30d3\u30ea\u30d3\u30ea",
+        "Name_ko": "\ucc0c\ub9bf\ucc0c\ub9bf"
+    },
+    "83": {
+        "0xID": "53",
+        "Name_cn": "\u6380\u5730\u677f\u4e4b\u672f",
+        "Name_de": "Tatami-gaeshi",
+        "Name_en": "Tatami-gaeshi",
+        "Name_fr": "Tatami-gaeshi",
+        "Name_ja": "\u7573\u8fd4\u3057\u306e\u8853",
+        "Name_ko": "\uc7a5\ud310 \ub4a4\uc9d1\uae30"
+    },
+    "84": {
+        "0xID": "54",
+        "Name_cn": "\u5f7b\u9aa8\u96fe\u5bd2",
+        "Name_de": "Eisiger Nebel",
+        "Name_en": "Cold Fog",
+        "Name_fr": "Brume glaciale",
+        "Name_ja": "\u51b7\u305f\u3044\u9727",
+        "Name_ko": "\ucc28\uac00\uc6b4 \uc548\uac1c"
+    },
+    "85": {
+        "0xID": "55",
+        "Name_cn": "\u8d5e\u6b4c",
+        "Name_de": "Stotram",
+        "Name_en": "Stotram",
+        "Name_fr": "Stotram",
+        "Name_ja": "\u30b9\u30c8\u30c8\u30e9\u30e0",
+        "Name_ko": "\uc2a4\ud1a0\ud2b8\ub78c"
+    },
+    "86": {
+        "0xID": "56",
+        "Name_cn": "\u5723\u5149\u5c04\u7ebf",
+        "Name_de": "Heiligenstrahl",
+        "Name_en": "Saintly Beam",
+        "Name_fr": "Faisceaux sacr\u00e9s",
+        "Name_ja": "\u30bb\u30a4\u30f3\u30c8\u30d3\u30fc\u30e0",
+        "Name_ko": "\uc131\uc2a4\ub7ec\uc6b4 \uad11\uc120"
+    },
+    "87": {
+        "0xID": "57",
+        "Name_cn": "\u6c61\u6ce5\u6cfc\u6d12",
+        "Name_de": "Modrige Flut",
+        "Name_en": "Feculent Flood",
+        "Name_fr": "Sukuinage-gadoue",
+        "Name_ja": "\u30c9\u30ed\u30c9\u30ed\u63ac\u3044\u6295\u3052",
+        "Name_ko": "\ud759\ud759 \ubc30\uc9c0\uae30"
+    },
+    "88": {
+        "0xID": "58",
+        "Name_cn": "\u5929\u4f7f\u7684\u70b9\u5fc3",
+        "Name_de": "Engelspeise",
+        "Name_en": "Angel's Snack",
+        "Name_fr": "Ang\u00e9lique",
+        "Name_ja": "\u5929\u4f7f\u306e\u304a\u3084\u3064",
+        "Name_ko": "\ucc9c\uc0ac\uc758 \uac04\uc2dd"
+    },
+    "89": {
+        "0xID": "59",
+        "Name_cn": "\u7384\u7ed3\u754c",
+        "Name_de": "Barriere",
+        "Name_en": "Chelonian Gate",
+        "Name_fr": "Barri\u00e8re mystique",
+        "Name_ja": "\u7384\u7d50\u754c",
+        "Name_ko": "\ud604\ubb34 \uacb0\uacc4"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u5e73\u539f\u9707\u88c2",
+        "Name_de": "Plattensprenger",
+        "Name_en": "Plaincracker",
+        "Name_fr": "Brise-plaine",
+        "Name_ja": "\u30d7\u30ec\u30fc\u30f3\u30af\u30e9\u30c3\u30ab\u30fc",
+        "Name_ko": "\ub300\uc9c0 \uade0\uc5f4"
+    },
+    "90": {
+        "0xID": "5A",
+        "Name_cn": "\u6597\u7075\u5f39",
+        "Name_de": "Zermalmender Geist",
+        "Name_en": "The Rose of Destruction",
+        "Name_fr": "Rose de la destruction",
+        "Name_ja": "\u95d8\u970a\u5f3e",
+        "Name_ko": "\ud22c\ub839\ud0c4"
+    },
+    "91": {
+        "0xID": "5B",
+        "Name_cn": "\u6597\u4e89\u672c\u80fd",
+        "Name_de": "Kampfinstinkt",
+        "Name_en": "Basic Instinct",
+        "Name_fr": "Instinct profond",
+        "Name_ja": "\u95d8\u4e89\u672c\u80fd",
+        "Name_ko": "\ud22c\uc7c1 \ubcf8\ub2a5"
+    },
+    "92": {
+        "0xID": "5C",
+        "Name_cn": "\u8d85\u632f\u52a8",
+        "Name_de": "Ultravibration",
+        "Name_en": "Ultravibration",
+        "Name_fr": "Ultravibration",
+        "Name_ja": "\u8d85\u632f\u52d5",
+        "Name_ko": "\ucd08\uc9c4\ub3d9"
+    },
+    "93": {
+        "0xID": "5D",
+        "Name_cn": "\u51b0\u7130",
+        "Name_de": "Frost",
+        "Name_en": "Blaze",
+        "Name_fr": "Givre",
+        "Name_ja": "\u30d6\u30ec\u30a4\u30ba",
+        "Name_ko": "\ubd88\uae38"
+    },
+    "94": {
+        "0xID": "5E",
+        "Name_cn": "\u82a5\u672b\u7206\u5f39",
+        "Name_de": "Senfbombe",
+        "Name_en": "Mustard Bomb",
+        "Name_fr": "Obus d'yp\u00e9rite",
+        "Name_ja": "\u30de\u30b9\u30bf\u30fc\u30c9\u30dc\u30e0",
+        "Name_ko": "\uaca8\uc790 \ud3ed\ud0c4"
+    },
+    "95": {
+        "0xID": "5F",
+        "Name_cn": "\u9f99\u4e4b\u529b",
+        "Name_de": "Drachenkraft",
+        "Name_en": "Dragon Force",
+        "Name_fr": "Dracoforce",
+        "Name_ja": "\u30c9\u30e9\u30b4\u30f3\u30d5\u30a9\u30fc\u30b9",
+        "Name_ko": "\uc6a9\uc758 \uae30\uc138"
+    },
+    "96": {
+        "0xID": "60",
+        "Name_cn": "\u4ee5\u592a\u706b\u82b1",
+        "Name_de": "\u00c4therfunken",
+        "Name_en": "Aetherial Spark",
+        "Name_fr": "\u00c9tincelle \u00e9th\u00e9r\u00e9e",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30ea\u30c3\u30af\u30b9\u30d1\u30fc\u30af",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ubd88\uaf43"
+    },
+    "97": {
+        "0xID": "61",
+        "Name_cn": "\u6c34\u529b\u5438\u5f15",
+        "Name_de": "Hydrosog",
+        "Name_en": "Hydro Pull",
+        "Name_fr": "Hydrotraction",
+        "Name_ja": "\u30cf\u30a4\u30c9\u30ed\u30d7\u30eb",
+        "Name_ko": "\uc218\ub825 \ub2f9\uae30\uae30"
+    },
+    "98": {
+        "0xID": "62",
+        "Name_cn": "\u6c34\u8109\u8bc5\u5492",
+        "Name_de": "Verfluchung des Wassers",
+        "Name_en": "Malediction of Water",
+        "Name_fr": "Mal\u00e9diction de l'eau",
+        "Name_ja": "\u6c34\u8108\u306e\u546a\u8a5b",
+        "Name_ko": "\uc218\ub9e5\uc758 \uc800\uc8fc"
+    },
+    "99": {
+        "0xID": "63",
+        "Name_cn": "\u9646\u884c\u9e1f\u9668\u77f3",
+        "Name_de": "Choco-Meteo",
+        "Name_en": "Choco Meteor",
+        "Name_fr": "Choco-m\u00e9t\u00e9ore",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30e1\u30c6\u30aa",
+        "Name_ko": "\ucd08\ucf54 \uba54\ud14c\uc624"
+    }
+}

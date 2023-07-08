@@ -1,0 +1,101 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u653b\u51fb",
+        "Name_de": "Attacke",
+        "Name_en": "Damage",
+        "Name_fr": "Attaque",
+        "Name_ja": "\u653b\u6483",
+        "Name_ko": "\uacf5\uaca9"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u9677\u9631",
+        "Name_de": "Falle",
+        "Name_en": "Trap",
+        "Name_fr": "Pi\u00e8ge",
+        "Name_ja": "\u30c8\u30e9\u30c3\u30d7",
+        "Name_ko": "\ud568\uc815"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u5f3a\u5316",
+        "Name_de": "St\u00e4rkung",
+        "Name_en": "Enhancement",
+        "Name_fr": "Renforcement",
+        "Name_ja": "\u5f37\u5316",
+        "Name_ko": "\uac15\ud654"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u5f31\u5316",
+        "Name_de": "Schw\u00e4chung",
+        "Name_en": "Enfeeblement",
+        "Name_fr": "Fragilisation",
+        "Name_ja": "\u5f31\u4f53",
+        "Name_ko": "\uc57d\ud654"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u59a8\u788d",
+        "Name_de": "Behinderung",
+        "Name_en": "Obstruction",
+        "Name_fr": "Obstruction",
+        "Name_ja": "\u59a8\u5bb3",
+        "Name_ko": "\ubc29\ud574"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u89e3\u9664",
+        "Name_de": "Beseitigung",
+        "Name_en": "Disarming",
+        "Name_fr": "Dissipation",
+        "Name_ja": "\u89e3\u9664",
+        "Name_ko": "\ud574\uc81c"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u6062\u590d",
+        "Name_de": "Heilung",
+        "Name_en": "Restoration",
+        "Name_fr": "R\u00e9cup\u00e9ration",
+        "Name_ja": "\u56de\u5fa9",
+        "Name_ko": "\ud68c\ubcf5"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u8bbe\u65bd\u653b\u51fb",
+        "Name_de": "Belagerung",
+        "Name_en": "Dismantling",
+        "Name_fr": "Destruction",
+        "Name_ja": "\u65bd\u8a2d\u653b\u6483",
+        "Name_ko": "\uc2dc\uc124 \uacf5\uaca9"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u7279\u6b8a",
+        "Name_de": "Technik",
+        "Name_en": "Special",
+        "Name_fr": "Sp\u00e9ciale",
+        "Name_ja": "\u7279\u6b8a",
+        "Name_ko": "\ud2b9\uc218"
+    }
+}

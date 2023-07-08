@@ -1,0 +1,119 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_1_cn": "",
+        "col_1_de": "* Nicht l\u00e4nger als \"Staatliche Gesellschaft\"",
+        "col_1_en": "",
+        "col_1_fr": "",
+        "col_1_ja": "",
+        "col_1_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "col_1_cn": "\u6218\u6597",
+        "col_1_de": "K\u00e4mpfe",
+        "col_1_en": "Battles",
+        "col_1_fr": "Combats",
+        "col_1_ja": "\u30d0\u30c8\u30eb",
+        "col_1_ko": "\uc804\ud22c"
+    },
+    "10": {
+        "0xID": "A",
+        "col_1_cn": "\u91d1\u789f\u6e38\u4e50\u573a",
+        "col_1_de": "Gold Saucer",
+        "col_1_en": "Gold Saucer",
+        "col_1_fr": "Gold Saucer",
+        "col_1_ja": "\u30b4\u30fc\u30eb\u30c9\u30bd\u30fc\u30b5\u30fc",
+        "col_1_ko": "\uace8\ub4dc \uc18c\uc11c"
+    },
+    "11": {
+        "0xID": "B",
+        "col_1_cn": "\u5176\u4ed6",
+        "col_1_de": "Andere",
+        "col_1_en": "Other",
+        "col_1_fr": "Autres",
+        "col_1_ja": "\u305d\u306e\u4ed6",
+        "col_1_ko": "\uae30\ud0c0"
+    },
+    "12": {
+        "0xID": "C",
+        "col_1_cn": "\u5b8c\u6210\u60c5\u51b5",
+        "col_1_de": "Agenda-Erfolge",
+        "col_1_en": "Complete",
+        "col_1_fr": "Objectifs du carnet",
+        "col_1_ja": "\u653b\u7565\u624b\u5e33\u9054\u6210\u6570",
+        "col_1_ko": "\uacf5\ub7b5\uc218\ucca9 \ub2ec\uc131 \uc218"
+    },
+    "2": {
+        "0xID": "2",
+        "col_1_cn": "\u5bf9\u6218",
+        "col_1_de": "PvP",
+        "col_1_en": "PvP",
+        "col_1_fr": "JcJ",
+        "col_1_ja": "PvP",
+        "col_1_ko": "PvP"
+    },
+    "3": {
+        "0xID": "3",
+        "col_1_cn": "\u5371\u547d\u4efb\u52a1",
+        "col_1_de": "FATEs",
+        "col_1_en": "FATE",
+        "col_1_fr": "AL\u00c9A",
+        "col_1_ja": "F.A.T.E.",
+        "col_1_ko": "\ub3cc\ubc1c \uc784\ubb34"
+    },
+    "4": {
+        "0xID": "4",
+        "col_1_cn": "\u7406\u7b26\u4efb\u52a1",
+        "col_1_de": "Freibriefe",
+        "col_1_en": "Levequests",
+        "col_1_fr": "Mandats",
+        "col_1_ja": "\u30ea\u30fc\u30f4",
+        "col_1_ko": "\uc758\ub8b0"
+    },
+    "5": {
+        "0xID": "5",
+        "col_1_cn": "\u5236\u4f5c\u91c7\u96c6",
+        "col_1_de": "Handwerker/Sammler",
+        "col_1_en": "Crafting & Gathering",
+        "col_1_fr": "Artisanat & r\u00e9colte",
+        "col_1_ja": "\u88fd\u4f5c\u30fb\u63a1\u96c6",
+        "col_1_ko": "\uc81c\uc791/\ucc44\uc9d1"
+    },
+    "6": {
+        "0xID": "6",
+        "col_1_cn": "\u5bfb\u5b9d",
+        "col_1_de": "Schatzsuche",
+        "col_1_en": "Treasure Hunt",
+        "col_1_fr": "Chasse aux tr\u00e9sors",
+        "col_1_ja": "\u30c8\u30ec\u30b8\u30e3\u30fc\u30cf\u30f3\u30c8",
+        "col_1_ko": "\ubcf4\ubb3c\ucc3e\uae30"
+    },
+    "7": {
+        "0xID": "7",
+        "col_1_cn": "\u53cb\u597d\u90e8\u65cf",
+        "col_1_de": "Stammesv\u00f6lker",
+        "col_1_en": "Tribal Quests",
+        "col_1_fr": "Qu\u00eates tribales",
+        "col_1_ja": "\u53cb\u597d\u90e8\u65cf",
+        "col_1_ko": "\uc6b0\ud638\ubd80\uc871"
+    },
+    "8": {
+        "0xID": "8",
+        "col_1_cn": "\u5927\u56fd\u9632\u8054\u519b",
+        "col_1_de": "Staatliche Gesellschaft",
+        "col_1_en": "Grand Company",
+        "col_1_fr": "Grande compagnie",
+        "col_1_ja": "\u30b0\u30e9\u30f3\u30c9\u30ab\u30f3\u30d1\u30cb\u30fc",
+        "col_1_ko": "\ucd1d\uc0ac\ub839\ubd80"
+    },
+    "9": {
+        "0xID": "9",
+        "col_1_cn": "\u96c7\u5458",
+        "col_1_de": "Gehilfen",
+        "col_1_en": "Retainers",
+        "col_1_fr": "Servants",
+        "col_1_ja": "\u30ea\u30c6\u30a4\u30ca\u30fc",
+        "col_1_ko": "\uc9d1\uc0ac"
+    }
+}

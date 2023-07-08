@@ -1,0 +1,1091 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u7d20\u96ea\u767d",
+        "Name_de": "Schneewei\u00df",
+        "Name_en": "Snow White",
+        "Name_fr": "blanc neige",
+        "Name_ja": "\u30b9\u30ce\u30a6\u30db\u30ef\u30a4\u30c8",
+        "Name_ko": "\ud558\uc580 \ub208\uc0c9"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u536b\u6708\u7ea2",
+        "Name_de": "Dalamudrot",
+        "Name_en": "Dalamud Red",
+        "Name_fr": "rouge Dalamud",
+        "Name_ja": "\u30c0\u30e9\u30ac\u30d6\u30ec\u30c3\u30c9",
+        "Name_ko": "\ub2ec\ub77c\uac00\ube0c\uc0c9"
+    },
+    "100": {
+        "0xID": "64",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "101": {
+        "0xID": "65",
+        "Name_cn": "\u65e0\u7455\u767d",
+        "Name_de": "Wolkenwei\u00df",
+        "Name_en": "Pure White",
+        "Name_fr": "blanc immacul\u00e9",
+        "Name_ja": "\u30d4\u30e5\u30a2\u30db\u30ef\u30a4\u30c8",
+        "Name_ko": "\uc21c\ubc31\uc0c9"
+    },
+    "102": {
+        "0xID": "66",
+        "Name_cn": "\u7164\u7389\u9ed1",
+        "Name_de": "Rabenschwarz",
+        "Name_en": "Jet Black",
+        "Name_fr": "noir de jais",
+        "Name_ja": "\u30b8\u30a7\u30c3\u30c8\u30d6\u30e9\u30c3\u30af",
+        "Name_ko": "\uce60\ud751\uc0c9"
+    },
+    "103": {
+        "0xID": "67",
+        "Name_cn": "\u67d4\u5f69\u7c89",
+        "Name_de": "Pastellrosa",
+        "Name_en": "Pastel Pink",
+        "Name_fr": "rose pastel",
+        "Name_ja": "\u30d1\u30b9\u30c6\u30eb\u30d4\u30f3\u30af",
+        "Name_ko": "\ubd80\ub4dc\ub7ec\uc6b4 \uc5f0\ubd84\ud64d"
+    },
+    "104": {
+        "0xID": "68",
+        "Name_cn": "\u9ed1\u6697\u7ea2",
+        "Name_de": "Dunkelrot",
+        "Name_en": "Dark Red",
+        "Name_fr": "rouge fonc\u00e9",
+        "Name_ja": "\u30c0\u30fc\u30af\u30ec\u30c3\u30c9",
+        "Name_ko": "\uc9d9\uc740 \ube68\uac15"
+    },
+    "105": {
+        "0xID": "69",
+        "Name_cn": "\u9ed1\u6697\u68d5",
+        "Name_de": "Dunkelbraun",
+        "Name_en": "Dark Brown",
+        "Name_fr": "brun fonc\u00e9",
+        "Name_ja": "\u30c0\u30fc\u30af\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\uc9d9\uc740 \uac08\uc0c9"
+    },
+    "106": {
+        "0xID": "6A",
+        "Name_cn": "\u67d4\u5f69\u7eff",
+        "Name_de": "Pastellgr\u00fcn",
+        "Name_en": "Pastel Green",
+        "Name_fr": "vert pastel",
+        "Name_ja": "\u30d1\u30b9\u30c6\u30eb\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ubd80\ub4dc\ub7ec\uc6b4 \uc5f0\ub179\uc0c9"
+    },
+    "107": {
+        "0xID": "6B",
+        "Name_cn": "\u9ed1\u6697\u7eff",
+        "Name_de": "Dunkelgr\u00fcn",
+        "Name_en": "Dark Green",
+        "Name_fr": "vert fonc\u00e9",
+        "Name_ja": "\u30c0\u30fc\u30af\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc9d9\uc740 \ub179\uc0c9"
+    },
+    "108": {
+        "0xID": "6C",
+        "Name_cn": "\u67d4\u5f69\u84dd",
+        "Name_de": "Pastellblau",
+        "Name_en": "Pastel Blue",
+        "Name_fr": "bleu pastel",
+        "Name_ja": "\u30d1\u30b9\u30c6\u30eb\u30d6\u30eb\u30fc",
+        "Name_ko": "\ubd80\ub4dc\ub7ec\uc6b4 \uc5f0\ud30c\ub791"
+    },
+    "109": {
+        "0xID": "6D",
+        "Name_cn": "\u9ed1\u6697\u84dd",
+        "Name_de": "Dunkelblau",
+        "Name_en": "Dark Blue",
+        "Name_fr": "bleu fonc\u00e9",
+        "Name_ja": "\u30c0\u30fc\u30af\u30d6\u30eb\u30fc",
+        "Name_ko": "\uc9d9\uc740 \ud30c\ub791"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u94c1\u9508\u7ea2",
+        "Name_de": "Rostrot",
+        "Name_en": "Rust Red",
+        "Name_fr": "rouille",
+        "Name_ja": "\u30e9\u30b9\u30c8\u30ec\u30c3\u30c9",
+        "Name_ko": "\ub179\uc2a8 \ube68\uac04\uc0c9"
+    },
+    "110": {
+        "0xID": "6E",
+        "Name_cn": "\u67d4\u5f69\u7d2b",
+        "Name_de": "Pastellviolett",
+        "Name_en": "Pastel Purple",
+        "Name_fr": "violet pastel",
+        "Name_ja": "\u30d1\u30b9\u30c6\u30eb\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\ubd80\ub4dc\ub7ec\uc6b4 \uc5f0\ubcf4\ub77c"
+    },
+    "111": {
+        "0xID": "6F",
+        "Name_cn": "\u9ed1\u6697\u7d2b",
+        "Name_de": "Dunkelviolett",
+        "Name_en": "Dark Purple",
+        "Name_fr": "violet fonc\u00e9",
+        "Name_ja": "\u30c0\u30fc\u30af\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\uc9d9\uc740 \uc790\uc8fc\uc0c9"
+    },
+    "112": {
+        "0xID": "70",
+        "Name_cn": "\u95ea\u8000\u94f6",
+        "Name_de": "Metallic Silber",
+        "Name_en": "Metallic Silver",
+        "Name_fr": "argent brillant",
+        "Name_ja": "\u30b7\u30eb\u30d0\u30fc",
+        "Name_ko": "\uc740\uc0c9"
+    },
+    "113": {
+        "0xID": "71",
+        "Name_cn": "\u95ea\u8000\u91d1",
+        "Name_de": "Metallic Gold",
+        "Name_en": "Metallic Gold",
+        "Name_fr": "or brillant",
+        "Name_ja": "\u30b4\u30fc\u30eb\u30c9",
+        "Name_ko": "\uae08\uc0c9"
+    },
+    "114": {
+        "0xID": "72",
+        "Name_cn": "\u91d1\u5c5e\u7ea2",
+        "Name_de": "Metallic Rot",
+        "Name_en": "Metallic Red",
+        "Name_fr": "rouge m\u00e9tallique",
+        "Name_ja": "\u30e1\u30bf\u30ea\u30c3\u30af\u30ec\u30c3\u30c9",
+        "Name_ko": "\uae08\uc18d\uc9c8 \ube68\uac04\uc0c9"
+    },
+    "115": {
+        "0xID": "73",
+        "Name_cn": "\u91d1\u5c5e\u6a59",
+        "Name_de": "Metallic Orange",
+        "Name_en": "Metallic Orange",
+        "Name_fr": "orange m\u00e9tallique",
+        "Name_ja": "\u30e1\u30bf\u30ea\u30c3\u30af\u30aa\u30ec\u30f3\u30b8",
+        "Name_ko": "\uae08\uc18d\uc9c8 \uc8fc\ud669\uc0c9"
+    },
+    "116": {
+        "0xID": "74",
+        "Name_cn": "\u91d1\u5c5e\u9ec4",
+        "Name_de": "Metallic Gelb",
+        "Name_en": "Metallic Yellow",
+        "Name_fr": "jaune m\u00e9tallique",
+        "Name_ja": "\u30e1\u30bf\u30ea\u30c3\u30af\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\uae08\uc18d\uc9c8 \ub178\ub780\uc0c9"
+    },
+    "117": {
+        "0xID": "75",
+        "Name_cn": "\u91d1\u5c5e\u7eff",
+        "Name_de": "Metallic Gr\u00fcn",
+        "Name_en": "Metallic Green",
+        "Name_fr": "vert m\u00e9tallique",
+        "Name_ja": "\u30e1\u30bf\u30ea\u30c3\u30af\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uae08\uc18d\uc9c8 \ub179\uc0c9"
+    },
+    "118": {
+        "0xID": "76",
+        "Name_cn": "\u91d1\u5c5e\u84dd",
+        "Name_de": "Metallic Himmelblau",
+        "Name_en": "Metallic Sky Blue",
+        "Name_fr": "bleu ciel m\u00e9tallique",
+        "Name_ja": "\u30e1\u30bf\u30ea\u30c3\u30af\u30b9\u30ab\u30a4\u30d6\u30eb\u30fc",
+        "Name_ko": "\uae08\uc18d\uc9c8 \ud558\ub298\uc0c9"
+    },
+    "119": {
+        "0xID": "77",
+        "Name_cn": "\u91d1\u5c5e\u975b",
+        "Name_de": "Metallic Blau",
+        "Name_en": "Metallic Blue",
+        "Name_fr": "bleu m\u00e9tallique",
+        "Name_ja": "\u30e1\u30bf\u30ea\u30c3\u30af\u30d6\u30eb\u30fc",
+        "Name_ko": "\uae08\uc18d\uc9c8 \ud30c\ub780\uc0c9"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u679c\u9152\u7ea2",
+        "Name_de": "Weinrot",
+        "Name_en": "Wine Red",
+        "Name_fr": "lie-de-vin",
+        "Name_ja": "\u30ef\u30a4\u30f3\u30ec\u30c3\u30c9",
+        "Name_ko": "\ud3ec\ub3c4\uc8fc\uc0c9"
+    },
+    "120": {
+        "0xID": "78",
+        "Name_cn": "\u91d1\u5c5e\u7d2b",
+        "Name_de": "Metallic Violett",
+        "Name_en": "Metallic Purple",
+        "Name_fr": "violet m\u00e9tallique",
+        "Name_ja": "\u30e1\u30bf\u30ea\u30c3\u30af\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\uae08\uc18d\uc9c8 \ubcf4\ub77c\uc0c9"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u73ca\u745a\u7c89",
+        "Name_de": "Korallenrosa",
+        "Name_en": "Coral Pink",
+        "Name_fr": "rose corail",
+        "Name_ja": "\u30b3\u30fc\u30e9\u30eb\u30d4\u30f3\u30af",
+        "Name_ko": "\uc0b0\ud638\uc0c9"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u9c9c\u8840\u7ea2",
+        "Name_de": "Blutrot",
+        "Name_en": "Blood Red",
+        "Name_fr": "rouge sang",
+        "Name_ja": "\u30d6\u30e9\u30c3\u30c9\u30ec\u30c3\u30c9",
+        "Name_ko": "\uc120\ud64d\uc0c9"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u9c91\u9c7c\u7c89",
+        "Name_de": "Lachsrosa",
+        "Name_en": "Salmon Pink",
+        "Name_fr": "rose saumon",
+        "Name_ja": "\u30b5\u30fc\u30e2\u30f3\u30d4\u30f3\u30af",
+        "Name_ko": "\uc5f0\uc5b4\uc0c9"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u65e5\u843d\u6a59",
+        "Name_de": "Abendrot",
+        "Name_en": "Sunset Orange",
+        "Name_fr": "orange couchant",
+        "Name_ja": "\u30b5\u30f3\u30bb\u30c3\u30c8\u30aa\u30ec\u30f3\u30b8",
+        "Name_ko": "\ub178\uc744\uc0c9"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u53f0\u5730\u7ea2",
+        "Name_de": "Tafelbergrot",
+        "Name_en": "Mesa Red",
+        "Name_fr": "vermillon terne",
+        "Name_ja": "\u30e1\u30b5\u30ec\u30c3\u30c9",
+        "Name_ko": "\ud669\uc57c\uc758 \ubd89\uc740\uc0c9"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u6811\u76ae\u68d5",
+        "Name_de": "Borkenbraun",
+        "Name_en": "Bark Brown",
+        "Name_fr": "marron \u00e9corce",
+        "Name_ja": "\u30d0\u30fc\u30af\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ub098\ubb34\uaecd\uc9c8\uc0c9"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u5de7\u514b\u529b",
+        "Name_de": "Schokoladenbraun",
+        "Name_en": "Chocolate Brown",
+        "Name_fr": "chocolat",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30ec\u30fc\u30c8\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ucd08\ucf5c\ub9bf\uc0c9"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u82cd\u767d\u7070",
+        "Name_de": "Aschgrau",
+        "Name_en": "Ash Grey",
+        "Name_fr": "gris cendre",
+        "Name_ja": "\u30a2\u30c3\u30b7\u30e5\u30b0\u30ec\u30a4",
+        "Name_ko": "\ud68c\uc0c9"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u94c1\u9508\u68d5",
+        "Name_de": "Rotbraun",
+        "Name_en": "Russet Brown",
+        "Name_fr": "brun fauve",
+        "Name_ja": "\u30e9\u30bb\u30c3\u30c8\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\uc801\uac08\uc0c9"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u94b4\u94c1\u68d5",
+        "Name_de": "Koboldbraun",
+        "Name_en": "Kobold Brown",
+        "Name_fr": "brun kobold",
+        "Name_ja": "\u30b3\u30dc\u30eb\u30c9\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ucf54\ubcfc\ub4dc\uc0c9"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u8f6f\u6728\u68d5",
+        "Name_de": "Korkbraun",
+        "Name_en": "Cork Brown",
+        "Name_fr": "brun li\u00e8ge",
+        "Name_ja": "\u30b3\u30eb\u30af\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ucf54\ub974\ud06c\uc0c9"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u5362\u6069\u68d5",
+        "Name_de": "Qiqirnbraun",
+        "Name_en": "Qiqirn Brown",
+        "Name_fr": "brun qiqirn",
+        "Name_ja": "\u30ad\u30ad\u30eb\u30f3\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ud0a4\ud0a4\ub8ec\uc0c9"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u5965\u7334\u68d5",
+        "Name_de": "Opo-Opobraun",
+        "Name_en": "Opo-opo Brown",
+        "Name_fr": "brun opo-opo",
+        "Name_ja": "\u30aa\u30dd\u30aa\u30dd\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\uc624\ud3ec\uc624\ud3ec\uc0c9"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u5c71\u7f8a\u68d5",
+        "Name_de": "Steinbockbraun",
+        "Name_en": "Aldgoat Brown",
+        "Name_fr": "brun bouquetin",
+        "Name_ja": "\u30a2\u30eb\u30c9\u30b4\u30fc\u30c8\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ud070\ubfd4\uc5fc\uc18c\uc0c9"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u5357\u74dc\u6a59",
+        "Name_de": "K\u00fcrbisorange",
+        "Name_en": "Pumpkin Orange",
+        "Name_fr": "orange citrouille",
+        "Name_ja": "\u30d1\u30f3\u30d7\u30ad\u30f3\u30aa\u30ec\u30f3\u30b8",
+        "Name_ko": "\ub299\uc740\ud638\ubc15\uc0c9"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u6a61\u679c\u68d5",
+        "Name_de": "Eichelbraun",
+        "Name_en": "Acorn Brown",
+        "Name_fr": "brun noisette",
+        "Name_ja": "\u30a8\u30fc\u30b3\u30f3\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ub3c4\ud1a0\ub9ac\uc0c9"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u679c\u56ed\u68d5",
+        "Name_de": "Obstbraun",
+        "Name_en": "Orchard Brown",
+        "Name_fr": "feuille-morte",
+        "Name_ja": "\u30aa\u30fc\u30c1\u30e3\u30fc\u30c9\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\uacfc\uc218\uc6d0 \ud759\uc0c9"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u5c71\u6817\u68d5",
+        "Name_de": "Kastanienbraun",
+        "Name_en": "Chestnut Brown",
+        "Name_fr": "brun ch\u00e2taigne",
+        "Name_ja": "\u30c1\u30a7\u30b9\u30ca\u30c3\u30c8\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ubc24\uc0c9"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u53e4\u83e9\u7070",
+        "Name_de": "Goobbuegrau",
+        "Name_en": "Goobbue Grey",
+        "Name_fr": "gris goobbue",
+        "Name_ja": "\u30b0\u30a5\u30fc\u30d6\u30fc\u30b0\u30ec\u30a4",
+        "Name_ko": "\uad6c\ubd80 \ud68c\uc0c9"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u54e5\u5e03\u6797",
+        "Name_de": "Kartonbraun",
+        "Name_en": "Gobbiebag Brown",
+        "Name_fr": "brun gobelin",
+        "Name_ja": "\u30b4\u30d6\u30ea\u30f3\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\uace0\ube14\ub9b0\uc0c9"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u9875\u5ca9\u68d5",
+        "Name_de": "Schieferbraun",
+        "Name_en": "Shale Brown",
+        "Name_fr": "brun schiste",
+        "Name_ja": "\u30b7\u30a7\u30fc\u30eb\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ucc30\ud759\uc0c9"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u9f39\u9f20\u68d5",
+        "Name_de": "Maulwurfsbraun",
+        "Name_en": "Mole Brown",
+        "Name_fr": "brun taupe",
+        "Name_ja": "\u30e2\u30fc\u30eb\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ub450\ub354\uc9c0\uc0c9"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u6c83\u571f\u68d5",
+        "Name_de": "Lehmbraun",
+        "Name_en": "Loam Brown",
+        "Name_fr": "brun argile",
+        "Name_ja": "\u30ed\u30fc\u30e0\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\ube44\uc625\ud1a0\uc0c9"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u9ab8\u9aa8\u767d",
+        "Name_de": "Knochenwei\u00df",
+        "Name_en": "Bone White",
+        "Name_fr": "ivoire",
+        "Name_ja": "\u30dc\u30fc\u30f3\u30db\u30ef\u30a4\u30c8",
+        "Name_ko": "\uc0c1\uc544\uc0c9"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u9ec4\u6c99\u68d5",
+        "Name_de": "Ul'dahbraun",
+        "Name_en": "Ul Brown",
+        "Name_fr": "ocre uldien",
+        "Name_ja": "\u30a6\u30eb\u30c0\u30cf\u30f3\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\uc6b8\ub2e4\ud558 \uac08\uc0c9"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u9646\u884c\u9e1f\u9ec4",
+        "Name_de": "W\u00fcstengelb",
+        "Name_en": "Desert Yellow",
+        "Name_fr": "jaune chocobo",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \ub178\ub791"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u8702\u871c\u9ec4",
+        "Name_de": "Honiggelb",
+        "Name_en": "Honey Yellow",
+        "Name_fr": "jaune miel",
+        "Name_ja": "\u30cf\u30cb\u30fc\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\uafc0\uc0c9"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u7389\u7c73\u9ec4",
+        "Name_de": "Maisgelb",
+        "Name_en": "Millioncorn Yellow",
+        "Name_fr": "jaune milli-ma\u00efs",
+        "Name_ja": "\u30df\u30ea\u30aa\u30f3\u30b3\u30fc\u30f3\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\uc625\uc218\uc218\uc0c9"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u731b\u8c79\u9ec4",
+        "Name_de": "Coeurlgelb",
+        "Name_en": "Coeurl Yellow",
+        "Name_fr": "jaune coeurl",
+        "Name_ja": "\u30af\u30a1\u30fc\u30eb\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\ucee4\uc5bc\uc0c9"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u77f3\u677f\u7070",
+        "Name_de": "Schiefergrau",
+        "Name_en": "Slate Grey",
+        "Name_fr": "gris ardoise",
+        "Name_ja": "\u30b9\u30ec\u30fc\u30c8\u30b0\u30ec\u30a4",
+        "Name_ko": "\uc9c4\ud68c\uc0c9"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u5976\u6cb9\u9ec4",
+        "Name_de": "Cremegelb",
+        "Name_en": "Cream Yellow",
+        "Name_fr": "jaune cr\u00e8me",
+        "Name_ja": "\u30af\u30ea\u30fc\u30e0\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\ud06c\ub9bc\uc0c9"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u65e5\u5f71\u9ec4",
+        "Name_de": "Halataligelb",
+        "Name_en": "Halatali Yellow",
+        "Name_fr": "jaune Halatali",
+        "Name_ja": "\u30cf\u30e9\u30bf\u30ea\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\ud560\ub77c\ud0c8\ub9ac \ub178\ub780\uc0c9"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u8404\u5e72\u68d5",
+        "Name_de": "Rosinenbraun",
+        "Name_en": "Raisin Brown",
+        "Name_fr": "raisin sec",
+        "Name_ja": "\u30ec\u30fc\u30ba\u30f3\u30d6\u30e9\u30a6\u30f3",
+        "Name_ko": "\uac74\ud3ec\ub3c4\uc0c9"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u6ce5\u6cbc\u7eff",
+        "Name_de": "Schlammgr\u00fcn",
+        "Name_en": "Mud Green",
+        "Name_fr": "kaki",
+        "Name_ja": "\u30de\u30c3\u30c9\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc2b5\uc9c0 \ub179\uc0c9"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u5996\u7cbe\u7eff",
+        "Name_de": "Sylphengr\u00fcn",
+        "Name_en": "Sylph Green",
+        "Name_fr": "vert sylphe",
+        "Name_ja": "\u30b7\u30eb\u30d5\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc2e4\ud504\uc0c9"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u9752\u67e0\u7eff",
+        "Name_de": "Limettengr\u00fcn",
+        "Name_en": "Lime Green",
+        "Name_fr": "vert citron",
+        "Name_ja": "\u30e9\u30a4\u30e0\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ub77c\uc784\uc0c9"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u82d4\u85d3\u7eff",
+        "Name_de": "Moosgr\u00fcn",
+        "Name_en": "Moss Green",
+        "Name_fr": "vert mousse",
+        "Name_ja": "\u30e2\u30b9\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc774\ub07c\uc0c9"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u7267\u8349\u7eff",
+        "Name_de": "Grasgr\u00fcn",
+        "Name_en": "Meadow Green",
+        "Name_fr": "vert prairie",
+        "Name_ja": "\u30e1\u30c9\u30a6\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ud480\uc0c9"
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u6a44\u6984\u7eff",
+        "Name_de": "Olivgr\u00fcn",
+        "Name_en": "Olive Green",
+        "Name_fr": "vert olive",
+        "Name_ja": "\u30aa\u30ea\u30fc\u30f4\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc62c\ub9ac\ube0c\uc0c9"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u6cbc\u6cfd\u7eff",
+        "Name_de": "Sumpfgr\u00fcn",
+        "Name_en": "Marsh Green",
+        "Name_fr": "vert viridien",
+        "Name_ja": "\u30de\u30fc\u30b7\u30e5\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ub2aa\uc9c0 \ub179\uc0c9"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u6728\u70ad\u7070",
+        "Name_de": "Anthrazit",
+        "Name_en": "Charcoal Grey",
+        "Name_fr": "gris charbon",
+        "Name_ja": "\u30c1\u30e3\u30b3\u30fc\u30eb\u30b0\u30ec\u30a4",
+        "Name_ko": "\ud0c4\ud68c\uc0c9"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u82f9\u679c\u7eff",
+        "Name_de": "Apfelgr\u00fcn",
+        "Name_en": "Apple Green",
+        "Name_fr": "vert pomme",
+        "Name_ja": "\u30a2\u30c3\u30d7\u30eb\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ud48b\uc0ac\uacfc\uc0c9"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u4ed9\u4eba\u638c",
+        "Name_de": "Kaktusgr\u00fcn",
+        "Name_en": "Cactuar Green",
+        "Name_fr": "vert cactuar",
+        "Name_ja": "\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc120\uc778\uc7a5\uc0c9"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "\u730e\u4eba\u7eff",
+        "Name_de": "J\u00e4gergr\u00fcn",
+        "Name_en": "Hunter Green",
+        "Name_fr": "vert chasseur",
+        "Name_ja": "\u30cf\u30f3\u30bf\u30fc\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc9c4\ub179\uc0c9"
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u53e3\u82b1\u7eff",
+        "Name_de": "Ochugr\u00fcn",
+        "Name_en": "Ochu Green",
+        "Name_fr": "vert otyugh",
+        "Name_ja": "\u30aa\u30c1\u30e5\u30fc\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc624\uce04\uc0c9"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "\u91d1\u9f9f\u7eff",
+        "Name_de": "Adaman-Taimaigr\u00fcn",
+        "Name_en": "Adamantoise Green",
+        "Name_fr": "vert adamankh\u00e9lone",
+        "Name_ja": "\u30a2\u30c0\u30de\u30f3\u30bf\u30b9\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uae08\uac15\uac70\ubd81\uc0c9"
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u5730\u795e\u7eff",
+        "Name_de": "Nophicagr\u00fcn",
+        "Name_en": "Nophica Green",
+        "Name_fr": "vert Nophica",
+        "Name_ja": "\u30ce\u30d5\u30a3\u30ab\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ub178\ud53c\uce74\uc758 \ub179\uc0c9"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u6df1\u6797\u7eff",
+        "Name_de": "Waldgr\u00fcn",
+        "Name_en": "Deepwood Green",
+        "Name_fr": "vert sapin",
+        "Name_ja": "\u30c7\u30a3\u30fc\u30d7\u30a6\u30c3\u30c9\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ubc00\ub9bc \ub179\uc0c9"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u5929\u4e0a\u84dd",
+        "Name_de": "Azurblau",
+        "Name_en": "Celeste Green",
+        "Name_fr": "vert c\u00e9leste",
+        "Name_ja": "\u30bb\u30ec\u30b9\u30c8\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\uc605\uc740 \uccad\ub85d\uc0c9"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u7eff\u677e\u84dd",
+        "Name_de": "T\u00fcrkis",
+        "Name_en": "Turquoise Green",
+        "Name_fr": "turquoise",
+        "Name_ja": "\u30bf\u30fc\u30b3\u30a4\u30ba\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ud130\ud0a4\uc11d\uc0c9"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u9b54\u82b1\u7eff",
+        "Name_de": "Morbolgr\u00fcn",
+        "Name_en": "Morbol Green",
+        "Name_fr": "vert morbol",
+        "Name_ja": "\u30e2\u30eb\u30dc\u30eb\u30b0\u30ea\u30fc\u30f3",
+        "Name_ko": "\ubab0\ubcfc\uc0c9"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u7164\u70df\u9ed1",
+        "Name_de": "Ru\u00dfschwarz",
+        "Name_en": "Soot Black",
+        "Name_fr": "noir suie",
+        "Name_ja": "\u30b9\u30fc\u30c8\u30d6\u30e9\u30c3\u30af",
+        "Name_ko": "\uc22f\uac80\uc815\uc0c9"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "\u5bd2\u51b0\u84dd",
+        "Name_de": "Eisblau",
+        "Name_en": "Ice Blue",
+        "Name_fr": "bleu glace",
+        "Name_ja": "\u30a2\u30a4\u30b9\u30d6\u30eb\u30fc",
+        "Name_ko": "\uc605\uc740 \ud558\ub298\uc0c9"
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u5929\u7a7a\u84dd",
+        "Name_de": "Himmelblau",
+        "Name_en": "Sky Blue",
+        "Name_fr": "bleu ciel",
+        "Name_ja": "\u30b9\u30ab\u30a4\u30d6\u30eb\u30fc",
+        "Name_ko": "\ud558\ub298\uc0c9"
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u6d77\u96fe\u84dd",
+        "Name_de": "Seenebelblau",
+        "Name_en": "Seafog Blue",
+        "Name_fr": "bleu horizon",
+        "Name_ja": "\u30b7\u30fc\u30d5\u30a9\u30b0\u30d6\u30eb\u30fc",
+        "Name_ko": "\ubc14\ub2e4\uc548\uac1c\uc0c9"
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "\u5b54\u96c0\u84dd",
+        "Name_de": "Pfauenblau",
+        "Name_en": "Peacock Blue",
+        "Name_fr": "bleu paon",
+        "Name_ja": "\u30d4\u30fc\u30b3\u30c3\u30af\u30d6\u30eb\u30fc",
+        "Name_ko": "\uacf5\uc791\uae43 \ud30c\ub780\uc0c9"
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "\u7f57\u6d77\u84dd",
+        "Name_de": "Rhotanoblau",
+        "Name_en": "Rhotano Blue",
+        "Name_fr": "bleu de Rhotano",
+        "Name_ja": "\u30ed\u30fc\u30bf\u30ce\u30d6\u30eb\u30fc",
+        "Name_ko": "\ub85c\ud0c0\ub178 \ubc14\ub2e4\uc0c9"
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "\u8150\u5c38\u84dd",
+        "Name_de": "Leichenblau",
+        "Name_en": "Corpse Blue",
+        "Name_fr": "bleu charron",
+        "Name_ja": "\u30b3\u30fc\u30d7\u30b9\u30d6\u30eb\u30fc",
+        "Name_ko": "\uc880\ube44\uc758 \uc5bc\uad74\uc0c9"
+    },
+    "66": {
+        "0xID": "42",
+        "Name_cn": "\u9752\u78f7\u84dd",
+        "Name_de": "Erdseimblau",
+        "Name_en": "Ceruleum Blue",
+        "Name_fr": "bleu c\u00e9ruleum",
+        "Name_ja": "\u30bb\u30eb\u30ec\u30a2\u30e0\u30d6\u30eb\u30fc",
+        "Name_ko": "\uccad\ub9b0\uc218\uc0c9"
+    },
+    "67": {
+        "0xID": "43",
+        "Name_cn": "\u975b\u9752\u84dd",
+        "Name_de": "Indigoblau",
+        "Name_en": "Woad Blue",
+        "Name_fr": "bleu gu\u00e8de",
+        "Name_ja": "\u30a6\u30a9\u30fc\u30c9\u30d6\u30eb\u30fc",
+        "Name_ko": "\ucabd\ube5b \ud30c\ub780\uc0c9"
+    },
+    "68": {
+        "0xID": "44",
+        "Name_cn": "\u6cb9\u58a8\u84dd",
+        "Name_de": "Tintenblau",
+        "Name_en": "Ink Blue",
+        "Name_fr": "bleu encre",
+        "Name_ja": "\u30a4\u30f3\u30af\u30d6\u30eb\u30fc",
+        "Name_ko": "\uac80\ud478\ub978\uc0c9"
+    },
+    "69": {
+        "0xID": "45",
+        "Name_cn": "\u76d7\u9f99\u84dd",
+        "Name_de": "Raptorenblau",
+        "Name_en": "Raptor Blue",
+        "Name_fr": "bleu raptor",
+        "Name_ja": "\u30e9\u30d7\u30c8\u30eb\u30d6\u30eb\u30fc",
+        "Name_ko": "\ub78d\ud1a0\ub974\uc0c9"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u73ab\u7470\u7c89",
+        "Name_de": "Rosarot",
+        "Name_en": "Rose Pink",
+        "Name_fr": "rose floral",
+        "Name_ja": "\u30ed\u30fc\u30ba\u30d4\u30f3\u30af",
+        "Name_ko": "\uc7a5\ubbf8\uc0c9"
+    },
+    "70": {
+        "0xID": "46",
+        "Name_cn": "\u4e1c\u6d32\u84dd",
+        "Name_de": "Othardblau",
+        "Name_en": "Othard Blue",
+        "Name_fr": "bleu d'Othard",
+        "Name_ja": "\u30aa\u30b5\u30fc\u30c9\u30d6\u30eb\u30fc",
+        "Name_ko": "\uc624\uc0ac\ub4dc \ubc14\ub2e4\uc0c9"
+    },
+    "71": {
+        "0xID": "47",
+        "Name_cn": "\u98ce\u66b4\u84dd",
+        "Name_de": "Sturmblau",
+        "Name_en": "Storm Blue",
+        "Name_fr": "bleu temp\u00eate",
+        "Name_ja": "\u30b9\u30c8\u30fc\u30e0\u30d6\u30eb\u30fc",
+        "Name_ko": "\uc120\uba85\ud55c \ud30c\ub780\uc0c9"
+    },
+    "72": {
+        "0xID": "48",
+        "Name_cn": "\u865a\u7a7a\u84dd",
+        "Name_de": "Nichtsblau",
+        "Name_en": "Void Blue",
+        "Name_fr": "bleu du n\u00e9ant",
+        "Name_ja": "\u30f4\u30a9\u30a4\u30c9\u30d6\u30eb\u30fc",
+        "Name_ko": "\ubcf4\uc774\ub4dc\uc758 \ud30c\ub780\uc0c9"
+    },
+    "73": {
+        "0xID": "49",
+        "Name_cn": "\u7687\u5ba4\u84dd",
+        "Name_de": "K\u00f6nigsblau",
+        "Name_en": "Royal Blue",
+        "Name_fr": "bleu royal",
+        "Name_ja": "\u30ed\u30a4\u30e4\u30eb\u30d6\u30eb\u30fc",
+        "Name_ko": "\uac10\uccad\uc0c9"
+    },
+    "74": {
+        "0xID": "4A",
+        "Name_cn": "\u5348\u591c\u84dd",
+        "Name_de": "Mitternachtsblau",
+        "Name_en": "Midnight Blue",
+        "Name_fr": "bleu de minuit",
+        "Name_ja": "\u30df\u30c3\u30c9\u30ca\u30a4\u30c8\u30d6\u30eb\u30fc",
+        "Name_ko": "\ubc24\ud558\ub298\uc0c9"
+    },
+    "75": {
+        "0xID": "4B",
+        "Name_cn": "\u9634\u5f71\u84dd",
+        "Name_de": "Schattenblau",
+        "Name_en": "Shadow Blue",
+        "Name_fr": "bleu turquin",
+        "Name_ja": "\u30b7\u30e3\u30c9\u30a6\u30d6\u30eb\u30fc",
+        "Name_ko": "\uccad\ud68c\uc0c9"
+    },
+    "76": {
+        "0xID": "4C",
+        "Name_cn": "\u6df1\u6e0a\u84dd",
+        "Name_de": "Tiefblau",
+        "Name_en": "Abyssal Blue",
+        "Name_fr": "bleu marine",
+        "Name_ja": "\u30a2\u30d3\u30b5\u30eb\u30d6\u30eb\u30fc",
+        "Name_ko": "\uccad\ubcf4\ub77c\uc0c9"
+    },
+    "77": {
+        "0xID": "4D",
+        "Name_cn": "\u85b0\u8863\u8349",
+        "Name_de": "Lavendelblau",
+        "Name_en": "Lavender Purple",
+        "Name_fr": "lavande",
+        "Name_ja": "\u30e9\u30d9\u30f3\u30c0\u30fc\u30d6\u30eb\u30fc",
+        "Name_ko": "\ub77c\ubca4\ub354\uc0c9"
+    },
+    "78": {
+        "0xID": "4E",
+        "Name_cn": "\u5fe7\u90c1\u7d2b",
+        "Name_de": "D\u00fcsterviolett",
+        "Name_en": "Gloom Purple",
+        "Name_fr": "colombin",
+        "Name_ja": "\u30b0\u30eb\u30fc\u30e0\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\uc5b4\ub450\uc6b4 \ubcf4\ub77c\uc0c9"
+    },
+    "79": {
+        "0xID": "4F",
+        "Name_cn": "\u918b\u6817\u7d2b",
+        "Name_de": "Johannisbeerenviolett",
+        "Name_en": "Currant Purple",
+        "Name_fr": "cassis",
+        "Name_ja": "\u30ab\u30e9\u30f3\u30c8\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\uba38\ub8e8\uc0c9"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u4e01\u9999\u7d2b",
+        "Name_de": "Altrosa",
+        "Name_en": "Lilac Purple",
+        "Name_fr": "lilas",
+        "Name_ja": "\u30e9\u30a4\u30e9\u30c3\u30af\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\ub77c\uc77c\ub77d\uc0c9"
+    },
+    "80": {
+        "0xID": "50",
+        "Name_cn": "\u9e22\u5c3e\u7d2b",
+        "Name_de": "Irisviolett",
+        "Name_en": "Iris Purple",
+        "Name_fr": "iris",
+        "Name_ja": "\u30a2\u30a4\u30ea\u30b9\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\ubd93\uaf43\uc0c9"
+    },
+    "81": {
+        "0xID": "51",
+        "Name_cn": "\u8461\u8404\u7d2b",
+        "Name_de": "Weintraubenviolett",
+        "Name_en": "Grape Purple",
+        "Name_fr": "raisin",
+        "Name_ja": "\u30b0\u30ec\u30fc\u30d7\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\ud3ec\ub3c4\uc0c9"
+    },
+    "82": {
+        "0xID": "52",
+        "Name_cn": "\u83b2\u82b1\u7c89",
+        "Name_de": "Lotusrosa",
+        "Name_en": "Lotus Pink",
+        "Name_fr": "mauve lotus",
+        "Name_ja": "\u30ed\u30fc\u30bf\u30b9\u30d4\u30f3\u30af",
+        "Name_ko": "\uc5f0\uaf43\uc0c9"
+    },
+    "83": {
+        "0xID": "53",
+        "Name_cn": "\u8702\u9e1f\u7c89",
+        "Name_de": "Kolibrirosa",
+        "Name_en": "Colibri Pink",
+        "Name_fr": "mauve colibri",
+        "Name_ja": "\u30b3\u30ea\u30d6\u30ea\u30d4\u30f3\u30af",
+        "Name_ko": "\ucf5c\ub9ac\ube0c\ub9ac\uc0c9"
+    },
+    "84": {
+        "0xID": "54",
+        "Name_cn": "\u4ed9\u5b50\u6885",
+        "Name_de": "Pflaumenviolett",
+        "Name_en": "Plum Purple",
+        "Name_fr": "prune",
+        "Name_ja": "\u30d7\u30e9\u30e0\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\ub9e4\ud654\uc0c9"
+    },
+    "85": {
+        "0xID": "55",
+        "Name_cn": "\u5e1d\u738b\u7d2b",
+        "Name_de": "K\u00f6nigsviolett",
+        "Name_en": "Regal Purple",
+        "Name_fr": "byzantium",
+        "Name_ja": "\u30ea\u30fc\u30ac\u30eb\u30d1\u30fc\u30d7\u30eb",
+        "Name_ko": "\uc790\uc8fc\uc0c9"
+    },
+    "86": {
+        "0xID": "56",
+        "Name_cn": "\u5b9d\u77f3\u7ea2",
+        "Name_de": "Rubinrot",
+        "Name_en": "Ruby Red",
+        "Name_fr": "rouge rubis",
+        "Name_ja": "\u30eb\u30d3\u30fc\u30ec\u30c3\u30c9",
+        "Name_ko": "\ud64d\uc625\uc0c9"
+    },
+    "87": {
+        "0xID": "57",
+        "Name_cn": "\u6a31\u6843\u7c89",
+        "Name_de": "Kirschpink",
+        "Name_en": "Cherry Pink",
+        "Name_fr": "rose cerise",
+        "Name_ja": "\u30c1\u30a7\u30ea\u30fc\u30d4\u30f3\u30af",
+        "Name_ko": "\uaf43\ubd84\ud64d\uc0c9"
+    },
+    "88": {
+        "0xID": "58",
+        "Name_cn": "\u4e1d\u96c0\u9ec4",
+        "Name_de": "Kanariengelb",
+        "Name_en": "Canary Yellow",
+        "Name_fr": "jaune serin",
+        "Name_ja": "\u30ab\u30ca\u30ea\u30fc\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\uce74\ub098\ub9ac\uc544\uc0c9"
+    },
+    "89": {
+        "0xID": "59",
+        "Name_cn": "\u9999\u8349\u9ec4",
+        "Name_de": "Vanillegelb",
+        "Name_en": "Vanilla Yellow",
+        "Name_fr": "jaune vanille",
+        "Name_ja": "\u30d0\u30cb\u30e9\u30a4\u30a8\u30ed\u30fc",
+        "Name_ko": "\ubc14\ub2d0\ub77c\uc0c9"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u7f57\u5170\u8393",
+        "Name_de": "Rolanbeerenrot",
+        "Name_en": "Rolanberry Red",
+        "Name_fr": "rouge rolanbaie",
+        "Name_ja": "\u30ed\u30e9\u30f3\u30d9\u30ea\u30fc\u30ec\u30c3\u30c9",
+        "Name_ko": "\ub864\ub780\ubca0\ub9ac\uc0c9"
+    },
+    "90": {
+        "0xID": "5A",
+        "Name_cn": "\u9f99\u9a91\u84dd",
+        "Name_de": "Dragoonblau",
+        "Name_en": "Dragoon Blue",
+        "Name_fr": "bleu dragon",
+        "Name_ja": "\u30c9\u30e9\u30b0\u30fc\u30f3\u30d6\u30eb\u30fc",
+        "Name_ko": "\uc0c8\ud30c\ub780\uc0c9"
+    },
+    "91": {
+        "0xID": "5B",
+        "Name_cn": "\u677e\u77f3\u84dd",
+        "Name_de": "Cyan",
+        "Name_en": "Turquoise Blue",
+        "Name_fr": "bleu turquoise",
+        "Name_ja": "\u30bf\u30fc\u30b3\u30a4\u30ba\u30d6\u30eb\u30fc",
+        "Name_ko": "\ub2f4\uccad\uc0c9"
+    },
+    "92": {
+        "0xID": "5C",
+        "Name_cn": "\u70ae\u94dc\u9ed1",
+        "Name_de": "Cermetgrau",
+        "Name_en": "Gunmetal Black",
+        "Name_fr": "bronze \u00e0 canon",
+        "Name_ja": "\u30ac\u30f3\u30e1\u30bf\u30eb",
+        "Name_ko": "\uac74\uba54\ud0c8\uc0c9"
+    },
+    "93": {
+        "0xID": "5D",
+        "Name_cn": "\u73cd\u73e0\u767d",
+        "Name_de": "Perlmutt",
+        "Name_en": "Pearl White",
+        "Name_fr": "blanc perl\u00e9",
+        "Name_ja": "\u30d1\u30fc\u30eb\u30db\u30ef\u30a4\u30c8",
+        "Name_ko": "\uc9c4\uc8fc\uc0c9"
+    },
+    "94": {
+        "0xID": "5E",
+        "Name_cn": "\u91d1\u5c5e\u94dc",
+        "Name_de": "Metallic Messing",
+        "Name_en": "Metallic Brass",
+        "Name_fr": "cuivre jaune",
+        "Name_ja": "\u30b7\u30e3\u30a4\u30f3\u30d6\u30e9\u30b9",
+        "Name_ko": "\ud669\ub3d9\uc0c9"
+    },
+    "95": {
+        "0xID": "5F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "96": {
+        "0xID": "60",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "97": {
+        "0xID": "61",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "98": {
+        "0xID": "62",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "99": {
+        "0xID": "63",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    }
+}

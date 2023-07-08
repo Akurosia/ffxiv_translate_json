@@ -1,0 +1,272 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u9ed1\u6da1\u56e2\u5236\u5f0f\u88c5\u5907",
+        "Name_de": "Mahlstrom-Uniform",
+        "Name_en": "Maelstrom Uniform",
+        "Name_fr": "Uniforme du Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3\u5236\u5f0f\u88c5\u5099",
+        "Name_ko": "\ud751\uc640\ub2e8 \uc81c\uc2dd \uc7a5\ube44"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u7279\u5236\u7ba1\u5bb6\u88c5\u5907",
+        "Name_de": "Exklusive Butler-Bekleidung",
+        "Name_en": "Loyal Butler's Uniform",
+        "Name_fr": "Tenue de majordome sp\u00e9ciale",
+        "Name_ja": "\u30d0\u30c8\u30e9\u30fcEX\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\ud2b9\uc81c \uc9d1\uc0ac \uc758\ubcf5"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u54ea\u5412\u8d64\u83b2\u88c5\u5907",
+        "Name_de": "Bekleidung des Nezha-Herren",
+        "Name_en": "Nezha Lord's Attire",
+        "Name_fr": "Tenue de seigneur de Nezha",
+        "Name_ja": "\u30ca\u30bf\u6bbf\u65b9\u88c5\u675f",
+        "Name_ko": "\ub0a8\uc131\uc6a9 \ub098\ud0c0 \uc758\ubcf5"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u54ea\u5412\u767d\u83b2\u88c5\u5907",
+        "Name_de": "Bekleidung der Nezha-Dame",
+        "Name_en": "Nezha Lady's Attire",
+        "Name_fr": "Tenue de dame de Nezha",
+        "Name_ja": "\u30ca\u30bf\u59eb\u541b\u88c5\u675f",
+        "Name_ko": "\uc5ec\uc131\uc6a9 \ub098\ud0c0 \uc758\ubcf5"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u4e1c\u65b9\u8d35\u4eba\u88c5\u675f",
+        "Name_de": "Fern\u00f6stliche Adeligen-Bekleidung",
+        "Name_en": "Far Eastern Noble's Attire",
+        "Name_fr": "Tenue de noble oriental",
+        "Name_ja": "\u6771\u65b9\u8cb4\u4eba\u88c5\u675f",
+        "Name_ko": "\ub3d9\ubc29 \ud604\uc778\uc758 \uc758\ubcf5"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u98ce\u96c5\u88c5\u675f",
+        "Name_de": "Fuga-Bekleidung",
+        "Name_en": "Fuga Garb",
+        "Name_fr": "Tenue orientale traditionnelle",
+        "Name_ja": "\u98a8\u96c5\u88c5\u675f",
+        "Name_ko": "\ud48d\uc544 \uc758\ubcf5"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u4e1c\u65b9\u96c5\u4eba\u88c5\u675f",
+        "Name_de": "Bekleidung des fern\u00f6stlichen Kavaliers",
+        "Name_en": "Far Eastern Gentleman's Attire",
+        "Name_fr": "Tenue de gentilhomme oriental",
+        "Name_ja": "\u6771\u65b9\u96c5\u4eba\u88c5\u675f",
+        "Name_ko": "\ub3d9\ubc29 \uadc0\uc778\uc758 \uc758\ubcf5"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u4e1c\u65b9\u4e3d\u4eba\u88c5\u675f",
+        "Name_de": "Bekleidung der fern\u00f6stlichen Sch\u00f6nheit",
+        "Name_en": "Far Eastern Beauty's Attire",
+        "Name_fr": "Tenue de beaut\u00e9 orientale",
+        "Name_ja": "\u6771\u65b9\u9e97\u4eba\u88c5\u675f",
+        "Name_ko": "\ub3d9\ubc29 \ubbf8\uc778\uc758 \uc758\ubcf5"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u7eff\u5b9d\u77f3\u517d\u88c5\u5907",
+        "Name_de": "Smaragd-Karfunkel-Bekleidung",
+        "Name_en": "Emerald Carbuncle Attire",
+        "Name_fr": "Tenue de Carbuncle \u00e9meraude",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30a8\u30e1\u30e9\u30eb\u30c9\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\uce74\ubc99\ud074 \uc5d0\uba54\ub784\ub4dc \uc758\ubcf5"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u9ec4\u5b9d\u77f3\u517d\u88c5\u5907",
+        "Name_de": "Topas-Karfunkel-Bekleidung",
+        "Name_en": "Topaz Carbuncle Attire",
+        "Name_fr": "Tenue de Carbuncle topaze",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30c8\u30d1\u30fc\u30ba\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\uce74\ubc99\ud074 \ud1a0\ud30c\uc988 \uc758\ubcf5"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u5929\u4f7f\u88c5\u5907",
+        "Name_de": "Engelhafte Bekleidung",
+        "Name_en": "Angelic Attire",
+        "Name_fr": "Tenue ang\u00e9lique",
+        "Name_ja": "\u30a8\u30f3\u30b8\u30a7\u30eb\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\ucc9c\uc0ac \uc758\ubcf5"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u53cc\u86c7\u515a\u5236\u5f0f\u88c5\u5907",
+        "Name_de": "Bruderschafts-Uniform",
+        "Name_en": "Order of the Twin Adder Uniform",
+        "Name_fr": "Uniforme des Deux Vip\u00e8res",
+        "Name_ja": "\u53cc\u86c7\u515a\u5236\u5f0f\u88c5\u5099",
+        "Name_ko": "\uc30d\uc0ac\ub2f9 \uc81c\uc2dd \uc7a5\ube44"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u6076\u9b54\u88c5\u5907",
+        "Name_de": "D\u00e4monische Bekleidung",
+        "Name_en": "Demonic Attire",
+        "Name_fr": "Tenue d\u00e9moniaque",
+        "Name_ja": "\u30c7\u30e2\u30f3\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\uc545\ub9c8 \uc758\ubcf5"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u738b\u5b50\u88c5\u5907",
+        "Name_de": "Bekleidung des fern\u00f6stlichen Prinzen",
+        "Name_en": "Faerie Tale Prince's Attire",
+        "Name_fr": "Tenue de prince",
+        "Name_ja": "\u30d7\u30ea\u30f3\u30b9\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\uc655\uc790 \uc758\ubcf5"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u516c\u4e3b\u88c5\u5907",
+        "Name_de": "Bekleidung der fern\u00f6stlichen Prinzessin",
+        "Name_en": "Faerie Tale Princess's Attire",
+        "Name_fr": "Tenue de princesse",
+        "Name_ja": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\uacf5\uc8fc \uc758\ubcf5"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u4e1c\u65b9\u4e66\u751f\u88c5\u5907",
+        "Name_de": "Fern\u00f6stliche Schuljungenuniform",
+        "Name_en": "Far Eastern Schoolboy's Uniform",
+        "Name_fr": "Uniforme d'\u00e9tudiant oriental",
+        "Name_ja": "\u6771\u65b9\u66f8\u751f\u88c5\u675f",
+        "Name_ko": ""
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u4e1c\u65b9\u5973\u751f\u88c5\u5907",
+        "Name_de": "Fern\u00f6stliche Schulm\u00e4dchenuniform",
+        "Name_en": "Far Eastern Schoolgirl's Uniform",
+        "Name_fr": "Uniforme d'\u00e9tudiante orientale",
+        "Name_ja": "\u6771\u65b9\u5973\u5b66\u751f\u88c5\u675f",
+        "Name_ko": ""
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u827e\u666e\u88c5\u5907",
+        "Name_de": "Bekleidung der Zanarkand Abes",
+        "Name_en": "Abes Attire",
+        "Name_fr": "Tenue des Zanarkand Abes",
+        "Name_ja": "\u30a8\u30a4\u30d6\u30b9\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\uc5d0\uc774\ube0c\uc2a4 \uc758\ubcf5"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u5927\u53ec\u5524\u58eb\u88c5\u5907",
+        "Name_de": "Bekleidung des Hohen Mediums",
+        "Name_en": "High Summoner's Attire",
+        "Name_fr": "Tenue de grande invocatrice",
+        "Name_ja": "\u30cf\u30a4\u30b5\u30de\u30ca\u30fc\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\uace0\uc704 \uc18c\ud658\uc0ac \uc758\ubcf5"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u7ea2\u5b9d\u77f3\u517d\u88c5\u5907",
+        "Name_de": "Rubin-Karfunkel-Kost\u00fcmset",
+        "Name_en": "Ruby Carbuncle Attire",
+        "Name_fr": "Tenue de Carbuncle rubis",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30eb\u30d3\u30fc\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\uce74\ubc99\ud074 \ub8e8\ube44 \uc758\ubcf5"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u5723\u624b\u9970\u54c1\u88c5\u5907",
+        "Name_de": "Handwerkerheiligen-Ausr\u00fcstung",
+        "Name_en": "Handsaint Accessories",
+        "Name_fr": "Tenue de saint de la main",
+        "Name_ja": "\u30bb\u30a4\u30f3\u30c8\u30cf\u30f3\u30c9\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30fc",
+        "Name_ko": "\uc81c\uc791\uc131\uc790 \uc7a5\uc2e0\uad6c"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u5723\u5730\u9970\u54c1\u88c5\u5907",
+        "Name_de": "Sammlerheiligen-Ausr\u00fcstung",
+        "Name_en": "Landsaint Accessories",
+        "Name_fr": "Tenue de saint de la terre",
+        "Name_ja": "\u30bb\u30a4\u30f3\u30c8\u30e9\u30f3\u30c9\u30fb\u30a2\u30af\u30bb\u30b5\u30ea\u30fc",
+        "Name_ko": "\ucc44\uc9d1\uc131\uc790 \uc7a5\uc2e0\uad6c"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u6052\u8f89\u961f\u5236\u5f0f\u88c5\u5907",
+        "Name_de": "Legions-Uniform",
+        "Name_en": "Immortal Flames Uniform",
+        "Name_fr": "Uniforme des Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a\u5236\u5f0f\u88c5\u5099",
+        "Name_ko": "\ubd88\uba78\ub300 \uc81c\uc2dd \uc7a5\ube44"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u4e1c\u65b9\u516c\u5b50\u88c5\u675f",
+        "Name_de": "Fern\u00f6stliche Herrengew\u00e4nder",
+        "Name_en": "Eastern Garb for Men",
+        "Name_fr": "Tenue de seigneur oriental",
+        "Name_ja": "\u6771\u65b9\u6bbf\u65b9\u88c5\u675f",
+        "Name_ko": "\ub3d9\ubc29 \ub0a8\uc131\uc6a9 \uc758\ubcf5"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u4e1c\u65b9\u79c0\u5973\u88c5\u675f",
+        "Name_de": "Fern\u00f6stliche Damengew\u00e4nder",
+        "Name_en": "Eastern Garb for Women",
+        "Name_fr": "Tenue de dame noble orientale",
+        "Name_ja": "\u6771\u65b9\u59eb\u541b\u88c5\u675f",
+        "Name_ko": "\ub3d9\ubc29 \uc5ec\uc131\uc6a9 \uc758\ubcf5"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u4e1c\u65b9\u8b66\u536b\u88c5\u675f",
+        "Name_de": "Fern\u00f6stliche Herrenbekleidung",
+        "Name_en": "Far Eastern Attire for Men",
+        "Name_fr": "Tenue de garde oriental",
+        "Name_ja": "\u6771\u65b9\u8b66\u908f\u88c5\u675f",
+        "Name_ko": "\ub3d9\ubc29 \ubb34\uad00\uc758 \uc815\ubcf5"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u4e1c\u65b9\u5973\u5b98\u88c5\u675f",
+        "Name_de": "Fern\u00f6stliche Damenbekleidung",
+        "Name_en": "Far Eastern Attire for Women",
+        "Name_fr": "Tenue de damoiselle orientale",
+        "Name_ja": "\u6771\u65b9\u5973\u5b98\u88c5\u675f",
+        "Name_ko": "\ub3d9\ubc29 \uc5ec\uad00\uc758 \uc815\ubcf5"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u7279\u5236\u4e0a\u4ed9\u88c5\u5907",
+        "Name_de": "Exklusive fern\u00f6stliche Reisekleidung",
+        "Name_en": "Exclusive Eastern Journey Attire",
+        "Name_fr": "Tenue du Voyage en Orient sp\u00e9ciale",
+        "Name_ja": "\u30a4\u30fc\u30b9\u30bf\u30f3EX\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\ud2b9\uc81c \ub3d9\ubc29 \uc2e0\uc120 \uc758\ubcf5"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u7279\u5236\u5973\u4ec6\u88c5\u5907",
+        "Name_de": "Exklusive Hausm\u00e4dchen-Bekleidung",
+        "Name_en": "Loyal Housemaid's Uniform",
+        "Name_fr": "Tenue de soubrette sp\u00e9ciale",
+        "Name_ja": "\u30e1\u30a4\u30c9EX\u30a2\u30bf\u30a4\u30a2",
+        "Name_ko": "\ud2b9\uc81c \uba54\uc774\ub4dc \uc758\ubcf5"
+    }
+}

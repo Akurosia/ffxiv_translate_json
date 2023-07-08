@@ -1,0 +1,362 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/027000/027976.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u5492\u5370\u89e3\u9664",
+        "Name_de": "Tongef\u00e4\u00df des Siegelbruchs",
+        "Name_en": "Pomander of Safety",
+        "Name_fr": "Poterie magique de d\u00e9samor\u00e7age",
+        "Name_ja": "\u9b54\u571f\u5668:\u546a\u5370\u89e3\u9664",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ud568\uc815 \ud574\uc81c"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/027000/027985.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u5f62\u6001\u53d8\u5316",
+        "Name_de": "Tongef\u00e4\u00df der Wandlung",
+        "Name_en": "Pomander of Witching",
+        "Name_fr": "Poterie magique de mutation",
+        "Name_ja": "\u9b54\u571f\u5668:\u5f62\u614b\u5909\u5316",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc801 \ubcc0\ud615"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/027000/027986.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u9b54\u6cd5\u6548\u679c\u89e3\u9664",
+        "Name_de": "Tongef\u00e4\u00df der Enthexung",
+        "Name_en": "Pomander of Serenity",
+        "Name_fr": "Poterie magique de dissipation",
+        "Name_ja": "\u9b54\u571f\u5668:\u9b54\u6cd5\u52b9\u679c\u89e3\u9664",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ub9c8\ubc95 \ud6a8\uacfc \ud574\uc81c"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/027000/027987.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u66fc\u63d0\u514b\u5316",
+        "Name_de": "Tongef\u00e4\u00df der Manticoren",
+        "Name_en": "Pomander of Rage",
+        "Name_fr": "Poterie magique de manticore",
+        "Name_ja": "\u9b54\u571f\u5668:\u30de\u30f3\u30c6\u30a3\u30b3\u30a2\u5316",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ub9cc\ud2f0\ucf54\uc5b4 \ubcc0\uc2e0"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/027000/027988.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u68a6\u9b54\u5316",
+        "Name_de": "Tongef\u00e4\u00df der Sukkuben",
+        "Name_en": "Pomander of Lust",
+        "Name_fr": "Poterie magique de succube",
+        "Name_ja": "\u9b54\u571f\u5668:\u30b5\u30ad\u30e5\u30d0\u30b9\u5316",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc11c\ud050\ubc84\uc2a4 \ubcc0\uc2e0"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/027000/027991.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u611f\u77e5\u5b9d\u85cf",
+        "Name_de": "Tongef\u00e4\u00df des Finders",
+        "Name_en": "Pomander of Intuition",
+        "Name_fr": "Poterie magique d'intuition",
+        "Name_ja": "\u9b54\u571f\u5668:\u8ca1\u5b9d\u611f\u77e5",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ubcf4\ubb3c \ud0d0\uc9c0"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/027000/027989.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u91cd\u751f",
+        "Name_de": "Tongef\u00e4\u00df des Lebens",
+        "Name_en": "Pomander of Raising",
+        "Name_fr": "Poterie magique de r\u00e9surrection",
+        "Name_ja": "\u9b54\u571f\u5668:\u30ea\u30ec\u30a4\u30ba",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ub9ac\ub808\uc774\uc988"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/027000/027990.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u57fa\u8def\u4f2f\u5316",
+        "Name_de": "Tongef\u00e4\u00df der Kuribu",
+        "Name_en": "Pomander of Resolution",
+        "Name_fr": "Poterie magique de Kuribu",
+        "Name_ja": "\u9b54\u571f\u5668:\u30af\u30ea\u30d6\u5316",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ucfe0\ub9ac\ubd80 \ubcc0\uc2e0"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/027000/027994.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u5f31\u5316\u654c\u4eba",
+        "Name_de": "Tongef\u00e4\u00df der Feindschw\u00e4chung",
+        "Name_en": "Pomander of Frailty",
+        "Name_fr": "Poterie magique d'incapacit\u00e9",
+        "Name_ja": "\u9b54\u571f\u5668:\u6575\u5f31\u4f53",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc801 \uc57d\ud654"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/027000/027992.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u9690\u5f62",
+        "Name_de": "Tongef\u00e4\u00df des Verschwindens",
+        "Name_en": "Pomander of Concealment",
+        "Name_fr": "Poterie magique d'invisibilit\u00e9",
+        "Name_ja": "\u9b54\u571f\u5668:\u30d0\u30cb\u30b7\u30e5",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ubc30\ub2c8\uc2dc"
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/027000/027993.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u77f3\u5316\u654c\u4eba",
+        "Name_de": "Tongef\u00e4\u00df der Feindversteinerung",
+        "Name_en": "Pomander of Petrification",
+        "Name_fr": "Poterie magique de p\u00e9trification",
+        "Name_ja": "\u9b54\u571f\u5668:\u6575\u77f3\u5316",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc801 \uc11d\ud654"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/027000/027977.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u5168\u666f",
+        "Name_de": "Tongef\u00e4\u00df der Sicht",
+        "Name_en": "Pomander of Sight",
+        "Name_fr": "Poterie magique de localisation",
+        "Name_ja": "\u9b54\u571f\u5668:\u30b5\u30a4\u30c8\u30ed",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc0ac\uc774\ud2b8\ub85c"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/027000/027995.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Tr\u00e4gheit",
+        "Name_en": "Protomander of Lethargy",
+        "Name_fr": "Magismobjet de ralentissement",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u30b9\u30ed\u30a6\u30ac",
+        "Name_ko": ""
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/027000/027996.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Schw\u00e4che",
+        "Name_en": "Protomander of Storms",
+        "Name_fr": "Magismobjet de Charybde",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u30df\u30fc\u30eb\u30b9\u30c8\u30fc\u30e0",
+        "Name_ko": ""
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/027000/027997.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Macht",
+        "Name_en": "Protomander of Dread",
+        "Name_fr": "Magismobjet de cuirass\u00e9 Dreadnaught",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u30c9\u30ec\u30c3\u30c9\u30ce\u30fc\u30c8\u5316",
+        "Name_ko": ""
+    },
+    "23": {
+        "0xID": "17",
+        "Icon": "ui/icon/027000/027976.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df des Siegelbruchs",
+        "Name_en": "Protomander of Safety",
+        "Name_fr": "Magismobjet de d\u00e9samor\u00e7age",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u546a\u5370\u89e3\u9664",
+        "Name_ko": ""
+    },
+    "24": {
+        "0xID": "18",
+        "Icon": "ui/icon/027000/027977.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Sicht",
+        "Name_en": "Protomander of Sight",
+        "Name_fr": "Magismobjet de localisation",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u30b5\u30a4\u30c8\u30ed",
+        "Name_ko": ""
+    },
+    "25": {
+        "0xID": "19",
+        "Icon": "ui/icon/027000/027978.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der St\u00e4rkung",
+        "Name_en": "Protomander of Strength",
+        "Name_fr": "Magismobjet de puissance",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u81ea\u5df1\u5f37\u5316",
+        "Name_ko": ""
+    },
+    "26": {
+        "0xID": "1A",
+        "Icon": "ui/icon/027000/027979.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Abwehr",
+        "Name_en": "Protomander of Steel",
+        "Name_fr": "Magismobjet de protection",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u9632\u5fa1\u5f37\u5316",
+        "Name_ko": ""
+    },
+    "27": {
+        "0xID": "1B",
+        "Icon": "ui/icon/027000/027980.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Sch\u00e4tze",
+        "Name_en": "Protomander of Affluence",
+        "Name_fr": "Magismobjet de d\u00e9c\u00e8lement",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u5b9d\u7bb1\u5897\u52a0",
+        "Name_ko": ""
+    },
+    "28": {
+        "0xID": "1C",
+        "Icon": "ui/icon/027000/027981.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df des Feindtods",
+        "Name_en": "Protomander of Flight",
+        "Name_fr": "Magismobjet de s\u00e9curisation",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u6575\u6392\u9664",
+        "Name_ko": ""
+    },
+    "29": {
+        "0xID": "1D",
+        "Icon": "ui/icon/027000/027982.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Feindwandlung",
+        "Name_en": "Protomander of Alteration",
+        "Name_fr": "Magismobjet d'affaiblissement",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u6575\u5909\u5316",
+        "Name_ko": ""
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/027000/027978.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u5f3a\u5316\u81ea\u8eab",
+        "Name_de": "Tongef\u00e4\u00df der St\u00e4rkung",
+        "Name_en": "Pomander of Strength",
+        "Name_fr": "Poterie magique de puissance",
+        "Name_ja": "\u9b54\u571f\u5668:\u81ea\u5df1\u5f37\u5316",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc790\uae30 \uac15\ud654"
+    },
+    "30": {
+        "0xID": "1E",
+        "Icon": "ui/icon/027000/027983.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Entzauberung",
+        "Name_en": "Protomander of Purity",
+        "Name_fr": "Magismobjet d'anti-mal\u00e9fice",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u89e3\u546a",
+        "Name_ko": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "Icon": "ui/icon/027000/027984.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df des Gl\u00fccks",
+        "Name_en": "Protomander of Fortune",
+        "Name_fr": "Magismobjet de chance",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u904b\u6c17\u4e0a\u6607",
+        "Name_ko": ""
+    },
+    "32": {
+        "0xID": "20",
+        "Icon": "ui/icon/027000/027985.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Wandlung",
+        "Name_en": "Protomander of Witching",
+        "Name_fr": "Magismobjet de mutation",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u5f62\u614b\u5909\u5316",
+        "Name_ko": ""
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "ui/icon/027000/027986.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df der Enthexung",
+        "Name_en": "Protomander of Serenity",
+        "Name_fr": "Magismobjet de dissipation",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u9b54\u6cd5\u52b9\u679c\u89e3\u9664",
+        "Name_ko": ""
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/027000/027991.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df des Finders",
+        "Name_en": "Protomander of Intuition",
+        "Name_fr": "Magismobjet d'intuition",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u8ca1\u5b9d\u611f\u77e5",
+        "Name_ko": ""
+    },
+    "35": {
+        "0xID": "23",
+        "Icon": "ui/icon/027000/027989.png",
+        "Name_cn": "",
+        "Name_de": "\u00c4therogef\u00e4\u00df des Lebens",
+        "Name_en": "Protomander of Raising",
+        "Name_fr": "Magismobjet de r\u00e9surrection",
+        "Name_ja": "\u9b54\u79d1\u5b66\u5668:\u30ea\u30ec\u30a4\u30ba",
+        "Name_ko": ""
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/027000/027979.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u5f3a\u5316\u9632\u5fa1",
+        "Name_de": "Tongef\u00e4\u00df der Abwehr",
+        "Name_en": "Pomander of Steel",
+        "Name_fr": "Poterie magique de protection",
+        "Name_ja": "\u9b54\u571f\u5668:\u9632\u5fa1\u5f37\u5316",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ubc29\uc5b4 \uac15\ud654"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/027000/027980.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u5b9d\u7bb1\u589e\u52a0",
+        "Name_de": "Tongef\u00e4\u00df der Sch\u00e4tze",
+        "Name_en": "Pomander of Affluence",
+        "Name_fr": "Poterie magique de d\u00e9c\u00e8lement",
+        "Name_ja": "\u9b54\u571f\u5668:\u5b9d\u7bb1\u5897\u52a0",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \ubcf4\ubb3c\uc0c1\uc790 \uc99d\uac00"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/027000/027981.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u51cf\u5c11\u654c\u4eba",
+        "Name_de": "Tongef\u00e4\u00df des Feindtods",
+        "Name_en": "Pomander of Flight",
+        "Name_fr": "Poterie magique de s\u00e9curisation",
+        "Name_ja": "\u9b54\u571f\u5668:\u6575\u6392\u9664",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc801 \uac10\uc18c"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/027000/027982.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u6539\u53d8\u654c\u4eba",
+        "Name_de": "Tongef\u00e4\u00df der Feindwandlung",
+        "Name_en": "Pomander of Alteration",
+        "Name_fr": "Poterie magique d'affaiblissement",
+        "Name_ja": "\u9b54\u571f\u5668:\u6575\u5909\u5316",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc801 \ub300\uccb4"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/027000/027983.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u89e3\u5492",
+        "Name_de": "Tongef\u00e4\u00df der Entzauberung",
+        "Name_en": "Pomander of Purity",
+        "Name_fr": "Poterie magique d'anti-mal\u00e9fice",
+        "Name_ja": "\u9b54\u571f\u5668:\u89e3\u546a",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc800\uc8fc \ud574\uc81c"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/027000/027984.png",
+        "Name_cn": "\u9b54\u9676\u5668\uff1a\u8fd0\u6c14\u4e0a\u5347",
+        "Name_de": "Tongef\u00e4\u00df des Gl\u00fccks",
+        "Name_en": "Pomander of Fortune",
+        "Name_fr": "Poterie magique de chance",
+        "Name_ja": "\u9b54\u571f\u5668:\u904b\u6c17\u4e0a\u6607",
+        "Name_ko": "\ub9c8\ud1a0\uae30: \uc6b4 \uc0c1\uc2b9"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/061000/061201.png",
+        "Name_cn": "\u653b\u51fb1",
+        "Name_de": "Angreifen 1",
+        "Name_en": "Target to Attack 1",
+        "Name_fr": "1re cible \u00e0 attaquer",
+        "Name_ja": "\u653b\u64831",
+        "Name_ko": "\uacf5\uaca91"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/061000/061222.png",
+        "Name_cn": "\u7981\u6b622",
+        "Name_de": "Ignorieren 2",
+        "Name_en": "Target to Ignore 2",
+        "Name_fr": "2e cible interdite",
+        "Name_ja": "\u7981\u6b622",
+        "Name_ko": "\uae08\uc9c02"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/061000/061231.png",
+        "Name_cn": "\u65b9\u5757",
+        "Name_de": "Quadrat",
+        "Name_en": "Square",
+        "Name_fr": "Carr\u00e9",
+        "Name_ja": "\u6c4e\u7528\u30b7\u30ab\u30af",
+        "Name_ko": "\ub124\ubaa8"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/061000/061232.png",
+        "Name_cn": "\u5706\u5708",
+        "Name_de": "Kreis",
+        "Name_en": "Circle",
+        "Name_fr": "Cercle",
+        "Name_ja": "\u6c4e\u7528\u30de\u30eb",
+        "Name_ko": "\ub3d9\uadf8\ub77c\ubbf8"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/061000/061233.png",
+        "Name_cn": "\u5341\u5b57",
+        "Name_de": "Plus",
+        "Name_en": "Plus",
+        "Name_fr": "Croix",
+        "Name_ja": "\u6c4e\u7528\u30d7\u30e9\u30b9",
+        "Name_ko": "\uc2ed\uc790"
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/061000/061234.png",
+        "Name_cn": "\u4e09\u89d2",
+        "Name_de": "Dreieck",
+        "Name_en": "Triangle",
+        "Name_fr": "Triangle",
+        "Name_ja": "\u6c4e\u7528\u30b5\u30f3\u30ab\u30af",
+        "Name_ko": "\uc138\ubaa8"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/061000/061202.png",
+        "Name_cn": "\u653b\u51fb2",
+        "Name_de": "Angreifen 2",
+        "Name_en": "Target to Attack 2",
+        "Name_fr": "2e cible \u00e0 attaquer",
+        "Name_ja": "\u653b\u64832",
+        "Name_ko": "\uacf5\uaca92"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/061000/061203.png",
+        "Name_cn": "\u653b\u51fb3",
+        "Name_de": "Angreifen 3",
+        "Name_en": "Target to Attack 3",
+        "Name_fr": "3e cible \u00e0 attaquer",
+        "Name_ja": "\u653b\u64833",
+        "Name_ko": "\uacf5\uaca93"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/061000/061204.png",
+        "Name_cn": "\u653b\u51fb4",
+        "Name_de": "Angreifen 4",
+        "Name_en": "Target to Attack 4",
+        "Name_fr": "4e cible \u00e0 attaquer",
+        "Name_ja": "\u653b\u64834",
+        "Name_ko": "\uacf5\uaca94"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/061000/061205.png",
+        "Name_cn": "\u653b\u51fb5",
+        "Name_de": "Angreifen 5",
+        "Name_en": "Target to Attack 5",
+        "Name_fr": "5e cible \u00e0 attaquer",
+        "Name_ja": "\u653b\u64835",
+        "Name_ko": "\uacf5\uaca95"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/061000/061211.png",
+        "Name_cn": "\u6b62\u6b651",
+        "Name_de": "Binden 1",
+        "Name_en": "Target to Bind 1",
+        "Name_fr": "1re cible \u00e0 entraver",
+        "Name_ja": "\u8db3\u6b62\u30811",
+        "Name_ko": "\uc18d\ubc151"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/061000/061212.png",
+        "Name_cn": "\u6b62\u6b652",
+        "Name_de": "Binden 2",
+        "Name_en": "Target to Bind 2",
+        "Name_fr": "2e cible \u00e0 entraver",
+        "Name_ja": "\u8db3\u6b62\u30812",
+        "Name_ko": "\uc18d\ubc152"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/061000/061213.png",
+        "Name_cn": "\u6b62\u6b653",
+        "Name_de": "Binden 3",
+        "Name_en": "Target to Bind 3",
+        "Name_fr": "3e cible \u00e0 entraver",
+        "Name_ja": "\u8db3\u6b62\u30813",
+        "Name_ko": "\uc18d\ubc153"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/061000/061221.png",
+        "Name_cn": "\u7981\u6b621",
+        "Name_de": "Ignorieren 1",
+        "Name_en": "Target to Ignore 1",
+        "Name_fr": "1re cible interdite",
+        "Name_ja": "\u7981\u6b621",
+        "Name_ko": "\uae08\uc9c01"
+    }
+}

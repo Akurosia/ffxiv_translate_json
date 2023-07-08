@@ -1,0 +1,354 @@
+{
+    "0": {
+        "0xID": "0",
+        "Member": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Member": "Alphinaud"
+    },
+    "10": {
+        "0xID": "A",
+        "Member": "Kristallexarch"
+    },
+    "11": {
+        "0xID": "B",
+        "Member": "Kristallexarch"
+    },
+    "12": {
+        "0xID": "C",
+        "Member": ""
+    },
+    "13": {
+        "0xID": "D",
+        "Member": ""
+    },
+    "14": {
+        "0xID": "E",
+        "Member": ""
+    },
+    "15": {
+        "0xID": "F",
+        "Member": "G'raha Tia"
+    },
+    "16": {
+        "0xID": "10",
+        "Member": "G'raha Tia"
+    },
+    "17": {
+        "0xID": "11",
+        "Member": "G'raha Tia"
+    },
+    "18": {
+        "0xID": "12",
+        "Member": "Alphinaud"
+    },
+    "19": {
+        "0xID": "13",
+        "Member": "Alisaie"
+    },
+    "2": {
+        "0xID": "2",
+        "Member": "Alisaie"
+    },
+    "20": {
+        "0xID": "14",
+        "Member": "Alphinaud"
+    },
+    "21": {
+        "0xID": "15",
+        "Member": "Alisaie"
+    },
+    "22": {
+        "0xID": "16",
+        "Member": "Thancred"
+    },
+    "23": {
+        "0xID": "17",
+        "Member": "Urianger"
+    },
+    "24": {
+        "0xID": "18",
+        "Member": "Urianger"
+    },
+    "25": {
+        "0xID": "19",
+        "Member": "Y'shtola"
+    },
+    "26": {
+        "0xID": "1A",
+        "Member": "G'raha Tia"
+    },
+    "27": {
+        "0xID": "1B",
+        "Member": "G'raha Tia"
+    },
+    "28": {
+        "0xID": "1C",
+        "Member": "G'raha Tia"
+    },
+    "29": {
+        "0xID": "1D",
+        "Member": "Estinien"
+    },
+    "3": {
+        "0xID": "3",
+        "Member": "Thancred"
+    },
+    "30": {
+        "0xID": "1E",
+        "Member": "Venat"
+    },
+    "31": {
+        "0xID": "1F",
+        "Member": "Venat"
+    },
+    "32": {
+        "0xID": "20",
+        "Member": "Venat"
+    },
+    "33": {
+        "0xID": "21",
+        "Member": "Emet-Selch"
+    },
+    "34": {
+        "0xID": "22",
+        "Member": "Emet-Selch"
+    },
+    "35": {
+        "0xID": "23",
+        "Member": "Hythlodaeus"
+    },
+    "36": {
+        "0xID": "24",
+        "Member": ""
+    },
+    "37": {
+        "0xID": "25",
+        "Member": ""
+    },
+    "38": {
+        "0xID": "26",
+        "Member": ""
+    },
+    "39": {
+        "0xID": "27",
+        "Member": ""
+    },
+    "4": {
+        "0xID": "4",
+        "Member": "Minfilia"
+    },
+    "40": {
+        "0xID": "28",
+        "Member": ""
+    },
+    "41": {
+        "0xID": "29",
+        "Member": ""
+    },
+    "42": {
+        "0xID": "2A",
+        "Member": ""
+    },
+    "43": {
+        "0xID": "2B",
+        "Member": ""
+    },
+    "44": {
+        "0xID": "2C",
+        "Member": ""
+    },
+    "45": {
+        "0xID": "2D",
+        "Member": ""
+    },
+    "46": {
+        "0xID": "2E",
+        "Member": ""
+    },
+    "47": {
+        "0xID": "2F",
+        "Member": ""
+    },
+    "48": {
+        "0xID": "30",
+        "Member": ""
+    },
+    "49": {
+        "0xID": "31",
+        "Member": ""
+    },
+    "5": {
+        "0xID": "5",
+        "Member": "Urianger"
+    },
+    "50": {
+        "0xID": "32",
+        "Member": ""
+    },
+    "51": {
+        "0xID": "33",
+        "Member": ""
+    },
+    "52": {
+        "0xID": "34",
+        "Member": ""
+    },
+    "53": {
+        "0xID": "35",
+        "Member": ""
+    },
+    "54": {
+        "0xID": "36",
+        "Member": ""
+    },
+    "55": {
+        "0xID": "37",
+        "Member": ""
+    },
+    "56": {
+        "0xID": "38",
+        "Member": ""
+    },
+    "57": {
+        "0xID": "39",
+        "Member": ""
+    },
+    "58": {
+        "0xID": "3A",
+        "Member": "Estinien"
+    },
+    "59": {
+        "0xID": "3B",
+        "Member": "Alphinaud"
+    },
+    "6": {
+        "0xID": "6",
+        "Member": "Y'shtola"
+    },
+    "60": {
+        "0xID": "3C",
+        "Member": "Alphinaud"
+    },
+    "61": {
+        "0xID": "3D",
+        "Member": ""
+    },
+    "62": {
+        "0xID": "3E",
+        "Member": ""
+    },
+    "63": {
+        "0xID": "3F",
+        "Member": ""
+    },
+    "64": {
+        "0xID": "40",
+        "Member": ""
+    },
+    "65": {
+        "0xID": "41",
+        "Member": ""
+    },
+    "66": {
+        "0xID": "42",
+        "Member": "Alphinaud"
+    },
+    "67": {
+        "0xID": "43",
+        "Member": "Alphinaud"
+    },
+    "68": {
+        "0xID": "44",
+        "Member": ""
+    },
+    "69": {
+        "0xID": "45",
+        "Member": ""
+    },
+    "7": {
+        "0xID": "7",
+        "Member": "Ryne"
+    },
+    "70": {
+        "0xID": "46",
+        "Member": ""
+    },
+    "71": {
+        "0xID": "47",
+        "Member": ""
+    },
+    "72": {
+        "0xID": "48",
+        "Member": ""
+    },
+    "73": {
+        "0xID": "49",
+        "Member": ""
+    },
+    "74": {
+        "0xID": "4A",
+        "Member": "Alphinaud"
+    },
+    "75": {
+        "0xID": "4B",
+        "Member": "Alphinaud"
+    },
+    "76": {
+        "0xID": "4C",
+        "Member": ""
+    },
+    "77": {
+        "0xID": "4D",
+        "Member": ""
+    },
+    "78": {
+        "0xID": "4E",
+        "Member": ""
+    },
+    "79": {
+        "0xID": "4F",
+        "Member": ""
+    },
+    "8": {
+        "0xID": "8",
+        "Member": "Lyna"
+    },
+    "80": {
+        "0xID": "50",
+        "Member": ""
+    },
+    "81": {
+        "0xID": "51",
+        "Member": ""
+    },
+    "82": {
+        "0xID": "52",
+        "Member": ""
+    },
+    "83": {
+        "0xID": "53",
+        "Member": ""
+    },
+    "84": {
+        "0xID": "54",
+        "Member": ""
+    },
+    "85": {
+        "0xID": "55",
+        "Member": ""
+    },
+    "86": {
+        "0xID": "56",
+        "Member": ""
+    },
+    "87": {
+        "0xID": "57",
+        "Member": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Member": "Kristallexarch"
+    }
+}

@@ -1,0 +1,137 @@
+{
+    "3473408": {
+        "0xID": "350000",
+        "ShopName_cn": "",
+        "ShopName_de": "",
+        "ShopName_en": "",
+        "ShopName_fr": "",
+        "ShopName_ja": "",
+        "ShopName_ko": ""
+    },
+    "3473409": {
+        "0xID": "350001",
+        "ShopName_cn": "\u7279\u6b8a\u5546\u54c1\u4ea4\u6613\u5458",
+        "ShopName_de": "\u00c4therwarenh\u00e4ndler",
+        "ShopName_en": "Spoils Trader",
+        "ShopName_fr": "R\u00e9cup\u00e9rateur",
+        "ShopName_ja": "\u7279\u6b8a\u54c1\u7d0d\u54c1\u7a93\u53e3",
+        "ShopName_ko": "\ud2b9\uc218\ud488 \uc811\uc218\uc6d0"
+    },
+    "3473410": {
+        "0xID": "350002",
+        "ShopName_cn": "\u4ea4\u6362\u8bc1\u4e66",
+        "ShopName_de": "Wertmarken-Scheine eintauschen",
+        "ShopName_en": "Certificate Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (ch\u00e8ques)",
+        "ShopName_ja": "\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc99d\uc11c \uad50\ud658"
+    },
+    "3473411": {
+        "0xID": "350003",
+        "ShopName_cn": "\u4ea4\u6362\u517d\u4eba\u8d27\u5e01\u8bc1\u4e66",
+        "ShopName_de": "W\u00e4hrungsscheine eintauschen",
+        "ShopName_en": "Currency Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (monnaie tribale)",
+        "ShopName_ja": "\u7363\u4eba\u8ca8\u5e63\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc57c\ub9cc\uc871 \ud654\ud3d0 \uc99d\uc11c \uad50\ud658"
+    },
+    "3473412": {
+        "0xID": "350004",
+        "ShopName_cn": "\u4ea4\u6362\u517d\u4eba\u8d27\u5e01\u8bc1\u4e66",
+        "ShopName_de": "W\u00e4hrungsscheine eintauschen",
+        "ShopName_en": "Currency Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (monnaie tribale)",
+        "ShopName_ja": "\u7363\u4eba\u8ca8\u5e63\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc57c\ub9cc\uc871 \ud654\ud3d0 \uc99d\uc11c \uad50\ud658"
+    },
+    "3473413": {
+        "0xID": "350005",
+        "ShopName_cn": "\u4ea4\u6362\u517d\u4eba\u8d27\u5e01\u8bc1\u4e66",
+        "ShopName_de": "W\u00e4hrungsscheine eintauschen",
+        "ShopName_en": "Currency Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (monnaie tribale)",
+        "ShopName_ja": "\u7363\u4eba\u8ca8\u5e63\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc57c\ub9cc\uc871 \ud654\ud3d0 \uc99d\uc11c \uad50\ud658"
+    },
+    "3473414": {
+        "0xID": "350006",
+        "ShopName_cn": "\u4ea4\u6362\u517d\u4eba\u8d27\u5e01\u8bc1\u4e66",
+        "ShopName_de": "W\u00e4hrungsscheine eintauschen",
+        "ShopName_en": "Currency Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (monnaie tribale)",
+        "ShopName_ja": "\u7363\u4eba\u8ca8\u5e63\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc57c\ub9cc\uc871 \ud654\ud3d0 \uc99d\uc11c \uad50\ud658"
+    },
+    "3473415": {
+        "0xID": "350007",
+        "ShopName_cn": "\u4ea4\u6362\u517d\u4eba\u8d27\u5e01\u8bc1\u4e66",
+        "ShopName_de": "W\u00e4hrungsscheine eintauschen",
+        "ShopName_en": "Currency Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (monnaie tribale)",
+        "ShopName_ja": "\u7363\u4eba\u8ca8\u5e63\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc57c\ub9cc\uc871 \ud654\ud3d0 \uc99d\uc11c \uad50\ud658"
+    },
+    "3473416": {
+        "0xID": "350008",
+        "ShopName_cn": "\u4ea4\u6362\u517d\u4eba\u8d27\u5e01\u8bc1\u4e66",
+        "ShopName_de": "W\u00e4hrungsscheine eintauschen",
+        "ShopName_en": "Currency Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (monnaie tribale)",
+        "ShopName_ja": "\u7363\u4eba\u8ca8\u5e63\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc57c\ub9cc\uc871 \ud654\ud3d0 \uc99d\uc11c \uad50\ud658"
+    },
+    "3473417": {
+        "0xID": "350009",
+        "ShopName_cn": "\u4ea4\u6362\u517d\u4eba\u8d27\u5e01\u8bc1\u4e66",
+        "ShopName_de": "W\u00e4hrungsscheine eintauschen",
+        "ShopName_en": "Currency Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (monnaie tribale)",
+        "ShopName_ja": "\u7363\u4eba\u8ca8\u5e63\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc57c\ub9cc\uc871 \ud654\ud3d0 \uc99d\uc11c \uad50\ud658"
+    },
+    "3473418": {
+        "0xID": "35000A",
+        "ShopName_cn": "\u4ea4\u6362\u517d\u4eba\u8d27\u5e01\u8bc1\u4e66",
+        "ShopName_de": "W\u00e4hrungsscheine eintauschen",
+        "ShopName_en": "Currency Exchange",
+        "ShopName_fr": "Mon\u00e9tisation (monnaie tribale)",
+        "ShopName_ja": "\u7363\u4eba\u8ca8\u5e63\u8a3c\u66f8\u306e\u4ea4\u63db",
+        "ShopName_ko": "\uc57c\ub9cc\uc871 \ud654\ud3d0 \uc99d\uc11c \uad50\ud658"
+    },
+    "3473419": {
+        "0xID": "35000B",
+        "ShopName_cn": "",
+        "ShopName_de": "",
+        "ShopName_en": "",
+        "ShopName_fr": "",
+        "ShopName_ja": "",
+        "ShopName_ko": ""
+    },
+    "3473420": {
+        "0xID": "35000C",
+        "ShopName_cn": "\u6218\u679c\u8bb0\u5f55\u56de\u6536\uff08\u4e0a\u9501\u7684\u5b9d\u7bb1\uff09",
+        "ShopName_de": "Frontberichte eintauschen (Schlie\u00dfkassette)",
+        "ShopName_en": "Field Notes Exchange (Lockbox)",
+        "ShopName_fr": "\u00c9change de pages de notes (coffres verrouill\u00e9s)",
+        "ShopName_ja": "\u6226\u679c\u8a18\u9332\u306e\u4ea4\u63db\uff08\u30ed\u30c3\u30af\u30dc\u30c3\u30af\u30b9\uff09",
+        "ShopName_ko": "\uc804\uacfc\uae30\ub85d \uad50\ud658(\uc7a0\uae34 \uc0c1\uc790)"
+    },
+    "3473421": {
+        "0xID": "35000D",
+        "ShopName_cn": "\u6218\u679c\u8bb0\u5f55\u56de\u6536\uff08\u5176\u4ed6\uff09",
+        "ShopName_de": "Frontberichte eintauschen (Verschiedenes)",
+        "ShopName_en": "Field Notes Exchange (Other)",
+        "ShopName_fr": "\u00c9change de pages de notes (divers)",
+        "ShopName_ja": "\u6226\u679c\u8a18\u9332\u306e\u4ea4\u63db\uff08\u305d\u306e\u4ed6\uff09",
+        "ShopName_ko": "\uc804\uacfc\uae30\ub85d \uad50\ud658(\uae30\ud0c0)"
+    },
+    "3473422": {
+        "0xID": "35000E",
+        "ShopName_cn": "\u6218\u679c\u8bb0\u5f55\u56de\u6536\uff08\u5176\u4ed6\uff09",
+        "ShopName_de": "Frontberichte eintauschen (Verschiedenes)",
+        "ShopName_en": "Field Notes Exchange (Other)",
+        "ShopName_fr": "\u00c9change de pages de notes (divers)",
+        "ShopName_ja": "\u6226\u679c\u8a18\u9332\u306e\u4ea4\u63db\uff08\u305d\u306e\u4ed6\uff09",
+        "ShopName_ko": "\uc804\uacfc\uae30\ub85d \uad50\ud658(\uae30\ud0c0)"
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_1_cn": "",
+        "col_1_de": "",
+        "col_1_en": "",
+        "col_1_fr": "",
+        "col_1_ja": "",
+        "col_1_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "col_1_cn": "\u53f7\u4ee4\uff1a\u6218\u6597\u5f00\u59cb",
+        "col_1_de": "Befehl: Angriff",
+        "col_1_en": "Engage",
+        "col_1_fr": "Ordre : engager le combat",
+        "col_1_ja": "\u53f7\u4ee4\uff1a\u6226\u95d8\u958b\u59cb",
+        "col_1_ko": "\uba85\ub839: \uc804\ud22c \uac1c\uc2dc"
+    },
+    "2": {
+        "0xID": "2",
+        "col_1_cn": "\u53f7\u4ee4\uff1a\u64a4\u9000",
+        "col_1_de": "Befehl: R\u00fcckzug",
+        "col_1_en": "Disengage",
+        "col_1_fr": "Ordre : repli temporaire",
+        "col_1_ja": "\u53f7\u4ee4\uff1a\u4e00\u6642\u64a4\u9000",
+        "col_1_ko": "\uba85\ub839: \uc77c\uc2dc \ud6c4\ud1f4"
+    },
+    "3": {
+        "0xID": "3",
+        "col_1_cn": "\u53f7\u4ee4\uff1a\u64a4\u9000\u89e3\u9664",
+        "col_1_de": "Befehl: R\u00fcckzug beenden",
+        "col_1_en": "Re-engage",
+        "col_1_fr": "Ordre : fin de repli",
+        "col_1_ja": "\u53f7\u4ee4\uff1a\u64a4\u9000\u89e3\u9664",
+        "col_1_ko": "\uba85\ub839: \ud6c4\ud1f4 \ucde8\uc18c"
+    },
+    "4": {
+        "0xID": "4",
+        "col_1_cn": "\u53f7\u4ee4\uff1a\u6781\u9650\u6280",
+        "col_1_de": "Befehl: Limitrausch",
+        "col_1_en": "Execute Limit Break",
+        "col_1_fr": "Ordre : Transcendance",
+        "col_1_ja": "\u53f7\u4ee4\uff1a\u30ea\u30df\u30c3\u30c8\u30d6\u30ec\u30a4\u30af",
+        "col_1_ko": "\uba85\ub839: \ub9ac\ubbf8\ud2b8 \ube0c\ub808\uc774\ud06c"
+    },
+    "5": {
+        "0xID": "5",
+        "col_1_cn": "\u53f7\u4ee4\u70ed\u952e\u680f",
+        "col_1_de": "Befehlsleiste",
+        "col_1_en": "Display Order Hotbar",
+        "col_1_fr": "Ordre : barre d'ordres",
+        "col_1_ja": "\u53f7\u4ee4\u30db\u30c3\u30c8\u30d0\u30fc",
+        "col_1_ko": "\uba85\ub839 \ub2e8\ucd95\ubc14"
+    },
+    "6": {
+        "0xID": "6",
+        "col_1_cn": "",
+        "col_1_de": "",
+        "col_1_en": "",
+        "col_1_fr": "",
+        "col_1_ja": "",
+        "col_1_ko": ""
+    }
+}

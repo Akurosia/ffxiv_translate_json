@@ -1,0 +1,299 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u8150\u70c2\u852c\u83dc\u2014\u2014\u76ae\u91cc\u798f\u5c14",
+        "Name_de": "Peeriefool, das faule Gem\u00fcse",
+        "Name_en": "Kill It with Fire",
+        "Name_fr": "Grandeur et pestilence",
+        "Name_ja": "\u8150\u4e71\u91ce\u83dc\u300c\u30d4\u30fc\u30ea\u30d5\u30fc\u30eb\u300d",
+        "Name_ko": "\uc369\uc740 \uc57c\ucc44 '\ud53c\uc5b4\ub9ac\ud480'"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u636e\u70b9\u9632\u536b\u9b54\u5bfc\u5175\u5668\u2014\u2014\u7231\u56fd\u8005",
+        "Name_de": "Verteidigungsmaschine Patriot",
+        "Name_en": "Patriot Games",
+        "Name_fr": "Les fusils du patriote",
+        "Name_ja": "\u62e0\u70b9\u9632\u885b\u9b54\u5c0e\u5175\u5668\u300c\u30d1\u30c8\u30ea\u30aa\u30c3\u30c8\u300d",
+        "Name_ko": "\uac70\uc810 \ubc29\uc704 \ubcd1\uae30 '\ud328\ud2b8\ub9ac\uc5b4\ud2b8'"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u90aa\u773c\u5996\u517d\u2014\u2014\u8036\u9c81",
+        "Name_de": "Die b\u00f6sen Blicke der Eale",
+        "Name_en": "Trampled under Hoof",
+        "Name_fr": "L'\u0153il du malin",
+        "Name_ja": "\u90aa\u773c\u306e\u5996\u7363\u300c\u30a8\u30a2\u30ec\u30fc\u300d",
+        "Name_ko": "\ub9c8\uc548\uc758 \uc694\uc218 '\uc5d0\uc54c\ub808'"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u8001\u7ec3\u9b54\u6cd5\u5e08\u2014\u2014\u94c1\u80c6\u72f1\u706b\u8428\u6258\u74e6\u5c14",
+        "Name_de": "Sartauvoir Eisenfeuer",
+        "Name_en": "And the Flames Went Higher",
+        "Name_fr": "L'envol du ph\u00e9nix",
+        "Name_ja": "\u8001\u7df4\u306e\u9b54\u9053\u58eb\u300c\u9244\u706b\u306e\u30b5\u30eb\u30c8\u30f4\u30a9\u30a2\u30fc\u30eb\u300d",
+        "Name_ko": "\ub178\ub828\ud55c \ub9c8\ub3c4\uc0ac '\uc1f3\ubd88\uc758 \uc0ac\ub974\ud1a0\ubd80\uc544\ub974'"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u94a2\u94c1\u9b54\u517d\u2014\u2014\u8fbe\u56e0\u65af\u83b1\u74e6",
+        "Name_de": "D\u00e1insleif, Bestie aus Eisen",
+        "Name_en": "Metal Fox Chaos",
+        "Name_fr": "Le guerrier de m\u00e9tal",
+        "Name_ja": "\u92fc\u9244\u306e\u9b54\u7363\u300c\u30c0\u30fc\u30a4\u30f3\u30b9\u30ec\u30a4\u30f4\u300d",
+        "Name_ko": "\uac15\ucca0 \ub9c8\uc218 '\ub2e4\uc778\uc2ac\ub77c\uc774\ud504'"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u65b0\u578b\u94c1\u5de8\u4eba\u2014\u2014\u9b54\u5bfc\u52b3\u5de5X\u5f0f",
+        "Name_de": "Im Schatten von Modell X",
+        "Name_en": "Rise of the Robots",
+        "Name_fr": "Le soul\u00e8vement des machines",
+        "Name_ja": "\u65b0\u305f\u306a\u308b\u9244\u5de8\u4eba\u300c\u9b54\u5c0e\u30ec\u30a4\u30d0\u30fcX\u578b\u300d",
+        "Name_ko": "\uc0c8\ub85c\uc6b4 \ucca0\uac70\uc778 '\ub9c8\ub3c4 \ub178\ub3d9\uc790 X\ud615'"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u6218\u6817\u4e4b\u89d2\u2014\u2014\u5947\u5c14\u7ef4\u5c3c\u514b",
+        "Name_de": "Der untote Chlevnik",
+        "Name_en": "Where Strode the Behemoth",
+        "Name_fr": "Le mastodonte enrag\u00e9",
+        "Name_ja": "\u6226\u6144\u306e\u89d2\u300c\u30c1\u30eb\u30f4\u30cb\u30af\u300d",
+        "Name_ko": "\uc804\uc728\uc758 \ubfd4 '\uce60\ub808\ube0c\ub2c8\ud06c'"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u5e1d\u56fd\u6e56\u5cb8\u5821\u653b\u57ce\u6218",
+        "Name_de": "Sturm auf Castrum Lacus Litore",
+        "Name_en": "The Battle of Castrum Lacus Litore",
+        "Name_fr": "Assaut sur Castrum Lacus Litore",
+        "Name_ja": "\u30ab\u30b9\u30c8\u30eb\u30e0\u30fb\u30e9\u30af\u30b9\u30ea\u30c8\u30ec\u653b\u57ce\u6226",
+        "Name_ko": "\uce74\uc2a4\ud2b8\ub8f8 \ub77c\ucfe0\uc2a4\ub9ac\ud1a0\ub808 \uacf5\uc131\uc804"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u7fa4\u86c7\u72c2\u821e\u2014\u2014\u5996\u6218\u767e\u4eba\u961f",
+        "Name_de": "Der Geistertrupp",
+        "Name_en": "On Serpents' Wings",
+        "Name_fr": "Zirnitrop",
+        "Name_ja": "\u5996\u970a\u4f7f\u3044\u300c\u5996\u6226\u767e\u4eba\u968a\u300d",
+        "Name_ko": "\uc694\uadc0\uc220\uc0ac '\uc694\uc804\ubc31\uc778\ub300'"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u8bd5\u5236\u6027\u98de\u884c\u9b54\u5bfc\u88c5\u7532\u2014\u2014\u9ed1\u8272\u71c3\u7130",
+        "Name_de": "Schwarzbrands Testflug",
+        "Name_en": "Feeling the Burn",
+        "Name_fr": "On arr\u00eate le progr\u00e8s",
+        "Name_ja": "\u8a66\u4f5c\u98db\u884c\u578b\u9b54\u5c0e\u30a2\u30fc\u30de\u30fc\u300c\u30d6\u30e9\u30c3\u30af\u30d0\u30fc\u30f3\u300d",
+        "Name_ko": "\uc2dc\ud5d8\uc791 \ube44\ud589\ud615 \ub9c8\ub3c4 \uc544\uba38 '\ube14\ub799\ubc88'"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u60e8\u65e0\u4eba\u9053\u7684\u5f3a\u5316\u5175\u2014\u2014\u8d85\u7ea7\u8c03\u6574\u5175\u8fbe\u6ce2\u683c",
+        "Name_de": "Hyper-Dabog, St\u00e4rkster unter St\u00e4rksten",
+        "Name_en": "The Broken Blade",
+        "Name_fr": "Dabog l'hyper-renforc\u00e9",
+        "Name_ja": "\u975e\u696d\u306e\u5f37\u5316\u5175\u300c\u30cf\u30a4\u30d1\u30fc\u30c1\u30e5\u30fc\u30f3\u30c9\u30fb\u30c0\u30dc\u30b0\u300d",
+        "Name_ko": "\ube44\uc6b4\uc758 \uac15\ud654\ubcd1 '\ud2b9\uc218\uac15\ud654\ubcd1 \ub2e4\ubcf4\uadf8'"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u6218\u4e89\u5996\u72ac\u2014\u2014\u6050\u60e7\u5996\u72ac",
+        "Name_de": "Die drei M\u00e4uler des Canis dirus",
+        "Name_en": "The Baying of the Hound(s)",
+        "Name_fr": "Le chien des enfers",
+        "Name_ja": "\u6226\u4e89\u306e\u5996\u72ac\u300c\u30ab\u30cb\u30b9\u30c7\u30a3\u30eb\u30b9\u300d",
+        "Name_ko": "\uc804\uc7c1 \uc694\ub9c8\uacac '\uce74\ub2c8\uc2a4 \ub514\ub8e8\uc2a4'"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u590d\u5236\u544a\u5bc6\u8005\u2014\u2014\u7b2c\u56db\u519b\u56e2\u8c22\u7c73\u54c8\u624e",
+        "Name_de": "Shemhazai der Verr\u00e4ter",
+        "Name_en": "From Beyond the Grave",
+        "Name_fr": "Le Sycophante",
+        "Name_ja": "\u6a21\u9020\u5bc6\u544a\u8005\u300cIV\u30ec\u30ae\u30aa\u30f3\u30fb\u30b7\u30e5\u30df\u30cf\u30b6\u300d",
+        "Name_ko": "\ubaa8\uc870 \ubc00\uace0\uc790 'IV\uad70\ub2e8 \uc170\ubbf8\ud558\uc790'"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u7126\u571f\u9b54\u874e\u2014\u2014\u8d6b\u5fb7\u63d0\u7279",
+        "Name_de": "Hedetet, Stachel des Karglands",
+        "Name_en": "With Diremite and Main",
+        "Name_fr": "C'est dans ma nature",
+        "Name_ja": "\u7126\u571f\u306e\u9b54\u880d\u300c\u30d8\u30c7\u30c6\u30c8\u300d",
+        "Name_ko": "\ucd08\ud1a0\uc758 \ub9c8\uc218 \uc804\uac08 '\ud5e4\ub370\ud14c\ud2b8'"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u94a2\u94c1\u4eba\u9a6c\u2014\u2014\u9b54\u5bfc\u9a91\u5175\u5927\u961f",
+        "Name_de": "Halb Pferd, halb Garlear",
+        "Name_en": "Here Comes the Cavalry",
+        "Name_fr": "Un cavalier qui surgit hors de la nuit",
+        "Name_ja": "\u92fc\u9244\u306e\u4eba\u99ac\u300c\u9b54\u5c0e\u9a0e\u5175\u5927\u968a\u300d",
+        "Name_ko": "\uac15\ucca0\uc758 \uc778\ub9c8 '\ub9c8\ub3c4\uae30\ubcd1\ub300\ub300'"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u7b2c\u56db\u519b\u56e2\u519b\u653f\u5b98\u2014\u2014\u6885\u5185\u7ebd\u65af",
+        "Name_de": "Menenius, Tribunus der IV. Legion",
+        "Name_en": "Head of the Snake",
+        "Name_fr": "Mener par l'exemple",
+        "Name_ja": "\u7b2cIV\u8ecd\u56e3\u5206\u9063\u968a\u9577\u300c\u30e1\u30cd\u30cb\u30a6\u30b9\u300d",
+        "Name_ko": "\uc81cIV\uad70\ub2e8 \ubd84\uacac\ub300\uc7a5 '\uba54\ub124\ub2c8\uc6b0\uc2a4'"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u5f02\u754c\u9b54\u738b\u2014\u2014\u6c49\u6bd4",
+        "Name_de": "Hanbi, K\u00f6nig im Exil",
+        "Name_en": "There Would Be Blood",
+        "Name_fr": "Le Roi des cendres",
+        "Name_ja": "\u7570\u754c\u306e\u5ec3\u738b\u300c\u30cf\u30f3\u30d3\u300d",
+        "Name_ko": "\uc774\uacc4\uc758 \ud3d0\uc655 '\ud55c\ube44'"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u90aa\u6076\u51b0\u72fc\u2014\u2014\u6076\u540d\u82cd\u72fc",
+        "Name_de": "Eiswolf Hrodvitnir",
+        "Name_en": "Never Cry Wolf",
+        "Name_fr": "Et n'y Hr\u00f3d'viens plus !",
+        "Name_ja": "\u90aa\u60aa\u306a\u308b\u6c37\u72fc\u300c\u30d5\u30ed\u30fc\u30ba\u30f4\u30a3\u30c8\u30cb\u30eb\u300d",
+        "Name_ko": "\uc0ac\uc545\ud55c \uc5bc\uc74c\ub291\ub300 '\ud750\ub85c\ub4dc\ube44\ud2b8\ub2c8\ub974'"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u590d\u5236\u9b54\u4eba\u2014\u2014\u7b2c\u56db\u519b\u56e2\u8d1d\u5229\u4e9a\u65af",
+        "Name_de": "D\u00e4monid Belias",
+        "Name_en": "Time to Burn",
+        "Name_fr": "Le Titan",
+        "Name_ja": "\u6a21\u9020\u9b54\u4eba\u300cIV\u30ec\u30ae\u30aa\u30f3\u30fb\u30d9\u30ea\u30a2\u30b9\u300d",
+        "Name_ko": "\ubaa8\uc870 \ub9c8\uc778 'IV\uad70\ub2e8 \ubca8\ub9ac\uc544\uc2a4'"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u65b0\u5175\u5668\u6295\u5165\u2014\u2014\u673a\u7532\u767e\u4eba\u961f",
+        "Name_de": "Die Gepanzerte Zenturie",
+        "Name_en": "Lean, Mean, Magitek Machines",
+        "Name_fr": "R\u00e9usinage de code",
+        "Name_ja": "\u65b0\u5175\u5668\u6295\u5165\u300c\u6a5f\u7532\u767e\u4eba\u968a\u300d",
+        "Name_ko": "\uc2e0\ubcd1\uae30 \ud22c\uc785 '\uae30\uac11\ubc31\uc778\ub300'"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u6709\u89d2\u51f6\u9e1f\u2014\u2014\u963f\u5c14\u79d1\u8bfa\u65af\u7279",
+        "Name_de": "Alkonost, schrecklich und gefiedert",
+        "Name_en": "Worn to a Shadow",
+        "Name_fr": "Oiseau d'enfer",
+        "Name_ja": "\u6709\u89d2\u306e\u51f6\u9ce5\u300c\u30a2\u30eb\u30b3\u30ce\u30b9\u30c8\u300d",
+        "Name_ko": "\ubfd4 \ub2ec\ub9b0 \ud749\uc870 '\uc54c\ucf54\ub178\uc2a4\ud2b8'"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u590d\u5236\u7edf\u6cbb\u8005\u2014\u2014\u7b2c\u56db\u519b\u56e2\u54c8\u4fee\u9a6c\u5229\u59c6",
+        "Name_de": "Hashmallim der Einiger",
+        "Name_en": "A Familiar Face",
+        "Name_fr": "Le Grand Ordonnateur",
+        "Name_ja": "\u6a21\u9020\u7d71\u5236\u8005\u300cIV\u30ec\u30ae\u30aa\u30f3\u30fb\u30cf\u30b7\u30e5\u30de\u30ea\u30e0\u300d",
+        "Name_ko": "\ubaa8\uc870 \ud1b5\uc81c\uc790 'IV\uad70\ub2e8 \ud558\uc26c\ub9d0\ub9bc'"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u9ad8\u706b\u529b\u9646\u6218\u9b54\u5bfc\u5175\u5668\u2014\u2014\u5b88\u591c",
+        "Name_de": "Vigil, Feuerkraft hoch zehn",
+        "Name_en": "Vigil for the Lost",
+        "Name_fr": "Vigile de feu",
+        "Name_ja": "\u9ad8\u706b\u529b\u9678\u6226\u9b54\u5c0e\u5175\u5668\u300c\u30f4\u30a3\u30b8\u30eb\u300d",
+        "Name_ko": "\uace0\ud654\ub825 \uc721\uc9c0\uc804 \ub9c8\ub3c4 \ubcd1\uae30 '\ube44\uc9c8'"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u5149\u8f89\u8679\u86c7\u2014\u2014\u963f\u4f9d\u8fbe",
+        "Name_de": "Regenbogenschlange Ayida",
+        "Name_en": "Looks to Die For",
+        "Name_fr": "\u00c9caillage en r\u00e8gle",
+        "Name_ja": "\u8f1d\u3051\u308b\u8679\u86c7\u300c\u30a2\u30a4\u30c0\u300d",
+        "Name_ko": "\ube5b\ub098\ub294 \ubb34\uc9c0\uac1c\ubc40 '\uc544\uc774\ub2e4'"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u6218\u6817\u7684\u767e\u517d\u4e4b\u738b\u2014\u2014\u517d\u738b\u83b1\u6602",
+        "Name_de": "Revanche: Lyon der Bestienk\u00f6nig",
+        "Name_en": "Taking the Lyon's Share",
+        "Name_fr": "La revanche de Lyon",
+        "Name_ja": "\u6226\u6144\u306e\u767e\u7363\u4f7f\u3044\u300c\u7363\u738b\u30e9\u30a4\u30a2\u30f3\u300d",
+        "Name_ko": "\uc804\uc728\ud558\ub294 \ubc31\uc218\uc758 \uc655 '\ub9c8\uc218\uc655 \ub77c\uc774\uc5b8'"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u65d7\u8230\u8fbe\u5c14\u91cc\u963f\u8fbe\u53f7\u653b\u7565\u6218",
+        "Name_de": "Sturm auf die Dalriada",
+        "Name_en": "The Dalriada",
+        "Name_fr": "Assaut sur le Dalriada",
+        "Name_ja": "\u65d7\u8266\u30c0\u30eb\uff65\u30ea\u30a2\u30fc\u30bf\u653b\u7565\u6226",
+        "Name_ko": "\uae30\ud568 \ub2ec\ub9ac\uc544\ub2e4 \uacf5\ub7b5\uc804"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u65b0\u578b\u98de\u884c\u578b\u9b54\u5bfc\u88c5\u7532\u2014\u2014\u52a0\u767e\u5217",
+        "Name_de": "Gabriel, die st\u00e4hlerne Schwinge",
+        "Name_en": "Aces High",
+        "Name_fr": "Force divine",
+        "Name_ja": "\u65b0\u578b\u98db\u884c\u578b\u9b54\u5c0e\u30a2\u30fc\u30de\u30fc\u300c\u30ac\u30d6\u30ea\u30a8\u30eb\u300d",
+        "Name_ko": "\uc2e0\ud615 \ube44\ud589 \ub9c8\ub3c4 \uc544\uba38 '\uac00\ube0c\ub9ac\uc5d8'"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u9ed1\u6b7b\u9e1f\u2014\u2014\u963f\u514b\u5df4\u5df4",
+        "Name_de": "Akbaba, Tod von oben",
+        "Name_en": "The Shadow of Death's Hand",
+        "Name_fr": "Les ailes noires de la mort",
+        "Name_ja": "\u9ed2\u304d\u6b7b\u9ce5\u300c\u30a2\u30af\u30d0\u30d0\u300d",
+        "Name_ko": "\uc8fd\uc74c\uc758 \uac80\uc740 \uc0c8 '\uc544\ud06c\ubc14\ubc14'"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u6028\u5ff5\u6b7b\u7075\u2014\u2014\u5730\u751f\u4eba",
+        "Name_de": "Spartoi der Gef\u00fcrchtete",
+        "Name_en": "The Final Furlong",
+        "Name_fr": "Menace spectrale",
+        "Name_ja": "\u6028\u5ff5\u306e\u6b7b\u970a\u300c\u30b9\u30d1\u30eb\u30c8\u30a4\u300d",
+        "Name_ko": "\uc6d0\ub150\uc758 \uc0ac\ub839 '\uc2a4\ud30c\ub974\ud1a0\uc774'"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u7ea2\u9646\u884c\u9e1f\u4e4b\u738b\u2014\u2014\u7ea2\u8272\u5f57\u661f",
+        "Name_de": "Der Rote Meteor und seine Meute",
+        "Name_en": "The Hunt for Red Choctober",
+        "Name_fr": "Une ru\u00e9e en rouge",
+        "Name_ja": "\u8d64\u30c1\u30e7\u30b3\u30dc\u306e\u30cc\u30b7\u300c\u30ec\u30c3\u30c9\u30b3\u30e1\u30c3\u30c8\u300d",
+        "Name_ko": "\uc6b0\ub450\uba38\ub9ac \ucd08\ucf54\ubcf4 '\ubd89\uc740 \ud61c\uc131'"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u767e\u517d\u4e4b\u738b\u2014\u2014\u517d\u738b\u83b1\u6602",
+        "Name_de": "Lyon der Bestienk\u00f6nig",
+        "Name_en": "Beast of Man",
+        "Name_fr": "Le Roi bestial",
+        "Name_ja": "\u767e\u7363\u4f7f\u3044\u300c\u7363\u738b\u30e9\u30a4\u30a2\u30f3\u300d",
+        "Name_ko": "\ubc31\uc218\uc758 \uc655 '\ub9c8\uc218\uc655 \ub77c\uc774\uc5b8'"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u708e\u517d\u8bad\u7ec3\u5e08\u2014\u2014\u706b\u7130\u767e\u592b\u961f",
+        "Name_de": "Die Flammenden Hundert",
+        "Name_en": "The Fires of War",
+        "Name_fr": "Brasier de guerre",
+        "Name_ja": "\u708e\u7363\u4f7f\u3044\u300c\u706b\u7114\u767e\u4eba\u968a\u300d",
+        "Name_ko": "\ud654\uc5fc\ub9c8\uc218 \uc870\ub828\uc0ac '\ud654\uc5fc\ubc31\uc778\ub300'"
+    }
+}

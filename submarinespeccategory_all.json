@@ -1,0 +1,47 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_0_cn": "\u63a2\u7d22\u6027\u80fd",
+        "col_0_de": "Detektion",
+        "col_0_en": "surveillance levels",
+        "col_0_fr": "Capacit\u00e9 d'exploration",
+        "col_0_ja": "\u63a2\u67fb\u6027\u80fd",
+        "col_0_ko": "\ud0d0\uc0ac \uc131\ub2a5"
+    },
+    "1": {
+        "0xID": "1",
+        "col_0_cn": "\u6536\u96c6\u6027\u80fd",
+        "col_0_de": "Effizienz",
+        "col_0_en": "retrieval levels",
+        "col_0_fr": "Capacit\u00e9 de pr\u00e9l\u00e8vement",
+        "col_0_ja": "\u53ce\u96c6\u6027\u80fd",
+        "col_0_ko": "\uc218\uc9d1 \uc131\ub2a5"
+    },
+    "2": {
+        "0xID": "2",
+        "col_0_cn": "\u5de1\u822a\u901f\u5ea6",
+        "col_0_de": "Geschwindigkeit",
+        "col_0_en": "speed",
+        "col_0_fr": "Vitesse de croisi\u00e8re",
+        "col_0_ja": "\u5de1\u822a\u901f\u5ea6",
+        "col_0_ko": "\uc21c\ud56d \uc18d\ub3c4"
+    },
+    "3": {
+        "0xID": "3",
+        "col_0_cn": "\u822a\u884c\u8ddd\u79bb",
+        "col_0_de": "Reichweite",
+        "col_0_en": "range",
+        "col_0_fr": "Distance franchissable",
+        "col_0_ja": "\u822a\u7d9a\u8ddd\u96e2",
+        "col_0_ko": "\ud56d\uc18d \uac70\ub9ac"
+    },
+    "4": {
+        "0xID": "4",
+        "col_0_cn": "\u6069\u60e0",
+        "col_0_de": "Gunst der Tiefe",
+        "col_0_en": "guardian favor",
+        "col_0_fr": "Faveur marine",
+        "col_0_ja": "\u904b",
+        "col_0_ko": "\uc6b4"
+    }
+}

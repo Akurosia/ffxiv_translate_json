@@ -1,0 +1,119 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "col_0_cn": "\u767d\u7f8a\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma des Widders",
+        "col_0_en": "Mahatma of the Ram",
+        "col_0_fr": "Mahatma du b\u00e9lier",
+        "col_0_ja": "\u767d\u7f8a\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\uc591\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "10": {
+        "0xID": "A",
+        "col_0_cn": "\u6469\u7faf\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma des Steinbocks",
+        "col_0_en": "Mahatma of the Goat",
+        "col_0_fr": "Mahatma du capricorne",
+        "col_0_ja": "\u78e8\u7faf\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\uc5fc\uc18c\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "11": {
+        "0xID": "B",
+        "col_0_cn": "\u5b9d\u74f6\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma des Wassermanns",
+        "col_0_en": "Mahatma of the Water-bearer",
+        "col_0_fr": "Mahatma du verseau",
+        "col_0_ja": "\u5b9d\u74f6\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\ubb3c\ubcd1\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "12": {
+        "0xID": "C",
+        "col_0_cn": "\u53cc\u9c7c\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma der Fische",
+        "col_0_en": "Mahatma of the Fish",
+        "col_0_fr": "Mahatma des poissons",
+        "col_0_ja": "\u53cc\u9b5a\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\ubb3c\uace0\uae30\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "2": {
+        "0xID": "2",
+        "col_0_cn": "\u91d1\u725b\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma des Stiers",
+        "col_0_en": "Mahatma of the Bull",
+        "col_0_fr": "Mahatma du taureau",
+        "col_0_ja": "\u91d1\u725b\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\ud669\uc18c\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "3": {
+        "0xID": "3",
+        "col_0_cn": "\u53cc\u5b50\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma der Zwillinge",
+        "col_0_en": "Mahatma of the Twins",
+        "col_0_fr": "Mahatma des g\u00e9meaux",
+        "col_0_ja": "\u53cc\u5b50\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\uc30d\ub465\uc774\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "4": {
+        "0xID": "4",
+        "col_0_cn": "\u5de8\u87f9\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma des Krebses",
+        "col_0_en": "Mahatma of the Crab",
+        "col_0_fr": "Mahatma du cancer",
+        "col_0_ja": "\u5de8\u87f9\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\uac8c\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "5": {
+        "0xID": "5",
+        "col_0_cn": "\u72ee\u5b50\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma des L\u00f6wen",
+        "col_0_en": "Mahatma of the Lion",
+        "col_0_fr": "Mahatma du lion",
+        "col_0_ja": "\u7345\u5b50\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\uc0ac\uc790\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "6": {
+        "0xID": "6",
+        "col_0_cn": "\u5ba4\u5973\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma der Jungfrau",
+        "col_0_en": "Mahatma of the Maiden",
+        "col_0_fr": "Mahatma de la vierge",
+        "col_0_ja": "\u51e6\u5973\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\ucc98\ub140\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "7": {
+        "0xID": "7",
+        "col_0_cn": "\u5929\u79e4\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma der Waage",
+        "col_0_en": "Mahatma of the Scales",
+        "col_0_fr": "Mahatma de la balance",
+        "col_0_ja": "\u5929\u79e4\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\ucc9c\uce6d\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "8": {
+        "0xID": "8",
+        "col_0_cn": "\u5929\u874e\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma des Skorpions",
+        "col_0_en": "Mahatma of the Scorpion",
+        "col_0_fr": "Mahatma du scorpion",
+        "col_0_ja": "\u5929\u880d\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\uc804\uac08\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    },
+    "9": {
+        "0xID": "9",
+        "col_0_cn": "\u4eba\u9a6c\u4e4b\u5723\u9b42",
+        "col_0_de": "Mahatma des Sch\u00fctzen",
+        "col_0_en": "Mahatma of the Archer",
+        "col_0_fr": "Mahatma du sagittaire",
+        "col_0_ja": "\u4eba\u99ac\u306e\u30de\u30cf\u30c8\u30de",
+        "col_0_ko": "\uc0ac\uc218\uc790\ub9ac\uc758 \ub9c8\ud558\ud2b8\ub9c8"
+    }
+}

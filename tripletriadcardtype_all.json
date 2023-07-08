@@ -1,0 +1,47 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u86ee\u795e",
+        "Name_de": "Primae",
+        "Name_en": "Primal",
+        "Name_fr": "Primordial",
+        "Name_ja": "\u86ee\u795e\u30bf\u30a4\u30d7",
+        "Name_ko": "\uc57c\ub9cc\uc2e0"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u62c2\u6653",
+        "Name_de": "Bund",
+        "Name_en": "Scion",
+        "Name_fr": "H\u00e9ritier",
+        "Name_ja": "\u6681\u30bf\u30a4\u30d7",
+        "Name_ko": "\uc0c8\ubcbd"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u517d\u4eba",
+        "Name_de": "Wilde St\u00e4mme",
+        "Name_en": "Beastman",
+        "Name_fr": "Homme-b\u00eate",
+        "Name_ja": "\u7363\u4eba\u30bf\u30a4\u30d7",
+        "Name_ko": "\uc218\uc778"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u5e1d\u56fd",
+        "Name_de": "Garlear",
+        "Name_en": "Garlean",
+        "Name_fr": "Garlemaldais",
+        "Name_ja": "\u5e1d\u56fd\u30bf\u30a4\u30d7",
+        "Name_ko": "\uc81c\uad6d"
+    }
+}

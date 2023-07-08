@@ -1,0 +1,182 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u8f6c\u8f6e\u53f0",
+        "Name_de": "\u00c4therrad-St\u00e4nder",
+        "Name_en": "Wheel Stand",
+        "Name_fr": "Base de tour \u00e9th\u00e9r\u00e9en",
+        "Name_ja": "\u30db\u30a4\u30fc\u30eb\u30b9\u30bf\u30f3\u30c9",
+        "Name_ko": "\uc5d0\ud14c\ub974 \ucda9\uc804\ub300"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u623f\u95e8",
+        "Name_de": "T\u00fcr",
+        "Name_en": "Door",
+        "Name_fr": "Porte",
+        "Name_ja": "\u6249",
+        "Name_ko": "\ubb38"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u7a97\u6237",
+        "Name_de": "Fenster",
+        "Name_en": "Window",
+        "Name_fr": "Fen\u00eatres",
+        "Name_ja": "\u7a93",
+        "Name_ko": "\ucc3d\ubb38"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u9662\u5899",
+        "Name_de": "Reling",
+        "Name_en": "Fence",
+        "Name_fr": "Murets",
+        "Name_ja": "\u5840",
+        "Name_ko": "\uc6b8\ud0c0\ub9ac"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u95e8\u724c",
+        "Name_de": "Schild",
+        "Name_en": "Signboard",
+        "Name_fr": "Panneau",
+        "Name_ja": "\u770b\u677f",
+        "Name_ko": "\uac04\ud310"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u623f\u9876\u88c5\u9970",
+        "Name_de": "Deckaufbau",
+        "Name_en": "Roof Decoration",
+        "Name_fr": "D\u00e9coration de toit",
+        "Name_ja": "\u5c4b\u6839\u88c5\u98fe",
+        "Name_ko": "\uc9c0\ubd95 \uc7a5\uc2dd"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u5916\u5899\u88c5\u9970",
+        "Name_de": "Zierrat",
+        "Name_en": "Wall Decoration",
+        "Name_fr": "D\u00e9corations de fa\u00e7ade",
+        "Name_ja": "\u5916\u58c1\u88c5\u98fe",
+        "Name_ko": "\uc678\ubcbd \uc7a5\uc2dd"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u6f5c\u6c34\u8247\uff1a\u8239\u4f53",
+        "Name_de": "Tauchboot-Rumpf",
+        "Name_en": "Submersible Hull",
+        "Name_fr": "Coque de sous-marin",
+        "Name_ja": "\u6f5c\u6c34\u8266\uff1a\u8266\u4f53",
+        "Name_ko": "\uc7a0\uc218\ud568: \ud568\uccb4"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u6f5c\u6c34\u8247\uff1a\u8239\u5c3e",
+        "Name_de": "Tauchboot-Heck",
+        "Name_en": "Submersible Stern",
+        "Name_fr": "Poupe de sous-marin",
+        "Name_ja": "\u6f5c\u6c34\u8266\uff1a\u8266\u5c3e",
+        "Name_ko": "\uc7a0\uc218\ud568: \ud568\ubbf8"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u6f5c\u6c34\u8247\uff1a\u8239\u9996",
+        "Name_de": "Tauchboot-Bug",
+        "Name_en": "Submersible Bow",
+        "Name_fr": "Proue de sous-marin",
+        "Name_ja": "\u6f5c\u6c34\u8266\uff1a\u8266\u9996",
+        "Name_ko": "\uc7a0\uc218\ud568: \ud568\uc218"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u6f5c\u6c34\u8247\uff1a\u8230\u6865",
+        "Name_de": "Tauchboot-Br\u00fccke",
+        "Name_en": "Submersible Bridge",
+        "Name_fr": "Pont de sous-marin",
+        "Name_ja": "\u6f5c\u6c34\u8266\uff1a\u8266\u6a4b",
+        "Name_ko": "\uc7a0\uc218\ud568: \ud568\uad50"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u4ee5\u592a\u8f6c\u8f6e",
+        "Name_de": "\u00c4therrad",
+        "Name_en": "Aetherial Wheel",
+        "Name_fr": "Tour \u00e9th\u00e9r\u00e9en",
+        "Name_ja": "\u30db\u30a4\u30fc\u30eb",
+        "Name_ko": "\uc5d0\ud14c\ub974\uc11d"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u98de\u7a7a\u8247\uff1a\u8239\u4f53",
+        "Name_de": "Luftschiff-Rumpf",
+        "Name_en": "Airship Hull",
+        "Name_fr": "Coque d'a\u00e9ronef",
+        "Name_ja": "\u98db\u7a7a\u8247\uff1a\u8239\u4f53",
+        "Name_ko": "\ube44\uacf5\uc815: \uc120\uccb4"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u98de\u7a7a\u8247\uff1a\u823e\u88c5",
+        "Name_de": "Luftschiff-Takelage",
+        "Name_en": "Airship Rigging",
+        "Name_fr": "Gr\u00e9ement d'a\u00e9ronef",
+        "Name_ja": "\u98db\u7a7a\u8247\uff1a\u8264\u88c5",
+        "Name_ko": "\ube44\uacf5\uc815: \uc758\uc7a5"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u98de\u7a7a\u8247\uff1a\u8239\u9996",
+        "Name_de": "Luftschiff-Bug",
+        "Name_en": "Airship Forecastle",
+        "Name_fr": "Proue d'a\u00e9ronef",
+        "Name_ja": "\u98db\u7a7a\u8247\uff1a\u8239\u9996",
+        "Name_ko": "\ube44\uacf5\uc815: \uc120\uc218"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u98de\u7a7a\u8247\uff1a\u8239\u5c3e",
+        "Name_de": "Luftschiff-Heck",
+        "Name_en": "Airship Aftcastle",
+        "Name_fr": "Poupe d'a\u00e9ronef",
+        "Name_ja": "\u98db\u7a7a\u8247\uff1a\u8239\u5c3e",
+        "Name_ko": "\ube44\uacf5\uc815: \uc120\ubbf8"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5916\u5899(\u4e00\u4f53\u578b)",
+        "Name_de": "Au\u00dfenh\u00fclle (komplett)",
+        "Name_en": "Full Estate Exterior",
+        "Name_fr": "Fa\u00e7ade (ensemble)",
+        "Name_ja": "\u5916\u58c1\uff08\u4e00\u4f53\u578b\uff09",
+        "Name_ko": "\uc678\ubcbd(\uc77c\uccb4\ud615)"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u5916\u5899",
+        "Name_de": "Au\u00dfenh\u00fclle",
+        "Name_en": "Exterior Wall (Single)",
+        "Name_fr": "Fa\u00e7ade",
+        "Name_ja": "\u5916\u58c1",
+        "Name_ko": "\uc678\ubcbd"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u623f\u9876",
+        "Name_de": "Deck",
+        "Name_en": "Roof",
+        "Name_fr": "Toit",
+        "Name_ja": "\u5c4b\u6839",
+        "Name_ko": "\uc9c0\ubd95"
+    }
+}

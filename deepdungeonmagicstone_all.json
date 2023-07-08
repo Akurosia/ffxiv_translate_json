@@ -1,0 +1,52 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/027000/027966.png",
+        "Name_cn": "\u4f0a\u5f17\u5229\u7279\u7684\u9b54\u77f3",
+        "Name_de": "Ifrit-Zauberstein",
+        "Name_en": "Inferno Magicite",
+        "Name_fr": "Magilithe d'Ifrit",
+        "Name_ja": "\u30a4\u30d5\u30ea\u30fc\u30c8\u306e\u9b54\u77f3",
+        "Name_ko": "\uc774\ud504\ub9ac\ud2b8 \ub9c8\uc11d"
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/027000/027967.png",
+        "Name_cn": "\u6cf0\u5766\u7684\u9b54\u77f3",
+        "Name_de": "Titan-Zauberstein",
+        "Name_en": "Crag Magicite",
+        "Name_fr": "Magilithe de Titan",
+        "Name_ja": "\u30bf\u30a4\u30bf\u30f3\u306e\u9b54\u77f3",
+        "Name_ko": "\ud0c0\uc774\ud0c4 \ub9c8\uc11d"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/027000/027968.png",
+        "Name_cn": "\u8fe6\u697c\u7f57\u7684\u9b54\u77f3",
+        "Name_de": "Garuda-Zauberstein",
+        "Name_en": "Vortex Magicite",
+        "Name_fr": "Magilithe de Garuda",
+        "Name_ja": "\u30ac\u30eb\u30fc\u30c0\u306e\u9b54\u77f3",
+        "Name_ko": "\uac00\ub8e8\ub2e4 \ub9c8\uc11d"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/027000/027969.png",
+        "Name_cn": "\u5965\u4e01\u7684\u9b54\u77f3",
+        "Name_de": "Odin-Zauberstein",
+        "Name_en": "Elder Magicite",
+        "Name_fr": "Magilithe d'Odin",
+        "Name_ja": "\u30aa\u30fc\u30c7\u30a3\u30f3\u306e\u9b54\u77f3",
+        "Name_ko": "\uc624\ub518 \ub9c8\uc11d"
+    }
+}

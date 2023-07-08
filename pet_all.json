@@ -1,0 +1,380 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u7eff\u5b9d\u77f3\u517d",
+        "Name_de": "Smaragd-Karfunkel",
+        "Name_en": "Emerald Carbuncle",
+        "Name_fr": "Carbuncle \u00e9meraude",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30a8\u30e1\u30e9\u30eb\u30c9",
+        "Name_ko": "\uce74\ubc99\ud074 \uc5d0\uba54\ub784\ub4dc"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u4e9a\u7075\u795e\u5df4\u54c8\u59c6\u7279",
+        "Name_de": "Demi-Bahamut",
+        "Name_en": "Demi-Bahamut",
+        "Name_fr": "Demi-Bahamut",
+        "Name_ja": "\u30c7\u30df\u30fb\u30d0\u30cf\u30e0\u30fc\u30c8",
+        "Name_ko": "\ub370\ubbf8\ubc14\ud558\ubb34\ud2b8"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u4e9a\u7075\u795e\u5df4\u54c8\u59c6\u7279",
+        "Name_de": "Demi-Bahamut",
+        "Name_en": "Demi-Bahamut",
+        "Name_fr": "Demi-Bahamut",
+        "Name_ja": "\u30c7\u30df\u30fb\u30d0\u30cf\u30e0\u30fc\u30c8",
+        "Name_ko": "\ub370\ubbf8\ubc14\ud558\ubb34\ud2b8"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u4e9a\u7075\u795e\u4e0d\u6b7b\u9e1f",
+        "Name_de": "Demi-Ph\u00f6nix",
+        "Name_en": "Demi-Phoenix",
+        "Name_fr": "Demi-Ph\u00e9nix",
+        "Name_ja": "\u30c7\u30df\u30fb\u30d5\u30a7\u30cb\u30c3\u30af\u30b9",
+        "Name_ko": "\ub370\ubbf8\ud53c\ub2c9\uc2a4"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u70bd\u5929\u4f7f",
+        "Name_de": "Seraph",
+        "Name_en": "Seraph",
+        "Name_fr": "S\u00e9raphin",
+        "Name_ja": "\u30bb\u30e9\u30d5\u30a3\u30e0",
+        "Name_ko": "\uc138\ub77c\ud54c"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u6708\u957f\u5b9d\u77f3\u517d",
+        "Name_de": "Mondstein-Karfunkel",
+        "Name_en": "Moonstone Carbuncle",
+        "Name_fr": "Carbuncle h\u00e9catolite",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30e0\u30fc\u30f3\u30b9\u30c8\u30fc\u30f3",
+        "Name_ko": "\uce74\ubc99\ud074 \ubb38\uc2a4\ud1a4"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u82f1\u96c4\u7684\u63a0\u5f71",
+        "Name_de": "Schattenschemen",
+        "Name_en": "Esteem",
+        "Name_fr": "Estime",
+        "Name_ja": "\u82f1\u96c4\u306e\u5f71\u8eab",
+        "Name_ko": "\uc601\uc6c5\uc758 \ud658\uc601"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u540e\u5f0f\u81ea\u8d70\u4eba\u5076",
+        "Name_de": "Automaton DAME",
+        "Name_en": "Automaton Queen",
+        "Name_fr": "Automate Reine",
+        "Name_ja": "\u30aa\u30fc\u30c8\u30de\u30c8\u30f3\u30fb\u30af\u30a4\u30fc\u30f3",
+        "Name_ko": "\uc790\ub3d9\uc778\ud615 \ud038"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u5206\u8eab",
+        "Name_de": "Gedoppeltes Ich",
+        "Name_en": "Bunshin",
+        "Name_fr": "Ombre",
+        "Name_ja": "\u5206\u8eab",
+        "Name_ko": "\ubd84\uc2e0"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u9ec4\u5b9d\u77f3\u517d",
+        "Name_de": "Topas-Karfunkel",
+        "Name_en": "Topaz Carbuncle",
+        "Name_fr": "Carbuncle topaze",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30c8\u30d1\u30fc\u30ba",
+        "Name_ko": "\uce74\ubc99\ud074 \ud1a0\ud30c\uc988"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u4e9a\u7075\u795e\u4e0d\u6b7b\u9e1f",
+        "Name_de": "Demi-Ph\u00f6nix",
+        "Name_en": "Demi-Phoenix",
+        "Name_fr": "Demi-Ph\u00e9nix",
+        "Name_ja": "\u30c7\u30df\u30fb\u30d5\u30a7\u30cb\u30c3\u30af\u30b9",
+        "Name_ko": "\ub370\ubbf8\ud53c\ub2c9\uc2a4"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u70bd\u5929\u4f7f",
+        "Name_de": "Seraph",
+        "Name_en": "Seraph",
+        "Name_fr": "S\u00e9raphin",
+        "Name_ja": "\u30bb\u30e9\u30d5\u30a3\u30e0",
+        "Name_ko": "\uc138\ub77c\ud54c"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u5206\u8eab",
+        "Name_de": "Gedoppeltes Ich",
+        "Name_en": "Bunshin",
+        "Name_fr": "Ombre",
+        "Name_ja": "\u5206\u8eab",
+        "Name_ko": "\ubd84\uc2e0"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u5b9d\u77f3\u517d",
+        "Name_de": "Karfunkel",
+        "Name_en": "Carbuncle",
+        "Name_fr": "Carbuncle",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb",
+        "Name_ko": "\uce74\ubc99\ud074"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u7ea2\u5b9d\u77f3\u517d",
+        "Name_de": "Rubin-Karfunkel",
+        "Name_en": "Ruby Carbuncle",
+        "Name_fr": "Carbuncle rubis",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30eb\u30d3\u30fc",
+        "Name_ko": "\uce74\ubc99\ud074 \ub8e8\ube44"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u9ec4\u5b9d\u77f3\u517d",
+        "Name_de": "Topas-Karfunkel",
+        "Name_en": "Topaz Carbuncle",
+        "Name_fr": "Carbuncle topaze",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30c8\u30d1\u30fc\u30ba",
+        "Name_ko": "\uce74\ubc99\ud074 \ud1a0\ud30c\uc988"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u7eff\u5b9d\u77f3\u517d",
+        "Name_de": "Smaragd-Karfunkel",
+        "Name_en": "Emerald Carbuncle",
+        "Name_fr": "Carbuncle \u00e9meraude",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30a8\u30e1\u30e9\u30eb\u30c9",
+        "Name_ko": "\uce74\ubc99\ud074 \uc5d0\uba54\ub784\ub4dc"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u4f0a\u5f17\u5229\u7279\u4e4b\u7075",
+        "Name_de": "Ifrit-Egi",
+        "Name_en": "Ifrit-Egi",
+        "Name_fr": "Ifrit-Egi",
+        "Name_ja": "\u30a4\u30d5\u30ea\u30fc\u30c8\u30fb\u30a8\u30ae",
+        "Name_ko": "\uc774\ud504\ub9ac\ud2b8 \uc5d0\uae30"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u6cf0\u5766\u4e4b\u7075",
+        "Name_de": "Titan-Egi",
+        "Name_en": "Titan-Egi",
+        "Name_fr": "Titan-Egi",
+        "Name_ja": "\u30bf\u30a4\u30bf\u30f3\u30fb\u30a8\u30ae",
+        "Name_ko": "\ud0c0\uc774\ud0c4 \uc5d0\uae30"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u8fe6\u697c\u7f57\u4e4b\u7075",
+        "Name_de": "Garuda-Egi",
+        "Name_en": "Garuda-Egi",
+        "Name_fr": "Garuda-Egi",
+        "Name_ja": "\u30ac\u30eb\u30fc\u30c0\u30fb\u30a8\u30ae",
+        "Name_ko": "\uac00\ub8e8\ub2e4 \uc5d0\uae30"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u7ea2\u5b9d\u77f3\u4f0a\u5f17\u5229\u7279",
+        "Name_de": "Rubin-Ifrit",
+        "Name_en": "Ruby Ifrit",
+        "Name_fr": "Ifrit rubis",
+        "Name_ja": "\u30a4\u30d5\u30ea\u30fc\u30c8\u30fb\u30eb\u30d3\u30fc",
+        "Name_ko": "\uc774\ud504\ub9ac\ud2b8 \ub8e8\ube44"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u9ec4\u5b9d\u77f3\u6cf0\u5766",
+        "Name_de": "Topas-Titan",
+        "Name_en": "Topaz Titan",
+        "Name_fr": "Titan topaze",
+        "Name_ja": "\u30bf\u30a4\u30bf\u30f3\u30fb\u30c8\u30d1\u30fc\u30ba",
+        "Name_ko": "\ud0c0\uc774\ud0c4 \ud1a0\ud30c\uc988"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u7eff\u5b9d\u77f3\u8fe6\u697c\u7f57",
+        "Name_de": "Smaragd-Garuda",
+        "Name_en": "Emerald Garuda",
+        "Name_fr": "Garuda \u00e9meraude",
+        "Name_ja": "\u30ac\u30eb\u30fc\u30c0\u30fb\u30a8\u30e1\u30e9\u30eb\u30c9",
+        "Name_ko": "\uac00\ub8e8\ub2e4 \uc5d0\uba54\ub784\ub4dc"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u7425\u73c0\u5b9d\u77f3\u517d",
+        "Name_de": "Bernstein-Karfunkel",
+        "Name_en": "Amber Carbuncle",
+        "Name_fr": "Carbuncle ambre",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30a2\u30f3\u30d0\u30fc",
+        "Name_ko": "\uce74\ubc99\ud074 \uc570\ubc84"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u8c61\u5f0f\u6d6e\u7a7a\u70ae\u5854",
+        "Name_de": "Selbstschuss-Gyrocopter L\u00c4UFER",
+        "Name_en": "Bishop Autoturret",
+        "Name_fr": "Auto-tourelle Fou",
+        "Name_ja": "\u30aa\u30fc\u30c8\u30bf\u30ec\u30c3\u30c8\u30fb\u30d3\u30b7\u30e7\u30c3\u30d7",
+        "Name_ko": "\uc790\ub3d9\ud3ec\ud0d1 \ube44\uc20d"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u5b9d\u77f3\u517d",
+        "Name_de": "Karfunkel",
+        "Name_en": "Carbuncle",
+        "Name_fr": "Carbuncle",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb",
+        "Name_ko": "\uce74\ubc99\ud074"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u5b9d\u77f3\u517d",
+        "Name_de": "Karfunkel",
+        "Name_en": "Carbuncle",
+        "Name_fr": "Carbuncle",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb",
+        "Name_ko": "\uce74\ubc99\ud074"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u7ea2\u5b9d\u77f3\u517d",
+        "Name_de": "Rubin-Karfunkel",
+        "Name_en": "Ruby Carbuncle",
+        "Name_fr": "Carbuncle rubis",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30eb\u30d3\u30fc",
+        "Name_ko": "\uce74\ubc99\ud074 \ub8e8\ube44"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u7ea2\u5b9d\u77f3\u517d",
+        "Name_de": "Rubin-Karfunkel",
+        "Name_en": "Ruby Carbuncle",
+        "Name_fr": "Carbuncle rubis",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30eb\u30d3\u30fc",
+        "Name_ko": "\uce74\ubc99\ud074 \ub8e8\ube44"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u671d\u65e5\u5c0f\u4ed9\u5973",
+        "Name_de": "Eos",
+        "Name_en": "Eos",
+        "Name_fr": "Eos",
+        "Name_ja": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30fb\u30a8\u30aa\u30b9",
+        "Name_ko": "\uc694\uc815 \uc5d0\uc624\uc2a4"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5915\u6708\u5c0f\u4ed9\u5973",
+        "Name_de": "Selene",
+        "Name_en": "Selene",
+        "Name_fr": "Selene",
+        "Name_ja": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30fb\u30bb\u30ec\u30cd",
+        "Name_ko": "\uc694\uc815 \uc140\ub808\ub124"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u8f66\u5f0f\u6d6e\u7a7a\u70ae\u5854",
+        "Name_de": "Selbstschuss-Gyrocopter TURM",
+        "Name_en": "Rook Autoturret",
+        "Name_fr": "Auto-tourelle Tour",
+        "Name_ja": "\u30aa\u30fc\u30c8\u30bf\u30ec\u30c3\u30c8\u30fb\u30eb\u30fc\u30af",
+        "Name_ko": "\uc790\ub3d9\ud3ec\ud0d1 \ub8e9"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u8c61\u5f0f\u6d6e\u7a7a\u70ae\u5854",
+        "Name_de": "Selbstschuss-Gyrocopter L\u00c4UFER",
+        "Name_en": "Bishop Autoturret",
+        "Name_fr": "Auto-tourelle Fou",
+        "Name_ja": "\u30aa\u30fc\u30c8\u30bf\u30ec\u30c3\u30c8\u30fb\u30d3\u30b7\u30e7\u30c3\u30d7",
+        "Name_ko": "\uc790\ub3d9\ud3ec\ud0d1 \ube44\uc20d"
+    }
+}

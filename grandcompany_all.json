@@ -1,0 +1,38 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "\u5e73\u6c11",
+        "Name_de": "Keine",
+        "Name_en": "None",
+        "Name_fr": "Sans all\u00e9geance",
+        "Name_ja": "\u30b0\u30e9\u30f3\u30c9\u30ab\u30f3\u30d1\u30cb\u30fc\u7121\u52b9\u5024",
+        "Name_ko": "\ucd1d\uc0ac\ub839\ubd80 \uc5c6\uc74c"
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u9ed1\u6da1\u56e2",
+        "Name_de": "Mahlstrom",
+        "Name_en": "Maelstrom",
+        "Name_fr": "Le Maelstrom",
+        "Name_ja": "\u9ed2\u6e26\u56e3",
+        "Name_ko": "\ud751\uc640\ub2e8"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u53cc\u86c7\u515a",
+        "Name_de": "Bruderschaft der Morgenviper",
+        "Name_en": "Order of the Twin Adder",
+        "Name_fr": "L'ordre des Deux Vip\u00e8res",
+        "Name_ja": "\u53cc\u86c7\u515a",
+        "Name_ko": "\uc30d\uc0ac\ub2f9"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u6052\u8f89\u961f",
+        "Name_de": "Legion der Unsterblichen",
+        "Name_en": "Immortal Flames",
+        "Name_fr": "Les Immortels",
+        "Name_ja": "\u4e0d\u6ec5\u968a",
+        "Name_ko": "\ubd88\uba78\ub300"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_10_cn": "",
+        "col_10_de": "",
+        "col_10_en": "",
+        "col_10_fr": "",
+        "col_10_ja": "",
+        "col_1_cn": "",
+        "col_1_de": "",
+        "col_1_en": "",
+        "col_1_fr": "",
+        "col_1_ja": ""
+    },
+    "1": {
+        "0xID": "1",
+        "col_10_cn": "",
+        "col_10_de": "Ein allagischer Stein mit Uneis Daten. Liest man ihn in den Demiklon-Generator ein, wird eine Unei generiert.",
+        "col_10_en": "A tomestone containing data on Unei. Read the data with the demiclone generator to enable the creation of an Unei demiclone.",
+        "col_10_fr": "Un m\u00e9moquartz contenant les donn\u00e9es pour un semi-clone d'Un\u00e9i. \u00c0 utiliser avec votre g\u00e9n\u00e9rateur pour cr\u00e9er le semi-clone.",
+        "col_10_ja": "\u30a6\u30cd\u306e\u30c7\u30fc\u30bf\u304c\u53ce\u3081\u3089\u308c\u305f\u30c8\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u3002\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u30fb\u30b8\u30a7\u30cd\u30ec\u30fc\u30bf\u30fc\u3067\u8aad\u307f\u53d6\u308b\u3053\u3068\u3067\u3001\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u30fb\u30a6\u30cd\u3092\u53ec\u559a\u3067\u304d\u308b\u3002",
+        "col_1_cn": "",
+        "col_1_de": "Demiklon-Unei",
+        "col_1_en": "Unei demiclone",
+        "col_1_fr": "semi-clone d'Un\u00e9i",
+        "col_1_ja": ""
+    },
+    "2": {
+        "0xID": "2",
+        "col_10_cn": "",
+        "col_10_de": "Ein allagischer Stein mit Dogas Daten. Liest man ihn in den Demiklon-Generator ein, wird ein Doga generiert.",
+        "col_10_en": "A tomestone containing data on Doga. Read the data with the demiclone generator to enable the creation of a Doga demiclone.",
+        "col_10_fr": "Un m\u00e9moquartz contenant les donn\u00e9es pour un semi-clone de Doga. \u00c0 utiliser avec votre g\u00e9n\u00e9rateur pour cr\u00e9er le semi-clone.",
+        "col_10_ja": "\u30c9\u30fc\u30ac\u306e\u30c7\u30fc\u30bf\u304c\u53ce\u3081\u3089\u308c\u305f\u30c8\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u3002\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u30fb\u30b8\u30a7\u30cd\u30ec\u30fc\u30bf\u30fc\u3067\u8aad\u307f\u53d6\u308b\u3053\u3068\u3067\u3001\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u30fb\u30c9\u30fc\u30ac\u3092\u53ec\u559a\u3067\u304d\u308b\u3002",
+        "col_1_cn": "",
+        "col_1_de": "Demiklon-Doga",
+        "col_1_en": "Doga demiclone",
+        "col_1_fr": "semi-clone de Doga",
+        "col_1_ja": ""
+    },
+    "3": {
+        "0xID": "3",
+        "col_10_cn": "",
+        "col_10_de": "Ein allagischer Stein mit den Daten eines Zwiebelritters. Liest man ihn in den Demiklon-Generator ein, wird ein Zwiebelritter generiert.",
+        "col_10_en": "A tomestone containing data on onion knights. Read the data with the demiclone generator to enable the creation of an onion knight demiclone.",
+        "col_10_fr": "Un m\u00e9moquartz contenant les donn\u00e9es pour un semi-clone de chevalier Oignon. \u00c0 utiliser avec votre g\u00e9n\u00e9rateur pour cr\u00e9er le semi-clone.",
+        "col_10_ja": "\u30aa\u30cb\u30aa\u30f3\u30ca\u30a4\u30c8\u306e\u30c7\u30fc\u30bf\u304c\u53ce\u3081\u3089\u308c\u305f\u30c8\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3\u3002\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u30fb\u30b8\u30a7\u30cd\u30ec\u30fc\u30bf\u30fc\u3067\u8aad\u307f\u53d6\u308b\u3053\u3068\u3067\u3001\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u30fb\u30aa\u30cb\u30aa\u30f3\u30ca\u30a4\u30c8\u3092\u53ec\u559a\u3067\u304d\u308b\u3002",
+        "col_1_cn": "",
+        "col_1_de": "Demiklon-Zwiebelritter",
+        "col_1_en": "onion knight demiclone",
+        "col_1_fr": "semi-clone de chevalier Oignon",
+        "col_1_ja": ""
+    }
+}

@@ -1,0 +1,1082 @@
+{
+    "0": {
+        "0xID": "0",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Destination_cn": "A\u3000\u6d01\u767d\u6d45\u6ee9",
+        "Destination_de": "Elfenbein-Syrte (A)",
+        "Destination_en": "the Ivory Shoals",
+        "Destination_fr": "\u00c9cueils d'Ivoire (A)",
+        "Destination_ja": "A\u3000\u767d\u306e\u6d45\u702c",
+        "Destination_ko": "A\u3000\ud558\uc580 \uc5ec\uc6b8"
+    },
+    "10": {
+        "0xID": "A",
+        "Destination_cn": "J\u3000\u65e0\u540d\u6c89\u8239",
+        "Destination_de": "Unidentifiziertes Wrack (J)",
+        "Destination_en": "unidentified derelict",
+        "Destination_fr": "\u00c9pave sans nom (J)",
+        "Destination_ja": "J\u3000\u540d\u3082\u7121\u304d\u6c88\u6ca1\u8239",
+        "Destination_ko": "J\u3000\uc774\ub984 \uc5c6\ub294 \uce68\ubab0\uc120"
+    },
+    "100": {
+        "0xID": "64",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "101": {
+        "0xID": "65",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "102": {
+        "0xID": "66",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "103": {
+        "0xID": "67",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "104": {
+        "0xID": "68",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "105": {
+        "0xID": "69",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "106": {
+        "0xID": "6A",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "107": {
+        "0xID": "6B",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "108": {
+        "0xID": "6C",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "109": {
+        "0xID": "6D",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "11": {
+        "0xID": "B",
+        "Destination_cn": "K\u3000\u6e5b\u84dd\u6d45\u6ee9 ",
+        "Destination_de": "Indigo-Untiefen (K)",
+        "Destination_en": "the Cobalt Shoals",
+        "Destination_fr": "Haut-fond indigo (K)",
+        "Destination_ja": "K\u3000\u85cd\u306e\u6d45\u702c",
+        "Destination_ko": "K\u3000\ucabd\ube5b \uc5ec\uc6b8"
+    },
+    "110": {
+        "0xID": "6E",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "111": {
+        "0xID": "6F",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "112": {
+        "0xID": "70",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "113": {
+        "0xID": "71",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "114": {
+        "0xID": "72",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "115": {
+        "0xID": "73",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "116": {
+        "0xID": "74",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "117": {
+        "0xID": "75",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "118": {
+        "0xID": "76",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "119": {
+        "0xID": "77",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "12": {
+        "0xID": "C",
+        "Destination_cn": "L\u3000\u795e\u79d8\u6d77\u76c6 ",
+        "Destination_de": "Lagune der Legenden (L)",
+        "Destination_en": "the Mystic Basin",
+        "Destination_fr": "Bassin myst\u00e9rieux (L)",
+        "Destination_ja": "L\u3000\u795e\u79d8\u306e\u6d77\u76c6",
+        "Destination_ko": "L\u3000\uc2e0\ube44\ub85c\uc6b4 \ud574\ubd84"
+    },
+    "13": {
+        "0xID": "D",
+        "Destination_cn": "M\u3000\u6eba\u6ca1\u6d774",
+        "Destination_de": "Tiefsee 4 (M)",
+        "Destination_en": "deep-sea site 4",
+        "Destination_fr": "Mer des noyades 4 (M)",
+        "Destination_ja": "M\u3000\u6eba\u6ca1\u6d7704",
+        "Destination_ko": "M\u3000\uc775\ubab0\ud574 04"
+    },
+    "14": {
+        "0xID": "E",
+        "Destination_cn": "N\u3000\u5229\u7c73\u62c9\u62c9\u6d77\u6c9f\u4e2d\u90e8",
+        "Destination_de": "Zentraler Rimilala-Graben (N)",
+        "Destination_en": "the Central Rimilala Trench",
+        "Destination_fr": "Flanc de la fosse de Rimilala (N)",
+        "Destination_ja": "N\u3000\u30ea\u30df\u30e9\u30e9\u6d77\u6e9d\u4e2d\u8179",
+        "Destination_ko": "N\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \uc911\ud131"
+    },
+    "15": {
+        "0xID": "F",
+        "Destination_cn": "O\u3000\u63a2\u7d22\u53f7\u6b8b\u9ab8",
+        "Destination_de": "Wrack der Discovery (O)",
+        "Destination_en": "the Wreckage of Discovery I",
+        "Destination_fr": "\u00c9pave du D\u00e9couverte I (O)",
+        "Destination_ja": "O\u3000\u30c7\u30a3\u30b9\u30ab\u30d0\u30ea\u30fc\u53f7\u306e\u6b8b\u9ab8",
+        "Destination_ko": "O\u3000\ubc1c\uacac\ud638 \uc794\ud574"
+    },
+    "16": {
+        "0xID": "10",
+        "Destination_cn": "P\u3000\u6811\u4e1b\u5c9b",
+        "Destination_de": "Komura (P)",
+        "Destination_en": "Komura",
+        "Destination_fr": "\u00cele verdoyante (P)",
+        "Destination_ja": "P\u3000\u6728\u53e2\u5cf6",
+        "Destination_ko": "P\u3000\ub364\ubd88 \uc12c"
+    },
+    "17": {
+        "0xID": "11",
+        "Destination_cn": "Q\u3000\u91d1\u5c71\u5c9b",
+        "Destination_de": "Kanayama (Q)",
+        "Destination_en": "Kanayama",
+        "Destination_fr": "\u00cele aux monts m\u00e9tallif\u00e8re (Q)",
+        "Destination_ja": "Q\u3000\u91d1\u5c71\u5cf6",
+        "Destination_ko": "Q\u3000\uae08\uc0b0\ub3c4"
+    },
+    "18": {
+        "0xID": "12",
+        "Destination_cn": "R\u3000\u6d77\u519b\u7684\u79d8\u5bc6\u6e2f\u53e3",
+        "Destination_de": "Versteckte Bucht (R)",
+        "Destination_en": "concealed bay",
+        "Destination_fr": "Repaire de l'armada (R)",
+        "Destination_ja": "R\u3000\u6c34\u5e2b\u306e\u96a0\u3057\u6e2f",
+        "Destination_ko": "R\u3000\ud574\uad70\uc758 \ube44\ubc00 \ud56d\uad6c"
+    },
+    "19": {
+        "0xID": "13",
+        "Destination_cn": "S\u3000\u6eba\u6ca1\u6d775",
+        "Destination_de": "Tiefsee 5 (S)",
+        "Destination_en": "deep-sea site 5",
+        "Destination_fr": "Mer des noyades 5 (S)",
+        "Destination_ja": "S\u3000\u6eba\u6ca1\u6d7705",
+        "Destination_ko": "S\u3000\uc775\ubab0\ud574 05"
+    },
+    "2": {
+        "0xID": "2",
+        "Destination_cn": "B\u3000\u6eba\u6ca1\u6d771",
+        "Destination_de": "Tiefsee 1 (B)",
+        "Destination_en": "deep-sea site 1",
+        "Destination_fr": "Mer des noyades 1 (B)",
+        "Destination_ja": "B\u3000\u6eba\u6ca1\u6d7701",
+        "Destination_ko": "B\u3000\uc775\ubab0\ud574 01"
+    },
+    "20": {
+        "0xID": "14",
+        "Destination_cn": "T\u3000\u70bc\u72f1\u5c9b",
+        "Destination_de": "Vorh\u00f6lle (T)",
+        "Destination_en": "Purgatory",
+        "Destination_fr": "\u00cele du purgatoire (T)",
+        "Destination_ja": "T\u3000\u7149\u7344\u5cf6",
+        "Destination_ko": "T\u3000\uc5f0\uc625\ub3c4"
+    },
+    "21": {
+        "0xID": "15",
+        "Destination_cn": "U\u3000\u6eba\u6ca1\u6d776",
+        "Destination_de": "Tiefsee 6 (U)",
+        "Destination_en": "deep-sea site 6",
+        "Destination_fr": "Mer des noyades 6 (U)",
+        "Destination_ja": "U\u3000\u6eba\u6ca1\u6d7706",
+        "Destination_ko": "U\u3000\uc775\ubab0\ud574 06"
+    },
+    "22": {
+        "0xID": "16",
+        "Destination_cn": "V\u3000\u5229\u7c73\u62c9\u62c9\u6d77\u6c9f\u5927\u503e\u659c",
+        "Destination_de": "Rimilala-Riff (V)",
+        "Destination_en": "the Rimilala Shelf",
+        "Destination_fr": "Large talus de la fosse de Rimilala (V)",
+        "Destination_ja": "V\u3000\u30ea\u30df\u30e9\u30e9\u6d77\u6e9d\u5927\u50be\u659c",
+        "Destination_ko": "V\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \uae09\uacbd\uc0ac\uba74"
+    },
+    "23": {
+        "0xID": "17",
+        "Destination_cn": "W\u3000\u6eba\u6ca1\u6d777",
+        "Destination_de": "Tiefsee 7 (W)",
+        "Destination_en": "deep-sea site 7",
+        "Destination_fr": "Mer des noyades 7 (W)",
+        "Destination_ja": "W\u3000\u6eba\u6ca1\u6d7707",
+        "Destination_ko": "W\u3000\uc775\ubab0\ud574 07"
+    },
+    "24": {
+        "0xID": "18",
+        "Destination_cn": "X\u3000\u8f89\u7802\u6d77\u76c6",
+        "Destination_de": "Glitzersand-Becken (X)",
+        "Destination_en": "Glittersand Basin",
+        "Destination_fr": "Bassin des sables scintillants (X)",
+        "Destination_ja": "X\u3000\u8f1d\u7802\u306e\u6d77\u76c6",
+        "Destination_ko": "X\u3000\ube5b\ubaa8\ub798 \ud574\ubd84"
+    },
+    "25": {
+        "0xID": "19",
+        "Destination_cn": "Y\u3000\u6b8b\u7167\u767d\u8c37",
+        "Destination_de": "Flicker-Senke (Y)",
+        "Destination_en": "Flickering Dip",
+        "Destination_fr": "Vall\u00e9e \u00e9cumeuse du cr\u00e9puscule (Y)",
+        "Destination_ja": "Y\u3000\u6b8b\u7167\u306e\u767d\u8c37",
+        "Destination_ko": "Y\u3000\uc800\ub141\ub180 \uc5f4\uace1"
+    },
+    "26": {
+        "0xID": "1A",
+        "Destination_cn": "Z\u3000\u524d\u8fdb\u53f7\u7684\u6b8b\u9ab8",
+        "Destination_de": "Wrack der Headway (Z)",
+        "Destination_en": "the Wreckage of the Headway",
+        "Destination_fr": "\u00c9pave de L'Avanc\u00e9e (Z)",
+        "Destination_ja": "Z\u3000\u30d8\u30c3\u30c9\u30a6\u30a7\u30a4\u53f7\u306e\u6b8b\u9ab8",
+        "Destination_ko": "Z\u3000\uc804\uc9c4\ud638 \uc794\ud574"
+    },
+    "27": {
+        "0xID": "1B",
+        "Destination_cn": "AA\u3000\u53d8\u7406\u6d77\u57df",
+        "Destination_de": "Sondersee (AA)",
+        "Destination_en": "the Upwell",
+        "Destination_fr": "Zone des contre-courants (AA)",
+        "Destination_ja": "AA\u3000\u5909\u7406\u306e\u6d77\u57df",
+        "Destination_ko": "AA\u3000\uc6a9\uc2b9\ud558\ub294 \ud574\uc5ed"
+    },
+    "28": {
+        "0xID": "1C",
+        "Destination_cn": "AB\u3000\u5229\u7c73\u62c9\u62c9\u6d77\u6c9f\u6700\u6df1\u90e8",
+        "Destination_de": "Rimilala-Tiefe (AB)",
+        "Destination_en": "the Rimilala Trench Bottom",
+        "Destination_fr": "Fin fond de la fosse de Rimilala (AB)",
+        "Destination_ja": "AB\u3000\u30ea\u30df\u30e9\u30e9\u6d77\u6e9d\u6700\u6df1\u90e8",
+        "Destination_ko": "AB\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \ucd5c\uc2ec\ubd80"
+    },
+    "29": {
+        "0xID": "1D",
+        "Destination_cn": "AC\u3000\u77f3\u9020\u5bfa\u9662\u9057\u8ff9",
+        "Destination_de": "Steintempel (AC)",
+        "Destination_en": "stone temple",
+        "Destination_fr": "Ruines du temple de pierre (AC)",
+        "Destination_ja": "AC\u3000\u77f3\u9020\u5bfa\u9662\u8de1",
+        "Destination_ko": "AC\u3000\uc11d\uc870 \uc0ac\uc6d0\ud130"
+    },
+    "3": {
+        "0xID": "3",
+        "Destination_cn": "C\u3000\u6eba\u6ca1\u6d772",
+        "Destination_de": "Tiefsee 2 (C)",
+        "Destination_en": "deep-sea site 2",
+        "Destination_fr": "Mer des noyades 2 (C)",
+        "Destination_ja": "C\u3000\u6eba\u6ca1\u6d7702",
+        "Destination_ko": "C\u3000\uc775\ubab0\ud574 02"
+    },
+    "30": {
+        "0xID": "1E",
+        "Destination_cn": "AD\u3000\u53e4\u4ee3\u5b9d\u7269\u5e93",
+        "Destination_de": "Versunkene Schatzkammer (AD)",
+        "Destination_en": "sunken vault",
+        "Destination_fr": "Ancien \u00e9crin (AD)",
+        "Destination_ja": "AD\u3000\u53e4\u306e\u5b9d\u7269\u5eab",
+        "Destination_ko": "AD\u3000\uc61b \ubcf4\ubb3c\uace0"
+    },
+    "31": {
+        "0xID": "1F",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "32": {
+        "0xID": "20",
+        "Destination_cn": "A\u3000\u4f50\u4f50\u7eb3\u6069\u5c9b\u5357\u7aef",
+        "Destination_de": "Zozonan-S\u00fcdriff (A)",
+        "Destination_en": "South Isle of Zozonan",
+        "Destination_fr": "Rive sud de l'\u00cele Zozonan (A)",
+        "Destination_ja": "A\u3000\u30be\u30fc\u30be\u30fc\u30ca\u30f3\u5cf6\u5357\u7aef",
+        "Destination_ko": "A\u3000\uc870\uc870\ub09c \uc12c \ub0a8\ub2e8"
+    },
+    "33": {
+        "0xID": "21",
+        "Destination_cn": "B\u3000\u98ce\u884c\u8005\u7684\u6b8b\u9ab8",
+        "Destination_de": "Windschreitersch\u00e4del (B)",
+        "Destination_en": "Wreckage of the Windwalker",
+        "Destination_fr": "\u00c9pave du Marche-Vent (B)",
+        "Destination_ja": "B\u3000\u30a6\u30a3\u30f3\u30c9\u30fb\u30a6\u30a9\u30fc\u30ab\u30fc\u306e\u6b8b\u9ab8",
+        "Destination_ko": "B\u3000\ud48d\uc6b4\ud638 \uc794\ud574"
+    },
+    "34": {
+        "0xID": "22",
+        "Destination_cn": "C\u3000\u4f50\u4f50\u7eb3\u6069\u5c9b\u5317\u7aef",
+        "Destination_de": "Zozonan-Nordriff (C)",
+        "Destination_en": "North Isle of Zozonan",
+        "Destination_fr": "Rive nord de l'\u00cele Zozonan (C)",
+        "Destination_ja": "C\u3000\u30be\u30fc\u30be\u30fc\u30ca\u30f3\u5cf6\u5317\u7aef",
+        "Destination_ko": "C\u3000\uc870\uc870\ub09c \uc12c \ubd81\ub2e8"
+    },
+    "35": {
+        "0xID": "23",
+        "Destination_cn": "D\u3000\u7070\u6d771",
+        "Destination_de": "Verbranntes Meer 1 (D)",
+        "Destination_en": "Sea of Ash 1",
+        "Destination_fr": "Mer de Cendre 1 (D)",
+        "Destination_ja": "D\u3000\u7070\u6d7701",
+        "Destination_ko": "D\u3000\uc7bf\ube5b \ubc14\ub2e4 01"
+    },
+    "36": {
+        "0xID": "24",
+        "Destination_cn": "E\u3000\u706b\u846c\u7089\u6d77\u6c9f\u5357\u7aef",
+        "Destination_de": "Leichenfeuergraben S\u00fcd (E)",
+        "Destination_en": "the Southern Charnel Trench",
+        "Destination_fr": "Sud de la Fosse cr\u00e9matoire (E)",
+        "Destination_ja": "E\u3000\u706b\u846c\u7089\u6d77\u6e9d\u5357\u7aef",
+        "Destination_ko": "E\u3000\ud654\uc7a5\ub85c \ud574\uad6c \ub0a8\ub2e8"
+    },
+    "37": {
+        "0xID": "25",
+        "Destination_cn": "F\u3000\u7070\u6d772",
+        "Destination_de": "Verbranntes Meer 2 (F)",
+        "Destination_en": "Sea of Ash 2",
+        "Destination_fr": "Mer de Cendre 2 (F)",
+        "Destination_ja": "F\u3000\u7070\u6d7702",
+        "Destination_ko": "F\u3000\uc7bf\ube5b \ubc14\ub2e4 02"
+    },
+    "38": {
+        "0xID": "26",
+        "Destination_cn": "G\u3000\u7070\u6d773",
+        "Destination_de": "Verbranntes Meer 3 (G)",
+        "Destination_en": "Sea of Ash 3",
+        "Destination_fr": "Mer de Cendre 3 (G)",
+        "Destination_ja": "G\u3000\u7070\u6d7703",
+        "Destination_ko": "G\u3000\uc7bf\ube5b \ubc14\ub2e4 03"
+    },
+    "39": {
+        "0xID": "27",
+        "Destination_cn": "H\u3000\u4fee\u9053\u58eb\u5893\u7891",
+        "Destination_de": "Grabmal des Asketen (H)",
+        "Destination_en": "Ascetic's Demise",
+        "Destination_fr": "Crypte des Asc\u00e8tes (H)",
+        "Destination_ja": "H\u3000\u4fee\u9053\u58eb\u305f\u3061\u306e\u5893\u6a19",
+        "Destination_ko": "H\u3000\uc218\ub3c4\uc0ac\ub4e4\uc758 \ubb18\ube44"
+    },
+    "4": {
+        "0xID": "4",
+        "Destination_cn": "D\u3000\u65e0\u5149\u6d77\u76c6",
+        "Destination_de": "Lichtloses Becken (D)",
+        "Destination_en": "the Lightless Basin",
+        "Destination_fr": "Bassin sans lumi\u00e8re (D)",
+        "Destination_ja": "D\u3000\u9ed2\u306e\u6d77\u76c6",
+        "Destination_ko": "D\u3000\uac80\uc740 \ud574\ubd84"
+    },
+    "40": {
+        "0xID": "28",
+        "Destination_cn": "I\u3000\u706b\u846c\u7089\u6d77\u6c9f\u4e2d\u90e8",
+        "Destination_de": "Leichenfeuergraben Mitte (I)",
+        "Destination_en": "the Central Charnel Trench",
+        "Destination_fr": "Flanc de la Fosse cr\u00e9matoire (I)",
+        "Destination_ja": "I\u3000 \u706b\u846c\u7089\u6d77\u6e9d\u4e2d\u8179",
+        "Destination_ko": "I\u3000 \ud654\uc7a5\ub85c \ud574\uad6c \uc911\ud131"
+    },
+    "41": {
+        "0xID": "29",
+        "Destination_cn": "J\u3000\u795e\u7236\u7684\u5ca9\u7a9f",
+        "Destination_de": "Des Priesters Felsgrotte (J)",
+        "Destination_en": "the Catacombs of the Father",
+        "Destination_fr": "Grotte du R\u00e9v\u00e9rend (J)",
+        "Destination_ja": "J\u3000\u795e\u7236\u306e\u5ca9\u7a9f",
+        "Destination_ko": "J\u3000\uc2e0\ubd80\uc758 \ubc14\uc704\uad74"
+    },
+    "42": {
+        "0xID": "2A",
+        "Destination_cn": "K\u3000\u7070\u6d774",
+        "Destination_de": "Verbranntes Meer 4 (K)",
+        "Destination_en": "Sea of Ash 4",
+        "Destination_fr": "Mer de Cendre 4 (K)",
+        "Destination_ja": "K\u3000\u7070\u6d7704",
+        "Destination_ko": "K\u3000\uc7bf\ube5b \ubc14\ub2e4 04"
+    },
+    "43": {
+        "0xID": "2B",
+        "Destination_cn": "L\u3000\u6c99\u783e\u6d77\u76c6",
+        "Destination_de": "Das Schotterbecken (L)",
+        "Destination_en": "the Midden Pit",
+        "Destination_fr": "Bassin s\u00e9dimentaire (L)",
+        "Destination_ja": "L\u3000\u7802\u5229\u306e\u6d77\u76c6",
+        "Destination_ko": "L\u3000\uc790\uac08 \ud574\ubd84"
+    },
+    "44": {
+        "0xID": "2C",
+        "Destination_cn": "M\u3000\u5355\u53ea\u624b\u5957\u5c9b",
+        "Destination_de": "Insel der einsamen Hand (M)",
+        "Destination_en": "the Lone Glove",
+        "Destination_fr": "\u00cele du gant esseul\u00e9 (M)",
+        "Destination_ja": "M\u3000\u7247\u5272\u308c\u624b\u888b\u5cf6",
+        "Destination_ko": "M\u3000\uc9dd\uc9dd\uc774 \uc7a5\uac11 \uc12c"
+    },
+    "45": {
+        "0xID": "2D",
+        "Destination_cn": "N\u3000\u7834\u6d1e\u889c\u5b50\u5c9b",
+        "Destination_de": "Insel der nassen Socken (N)",
+        "Destination_en": "Coldtoe Isle",
+        "Destination_fr": "\u00cele de la chaussette trou\u00e9e (N)",
+        "Destination_ja": "N\u3000\u7a74\u3042\u304d\u9774\u4e0b\u5cf6",
+        "Destination_ko": "N\u3000\uad6c\uba4d\ub09c \ubc11\ucc3d \uc12c"
+    },
+    "46": {
+        "0xID": "2E",
+        "Destination_cn": "O\u3000\u8d70\u79c1\u5ba2\u7684\u4ea4\u6613\u573a",
+        "Destination_de": "Schmugglerbasar (O)",
+        "Destination_en": "Smuggler's Knot",
+        "Destination_fr": "Repaire des contrebandiers (O)",
+        "Destination_ja": "O\u3000\u5bc6\u8f38\u696d\u8005\u306e\u53d6\u5f15\u5834",
+        "Destination_ko": "O\u3000\ubc00\uc218\uc5c5\uc790\uc758 \uac70\ub798\uc18c"
+    },
+    "47": {
+        "0xID": "2F",
+        "Destination_cn": "P\u3000\u78e8\u7834\u888d\u5b50\u5c9b",
+        "Destination_de": "Lumpenkleidinsel (P)",
+        "Destination_en": "the Open Robe",
+        "Destination_fr": "\u00cele de la robe frip\u00e9e (P)",
+        "Destination_ja": "P\u3000\u64e6\u308a\u5207\u308c\u30ed\u30fc\u30d6\u5cf6",
+        "Destination_ko": "P\u3000\ud574\uc9c4 \ub85c\ube0c \uc12c"
+    },
+    "48": {
+        "0xID": "30",
+        "Destination_cn": "Q\u3000\u5546\u8d38\u795e\u7684\u70df\u7ba1",
+        "Destination_de": "Nald'thals Schlot (Q)",
+        "Destination_en": "Nald'thal's Pipe",
+        "Destination_fr": "Chemin\u00e9e de Nald'thal (Q)",
+        "Destination_ja": "Q\u3000\u30ca\u30eb\u30b6\u30eb\u306e\u7159\u7ba1",
+        "Destination_ko": "Q\u3000\ub0a0\ub2ec\uc758 \ub2f4\ubc43\ub300"
+    },
+    "49": {
+        "0xID": "31",
+        "Destination_cn": "R\u3000\u8d70\u951a\u6d77\u57df",
+        "Destination_de": "Schliergrund (R)",
+        "Destination_en": "the Slipped Anchor",
+        "Destination_fr": "Mer de Chasse-Ancre (R)",
+        "Destination_ja": "R\u3000\u8d70\u9328\u6d77\u57df",
+        "Destination_ko": "R\u3000\ubbf8\ub044\ub7ec\uc9c4 \ub2fb \ud574\uc5ed"
+    },
+    "5": {
+        "0xID": "5",
+        "Destination_cn": "E\u3000\u6eba\u6ca1\u6d773",
+        "Destination_de": "Tiefsee 3 (E)",
+        "Destination_en": "deep-sea site 3",
+        "Destination_fr": "Mer des noyades 3 (E)",
+        "Destination_ja": "E\u3000\u6eba\u6ca1\u6d7703",
+        "Destination_ko": "E\u3000\uc775\ubab0\ud574 03"
+    },
+    "50": {
+        "0xID": "32",
+        "Destination_cn": "S\u3000\u8d2a\u5a6a\u80c3",
+        "Destination_de": "Hungriger Magen (S)",
+        "Destination_en": "Glutton's Belly",
+        "Destination_fr": "Estomac goulu (S)",
+        "Destination_ja": "S\u3000\u5f37\u6b32\u306e\u80c3\u888b",
+        "Destination_ko": "S\u3000\ud0d0\uc695\uc2a4\ub7ec\uc6b4 \uc704\uc7a5"
+    },
+    "51": {
+        "0xID": "33",
+        "Destination_cn": "T\u3000\u84dd\u6d1e",
+        "Destination_de": "Das Blaue Loch (T)",
+        "Destination_en": "the Blue Hole",
+        "Destination_fr": "Trou bleu (T)",
+        "Destination_ja": "T\u3000\u30d6\u30eb\u30fc\u30db\u30fc\u30eb",
+        "Destination_ko": "T\u3000\ud478\ub978 \uad6c\uba4d"
+    },
+    "52": {
+        "0xID": "34",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "53": {
+        "0xID": "35",
+        "Destination_cn": "A\u3000\u796d\u575b\u5c9b",
+        "Destination_de": "Insel des Sakraments (A)",
+        "Destination_en": "the Isle of Sacrament",
+        "Destination_fr": "\u00cele du Sacrement (A)",
+        "Destination_ja": "A\u3000\u796d\u58c7\u5cf6",
+        "Destination_ko": "A\u3000\uc81c\ub2e8\uc12c"
+    },
+    "54": {
+        "0xID": "36",
+        "Destination_cn": "B\u3000\u7ae0\u9c7c\u7684\u9676\u7f50",
+        "Destination_de": "Grab des Kraken (B)",
+        "Destination_en": "the Kraken's Tomb",
+        "Destination_fr": "Tombe du Kraken (B)",
+        "Destination_ja": "B\u3000\u86f8\u58fa\u5165\u6c5f",
+        "Destination_ko": "B\u3000\ubb38\uc5b4\ub2e8\uc9c0 \uc548\uace1"
+    },
+    "55": {
+        "0xID": "37",
+        "Destination_cn": "C\u3000\u7fe0\u6d6a\u6d771",
+        "Destination_de": "Jademeer 1 (C)",
+        "Destination_en": "Sea of Jade 1",
+        "Destination_fr": "Mer de Jade 1 (C)",
+        "Destination_ja": "C\u3000\u7fe0\u6d6a\u6d7701",
+        "Destination_ko": "C\u3000\ube44\ucde8 \ubc14\ub2e4 01"
+    },
+    "56": {
+        "0xID": "38",
+        "Destination_cn": "D\u3000\u6076\u9b54\u7ae0\u9c7c\u7684\u72e9\u730e\u573a",
+        "Destination_de": "Revier des Rogo-Tumu-Here (D)",
+        "Destination_en": "Rogo-Tumu-Here's Haunt",
+        "Destination_fr": "Chasse de Rogo-Tumu-Here (D)",
+        "Destination_ja": "D\u3000\u30ed\u30b4\u30c8\u30a5\u30e0\u30d8\u30ec\u306e\u72e9\u5834",
+        "Destination_ko": "D\u3000\ub85c\uace0\ud22c\ubb34\ud5e4\ub808\uc758 \uc0ac\ub0e5\ud130"
+    },
+    "57": {
+        "0xID": "39",
+        "Destination_cn": "E\u3000\u5438\u76d8\u7901",
+        "Destination_de": "Steinerne Dornen (E)",
+        "Destination_en": "the Stone Barbs",
+        "Destination_fr": "Ventouse de pierre (E)",
+        "Destination_ja": "E\u3000\u5438\u76e4\u7901",
+        "Destination_ko": "E\u3000\ud761\ubc18\ucd08"
+    },
+    "58": {
+        "0xID": "3A",
+        "Destination_cn": "F\u3000\u6076\u9b54\u7ae0\u9c7c\u7684\u7761\u5e8a",
+        "Destination_de": "Schlafplatz des Rogo-Tumu-Here (F)",
+        "Destination_en": "Rogo-Tumu-Here's Repose",
+        "Destination_fr": "Repos de Rogo-Tumu-Here (F)",
+        "Destination_ja": "F\u3000\u30ed\u30b4\u30c8\u30a5\u30e0\u30d8\u30ec\u306e\u5bdd\u8535",
+        "Destination_ko": "F\u3000\ub85c\uace0\ud22c\ubb34\ud5e4\ub808\uc758 \uce68\uc18c"
+    },
+    "59": {
+        "0xID": "3B",
+        "Destination_cn": "G\u3000\u6d77\u795e\u7684\u9493\u94a9",
+        "Destination_de": "Tangaroas Angelhaken (G)",
+        "Destination_en": "Tangaroa's Prow",
+        "Destination_fr": "Hame\u00e7on de Tangaroa (G)",
+        "Destination_ja": "G\u3000\u30bf\u30ca\u30ed\u30a2\u306e\u91e3\u91dd",
+        "Destination_ko": "G\u3000\ud0c0\ub098\ub85c\uc544\uc758 \ub09a\uc2ef\ubc14\ub298"
+    },
+    "6": {
+        "0xID": "6",
+        "Destination_cn": "F\u3000\u5229\u7c73\u62c9\u62c9\u6d77\u6c9f\u5357\u7aef",
+        "Destination_de": "S\u00fcdlicher Rimilala-Graben (F)",
+        "Destination_en": "the Southern Rimilala Trench",
+        "Destination_fr": "Sud de la fosse de Rimilala (F)",
+        "Destination_ja": "F\u3000\u30ea\u30df\u30e9\u30e9\u6d77\u6e9d\u5357\u7aef",
+        "Destination_ko": "F\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \ub0a8\ub2e8"
+    },
+    "60": {
+        "0xID": "3C",
+        "Destination_cn": "H\u3000\u7fe0\u6d6a\u6d772",
+        "Destination_de": "Jademeer 2 (H)",
+        "Destination_en": "Sea of Jade 2",
+        "Destination_fr": "Mer de Jade 2 (H)",
+        "Destination_ja": "H\u3000\u7fe0\u6d6a\u6d7702",
+        "Destination_ko": "H\u3000\ube44\ucde8 \ubc14\ub2e4 02"
+    },
+    "61": {
+        "0xID": "3D",
+        "Destination_cn": "I\u3000\u76f2\u76ee\u5ce1\u6e7e",
+        "Destination_de": "Blinder Meeresarm (I)",
+        "Destination_en": "the Blind Sound",
+        "Destination_fr": "Fjord aveugle (I)",
+        "Destination_ja": "I\u3000\u76ee\u96a0\u3057\u5ce1\u6c5f",
+        "Destination_ko": "I\u3000\ub208\uac00\ub9bc \ud611\ub9cc"
+    },
+    "62": {
+        "0xID": "3E",
+        "Destination_cn": "J\u3000\u7fe0\u6d6a\u6d773",
+        "Destination_de": "Jademeer 3 (J)",
+        "Destination_en": "Sea of Jade 3",
+        "Destination_fr": "Mer de Jade 3 (J)",
+        "Destination_ja": "J\u3000\u7fe0\u6d6a\u6d7703",
+        "Destination_ko": "J\u3000\ube44\ucde8 \ubc14\ub2e4 03"
+    },
+    "63": {
+        "0xID": "3F",
+        "Destination_cn": "K\u3000\u7a46\u5384\u5409\u6069\u7684\u953b\u94c1\u573a",
+        "Destination_de": "Moergynns Schmiede (K)",
+        "Destination_en": "Moergynn's Forge",
+        "Destination_fr": "Forge de Moergynn (K)",
+        "Destination_ja": "K\u3000\u30e0\u30fc\u30eb\u30ae\u30f3\u306e\u935b\u51b6\u5834",
+        "Destination_ko": "K\u3000\ubafc\ub974\uae34\uc758 \ub300\uc7a5\uac04"
+    },
+    "64": {
+        "0xID": "40",
+        "Destination_cn": "L\u3000\u6d77\u795e\u7684\u6d6e\u6807",
+        "Destination_de": "Tangaroas Boje (L)",
+        "Destination_en": "Tangaroa's Beacon",
+        "Destination_fr": "Fanal de Tangaroa (L)",
+        "Destination_ja": "L\u3000\u30bf\u30ca\u30ed\u30a2\u306e\u6d6e\u6a19",
+        "Destination_ko": "L\u3000\ud0c0\ub098\ub85c\uc544\uc758 \ubd80\ud45c"
+    },
+    "65": {
+        "0xID": "41",
+        "Destination_cn": "M\u3000\u7fe0\u6d6a\u6d774",
+        "Destination_de": "Jademeer 4 (M)",
+        "Destination_en": "Sea of Jade 4",
+        "Destination_fr": "Mer de Jade 4 (M)",
+        "Destination_ja": "M\u3000\u7fe0\u6d6a\u6d7704",
+        "Destination_ko": "M\u3000\ube44\ucde8 \ubc14\ub2e4 04"
+    },
+    "66": {
+        "0xID": "42",
+        "Destination_cn": "N\u3000\u6d77\u85fb\u6811\u6797",
+        "Destination_de": "Seegrashain (N)",
+        "Destination_en": "the Forest of Kelp",
+        "Destination_fr": "For\u00eat d'algues (N)",
+        "Destination_ja": "N\u3000\u6d77\u85fb\u6a39\u6797",
+        "Destination_ko": "N\u3000\ud574\uc870\uc218\ub9bc"
+    },
+    "67": {
+        "0xID": "43",
+        "Destination_cn": "O\u3000\u7fe0\u6d6a\u6d775",
+        "Destination_de": "Jademeer 5 (O)",
+        "Destination_en": "Sea of Jade 5",
+        "Destination_fr": "Mer de Jade 5 (O)",
+        "Destination_ja": "O\u3000\u7fe0\u6d6a\u6d7705",
+        "Destination_ko": "O\u3000\ube44\ucde8 \ubc14\ub2e4 05"
+    },
+    "68": {
+        "0xID": "44",
+        "Destination_cn": "P\u3000\u949d\u5200\u5207\u5cb8",
+        "Destination_de": "Schwertklippe (P)",
+        "Destination_en": "Bladefall Chasm",
+        "Destination_fr": "Ab\u00eeme \u00e9mouss\u00e9 (P)",
+        "Destination_ja": "P\u3000\u306a\u307e\u304f\u3089\u5207\u5cb8",
+        "Destination_ko": "P\u3000\ubb34\ub518 \uc808\ubcbd"
+    },
+    "69": {
+        "0xID": "45",
+        "Destination_cn": "Q\u3000\u9a7b\u98ce\u6e2f",
+        "Destination_de": "Sturmruh (Q)",
+        "Destination_en": "Stormport",
+        "Destination_fr": "Port-temp\u00eate (Q)",
+        "Destination_ja": "Q\u3000\u98a8\u306e\u4f11\u6240",
+        "Destination_ko": "Q\u3000\ubc14\ub78c\uc758 \uc27c\ud130"
+    },
+    "7": {
+        "0xID": "7",
+        "Destination_cn": "G\u3000\u4f1e\u5ce1",
+        "Destination_de": "Schirmenge (G)",
+        "Destination_en": "the Umbrella Narrow",
+        "Destination_fr": "D\u00e9troit du Parapluie (G)",
+        "Destination_ja": "G\u3000\u30a2\u30f3\u30d6\u30ec\u30e9\u6d77\u5ce1",
+        "Destination_ko": "G\u3000\uc6b0\uc0b0 \ud574\ud611"
+    },
+    "70": {
+        "0xID": "46",
+        "Destination_cn": "R\u3000\u9f99\u9aa8\u585a",
+        "Destination_de": "Drachengebeinsanger (R)",
+        "Destination_en": "Wyrm's Rest",
+        "Destination_fr": "Repos du dragon (R)",
+        "Destination_ja": "R\u3000\u7adc\u9aa8\u6e9c\u307e\u308a",
+        "Destination_ko": "R\u3000\uc6a9\ubf08\ubb34\ub364"
+    },
+    "71": {
+        "0xID": "47",
+        "Destination_cn": "S\u3000\u7fe0\u6d6a\u6d776",
+        "Destination_de": "Jademeer 5 (S)",
+        "Destination_en": "Sea of Jade 6",
+        "Destination_fr": "Mer de Jade 6 (S)",
+        "Destination_ja": "S\u3000\u7fe0\u6d6a\u6d7706",
+        "Destination_ko": "S\u3000\ube44\ucde8 \ubc14\ub2e4 06"
+    },
+    "72": {
+        "0xID": "48",
+        "Destination_cn": "T\u3000\u6d77\u517d\u7684\u7075\u56ed",
+        "Destination_de": "Gruft des Seeungeheuers (T)",
+        "Destination_en": "the Devil's Crypt",
+        "Destination_fr": "Crypte du diable (T)",
+        "Destination_ja": "T\u3000\u6d77\u7363\u306e\u970a\u5712",
+        "Destination_ko": "T\u3000\ubc14\ub2e4\uc9d0\uc2b9 \ubb18\uc9c0"
+    },
+    "73": {
+        "0xID": "49",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "74": {
+        "0xID": "4A",
+        "Destination_cn": "A\u3000\u8033\u8721\u6e14\u573a",
+        "Destination_de": "Ohrenschmalzbecken (A)",
+        "Destination_en": "Mastbound's Bounty",
+        "Destination_fr": "Bassin de c\u00e9rumen (A)",
+        "Destination_ja": "A\u3000\u8033\u874b\u6f01\u5834",
+        "Destination_ko": "A\u3000\uadc0\ub9c8\uac1c \uc5b4\uc7a5"
+    },
+    "75": {
+        "0xID": "4B",
+        "Destination_cn": "B\u3000\u5996\u6b4c\u6d771",
+        "Destination_de": "Sirenen-See 1 (B)",
+        "Destination_en": "Sirensong Sea 1",
+        "Destination_fr": "Mer du Chant des sir\u00e8nes 1 (B)",
+        "Destination_ja": "B\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7701",
+        "Destination_ko": "B\u3000\uc138\uc774\ub80c \ud574 01"
+    },
+    "76": {
+        "0xID": "4C",
+        "Destination_cn": "C\u3000\u5996\u6b4c\u6d772",
+        "Destination_de": "Sirenen-See 2 (C)",
+        "Destination_en": "Sirensong Sea 2",
+        "Destination_fr": "Mer du Chant des sir\u00e8nes 2 (C)",
+        "Destination_ja": "C\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7702",
+        "Destination_ko": "C\u3000\uc138\uc774\ub80c \ud574 02"
+    },
+    "77": {
+        "0xID": "4D",
+        "Destination_cn": "D\u3000\u82b1\u4e1b\u5c9b",
+        "Destination_de": "Anthemoessa (D)",
+        "Destination_en": "Anthemoessa",
+        "Destination_fr": "\u00cele d'Anth\u00e9muse (D)",
+        "Destination_ja": "D\u3000\u30a2\u30f3\u30c6\u30e2\u30a8\u30c3\u30b5\u5cf6",
+        "Destination_ko": "D\u3000\uc548\ud14c\ubaa8\uc5d0\uc0ac \uc12c"
+    },
+    "78": {
+        "0xID": "4E",
+        "Destination_cn": "E\u3000\u6d77\u9b54\u4e4b\u53e3",
+        "Destination_de": "Magosgraben (E)",
+        "Destination_en": "Magos Trench",
+        "Destination_fr": "Bouche du d\u00e9mon des mers (E)",
+        "Destination_ja": "E\u3000\u6d77\u9b54\u306e\u53e3",
+        "Destination_ko": "E\u3000\ubc14\ub2e4\ub9c8\ubb3c\uc758 \uc785"
+    },
+    "79": {
+        "0xID": "4F",
+        "Destination_cn": "F\u3000\u6f02\u6d41\u6d77\u57df",
+        "Destination_de": "Thralls Enge (F)",
+        "Destination_en": "Thrall's Unrest",
+        "Destination_fr": "Pertuis des naufrages (F)",
+        "Destination_ja": "F\u3000\u6f02\u6d41\u6d77\u57df",
+        "Destination_ko": "F\u3000\ud45c\ub958 \ud574\uc5ed"
+    },
+    "8": {
+        "0xID": "8",
+        "Destination_cn": "H\u3000\u4fd8\u864f\u5c9b",
+        "Destination_de": "Banditenatoll (H)",
+        "Destination_en": "Offender's Rot",
+        "Destination_fr": "Trou de l'Agresseur (H)",
+        "Destination_ja": "H\u3000\u865c\u56da\u5cf6",
+        "Destination_ko": "H\u3000\ud3ec\ub85c\uc12c"
+    },
+    "80": {
+        "0xID": "50",
+        "Destination_cn": "G\u3000\u544a\u6b7b\u7901",
+        "Destination_de": "Todesriff (G)",
+        "Destination_en": "Crow's Drop",
+        "Destination_fr": "R\u00e9cif de la mort (G)",
+        "Destination_ja": "G\u3000\u544a\u6b7b\u7901",
+        "Destination_ko": "G\u3000\uc8fd\uc74c\uc774 \ub0b4\ub9ac\ub294 \uc554\ucd08"
+    },
+    "81": {
+        "0xID": "51",
+        "Destination_cn": "H\u3000\u5996\u6b4c\u6d773",
+        "Destination_de": "Sirenen-See 3 (H)",
+        "Destination_en": "Sirensong Sea 3",
+        "Destination_fr": "Mer du Chant des sir\u00e8nes 3 (H)",
+        "Destination_ja": "H\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7703",
+        "Destination_ko": "H\u3000\uc138\uc774\ub80c \ud574 03"
+    },
+    "82": {
+        "0xID": "52",
+        "Destination_cn": "I\u3000\u82b1\u4e1b\u6f5c\u6d41",
+        "Destination_de": "Haus von Anthemoessa (I)",
+        "Destination_en": "the Anthemoessa Undertow",
+        "Destination_fr": "Courant sous-marin d'Anth\u00e9muse (I)",
+        "Destination_ja": "I\u3000\u30a2\u30f3\u30c6\u30e2\u30a8\u30c3\u30b5\u6d77\u5eca",
+        "Destination_ko": "I\u3000\uc548\ud14c\ubaa8\uc5d0\uc0ac \uc554\ub958"
+    },
+    "83": {
+        "0xID": "53",
+        "Destination_cn": "J\u3000\u5996\u6b4c\u6d774",
+        "Destination_de": "Sirenen-See 4 (J)",
+        "Destination_en": "Sirensong Sea 4",
+        "Destination_fr": "Mer du Chant des sir\u00e8nes 4 (J)",
+        "Destination_ja": "J\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7704",
+        "Destination_ko": "J\u3000\uc138\uc774\ub80c \ud574 04"
+    },
+    "84": {
+        "0xID": "54",
+        "Destination_cn": "K\u3000\u6da1\u7eb9\u6d77\u5ce1",
+        "Destination_de": "Wirbelenge (K)",
+        "Destination_en": "Seafoam Tide",
+        "Destination_fr": "D\u00e9troit aux tourbillons (K)",
+        "Destination_ja": "K\u3000\u6e26\u7d0b\u6d77\u5ce1",
+        "Destination_ko": "K\u3000\uc18c\uc6a9\ub3cc\uc774 \ud574\ud611"
+    },
+    "85": {
+        "0xID": "55",
+        "Destination_cn": "L\u3000\u9e1f\u5634\u6e7e",
+        "Destination_de": "Schnabelbucht (L)",
+        "Destination_en": "the Beak",
+        "Destination_fr": "Baie du Bec (L)",
+        "Destination_ja": "L\u3000\u9ce5\u5634\u6e7e",
+        "Destination_ko": "L\u3000\uc0c8\ubd80\ub9ac \ub9cc"
+    },
+    "86": {
+        "0xID": "56",
+        "Destination_cn": "M\u3000\u6d77\u9b54\u7262\u72f1",
+        "Destination_de": "Kerker des Seeteufels (M)",
+        "Destination_en": "Seafarer's End",
+        "Destination_fr": "Ge\u00f4le du d\u00e9mon des mers (M)",
+        "Destination_ja": "M\u3000\u6d77\u9b54\u306e\u7262\u7344",
+        "Destination_ko": "M\u3000\ubc14\ub2e4\ub9c8\ubb3c \uac10\uc625"
+    },
+    "87": {
+        "0xID": "57",
+        "Destination_cn": "N\u3000\u5e9f\u5f03\u6d41\u653e\u5c9b",
+        "Destination_de": "Atoll des Exils (N)",
+        "Destination_en": "Drifter's Decay",
+        "Destination_fr": "Atoll des exil\u00e9s (N)",
+        "Destination_ja": "N\u3000\u653e\u68c4\u3055\u308c\u305f\u6d41\u5211\u5cf6",
+        "Destination_ko": ""
+    },
+    "88": {
+        "0xID": "58",
+        "Destination_cn": "O\u3000\u5362\u52a0\u7279\u6d77\u6ee9",
+        "Destination_de": "Strand des Lugat (O)",
+        "Destination_en": "Lugat's Landing",
+        "Destination_fr": "Plage de Lugat (O)",
+        "Destination_ja": "O\u3000\u30eb\u30ac\u30c8\u306e\u6d5c",
+        "Destination_ko": ""
+    },
+    "89": {
+        "0xID": "59",
+        "Destination_cn": "P\u3000\u79ef\u51b0\u6cc9",
+        "Destination_de": "Frostbrunn (P)",
+        "Destination_en": "the Frozen Spring",
+        "Destination_fr": "Source givr\u00e9e (P)",
+        "Destination_ja": "P\u3000\u7a4d\u6c37\u6cc9",
+        "Destination_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Destination_cn": "I\u3000\u77f3\u4eba\u5c9b",
+        "Destination_de": "Neolitheninsel (I)",
+        "Destination_en": "Neolith Island",
+        "Destination_fr": "\u00cele des N\u00e9olithes (I)",
+        "Destination_ja": "I\u3000\u77f3\u4eba\u5cf6",
+        "Destination_ko": "I\u3000\uc11d\uc778\ub3c4"
+    },
+    "90": {
+        "0xID": "5A",
+        "Destination_cn": "Q\u3000\u5996\u6b4c\u6d7705",
+        "Destination_de": "Sirenen-See 5 (Q)",
+        "Destination_en": "Sirensong Sea 5",
+        "Destination_fr": "Mer du Chant des sir\u00e8nes 5 (Q)",
+        "Destination_ja": "Q\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7705",
+        "Destination_ko": ""
+    },
+    "91": {
+        "0xID": "5B",
+        "Destination_cn": "R\u3000\u6da1\u7eb9\u5c9b",
+        "Destination_de": "Schneckholm (R)",
+        "Destination_en": "Tidewind Isle",
+        "Destination_fr": "\u00cele du tumulte (R)",
+        "Destination_ja": "R\u3000\u6e26\u7d0b\u5cf6",
+        "Destination_ko": ""
+    },
+    "92": {
+        "0xID": "5C",
+        "Destination_cn": "S\u3000\u8d64\u8840\u6d77\u4e18",
+        "Destination_de": "Blutblase (S)",
+        "Destination_en": "Bloodbreak",
+        "Destination_fr": "Colline de sang pourpre (S)",
+        "Destination_ja": "S\u3000\u8d64\u8840\u6d77\u4e18",
+        "Destination_ko": ""
+    },
+    "93": {
+        "0xID": "5D",
+        "Destination_cn": "T\u3000\u6d77\u6676\u6cc9",
+        "Destination_de": "Kristallquell (T)",
+        "Destination_en": "the Crystal Font",
+        "Destination_fr": "Source cristalline (T)",
+        "Destination_ja": "T\u3000\u6d77\u6676\u6cc9",
+        "Destination_ko": ""
+    },
+    "94": {
+        "0xID": "5E",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "95": {
+        "0xID": "5F",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "96": {
+        "0xID": "60",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "97": {
+        "0xID": "61",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "98": {
+        "0xID": "62",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    },
+    "99": {
+        "0xID": "63",
+        "Destination_cn": "",
+        "Destination_de": "",
+        "Destination_en": "",
+        "Destination_fr": "",
+        "Destination_ja": "",
+        "Destination_ko": ""
+    }
+}

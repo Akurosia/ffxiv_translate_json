@@ -1,0 +1,668 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u529b\u91cf",
+        "Name_de": "St\u00e4rke",
+        "Name_en": "Strength",
+        "Name_fr": "Force",
+        "Name_ja": "STR",
+        "Name_ko": "\ud798"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u91c7\u96c6\u529b",
+        "Name_de": "SP",
+        "Name_en": "GP",
+        "Name_fr": "PR",
+        "Name_ja": "GP",
+        "Name_ko": "GP"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u5236\u4f5c\u529b",
+        "Name_de": "HP",
+        "Name_en": "CP",
+        "Name_fr": "PS",
+        "Name_ja": "CP",
+        "Name_ko": "CP"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u7269\u7406\u57fa\u672c\u6027\u80fd",
+        "Name_de": "Phys. Basiswert",
+        "Name_en": "Physical Damage",
+        "Name_fr": "D\u00e9g\u00e2ts physiques",
+        "Name_ja": "\u7269\u7406\u57fa\u672c\u6027\u80fd",
+        "Name_ko": "\ubb3c\ub9ac \uae30\ubcf8 \uc131\ub2a5"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u9b54\u6cd5\u57fa\u672c\u6027\u80fd",
+        "Name_de": "Mag. Basiswert",
+        "Name_en": "Magic Damage",
+        "Name_fr": "D\u00e9g\u00e2ts magiques",
+        "Name_ja": "\u9b54\u6cd5\u57fa\u672c\u6027\u80fd",
+        "Name_ko": "\ub9c8\ubc95 \uae30\ubcf8 \uc131\ub2a5"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u653b\u51fb\u95f4\u9694",
+        "Name_de": "Verz\u00f6gerung",
+        "Name_en": "Delay",
+        "Name_fr": "D\u00e9lai",
+        "Name_ja": "\u653b\u6483\u9593\u9694",
+        "Name_ko": "\uacf5\uaca9 \uc8fc\uae30"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u9644\u52a0\u6548\u679c",
+        "Name_de": "Zusatzeffekt: ",
+        "Name_en": "Additional Effect: ",
+        "Name_fr": "Effet suppl\u00e9mentaire : ",
+        "Name_ja": "\u8ffd\u52a0\u52b9\u679c",
+        "Name_ko": "\ucd94\uac00 \ud6a8\uacfc"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u653b\u51fb\u6b21\u6570",
+        "Name_de": "Anzahl der Attacken: ",
+        "Name_en": "Attack Speed",
+        "Name_fr": "Nombre d'attaques",
+        "Name_ja": "\u653b\u6483\u56de\u6570",
+        "Name_ko": "\uacf5\uaca9 \ud69f\uc218"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u683c\u6321\u53d1\u52a8\u529b",
+        "Name_de": "Blockrate",
+        "Name_en": "Block Rate",
+        "Name_fr": "Taux de blocage",
+        "Name_ja": "\u30d6\u30ed\u30c3\u30af\u767a\u52d5\u529b",
+        "Name_ko": "\ubc29\ud328 \ub9c9\uae30 \ubc1c\ub3d9\ub825"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u683c\u6321\u6027\u80fd",
+        "Name_de": "Blockeffekt",
+        "Name_en": "Block Strength",
+        "Name_fr": "Blocage",
+        "Name_ja": "\u30d6\u30ed\u30c3\u30af\u6027\u80fd",
+        "Name_ko": "\ubc29\ud328 \ub9c9\uae30 \uc131\ub2a5"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u575a\u97e7",
+        "Name_de": "Unbeugsamkeit",
+        "Name_en": "Tenacity",
+        "Name_fr": "T\u00e9nacit\u00e9",
+        "Name_ja": "\u4e0d\u5c48",
+        "Name_ko": "\ubd88\uad74"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u7075\u5de7",
+        "Name_de": "Geschick",
+        "Name_en": "Dexterity",
+        "Name_fr": "Dext\u00e9rit\u00e9",
+        "Name_ja": "DEX",
+        "Name_ko": "\ubbfc\ucca9\uc131"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u7269\u7406\u653b\u51fb\u529b",
+        "Name_de": "Attacke",
+        "Name_en": "Attack Power",
+        "Name_fr": "Attaque",
+        "Name_ja": "\u7269\u7406\u653b\u6483\u529b",
+        "Name_ko": "\ubb3c\ub9ac \uacf5\uaca9\ub825"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u7269\u7406\u9632\u5fa1\u529b",
+        "Name_de": "Verteidigung",
+        "Name_en": "Defense",
+        "Name_fr": "D\u00e9fense",
+        "Name_ja": "\u7269\u7406\u9632\u5fa1\u529b",
+        "Name_ko": "\ubb3c\ub9ac \ubc29\uc5b4\ub825"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u76f4\u51fb",
+        "Name_de": "Direkter Treffer",
+        "Name_en": "Direct Hit Rate",
+        "Name_fr": "Coups nets",
+        "Name_ja": "\u30c0\u30a4\u30ec\u30af\u30c8\u30d2\u30c3\u30c8",
+        "Name_ko": "\uc9c1\uaca9"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u56de\u907f\u529b",
+        "Name_de": "Ausweichen",
+        "Name_en": "Evasion",
+        "Name_fr": "Esquive",
+        "Name_ja": "\u56de\u907f\u529b",
+        "Name_ko": "\ud68c\ud53c\ub825"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u9b54\u6cd5\u9632\u5fa1\u529b",
+        "Name_de": "Magieabwehr",
+        "Name_en": "Magic Defense",
+        "Name_fr": "D\u00e9fense magique",
+        "Name_ja": "\u9b54\u6cd5\u9632\u5fa1\u529b",
+        "Name_ko": "\ub9c8\ubc95 \ubc29\uc5b4\ub825"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u66b4\u51fb\u653b\u51fb\u529b",
+        "Name_de": "Kritischer Attackewert",
+        "Name_en": "Critical Hit Power",
+        "Name_fr": "Attaque critique",
+        "Name_ja": "\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u653b\u6483\u529b",
+        "Name_ko": "\uadf9\ub300\ud654 \uacf5\uaca9\ub825"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u66b4\u51fb\u9632\u5fa1\u529b",
+        "Name_de": "Abwehr kritischer Treffer",
+        "Name_en": "Critical Hit Resilience",
+        "Name_fr": "R\u00e9silience",
+        "Name_ja": "\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u9632\u5fa1\u529b",
+        "Name_ko": "\uadf9\ub300\ud654 \ubc29\uc5b4\ub825"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u66b4\u51fb",
+        "Name_de": "Kritischer Treffer",
+        "Name_en": "Critical Hit",
+        "Name_fr": "Critique",
+        "Name_ja": "\u30af\u30ea\u30c6\u30a3\u30ab\u30eb",
+        "Name_ko": "\uadf9\ub300\ud654"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u66b4\u51fb\u56de\u907f\u529b",
+        "Name_de": "Kritisches Ausweichen",
+        "Name_en": "Critical Hit Evasion",
+        "Name_fr": "Esquive critique",
+        "Name_ja": "\u30af\u30ea\u30c6\u30a3\u30ab\u30eb\u56de\u907f\u529b",
+        "Name_ko": "\uadf9\ub300\ud654 \ud68c\ud53c\ub825"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u65a9\u51fb\u8010\u6027",
+        "Name_de": "Hiebresistenz",
+        "Name_en": "Slashing Resistance",
+        "Name_fr": "R\u00e9sistance au tranchant",
+        "Name_ja": "\u65ac\u8010\u6027",
+        "Name_ko": "\ubca0\uae30 \uc800\ud56d"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u8010\u529b",
+        "Name_de": "Konstitution",
+        "Name_en": "Vitality",
+        "Name_fr": "Vitalit\u00e9",
+        "Name_ja": "VIT",
+        "Name_ko": "\ud65c\ub825"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u7a81\u523a\u8010\u6027",
+        "Name_de": "Stichresistenz",
+        "Name_en": "Piercing Resistance",
+        "Name_fr": "R\u00e9sistance au perforant",
+        "Name_ja": "\u7a81\u8010\u6027",
+        "Name_ko": "\ucc0c\ub974\uae30 \uc800\ud56d"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u6253\u51fb\u8010\u6027",
+        "Name_de": "Schlagresistenz",
+        "Name_en": "Blunt Resistance",
+        "Name_fr": "R\u00e9sistance au contondant",
+        "Name_ja": "\u6253\u8010\u6027",
+        "Name_ko": "\ud0c0\uaca9 \uc800\ud56d"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u5c04\u51fb\u8010\u6027",
+        "Name_de": "Projektilresistenz",
+        "Name_en": "Projectile Resistance",
+        "Name_fr": "R\u00e9sistance aux projectiles",
+        "Name_ja": "\u5c04\u8010\u6027",
+        "Name_ko": "\uc0ac\uaca9 \uc800\ud56d"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u653b\u51fb\u9b54\u6cd5\u5a01\u529b",
+        "Name_de": "Offensivmagie",
+        "Name_en": "Attack Magic Potency",
+        "Name_fr": "Magie offensive",
+        "Name_ja": "\u653b\u6483\u9b54\u6cd5\u5a01\u529b",
+        "Name_ko": "\uacf5\uaca9\ub9c8\ubc95 \uc704\ub825"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u6cbb\u7597\u9b54\u6cd5\u5a01\u529b",
+        "Name_de": "Heilmagie",
+        "Name_en": "Healing Magic Potency",
+        "Name_fr": "Magie curative",
+        "Name_ja": "\u56de\u5fa9\u9b54\u6cd5\u5a01\u529b",
+        "Name_ko": "\ud68c\ubcf5\ub9c8\ubc95 \uc704\ub825"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u5f3a\u5316\u9b54\u6cd5\u5a01\u529b",
+        "Name_de": "St\u00e4rkungsmagie",
+        "Name_en": "Enhancement Magic Potency",
+        "Name_fr": "Magie fortifiante",
+        "Name_ja": "\u5f37\u5316\u9b54\u6cd5\u5a01\u529b",
+        "Name_ko": "\uac15\ud654\ub9c8\ubc95 \uc704\ub825"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u5143\u7d20\u52a0\u6301",
+        "Name_de": "Elementarbonus",
+        "Name_en": "Elemental Bonus",
+        "Name_fr": "Bonus \u00e9l\u00e9mentaire",
+        "Name_ja": "\u30a8\u30ec\u30e1\u30f3\u30bf\u30eb\u88dc\u6b63",
+        "Name_ko": "\uc18d\uc131\uce58"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u706b",
+        "Name_de": "Feuerresistenz",
+        "Name_en": "Fire Resistance",
+        "Name_fr": "R\u00e9sistance au feu",
+        "Name_ja": "\u706b",
+        "Name_ko": "\ubd88"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u51b0",
+        "Name_de": "Eisresistenz",
+        "Name_en": "Ice Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 la glace",
+        "Name_ja": "\u6c37",
+        "Name_ko": "\uc5bc\uc74c"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "\u98ce",
+        "Name_de": "Windresistenz",
+        "Name_en": "Wind Resistance",
+        "Name_fr": "R\u00e9sistance au vent",
+        "Name_ja": "\u98a8",
+        "Name_ko": "\ubc14\ub78c"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u667a\u529b",
+        "Name_de": "Intelligenz",
+        "Name_en": "Intelligence",
+        "Name_fr": "Intelligence",
+        "Name_ja": "INT",
+        "Name_ko": "\uc9c0\ub2a5"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u571f",
+        "Name_de": "Erdresistenz",
+        "Name_en": "Earth Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 la terre",
+        "Name_ja": "\u571f",
+        "Name_ko": "\ub545"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u96f7",
+        "Name_de": "Blitzresistenz",
+        "Name_en": "Lightning Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 la foudre",
+        "Name_ja": "\u96f7",
+        "Name_ko": "\ubc88\uac1c"
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "\u6c34",
+        "Name_de": "Wasserresistenz",
+        "Name_en": "Water Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 l'eau",
+        "Name_ja": "\u6c34",
+        "Name_ko": "\ubb3c"
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "\u5168\u9b54\u6cd5\u8010\u6027",
+        "Name_de": "Magieresistenz",
+        "Name_en": "Magic Resistance",
+        "Name_fr": "R\u00e9sistance magique",
+        "Name_ja": "\u5168\u9b54\u6cd5\u8010\u6027",
+        "Name_ko": "\ubaa8\ub4e0 \ub9c8\ubc95 \uc800\ud56d"
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "\u4fe1\u5ff5",
+        "Name_de": "Entschlossenheit",
+        "Name_en": "Determination",
+        "Name_fr": "D\u00e9termination",
+        "Name_ja": "\u610f\u601d\u529b",
+        "Name_ko": "\uc758\uc9c0\ub825"
+    },
+    "45": {
+        "0xID": "2D",
+        "Name_cn": "\u6280\u80fd\u901f\u5ea6",
+        "Name_de": "Schnelligkeit",
+        "Name_en": "Skill Speed",
+        "Name_fr": "Vivacit\u00e9",
+        "Name_ja": "\u30b9\u30ad\u30eb\u30b9\u30d4\u30fc\u30c9",
+        "Name_ko": "\uae30\uc220 \uc2dc\uc804 \uc18d\ub3c4"
+    },
+    "46": {
+        "0xID": "2E",
+        "Name_cn": "\u548f\u5531\u901f\u5ea6",
+        "Name_de": "Zaubertempo",
+        "Name_en": "Spell Speed",
+        "Name_fr": "C\u00e9l\u00e9rit\u00e9",
+        "Name_ja": "\u30b9\u30da\u30eb\u30b9\u30d4\u30fc\u30c9",
+        "Name_ko": "\ub9c8\ubc95 \uc2dc\uc804 \uc18d\ub3c4"
+    },
+    "47": {
+        "0xID": "2F",
+        "Name_cn": "\u52a0\u901f",
+        "Name_de": "Hast",
+        "Name_en": "Haste",
+        "Name_fr": "H\u00e2te",
+        "Name_ja": "\u30d8\u30a4\u30b9\u30c8",
+        "Name_ko": "\ud5e4\uc774\uc2a4\ud2b8"
+    },
+    "48": {
+        "0xID": "30",
+        "Name_cn": "\u6597\u5fd7",
+        "Name_de": "Moral",
+        "Name_en": "Morale",
+        "Name_fr": "Moral",
+        "Name_ja": "\u30e2\u30e9\u30eb",
+        "Name_ko": "\ud22c\uc7c1\uc2ec"
+    },
+    "49": {
+        "0xID": "31",
+        "Name_cn": "\u4ec7\u6068",
+        "Name_de": "Feindseligkeit",
+        "Name_en": "Enmity",
+        "Name_fr": "Inimiti\u00e9",
+        "Name_ja": "\u6575\u8996",
+        "Name_ko": "\uc801\uac1c\uc2ec"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u7cbe\u795e",
+        "Name_de": "Willenskraft",
+        "Name_en": "Mind",
+        "Name_fr": "Esprit",
+        "Name_ja": "MND",
+        "Name_ko": "\uc815\uc2e0\ub825"
+    },
+    "50": {
+        "0xID": "32",
+        "Name_cn": "\u964d\u4f4e\u4ec7\u6068",
+        "Name_de": "Feindseligkeitsreduktion",
+        "Name_en": "Enmity Reduction",
+        "Name_fr": "R\u00e9duction d'inimiti\u00e9",
+        "Name_ja": "\u6575\u8996-",
+        "Name_ko": "\uc801\uac1c\uc2ec-"
+    },
+    "51": {
+        "0xID": "33",
+        "Name_cn": "\u5206\u89e3\u6280\u80fd\u63d0\u5347\u7387",
+        "Name_de": "Verbessertes Verwertungsgeschick",
+        "Name_en": "Desynthesis Skill Gain",
+        "Name_fr": "Augmentation de la comp\u00e9tence de recyclage",
+        "Name_ja": "\u5206\u89e3\u30b9\u30ad\u30eb\u4e0a\u6607\u7387",
+        "Name_ko": "\ubd84\ud574 \uc219\ub828\ub3c4 \uc0c1\uc2b9\ub960"
+    },
+    "52": {
+        "0xID": "34",
+        "Name_cn": "\u7ecf\u9a8c\u503c\u83b7\u5f97\u91cf",
+        "Name_de": "Routinebonus",
+        "Name_en": "EXP Bonus",
+        "Name_fr": "Points d'exp\u00e9rience gagn\u00e9s",
+        "Name_ja": "\u7d4c\u9a13\u5024\u7372\u5f97\u91cf",
+        "Name_ko": "\uacbd\ud5d8\uce58 \ud68d\ub4dd\ub7c9"
+    },
+    "53": {
+        "0xID": "35",
+        "Name_cn": "\u751f\u547d\u518d\u751f",
+        "Name_de": "Regena",
+        "Name_en": "Regen",
+        "Name_fr": "R\u00e9cup",
+        "Name_ja": "\u30ea\u30b8\u30a7\u30cd",
+        "Name_ko": "\ub9ac\uc81c\ub124"
+    },
+    "54": {
+        "0xID": "36",
+        "Name_cn": "\u9b54\u529b\u518d\u751f",
+        "Name_de": "Erfrischen",
+        "Name_en": "Refresh",
+        "Name_fr": "Recharge",
+        "Name_ja": "\u30ea\u30d5\u30ec\u30b7\u30e5",
+        "Name_ko": "\ub9ac\ud504\ub808\uc2dc"
+    },
+    "55": {
+        "0xID": "37",
+        "Name_cn": "\u4e3b\u72b6\u6001\u4fee\u6b63",
+        "Name_de": "Hauptattribut",
+        "Name_en": "Main Attribute",
+        "Name_fr": "Bonus de base",
+        "Name_ja": "\u4e3b\u80fd\u529b\u88dc\u6b63",
+        "Name_ko": "\uc8fc \ub2a5\ub825\uce58"
+    },
+    "56": {
+        "0xID": "38",
+        "Name_cn": "\u526f\u72b6\u6001\u4fee\u6b63",
+        "Name_de": "Zweitattribut",
+        "Name_en": "Secondary Attribute",
+        "Name_fr": "Bonus additionnels",
+        "Name_ja": "\u526f\u80fd\u529b\u88dc\u6b63",
+        "Name_ko": "\ubcf4\uc870 \ub2a5\ub825\uce58"
+    },
+    "57": {
+        "0xID": "39",
+        "Name_cn": "\u51cf\u901f\u8010\u6027",
+        "Name_de": "Gemach-Resistenz",
+        "Name_en": "Slow Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 Lenteur",
+        "Name_ja": "\u30b9\u30ed\u30a6\u8010\u6027",
+        "Name_ko": "\ub454\ud654 \uc800\ud56d"
+    },
+    "58": {
+        "0xID": "3A",
+        "Name_cn": "\u77f3\u5316\u8010\u6027",
+        "Name_de": "Stein-Resistenz",
+        "Name_en": "Petrification Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 P\u00e9trification",
+        "Name_ja": "\u77f3\u5316\u8010\u6027",
+        "Name_ko": "\uc11d\ud654 \uc800\ud56d"
+    },
+    "59": {
+        "0xID": "3B",
+        "Name_cn": "\u9ebb\u75f9\u8010\u6027",
+        "Name_de": "Paralyse-Resistenz",
+        "Name_en": "Paralysis Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 Paralysie",
+        "Name_ja": "\u9ebb\u75fa\u8010\u6027",
+        "Name_ko": "\ub9c8\ube44 \uc800\ud56d"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u4fe1\u4ef0",
+        "Name_de": "Fr\u00f6mmigkeit",
+        "Name_en": "Piety",
+        "Name_fr": "Pi\u00e9t\u00e9",
+        "Name_ja": "\u4fe1\u4ef0",
+        "Name_ko": "\uc2e0\uc559"
+    },
+    "60": {
+        "0xID": "3C",
+        "Name_cn": "\u9759\u5bc2\u8010\u6027",
+        "Name_de": "Schweigen-Resistenz",
+        "Name_en": "Silence Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 Silence",
+        "Name_ja": "\u6c88\u9ed9\u8010\u6027",
+        "Name_ko": "\uce68\ubb35 \uc800\ud56d"
+    },
+    "61": {
+        "0xID": "3D",
+        "Name_cn": "\u5931\u660e\u8010\u6027",
+        "Name_de": "Blind-Resistenz",
+        "Name_en": "Blind Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 C\u00e9cit\u00e9",
+        "Name_ja": "\u6697\u95c7\u8010\u6027",
+        "Name_ko": "\uc2e4\uba85 \uc800\ud56d"
+    },
+    "62": {
+        "0xID": "3E",
+        "Name_cn": "\u4e2d\u6bd2\u8010\u6027",
+        "Name_de": "Gift-Resistenz",
+        "Name_en": "Poison Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 Poison",
+        "Name_ja": "\u6bd2\u8010\u6027",
+        "Name_ko": "\ub3c5 \uc800\ud56d"
+    },
+    "63": {
+        "0xID": "3F",
+        "Name_cn": "\u7729\u6655\u8010\u6027",
+        "Name_de": "Bet\u00e4ubungs-Resistenz",
+        "Name_en": "Stun Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 \u00c9tourdissement",
+        "Name_ja": "\u30b9\u30bf\u30f3\u8010\u6027",
+        "Name_ko": "\uae30\uc808 \uc800\ud56d"
+    },
+    "64": {
+        "0xID": "40",
+        "Name_cn": "\u7761\u7720\u8010\u6027",
+        "Name_de": "Schlaf-Resistenz",
+        "Name_en": "Sleep Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 Sommeil",
+        "Name_ja": "\u7761\u7720\u8010\u6027",
+        "Name_ko": "\uc218\uba74 \uc800\ud56d"
+    },
+    "65": {
+        "0xID": "41",
+        "Name_cn": "\u6b62\u6b65\u8010\u6027",
+        "Name_de": "Fessel-Resistenz",
+        "Name_en": "Bind Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 Entrave",
+        "Name_ja": "\u30d0\u30a4\u30f3\u30c9\u8010\u6027",
+        "Name_ko": "\uc18d\ubc15 \uc800\ud56d"
+    },
+    "66": {
+        "0xID": "42",
+        "Name_cn": "\u52a0\u91cd\u8010\u6027",
+        "Name_de": "Gewicht-Resistenz",
+        "Name_en": "Heavy Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 Pesanteur",
+        "Name_ja": "\u30d8\u30f4\u30a3\u8010\u6027",
+        "Name_ko": "\uacfc\uc911\ub825 \uc800\ud56d"
+    },
+    "67": {
+        "0xID": "43",
+        "Name_cn": "\u6b7b\u4ea1\u5ba3\u544a\u8010\u6027",
+        "Name_de": "Verh\u00e4ngnis-Resistenz",
+        "Name_en": "Doom Resistance",
+        "Name_fr": "R\u00e9sistance \u00e0 Glas",
+        "Name_ja": "\u6b7b\u306e\u5ba3\u544a\u8010\u6027",
+        "Name_ko": "\uc8fd\uc74c\uc758 \uc120\uace0 \uc800\ud56d"
+    },
+    "68": {
+        "0xID": "44",
+        "Name_cn": "\u88c5\u5907\u635f\u8017\u8010\u6027",
+        "Name_de": "Verschlei\u00dfminderung",
+        "Name_en": "Reduced Durability Loss",
+        "Name_fr": "R\u00e9sistance \u00e0 l'usure",
+        "Name_ja": "\u88c5\u5099\u6d88\u8017\u8010\u6027",
+        "Name_ko": "\uc7a5\ube44 \uc18c\ubaa8 \uc800\ud56d"
+    },
+    "69": {
+        "0xID": "45",
+        "Name_cn": "\u7cbe\u70bc\u5ea6\u63d0\u5347\u91cf",
+        "Name_de": "Erh\u00f6hte Bindung",
+        "Name_en": "Increased Spiritbond Gain",
+        "Name_fr": "Gain accru de symbiose",
+        "Name_ja": "\u932c\u7cbe\u5ea6\u4e0a\u6607\u91cf",
+        "Name_ko": "\uacb0\uc18d\ub3c4 \uc99d\uac00\ub7c9"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u4f53\u529b",
+        "Name_de": "LP",
+        "Name_en": "HP",
+        "Name_fr": "PV",
+        "Name_ja": "HP",
+        "Name_ko": "HP"
+    },
+    "70": {
+        "0xID": "46",
+        "Name_cn": "\u4f5c\u4e1a\u7cbe\u5ea6",
+        "Name_de": "Kunstfertigkeit",
+        "Name_en": "Craftsmanship",
+        "Name_fr": "Habilet\u00e9",
+        "Name_ja": "\u4f5c\u696d\u7cbe\u5ea6",
+        "Name_ko": "\uc791\uc5c5 \uc219\ub828\ub3c4"
+    },
+    "71": {
+        "0xID": "47",
+        "Name_cn": "\u52a0\u5de5\u7cbe\u5ea6",
+        "Name_de": "Kontrolle",
+        "Name_en": "Control",
+        "Name_fr": "Contr\u00f4le",
+        "Name_ja": "\u52a0\u5de5\u7cbe\u5ea6",
+        "Name_ko": "\uac00\uacf5 \uc219\ub828\ub3c4"
+    },
+    "72": {
+        "0xID": "48",
+        "Name_cn": "\u83b7\u5f97\u529b",
+        "Name_de": "Sammelgeschick",
+        "Name_en": "Gathering",
+        "Name_fr": "Collecte",
+        "Name_ja": "\u7372\u5f97\u529b",
+        "Name_ko": "\ud68d\ub4dd\ub825"
+    },
+    "73": {
+        "0xID": "49",
+        "Name_cn": "\u9274\u522b\u529b",
+        "Name_de": "Expertise",
+        "Name_en": "Perception",
+        "Name_fr": "Savoir-faire",
+        "Name_ja": "\u6280\u8853\u529b",
+        "Name_ko": "\uae30\uc220\ub825"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u9b54\u529b",
+        "Name_de": "MP",
+        "Name_en": "MP",
+        "Name_fr": "PM",
+        "Name_ja": "MP",
+        "Name_ko": "MP"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u6280\u529b",
+        "Name_de": "TP",
+        "Name_en": "TP",
+        "Name_fr": "PT",
+        "Name_ja": "TP",
+        "Name_ko": "TP"
+    }
+}

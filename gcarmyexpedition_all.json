@@ -1,0 +1,317 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u5de1\u903b\u57ce\u5185",
+        "Name_de": "Patrouille des Stadtgebiets",
+        "Name_en": "City Patrol",
+        "Name_fr": "Patrouille urbaine",
+        "Name_ja": "\u90fd\u5e02\u5185\u306e\u5de1\u5bdf",
+        "Name_ko": "\ub3c4\uc2dc \ub0b4 \uc21c\ucc30"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u5de1\u903b\u90ca\u5916\u9053\u8def",
+        "Name_de": "Sicherung der Handelsstra\u00dfen",
+        "Name_en": "Border Patrol",
+        "Name_fr": "Patrouille des routes \u00e9loign\u00e9es",
+        "Name_ja": "\u90ca\u5916\u306e\u8857\u9053\u5de1\u56de",
+        "Name_ko": "\ub3c4\uc2dc \uc678\uacfd \ub3c4\ub85c \uc21c\ucc30"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u4fa6\u5bdf\u86ee\u65cf\u636e\u70b9",
+        "Name_de": "St\u00f6raktion in einem feindlichen Lager",
+        "Name_en": "Stronghold Recon",
+        "Name_fr": "Espionnage de base homme-b\u00eate",
+        "Name_ja": "\u86ee\u65cf\u62e0\u70b9\u306e\u5a01\u529b\u5075\u5bdf",
+        "Name_ko": "\uc57c\ub9cc\uc871 \uac70\uc810 \uc704\ub825 \uc815\ucc30"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u641c\u7d22\u5931\u8e2a\u4eba\u5458",
+        "Name_de": "Rettung einer verb\u00fcndeten Einheit",
+        "Name_en": "Search and Rescue",
+        "Name_fr": "Recherche de port\u00e9s disparus",
+        "Name_ja": "\u884c\u65b9\u4e0d\u660e\u8005\u306e\u635c\u7d22",
+        "Name_ko": "\uc2e4\uc885\uc790 \uc218\uc0c9"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u4e0e\u540c\u76df\u519b\u7684\u8054\u5408\u6f14\u4e60",
+        "Name_de": "Gemeinsame Man\u00f6ver\u00fcbung",
+        "Name_en": "Allied Maneuvers",
+        "Name_fr": "Man\u0153uvre g\u00e9n\u00e9rale de l'Alliance",
+        "Name_ja": "\u540c\u76df\u8ecd\u3068\u306e\u5408\u540c\u6f14\u7fd2",
+        "Name_ko": "\ub3d9\ub9f9\uad70 \ud569\ub3d9 \ud6c8\ub828"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u91cd\u8981\u4efb\u52a1\uff1a\u593a\u53d6\u6c34\u6676",
+        "Name_de": "\u2605 Sicherstellung von Kristallvorr\u00e4ten",
+        "Name_en": "Flagged Mission: Crystal Recovery",
+        "Name_fr": "Subtilisation de cristaux (important)",
+        "Name_ja": "\u91cd\u8981\u4efb\u52d9\uff1a\u30af\u30ea\u30b9\u30bf\u30eb\u596a\u53d6\u4f5c\u6226",
+        "Name_ko": "\uc911\uc694 \uc784\ubb34: \ud06c\ub9ac\uc2a4\ud0c8 \ud0c8\ud658 \uc791\uc804"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u91cd\u8981\u4efb\u52a1\uff1a\u593a\u53d6\u6c34\u6676",
+        "Name_de": "\u2605 Sicherstellung von Kristallvorr\u00e4ten",
+        "Name_en": "Flagged Mission: Crystal Recovery",
+        "Name_fr": "Subtilisation de cristaux (important)",
+        "Name_ja": "\u91cd\u8981\u4efb\u52d9\uff1a\u30af\u30ea\u30b9\u30bf\u30eb\u596a\u53d6\u4f5c\u6226",
+        "Name_ko": "\uc911\uc694 \uc784\ubb34: \ud06c\ub9ac\uc2a4\ud0c8 \ud0c8\ud658 \uc791\uc804"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u5f3a\u88ad\u86ee\u65cf\u636e\u70b9",
+        "Name_de": "Festnahme eines Kommandanten",
+        "Name_en": "Stronghold Assault",
+        "Name_fr": "Offensive sur base homme-b\u00eate",
+        "Name_ja": "\u86ee\u65cf\u62e0\u70b9\u306e\u5f37\u8972",
+        "Name_ko": "\uc57c\ub9cc\uc871 \uac70\uc810 \uc2b5\uaca9"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u53d6\u7f14\u8fdd\u6cd5\u6b66\u5668\u4ea4\u6613",
+        "Name_de": "Festnahme eines Waffenh\u00e4ndlers",
+        "Name_en": "Black Market Crackdown",
+        "Name_fr": "Saisie d'armes ill\u00e9gales",
+        "Name_ja": "\u9055\u6cd5\u6b66\u5668\u58f2\u8cb7\u306e\u6458\u767a",
+        "Name_ko": "\ubd88\ubc95 \ubb34\uae30 \uac70\ub798 \uc801\ubc1c"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u4fa6\u5bdf\u5e1d\u56fd\u519b\u636e\u70b9",
+        "Name_de": "Bespitzelung eines Castrums",
+        "Name_en": "Imperial Recon",
+        "Name_fr": "Reconnaissance de base imp\u00e9riale",
+        "Name_ja": "\u5e1d\u56fd\u8ecd\u62e0\u70b9\u306e\u5f37\u884c\u5075\u5bdf",
+        "Name_ko": "\uc81c\uad6d\uad70 \uac70\uc810 \uac15\ud589 \uc815\ucc30"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u8ffd\u8e2a\u5e1d\u56fd\u519b\u9003\u5175",
+        "Name_de": "Festnahme garleischer Deserteure",
+        "Name_en": "Imperial Pursuit",
+        "Name_fr": "Traque de fugitifs imp\u00e9riaux",
+        "Name_ja": "\u5e1d\u56fd\u8ecd\u8131\u8d70\u5175\u306e\u8ffd\u8de1",
+        "Name_ko": "\uc81c\uad6d\uad70 \ud0c8\uc601\ubcd1 \ucd94\uc801"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u5411\u9644\u8fd1\u636e\u70b9\u4f20\u4ee4",
+        "Name_de": "Lieferung an einen Au\u00dfenposten",
+        "Name_en": "Military Courier",
+        "Name_fr": "Liaison vers poste avanc\u00e9",
+        "Name_ja": "\u8fd1\u96a3\u62e0\u70b9\u3078\u306e\u4f1d\u4ee4",
+        "Name_ko": "\uc778\uadfc \uac70\uc810\uc5d0 \uba85\ub839 \uc804\ub2ec"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u53d1\u52a8\u5bf9\u5e1d\u56fd\u519b\u7684\u7275\u5236\u653b\u51fb",
+        "Name_de": "Scharm\u00fctzel mit den Garlear",
+        "Name_en": "Imperial Feint",
+        "Name_fr": "Attaque de diversion d'unit\u00e9 imp\u00e9riale",
+        "Name_ja": "\u5e1d\u56fd\u8ecd\u90e8\u968a\u3078\u306e\u727d\u5236\u653b\u6483",
+        "Name_ko": "\uc81c\uad6d\uad70 \ubd80\ub300 \uacac\uc81c \uacf5\uaca9"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u5207\u65ad\u86ee\u65cf\u8865\u7ed9\u7ebf\u4f5c\u6218",
+        "Name_de": "St\u00f6rung der Versorgungslinien",
+        "Name_en": "Supply Line Disruption",
+        "Name_fr": "Blocus de ravitaillement homme-b\u00eate",
+        "Name_ja": "\u86ee\u65cf\u88dc\u7d66\u7dda\u306e\u5206\u65ad\u4f5c\u6226",
+        "Name_ko": "\uc57c\ub9cc\uc871 \ubcf4\uae09\ub85c \ucc28\ub2e8 \uc791\uc804"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u8ffd\u8e2a\u901a\u7f09\u72af",
+        "Name_de": "Festnahme einer Verbrecherin",
+        "Name_en": "Criminal Pursuit",
+        "Name_fr": "Traque de criminel recherch\u00e9",
+        "Name_ja": "\u6307\u540d\u624b\u914d\u72af\u306e\u8ffd\u8de1",
+        "Name_ko": "\uc9c0\uba85\uc218\ubc30\ubc94 \ucd94\uc801"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u6b7c\u706d\u5e1d\u56fd\u519b\u8865\u7ed9\u90e8\u961f",
+        "Name_de": "\u00dcberfall auf eine garleische Einheit",
+        "Name_en": "Supply Wagon Destruction",
+        "Name_fr": "Destruction de ravitaillement imp\u00e9rial",
+        "Name_ja": "\u5e1d\u56fd\u8ecd\u88dc\u7d66\u90e8\u968a\u306e\u6483\u6ec5",
+        "Name_ko": "\uc81c\uad6d\uad70 \ubcf4\uae09\ubd80\ub300 \uc12c\uba78"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u6d88\u706d\u5408\u6210\u751f\u7269",
+        "Name_de": "Beseitigung einer Chim\u00e4re",
+        "Name_en": "Chimerical Elimination",
+        "Name_fr": "\u00c9limination de cr\u00e9ature chim\u00e9rique",
+        "Name_ja": "\u30ad\u30e1\u30e9\u751f\u7269\u306e\u6392\u9664",
+        "Name_ko": "\ud0a4\uba54\ub77c \uc0dd\ubb3c \uc81c\uac70"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u4e0e\u62c2\u6653\u7684\u5171\u540c\u4f5c\u6218",
+        "Name_de": "\u00dcberfall auf die Wilden",
+        "Name_en": "Primal Recon",
+        "Name_fr": "Reconnaissance avec les H\u00e9ritiers",
+        "Name_ja": "\u6681\u3068\u306e\u5171\u540c\u4f5c\u6226",
+        "Name_ko": "\uc0c8\ubcbd\uc758 \ud608\ub9f9 \uacf5\ub3d9 \uc791\uc804"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u5f00\u53d1\u53cd\u9b54\u5bfc\u5175\u5668\u6218\u672f",
+        "Name_de": "Garleische Waffen\u00fcbung",
+        "Name_en": "Counter-magitek Exercises",
+        "Name_fr": "Man\u0153uvre anti-arme magitek",
+        "Name_ja": "\u5bfe\u9b54\u5c0e\u5175\u5668\u6226\u8853\u306e\u958b\u62d3",
+        "Name_ko": "\ub9c8\ub3c4 \ubcd1\uae30 \ub300\uc751 \uc804\uc220 \uace0\uc548"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u5e02\u6c11\u6551\u51fa\u4f5c\u6218",
+        "Name_de": "Befreiung der entf\u00fchrten B\u00fcrger",
+        "Name_en": "Infiltrate and Rescue",
+        "Name_fr": "Op\u00e9ration de lib\u00e9ration d'otages civils",
+        "Name_ja": "\u4eba\u8cea\u306e\u6551\u51fa\u4f5c\u6226",
+        "Name_ko": "\uc778\uc9c8 \uad6c\ucd9c \uc791\uc804"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u6d88\u706d\u6b66\u88c5\u96c6\u56e2",
+        "Name_de": "Eliminierung der Waffendiebe",
+        "Name_en": "Outlaw Subjugation",
+        "Name_fr": "Neutralisation de faction hors-la-loi",
+        "Name_ja": "\u6b66\u88c5\u96c6\u56e3\u306e\u6483\u6ec5",
+        "Name_ko": "\ubb34\uc7a5 \uc9d1\ub2e8 \uc12c\uba78"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u53d6\u7f14\u8fdd\u6cd5\u90aa\u6559\u6559\u56e2",
+        "Name_de": "Vertreibung der Kultisten",
+        "Name_en": "Cult Crackdown",
+        "Name_fr": "Arrestation de Survivalistes",
+        "Name_ja": "\u9055\u6cd5\u30ab\u30eb\u30c8\u6559\u56e3\u306e\u6458\u767a",
+        "Name_ko": "\ubd88\ubc95 \uc774\ub2e8 \uc885\uad50 \uc9d1\ub2e8 \uc801\ubc1c"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u5de1\u903b\u57ce\u5e02\u5468\u8fb9\u9053\u8def",
+        "Name_de": "Sicherung der Verkehrswege",
+        "Name_en": "Outskirts Patrol",
+        "Name_fr": "Patrouille p\u00e9riph\u00e9rique",
+        "Name_ja": "\u90fd\u5e02\u5468\u8fba\u306e\u8857\u9053\u5de1\u56de",
+        "Name_ko": "\ub3c4\uc2dc \uc8fc\ubcc0 \ub3c4\ub85c \uc21c\ucc30"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u6d88\u706d\u975e\u6cd5\u53ec\u5524\u7684\u5996\u5f02",
+        "Name_de": "Verfolgung eines Nichtsgesandten",
+        "Name_en": "Voidsent Elimination",
+        "Name_fr": "Annihilation d'\u00eatre du n\u00e9ant",
+        "Name_ja": "\u4e0d\u6cd5\u5996\u7570\u306e\u6392\u9664",
+        "Name_ko": "\ubd88\ubc95 \uc694\ub9c8 \ucc98\uce58"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u51fb\u7834\u5e1d\u56fd\u519b\u5e9f\u5f03\u5175\u5668",
+        "Name_de": "Ausschaltung von Kampfmaschinen",
+        "Name_en": "Armor Annihilation",
+        "Name_fr": "Destruction d'arme magitek",
+        "Name_ja": "\u5e1d\u56fd\u8ecd\u5ec3\u68c4\u5175\u5668\u306e\u6483\u7834",
+        "Name_ko": "\uc81c\uad6d\uad70 \ud3d0\uae30 \ubcd1\uae30 \uaca9\ud30c"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u6392\u9664\u54e5\u5e03\u6797\u65cf\u96c6\u56e2",
+        "Name_de": "Unterbindung illegaler Versuche",
+        "Name_en": "Invasive Testing",
+        "Name_fr": "Interruption de tests gobelins",
+        "Name_ja": "\u30b4\u30d6\u30ea\u30f3\u65cf\u96c6\u56e3\u306e\u6392\u9664",
+        "Name_ko": "\uace0\ube14\ub9b0\uc871 \uc9d1\ub2e8 \ucc98\uce58"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u63ed\u53d1\u5047\u526f\u7259\u58eb",
+        "Name_de": "Beruhigung eines Aggressors",
+        "Name_en": "Impostor Alert",
+        "Name_fr": "Interpellation d'imposteur",
+        "Name_ja": "\u507d\u7259\u8ecd\u66f9\u306e\u6458\u767a",
+        "Name_ko": "\uac00\uc9dc \uc30d\uc0ac\ub2f9 \uc911\uc0ac \uc801\ubc1c"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u91cd\u8981\u4efb\u52a1\uff1a\u6b7c\u706d\u5e1d\u56fd\u519b\u7279\u6b8a\u90e8\u961f",
+        "Name_de": "\u2605 Eliminierung einer Eliteeinheit",
+        "Name_en": "Flagged Mission: Sapper Strike",
+        "Name_fr": "Destruction des forces sp\u00e9ciales imp\u00e9riales (important)",
+        "Name_ja": "\u91cd\u8981\u4efb\u52d9\uff1a\u5e1d\u56fd\u8ecd\u7279\u6b8a\u90e8\u968a\u306e\u6483\u6ec5",
+        "Name_ko": "\uc911\uc694 \uc784\ubb34: \uc81c\uad6d\uad70 \ud2b9\uc218\ubd80\ub300 \uc12c\uba78"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u4fa6\u5bdf\u86ee\u65cf\u90e8\u961f",
+        "Name_de": "Auskundschaften des Wilden Stammes",
+        "Name_en": "Beastmen Recon",
+        "Name_fr": "Rep\u00e9rage de positions hommes-b\u00eates",
+        "Name_ja": "\u86ee\u65cf\u90e8\u968a\u306e\u5075\u5bdf",
+        "Name_ko": "\uc57c\ub9cc\uc871 \ubd80\ub300 \uc815\ucc30"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u62a4\u536b\u8865\u7ed9\u90e8\u961f",
+        "Name_de": "Geleit eines Versorgungszugs",
+        "Name_en": "Supply Wagon Escort",
+        "Name_fr": "Escorte d'une unit\u00e9 de ravitaillement",
+        "Name_ja": "\u88dc\u7d66\u90e8\u968a\u306e\u8b77\u885b",
+        "Name_ko": "\ubcf4\uae09\ubd80\ub300 \ud638\uc704"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u9a71\u9664\u9b54\u7269",
+        "Name_de": "Schutz von Siedlern",
+        "Name_en": "Pest Eradication",
+        "Name_fr": "Extermination de cr\u00e9atures g\u00eanantes",
+        "Name_ja": "\u5bb3\u7363\u306e\u99c6\u9664",
+        "Name_ko": "\ud574\ub85c\uc6b4 \uc9d0\uc2b9 \ud1f4\uce58"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u91cd\u8981\u4efb\u52a1\uff1a\u6d88\u706d\u4f4e\u7ea7\u5996\u5f02",
+        "Name_de": "\u2605 Beseitigung eines Nichtsgesandten",
+        "Name_en": "Flagged Mission: Voidsent Elimination",
+        "Name_fr": "\u00c9limination d'\u00eatre du n\u00e9ant (important)",
+        "Name_ja": "\u91cd\u8981\u4efb\u52d9\uff1a\u4f4e\u7d1a\u5996\u7570\u306e\u6392\u9664",
+        "Name_ko": "\uc911\uc694 \uc784\ubb34: \ud558\uae09 \uc694\ub9c8 \uc18c\ud0d5"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u652f\u63f4\u524d\u7ebf\u90e8\u961f",
+        "Name_de": "Unterst\u00fctzung eines Grenzpostens",
+        "Name_en": "Frontline Support",
+        "Name_fr": "Soutien aux unit\u00e9s avanc\u00e9es",
+        "Name_ja": "\u524d\u7dda\u90e8\u968a\u306e\u652f\u63f4",
+        "Name_ko": "\uc804\ubc29 \ubd80\ub300 \uc9c0\uc6d0"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u62a4\u536b\u540c\u76df\u519b\u519b\u5b98",
+        "Name_de": "Geleit einer Befehlshaberin",
+        "Name_en": "Officer Escort",
+        "Name_fr": "Escorte d'officier de l'Alliance",
+        "Name_ja": "\u540c\u76df\u8ecd\u5c06\u6821\u306e\u8b77\u885b",
+        "Name_ko": "\ub3d9\ub9f9\uad70 \uc7a5\uad50 \ud638\uc704"
+    }
+}

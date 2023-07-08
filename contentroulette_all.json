@@ -1,0 +1,380 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a\u7ec3\u7ea7",
+        "Name_de": "Zufallsinhalt: Stufensteigerung",
+        "Name_en": "Duty Roulette: Leveling",
+        "Name_fr": "Mission al\u00e9atoire : gain de niveaux",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30ec\u3079\u30ea\u30f3\u30b0",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \ub808\ubca8\ub9c1"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a\u56e2\u961f\u4efb\u52a1",
+        "Name_de": "Zufallsinhalt: Allianz-Raid",
+        "Name_en": "Duty Roulette: Alliance Raids",
+        "Name_fr": "Mission al\u00e9atoire : raids en alliance",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30ec\u30a4\u30c9",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \uc5f0\ud569 \ub808\uc774\ub4dc"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a\u5927\u578b\u4efb\u52a1",
+        "Name_de": "Zufallsinhalt: Normaler Raid",
+        "Name_en": "Duty Roulette: Normal Raids",
+        "Name_fr": "Mission al\u00e9atoire : raids normaux",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30ce\u30fc\u30de\u30eb\u30ec\u30a4\u30c9",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \uc77c\ubc18 \ub808\uc774\ub4dc"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u8352\u91ce\u5927\u9053",
+        "Name_de": "Chocobo-Rennen: Sagolii-Stra\u00dfe",
+        "Name_en": "Chocobo Race: Sagolii Road",
+        "Name_fr": "Course de chocobos : Route de Sagolii",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b5\u30b4\u30ea\u30fc\u30ed\u30fc\u30c9",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \uc0ac\uace8\ub9ac \uc0ac\ub9c9"
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u592a\u9633\u6d77\u5cb8",
+        "Name_de": "Chocobo-Rennen: Sonnenk\u00fcste",
+        "Name_en": "Chocobo Race: Costa del Sol",
+        "Name_fr": "Course de chocobos : Costa del Sol",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30b9\u30bf\u30fb\u30c7\u30eb\u30fb\u30bd\u30eb",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ucf54\uc2a4\ud0c0 \ub378 \uc194"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a50\u7ea7/60\u7ea7/70\u7ea7/80\u7ea7",
+        "Name_de": "Zufallsinhalt: Stufe 50/60/70/80",
+        "Name_en": "Duty Roulette: Level 50/60/70/80 Dungeons",
+        "Name_fr": "Mission al\u00e9atoire : donjons nv 50/60/70/80",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30ec\u30d9\u30eb50\u30fb60\u30fb70\u30fb80\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \ub808\ubca8 50/60/70/80 \ub358\uc804"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u606c\u9759\u5c0f\u8def",
+        "Name_de": "Chocobo-Rennen: Pfad der Seelenruhe",
+        "Name_en": "Chocobo Race: Tranquil Paths",
+        "Name_fr": "Course de chocobos : Sentes tranquilles",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30c8\u30e9\u30f3\u30ad\u30eb\u30d1\u30b9",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \uace0\uc694\ud55c \uc57c\uc601\uc9c0"
+    },
+    "21": {
+        "0xID": "15",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "22": {
+        "0xID": "16",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u8352\u91ce\u5927\u9053\uff08\u65e0\u62a5\u916c\uff09",
+        "Name_de": "Chocobo-Rennen: Sagolii-Stra\u00dfe (keine Belohnung)",
+        "Name_en": "Chocobo Race: Sagolii Road (No Rewards)",
+        "Name_fr": "Course de chocobos : Route de Sagolii (sans r\u00e9compense)",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b5\u30b4\u30ea\u30fc\u30ed\u30fc\u30c9 (\u5831\u916c\u306a\u3057)",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \uc0ac\uace8\ub9ac \uc0ac\ub9c9(\ubcf4\uc0c1 \uc5c6\uc74c)"
+    },
+    "23": {
+        "0xID": "17",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u592a\u9633\u6d77\u5cb8\uff08\u65e0\u62a5\u916c\uff09",
+        "Name_de": "Chocobo-Rennen: Sonnenk\u00fcste (keine Belohnung)",
+        "Name_en": "Chocobo Race: Costa del Sol (No Rewards)",
+        "Name_fr": "Course de chocobos : Costa del Sol (sans r\u00e9compense)",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30b9\u30bf\u30fb\u30c7\u30eb\u30fb\u30bd\u30eb (\u5831\u916c\u306a\u3057)",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ucf54\uc2a4\ud0c0 \ub378 \uc194(\ubcf4\uc0c1 \uc5c6\uc74c)"
+    },
+    "24": {
+        "0xID": "18",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u606c\u9759\u5c0f\u8def\uff08\u65e0\u62a5\u916c\uff09",
+        "Name_de": "Chocobo-Rennen: Pfad der Seelenruhe (keine Belohnung)",
+        "Name_en": "Chocobo Race: Tranquil Paths (No Rewards)",
+        "Name_fr": "Course de chocobos : Sentes tranquilles (sans r\u00e9compense)",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30c8\u30e9\u30f3\u30ad\u30eb\u30d1\u30b9 (\u5831\u916c\u306a\u3057)",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \uace0\uc694\ud55c \uc57c\uc601\uc9c0(\ubcf4\uc0c1 \uc5c6\uc74c)"
+    },
+    "25": {
+        "0xID": "19",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053\uff08\u65e0\u62a5\u916c\uff09",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke (keine Belohnung)",
+        "Name_en": "Chocobo Race: Random (No Rewards)",
+        "Name_fr": "Course de chocobos : al\u00e9atoire (sans r\u00e9compense)",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8 (\u5831\u916c\u306a\u3057)",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4(\ubcf4\uc0c1 \uc5c6\uc74c)"
+    },
+    "26": {
+        "0xID": "1A",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "27": {
+        "0xID": "1B",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "28": {
+        "0xID": "1C",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "29": {
+        "0xID": "1D",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a\u4e3b\u7ebf\u4efb\u52a1",
+        "Name_de": "Zufallsinhalt: Hauptszenario",
+        "Name_en": "Duty Roulette: Main Scenario",
+        "Name_fr": "Mission al\u00e9atoire : \u00e9pop\u00e9e",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30e1\u30a4\u30f3\u30af\u30a8\u30b9\u30c8",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \uc8fc\uc694 \ud018\uc2a4\ud2b8"
+    },
+    "30": {
+        "0xID": "1E",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "31": {
+        "0xID": "1F",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "32": {
+        "0xID": "20",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "33": {
+        "0xID": "21",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "34": {
+        "0xID": "22",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "35": {
+        "0xID": "23",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "36": {
+        "0xID": "24",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "37": {
+        "0xID": "25",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "38": {
+        "0xID": "26",
+        "Name_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff1a\u968f\u673a\u8d5b\u9053",
+        "Name_de": "Chocobo-Rennen: Zufallsstrecke",
+        "Name_en": "Chocobo Race: Random",
+        "Name_fr": "Course de chocobos : al\u00e9atoire",
+        "Name_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9\uff1a\u30b3\u30fc\u30b9\u30eb\u30fc\u30ec\u30c3\u30c8",
+        "Name_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc: \ubb34\uc791\uc704 \ucf54\uc2a4"
+    },
+    "39": {
+        "0xID": "27",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \uac00\ub9f9 PC\ubc29"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a\u884c\u4f1a\u4ee4",
+        "Name_de": "Zufallsinhalt: Gildengehei\u00df",
+        "Name_en": "Duty Roulette: Guildhests",
+        "Name_fr": "Mission al\u00e9atoire : op\u00e9rations de guilde",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30ae\u30eb\u30c9\u30aa\u30fc\u30c0\u30fc",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \uae38\ub4dc \uc791\uc804"
+    },
+    "40": {
+        "0xID": "28",
+        "Name_cn": "\u6c34\u6676\u51b2\u7a81\uff08\u7ec3\u4e60\u8d5b\uff09",
+        "Name_de": "Crystalline Conflict: Freies Spiel",
+        "Name_en": "Crystalline Conflict (Casual Match)",
+        "Name_fr": "Crystalline Conflict (partie non class\u00e9e)",
+        "Name_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8(\u30ab\u30b8\u30e5\u30a2\u30eb\u30de\u30c3\u30c1)",
+        "Name_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8(\uc77c\ubc18\uc804)"
+    },
+    "41": {
+        "0xID": "29",
+        "Name_cn": "\u6c34\u6676\u51b2\u7a81\uff08\u6bb5\u4f4d\u8d5b\uff09",
+        "Name_de": "Crystalline Conflict: Gewertetes Spiel",
+        "Name_en": "Crystalline Conflict (Ranked Match)",
+        "Name_fr": "Crystalline Conflict (partie class\u00e9e)",
+        "Name_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8(\u30e9\u30f3\u30af\u30de\u30c3\u30c1)",
+        "Name_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8(\ub4f1\uae09\uc804)"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a\u9ad8\u96be\u5ea6",
+        "Name_de": "Zufallsinhalt: Experte",
+        "Name_en": "Duty Roulette: Expert",
+        "Name_fr": "Mission al\u00e9atoire : expert",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30a8\u30ad\u30b9\u30d1\u30fc\u30c8",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \uc219\ub828\uc790"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a\u8ba8\u4f10\u6b7c\u706d\u6218",
+        "Name_de": "Zufallsinhalt: Pr\u00fcfung",
+        "Name_en": "Duty Roulette: Trials",
+        "Name_fr": "Mission al\u00e9atoire : d\u00e9fis",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \ud1a0\ubc8c\uc804"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u6bcf\u65e5\u6311\u6218\uff1a\u7eb7\u4e89\u524d\u7ebf",
+        "Name_de": "Tagesherausforderung: PvP-Front",
+        "Name_en": "Daily Challenge: Frontline",
+        "Name_fr": "Challenge quotidien : Front",
+        "Name_ja": "\u30c7\u30a4\u30ea\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8\uff1a\u30d5\u30ed\u30f3\u30c8\u30e9\u30a4\u30f3",
+        "Name_ko": "\uc77c\uc77c \ub3c4\uc804: \uc804\uc7a5"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a90\u7ea7",
+        "Name_de": "Zufallsinhalt: Stufe 90",
+        "Name_en": "Duty Roulette: Level 90 Dungeons",
+        "Name_fr": "Mission al\u00e9atoire : donjons nv 90",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30ec\u30d9\u30eb90\u30c0\u30f3\u30b8\u30e7\u30f3",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \ub808\ubca8 90 \ub358\uc804"
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u968f\u673a\u4efb\u52a1\uff1a\u6307\u5bfc\u8005",
+        "Name_de": "Zufallsinhalt: Mentor",
+        "Name_en": "Duty Roulette: Mentor",
+        "Name_fr": "Mission al\u00e9atoire : mentor",
+        "Name_ja": "\u30b3\u30f3\u30c6\u30f3\u30c4\u30eb\u30fc\u30ec\u30c3\u30c8\uff1a\u30e1\u30f3\u30bf\u30fc",
+        "Name_ko": "\ubb34\uc791\uc704 \uc784\ubb34: \uba58\ud1a0"
+    }
+}

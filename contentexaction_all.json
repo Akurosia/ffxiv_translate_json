@@ -1,0 +1,238 @@
+{
+    "0": {
+        "0xID": "0",
+        "Icon": "ui/icon/000000/000405.png",
+        "Name": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Icon": "ui/icon/061000/061254.png",
+        "Name_cn": "烟雾弹",
+        "Name_de": "Rauchbombe",
+        "Name_en": "Smoke Screen",
+        "Name_fr": "Écran de fumée",
+        "Name_ja": "煙玉",
+        "Name_ko": "연막탄"
+    },
+    "10": {
+        "0xID": "A",
+        "Icon": "ui/icon/061000/061261.png",
+        "Name_cn": "回复药“大”",
+        "Name_de": "Mega-Trank",
+        "Name_en": "Mega Potion",
+        "Name_fr": "Méga potion",
+        "Name_ja": "回復薬グレート",
+        "Name_ko": "그레이트 회복약"
+    },
+    "11": {
+        "0xID": "B",
+        "Icon": "ui/icon/061000/061259.png",
+        "Name_cn": "黑色陆行鸟之笔",
+        "Name_de": "Schwarze Farbe",
+        "Name_en": "Black Paint",
+        "Name_fr": "Pinceau chocobo : noir",
+        "Name_ja": "チョコボの筆：黒色",
+        "Name_ko": "검은색 초코보 붓"
+    },
+    "12": {
+        "0xID": "C",
+        "Icon": "ui/icon/061000/061262.png",
+        "Name_cn": "欧米茄干扰器",
+        "Name_de": "Omega-Blitz",
+        "Name_en": "Omega Jammer",
+        "Name_fr": "Fulguro-brouilleur",
+        "Name_ja": "オメガジャマー",
+        "Name_ko": "오메가 교란기"
+    },
+    "13": {
+        "0xID": "D",
+        "Icon": "ui/icon/000000/000405.png",
+        "Name": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "14": {
+        "0xID": "E",
+        "Icon": "ui/icon/000000/000123.png",
+        "Name_cn": "无法使用",
+        "Name_de": "Unverwendbar",
+        "Name_en": "Unusable",
+        "Name_fr": "Utilisation impossible",
+        "Name_ja": "使用不可",
+        "Name_ko": "사용 불가"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/061000/061263.png",
+        "Name_cn": "位移破击",
+        "Name_de": "Warp-Angriff",
+        "Name_en": "Warp-strike",
+        "Name_fr": "Assaut éclipse",
+        "Name_ja": "シフトブレイク",
+        "Name_ko": "시프트 브레이크"
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/000000/000123.png",
+        "Name_cn": "无法使用",
+        "Name_de": "Unverwendbar",
+        "Name_en": "Unusable",
+        "Name_fr": "Utilisation impossible",
+        "Name_ja": "使用不可",
+        "Name_ko": "사용 불가"
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/061000/061270.png",
+        "Name_cn": "鼻吸指示",
+        "Name_de": "Albsauger",
+        "Name_en": "Solicit Siphon Snout",
+        "Name_fr": "Aspiration maximale",
+        "Name_ja": "すいこみ指示",
+        "Name_ko": "빨아들이기 지시"
+    },
+    "18": {
+        "0xID": "12",
+        "Icon": "ui/icon/000000/000405.png",
+        "Name": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "19": {
+        "0xID": "13",
+        "Icon": "ui/icon/000000/000405.png",
+        "Name": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2": {
+        "0xID": "2",
+        "Icon": "ui/icon/061000/061251.png",
+        "Name_cn": "元气",
+        "Name_de": "Vril",
+        "Name_en": "Vril",
+        "Name_fr": "Vril",
+        "Name_ja": "ラクシュミエーテル",
+        "Name_ko": "락슈미 에테르"
+    },
+    "20": {
+        "0xID": "14",
+        "Icon": "ui/icon/000000/000405.png",
+        "Name": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "21": {
+        "0xID": "15",
+        "Icon": "ui/icon/000000/000405.png",
+        "Name_cn": "军用恢复药",
+        "Name_de": "Frontentrank",
+        "Name_en": "Medical Kit",
+        "Name_fr": "Potion militaire",
+        "Name_ja": "軍用ポーション",
+        "Name_ko": "군용 물약"
+    },
+    "22": {
+        "0xID": "16",
+        "Icon": "ui/icon/064000/064761.png",
+        "Name_cn": "多变复活II",
+        "Name_de": "Unstetes Wiederbeleben II",
+        "Name_en": "Variant Raise II",
+        "Name_fr": "Vie embranchée II",
+        "Name_ja": "ヴァリアント・レイズII",
+        "Name_ko": "변형 레이즈 2"
+    },
+    "3": {
+        "0xID": "3",
+        "Icon": "ui/icon/061000/061253.png",
+        "Name_cn": "以太干扰器",
+        "Name_de": "Äther-Siphon",
+        "Name_en": "Aetheric Siphon",
+        "Name_fr": "Brouilleur d'éther",
+        "Name_ja": "エーテルジャマー",
+        "Name_ko": "에테르 교란"
+    },
+    "4": {
+        "0xID": "4",
+        "Icon": "ui/icon/061000/061252.png",
+        "Name_cn": "反重力装置",
+        "Name_de": "Levitator",
+        "Name_en": "Anti-gravity Gimbal",
+        "Name_fr": "Lévitation magitek",
+        "Name_ja": "グラビティギア",
+        "Name_ko": "반중력 장치"
+    },
+    "5": {
+        "0xID": "5",
+        "Icon": "ui/icon/061000/061251.png",
+        "Name_cn": "元气",
+        "Name_de": "Vril",
+        "Name_en": "Vril",
+        "Name_fr": "Vril",
+        "Name_ja": "ラクシュミエーテル",
+        "Name_ko": "락슈미 에테르"
+    },
+    "6": {
+        "0xID": "6",
+        "Icon": "ui/icon/061000/061252.png",
+        "Name_cn": "反重力装置",
+        "Name_de": "Levitator",
+        "Name_en": "Anti-gravity Gimbal",
+        "Name_fr": "Lévitation magitek",
+        "Name_ja": "グラビティギア",
+        "Name_ko": "반중력 장치"
+    },
+    "7": {
+        "0xID": "7",
+        "Icon": "ui/icon/061000/061255.png",
+        "Name_cn": "偏折屏障",
+        "Name_de": "Reflektieren",
+        "Name_en": "Deflect",
+        "Name_fr": "Déflexion",
+        "Name_ja": "デフレク",
+        "Name_ko": "디플레크"
+    },
+    "8": {
+        "0xID": "8",
+        "Icon": "ui/icon/061000/061260.png",
+        "Name_cn": "陆行鸟之笔",
+        "Name_de": "Frischer Pinsel",
+        "Name_en": "Chocobo Brush",
+        "Name_fr": "Pinceau chocobo",
+        "Name_ja": "チョコボの筆",
+        "Name_ko": "초코보 붓"
+    },
+    "9": {
+        "0xID": "9",
+        "Icon": "ui/icon/000000/000405.png",
+        "Name": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    }
+}

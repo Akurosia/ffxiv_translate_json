@@ -1,0 +1,52 @@
+{
+    "0": {
+        "0xID": "0",
+        "Image": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Image": "ui/icon/063000/063191.png",
+        "Name_cn": "\u6eba\u6ca1\u6d77",
+        "Name_de": "Tiefsee",
+        "Name_en": "Deep-sea Site",
+        "Name_fr": "Mer des noyades",
+        "Name_ja": "\u6eba\u6ca1\u6d77",
+        "Name_ko": "\uc775\ubab0\ud574"
+    },
+    "2": {
+        "0xID": "2",
+        "Image": "ui/icon/063000/063192.png",
+        "Name_cn": "\u7070\u6d77",
+        "Name_de": "Verbranntes Meer",
+        "Name_en": "Sea of Ash",
+        "Name_fr": "Mer de Cendre",
+        "Name_ja": "\u7070\u6d77",
+        "Name_ko": "\uc7bf\ube5b \ubc14\ub2e4"
+    },
+    "3": {
+        "0xID": "3",
+        "Image": "ui/icon/063000/063193.png",
+        "Name_cn": "\u7fe0\u6d6a\u6d77",
+        "Name_de": "Jademeer",
+        "Name_en": "Sea of Jade",
+        "Name_fr": "Mer de Jade",
+        "Name_ja": "\u7fe0\u6d6a\u6d77",
+        "Name_ko": "\ube44\ucde8 \ubc14\ub2e4"
+    },
+    "4": {
+        "0xID": "4",
+        "Image": "ui/icon/063000/063194.png",
+        "Name_cn": "\u5996\u6b4c\u6d77",
+        "Name_de": "Sirenen-See",
+        "Name_en": "Sirensong Sea",
+        "Name_fr": "Mer du Chant des sir\u00e8nes",
+        "Name_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Name_ko": "\uc138\uc774\ub80c \ud574"
+    }
+}

@@ -1,0 +1,1306 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_2_cn": "\u7121\u52b9",
+        "col_2_de": "\u7121\u52b9",
+        "col_2_en": "\u7121\u52b9",
+        "col_2_fr": "\u7121\u52b9",
+        "col_2_ja": "\u7121\u52b9"
+    },
+    "100": {
+        "0xID": "64",
+        "col_2_cn": "\u5409 \u5b9c\u5192\u9669 \u4fe1\u6b65\u800c\u884c \u4fe1\u9a6c\u7531\u7f30 \u957f\u98ce\u7834\u6d6a",
+        "col_2_de": "Reise ohne Sorge, wohin auch immer deine F\u00fc\u00dfe dich tragen m\u00f6gen.",
+        "col_2_en": "Wander whither the winds take thee.",
+        "col_2_fr": "Partez en voyage comme le c\u0153ur vous en dit.",
+        "col_2_ja": "\u3088\u3057\u3000\u601d\u3046\u304c\u307e\u307e\u306b\u65c5\u305b\u3088"
+    },
+    "101": {
+        "0xID": "65",
+        "col_2_cn": "\u5409 \u5b9c\u5192\u9669 \u5929\u7a7a\u6d77\u9614 \u65e0\u8fb9\u65e0\u6daf \u6c14\u8c61\u4e00\u65b0",
+        "col_2_de": "Bisher unbesuchte Orte seien dein n\u00e4chstes Ziel.",
+        "col_2_en": "Seek out sights thou hast yet to behold.",
+        "col_2_fr": "Vous devriez aller visiter un endroit pour la premi\u00e8re fois.",
+        "col_2_ja": "\u3088\u3057\u3000\u521d\u898b\u306a\u308b\u5834\u6240\u306b\u8d74\u304f\u3079\u3057"
+    },
+    "102": {
+        "0xID": "66",
+        "col_2_cn": "\u5409 \u5b9c\u5192\u9669 \u63a2\u7d22\u7b14\u8bb0 \u8ffd\u5fc6\u4e4b\u5730 \u611f\u4eca\u6000\u6614",
+        "col_2_de": "\u00d6ffne deinen Reisef\u00fchrer, eine R\u00fcckkehr an Orte reich an Erinnerungen sei dein Ziel.",
+        "col_2_en": "Travel to lands held dear in thy heart.",
+        "col_2_fr": "Ouvrez votre carnet d'exploration et revisitez un lieu de vos souvenirs.",
+        "col_2_ja": "\u3088\u3057\u3000\u63a2\u691c\u624b\u5e33\u3092\u958b\u304d\u3001\u601d\u3044\u51fa\u306e\u5730\u3092\u5de1\u308b\u3079\u3057"
+    },
+    "103": {
+        "0xID": "67",
+        "col_2_cn": "\u5409 \u5b9c\u5192\u9669 \u5929\u9ad8\u6c14\u723d \u6674\u7a7a\u4e07\u91cc \u98ce\u548c\u65e5\u4e3d",
+        "col_2_de": "Gesegnet seien deine Reisen von einem wolkenfreien Himmel.",
+        "col_2_en": "Thou shalt be blessed with the weather.",
+        "col_2_fr": "Vos voyages se d\u00e9rouleront sous un ciel cl\u00e9ment.",
+        "col_2_ja": "\u3088\u3057\u3000\u5929\u5019\u306b\u3082\u6075\u307e\u308c\u308b"
+    },
+    "104": {
+        "0xID": "68",
+        "col_2_cn": "\u5409 \u5b9c\u5192\u9669 \u5e02\u4e95\u5bfb\u8e2a \u4eba\u6f6e\u6c79\u6d8c \u5929\u8d50\u826f\u673a",
+        "col_2_de": "Gl\u00fcck wartet in jenen St\u00e4dten, in welchen reges Treiben herrscht.",
+        "col_2_en": "Auspicious encounters await amidst the hustle and bustle of cities.",
+        "col_2_fr": "Visiter une cit\u00e9 fr\u00e9quent\u00e9e vous sera b\u00e9n\u00e9fique.",
+        "col_2_ja": "\u3088\u3057\u3000\u7279\u306b\u591a\u304f\u306e\u4eba\u304c\u96c6\u3046\u90fd\u5e02\u306b\u5411\u304b\u3046\u3068\u5409"
+    },
+    "105": {
+        "0xID": "69",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "106": {
+        "0xID": "6A",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "1100": {
+        "0xID": "44C",
+        "col_2_cn": "\u5b9c\u72ec\u884c \u6d6a\u8ff9\u5929\u6daf \u8e0f\u904d\u5929\u4e0b \u72ec\u4eab\u5b81\u9759",
+        "col_2_de": "Weggef\u00e4hrten sind nicht stets vonn\u00f6ten. Genie\u00dfe ab und an die Ruhe der einsamen Reise.",
+        "col_2_en": "Hither and thither wander alone. Enjoy moments of respite all thine own.",
+        "col_2_fr": "Voyagez seule pour trouver le calme et la s\u00e9r\u00e9nit\u00e9.",
+        "col_2_ja": "\u3072\u3068\u308a\u65c5\u3082\u3088\u3057\u3000\u5404\u5730\u3092\u5de1\u308a\u7a4f\u3084\u304b\u306a\u6642\u3092\u904e\u3054\u3059\u3079\u3057"
+    },
+    "1101": {
+        "0xID": "44D",
+        "col_2_cn": "\u5b9c\u56de\u5fc6 \u8ffd\u5fc6\u5f80\u6614 \u6628\u65e5\u91cd\u73b0 \u5e38\u770b\u5e38\u65b0",
+        "col_2_de": "Begib dich erneut auf die Suche, neue Entdeckungen warten auf dich.",
+        "col_2_en": "Embark upon an old journey anew. Further discoveries await.",
+        "col_2_fr": "Revivez une \u00e9pop\u00e9e pass\u00e9e pour faire de nouvelles d\u00e9couvertes.",
+        "col_2_ja": "\u5f37\u304d\u307e\u307e\u63a2\u6c42\u306e\u65c5\u306b\u518d\u3073\u6311\u3081\u3000\u65b0\u305f\u306a\u6c17\u4ed8\u304d\u3042\u308a"
+    },
+    "1102": {
+        "0xID": "44E",
+        "col_2_cn": "\u5b9c\u8282\u5e86 \u51ac\u53bb\u6625\u6765 \u4e07\u5bb6\u6b22\u559c \u666e\u5929\u540c\u5e86",
+        "col_2_de": "Der Wechsel der Jahreszeiten ist Grund zur Freude, Feierlichkeiten aller Art seien dein Ziel.",
+        "col_2_en": "Participate in festivities and feel the turning of the seasons.",
+        "col_2_fr": "Prenez part \u00e0 une c\u00e9l\u00e9bration \u00e9ph\u00e9m\u00e8re au tournant des saisons.",
+        "col_2_ja": "\u5b63\u7bc0\u306e\u5de1\u308a\u3092\u611f\u3058\u3001\u795d\u796d\u306b\u53c2\u52a0\u3059\u3079\u3057"
+    },
+    "1103": {
+        "0xID": "44F",
+        "col_2_cn": "\u5b9c\u7fa4\u96c6 \u5927\u8857\u5c0f\u5df7 \u4eba\u58f0\u9f0e\u6cb8 \u9082\u9005\u76f8\u9022",
+        "col_2_de": "Leihe ein Ohr den Landsleuten, unbekannte Geschichten m\u00f6gen sich so offenbaren.",
+        "col_2_en": "Heed the voices of the people, for they have tales untold to share.",
+        "col_2_fr": "Soyez \u00e0 l'\u00e9coute des habitants pour entendre de nouvelles histoires.",
+        "col_2_ja": "\u5e02\u4e95\u306e\u4eba\u3005\u306e\u58f0\u3092\u805e\u3051\u3000\u65b0\u305f\u306a\u7269\u8a9e\u3042\u308a"
+    },
+    "1104": {
+        "0xID": "450",
+        "col_2_cn": "\u5b9c\u8fdc\u884c \u52c7\u8005\u4e0d\u60e7 \u4e00\u5f80\u65e0\u524d \u529f\u6210\u540d\u7acb",
+        "col_2_de": "Reise in unerforschte Lande, unvorstellbare Entdeckungen warten dort.",
+        "col_2_en": "Unexpected discoveries await in unexplored lands.",
+        "col_2_fr": "Explorez un endroit inconnu pour faire une d\u00e9couverte inattendue.",
+        "col_2_ja": "\u672a\u8e0f\u306e\u5730\u3092\u8a2a\u306d\u3088\u3000\u601d\u308f\u306c\u767a\u898b\u3042\u308a"
+    },
+    "1105": {
+        "0xID": "451",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "1106": {
+        "0xID": "452",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "1200": {
+        "0xID": "4B0",
+        "col_2_cn": "\u4f60\u5e94\u5f53\u505a\u597d\u5fc3\u7406\u51c6\u5907\u8fce\u63a5\u4e00\u573a\u4e0d\u671f\u800c\u9047",
+        "col_2_de": "Sei vorbereitet, eine Begegnung jenseits jeglicher Vorstellung steht bevor.",
+        "col_2_en": "Be prepared for unexpected encounters.",
+        "col_2_fr": "Pr\u00e9parez-vous \u00e0 faire une rencontre surprenante.",
+        "col_2_ja": "\u601d\u3044\u3082\u3088\u3089\u306c\u51fa\u4f1a\u3044\u3042\u308a\u3000\u5fc3\u3057\u3066\u5099\u3048\u3088"
+    },
+    "1201": {
+        "0xID": "4B1",
+        "col_2_cn": "\u91cd\u89c6\u4f60\u7684\u6bcf\u4e00\u6b21\u9082\u9005 \u7f18\u5206\u5c31\u5728\u4e0d\u7ecf\u610f\u4e4b\u95f4",
+        "col_2_de": "Auch einmalige Begegnungen k\u00f6nnen die Saat f\u00fcr eine bl\u00fchende Beziehung bilden.",
+        "col_2_en": "From an unlikely meeting a relationship shall bloom.",
+        "col_2_fr": "Vous ferez une rencontre unique qui se r\u00e9v\u00e9lera fructueuse.",
+        "col_2_ja": "\u4e00\u671f\u4e00\u4f1a\u306e\u7e01\u304b\u3089\u82bd\u751f\u3048\u308b"
+    },
+    "1202": {
+        "0xID": "4B2",
+        "col_2_cn": "\u5e26\u5934\u5bfb\u627e\u4f19\u4f34\u5427 \u4f60\u7684\u826f\u7f18\u5c31\u5728\u5176\u4e2d",
+        "col_2_de": "\u00dcbernimm die F\u00fchrung und sammle deine Kameraden, ein perfekter Partner l\u00e4sst sich so finden.",
+        "col_2_en": "Friendship will bloom. Take the lead and gather comrades.",
+        "col_2_fr": "Vous aurez int\u00e9r\u00eat \u00e0 prendre les devants pour r\u00e9unir vos camarades.",
+        "col_2_ja": "\u826f\u7e01\u3042\u308a\u3000\u81ea\u3089\u97f3\u982d\u3068\u308a\u4ef2\u9593\u3092\u52df\u308b\u3079\u3057"
+    },
+    "1203": {
+        "0xID": "4B3",
+        "col_2_cn": "\u6709\u597d\u53cb\u76f8\u52a9 \u6ef4\u6c34\u4e4b\u6069\u4e5f\u503c\u5f97\u4f60\u6d8c\u6cc9\u76f8\u62a5",
+        "col_2_de": "Die Unterst\u00fctzung deiner Gef\u00e4hrten sei dir gewiss, erwidere auch du sie im selben Ma\u00df.",
+        "col_2_en": "A friend shall come to thine aid. Neglect not to repay the debt.",
+        "col_2_fr": "Pour remercier ceux qui vous ont aid\u00e9e, aidez-les \u00e0 votre tour.",
+        "col_2_ja": "\u53cb\u306e\u52a9\u3051\u3042\u308a\u3000\u5df1\u3082\u52a9\u3051\u6069\u3092\u8fd4\u3059\u3079\u3057"
+    },
+    "1204": {
+        "0xID": "4B4",
+        "col_2_cn": "\u9aa4\u7136\u7684\u76f8\u9047\u6216\u8bb8\u6ca1\u6709\u7ed3\u679c \u4f46\u65f6\u95f4\u5c06\u4e3a\u4f60\u5e26\u6765\u7b54\u6848",
+        "col_2_de": "Aller Anfang ist schwer, doch sei gewiss: Eine gute Beziehung wartet auf dich.",
+        "col_2_en": "Though slow to ripen, the sweetest of fruits await.",
+        "col_2_fr": "Les meilleures relations ne partent pas toujours du bon pied.",
+        "col_2_ja": "\u6700\u521d\u306f\u5b9f\u308a\u306b\u304f\u3044\u304c\u3001\u3088\u304d\u5f15\u304d\u5408\u308f\u305b\u3042\u308a"
+    },
+    "1300": {
+        "0xID": "514",
+        "col_2_cn": "\u9759\u5f85\u826f\u673a \u6e38\u4e50\u573a\u91cc\u5c06\u6709\u5927\u8d5a\u5934\uff01",
+        "col_2_de": "Profite gigantischen Ausma\u00dfes warten im goldenen Palast des Vergn\u00fcgens auf jene, die sich in Geduld \u00fcben k\u00f6nnen.",
+        "col_2_en": "Great riches await in gilded halls. Be open-handed.",
+        "col_2_fr": "Votre audace sera r\u00e9compens\u00e9e au Gold Saucer.",
+        "col_2_ja": "\u904a\u6280\u5834\u306b\u5de8\u5229\u3042\u308a\u3000\u6c17\u3092\u5927\u304d\u304f\u6301\u3066"
+    },
+    "1301": {
+        "0xID": "515",
+        "col_2_cn": "\u4e58\u98ce\u7834\u6d6a \u6d77\u9493\u5c06\u6709\u5927\u4e30\u6536\uff01",
+        "col_2_de": "Gro\u00dfe F\u00e4nge stehen in den Sternen, das n\u00e4chstgelegene Schiff sei dein Ziel.",
+        "col_2_en": "Sail forth and cast thy nets. A great haul awaits thee.",
+        "col_2_fr": "Prenez la mer et vous ferez bonne p\u00eache.",
+        "col_2_ja": "\u5927\u6f01\u65d7\u306e\u6a5f\u904b\u3042\u308a\u3000\u8239\u306b\u4e57\u308c"
+    },
+    "1302": {
+        "0xID": "516",
+        "col_2_cn": "\u5b89\u5bb6\u7f6e\u4e1a \u9020\u623f\u5b50\u5c06\u5e26\u6765\u597d\u8fd0\uff01",
+        "col_2_de": "Geschick im Hausbau sei dir verg\u00f6nnt. Investiere und werde sesshaft.",
+        "col_2_en": "Invest in thy home. From it fortune shall grow.",
+        "col_2_fr": "Investissez et faites construire la maison dont vous avez toujours r\u00eav\u00e9.",
+        "col_2_ja": "\u5bb6\u9020\u308a\u306b\u904b\u6c17\u3042\u308a\u3000\u6295\u8cc7\u305b\u3088"
+    },
+    "1303": {
+        "0xID": "517",
+        "col_2_cn": "\u653e\u624b\u4e00\u640f \u65e7\u7684\u4e0d\u53bb\u65b0\u7684\u4e0d\u6765\uff01",
+        "col_2_de": "Eine Zeit des Umbruchs naht. Trenne dich von Altem und hei\u00dfe Neues willkommen.",
+        "col_2_en": "Bid farewell to the old; bid welcome to the new.",
+        "col_2_fr": "Remplacez vos possessions de longue date par des nouvelles.",
+        "col_2_ja": "\u53e4\u304d\u3092\u624b\u653e\u3057\u3001\u65b0\u3057\u304d\u3092\u5f97\u308b\u3068\u3088\u3057"
+    },
+    "1304": {
+        "0xID": "518",
+        "col_2_cn": "\u79ef\u5c11\u6210\u591a \u8d5a\u5927\u94b1\u5148\u8981\u6512\u5c0f\u94b1\uff01",
+        "col_2_de": "Lerne, g\u00fcnstige M\u00f6glichkeiten zu erkennen, und Reichtum wird wie von selbst folgen.",
+        "col_2_en": "Stay alert to opportunity, and thou shalt make thy fortune.",
+        "col_2_fr": "Saisissez la bonne occasion de commercer pour rencontrer le succ\u00e8s.",
+        "col_2_ja": "\u5546\u6a5f\u3092\u898b\u6975\u3081\u308c\u3070\u3001\u5805\u5b9f\u306b\u8ca1\u3092\u6210\u305b\u308b"
+    },
+    "1400": {
+        "0xID": "578",
+        "col_2_cn": "\u8de8\u8fc7\u969c\u788d\u5427\uff01\u548c\u4f19\u4f34\u4eec\u643a\u624b\u70ed\u6218\u4e00\u573a",
+        "col_2_de": "St\u00fcrze dich in den hitzigen Wettstreit mit deinen Gef\u00e4hrten, euer Bund wird sich nur st\u00e4rken.",
+        "col_2_en": "Temper thyself in the heat of friendly rivalries.",
+        "col_2_fr": "C'est le moment id\u00e9al pour s'entra\u00eener assid\u00fbment.",
+        "col_2_ja": "\u969c\u308a\u306a\u3057\u3000\u4ef2\u9593\u3068\u306e\u624b\u5408\u308f\u305b\u306b\u767d\u71b1\u305b\u3088"
+    },
+    "1401": {
+        "0xID": "579",
+        "col_2_cn": "\u7ef4\u6301\u73b0\u72b6\u5427\uff01\u9759\u5fc3\u52aa\u529b\u6253\u4e0b\u624e\u5b9e\u7684\u57fa\u7840",
+        "col_2_de": "Gut gew\u00e4hlt ist deine Waffe, \u00fcbe stetig und Ergebnisse werden bald eintreten.",
+        "col_2_en": "Thy weapon suiteth thee well. Continue in thine efforts with confidence.",
+        "col_2_fr": "Redoublez d'efforts et vous en r\u00e9colterez les fruits.",
+        "col_2_ja": "\u3044\u307e\u306e\u5f97\u7269\u304c\u3088\u3044\u3000\u5b89\u5fc3\u3057\u3066\u52aa\u529b\u3092\u91cd\u306d\u3088"
+    },
+    "1402": {
+        "0xID": "57A",
+        "col_2_cn": "\u9a70\u9a8b\u724c\u684c\u5427\uff01\u8fd0\u7b79\u5e37\u5e44\u6210\u4e3a\u4f1f\u5927\u7684\u8c0b\u58eb",
+        "col_2_de": "Die Steine sind dir wohlgesinnt. Das Talent eines Mahjong-Meisters ruht in dir.",
+        "col_2_en": "The tiles favor thee. Try thy hand at mahjong.",
+        "col_2_fr": "Si vous jouez au mahjong, les tuiles seront de votre c\u00f4t\u00e9.",
+        "col_2_ja": "\u724c\u306e\u5de1\u308a\u304c\u3088\u3044\u3000\u9ad8\u5fb3\u306e\u96c0\u58eb\u3068\u306a\u308c\u308b"
+    },
+    "1403": {
+        "0xID": "57B",
+        "col_2_cn": "\u8ffd\u6355\u9b54\u7269\u5427\uff01\u8e0f\u904d\u5404\u5730\u8ffd\u6355\u90aa\u6076\u9b54\u7269\u5c06\u4e3a\u4f60\u5e26\u6765\u597d\u8fd0",
+        "col_2_de": "Fokussiere deine Jagd auf die ber\u00fcchtigsten Bestien in allen Landen, so soll dir Gl\u00fcck beschert sein.",
+        "col_2_en": "In the pursuit of fell fiends far and wide, thou shalt find good fortune.",
+        "col_2_fr": "Parcourez les contr\u00e9es \u00e0 la poursuite de cibles renomm\u00e9es.",
+        "col_2_ja": "\u60aa\u540d\u9ad8\u304d\u9b54\u7269\u3092\u8ffd\u3044\u3001\u4e07\u56fd\u3092\u5de1\u308c\u3070\u5409\u3042\u308a"
+    },
+    "1404": {
+        "0xID": "57C",
+        "col_2_cn": "\u7ef4\u6301\u73b0\u72b6\u5427\uff01\u9759\u5fc3\u52aa\u529b\u6253\u4e0b\u624e\u5b9e\u7684\u57fa\u7840",
+        "col_2_de": "Gut gew\u00e4hlt ist deine Waffe, \u00fcbe stetig und Ergebnisse werden bald eintreten.",
+        "col_2_en": "Thy weapon suiteth thee well. Continue in thine efforts with confidence.",
+        "col_2_fr": "Redoublez d'efforts et vous en r\u00e9colterez les fruits.",
+        "col_2_ja": "\u3044\u307e\u306e\u5f97\u7269\u304c\u3088\u3044\u3000\u5b89\u5fc3\u3057\u3066\u52aa\u529b\u3092\u91cd\u306d\u3088"
+    },
+    "1500": {
+        "0xID": "5DC",
+        "col_2_cn": "\u4f60\u5982\u884c\u661f\u795e\u822c\u7684\u667a\u6167\u4e4b\u529b\u5c06\u5f15\u4f60\u8de8\u8d8a\u96be\u5173\u8f6c\u5371\u4e3a\u5b89",
+        "col_2_de": "F\u00fclle deinen Geist mit Weisheit gleich Nymeia, so wird sich dein Blatt stets zum Guten wenden.",
+        "col_2_en": "Be wise like unto the Spinner, and fortune shall favor thee in all its domains. ",
+        "col_2_fr": "Soyez raisonnable telle Nymeia et le destin vous sera favorable.",
+        "col_2_ja": "\u661f\u795e\u306e\u5982\u304d\u8061\u660e\u3055\u304c\u3042\u308c\u3070\u3001\u3042\u3089\u3086\u308b\u904b\u547d\u304c\u597d\u8ee2\u3059\u308b\u3067\u3057\u3087\u3046"
+    },
+    "1501": {
+        "0xID": "5DD",
+        "col_2_cn": "\u4f60\u5982\u7834\u574f\u795e\u822c\u7684\u52c7\u6c14\u4e4b\u529b\u5c06\u5f15\u4f60\u6253\u5012\u52b2\u654c\u65e5\u76ca\u5f3a\u5927",
+        "col_2_de": "F\u00fclle dein Herz mit K\u00fchnheit gleich Rhalgr, so wird kein Feind dir \u00fcberm\u00e4chtig sein.",
+        "col_2_en": "Be bold like unto the Destroyer, and all foes shall fall before thee.",
+        "col_2_fr": "Soyez intr\u00e9pide tel Rhalgr et aucun adversaire ne vous r\u00e9sistera.",
+        "col_2_ja": "\u58ca\u795e\u306e\u5982\u304d\u8c6a\u80c6\u3055\u304c\u3042\u308c\u3070\u3001\u5f37\u304d\u6575\u3082\u6253\u3061\u5012\u305b\u308b\u3067\u3057\u3087\u3046"
+    },
+    "1502": {
+        "0xID": "5DE",
+        "col_2_cn": "\u4f60\u5982\u5de5\u5320\u795e\u822c\u7684\u60f3\u8c61\u4e4b\u529b\u5c06\u5f15\u4f60\u5728\u5de5\u5320\u4e4b\u8def\u4e0a\u6b65\u6b65\u6210\u957f",
+        "col_2_de": "F\u00fclle deinen Geist mit Kreativit\u00e4t gleich Byregot, so sei dein Wachstum als Handwerker grenzenlos.",
+        "col_2_en": "Be creative like unto the Builder, and a surer hand of craftsmanship shall be thine.",
+        "col_2_fr": "Soyez inventive tel Byregot pour perfectionner votre artisanat.",
+        "col_2_ja": "\u5de5\u795e\u306e\u5982\u304d\u767a\u60f3\u529b\u304c\u3042\u308c\u3070\u3001\u8077\u4eba\u3068\u3057\u3066\u3082\u6210\u9577\u3059\u308b\u3067\u3057\u3087\u3046"
+    },
+    "1503": {
+        "0xID": "5DF",
+        "col_2_cn": "\u4f60\u5982\u5546\u8d38\u795e\u822c\u7684\u654f\u9510\u773c\u529b\u5c06\u5f15\u4f60\u53d1\u73b0\u5546\u673a\u8d5a\u5f97\u8d22\u5bcc",
+        "col_2_de": "F\u00fclle deinen Geist mit Scharfsinn gleich Nald'thal, so wird keinerlei g\u00fcnstige Gelegenheit dir mehr entgehen.",
+        "col_2_en": "Be discerning like unto the Traders, and no chance to profit shall pass thee by.",
+        "col_2_fr": "Soyez clairvoyante tel Nald'thal et vos affaires fleuriront.",
+        "col_2_ja": "\u5546\u795e\u306e\u5982\u304d\u660e\u654f\u3055\u304c\u3042\u308c\u3070\u3001\u5546\u6a5f\u3092\u898b\u9003\u3059\u3053\u3068\u306f\u306a\u3044\u3067\u3057\u3087\u3046"
+    },
+    "1504": {
+        "0xID": "5E0",
+        "col_2_cn": "\u4f60\u5982\u5730\u6bcd\u795e\u822c\u7684\u5305\u5bb9\u4e4b\u529b\u5c06\u5f15\u4f60\u7f14\u7ed3\u5d2d\u65b0\u7684\u5173\u7cfb",
+        "col_2_de": "F\u00fclle dein Herz mit Toleranz gleich Nophica, so werden allerlei neue Begegnungen zu keimen beginnen.",
+        "col_2_en": "Be forbearing like unto the Matron, and the seeds of new friendship shall quicken for thee.",
+        "col_2_fr": "Soyez tol\u00e9rante telle Nophica et vous cr\u00e9erez de nouveaux liens.",
+        "col_2_ja": "\u5730\u795e\u306e\u5982\u304d\u5305\u5bb9\u529b\u304c\u3042\u308c\u3070\u3001\u65b0\u305f\u306a\u7d46\u304c\u82bd\u5439\u304f\u3067\u3057\u3087\u3046"
+    },
+    "200": {
+        "0xID": "C8",
+        "col_2_cn": "\u82f1\u96c4\u822c\u7684\u6210\u5c31\u83b7\u53d6\u7684\u8363\u8000\u4e0e\u4fe1\u8d56\u5c06\u4f1a\u4e3a\u4f60\u5e26\u6765\u7b54\u6848",
+        "col_2_de": "Erf\u00fclle die dir auferlegten Erwartungen. Erlange Vertrauen und Ehre geb\u00fchrend eines Helden.",
+        "col_2_en": "Answer the call, and trust and honor accorded to heroes shall be thine.",
+        "col_2_fr": "Soyez l\u00e0 pour ceux qui croient en vous et vous encouragent.",
+        "col_2_ja": "\u82f1\u96c4\u3068\u3057\u3066\u4fe1\u3068\u8a89\u308c\u3092\u5f97\u308b\u3000\u5927\u3044\u306b\u5fdc\u3048\u3088"
+    },
+    "201": {
+        "0xID": "C9",
+        "col_2_cn": "\u6c38\u7ed3\u540c\u5fc3\u7684\u8a93\u8a00\u5c06\u4f1a\u4e3a\u4f60\u5e26\u6765\u597d\u8fd0",
+        "col_2_de": "Richte deinen Blick auf den Ewigen Bund und das Gl\u00fcck soll dir hold sein.",
+        "col_2_en": "Cast thy gaze upon bonds eternal, for therein lie great blessings.",
+        "col_2_fr": "Il sera bon de renouer avec des liaisons du pass\u00e9.",
+        "col_2_ja": "\u4e45\u9060\u306e\u7d46\u306b\u76ee\u3092\u5411\u3051\u3088\u3000\u305d\u3053\u306b\u5409\u3042\u308a"
+    },
+    "202": {
+        "0xID": "CA",
+        "col_2_cn": "\u65c5\u9014\u4e2d\u5e38\u6709\u597d\u53cb\u76f8\u52a9 \u5207\u83ab\u5fd8\u8bb0\u65f6\u523b\u5fc3\u6000\u611f\u6fc0",
+        "col_2_de": "Zeige jenen Dankbarkeit, die dich auf deinen Reisen unterst\u00fctzen.",
+        "col_2_en": "To thy companions thou shalt be indebted. Forget not to express thine appreciation.",
+        "col_2_fr": "N'oubliez pas de remercier vos compagnons de voyage pour leur aide.",
+        "col_2_ja": "\u65c5\u306e\u4ef2\u9593\u306e\u52a9\u3051\u591a\u304f\u3042\u308b\u3000\u611f\u8b1d\u3092\u5fd8\u308c\u306c\u3053\u3068"
+    },
+    "203": {
+        "0xID": "CB",
+        "col_2_cn": "\u661f\u661f\u5c06\u6307\u5f15\u4f60\u4e0e\u547d\u4e2d\u6ce8\u5b9a\u7684\u4eba\u76f8\u9047",
+        "col_2_de": "Ein sternengeleiteter Partner befindet sich in n\u00e4chster N\u00e4he.",
+        "col_2_en": "A star-guided companion is closer than thou knowest.",
+        "col_2_fr": "Une personne guid\u00e9e par les \u00e9toiles se trouve pr\u00e8s de vous.",
+        "col_2_ja": "\u661f\u304c\u5c0e\u3044\u305f\u76f8\u624b\u306f\u8fd1\u304f\u306b\u3044\u308b"
+    },
+    "204": {
+        "0xID": "CC",
+        "col_2_cn": "\u548c\u4f19\u4f34\u4eec\u5e76\u80a9\u540c\u884c\u5427 \u597d\u8fd0\u5c06\u5e38\u4f34\u4f60\u7684\u8eab\u8fb9",
+        "col_2_de": "Gl\u00fcck sei jenen hold, die im Einklang mit ihren Kameraden voranschreiten.",
+        "col_2_en": "Fortunate are those who do not stray from their friends.",
+        "col_2_fr": "Accorder vos pas \u00e0 ceux de vos camarades vous sera b\u00e9n\u00e9fique.",
+        "col_2_ja": "\u4ef2\u9593\u3068\u6b69\u307f\u3092\u5408\u308f\u305b\u3088\u3000\u3055\u3059\u308c\u3070\u5409\u3042\u308a"
+    },
+    "2100": {
+        "0xID": "834",
+        "col_2_cn": "\u575a\u5fcd\u4e0d\u62d4 \u81ea\u4fe1\u81ea\u52b1 \u524d\u8def\u4e3a\u5f00",
+        "col_2_de": "Bleibe treu deinem Glauben und ein neuer Weg wird sich \u00f6ffnen.",
+        "col_2_en": "Stay true to thyself, and the way shall open for thee.",
+        "col_2_fr": "Restez fid\u00e8le \u00e0 vos convictions pour trouver la voie.",
+        "col_2_ja": "\u5df1\u306e\u4fe1\u5ff5\u3064\u3089\u306c\u3051\u3070\u3001\u9053\u306f\u958b\u3051\u308b"
+    },
+    "2101": {
+        "0xID": "835",
+        "col_2_cn": "\u86db\u4e1d\u9a6c\u8ff9 \u7591\u8e2a\u63a2\u6848 \u8bf7\u8c03\u67e5\u5458 \u5409",
+        "col_2_de": "Ein mysteri\u00f6ses Ereignis steht bevor, erbitte die Hilfe des Meisterkriminologen.",
+        "col_2_en": "A case is afoot. Enlist the services of the most gentlemanly of inspectors.",
+        "col_2_fr": "Face au myst\u00e8re, appelez \u00e0 l'aide le gentilhomme d\u00e9tective.",
+        "col_2_ja": "\u4e8b\u4ef6\u306e\u6c17\u914d\u3042\u308a\u3000\u4e8b\u4ef6\u5c4b\u306b\u983c\u308b\u306e\u304c\u5409"
+    },
+    "2102": {
+        "0xID": "836",
+        "col_2_cn": "\u98ce\u571f\u4eba\u60c5 \u6c11\u4fd7\u4e60\u60ef \u8033\u76ee\u4e00\u65b0",
+        "col_2_de": "Lass deinen Blick schweifen \u00fcber Szenerie und Geschichte. Bisher Unentdecktes mag dir so ins Auge fallen.",
+        "col_2_en": "Look closely at the weave of the lands thou seest, and thou shalt make new discoveries.",
+        "col_2_fr": "Int\u00e9ressez-vous \u00e0 l'histoire des contr\u00e9es travers\u00e9es pour y faire des d\u00e9couvertes.",
+        "col_2_ja": "\u571f\u5730\u571f\u5730\u306e\u98a8\u7269\u3084\u6b74\u53f2\u306b\u76ee\u3092\u5411\u3051\u3088\u3000\u65b0\u305f\u306a\u6c17\u4ed8\u304d\u3042\u308a"
+    },
+    "2103": {
+        "0xID": "837",
+        "col_2_cn": "\u826f\u5e08\u76ca\u53cb \u7ed3\u4f34\u540c\u6e38 \u79f0\u5fc3\u5feb\u6d3b",
+        "col_2_de": "Posiere mit deinen Kameraden und schaffe weitere unsch\u00e4tzbare Erinnerungen.",
+        "col_2_en": "Gather thine allies, and embark upon a journey to remember.",
+        "col_2_fr": "Prenez la pose en groupe pour garder des souvenirs de vos voyages.",
+        "col_2_ja": "\u96c6\u56e3\u3067\u59ff\u52e2\u3092\u6574\u3048\u3001\u65c5\u306e\u601d\u3044\u51fa\u3092\u6b8b\u3059\u3079\u3057"
+    },
+    "2104": {
+        "0xID": "838",
+        "col_2_cn": "\u6295\u8eab\u6d2a\u6d41 \u968f\u6f6e\u6d6a\u6d8c \u5929\u547d\u6240\u5f52",
+        "col_2_de": "Lass dich leiten von den Str\u00e4ngen des Schicksals, sie werden dich zu Wachstum f\u00fchren.",
+        "col_2_en": "Place thyself in fate's hand, and thou wilt surely grow.",
+        "col_2_fr": "Faites confiance \u00e0 la providence pour vous aider \u00e0 progresser.",
+        "col_2_ja": "\u904b\u547d\u306b\u8eab\u3092\u4efb\u305b\u3088\u3000\u3055\u3059\u308c\u3070\u6210\u9577\u3042\u308a"
+    },
+    "2105": {
+        "0xID": "839",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "2106": {
+        "0xID": "83A",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "2200": {
+        "0xID": "898",
+        "col_2_cn": "\u65f6\u523b\u52ff\u5fd8\u611f\u6069 \u611f\u6069\u5c06\u5e26\u7ed9\u4f60\u7f18\u5206",
+        "col_2_de": "Untrennbare B\u00fcnde seien jenen gewiss, die stets ihre Dankbarkeit zeigen.",
+        "col_2_en": "Be ever grateful, and thou shalt know blessed friendship.",
+        "col_2_fr": "Sachez vous montrer reconnaissante pour entretenir de bonnes relations.",
+        "col_2_ja": "\u611f\u8b1d\u5fd8\u308c\u306d\u3070\u3001\u3088\u304d\u7e01\u306b\u6075\u307e\u308c\u308b"
+    },
+    "2201": {
+        "0xID": "899",
+        "col_2_cn": "\u8eab\u8fb9\u7684\u597d\u53cb\u5c31\u662f\u4f60\u7684\u81f3\u5b9d \u52a1\u5fc5\u73cd\u60dc\u4e0e\u4f60\u540c\u884c\u7684\u597d\u53cb",
+        "col_2_de": "Unermesslichen Wertes sind deine momentanen Kameraden, lass dein Benehmen dies widerspiegeln.",
+        "col_2_en": "Thy comrades are thy treasures. Cherish them well.",
+        "col_2_fr": "Prenez soin de vos amis, ils sont ce que vous avez de plus pr\u00e9cieux.",
+        "col_2_ja": "\u3044\u307e\u306e\u4ef2\u9593\u3053\u305d\u304c\u81f3\u5b9d\u3000\u307e\u3059\u307e\u3059\u5927\u5207\u306b\u3059\u3079\u3057"
+    },
+    "2202": {
+        "0xID": "89A",
+        "col_2_cn": "\u540c\u597d\u867d\u6765\u81ea\u5f02\u56fd\u4ed6\u4e61 \u4f46\u4f60\u7684\u52c7\u6c14\u5c06\u6210\u5c31\u4f60\u4eec\u7684\u7f18\u5206",
+        "col_2_de": "Ein Seelenverwandter wartet in fremden L\u00e4ndern, mache dich umgehend auf den Weg.",
+        "col_2_en": "From a foreign land cometh a kindred soul. Embrace them without reserve.",
+        "col_2_fr": "N'ayez pas peur d'\u00e9changer avec des aventuriers de contr\u00e9es lointaines.",
+        "col_2_ja": "\u7570\u56fd\u306e\u540c\u5fd7\u3068\u306e\u7e01\u3042\u308a\u3000\u81c6\u3055\u305a\u4ea4\u6d41\u3059\u3079\u3057"
+    },
+    "2203": {
+        "0xID": "89B",
+        "col_2_cn": "\u52c7\u6562\u5730\u8868\u8fbe\u81ea\u5df1\u5427 \u78d5\u5df4\u5730\u778e\u6bd4\u5212\u4e5f\u603b\u6bd4\u95ed\u53e3\u4e0d\u8c08\u5f3a",
+        "col_2_de": "Seien auch Gesten vonn\u00f6ten, sei unbesorgt. Deine Gedanken und Gef\u00fchle werden dein Gegen\u00fcber erreichen.",
+        "col_2_en": "Where words fail to convey thy feelings, gestures may yet succeed.",
+        "col_2_fr": "Exprimez-vous aussi avec des gestes pour \u00eatre comprise.",
+        "col_2_ja": "\u60f3\u3044\u306f\u4f1d\u308f\u308b\u3000\u8eab\u632f\u308a\u624b\u632f\u308a\u3092\u4ea4\u3048\u308b\u3079\u3057"
+    },
+    "2204": {
+        "0xID": "89C",
+        "col_2_cn": "\u88f9\u8db3\u4e0d\u524d\u54ea\u6709\u826f\u7f18 \u5feb\u53bb\u53c2\u52a0\u5192\u9669\u8005\u4eec\u4e3e\u529e\u7684\u6d3b\u52a8\u5427",
+        "col_2_de": "Ewiges Warten wird keinerlei Ver\u00e4nderung bringen. Suche die Gesellschaft von gleichgesinnten Abenteurern.",
+        "col_2_en": "Nothing good will come of waiting. Participate in a gathering hosted by adventurers.",
+        "col_2_fr": "N'attendez pas qu'on vienne vous chercher pour former votre groupe.",
+        "col_2_ja": "\u5f85\u3063\u3066\u3044\u3066\u3082\u826f\u7e01\u306a\u3057\u3000\u5192\u967a\u8005\u4e3b\u50ac\u306e\u96c6\u3044\u306b\u53c2\u52a0\u305b\u3088"
+    },
+    "2300": {
+        "0xID": "8FC",
+        "col_2_cn": "\u65e5\u79ef\u6708\u7d2f \u54ea\u6015\u91d1\u989d\u4e0d\u5927\u8d5a\u4e86\u5c31\u662f\u8d5a\u4e86",
+        "col_2_de": "Auch der kleinste Lohn ist Teil des Weges zum Reichtum, daher vernachl\u00e4ssige nicht deine t\u00e4glichen Pflichten.",
+        "col_2_en": "Great success is the accumulation of small efforts. Neglect not thy daily chores.",
+        "col_2_fr": "De petites \u00e9conomies na\u00eetra un grand profit.",
+        "col_2_ja": "\u65e5\u8ab2\u3092\u6020\u3089\u305a\u904e\u3054\u305b\u3000\u5875\u7a4d\u3082\u3063\u3066\u8ca1\u3068\u306a\u308b"
+    },
+    "2301": {
+        "0xID": "8FD",
+        "col_2_cn": "\u8fc1\u5730\u4e3a\u826f \u83ab\u8981\u9519\u5931\u5546\u673a",
+        "col_2_de": "Ein Umzug in ein neues Heim wird dir Gl\u00fcck bescheren, also handle rasch, ehe die Chance vertan ist!",
+        "col_2_en": "Now is an auspicious time to find a new home. Seize the opportunity.",
+        "col_2_fr": "Si vous en avez envie, c'est le moment id\u00e9al pour d\u00e9m\u00e9nager.",
+        "col_2_ja": "\u5bb6\u79fb\u308a\u306b\u5409\u3042\u308a\u3000\u597d\u6a5f\u3092\u9003\u3059\u306a"
+    },
+    "2302": {
+        "0xID": "8FE",
+        "col_2_cn": "\u5c71\u73cd\u5f02\u8349 \u5728\u5c71\u91ce\u5730\u533a\u91c7\u96c6\u6709\u5546\u673a",
+        "col_2_de": "Sammle frische Gaben der Berge und T\u00e4ler, gro\u00dfe Gewinne werden sich so erzielen lassen.",
+        "col_2_en": "Great profits await reaping in the wilderness.",
+        "col_2_fr": "Partez r\u00e9colter et la nature vous r\u00e9compensera.",
+        "col_2_ja": "\u5c71\u91ce\u3067\u306e\u63a1\u96c6\u306b\u5229\u3042\u308a"
+    },
+    "2303": {
+        "0xID": "8FF",
+        "col_2_cn": "\u4f19\u4f34\u5173\u7cfb \u670b\u53cb\u7684\u4ecb\u7ecd\u5c06\u5e26\u6765\u5546\u673a",
+        "col_2_de": "G\u00fcnstige Gelegenheiten n\u00e4hren sich in Gestalt eines treuen Kameraden, lausche seinem Rat.",
+        "col_2_en": "A chance for profit shall come by way of a friend.",
+        "col_2_fr": "Vous vous enrichirez par l'interm\u00e9diaire d'un ami.",
+        "col_2_ja": "\u4ef2\u9593\u306e\u4ef2\u4ecb\u3042\u308c\u3070\u3001\u5546\u6a5f\u3042\u308a"
+    },
+    "2304": {
+        "0xID": "900",
+        "col_2_cn": "\u7a7a\u6d77\u5947\u73cd \u6f5c\u6c34\u8247\u4e0e\u98de\u7a7a\u8247\u53ef\u80fd\u5e26\u6765\u8d22\u5b9d",
+        "col_2_de": "Sch\u00e4tze liegen verborgen \u00fcber den Wolken und tief im Meer, sende unverz\u00fcglich Luftschiffe und Tauchboote los.",
+        "col_2_en": "Wealth lieth in the seas and skies. Send forth vessels to explore.",
+        "col_2_fr": "Sous les mers ou dans les cieux, lancez une exp\u00e9dition d'exploration.",
+        "col_2_ja": "\u7a7a\u3068\u6d77\u306b\u8ca1\u3042\u308a\u3000\u98db\u7a7a\u8247\u3084\u6f5c\u6c34\u8266\u3092\u6d3e\u9063\u305b\u3088"
+    },
+    "2400": {
+        "0xID": "960",
+        "col_2_cn": "\u80fd\u8d62\uff01 \u8bb0\u5f97\u5e26\u591f\u836f\u548c\u98df\u7269",
+        "col_2_de": "Trage stets reichlich Proviant und Heilmittel mit dir, so wird sich jeder Kampf zu deinen Gunsten entscheiden.",
+        "col_2_en": "Neglect not thy provisions, and victory shall be thine.",
+        "col_2_fr": "Pr\u00e9parez de quoi manger et vous soigner pour gagner.",
+        "col_2_ja": "\u52dd\u3066\u308b\u3000\u98df\u4e8b\u85ac\u54c1\u306e\u6e96\u5099\u3092\u6020\u3089\u306c\u3053\u3068"
+    },
+    "2401": {
+        "0xID": "961",
+        "col_2_cn": "\u8270\u96be\u53d6\u80dc\uff01 \u8c03\u6574\u4e00\u4e0b\u88c5\u5907\u4f1a\u66f4\u597d",
+        "col_2_de": "Scheint der Sieg im Kampf unerreichbar, so erneuere deine Ausr\u00fcstung und deine Gegner werden mit Leichtigkeit fallen.",
+        "col_2_en": "A grueling battle awaiteth. Reassess thine equipment.",
+        "col_2_fr": "Si vous gagnez dans la douleur, pensez \u00e0 mieux vous pr\u00e9parer.",
+        "col_2_ja": "\u82e6\u6226\u3059\u308b\u304c\u52dd\u3066\u308b\u3000\u88c5\u5099\u3092\u898b\u76f4\u3059\u3079\u3057"
+    },
+    "2402": {
+        "0xID": "962",
+        "col_2_cn": "\u80fd\u8d62\uff01 \u4f46\u8981\u6212\u9a84\u6212\u8e81 \u4e0d\u56e0\u6389\u4ee5\u8f7b\u5fc3\u800c\u5931\u8d25",
+        "col_2_de": "Zu hoher Stolz auf bestandene K\u00e4mpfe f\u00fchrt zu Niederlagen im kommenden Gefecht.",
+        "col_2_en": "Dwell not overmuch in sweet victory, or bitter defeat shall follow.",
+        "col_2_fr": "Si vous vous reposez sur vos lauriers, la victoire pourrait vous \u00e9chapper.",
+        "col_2_ja": "\u52dd\u3066\u308b\u3000\u305f\u3060\u3057\u9a55\u308c\u3070\u3001\u6b21\u306f\u8ca0\u3051\u308b"
+    },
+    "2403": {
+        "0xID": "963",
+        "col_2_cn": "\u4f60\u4eec\u80fd\u8d62\uff01 \u548c\u540c\u4f34\u4eec\u8c03\u6574\u597d\u6b65\u8c03\u4e00\u8d77\u4e0a\u5427\uff01",
+        "col_2_de": "Deine St\u00e4rke kann dir den Sieg bescheren, k\u00e4mpfe im Einklang mit deinen Gef\u00e4hrten.",
+        "col_2_en": "For strength thou wantest not. Thou needest but breathe as one with thine allies.",
+        "col_2_fr": "Sans coordination, la puissance n'est rien.",
+        "col_2_ja": "\u529b\u91cf\u306f\u3088\u3057\u3000\u4ef2\u9593\u3068\u547c\u5438\u3092\u5408\u308f\u305b\u3088"
+    },
+    "2404": {
+        "0xID": "964",
+        "col_2_cn": "\u4f60\u4eec\u80fd\u8d62\uff01 \u548c\u540c\u4f34\u4eec\u8c03\u6574\u597d\u6b65\u8c03\u4e00\u8d77\u4e0a\u5427\uff01",
+        "col_2_de": "Deine St\u00e4rke kann dir den Sieg bescheren, k\u00e4mpfe im Einklang mit deinen Gef\u00e4hrten.",
+        "col_2_en": "For strength thou wantest not. Thou needest but breathe as one with thine allies.",
+        "col_2_fr": "Sans coordination, la puissance n'est rien.",
+        "col_2_ja": "\u529b\u91cf\u306f\u3088\u3057\u3000\u4ef2\u9593\u3068\u547c\u5438\u3092\u5408\u308f\u305b\u3088"
+    },
+    "2500": {
+        "0xID": "9C4",
+        "col_2_cn": "\u4f60\u5982\u5149\u9634\u795e\u822c\u7684\u4fe1\u5ff5\u5c06\u5f15\u4f60\u907f\u5f00\u4ed6\u4eba\u7684\u8bf1\u60d1",
+        "col_2_de": "F\u00fclle deinen Geist mit \u00dcberzeugung gleich Althyk, so wird niemand dich beirren k\u00f6nnen.",
+        "col_2_en": "Be steadfast like unto the Keeper, and thou shalt not be led astray.",
+        "col_2_fr": "Croyez en vos convictions tel Althyk pour ne jamais h\u00e9siter.",
+        "col_2_ja": "\u6642\u795e\u306e\u5982\u304d\u4fe1\u5ff5\u304c\u3042\u308c\u3070\u3001\u4ed6\u8005\u306b\u60d1\u308f\u3055\u308c\u308b\u3053\u3068\u304c\u306a\u3044\u3067\u3057\u3087\u3046"
+    },
+    "2501": {
+        "0xID": "9C5",
+        "col_2_cn": "\u4f60\u5982\u77e5\u8bc6\u795e\u822c\u7684\u5b66\u8bc6\u5c06\u5f15\u4f60\u4ece\u707e\u96be\u4e2d\u8131\u8eab",
+        "col_2_de": "F\u00fclle dein Herz mit Einsicht gleich Thaliak, und du wirst einen Weg durch jegliches Ungl\u00fcck finden.",
+        "col_2_en": "Be wise like unto the Scholar, and thou shalt find a way to overcome misfortune.",
+        "col_2_fr": "Soyez \u00e9rudite tel Thaliak pour surmonter les \u00e9preuves.",
+        "col_2_ja": "\u77e5\u795e\u306e\u5982\u304d\u53e1\u667a\u304c\u3042\u308c\u3070\u3001\u51f6\u4e8b\u3082\u5207\u308a\u629c\u3051\u3089\u308c\u308b\u3067\u3057\u3087\u3046"
+    },
+    "2502": {
+        "0xID": "9C6",
+        "col_2_cn": "\u4f60\u5982\u6218\u4e89\u795e\u822c\u7684\u96c4\u5fc3\u5c06\u5f15\u4f60\u5728\u6218\u6597\u4e2d\u575a\u6301\u5230\u6700\u540e",
+        "col_2_de": "F\u00fclle deinen Geist mit Willenskraft gleich Halone, so wird deine Kampfeskraft nie versiegen.",
+        "col_2_en": "Be resolute like unto the Fury, and thou shalt know no surrender.",
+        "col_2_fr": "Pers\u00e9v\u00e9rez telle Halone pour ne pas plier le genou.",
+        "col_2_ja": "\u6226\u795e\u306e\u5982\u304d\u5fd7\u304c\u3042\u308c\u3070\u3001\u6226\u3044\u7d9a\u3051\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3067\u3057\u3087\u3046"
+    },
+    "2503": {
+        "0xID": "9C7",
+        "col_2_cn": "\u4f60\u5982\u6708\u4eae\u795e\u822c\u7684\u773c\u5149\u5c06\u5f15\u4f60\u9ad8\u77bb\u8fdc\u77a9\u7eb5\u89c2\u5168\u5c40",
+        "col_2_de": "F\u00fclle deinen Geist mit der Sichtweise Menphinas, so wirst du nie den \u00dcberlick verlieren.",
+        "col_2_en": "Be observant like unto the Lover, and thou shalt see all things for what they are.",
+        "col_2_fr": "Soyez observatrice telle Menphina pour appr\u00e9hender la situation.",
+        "col_2_ja": "\u6708\u795e\u306e\u5982\u304d\u8996\u70b9\u304c\u3042\u308c\u3070\u3001\u5927\u5c40\u3092\u898b\u636e\u3048\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3067\u3057\u3087\u3046"
+    },
+    "2504": {
+        "0xID": "9C8",
+        "col_2_cn": "\u4f60\u5982\u592a\u9633\u795e\u822c\u7684\u8c6a\u723d\u5c06\u5f15\u4f60\u548c\u540c\u4f34\u8d70\u5411\u524d\u8def",
+        "col_2_de": "F\u00fclle dein Herz mit Unerschrockenheit gleich Azeyma, so wirst du deine Kameraden stets sicher leiten.",
+        "col_2_en": "Be audacious like unto the Warden, and thy comrades shall follow thee true.",
+        "col_2_fr": "Enhardissez-vous telle Azeyma pour mener vos compagnons.",
+        "col_2_ja": "\u65e5\u795e\u306e\u5982\u304d\u8c6a\u6c17\u3055\u304c\u3042\u308c\u3070\u3001\u4ef2\u9593\u3092\u5c0e\u304f\u3053\u3068\u3082\u3067\u304d\u308b\u3067\u3057\u3087\u3046"
+    },
+    "300": {
+        "0xID": "12C",
+        "col_2_cn": "\u6e05\u5fc3\u5be1\u6b32 \u597d\u8fd0\u4f34\u4f60 \u5feb\u628a\u6218\u5229\u54c1\u5e26\u56de\u5bb6\u5427\uff01",
+        "col_2_de": "Beute von unsch\u00e4tzbarem Wert sei denen beschert, die sich ihrer Gier entledigen.",
+        "col_2_en": "Cast aside thy greed, and thou shalt reap the spoils of numbers great.",
+        "col_2_fr": "Oubliez toute cupidit\u00e9 pour remporter quantit\u00e9 de troph\u00e9es.",
+        "col_2_ja": "\u6b32\u6368\u3066\u308c\u3070\u3001\u5927\u306a\u308b\u6570\u5b57\u4ee5\u3066\u6226\u5229\u54c1\u3092\u5f97\u308b"
+    },
+    "301": {
+        "0xID": "12D",
+        "col_2_cn": "\u53d1\u8d22\u81f4\u5bcc \u73b0\u5728\u5c31\u53bb\u91d1\u789f\u6e38\u4e50\u573a\u5427\uff01",
+        "col_2_de": "Die Sterne stehen g\u00fcnstig f\u00fcr schnellen Reichtum. Der goldene Palast des Vergn\u00fcgens sei dein Ziel.",
+        "col_2_en": "Upon thee luck shall smile. Seek riches in gilded halls.",
+        "col_2_fr": "La fortune vous tend les bras au Gold Saucer.",
+        "col_2_ja": "\u4e00\u652b\u5343\u91d1\u306e\u597d\u6a5f\u3042\u308a\u3000\u904a\u6280\u5834\u306b\u51fa\u3088"
+    },
+    "302": {
+        "0xID": "12E",
+        "col_2_cn": "\u597d\u8fd0\u5f53\u5934 \u673a\u4e0d\u53ef\u5931 \u5feb\u53bb\u5f00\u4e2a\u5b9d\u7bb1\u5427\uff01",
+        "col_2_de": "Entfalte eine Schatzkarte und begib dich auf die Suche, Gl\u00fcck wartet am Ende der Reise.",
+        "col_2_en": "A treasure map thou shouldst unfurl. Unto great fortune it shall lead thee.",
+        "col_2_fr": "Ouvrez une carte au tr\u00e9sor pour d\u00e9couvrir des merveilles.",
+        "col_2_ja": "\u5e78\u904b\u3042\u308a\u3000\u5b9d\u306e\u5730\u56f3\u3092\u958b\u304f\u3079\u3057"
+    },
+    "303": {
+        "0xID": "12F",
+        "col_2_cn": "\u5fc3\u968f\u610f\u52a8 \u60f3\u5f00\u95e8\u4fbf\u5f00\u95e8\uff01 \u60f3\u79f0\u9738\u5c31\u79f0\u9738\uff01",
+        "col_2_de": "Reise nach Herzenslust, doch \u00f6ffne jegliche Truhen, die du finden m\u00f6gest.",
+        "col_2_en": "All shall be to thy desire. Throw open coffers without fear.",
+        "col_2_fr": "Ouvrez des coffres au tr\u00e9sor au gr\u00e9 de vos envies.",
+        "col_2_ja": "\u671b\u307f\u306e\u307e\u307e\u306a\u308a\u3000\u9032\u3093\u3067\u5b9d\u7bb1\u3092\u958b\u3051\u3088"
+    },
+    "304": {
+        "0xID": "130",
+        "col_2_cn": "\u5927\u597d\u5546\u673a \u4f60\u7684\u751f\u610f\u5373\u5c06\u5927\u8d5a\u4e00\u7b14\uff01",
+        "col_2_de": "Gibst du dich dem Handel mit ganzem Herzen hin, so wird dir der Profit sicher sein.",
+        "col_2_en": "Profit shall come. Be honest in thy business dealings.",
+        "col_2_fr": "Soyez honn\u00eate en affaires pour remporter un franc succ\u00e8s.",
+        "col_2_ja": "\u5229\u3042\u308a\u3000\u5546\u58f2\u306b\u306f\u6b63\u76f4\u306b\u81e8\u3081"
+    },
+    "3100": {
+        "0xID": "C1C",
+        "col_2_cn": "\u5343\u91cc\u4e4b\u884c \u59cb\u4e8e\u8db3\u4e0b \u8c0b\u800c\u540e\u52a8",
+        "col_2_de": "Lege dein Ziel fest, ehe du aufbrichst.",
+        "col_2_en": "Know thy destination before thou embarkest upon thy journey.",
+        "col_2_fr": "D\u00e9cidez de votre destination avant de vous mettre en route.",
+        "col_2_ja": "\u52d5\u304f\u524d\u306b\u76ee\u7684\u5730\u3092\u5b9a\u3081\u3088"
+    },
+    "3101": {
+        "0xID": "C1D",
+        "col_2_cn": "\u5f02\u65cf\u76f8\u4f1a \u4eb2\u4ec1\u5584\u90bb \u5929\u4e0b\u4e00\u5bb6",
+        "col_2_de": "Trage Sorge daf\u00fcr, dass die W\u00fcnsche der Stammesv\u00f6lker erh\u00f6rt werden.",
+        "col_2_en": "Hearken to the pleas of those in need, no matter their race or creed.",
+        "col_2_fr": "Faites en sorte d'exaucer les v\u0153ux des tribus alli\u00e9es.",
+        "col_2_ja": "\u7570\u7a2e\u65cf\u3068\u306e\u51fa\u4f1a\u3042\u308a\u3000\u7387\u5148\u3057\u3066\u983c\u307f\u4e8b\u3092\u805e\u304f\u3079\u3057"
+    },
+    "3102": {
+        "0xID": "C1E",
+        "col_2_cn": "\u524d\u8def\u65e0\u963b \u5f98\u5f8a\u6b67\u8def \u56e0\u7978\u5f97\u798f",
+        "col_2_de": "Wer bereit ist, ausgetretene Pfade zu verlassen, wird mit Gl\u00fcck gesegnet sein.",
+        "col_2_en": "Seek fortune along the byway.",
+        "col_2_fr": "Sortez des sentiers battus pour trouver votre bonheur.",
+        "col_2_ja": "\u969c\u308a\u306a\u3057\u3000\u5bc4\u308a\u9053\u306b\u5409\u3042\u308a"
+    },
+    "3103": {
+        "0xID": "C1F",
+        "col_2_cn": "\u72ec\u884c\u9669\u963b \u524d\u8def\u6709\u96be \u540c\u670b\u76f8\u52a9",
+        "col_2_de": "Reise stets an der Seite von Freunden, um Gefahren zu meiden, die des Weges lauern.",
+        "col_2_en": "Alone thou shalt struggle. Set forth with allies.",
+        "col_2_fr": "Pr\u00e9f\u00e9rez les voyages entre amis pour \u00e9viter les ennuis.",
+        "col_2_ja": "\u3072\u3068\u308a\u65c5\u306b\u96e3\u3042\u308a\u3000\u53cb\u3092\u547c\u3073\u5171\u306b\u6b69\u3081"
+    },
+    "3104": {
+        "0xID": "C20",
+        "col_2_cn": "\u6545\u5730\u91cd\u6e38 \u4ed6\u4e61\u5f52\u5ba2 \u65f6\u6765\u8fd0\u8f6c",
+        "col_2_de": "Kehre in die erste Stadt zur\u00fcck, die du besucht hast. Dort wird sich dir Gl\u00fcck offenbaren.",
+        "col_2_en": "Behold once more the first city thou didst see. There, good fortune awaiteth thee.",
+        "col_2_fr": "Retournez dans votre premi\u00e8re cit\u00e9 pour trouver la prosp\u00e9rit\u00e9.",
+        "col_2_ja": "\u6700\u521d\u306b\u8a2a\u308c\u305f\u90fd\u5e02\u306b\u8d74\u3051\u3000\u958b\u904b\u306e\u5146\u3057\u3042\u308a"
+    },
+    "3105": {
+        "0xID": "C21",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "3106": {
+        "0xID": "C22",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "3200": {
+        "0xID": "C80",
+        "col_2_cn": "\u6ca1\u6d88\u606f\u6216\u7b97\u662f\u597d\u6d88\u606f \u4f46\u4e5f\u522b\u5fd8\u4e86\u5e38\u8054\u7cfb",
+        "col_2_de": "Pflege den Kontakt zu Gleichgesinnten, so soll dein Weg stets sicher sein.",
+        "col_2_en": "Neglect not to stay in touch with loved ones, and all shall be well.",
+        "col_2_fr": "Pensez \u00e0 donner des nouvelles \u00e0 ceux qui comptent pour vous.",
+        "col_2_ja": "\u97f3\u4fe1\u6020\u3089\u306d\u3070\u5b89\u6cf0\u3000\u307e\u3081\u306b\u9023\u7d61\u305b\u3088"
+    },
+    "3201": {
+        "0xID": "C81",
+        "col_2_cn": "\u65e7\u670b\u53cb\u4e5f\u53ef\u7ed3\u65b0\u7f18 \u522b\u5fd8\u4e86\u8054\u7cfb\u8001\u670b\u53cb",
+        "col_2_de": "Lass alte Freundschaften wieder aufleben.",
+        "col_2_en": "A face from thy past shall appear. Rekindle thy friendship.",
+        "col_2_fr": "Il vous sera b\u00e9n\u00e9fique de raviver une relation oubli\u00e9e.",
+        "col_2_ja": "\u65e7\u53cb\u3068\u306e\u7e01\u3042\u308a\u3000\u65e7\u4ea4\u3092\u6e29\u3081\u3088"
+    },
+    "3202": {
+        "0xID": "C82",
+        "col_2_cn": "\u4f60\u7684\u7f18\u5206\u6216\u8bb8\u4f1a\u8fdf\u5230 \u4f46\u53ea\u8981\u8010\u5fc3\u575a\u6301\u76f8\u9047\u4e0d\u4f1a\u4e0d\u5230",
+        "col_2_de": "\u00dcbe dich in Geduld: Die Zukunft h\u00e4lt eine Begegnung f\u00fcr dich bereit.",
+        "col_2_en": "There shall be a meeting long in the making. Abide in patience.",
+        "col_2_fr": "D'un retard na\u00eetra une rencontre, sachez garder patience.",
+        "col_2_ja": "\u6642\u9045\u308c\u3066\u51fa\u4f1a\u3044\u3042\u308a\u3000\u8f9b\u62b1\u5f37\u304f\u5f85\u3066"
+    },
+    "3203": {
+        "0xID": "C83",
+        "col_2_cn": "\u5728\u5371\u673a\u4e2d\u4f38\u51fa\u63f4\u624b \u6216\u5c06\u6210\u5c31\u4f60\u7684\u7f18\u5206",
+        "col_2_de": "Deine Hilfsbereitschaft wird mit einer neuen Freundschaft belohnt werden.",
+        "col_2_en": "Help those in need, and friendship shall bloom.",
+        "col_2_fr": "Votre g\u00e9n\u00e9rosit\u00e9 sera r\u00e9compens\u00e9e par une amiti\u00e9.",
+        "col_2_ja": "\u4ed6\u4eba\u3092\u52a9\u3051\u308b\u3068\u7e01\u3042\u308a"
+    },
+    "3204": {
+        "0xID": "C84",
+        "col_2_cn": "\u91cd\u89c6\u4f60\u5982\u4eca\u7684\u5173\u7cfb\u5427 \u5de9\u56fa\u5173\u7cfb\u603b\u662f\u597d\u7684",
+        "col_2_de": "Sch\u00e4tze und festige bestehende Freundschaften.",
+        "col_2_en": "Cherish the bonds with which thou art blessed, and strive to strengthen them.",
+        "col_2_fr": "Ch\u00e9rissez plus que jamais ceux qui vous entourent.",
+        "col_2_ja": "\u3044\u307e\u306e\u7d46\u3092\u5c0a\u91cd\u3057\u3001\u3088\u308a\u56fa\u304f\u3059\u3079\u3057"
+    },
+    "3300": {
+        "0xID": "CE4",
+        "col_2_cn": "\u9000\u6b65\u62bd\u8eab \u8d8a\u662f\u8fdf\u7591\u635f\u5931\u8d8a\u5927",
+        "col_2_de": "Wartest du zu lange mit dem Verkauf deiner Waren, werden dir Verluste sicher sein.",
+        "col_2_en": "Now is the time to sell. The longer thou waitest, the greater thy loss.",
+        "col_2_fr": "Plus vous attendrez pour vendre, plus vous serez perdante.",
+        "col_2_ja": "\u58f2\u308c\u3000\u5f85\u3064\u307b\u3069\u306b\u640d\u3042\u308a"
+    },
+    "3301": {
+        "0xID": "CE5",
+        "col_2_cn": "\u5982\u6570\u5bb6\u73cd \u4f60\u5e94\u5f53\u68c0\u67e5\u81ea\u5df1\u8d22\u4ea7",
+        "col_2_de": "Es ist an der Zeit, dein Hab und Gut neu zu ordnen.",
+        "col_2_en": "Put thy belongings in order.",
+        "col_2_fr": "C'est le moment ou jamais de faire un peu de rangement.",
+        "col_2_ja": "\u5bb6\u8ca1\u3092\u3088\u304f\u6574\u7406\u3059\u308b\u3053\u3068"
+    },
+    "3302": {
+        "0xID": "CE6",
+        "col_2_cn": "\u798f\u7978\u76f8\u4f9d \u4e0d\u60e7\u635f\u5931\u4fbf\u80fd\u53d6\u5f97\u4e00\u5b9a\u7684\u5229\u76ca",
+        "col_2_de": "Wer keine Verluste f\u00fcrchtet, wird gro\u00dfe Gewinne erzielen.",
+        "col_2_en": "If thou fearest not to lose, thou shalt stand to gain.",
+        "col_2_fr": "N'ayez pas peur d'\u00e9chouer pour rencontrer le succ\u00e8s.",
+        "col_2_ja": "\u640d\u3092\u6016\u308c\u306a\u3051\u308c\u3070\u3001\u591a\u5c11\u306e\u5229\u3042\u308a"
+    },
+    "3303": {
+        "0xID": "CE7",
+        "col_2_cn": "\u6325\u91d1\u5982\u571f \u4fbf\u80fd\u5f97\u5230\u81ea\u5df1\u771f\u6b63\u60f3\u8981\u7684\u4e1c\u897f",
+        "col_2_de": "Geize nicht mit deinen Ausgaben und du wirst erhalten, was du begehrst.",
+        "col_2_en": "Although it be at great expense, thou shalt obtain the object of thy desire.",
+        "col_2_fr": "Vous gaspillerez mais obtiendrez ce que vous d\u00e9sirez.",
+        "col_2_ja": "\u6563\u8ca1\u591a\u3057\u3000\u6b32\u3057\u3044\u3082\u306e\u306f\u624b\u306b\u5165\u308b"
+    },
+    "3304": {
+        "0xID": "CE8",
+        "col_2_cn": "\u91d1\u5170\u4e4b\u4ea4 \u597d\u53cb\u5c06\u52a9\u4f60\u4e00\u81c2\u4e4b\u529b",
+        "col_2_de": "Die Hilfe eines Freundes wird dir von Nutzen sein.",
+        "col_2_en": "Thou shalt gain through the help of thy friends.",
+        "col_2_fr": "L'intervention d'un camarade vous sera b\u00e9n\u00e9fique.",
+        "col_2_ja": "\u53cb\u306e\u52a9\u3051\u3067\u5f97\u3089\u308c\u308b\u3053\u3068\u3042\u308a"
+    },
+    "3400": {
+        "0xID": "D48",
+        "col_2_cn": "\u522b\u653e\u5f03\uff01\u6bcf\u6b21\u5012\u4e0b\u90fd\u4f1a\u8ba9\u4f60\u53d8\u5f97\u66f4\u5f3a\u5927",
+        "col_2_de": "Je \u00f6fter du verlierst, desto st\u00e4rker wirst du aus deinen K\u00e4mpfen hervorgehen.",
+        "col_2_en": "Although thou shalt fall, thou shalt rise up stronger each time.",
+        "col_2_fr": "Plus vous perdrez, plus forte vous deviendrez.",
+        "col_2_ja": "\u8ca0\u3051\u308b\u304c\u3001\u5730\u9762\u3092\u898b\u305f\u6570\u3060\u3051\u5f37\u304f\u306a\u308b"
+    },
+    "3401": {
+        "0xID": "D49",
+        "col_2_cn": "\u522b\u6389\u4ee5\u8f7b\u5fc3\uff01\u6bcf\u573a\u6218\u6597\u90fd\u8981\u5168\u529b\u4ee5\u8d74",
+        "col_2_de": "Bleibe achtsam. Das Blatt kann sich bis zum Schluss noch wenden.",
+        "col_2_en": "Be not complacent. Remain vigilant from beginning to end.",
+        "col_2_fr": "Attendez que tout soit termin\u00e9 avant de vous rel\u00e2cher.",
+        "col_2_ja": "\u6cb9\u65ad\u306e\u6c17\u914d\u3042\u308a\u3000\u6700\u5f8c\u307e\u3067\u6c17\u3092\u629c\u304b\u305a\u306b\u6311\u3081"
+    },
+    "3402": {
+        "0xID": "D4A",
+        "col_2_cn": "\u522b\u80e1\u601d\u4e71\u60f3\uff01\u6bcf\u6b21\u7ec3\u4e60\u90fd\u8981\u4e13\u5fc3\u81f4\u5fd7",
+        "col_2_de": "Gib dich keinen Ablenkungen hin. Widme dich voll und ganz deinen \u00dcbungen.",
+        "col_2_en": "Cast aside idle thoughts, and focus wholly on that which requireth thine attention.",
+        "col_2_fr": "Gardez votre concentration pour mieux vous entra\u00eener.",
+        "col_2_ja": "\u4fee\u884c\u306b\u96d1\u5ff5\u591a\u3057\u3000\u4e07\u4e8b\u5168\u529b\u3092\u5c3d\u304f\u305b"
+    },
+    "3403": {
+        "0xID": "D4B",
+        "col_2_cn": "\u953b\u70bc\u5427\uff01\u548c\u4f19\u4f34\u4eec\u9f50\u5fc3\u534f\u529b\u7ee7\u7eed\u7ec3\u4e60",
+        "col_2_de": "\u00dcbe unerm\u00fcdlich mit deinen Kameraden.",
+        "col_2_en": "Continue honing thyself with thine allies.",
+        "col_2_fr": "Entra\u00eenez-vous sans rel\u00e2che avec vos camarades.",
+        "col_2_ja": "\u4ef2\u9593\u3068\u306e\u935b\u932c\u3092\u7d9a\u3051\u308b\u3079\u3057"
+    },
+    "3404": {
+        "0xID": "D4C",
+        "col_2_cn": "\u953b\u70bc\u5427\uff01\u548c\u4f19\u4f34\u4eec\u9f50\u5fc3\u534f\u529b\u7ee7\u7eed\u7ec3\u4e60",
+        "col_2_de": "\u00dcbe unerm\u00fcdlich mit deinen Kameraden.",
+        "col_2_en": "Continue honing thyself with thine allies.",
+        "col_2_fr": "Entra\u00eenez-vous sans rel\u00e2che avec vos camarades.",
+        "col_2_ja": "\u4ef2\u9593\u3068\u306e\u935b\u932c\u3092\u7d9a\u3051\u308b\u3079\u3057"
+    },
+    "3500": {
+        "0xID": "DAC",
+        "col_2_cn": "\u4f60\u5982\u6d77\u6d0b\u795e\u822c\u7684\u7c97\u72b7\u5c06\u5f15\u4f60\u5bf9\u6297\u547d\u8fd0\u7684\u60ca\u6d9b\u9a87\u6d6a",
+        "col_2_de": "Mit Llymlaens Ungest\u00fcm wirst du den st\u00fcrmischen Wogen des Schicksals trotzen k\u00f6nnen.",
+        "col_2_en": "Be boisterous like unto the Navigator, and from fate's tides thou mayest yet break free.",
+        "col_2_fr": "Faites face telle Llymlaen pour surmonter les \u00e9preuves.",
+        "col_2_ja": "\u6d77\u795e\u306e\u5982\u304d\u8352\u3005\u3057\u3055\u304c\u3042\u308c\u3070\u3001\u904b\u547d\u306e\u8352\u6ce2\u306b\u3082\u6297\u3048\u308b\u3067\u3057\u3087\u3046"
+    },
+    "3501": {
+        "0xID": "DAD",
+        "col_2_cn": "\u4f60\u5982\u653e\u6d6a\u795e\u822c\u7684\u6e29\u826f\u5c06\u5f15\u4f60\u9762\u5bf9\u5931\u8d25\u7684\u632b\u6298",
+        "col_2_de": "Mit Oschons Unbeschwertheit wirst du dich von Fehlschl\u00e4gen nicht aus der Ruhe bringen lassen.",
+        "col_2_en": "Be carefree like unto the Wanderer, and some few failures shall not discourage thee.",
+        "col_2_fr": "Soyez insouciante tel Oschon pour faire fi des \u00e9checs.",
+        "col_2_ja": "\u65c5\u795e\u306e\u5982\u304d\u5451\u6c17\u3055\u304c\u3042\u308c\u3070\u3001\u591a\u5c11\u306e\u5931\u6557\u3082\u6c17\u306b\u306a\u3089\u306a\u3044\u3067\u3057\u3087\u3046"
+    },
+    "3502": {
+        "0xID": "DAE",
+        "col_2_cn": "\u4f60\u5982\u884c\u661f\u795e\u822c\u7684\u4e50\u89c2\u5c06\u5f15\u4f60\u4ece\u5bb9\u5e94\u5bf9\u547d\u8fd0\u8d77\u4f0f",
+        "col_2_de": "Mit Nymeias Weitsicht wirst du dem Schicksal niemals ausgeliefert sein.",
+        "col_2_en": "Be farsighted like unto the Spinner, and thou shalt rise above the caprices of fortune.",
+        "col_2_fr": "Prenez de la hauteur telle Nymeia pour \u00e9viter d'\u00eatre malmen\u00e9e.",
+        "col_2_ja": "\u661f\u795e\u306e\u5982\u304d\u9054\u89b3\u304c\u3042\u308c\u3070\u3001\u904b\u306b\u7ffb\u5f04\u3055\u308c\u308b\u3053\u3068\u304c\u306a\u3044\u3067\u3057\u3087\u3046"
+    },
+    "3503": {
+        "0xID": "DAF",
+        "col_2_cn": "\u4f60\u5982\u7834\u574f\u795e\u822c\u7684\u4e25\u5389\u5c06\u5f15\u4f60\u7a81\u7834\u96be\u5173\u8d70\u5411\u80dc\u5229",
+        "col_2_de": "Mit Rhalgrs Unnachgiebigkeit wirst du jede Notlage zu \u00fcberwinden wissen.",
+        "col_2_en": "Be unyielding like unto the Destroyer, and thou shalt break through any hardship.",
+        "col_2_fr": "Soyez inflexible tel Rhalgr pour relever les d\u00e9fis.",
+        "col_2_ja": "\u58ca\u795e\u306e\u5982\u304d\u53b3\u3057\u3055\u304c\u3042\u308c\u3070\u3001\u56f0\u96e3\u306a\u72b6\u6cc1\u3082\u6253\u7834\u3067\u304d\u308b\u3067\u3057\u3087\u3046"
+    },
+    "3504": {
+        "0xID": "DB0",
+        "col_2_cn": "\u4f60\u5982\u5de5\u5320\u795e\u822c\u7684\u6280\u5de7\u5c06\u5f15\u4f60\u7075\u6d3b\u5e94\u5bf9\u6b66\u5668\u88c5\u5907\u7684\u635f\u6bc1",
+        "col_2_de": "Mit Byregots Geschick wirst du dir bei besch\u00e4digten Ausr\u00fcstungsgegenst\u00e4nden stets zu helfen wissen.",
+        "col_2_en": "Be dexterous like unto the Builder, and thy tools shall never fail thee.",
+        "col_2_fr": "Soyez habile tel Byregot pour r\u00e9parer ce qui est bris\u00e9.",
+        "col_2_ja": "\u5de5\u795e\u306e\u5982\u304d\u6280\u5de7\u304c\u3042\u308c\u3070\u3001\u88c5\u5099\u304c\u58ca\u308c\u3066\u3082\u5b89\u5fc3\u3067\u3057\u3087\u3046"
+    },
+    "400": {
+        "0xID": "190",
+        "col_2_cn": "\u53bb\u6218\u6597\u5427\uff01\u6bcf\u4e2a\u5f3a\u654c\u90fd\u5c06\u6210\u4e3a\u4f60\u767b\u4e0a\u9ad8\u5cf0\u7684\u57ab\u811a\u77f3",
+        "col_2_de": "Du wirst im Kampf mit M\u00e4chtigen wachsen. Stelle dich Herausforderungen ohne Angst.",
+        "col_2_en": "Take to battle with confidence. Each mighty foe shall see thee grow.",
+        "col_2_fr": "N'ayez pas peur de d\u00e9fier de puissants ennemis pour progresser.",
+        "col_2_ja": "\u5b89\u5fc3\u3057\u3066\u6311\u3081\u3000\u5f37\u6575\u3068\u6226\u3046\u307b\u3069\u306b\u6210\u9577\u3042\u308a"
+    },
+    "401": {
+        "0xID": "191",
+        "col_2_cn": "\u53bb\u953b\u70bc\u5427\uff01\u7ec3\u4e60\u6280\u672f\u5c06\u5e26\u4f60\u627e\u5230\u901a\u5f80\u80dc\u5229\u7684\u771f\u7406",
+        "col_2_de": "Nur stetes \u00dcben kann die wahre Macht deiner F\u00e4higkeiten offenbaren.",
+        "col_2_en": "Beyond repetition lieth truth. Neglect not thy training.",
+        "col_2_fr": "Travaillez inlassablement vos techniques pour trouver la v\u00e9rit\u00e9.",
+        "col_2_ja": "\u6280\u3092\u7e70\u308a\u8fd4\u305b\u3070\u3001\u771f\u7406\u3092\u5f97\u308b"
+    },
+    "402": {
+        "0xID": "192",
+        "col_2_cn": "\u53bb\u4ea4\u53cb\u5427\uff01\u6218\u53cb\u6216\u5c06\u662f\u4f60\u6210\u957f\u7684\u5951\u673a",
+        "col_2_de": "Richte deinen Blick auf deine Mitstreiter, sie werden zu deinem Wachstum beitragen.",
+        "col_2_en": "Look to thy comrades-in-arms. Much have they to teach thee.",
+        "col_2_fr": "Observez attentivement vos alli\u00e9s pour accomplir des progr\u00e8s.",
+        "col_2_ja": "\u6226\u53cb\u3092\u898b\u3088\u3000\u305d\u3053\u306b\u6210\u9577\u306e\u5951\u6a5f\u3042\u308a"
+    },
+    "403": {
+        "0xID": "193",
+        "col_2_cn": "\u53bb\u5b66\u4e60\u5427\uff01\u5b66\u4e60\u65b0\u7684\u804c\u4e1a\u65b0\u7684\u6280\u672f\u5c06\u5e26\u7ed9\u4f60\u8d28\u7684\u98de\u8dc3",
+        "col_2_de": "Erlerne K\u00fcnste und F\u00e4higkeiten einer neuen Zunft. Gro\u00dfe Fortschritte stehen dir bevor.",
+        "col_2_en": "Great opportunities for growth lie in fields yet unexplored.",
+        "col_2_fr": "Apprendre une nouvelle discipline vous permettra de grandir.",
+        "col_2_ja": "\u65b0\u305f\u306a\u8077\u306e\u8853\u3084\u6280\u3092\u5b66\u3076\u3079\u3057\u3000\u98db\u8e8d\u306e\u5146\u3057\u3042\u308a"
+    },
+    "404": {
+        "0xID": "194",
+        "col_2_cn": "\u53bb\u953b\u70bc\u5427\uff01\u7ec3\u4e60\u5faa\u73af\u5c06\u5e26\u4f60\u627e\u5230\u901a\u5f80\u80dc\u5229\u7684\u771f\u7406",
+        "col_2_de": "Nur wiederholtes Ausf\u00fchren von F\u00e4higkeiten kann deren wahre Macht offenbaren.",
+        "col_2_en": "Beyond repetition lieth truth. Neglect not thy training.",
+        "col_2_fr": "Travaillez inlassablement vos techniques pour trouver la v\u00e9rit\u00e9.",
+        "col_2_ja": "\u6280\u3092\u7e70\u308a\u8fd4\u305b\u3070\u3001\u771f\u7406\u3092\u5f97\u308b"
+    },
+    "4100": {
+        "0xID": "1004",
+        "col_2_cn": "\u94fa\u8c0b\u5b9a\u8ba1 \u7cbe\u6253\u7ec6\u7b97 \u5c0f\u5fc3\u7ffc\u7ffc",
+        "col_2_de": "Sei stets auf alles vorbereitet.",
+        "col_2_en": "Neglect not to lay plans.",
+        "col_2_fr": "Ne voyagez que si vous \u00eates suffisamment pr\u00e9par\u00e9e.",
+        "col_2_ja": "\u8a08\u753b\u3092\u5341\u5206\u306b\u305f\u3066\u308b\u3079\u3057"
+    },
+    "4101": {
+        "0xID": "1005",
+        "col_2_cn": "\u8086\u610f\u5984\u4e3a \u8eab\u5f62\u4ea4\u7601 \u9632\u5fae\u8651\u8fdc",
+        "col_2_de": "Unt\u00e4tigkeit fordert ihren Tribut: Achte auf deine Gesundheit, bevor du eine Reise antrittst.",
+        "col_2_en": "Thine excesses shall take their toll. Pay thy health due care on the road.",
+        "col_2_fr": "Prenez soin de vous avant d'entreprendre un long voyage.",
+        "col_2_ja": "\u4e0d\u6442\u751f\u304c\u795f\u308b\u3000\u3088\u304f\u8eab\u4f53\u3092\u3044\u305f\u308f\u308a\u65c5\u305b\u3088"
+    },
+    "4102": {
+        "0xID": "1006",
+        "col_2_cn": "\u5927\u5934\u9cb6\u9cb6 \u62e6\u8def\u62a2\u52ab \u865a\u60ca\u4e00\u573a",
+        "col_2_de": "Nimm dich in Acht vor welsartigen Kreaturen, die sich dir in Weg stellen k\u00f6nnten.",
+        "col_2_en": "Whiskered fish shall impede thy steps. Exercise due care.",
+        "col_2_fr": "Attendez-vous \u00e0 voir un homme-poisson se dresser sur votre route.",
+        "col_2_ja": "\u9bf0\u306e\u3088\u3046\u306a\u8005\u306b\u9053\u3092\u963b\u307e\u308c\u308b\u3000\u7528\u5fc3\u305b\u3088"
+    },
+    "4103": {
+        "0xID": "1007",
+        "col_2_cn": "\u524d\u8def\u591a\u963b \u6c89\u5fc3\u9759\u6c14 \u91d1\u77f3\u4e3a\u5f00",
+        "col_2_de": "Bewahre Ruhe und alles wird reibungslos vonstattengehen.",
+        "col_2_en": "The way is clear. Forge on with a calm heart.",
+        "col_2_fr": "Soyez vous-m\u00eame et tout se passera sans encombre.",
+        "col_2_ja": "\u969c\u308a\u306a\u3057\u3000\u5e73\u5e38\u5fc3\u3067\u81e8\u3081"
+    },
+    "4104": {
+        "0xID": "1008",
+        "col_2_cn": "\u7978\u8feb\u7709\u776b \u6551\u6b7b\u6276\u4f24 \u5927\u6148\u5927\u60b2",
+        "col_2_de": "Handle bei einem Ungl\u00fcck zum Wohle derer, die dir am n\u00e4chsten sind.",
+        "col_2_en": "The future holdeth disaster. Be as a light in the darkness to those around thee.",
+        "col_2_fr": "Dans le malheur, agissez pour le bien de ceux qui vous entourent.",
+        "col_2_ja": "\u707d\u3044\u3042\u308a\u3000\u81ea\u3089\u304c\u5468\u56f2\u306e\u6551\u3044\u3068\u306a\u308b\u3088\u3046\u884c\u52d5\u3059\u3079\u3057"
+    },
+    "4105": {
+        "0xID": "1009",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "4106": {
+        "0xID": "100A",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "4200": {
+        "0xID": "1068",
+        "col_2_cn": "\u65e7\u53cb\u4e2d\u5c31\u6709\u826f\u7f18\u5728 \u4f46\u9700\u8c28\u9632\u5c0f\u4eba",
+        "col_2_de": "Du wirst in alten Freundschaften Gutes finden, doch bleibe stets wachsam.",
+        "col_2_en": "An old friend may become a new flame. Handle the fires of passion with care.",
+        "col_2_fr": "Vous trouverez du bon dans une ancienne relation, mais restez m\u00e9fiante.",
+        "col_2_ja": "\u53e4\u304d\u77e5\u4eba\u306e\u4e2d\u306b\u826f\u7e01\u3042\u308a\u3000\u305f\u3060\u3057\u5f8c\u3092\u6c17\u3092\u3064\u3051\u3088"
+    },
+    "4201": {
+        "0xID": "1069",
+        "col_2_cn": "\u5bf9\u65b9\u4e0e\u4f60\u4e24\u5fc3\u76f8\u5e94 \u4f46\u4f60\u4eec\u4e4b\u95f4\u7684\u9053\u8def\u591a\u6709\u5d0e\u5c96",
+        "col_2_de": "Eine dir entgegengebrachte Zuneigung wird dich z\u00f6gern lassen.",
+        "col_2_en": "Thou shalt waver in the face of affection.",
+        "col_2_fr": "Une affection dont vous serez l'objet vous fera h\u00e9siter.",
+        "col_2_ja": "\u60f3\u3044\u3092\u5bc4\u305b\u3089\u308c\u308b\u304c\u8ff7\u3046"
+    },
+    "4202": {
+        "0xID": "106A",
+        "col_2_cn": "\u8981\u76f8\u4fe1\u4f60\u7684\u597d\u53cb \u5207\u83ab\u542c\u4fe1\u6d41\u8a00\u871a\u8bed",
+        "col_2_de": "Vertraue deinen Freunden und lasse dich nicht von Ger\u00fcchten auf die falsche F\u00e4hrte locken.",
+        "col_2_en": "Trust in thy comrades. Heed not gossip and hearsay.",
+        "col_2_fr": "Ne pr\u00eatez pas attention aux rumeurs et faites confiance \u00e0 vos amis.",
+        "col_2_ja": "\u4ef2\u9593\u3092\u4fe1\u983c\u305b\u3088\u3000\u5642\u306b\u60d1\u308f\u3055\u308c\u308b\u4e8b\u306a\u304b\u308c"
+    },
+    "4203": {
+        "0xID": "106B",
+        "col_2_cn": "\u4f60\u6216\u5c06\u5377\u5165\u7eb7\u4e89\u4e71\u6218 \u4f46\u5207\u83ab\u5fd8\u8bb0\u4f60\u7684\u6e29\u67d4\u4f53\u8d34",
+        "col_2_de": "Lasse bei Auseinandersetzungen stets Milde walten.",
+        "col_2_en": "Forget not thy kindness in the midst of conflict.",
+        "col_2_fr": "En cas de d\u00e9saccord, n'oubliez pas d'avoir de l'empathie.",
+        "col_2_ja": "\u4e89\u3044\u306e\u6c17\u914d\u3042\u308a\u3000\u512a\u3057\u3055\u3092\u5fd8\u308c\u308b\u306a\u304b\u308c"
+    },
+    "4204": {
+        "0xID": "106C",
+        "col_2_cn": "\u4f60\u6216\u5c06\u88ab\u4eba\u8bef\u89e3 \u4f46\u4f60\u7684\u771f\u8bda\u5fc5\u5c06\u5f97\u5230\u7406\u89e3",
+        "col_2_de": "Halte im Falle eines Missverst\u00e4ndnisses an deiner Aufrichtigkeit fest.",
+        "col_2_en": "With sincerity shalt thou allay misunderstanding.",
+        "col_2_fr": "En cas d'incompr\u00e9hension, restez sinc\u00e8re jusqu'au bout.",
+        "col_2_ja": "\u8aa4\u89e3\u3055\u308c\u308b\u6c17\u914d\u3042\u308a\u3000\u81f3\u8aa0\u3092\u5c3d\u304f\u3059\u3079\u3057"
+    },
+    "4300": {
+        "0xID": "10CC",
+        "col_2_cn": "\u5c0f\u5fc3\u8c28\u614e \u5207\u83ab\u968f\u610f\u6295\u8d44\u773c\u4e0b\u6240\u89c1\u5e76\u975e\u5546\u673a",
+        "col_2_de": "Bewahre einen k\u00fchlen Kopf bei der Einsch\u00e4tzung der Marktpreise.",
+        "col_2_en": "Act not with emotion, lest thou misjudge an item's worth.",
+        "col_2_fr": "Gardez la t\u00eate froide pour \u00e9valuer le march\u00e9 avec justesse.",
+        "col_2_ja": "\u843d\u3061\u7740\u3044\u3066\u81e8\u3081\u3000\u76f8\u5834\u898b\u8aa4\u308b\u306a\u304b\u308c"
+    },
+    "4301": {
+        "0xID": "10CD",
+        "col_2_cn": "\u65f6\u8fd0\u4e0d\u6d4e \u4e14\u5f85\u65f6\u6765\u8fd0\u8f6c\u518d\u770b\u4ed9\u4eba\u5f69",
+        "col_2_de": "Wenn das Losgl\u00fcck dich verl\u00e4sst, bleibe geduldig.",
+        "col_2_en": "Games of chance do not favor thee. Abide in patience.",
+        "col_2_fr": "Vous serez malheureuse \u00e0 la loterie, restez patiente.",
+        "col_2_ja": "\u30af\u30b8\u904b\u60aa\u3057\u3000\u6c17\u9577\u306b\u5f85\u3066"
+    },
+    "4302": {
+        "0xID": "10CE",
+        "col_2_cn": "\u56e4\u8d27\u5c45\u5947 \u867d\u4e0d\u80fd\u5927\u8d5a\u4e00\u7b14\u5374\u7edd\u4e0d\u4f1a\u6d6a\u8d39",
+        "col_2_de": "Du wirst einen Nutzen f\u00fcr deine unverkauften Waren finden.",
+        "col_2_en": "Fret not over excess stock. It shall not go to waste.",
+        "col_2_fr": "Vous trouverez une utilit\u00e9 aux invendus que vous avez sur les bras.",
+        "col_2_ja": "\u5546\u6750\u306e\u5728\u5eab\u3092\u62b1\u3048\u308b\u304c\u3001\u7121\u99c4\u306b\u306f\u306a\u3089\u306a\u3044"
+    },
+    "4303": {
+        "0xID": "10CF",
+        "col_2_cn": "\u5165\u4e0d\u6577\u51fa \u6539\u53d8\u96c7\u5458\u7684\u88c5\u626e\u6216\u8bb8\u6709\u6548",
+        "col_2_de": "Verleihe deinem Gehilfen ein neues Aussehen, um dein Gesch\u00e4ft anzukurbeln.",
+        "col_2_en": "Good fortune awaiteth. Outfit thy retainers anew.",
+        "col_2_fr": "Donnez une nouvelle allure \u00e0 votre servant pour relancer vos affaires.",
+        "col_2_ja": "\u5229\u3059\u304f\u306a\u3057\u3000\u30ea\u30c6\u30a4\u30ca\u30fc\u306e\u88c5\u3044\u3092\u6539\u3081\u308c\u3070\u5409\u3042\u308a"
+    },
+    "4304": {
+        "0xID": "10D0",
+        "col_2_cn": "\u6d77\u4e2d\u635e\u6708 \u8ba4\u51c6\u65f6\u95f4\u5929\u6c14\u9493\u9c7c",
+        "col_2_de": "W\u00e4hle den richtigen Zeitpunkt mit Bedacht und ein guter Fang wird dir gewiss sein.",
+        "col_2_en": "Thy nets shall be empty. If thou wouldst catch fish, watch well the tides.",
+        "col_2_fr": "Choisissez m\u00e9ticuleusement votre moment pour faire bonne p\u00eache.",
+        "col_2_ja": "\u4e0d\u6f01\u306e\u6c17\u914d\u3042\u308a\u3000\u91e3\u308a\u306f\u6642\u904b\u3092\u898b\u6975\u3081\u3088"
+    },
+    "4400": {
+        "0xID": "1130",
+        "col_2_cn": "\u8981\u5bbd\u5fc3\uff01\u7740\u773c\u540c\u4f34\u9762\u5bf9\u6218\u6597",
+        "col_2_de": "Zeige dich deinen Mitstreitern gegen\u00fcber stets nachsichtig.",
+        "col_2_en": "Be magnanimous in thine encounters.",
+        "col_2_fr": "Soyez g\u00e9n\u00e9reuse envers vos compagnons d'armes.",
+        "col_2_ja": "\u9023\u308c\u4eba\u306b\u3088\u308b\u3000\u5bdb\u5927\u306a\u308b\u5fc3\u3082\u3061\u6311\u3081"
+    },
+    "4401": {
+        "0xID": "1131",
+        "col_2_cn": "\u540e\u9000\u5c31\u662f\u5931\u8d25\uff01\u4e0b\u5b9a\u51b3\u5fc3\u518d\u52a0\u5165\u6218\u6597",
+        "col_2_de": "Sei jederzeit bereit zu k\u00e4mpfen. Angst wird dich ins Verderben st\u00fcrzen.",
+        "col_2_en": "Apprehension shall beget failure. Take to battle with naught save complete resolve.",
+        "col_2_fr": "Soyez pr\u00e9par\u00e9e car la crainte vous m\u00e8nera \u00e0 l'\u00e9chec.",
+        "col_2_ja": "\u6016\u308c\u306f\u5931\u6557\u306b\u901a\u3058\u308b\u3000\u6226\u3044\u306b\u306f\u899a\u609f\u3092\u6c7a\u3081\u3066\u6311\u3081"
+    },
+    "4402": {
+        "0xID": "1132",
+        "col_2_cn": "\u4e0d\u8981\u7740\u6025\uff01\u8d8a\u7740\u6025\u8d8a\u82b1\u65f6\u95f4",
+        "col_2_de": "\u00dcbe dich in Geduld. Der Weg zum Sieg ist weiter, wenn du \u00fcberst\u00fcrzt handelst.",
+        "col_2_en": "Victory must not be rushed. Allow it to come in due course.",
+        "col_2_fr": "Gardez patience, la victoire prendra le temps qu'il faudra.",
+        "col_2_ja": "\u52dd\u5229\u3092\u6025\u3050\u306a\u3000\u304b\u3048\u3063\u3066\u6642\u9593\u304c\u304b\u304b\u308b"
+    },
+    "4403": {
+        "0xID": "1133",
+        "col_2_cn": "\u518d\u8bd5\u4e00\u6b21\uff01\u867d\u7136\u53d6\u5f97\u4e86\u80dc\u5229 \u4f46\u6ca1\u62ff\u5230\u60f3\u8981\u7684\u4e1c\u897f",
+        "col_2_de": "Bleibe hartn\u00e4ckig, damit du f\u00fcr deine Erfolge gerecht belohnt wirst.",
+        "col_2_en": "Even in victory, thy heart's desire shall elude thee. Perseverance is the key.",
+        "col_2_fr": "Pers\u00e9v\u00e9rez pour \u00eatre justement r\u00e9compens\u00e9e de vos succ\u00e8s.",
+        "col_2_ja": "\u52dd\u5229\u306f\u5f97\u308b\u304c\u3001\u671b\u3093\u3060\u5831\u916c\u306f\u5f97\u306b\u304f\u3044\u3000\u7e70\u308a\u8fd4\u3057\u6311\u3081"
+    },
+    "4404": {
+        "0xID": "1134",
+        "col_2_cn": "\u518d\u8bd5\u4e00\u6b21\uff01\u867d\u7136\u53d6\u5f97\u4e86\u80dc\u5229 \u4f46\u6ca1\u62ff\u5230\u60f3\u8981\u7684\u4e1c\u897f",
+        "col_2_de": "Bleibe hartn\u00e4ckig, damit du f\u00fcr deine Erfolge gerecht belohnt wirst.",
+        "col_2_en": "Even in victory, thy heart's desire shall elude thee. Perseverance is the key.",
+        "col_2_fr": "Pers\u00e9v\u00e9rez pour \u00eatre justement r\u00e9compens\u00e9e de vos succ\u00e8s.",
+        "col_2_ja": "\u52dd\u5229\u306f\u5f97\u308b\u304c\u3001\u671b\u3093\u3060\u5831\u916c\u306f\u5f97\u306b\u304f\u3044\u3000\u7e70\u308a\u8fd4\u3057\u6311\u3081"
+    },
+    "4500": {
+        "0xID": "1194",
+        "col_2_cn": "\u4f60\u5c06\u906d\u9047\u7834\u574f\u795e\u7684\u96f7\u9e23\u822c\u7684\u5384\u8fd0 \u505a\u597d\u51c6\u5907\u9762\u5bf9\u5b83\u5427",
+        "col_2_de": "Halte dich bereit: Das Ungl\u00fcck wird dich treffen wie der Blitz von Rhalgr.",
+        "col_2_en": "Like unto the Destroyer's bolt, misfortune may strike without warning. Be ever prepared.",
+        "col_2_fr": "Le malheur vous frappera telle la foudre de Rhalgr, soyez pr\u00eate.",
+        "col_2_ja": "\u58ca\u795e\u306e\u96f7\u304c\u5982\u304d\u7a81\u7136\u306e\u4e0d\u904b\u306b\u3001\u65e5\u9803\u304b\u3089\u5099\u3048\u3066\u304a\u304d\u307e\u3057\u3087\u3046"
+    },
+    "4501": {
+        "0xID": "1195",
+        "col_2_cn": "\u4f60\u5c06\u906d\u9047\u6218\u4e89\u795e\u7684\u5927\u76fe\u822c\u7684\u969c\u788d \u4e0b\u5b9a\u51b3\u5fc3\u8de8\u8d8a\u5b83\u5427",
+        "col_2_de": "Selbst eine Mauer so massiv wie Halones Schild ist nicht un\u00fcberwindbar.",
+        "col_2_en": "To defeat adversity as unassailable as the Fury's shield, thou must strike with resolve unwavering.",
+        "col_2_fr": "M\u00eame un mur aussi monumental que le bouclier de Halone n'est pas infranchissable.",
+        "col_2_ja": "\u6226\u795e\u306e\u5927\u76fe\u306e\u5982\u304d\u82e6\u96e3\u306e\u58c1\u306b\u3082\u3001\u601d\u3044\u5207\u3063\u3066\u3076\u3064\u304b\u308a\u307e\u3057\u3087\u3046"
+    },
+    "4502": {
+        "0xID": "1196",
+        "col_2_cn": "\u4f60\u5c06\u906d\u9047\u6708\u4eae\u795e\u7684\u730e\u72ac\u822c\u7684\u5f3a\u654c \u5236\u5b9a\u5bf9\u7b56\u6311\u6218\u5b83\u5427",
+        "col_2_de": "Bereite dich gut vor, ehe du dich Feinden stellst, die kaltbl\u00fctig sind wie Menphinas Wachhund.",
+        "col_2_en": "To triumph over foes as ferocious as the Lover's loyal hound, thou must devise a stratagem.",
+        "col_2_fr": "Pr\u00e9parez-vous avant d'affronter un ennemi aussi f\u00e9roce que le chien de garde de Menphina.",
+        "col_2_ja": "\u6708\u795e\u306e\u756a\u72ac\u306e\u5982\u304d\u7370\u731b\u306a\u6575\u306b\u306f\u3001\u7b56\u3092\u7df4\u3063\u3066\u304b\u3089\u6311\u307f\u307e\u3057\u3087\u3046"
+    },
+    "4503": {
+        "0xID": "1197",
+        "col_2_cn": "\u4f60\u5c06\u906d\u9047\u6d77\u6d0b\u795e\u7684\u5de8\u6d6a\u822c\u7684\u56f0\u5883 \u5bfb\u627e\u673a\u4f1a\u5e94\u5bf9\u5b83\u5427",
+        "col_2_de": "Selbst Herausforderungen, die so unbezwingbar scheinen wie Llymlaens Wellen, lassen sich meistern, wenn du die Gunst der Stunde nutzt.",
+        "col_2_en": "To rise above hardship as tumultuous as the Navigator's raging waves, thou must bide thy time.",
+        "col_2_fr": "Saisissez l'opportunit\u00e9 pour surmonter une \u00e9preuve aussi colossale que les vagues de Llymlaen.",
+        "col_2_ja": "\u6d77\u795e\u306e\u6ce2\u6d6a\u306e\u5982\u304d\u56f0\u96e3\u306b\u306f\u3001\u597d\u6a5f\u3092\u5f85\u3063\u3066\u304b\u3089\u5bfe\u51e6\u3057\u307e\u3057\u3087\u3046"
+    },
+    "4504": {
+        "0xID": "1198",
+        "col_2_cn": "\u4f60\u5c06\u906d\u9047\u77e5\u8bc6\u795e\u7684\u5377\u8f74\u822c\u7684\u96be\u9898 \u5b66\u4e60\u77e5\u8bc6\u56de\u7b54\u5b83\u5427",
+        "col_2_de": "Selbst Fragen so komplex wie Thaliaks Schriftrollen lassen sich beantworten, wenn du dir neues Wissen aneignest.",
+        "col_2_en": "To resolve dilemmas as confounding as the Scholar's scrolls, thou must seek new wisdom.",
+        "col_2_fr": "Vous apprendrez d'une \u00e9preuve aussi complexe qu'un parchemin de Thaliak.",
+        "col_2_ja": "\u77e5\u795e\u306e\u5dfb\u7269\u306e\u5982\u304d\u96e3\u554f\u306b\u306f\u3001\u65b0\u305f\u306a\u77e5\u8b58\u3092\u4ee5\u3066\u7b54\u3048\u3092\u63a2\u3057\u307e\u3057\u3087\u3046"
+    },
+    "500": {
+        "0xID": "1F4",
+        "col_2_cn": "\u6218\u4e89\u795e\u822c\u7684\u6c42\u80dc\u4e4b\u5fc3\u5c06\u5f15\u4f60\u83b7\u5f97\u65e0\u6570\u7684\u80dc\u5229",
+        "col_2_de": "F\u00fclle dein Herz mit Kampfgeist gleich Halone, so sei der Sieg in jeglichem Gefecht gewiss.",
+        "col_2_en": "Be fierce like unto the Fury, and victory shall be assured thee.",
+        "col_2_fr": "Combattez telle Halone pour remporter la victoire.",
+        "col_2_ja": "\u6226\u795e\u306e\u5982\u304d\u95d8\u4e89\u5fc3\u304c\u3042\u308c\u3070\u3001\u5e38\u306b\u52dd\u5229\u3092\u5f97\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3067\u3057\u3087\u3046"
+    },
+    "501": {
+        "0xID": "1F5",
+        "col_2_cn": "\u6708\u4eae\u795e\u822c\u7684\u6148\u7231\u4e4b\u5fc3\u5c06\u5f15\u4f60\u83b7\u5f97\u4f17\u4eba\u7684\u559c\u7231",
+        "col_2_de": "F\u00fclle dein Herz mit Zuneigung gleich Menphina, so sei auch dir die Zuneigung anderer gewiss.",
+        "col_2_en": "Be kind like unto the Lover, and thou shalt receive kindness in return.",
+        "col_2_fr": "Aimez telle Menphina pour conqu\u00e9rir les c\u0153urs.",
+        "col_2_ja": "\u6708\u795e\u306e\u5982\u304d\u6148\u611b\u306e\u5fc3\u304c\u3042\u308c\u3070\u3001\u591a\u304f\u306e\u4eba\u304b\u3089\u3082\u611b\u3055\u308c\u308b\u3067\u3057\u3087\u3046"
+    },
+    "502": {
+        "0xID": "1F6",
+        "col_2_cn": "\u592a\u9633\u795e\u822c\u7684\u70ed\u60c5\u4e4b\u5fc3\u5c06\u5f15\u4f60\u5bfb\u5f97\u901a\u5f80\u76ee\u6807\u7684\u6377\u5f84",
+        "col_2_de": "Entflamme dein Herz in Inbrunst gleich Azeyma, so sei der k\u00fcrzeste Weg zu deinem Ziel hell erleuchtet.",
+        "col_2_en": "Be passionate like unto the Warden, and the way shall be illuminated for thee.",
+        "col_2_fr": "Embrasez-vous telle Azeyma pour trouver la voie.",
+        "col_2_ja": "\u65e5\u795e\u306e\u5982\u304d\u71b1\u60c5\u304c\u3042\u308c\u3070\u3001\u76ee\u6a19\u3078\u306e\u8fd1\u9053\u304c\u7167\u3089\u3055\u308c\u308b\u3067\u3057\u3087\u3046"
+    },
+    "503": {
+        "0xID": "1F7",
+        "col_2_cn": "\u6d77\u6d0b\u795e\u822c\u7684\u51b3\u65ad\u4e4b\u5fc3\u5c06\u5f15\u4f60\u4e58\u98ce\u7834\u6d6a\u53d6\u5f97\u98de\u8dc3",
+        "col_2_de": "F\u00fclle deinen Geist mit Entschlossenheit gleich Llymlaen, so m\u00f6gen die Winde deinen Fortschritt beg\u00fcnstigen.",
+        "col_2_en": "Be decisive like unto the Navigator, and serendipitous winds shall bear thee high.",
+        "col_2_fr": "Pers\u00e9v\u00e9rez telle Llymlaen et les vents vous seront favorables.",
+        "col_2_ja": "\u6d77\u795e\u306e\u5982\u304d\u6c7a\u610f\u304c\u3042\u308c\u3070\u3001\u826f\u304d\u98a8\u304c\u5439\u3044\u3066\u98db\u8e8d\u3067\u304d\u308b\u3067\u3057\u3087\u3046"
+    },
+    "504": {
+        "0xID": "1F8",
+        "col_2_cn": "\u653e\u6d6a\u795e\u822c\u7684\u597d\u5947\u4e4b\u5fc3\u5c06\u5f15\u4f60\u5728\u65c5\u9014\u4e2d\u83b7\u5f97\u65e0\u6570\u6109\u5feb\u7684\u9082\u9005",
+        "col_2_de": "F\u00fclle deinen Geist mit Neugier gleich Oschon, so sei dir an jedem deiner Reiseziele Freude gewiss.",
+        "col_2_en": "Be inquisitive like unto the Wanderer, and thou shalt find much joy in thy journeys.",
+        "col_2_fr": "Soyez curieuse tel Oschon et vos voyages seront passionnants.",
+        "col_2_ja": "\u65c5\u795e\u306e\u5982\u304d\u597d\u5947\u5fc3\u304c\u3042\u308c\u3070\u3001\u65c5\u5148\u3067\u591a\u304f\u306e\u6109\u3057\u307f\u306b\u51fa\u4f1a\u3046\u3067\u3057\u3087\u3046"
+    },
+    "5100": {
+        "0xID": "13EC",
+        "col_2_cn": "\u5929\u4e0d\u4f5c\u7f8e \u96e8\u6068\u4e91\u6101 \u7a0d\u5b89\u52ff\u8e81",
+        "col_2_de": "\u00dcbe dich in Geduld, bis der Himmel sich gelichtet hat.",
+        "col_2_en": "Thou shalt not be blessed with the weather. Abide in patience.",
+        "col_2_fr": "Armez-vous de patience pour b\u00e9n\u00e9ficier d'un ciel cl\u00e9ment.",
+        "col_2_ja": "\u5929\u6c17\u306b\u6075\u307e\u308c\u305a\u3000\u8f9b\u62b1\u5f37\u304f\u5f85\u3066"
+    },
+    "5101": {
+        "0xID": "13ED",
+        "col_2_cn": "\u758f\u5ffd\u5927\u610f \u964d\u795e\u8282\u796d \u9669\u4e9b\u5fd8\u8bb0",
+        "col_2_de": "Nutze die Gelegenheit, an Festen teilzunehmen, sonst geht aller Trubel an dir vorbei.",
+        "col_2_en": "Be alert lest a celebration pass thee by.",
+        "col_2_fr": "Si vous rel\u00e2chez votre attention, vous raterez l'occasion de f\u00eater la saison.",
+        "col_2_ja": "\u6c17\u3092\u629c\u304f\u3068\u795d\u796d\u3092\u9003\u3059\u3000\u5fd8\u308c\u305a\u306b\u53c2\u52a0\u305b\u3088"
+    },
+    "5102": {
+        "0xID": "13EE",
+        "col_2_cn": "\u5f53\u524d\u7e41\u5fd9 \u9700\u8981\u6392\u961f \u8010\u5fc3\u7b49\u5f85",
+        "col_2_de": "\u00dcbe dich in Geduld und warte, bis du am Zug bist.",
+        "col_2_en": "Thou shalt be made to wait to sally forth. With apologies, pray abide in patience.",
+        "col_2_fr": "Ne perdez pas patience lorsque vous devrez attendre votre tour.",
+        "col_2_ja": "\u9806\u756a\u5f85\u3061\u3042\u308a\u3000\u7533\u3057\u8a33\u3042\u308a\u307e\u305b\u3093\u304c\u3001\u3057\u3070\u3089\u304f\u304a\u5f85\u3061\u304f\u3060\u3055\u3044"
+    },
+    "5103": {
+        "0xID": "13EF",
+        "col_2_cn": "\u964c\u8fea\u7fc1\u72f1 \u5b88\u6cd5\u65e0\u60c5 \u8c28\u8a00\u614e\u884c",
+        "col_2_de": "\u00dcberdenke dein Verhalten, sonst drohst du im Kerker zu enden.",
+        "col_2_en": "Think upon thy daily conduct, lest thou be incarcerated.",
+        "col_2_fr": "R\u00e9visez votre conduite sous peine de finir emprisonn\u00e9e.",
+        "col_2_ja": "\u76e3\u7344\u306b\u9001\u3089\u308c\u308b\u3000\u65e5\u3005\u306e\u884c\u3044\u3092\u898b\u76f4\u3059\u3079\u3057"
+    },
+    "5104": {
+        "0xID": "13F0",
+        "col_2_cn": "\u5c0f\u5fc3\u9668\u77f3 \u8c28\u9632\u51fb\u9000 \u6309\u65f6\u8e29\u5854",
+        "col_2_de": "H\u00fcte dich vor den fallenden Sternen! Sie f\u00fchren dich ins sichere Verderben.",
+        "col_2_en": "Beware the shooting star, for it bringeth destruction.",
+        "col_2_fr": "M\u00e9fiez-vous des \u00e9toiles filantes ou vous irez \u00e0 votre perte.",
+        "col_2_ja": "\u6d41\u661f\u306b\u5099\u3048\u3088\u3000\u6cb9\u65ad\u3059\u308c\u3070\u7834\u6ec5\u3059\u308b"
+    },
+    "5105": {
+        "0xID": "13F1",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "5106": {
+        "0xID": "13F2",
+        "col_2_cn": "",
+        "col_2_de": "",
+        "col_2_en": "",
+        "col_2_fr": "",
+        "col_2_ja": ""
+    },
+    "5200": {
+        "0xID": "1450",
+        "col_2_cn": "\u6709\u56de\u5e94 \u4f46\u8868\u8fbe\u611f\u60c5\u65f6\u5fc5\u987b\u6ce8\u610f\u8bed\u6c14",
+        "col_2_de": "W\u00e4hle deine Worte mit Bedacht, wenn du eine alte Bekanntschaft wiedertriffst.",
+        "col_2_en": "Thou shalt hear from the object of thine affection. Choose well thy words.",
+        "col_2_fr": "Choisissez bien vos mots lorsque vous retrouverez une vieille connaissance.",
+        "col_2_ja": "\u97f3\u4fe1\u3042\u308a\u3000\u76f8\u624b\u3092\u60f3\u3044\u8a00\u8449\u3092\u9078\u3079"
+    },
+    "5201": {
+        "0xID": "1451",
+        "col_2_cn": "\u5fc3\u7cfb\u4e4b\u4eba\u9065\u4e0d\u53ef\u53ca \u5efa\u8bae\u53ca\u65e9\u653e\u5f03",
+        "col_2_de": "H\u00fcte dich vor Dingen, die zu sch\u00f6n wirken, um wahr zu sein.",
+        "col_2_en": "The flower is beyond thy reach. Seek it to thy sorrow.",
+        "col_2_fr": "Gare aux r\u00eaves trop beaux pour se r\u00e9aliser.",
+        "col_2_ja": "\u9ad8\u5dba\u306e\u82b1\u306b\u306f\u624b\u3092\u51fa\u3059\u306a\u3000\u53f6\u308f\u306a\u3044"
+    },
+    "5202": {
+        "0xID": "1452",
+        "col_2_cn": "\u83ab\u8981\u7ee7\u7eed\u6df1\u5165 \u518d\u6df1\u5165\u5c06\u9677\u5165\u6ce5\u6cbc\u4e0d\u53ef\u81ea\u62d4",
+        "col_2_de": "Wahre deine Distanz, sonst wirst du in die Tiefe des Sumpfes gezogen.",
+        "col_2_en": "Pursue not deeply, lest thou be bogged in a mire.",
+        "col_2_fr": "Gare \u00e0 la chute si vous vous engagez plus que de raison.",
+        "col_2_ja": "\u6df1\u5165\u308a\u3059\u308b\u306a\u3000\u3059\u308c\u3070\u6ce5\u6cbc\u306b\u843d\u3061\u308b"
+    },
+    "5203": {
+        "0xID": "1453",
+        "col_2_cn": "\u8a00\u8c08\u95f4\u9700\u6ce8\u610f \u8bf4\u51fa\u4e0d\u8be5\u8bf4\u7684\u8bdd\u5c06\u8ffd\u6094\u83ab\u53ca",
+        "col_2_de": "H\u00fcte dich vor ungl\u00fccklichen Worten, die du sp\u00e4ter bereuen k\u00f6nntest.",
+        "col_2_en": "That which is said cannot be unsaid. Mind thy words.",
+        "col_2_fr": "Gare aux paroles malheureuses que vous ne pourrez que regretter.",
+        "col_2_ja": "\u8a00\u8449\u306b\u6ce8\u610f\u3059\u3079\u3057\u3000\u8a00\u3063\u3066\u304b\u3089\u306e\u5f8c\u6094\u3067\u306f\u9045\u3044"
+    },
+    "5204": {
+        "0xID": "1454",
+        "col_2_cn": "\u6709\u5d29\u6bc1\u79bb\u6563\u7684\u8ff9\u8c61\u65f6 \u5e94\u4ee5\u6700\u5927\u7684\u8bda\u610f\u5e94\u5bf9",
+        "col_2_de": "Sei stets ehrlich und aufrichtig, sonst droht das Kartenhaus in sich zusammenzust\u00fcrzen.",
+        "col_2_en": "Thou standest at a precipice. Act in good faith.",
+        "col_2_fr": "Soyez honn\u00eate et sinc\u00e8re au risque de tout voir s'\u00e9crouler.",
+        "col_2_ja": "\u5d29\u58ca\u306e\u5146\u3057\u3000\u8aa0\u610f\u306b\u5fdc\u3048\u3088"
+    },
+    "5300": {
+        "0xID": "14B4",
+        "col_2_cn": "\u6709\u5fc3\u65e0\u7b97 \u8d8a\u60f3\u8981\u7684\u4e1c\u897f\u5c31\u8d8a\u62ff\u4e0d\u5230 \u653e\u4e0b\u6267\u5ff5\u5427",
+        "col_2_de": "Vertraue auf dein Gl\u00fcck. Gier wird dir nur Ungl\u00fcck bringen.",
+        "col_2_en": "The greater thy desire, the smaller the prize. Clear thy mind.",
+        "col_2_fr": "Plus vous serez gourmande, moins vous serez gagnante.",
+        "col_2_ja": "\u6b32\u3059\u308b\u307b\u3069\u306b\u5c0f\u3055\u304d\u6570\u5b57\u3092\u5f15\u304f\u3000\u7121\u5fc3\u306b\u3066\u6311\u3081"
+    },
+    "5301": {
+        "0xID": "14B5",
+        "col_2_cn": "\u65f6\u8fd0\u4e56\u8e47 \u670b\u53cb\u4eec\u7684\u4f20\u9001\u9b54\u7eb9\u53ef\u4ee5\u8fdb\u5b9d\u5e93\u7684 \u5bf9\u5427\uff1f",
+        "col_2_de": "Willst du ein magisches Portal durchschreiten, so vertraue auf die Karten deiner Freunde.",
+        "col_2_en": "A thief's map shall avail you not. Turn instead to that of thine allies.",
+        "col_2_fr": "Pour franchir un portail magique, fiez-vous plut\u00f4t \u00e0 la carte d'un camarade. ",
+        "col_2_ja": "\u9b54\u7d0b\u3068\u306e\u7e01\u306a\u3057\u3000\u4ef2\u9593\u306e\u5730\u56f3\u306b\u983c\u308c"
+    },
+    "5302": {
+        "0xID": "14B6",
+        "col_2_cn": "\u5feb\u4e50\u81f3\u4e0a \u8fd9\u91cc\u4e0d\u8fc7\u662f\u6e38\u4e50\u573a\u800c\u5df2 \u5bf9\u7269\u6b32\u522b\u592a\u6267\u7740",
+        "col_2_de": "Mach dich frei von jeglicher Gier und vergn\u00fcge dich auf goldenem Teller.",
+        "col_2_en": "Seek not profit in gilded halls. Let the amusement be its own reward.",
+        "col_2_fr": "Allez au Gold Saucer pour vous amuser plut\u00f4t que par avidit\u00e9.",
+        "col_2_ja": "\u904a\u6280\u5834\u3067\u306f\u7121\u6b32\u306b\u306a\u308b\u3079\u3057\u3000\u6109\u3057\u3080\u3053\u3068\u3053\u305d\u81f3\u4e0a"
+    },
+    "5303": {
+        "0xID": "14B7",
+        "col_2_cn": "\u711a\u9999\u626b\u5730 \u51c0\u8eab\u6d17\u793c \u7981\u65ad\u6602\u8d35\u9b54\u6676\u77f3\u524d\u505a\u597d\u51c6\u5907",
+        "col_2_de": "Reinige dich, bevor du mit hochwertiger Materia hantierst. Die Gefahr, sie zu zerbrechen, ist hoch.",
+        "col_2_en": "The mightier the materia, the greater the risk. Purify thyself.",
+        "col_2_fr": "Purifiez-vous avant de manipuler vos mat\u00e9rias les plus pr\u00e9cieuses.",
+        "col_2_ja": "\u9ad8\u304d\u30de\u30c6\u30ea\u30a2\u307b\u3069\u5272\u308c\u308b\u3000\u8eab\u3092\u6e05\u3081\u3066\u304b\u3089\u6311\u3081"
+    },
+    "5304": {
+        "0xID": "14B8",
+        "col_2_cn": "\u4e22\u4e09\u843d\u56db \u5fd8\u5237\u795e\u5178\u77f3 \u65e9\u5e72\u561b\u53bb\u4e86",
+        "col_2_de": "Vergiss deine Jagd nach Steinen. Tritt stattdessen fr\u00fcher als \u00fcblich den Heimweg an.",
+        "col_2_en": "Now is not the time to collect tomestones.",
+        "col_2_fr": "Oubliez la chasse aux m\u00e9moquartz et rentrez plus t\u00f4t que d'ordinaire.",
+        "col_2_ja": "\u77f3\u96c6\u3081\u3092\u5fd8\u308c\u308b\u3000\u65e9\u3081\u306b\u7d42\u3048\u3088"
+    },
+    "5400": {
+        "0xID": "1518",
+        "col_2_cn": "\u591a\u953b\u70bc\uff01\u4e09\u811a\u732b\u7684\u672c\u4e8b\u4e34\u9635\u78e8\u67aa\u600e\u80fd\u83b7\u80dc",
+        "col_2_de": "Perfektioniere deinen Schlachtplan, anstatt kopflos ins Verderben zu rennen.",
+        "col_2_en": "A dull blade is quick to break. Hone thyself well.",
+        "col_2_fr": "Perfectionnez votre plan de bataille au lieu de foncer t\u00eate baiss\u00e9e vers la d\u00e9faite.",
+        "col_2_ja": "\u4ed8\u3051\u713c\u304d\u5203\u306f\u6298\u308c\u308b\u3000\u57f9\u3063\u305f\u6280\u3067\u6311\u3081"
+    },
+    "5401": {
+        "0xID": "1519",
+        "col_2_cn": "\u6742\u5ff5\u592a\u591a\uff01\u6218\u6597\u5fc5\u987b\u5168\u529b\u4ee5\u8d74\u624d\u80fd\u53d6\u80dc",
+        "col_2_de": "Lass dich nicht ablenken und behalte stets dein Ziel im Blick.",
+        "col_2_en": "Cast aside idle thoughts, and focus wholly on that which requireth thine attention.",
+        "col_2_fr": "Ne vous \u00e9parpillez pas et concentrez-vous sur votre objectif pour r\u00e9ussir.",
+        "col_2_ja": "\u96d1\u5ff5\u591a\u3057\u3000\u96c6\u4e2d\u3057\u3066\u5168\u529b\u3092\u5c3d\u304f\u305b"
+    },
+    "5402": {
+        "0xID": "151A",
+        "col_2_cn": "\u522b\u653e\u5f03\uff01\u82e6\u6218\u8fde\u8fde\u65f6\u6362\u4e2a\u65b9\u5411\u52aa\u529b\u6216\u8bb8\u6709\u6548",
+        "col_2_de": "Wenn du im Kampf nicht weiterkommst, wird es Zeit, deine Strategie zu \u00fcberdenken.",
+        "col_2_en": "Shouldst thou struggle to advance, look to a different path.",
+        "col_2_fr": "Vous allez \u00e9chouer \u00e0 de multiples reprises, revoyez votre plan d'attaque.",
+        "col_2_ja": "\u82e6\u6226\u306f\u7d9a\u304f\u3000\u52aa\u529b\u306e\u65b9\u5411\u3092\u5909\u3048\u3088"
+    },
+    "5403": {
+        "0xID": "151B",
+        "col_2_cn": "\u4e0d\u8981\u6015\uff01\u8fde\u6218\u4e0d\u80dc\u7684\u65f6\u5019\u8bb0\u5f97\u548c\u540c\u4f34\u4eec\u4e92\u76f8\u9f13\u52b1",
+        "col_2_de": "Wenn das Gl\u00fcck dir und deinen Kameraden nicht hold ist, so ermutigt euch gegenseitig.",
+        "col_2_en": "In times of trial, allies must turn to each other for strength.",
+        "col_2_fr": "La victoire va vous \u00e9chapper, vous et vos compagnons devrez vous r\u00e9conforter.",
+        "col_2_ja": "\u52dd\u3066\u305a\u3000\u82e6\u3057\u3044\u3068\u304d\u307b\u3069\u4ef2\u9593\u3068\u52b1\u307e\u3057\u3042\u3048"
+    },
+    "5404": {
+        "0xID": "151C",
+        "col_2_cn": "\u591a\u953b\u70bc\uff01\u4e09\u811a\u732b\u7684\u672c\u4e8b\u4e34\u9635\u78e8\u67aa\u600e\u80fd\u83b7\u80dc",
+        "col_2_de": "Perfektioniere deinen Schlachtplan, anstatt kopflos ins Verderben zu rennen.",
+        "col_2_en": "A dull blade is quick to break. Hone thyself well.",
+        "col_2_fr": "Perfectionnez votre plan de bataille au lieu de foncer t\u00eate baiss\u00e9e vers la d\u00e9faite.",
+        "col_2_ja": "\u4ed8\u3051\u713c\u304d\u5203\u306f\u6298\u308c\u308b\u3000\u57f9\u3063\u305f\u6280\u3067\u6311\u3081"
+    },
+    "5500": {
+        "0xID": "157C",
+        "col_2_cn": "\u653e\u4e0b\u4f60\u884c\u661f\u795e\u822c\u6ca1\u6709\u7ed3\u679c\u7684\u7231\u604b \u5426\u5219\u4f60\u5c06\u8d70\u5411\u6bc1\u706d",
+        "col_2_de": "Jagst du wie Nymeia einer verbotenen Liebe nach, so l\u00e4ufst du in dein sicheres Verderben.",
+        "col_2_en": "Shouldst thou pursue forbidden love like unto the Spinner, thou shalt walk the path of destruction.",
+        "col_2_fr": "Si vous poursuivez un amour interdit tel celui de Nymeia, vous courrez \u00e0 votre perte.",
+        "col_2_ja": "\u661f\u795e\u306e\u5982\u304d\u9053\u306a\u3089\u306c\u604b\u3092\u624b\u653e\u3055\u306d\u3070\u3001\u7834\u6ec5\u3078\u5411\u304b\u3046\u3067\u3057\u3087\u3046"
+    },
+    "5501": {
+        "0xID": "157D",
+        "col_2_cn": "\u653e\u4e0b\u4f60\u5546\u8d38\u795e\u822c\u4eba\u524d\u4eba\u540e\u7684\u591a\u53d8 \u5426\u5219\u4f60\u5c06\u5931\u53bb\u4fe1\u8a89",
+        "col_2_de": "Zeigst du zwei Gesichter wie Nald'thal, so wirst du Vertrauen einb\u00fc\u00dfen.",
+        "col_2_en": "Shouldst thou abide in duplicity like unto the Traders, thou shalt be lost to trust.",
+        "col_2_fr": "Si vous restez ambigu\u00eb tel Nald'thal, personne ne vous accordera sa confiance.",
+        "col_2_ja": "\u5546\u795e\u306e\u5982\u304d\u4e8c\u9762\u6027\u3092\u624b\u653e\u3055\u306d\u3070\u3001\u8aa4\u89e3\u3055\u308c\u4fe1\u7528\u3092\u5931\u3046\u3067\u3057\u3087\u3046"
+    },
+    "5502": {
+        "0xID": "157E",
+        "col_2_cn": "\u653e\u4e0b\u4f60\u5730\u6bcd\u795e\u822c\u5929\u5d29\u5730\u88c2\u7684\u6012\u706b \u5426\u5219\u4f60\u5c06\u9677\u5165\u4e89\u7aef",
+        "col_2_de": "Gibst du dich wie Nophica deinem Zorn hin, so werden sich deine K\u00e4mpfe in die L\u00e4nge ziehen.",
+        "col_2_en": "Unless thou castest aside thine anger like unto the Matron, thou shalt know no respite from conflict.",
+        "col_2_fr": "Si vous vous abandonnez \u00e0 la col\u00e8re telle Nophica, vos combats s'\u00e9terniseront.",
+        "col_2_ja": "\u5730\u795e\u306e\u5982\u304d\u6012\u308a\u3092\u624b\u653e\u3055\u306d\u3070\u3001\u4e89\u3044\u306f\u9577\u5f15\u304f\u3053\u3068\u3067\u3057\u3087\u3046"
+    },
+    "5503": {
+        "0xID": "157F",
+        "col_2_cn": "\u653e\u4e0b\u4f60\u5149\u9634\u795e\u822c\u6df7\u6c8c\u96be\u6d4b\u7684\u5904\u4e8b \u5426\u5219\u4f60\u5c06\u60f9\u51fa\u5927\u7978",
+        "col_2_de": "Wirst du wie Althyk dem Chaos nicht Herr, so wird sich die Situation nur weiter verschlimmern.",
+        "col_2_en": "Unless thou embrace order like unto the Keeper, thy difficulties shall become graver still.",
+        "col_2_fr": "Si vous ne dissipez pas le chaos tel Althyk, la situation ne fera qu'empirer.",
+        "col_2_ja": "\u6642\u795e\u306e\u5982\u304d\u6df7\u6c8c\u3092\u624b\u653e\u3055\u306d\u3070\u3001\u4e8b\u614b\u306f\u3055\u3089\u306b\u60aa\u5316\u3059\u308b\u3067\u3057\u3087\u3046"
+    },
+    "5504": {
+        "0xID": "1580",
+        "col_2_cn": "\u653e\u4e0b\u4f60\u592a\u9633\u795e\u822c\u8086\u610f\u5984\u4e3a\u7684\u8c6a\u6c14 \u5426\u5219\u4f60\u5c06\u4f24\u5bb3\u4eb2\u670b",
+        "col_2_de": "Gibst du dich wie Azeyma z\u00fcgellos deinen Kr\u00e4ften hin, so wirst du alles in deiner Umgebung verbrennen.",
+        "col_2_en": "Shouldst thou cling to thine audacity like unto the Warden, thou shalt scorch those around thee.",
+        "col_2_fr": "Enflammez-vous sans retenue telle Azeyma et vous finirez par br\u00fbler ceux qui vous entourent.",
+        "col_2_ja": "\u65e5\u795e\u306e\u5982\u304d\u8c6a\u6c17\u3055\u3092\u624b\u653e\u3055\u306d\u3070\u3001\u5468\u56f2\u3092\u7126\u304c\u3057\u3066\u3057\u307e\u3046\u3067\u3057\u3087\u3046"
+    }
+}

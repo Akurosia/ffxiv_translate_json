@@ -1,0 +1,191 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u514b\u62c9\u5361\u841d\u535c",
+        "Name_de": "Krakkagem\u00fcse",
+        "Name_en": "Krakka Root",
+        "Name_fr": "Carotte de Krakka",
+        "Name_ja": "\u30ab\u30e9\u30c3\u30ab\u306e\u91ce\u83dc",
+        "Name_ko": "\uce74\ub77d\uce74\uc758 \uc57c\ucc44"
+    },
+    "10": {
+        "0xID": "A",
+        "Name_cn": "\u91cc\u6839\u5706\u6912",
+        "Name_de": "Reagangem\u00fcse",
+        "Name_en": "Reagan Pepper",
+        "Name_fr": "Poivron de Reagan",
+        "Name_ja": "\u30ec\u30a4\u30b2\u30f3\u306e\u91ce\u83dc",
+        "Name_ko": "\ub808\uc774\uac90\uc758 \uc57c\ucc44"
+    },
+    "11": {
+        "0xID": "B",
+        "Name_cn": "\u585e\u5c14\u6cd5\u7279\u5c14\u6c99\u679c",
+        "Name_de": "Xelphatol-Apfel",
+        "Name_en": "Xelphatol Apple",
+        "Name_fr": "Pomme de Xelphatol",
+        "Name_ja": "\u30bc\u30eb\u30d5\u30a1\u30c8\u30eb\u306e\u679c\u5b9f",
+        "Name_ko": "\uc824\ud30c\ud1a8 \uc0ac\uacfc"
+    },
+    "12": {
+        "0xID": "C",
+        "Name_cn": "\u591a\u739b\u9752\u6885",
+        "Name_de": "Doma-Pflaume",
+        "Name_en": "Doman Plum",
+        "Name_fr": "Prune de Doma",
+        "Name_ja": "\u30c9\u30de\u306e\u679c\u5b9f",
+        "Name_ko": "\ub3c4\ub9c8 \uc790\ub450"
+    },
+    "13": {
+        "0xID": "D",
+        "Name_cn": "\u8f89\u9cde\u6cb9\u68a8",
+        "Name_de": "Mamook-Birne",
+        "Name_en": "Mamook Pear",
+        "Name_fr": "Poire alligator de Mamook",
+        "Name_ja": "\u30de\u30e0\u30fc\u30af\u306e\u679c\u5b9f",
+        "Name_ko": "\ub9c8\ubb34\ud06c \ubc30"
+    },
+    "14": {
+        "0xID": "E",
+        "Name_cn": "\u74e6\u5c14\u918b\u6817",
+        "Name_de": "Val-Frucht",
+        "Name_en": "Valfruit",
+        "Name_fr": "Groseille sanguine du Val",
+        "Name_ja": "\u30d0\u30eb\u306e\u679c\u5b9f",
+        "Name_ko": "\ubc1c \ub538\uae30"
+    },
+    "15": {
+        "0xID": "F",
+        "Name_cn": "\u5965\u00b7\u54e5\u6469\u7f57\u6d46\u679c",
+        "Name_de": "O'Ghomoro-Beere",
+        "Name_en": "O'Ghomoro Berries",
+        "Name_fr": "Raisin d'O'Ghomoro",
+        "Name_ja": "\u30aa\u30fb\u30b4\u30e2\u30ed\u306e\u679c\u5b9f",
+        "Name_ko": "\uc624\uace0\ubaa8\ub85c \ud3ec\ub3c4"
+    },
+    "16": {
+        "0xID": "10",
+        "Name_cn": "\u8c22\u5c14\u8fbe\u83b1\u51e4\u68a8",
+        "Name_de": "Cieldal\u00e4en-Ananas",
+        "Name_en": "Cieldalaes Pineapple",
+        "Name_fr": "Ananas des Cieldalaes",
+        "Name_ja": "\u30b7\u30a7\u30eb\u30c0\u30ec\u30fc\u306e\u679c\u5b9f",
+        "Name_ko": "\uc2dc\uc5d8\ub2ec\ub808 \ud30c\uc778\uc560\ud50c"
+    },
+    "17": {
+        "0xID": "11",
+        "Name_cn": "\u62c9\u672d\u7f55\u67e0\u6aac",
+        "Name_de": "Han-Zitrone",
+        "Name_en": "Han Lemon",
+        "Name_fr": "Citron de Radz-at-Han",
+        "Name_ja": "\u30e9\u30b6\u30cf\u30f3\u306e\u679c\u5b9f",
+        "Name_ko": "\ub77c\uc790\ud55c \ub808\ubaac"
+    },
+    "18": {
+        "0xID": "12",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "19": {
+        "0xID": "13",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u8428\u7ef4\u5948\u5706\u8471",
+        "Name_de": "Thavnair-Zwiebel",
+        "Name_en": "Thavnairian Onion",
+        "Name_fr": "Oignon de Thavnair",
+        "Name_ja": "\u30b5\u30d9\u30cd\u30a2\u306e\u91ce\u83dc",
+        "Name_ko": "\uc0ac\ubca0\ub124\uc5b4 \uc591\ud30c"
+    },
+    "20": {
+        "0xID": "14",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u5e93\u91cc\u5c14\u841d\u535c",
+        "Name_de": "Curielgem\u00fcse",
+        "Name_en": "Curiel Root",
+        "Name_fr": "Carotte de Curiel",
+        "Name_ja": "\u30af\u30ea\u30fc\u30a8\u306e\u91ce\u83dc",
+        "Name_ko": "\ucfe0\ub9ac\uc5d0\uc758 \uc57c\ucc44"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u5e0c\u5c14\u5947\u65af\u83dc\u84df",
+        "Name_de": "Sylkisgem\u00fcse",
+        "Name_en": "Sylkis Bud",
+        "Name_fr": "Artichaut de Sylkis",
+        "Name_ja": "\u30b7\u30eb\u30ad\u30b9\u306e\u91ce\u83dc",
+        "Name_ko": "\uc2e4\ud0a4\uc2a4\uc758 \uc57c\ucc44"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u7c73\u6885\u7279\u846b\u82a6",
+        "Name_de": "Mimettgem\u00fcse",
+        "Name_en": "Mimett Gourd",
+        "Name_fr": "Potiron de Mimett",
+        "Name_ja": "\u30df\u30e1\u30c3\u30c8\u306e\u91ce\u83dc",
+        "Name_ko": "\ubbf8\uba54\ud2b8\uc758 \uc57c\ucc44"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u5766\u5854\u5c14\u77ee\u74dc",
+        "Name_de": "Tantalgem\u00fcse",
+        "Name_en": "Tantalplant",
+        "Name_fr": "Aubergine de Tantal",
+        "Name_ja": "\u30bf\u30f3\u30bf\u30eb\u306e\u91ce\u83dc",
+        "Name_ko": "\ud0c4\ud0c8\uc758 \uc57c\ucc44"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Name_cn": "\u5e15\u8428\u7eb3\u7ea2\u8304",
+        "Name_de": "Pahsanagem\u00fcse",
+        "Name_en": "Pahsana Fruit",
+        "Name_fr": "Tomate de Pahsana",
+        "Name_ja": "\u30d1\u30b5\u30fc\u30ca\u306e\u91ce\u83dc",
+        "Name_ko": "\ud30c\uc0ac\ub098\uc758 \uc57c\ucc44"
+    }
+}

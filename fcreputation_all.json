@@ -1,0 +1,83 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u4e2d\u7acb",
+        "Name_de": "Neutral",
+        "Name_en": "Neutral",
+        "Name_fr": "Neutre",
+        "Name_ja": "\u4e2d\u7acb",
+        "Name_ko": "\uc911\ub9bd"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u627f\u8ba4",
+        "Name_de": "Anerkannt",
+        "Name_en": "Recognized",
+        "Name_fr": "Reconnu",
+        "Name_ja": "\u8a8d\u5b9a",
+        "Name_ko": "\uc778\uc815"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u53cb\u597d",
+        "Name_de": "Freundlich",
+        "Name_en": "Friendly",
+        "Name_fr": "Ami",
+        "Name_ja": "\u53cb\u597d",
+        "Name_ko": "\uc6b0\ud638"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u4fe1\u8d56",
+        "Name_de": "Vertraut",
+        "Name_en": "Trusted",
+        "Name_fr": "Estim\u00e9",
+        "Name_ja": "\u4fe1\u983c",
+        "Name_ko": "\uc2e0\ub8b0"
+    },
+    "5": {
+        "0xID": "5",
+        "Name_cn": "\u5c0a\u656c",
+        "Name_de": "Respektiert",
+        "Name_en": "Respected",
+        "Name_fr": "Respect\u00e9",
+        "Name_ja": "\u656c\u610f",
+        "Name_ko": "\uacbd\uc758"
+    },
+    "6": {
+        "0xID": "6",
+        "Name_cn": "\u540d\u8a89",
+        "Name_de": "Geachtet",
+        "Name_en": "Honored",
+        "Name_fr": "\u00c9m\u00e9rite",
+        "Name_ja": "\u540d\u8a89",
+        "Name_ko": "\uba85\uc608"
+    },
+    "7": {
+        "0xID": "7",
+        "Name_cn": "\u8a93\u7ea6",
+        "Name_de": "Solidarisch",
+        "Name_en": "Sworn",
+        "Name_fr": "Asserment\u00e9",
+        "Name_ja": "\u8a93\u7d04",
+        "Name_ko": "\uc11c\uc57d"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "\u76df\u53cb",
+        "Name_de": "Verb\u00fcndet",
+        "Name_en": "Allied",
+        "Name_fr": "Alli\u00e9",
+        "Name_ja": "\u76df\u53cb",
+        "Name_ko": "\ub9f9\uc6b0"
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "0": {
+        "0xID": "0",
+        "Effect_cn": "",
+        "Effect_de": "",
+        "Effect_en": "",
+        "Effect_fr": "",
+        "Effect_ja": "",
+        "Effect_ko": "",
+        "Icon": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Effect_cn": "\u6700\u5927\u4f53\u529b\u63d0\u9ad8",
+        "Effect_de": "Erh\u00f6hte LP",
+        "Effect_en": "Increased HP",
+        "Effect_fr": "PV am\u00e9lior\u00e9s",
+        "Effect_ja": "\u6700\u5927\uff28\uff30\u30a2\u30c3\u30d7",
+        "Effect_ko": "\ucd5c\ub300 HP \uc99d\uac00",
+        "Icon": "ui/icon/009000/009875.png"
+    },
+    "2": {
+        "0xID": "2",
+        "Effect_cn": "\u884c\u52a8\u901f\u5ea6\u63d0\u9ad8",
+        "Effect_de": "Erh\u00f6hte Geschwindigkeit",
+        "Effect_en": "Increased Action Speed",
+        "Effect_fr": "Actions acc\u00e9l\u00e9r\u00e9es",
+        "Effect_ja": "\u884c\u52d5\u901f\u5ea6\u30a2\u30c3\u30d7",
+        "Effect_ko": "\uc18d\ub3c4 \ud5a5\uc0c1",
+        "Icon": "ui/icon/009000/009876.png"
+    },
+    "3": {
+        "0xID": "3",
+        "Effect_cn": "\u4f24\u5bb3\u63d0\u9ad8",
+        "Effect_de": "Erh\u00f6hter ausgeteilter Schaden",
+        "Effect_en": "Increased Damage Dealt",
+        "Effect_fr": "D\u00e9g\u00e2ts inflig\u00e9s accrus",
+        "Effect_ja": "\u4e0e\u30c0\u30e1\u30fc\u30b8\u30a2\u30c3\u30d7",
+        "Effect_ko": "\uc8fc\ub294 \ud53c\ud574 \uc99d\uac00",
+        "Icon": "ui/icon/009000/009877.png"
+    },
+    "4": {
+        "0xID": "4",
+        "Effect_cn": "\u53d7\u4f24\u51cf\u8f7b",
+        "Effect_de": "Verringerter erlittener Schaden",
+        "Effect_en": "Decreased Damage Taken",
+        "Effect_fr": "D\u00e9g\u00e2ts subis r\u00e9duits",
+        "Effect_ja": "\u88ab\u30c0\u30e1\u30fc\u30b8\u30c0\u30a6\u30f3",
+        "Effect_ko": "\ubc1b\ub294 \ud53c\ud574 \uac10\uc18c",
+        "Icon": "ui/icon/009000/009878.png"
+    },
+    "5": {
+        "0xID": "5",
+        "Effect_cn": "\u6cbb\u7597\u91cf\u63d0\u9ad8",
+        "Effect_de": "Erh\u00f6hte Regeneration",
+        "Effect_en": "Increased Healing Potency",
+        "Effect_fr": "Potentiel curatif accru",
+        "Effect_ja": "\u56de\u5fa9\u91cf\u30a2\u30c3\u30d7",
+        "Effect_ko": "\ud68c\ubcf5\ub7c9 \uc99d\uac00",
+        "Icon": "ui/icon/009000/009879.png"
+    },
+    "6": {
+        "0xID": "6",
+        "Effect_cn": "\u590d\u5531\u65f6\u95f4\u7f29\u77ed",
+        "Effect_de": "Verk\u00fcrzte Reaktivierung",
+        "Effect_en": "Decreased Recast Time",
+        "Effect_fr": "Temps de recharge r\u00e9duit",
+        "Effect_ja": "\u30ea\u30ad\u30e3\u30b9\u30c8\u77ed\u7e2e",
+        "Effect_ko": "\uc7ac\uc0ac\uc6a9 \ub300\uae30 \uc2dc\uac04 \ub2e8\ucd95",
+        "Icon": "ui/icon/009000/009880.png"
+    },
+    "7": {
+        "0xID": "7",
+        "Effect_cn": "\u8010\u6027\u72b6\u6001\u65f6\u95f4\u5ef6\u957f",
+        "Effect_de": "Verl\u00e4ngerte Resistenz",
+        "Effect_en": "Increased Resistance Duration",
+        "Effect_fr": "R\u00e9sistances allong\u00e9es",
+        "Effect_ja": "\u8010\u6027\u30b9\u30c6\u30fc\u30bf\u30b9\u6642\u9593\u5ef6\u9577",
+        "Effect_ko": "\uc800\ud56d\ub825 \ud5a5\uc0c1",
+        "Icon": "ui/icon/009000/009881.png"
+    },
+    "8": {
+        "0xID": "8",
+        "Effect_cn": "\u9b54\u529b\u81ea\u7136\u6062\u590d\u91cf\u63d0\u9ad8",
+        "Effect_de": "Erh\u00f6hte MP-Regeneration",
+        "Effect_en": "Increased MP Regeneration",
+        "Effect_fr": "R\u00e9cup\u00e9ration de PM am\u00e9lior\u00e9e",
+        "Effect_ja": "\uff2d\uff30\u81ea\u7136\u56de\u5fa9\u30a2\u30c3\u30d7",
+        "Effect_ko": "MP \uc790\uc5f0 \ud68c\ubcf5\ub7c9 \uc99d\uac00",
+        "Icon": "ui/icon/009000/009882.png"
+    },
+    "9": {
+        "0xID": "9",
+        "Effect_cn": "\u6280\u529b\u81ea\u7136\u6062\u590d\u91cf\u63d0\u9ad8",
+        "Effect_de": "Erh\u00f6hte TP-Regeneration",
+        "Effect_en": "Increased TP Regeneration",
+        "Effect_fr": "R\u00e9cup\u00e9ration de PT am\u00e9lior\u00e9e",
+        "Effect_ja": "\uff34\uff30\u81ea\u7136\u56de\u5fa9\u30a2\u30c3\u30d7",
+        "Effect_ko": "TP \uc790\uc5f0 \ud68c\ubcf5\ub7c9 \uc99d\uac00",
+        "Icon": "ui/icon/009000/009883.png"
+    }
+}

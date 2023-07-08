@@ -1,0 +1,407 @@
+{
+    "0": {
+        "0xID": "0",
+        "col_0_cn": "",
+        "col_0_de": "",
+        "col_0_en": "",
+        "col_0_fr": "",
+        "col_0_ja": "",
+        "col_0_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "col_0_cn": "\u72fc\u72f1\u6c34\u4e0a\u7ade\u6280\u573a",
+        "col_0_de": "Wolfsh\u00f6hle",
+        "col_0_en": "The Wolves' Den",
+        "col_0_fr": "L'Antre des loups",
+        "col_0_ja": "\u30a6\u30eb\u30f4\u30ba\u30b8\u30a7\u30a4\u30eb",
+        "col_0_ko": "\ub291\ub300\uc6b0\ub9ac"
+    },
+    "10": {
+        "0xID": "A",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff08\u91cd\u751f\u4e4b\u5883\uff09",
+        "col_0_de": "Raids (A Realm Reborn)",
+        "col_0_en": "Raids (A Realm Reborn)",
+        "col_0_fr": "Raids (ARR)",
+        "col_0_ja": "\u30ec\u30a4\u30c9 (\u65b0\u751f\u30a8\u30aa\u30eb\u30bc\u30a2)",
+        "col_0_ko": "\ub808\uc774\ub4dc(\uc2e0\uc0dd \uc5d0\uc624\ub974\uc81c\uc544)"
+    },
+    "11": {
+        "0xID": "B",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff08\u82cd\u7a79\u4e4b\u7981\u57ce\uff09",
+        "col_0_de": "Normale Raids (Heavensward)",
+        "col_0_en": "Normal Raids (Heavensward)",
+        "col_0_fr": "Raids normaux (Heavensward)",
+        "col_0_ja": "\u30ce\u30fc\u30de\u30eb\u30ec\u30a4\u30c9 (\u84bc\u5929\u306e\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9)",
+        "col_0_ko": "\uc77c\ubc18 \ub808\uc774\ub4dc(\ucc3d\ucc9c\uc758 \uc774\uc288\uac00\ub974\ub4dc)"
+    },
+    "12": {
+        "0xID": "C",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff1a\u96f6\u5f0f\uff08\u91cd\u751f\u4e4b\u5883\uff09",
+        "col_0_de": "Epische Raids (A Realm Reborn)",
+        "col_0_en": "Savage Raids (A Realm Reborn)",
+        "col_0_fr": "Raids sadiques (ARR)",
+        "col_0_ja": "\u30ec\u30a4\u30c9\uff1a\u96f6\u5f0f (\u65b0\u751f\u30a8\u30aa\u30eb\u30bc\u30a2)",
+        "col_0_ko": "\uc601\uc6c5 \ub808\uc774\ub4dc(\uc2e0\uc0dd \uc5d0\uc624\ub974\uc81c\uc544)"
+    },
+    "13": {
+        "0xID": "D",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff1a\u96f6\u5f0f\uff08\u82cd\u7a79\u4e4b\u7981\u57ce\uff09",
+        "col_0_de": "Epische Raids (Heavensward)",
+        "col_0_en": "Savage Raids (Heavensward)",
+        "col_0_fr": "Raids sadiques (Heavensward)",
+        "col_0_ja": "\u30ec\u30a4\u30c9\uff1a\u96f6\u5f0f (\u84bc\u5929\u306e\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9)",
+        "col_0_ko": "\uc601\uc6c5 \ub808\uc774\ub4dc(\ucc3d\ucc9c\uc758 \uc774\uc288\uac00\ub974\ub4dc)"
+    },
+    "14": {
+        "0xID": "E",
+        "col_0_cn": "\u56e2\u961f\u4efb\u52a1\uff08\u91cd\u751f\u4e4b\u5883\uff09",
+        "col_0_de": "Allianz-Raids (A Realm Reborn)",
+        "col_0_en": "Alliance Raids (A Realm Reborn)",
+        "col_0_fr": "Raids en alliance (ARR)",
+        "col_0_ja": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30ec\u30a4\u30c9 (\u65b0\u751f\u30a8\u30aa\u30eb\u30bc\u30a2)",
+        "col_0_ko": "\uc5f0\ud569 \ub808\uc774\ub4dc(\uc2e0\uc0dd \uc5d0\uc624\ub974\uc81c\uc544)"
+    },
+    "15": {
+        "0xID": "F",
+        "col_0_cn": "\u56e2\u961f\u4efb\u52a1\uff08\u82cd\u7a79\u4e4b\u7981\u57ce\uff09",
+        "col_0_de": "Allianz-Raids (Heavensward)",
+        "col_0_en": "Alliance Raids (Heavensward)",
+        "col_0_fr": "Raids en alliance (Heavensward)",
+        "col_0_ja": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30ec\u30a4\u30c9 (\u84bc\u5929\u306e\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9)",
+        "col_0_ko": "\uc5f0\ud569 \ub808\uc774\ub4dc(\ucc3d\ucc9c\uc758 \uc774\uc288\uac00\ub974\ub4dc)"
+    },
+    "16": {
+        "0xID": "10",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff08\u7ea2\u83b2\u4e4b\u72c2\u6f6e\uff09",
+        "col_0_de": "Normale Raids (Stormblood)",
+        "col_0_en": "Normal Raids (Stormblood)",
+        "col_0_fr": "Raids normaux (Stormblood)",
+        "col_0_ja": "\u30ce\u30fc\u30de\u30eb\u30ec\u30a4\u30c9 (\u7d05\u84ee\u306e\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc)",
+        "col_0_ko": "\uc77c\ubc18 \ub808\uc774\ub4dc(\ud64d\ub828\uc758 \ud574\ubc29\uc790)"
+    },
+    "17": {
+        "0xID": "11",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff1a\u96f6\u5f0f\uff08\u7ea2\u83b2\u4e4b\u72c2\u6f6e\uff09",
+        "col_0_de": "Epische Raids (Stormblood)",
+        "col_0_en": "Savage Raids (Stormblood)",
+        "col_0_fr": "Raids sadiques (Stormblood)",
+        "col_0_ja": "\u30ec\u30a4\u30c9\uff1a\u96f6\u5f0f (\u7d05\u84ee\u306e\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc)",
+        "col_0_ko": "\uc601\uc6c5 \ub808\uc774\ub4dc(\ud64d\ub828\uc758 \ud574\ubc29\uc790)"
+    },
+    "18": {
+        "0xID": "12",
+        "col_0_cn": "\u56e2\u961f\u4efb\u52a1\uff08\u7ea2\u83b2\u4e4b\u72c2\u6f6e\uff09",
+        "col_0_de": "Allianz-Raids (Stormblood)",
+        "col_0_en": "Alliance Raids (Stormblood)",
+        "col_0_fr": "Raids en alliance (Stormblood)",
+        "col_0_ja": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30ec\u30a4\u30c9 (\u7d05\u84ee\u306e\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc)",
+        "col_0_ko": "\uc5f0\ud569 \ub808\uc774\ub4dc(\ud64d\ub828\uc758 \ud574\ubc29\uc790)"
+    },
+    "19": {
+        "0xID": "13",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff1a\u9ad8\u96be\u5ea6\uff08\u91cd\u751f\u4e4b\u5883\uff09",
+        "col_0_de": "Hochstufige Pr\u00fcfungen (A Realm Reborn)",
+        "col_0_en": "High-end Trials (A Realm Reborn)",
+        "col_0_fr": "D\u00e9fis \u00e0 difficult\u00e9 \u00e9lev\u00e9e (ARR)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\uff1a\u9ad8\u96e3\u6613\u5ea6 (\u65b0\u751f\u30a8\u30aa\u30eb\u30bc\u30a2)",
+        "col_0_ko": "\uace0\ub09c\ub3c4 \ud1a0\ubc8c\uc804(\uc2e0\uc0dd \uc5d0\uc624\ub974\uc81c\uc544)"
+    },
+    "2": {
+        "0xID": "2",
+        "col_0_cn": "\u72fc\u72f1\u6c34\u4e0a\u7ade\u6280\u573a(\u975e\u6bb5\u4f4d\u8d5b)",
+        "col_0_de": "Wolfsh\u00f6hle (\u00dcbungskampf)",
+        "col_0_en": "The Wolves' Den (Training)",
+        "col_0_fr": "L'Antre des loups (entra\u00eenement)",
+        "col_0_ja": "\u30a6\u30eb\u30f4\u30ba\u30b8\u30a7\u30a4\u30eb (\u30ab\u30b8\u30e5\u30a2\u30eb\u30de\u30c3\u30c1)",
+        "col_0_ko": "\ub291\ub300\uc6b0\ub9ac(\uc77c\ubc18\uc804)"
+    },
+    "20": {
+        "0xID": "14",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff1a\u9ad8\u96be\u5ea6\uff08\u82cd\u7a79\u4e4b\u7981\u57ce\uff09",
+        "col_0_de": "Hochstufige Pr\u00fcfungen (Heavensward)",
+        "col_0_en": "High-end Trials (Heavensward)",
+        "col_0_fr": "D\u00e9fis \u00e0 difficult\u00e9 \u00e9lev\u00e9e (Heavensward)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\uff1a\u9ad8\u96e3\u6613\u5ea6 (\u84bc\u5929\u306e\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9)",
+        "col_0_ko": "\uace0\ub09c\ub3c4 \ud1a0\ubc8c\uc804(\ucc3d\ucc9c\uc758 \uc774\uc288\uac00\ub974\ub4dc)"
+    },
+    "21": {
+        "0xID": "15",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff08\u7ea2\u83b2\u4e4b\u72c2\u6f6e\uff09",
+        "col_0_de": "Pr\u00fcfungen (Stormblood)",
+        "col_0_en": "Trials (Stormblood)",
+        "col_0_fr": "D\u00e9fis (Stormblood)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226 (\u7d05\u84ee\u306e\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc)",
+        "col_0_ko": "\ud1a0\ubc8c\uc804(\ud64d\ub828\uc758 \ud574\ubc29\uc790)"
+    },
+    "22": {
+        "0xID": "16",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff1a\u9ad8\u96be\u5ea6\uff08\u7ea2\u83b2\u4e4b\u72c2\u6f6e\uff09",
+        "col_0_de": "Hochstufige Pr\u00fcfungen (Stormblood)",
+        "col_0_en": "High-end Trials (Stormblood)",
+        "col_0_fr": "D\u00e9fis \u00e0 difficult\u00e9 \u00e9lev\u00e9e (Stormblood)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\uff1a\u9ad8\u96e3\u6613\u5ea6 (\u7d05\u84ee\u306e\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc)",
+        "col_0_ko": "\uace0\ub09c\ub3c4 \ud1a0\ubc8c\uc804(\ud64d\ub828\uc758 \ud574\ubc29\uc790)"
+    },
+    "23": {
+        "0xID": "17",
+        "col_0_cn": "\u70c8\u7fbd\u4e89\u950b",
+        "col_0_de": "Stahlschwingen",
+        "col_0_en": "Rival Wings",
+        "col_0_fr": "Ailes rivales",
+        "col_0_ja": "\u30e9\u30a4\u30d0\u30eb\u30a6\u30a3\u30f3\u30b0\u30ba",
+        "col_0_ko": "\uacbd\uc7c1\uc758 \ub0a0\uac1c"
+    },
+    "24": {
+        "0xID": "18",
+        "col_0_cn": "\u72fc\u72f1\u6c34\u4e0a\u7ade\u6280\u573a\uff08\u81ea\u5b9a\u8d5b\uff09",
+        "col_0_de": "Wolfsh\u00f6hle (Schaukampf)",
+        "col_0_en": "The Wolves' Den (Custom)",
+        "col_0_fr": "L'Antre des loups (personnalis\u00e9)",
+        "col_0_ja": "\u30a6\u30eb\u30f4\u30ba\u30b8\u30a7\u30a4\u30eb (\u30ab\u30b9\u30bf\u30e0\u30de\u30c3\u30c1)",
+        "col_0_ko": "\ub291\ub300\uc6b0\ub9ac(\uce5c\uc120 \uacbd\uae30)"
+    },
+    "25": {
+        "0xID": "19",
+        "col_0_cn": "\u72fc\u72f1\u6c34\u4e0a\u7ade\u6280\u573a\uff08\u6218\u961f\u81ea\u5b9a\u8d5b\uff09",
+        "col_0_de": "Wolfsh\u00f6hle (Team-Schaukampf)",
+        "col_0_en": "The Wolves' Den (Custom Team)",
+        "col_0_fr": "L'Antre des loups (personnalis\u00e9/\u00e9quipe JcJ)",
+        "col_0_ja": "\u30a6\u30eb\u30f4\u30ba\u30b8\u30a7\u30a4\u30eb (\u30c1\u30fc\u30e0\u7528\u30ab\u30b9\u30bf\u30e0\u30de\u30c3\u30c1)",
+        "col_0_ko": "\ub291\ub300\uc6b0\ub9ac(\ud300 \uce5c\uc120 \uacbd\uae30)"
+    },
+    "26": {
+        "0xID": "1A",
+        "col_0_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b",
+        "col_0_de": "Chocobo-Rennen (\u00f6ffentlich)",
+        "col_0_en": "Chocobo Races",
+        "col_0_fr": "Courses de chocobos",
+        "col_0_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9",
+        "col_0_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc"
+    },
+    "27": {
+        "0xID": "1B",
+        "col_0_cn": "\u9646\u884c\u9e1f\u7ade\u8d5b\uff08\u4ec5\u9650\u5c0f\u961f\u6210\u5458\uff09",
+        "col_0_de": "Chocobo-Rennen (Gruppenmitglieder)",
+        "col_0_en": "Chocobo Races (Party Member)",
+        "col_0_fr": "Courses de chocobos (entre \u00e9quipiers)",
+        "col_0_ja": "\u30c1\u30e7\u30b3\u30dc\u30ec\u30fc\u30b9 (\u30d1\u30fc\u30c6\u30a3\u30e1\u30f3\u30d0\u30fc\u9650\u5b9a)",
+        "col_0_ko": "\ucd08\ucf54\ubcf4 \uacbd\uc8fc(\ud30c\ud2f0\uc6d0 \ud55c\uc815)"
+    },
+    "28": {
+        "0xID": "1C",
+        "col_0_cn": "\u6bcf\u65e5\u6311\u6218",
+        "col_0_de": "Tagesherausforderungen",
+        "col_0_en": "Daily Challenges",
+        "col_0_fr": "Challenges quotidiens",
+        "col_0_ja": "\u30c7\u30a4\u30ea\u30fc\u30c1\u30e3\u30ec\u30f3\u30b8",
+        "col_0_ko": "\uc77c\uc77c \ub3c4\uc804"
+    },
+    "29": {
+        "0xID": "1D",
+        "col_0_cn": "\u591a\u739b\u65b9\u57ce\u6218",
+        "col_0_de": "Domanisches Mahjong",
+        "col_0_en": "Mahjong",
+        "col_0_fr": "Mahjong domien",
+        "col_0_ja": "\u30c9\u30de\u5f0f\u9ebb\u96c0",
+        "col_0_ko": "\uc791\ud328\uc720\ud76c"
+    },
+    "3": {
+        "0xID": "3",
+        "col_0_cn": "\u7eb7\u4e89\u524d\u7ebf",
+        "col_0_de": "Front",
+        "col_0_en": "Frontline",
+        "col_0_fr": "Front",
+        "col_0_ja": "\u30d5\u30ed\u30f3\u30c8\u30e9\u30a4\u30f3",
+        "col_0_ko": "\uc804\uc7a5"
+    },
+    "30": {
+        "0xID": "1E",
+        "col_0_cn": "\u8ff7\u5bab\u6311\u6218\uff08\u7ea2\u83b2\u4e4b\u72c2\u6f6e\uff09",
+        "col_0_de": "Dungeons (Stormblood)",
+        "col_0_en": "Dungeons (Stormblood)",
+        "col_0_fr": "Donjons (Stormblood)",
+        "col_0_ja": "\u30c0\u30f3\u30b8\u30e7\u30f3 (\u7d05\u84ee\u306e\u30ea\u30d9\u30ec\u30fc\u30bf\u30fc)",
+        "col_0_ko": "\ub358\uc804(\ud64d\ub828\uc758 \ud574\ubc29\uc790)"
+    },
+    "31": {
+        "0xID": "1F",
+        "col_0_cn": "\u8ff7\u5bab\u6311\u6218\uff08\u6697\u5f71\u4e4b\u9006\u7130\uff09",
+        "col_0_de": "Dungeons (Shadowbringers)",
+        "col_0_en": "Dungeons (Shadowbringers)",
+        "col_0_fr": "Donjons (Shadowbringers)",
+        "col_0_ja": "\u30c0\u30f3\u30b8\u30e7\u30f3 (\u6f06\u9ed2\u306e\u30f4\u30a3\u30e9\u30f3\u30ba)",
+        "col_0_ko": "\ub358\uc804(\uce60\ud751\uc758 \ubc18\uc5ed\uc790)"
+    },
+    "32": {
+        "0xID": "20",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff08\u6697\u5f71\u4e4b\u9006\u7130\uff09",
+        "col_0_de": "Pr\u00fcfungen (Shadowbringers)",
+        "col_0_en": "Trials (Shadowbringers)",
+        "col_0_fr": "D\u00e9fis (Shadowbringers)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226 (\u6f06\u9ed2\u306e\u30f4\u30a3\u30e9\u30f3\u30ba)",
+        "col_0_ko": "\ud1a0\ubc8c\uc804(\uce60\ud751\uc758 \ubc18\uc5ed\uc790)"
+    },
+    "33": {
+        "0xID": "21",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff1a\u9ad8\u96be\u5ea6\uff08\u6697\u5f71\u4e4b\u9006\u7130\uff09",
+        "col_0_de": "Hochstufige Pr\u00fcfungen (Shadowbringers)",
+        "col_0_en": "High-end Trials (Shadowbringers)",
+        "col_0_fr": "D\u00e9fis \u00e0 difficult\u00e9 \u00e9lev\u00e9e (Shadowbringers)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\uff1a\u9ad8\u96e3\u6613\u5ea6 (\u6f06\u9ed2\u306e\u30f4\u30a3\u30e9\u30f3\u30ba)",
+        "col_0_ko": "\uace0\ub09c\ub3c4 \ud1a0\ubc8c\uc804(\uce60\ud751\uc758 \ubc18\uc5ed\uc790)"
+    },
+    "34": {
+        "0xID": "22",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff08\u6697\u5f71\u4e4b\u9006\u7130\uff09",
+        "col_0_de": "Normale Raids (Shadowbringers)",
+        "col_0_en": "Normal Raids (Shadowbringers)",
+        "col_0_fr": "Raids normaux (Shadowbringers)",
+        "col_0_ja": "\u30ce\u30fc\u30de\u30eb\u30ec\u30a4\u30c9 (\u6f06\u9ed2\u306e\u30f4\u30a3\u30e9\u30f3\u30ba)",
+        "col_0_ko": "\uc77c\ubc18 \ub808\uc774\ub4dc(\uce60\ud751\uc758 \ubc18\uc5ed\uc790)"
+    },
+    "35": {
+        "0xID": "23",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff1a\u96f6\u5f0f\uff08\u6697\u5f71\u4e4b\u9006\u7130\uff09",
+        "col_0_de": "Epische Raids (Shadowbringers)",
+        "col_0_en": "Savage Raids (Shadowbringers)",
+        "col_0_fr": "Raids sadiques (Shadowbringers)",
+        "col_0_ja": "\u30ec\u30a4\u30c9\uff1a\u96f6\u5f0f (\u6f06\u9ed2\u306e\u30f4\u30a3\u30e9\u30f3\u30ba)",
+        "col_0_ko": "\uc601\uc6c5 \ub808\uc774\ub4dc(\uce60\ud751\uc758 \ubc18\uc5ed\uc790)"
+    },
+    "36": {
+        "0xID": "24",
+        "col_0_cn": "\u56e2\u961f\u4efb\u52a1\uff08\u6697\u5f71\u4e4b\u9006\u7130\uff09",
+        "col_0_de": "Allianz-Raids (Shadowbringers)",
+        "col_0_en": "Alliance Raids (Shadowbringers)",
+        "col_0_fr": "Raids en alliance (Shadowbringers)",
+        "col_0_ja": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30ec\u30a4\u30c9 (\u6f06\u9ed2\u306e\u30f4\u30a3\u30e9\u30f3\u30ba)",
+        "col_0_ko": "\uc5f0\ud569 \ub808\uc774\ub4dc(\uce60\ud751\uc758 \ubc18\uc5ed\uc790)"
+    },
+    "37": {
+        "0xID": "25",
+        "col_0_cn": "\u8ff7\u5bab\u6311\u6218\uff08\u6653\u6708\u4e4b\u7ec8\u9014\uff09",
+        "col_0_de": "Dungeons (Endwalker)",
+        "col_0_en": "Dungeons (Endwalker)",
+        "col_0_fr": "Donjons (Endwalker)",
+        "col_0_ja": "\u30c0\u30f3\u30b8\u30e7\u30f3 (\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec)",
+        "col_0_ko": "\ub358\uc804(\ud6a8\uc6d4\uc758 \uc885\uc5b8)"
+    },
+    "38": {
+        "0xID": "26",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff08\u6653\u6708\u4e4b\u7ec8\u9014\uff09",
+        "col_0_de": "Pr\u00fcfungen (Endwalker)",
+        "col_0_en": "Trials (Endwalker)",
+        "col_0_fr": "D\u00e9fis (Endwalker)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226 (\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec)",
+        "col_0_ko": "\ud1a0\ubc8c\uc804(\ud6a8\uc6d4\uc758 \uc885\uc5b8)"
+    },
+    "39": {
+        "0xID": "27",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff1a\u9ad8\u96be\u5ea6\uff08\u6653\u6708\u4e4b\u7ec8\u9014\uff09",
+        "col_0_de": "Hochstufige Pr\u00fcfungen (Endwalker)",
+        "col_0_en": "High-end Trials (Endwalker)",
+        "col_0_fr": "D\u00e9fis \u00e0 difficult\u00e9 \u00e9lev\u00e9e (Endwalker)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\uff1a\u9ad8\u96e3\u6613\u5ea6 (\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec)",
+        "col_0_ko": "\uace0\ub09c\ub3c4 \ud1a0\ubc8c\uc804(\ud6a8\uc6d4\uc758 \uc885\uc5b8)"
+    },
+    "4": {
+        "0xID": "4",
+        "col_0_cn": "\u4e5d\u5bab\u5e7b\u5361",
+        "col_0_de": "Triple Triad",
+        "col_0_en": "Triple Triad",
+        "col_0_fr": "Triple Triade",
+        "col_0_ja": "\u30c8\u30ea\u30d7\u30eb\u30c8\u30e9\u30a4\u30a2\u30c9",
+        "col_0_ko": "\ud2b8\ub9ac\ud50c \ud2b8\ub77c\uc774\uc5b4\ub4dc"
+    },
+    "40": {
+        "0xID": "28",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff08\u6653\u6708\u4e4b\u7ec8\u9014\uff09",
+        "col_0_de": "Normale Raids (Endwalker)",
+        "col_0_en": "Normal Raids (Endwalker)",
+        "col_0_fr": "Raids normaux (Endwalker)",
+        "col_0_ja": "\u30ce\u30fc\u30de\u30eb\u30ec\u30a4\u30c9 (\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec)",
+        "col_0_ko": "\uc77c\ubc18 \ub808\uc774\ub4dc(\ud6a8\uc6d4\uc758 \uc885\uc5b8)"
+    },
+    "41": {
+        "0xID": "29",
+        "col_0_cn": "\u5927\u578b\u4efb\u52a1\uff1a\u96f6\u5f0f\uff08\u6653\u6708\u4e4b\u7ec8\u9014\uff09",
+        "col_0_de": "Epische Raids (Endwalker)",
+        "col_0_en": "Savage Raids (Endwalker)",
+        "col_0_fr": "Raids sadiques (Endwalker)",
+        "col_0_ja": "\u30ec\u30a4\u30c9\uff1a\u96f6\u5f0f (\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec)",
+        "col_0_ko": "\uc601\uc6c5 \ub808\uc774\ub4dc(\ud6a8\uc6d4\uc758 \uc885\uc5b8)"
+    },
+    "42": {
+        "0xID": "2A",
+        "col_0_cn": "\u56e2\u961f\u4efb\u52a1\uff08\u6653\u6708\u4e4b\u7ec8\u9014\uff09",
+        "col_0_de": "Allianz-Raids (Endwalker)",
+        "col_0_en": "Alliance Raids (Endwalker)",
+        "col_0_fr": "Raids en alliance (Endwalker)",
+        "col_0_ja": "\u30a2\u30e9\u30a4\u30a2\u30f3\u30b9\u30ec\u30a4\u30c9 (\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec)",
+        "col_0_ko": "\uc5f0\ud569 \ub808\uc774\ub4dc(\ud6a8\uc6d4\uc758 \uc885\uc5b8)"
+    },
+    "43": {
+        "0xID": "2B",
+        "col_0_cn": "\u6c34\u6676\u51b2\u7a81",
+        "col_0_de": "Crystalline Conflict",
+        "col_0_en": "Crystalline Conflict",
+        "col_0_fr": "Crystalline Conflict",
+        "col_0_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8",
+        "col_0_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8"
+    },
+    "44": {
+        "0xID": "2C",
+        "col_0_cn": "\u6c34\u6676\u51b2\u7a81\uff08\u81ea\u5b9a\u8d5b\uff09",
+        "col_0_de": "Crystalline Conflict (Schaukampf)",
+        "col_0_en": "Crystalline Conflict (Custom Match)",
+        "col_0_fr": "Crystalline Conflict (personnalis\u00e9)",
+        "col_0_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8(\u30ab\u30b9\u30bf\u30e0\u30de\u30c3\u30c1)",
+        "col_0_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8(\uce5c\uc120 \uacbd\uae30)"
+    },
+    "5": {
+        "0xID": "5",
+        "col_0_cn": "\u840c\u5ba0\u4e4b\u738b",
+        "col_0_de": "Kampf der Trabanten",
+        "col_0_en": "Lord of Verminion",
+        "col_0_fr": "Choc des mascottes",
+        "col_0_ja": "\u30ed\u30fc\u30c9\u30fb\u30aa\u30d6\u30fb\u30f4\u30a1\u30fc\u30df\u30cb\u30aa\u30f3",
+        "col_0_ko": "\uaf2c\ub9c8 \uce5c\uad6c \uacf5\ubc29\uc804"
+    },
+    "6": {
+        "0xID": "6",
+        "col_0_cn": "\u8ff7\u5bab\u6311\u6218\uff08\u91cd\u751f\u4e4b\u5883\uff09",
+        "col_0_de": "Dungeons (A Realm Reborn)",
+        "col_0_en": "Dungeons (A Realm Reborn)",
+        "col_0_fr": "Donjons (ARR)",
+        "col_0_ja": "\u30c0\u30f3\u30b8\u30e7\u30f3 (\u65b0\u751f\u30a8\u30aa\u30eb\u30bc\u30a2)",
+        "col_0_ko": "\ub358\uc804(\uc2e0\uc0dd \uc5d0\uc624\ub974\uc81c\uc544)"
+    },
+    "7": {
+        "0xID": "7",
+        "col_0_cn": "\u8ff7\u5bab\u6311\u6218\uff08\u82cd\u7a79\u4e4b\u7981\u57ce\uff09",
+        "col_0_de": "Dungeons (Heavensward)",
+        "col_0_en": "Dungeons (Heavensward)",
+        "col_0_fr": "Donjons (Heavensward)",
+        "col_0_ja": "\u30c0\u30f3\u30b8\u30e7\u30f3 (\u84bc\u5929\u306e\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9)",
+        "col_0_ko": "\ub358\uc804(\ucc3d\ucc9c\uc758 \uc774\uc288\uac00\ub974\ub4dc)"
+    },
+    "8": {
+        "0xID": "8",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff08\u91cd\u751f\u4e4b\u5883\uff09",
+        "col_0_de": "Pr\u00fcfungen (A Realm Reborn)",
+        "col_0_en": "Trials (A Realm Reborn)",
+        "col_0_fr": "D\u00e9fis (ARR)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226 (\u65b0\u751f\u30a8\u30aa\u30eb\u30bc\u30a2)",
+        "col_0_ko": "\ud1a0\ubc8c\uc804(\uc2e0\uc0dd \uc5d0\uc624\ub974\uc81c\uc544)"
+    },
+    "9": {
+        "0xID": "9",
+        "col_0_cn": "\u8ba8\u4f10\u6b7c\u706d\u6218\uff08\u82cd\u7a79\u4e4b\u7981\u57ce\uff09",
+        "col_0_de": "Pr\u00fcfungen (Heavensward)",
+        "col_0_en": "Trials (Heavensward)",
+        "col_0_fr": "D\u00e9fis (Heavensward)",
+        "col_0_ja": "\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226 (\u84bc\u5929\u306e\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9)",
+        "col_0_ko": "\ud1a0\ubc8c\uc804(\ucc3d\ucc9c\uc758 \uc774\uc288\uac00\ub974\ub4dc)"
+    }
+}

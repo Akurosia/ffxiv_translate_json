@@ -1,0 +1,74 @@
+{
+    "3866624": {
+        "0xID": "3B0000",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "3866625": {
+        "0xID": "3B0001",
+        "Name_cn": "\u4ea4\u6362\u80fd\u5de5\u5de7\u5320\u6539\u826f\u7528\u6750\u6599",
+        "Name_de": "Werkzeugkomponenten: Handwerker",
+        "Name_en": "Oddly Specific Materials Exchange (Crafting)",
+        "Name_fr": "Composants d'affinage pour artisans",
+        "Name_ja": "\u6539\u826f\u7528\u90e8\u6750\u306e\u4ea4\u63db\uff1a\u30af\u30e9\u30d5\u30bf\u30fc",
+        "Name_ko": "\uc81c\uc791\ub3c4\uad6c \uac1c\ub7c9\uc6a9 \ubd80\uc7ac \uad50\ud658"
+    },
+    "3866626": {
+        "0xID": "3B0002",
+        "Name_cn": "\u53ce\u96c6\u54c1\u7d0d\u54c1",
+        "Name_de": "\u53ce\u96c6\u54c1\u7d0d\u54c1",
+        "Name_en": "\u53ce\u96c6\u54c1\u7d0d\u54c1",
+        "Name_fr": "\u53ce\u96c6\u54c1\u7d0d\u54c1",
+        "Name_ja": "\u53ce\u96c6\u54c1\u7d0d\u54c1",
+        "Name_ko": "\u53ce\u96c6\u54c1\u7d0d\u54c1"
+    },
+    "3866627": {
+        "0xID": "3B0003",
+        "Name_cn": "\u25cf\u53ce\u96c6\u54c1\u56de\u53ce",
+        "Name_de": "\u25cf\u53ce\u96c6\u54c1\u56de\u53ce",
+        "Name_en": "\u25cf\u53ce\u96c6\u54c1\u56de\u53ce",
+        "Name_fr": "\u25cf\u53ce\u96c6\u54c1\u56de\u53ce",
+        "Name_ja": "\u25cf\u53ce\u96c6\u54c1\u56de\u53ce",
+        "Name_ko": "\u25cf\u53ce\u96c6\u54c1\u56de\u53ce"
+    },
+    "3866628": {
+        "0xID": "3B0004",
+        "Name_cn": "\u4ea4\u6362\u6700\u7ec8\u6539\u826f\u7528\u6750\u6599",
+        "Name_de": "Komponenten zur Vollendung",
+        "Name_en": "Oddly Delicate Materials Exchange",
+        "Name_fr": "Composants d'affinage final",
+        "Name_ja": "\u6700\u7d42\u6539\u826f\u7528\u90e8\u6750\u306e\u4ea4\u63db",
+        "Name_ko": "\ucd5c\uc885 \uac1c\ub7c9\uc6a9 \ubd80\uc7ac \uad50\ud658"
+    },
+    "3866629": {
+        "0xID": "3B0005",
+        "Name_cn": "\u4ea4\u6362\u8001\u5f0f\u8f89\u714c\u5de5\u5177\u7528\u6750\u6599",
+        "Name_de": "Komponententausch: Veraltete Prachtwerkzeuge",
+        "Name_en": "Obsolete Resplendent Materials Exchange",
+        "Name_fr": "Anciens composants pour outils resplendissants",
+        "Name_ja": "\u4e8c\u6b21\uff5e\u6700\u7d42\u7d20\u6750\u3010\u65e7\u3011\u306e\u53d6\u5f15",
+        "Name_ko": "\uad6c\ud615 \ucc2c\ub780\ud55c \ub3c4\uad6c \uc7ac\ub8cc \uac70\ub798"
+    },
+    "3866630": {
+        "0xID": "3B0006",
+        "Name_cn": "\u4ea4\u6362\u8f89\u714c\u5de5\u5177\u7528\u6750\u6599",
+        "Name_de": "Komponententausch: Prachtwerkzeuge",
+        "Name_en": "Resplendent Materials Exchange",
+        "Name_fr": "Composants pour outils resplendissants",
+        "Name_ja": "\u4e8c\u6b21\uff5e\u6700\u7d42\u7d20\u6750\u306e\u53d6\u5f15",
+        "Name_ko": "\ucc2c\ub780\ud55c \ub3c4\uad6c \uc7ac\ub8cc \uac70\ub798"
+    },
+    "3866631": {
+        "0xID": "3B0007",
+        "Name_cn": "",
+        "Name_de": "Sonderkomponententausch: Mowen-Werkzeuge",
+        "Name_en": "Trade Goods Exchange",
+        "Name_fr": "Marchandises pour outils des merveilles",
+        "Name_ja": "\u53d6\u5f15\u8cc7\u672c\u306e\u7d0d\u54c1",
+        "Name_ko": ""
+    }
+}

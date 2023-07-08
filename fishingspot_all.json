@@ -1,0 +1,3362 @@
+{
+    "0": {
+        "0xID": "0",
+        "PlaceName_cn": "未知钓场",
+        "PlaceName_de": "Unerforschter Angelplatz",
+        "PlaceName_en": "Undiscovered Fishing Hole",
+        "PlaceName_fr": "Zone de pêche inconnue",
+        "PlaceName_ja": "未知の釣り場",
+        "PlaceName_ko": "미지의 낚시터",
+        "TerritoryType": ""
+    },
+    "1": {
+        "0xID": "1",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "10": {
+        "0xID": "A",
+        "PlaceName_cn": "十二神大圣堂",
+        "PlaceName_de": "Dom der Einkehr",
+        "PlaceName_en": "Sanctum of the Twelve",
+        "PlaceName_fr": "Sanctuaire des Douze",
+        "PlaceName_ja": "十二神大聖堂",
+        "PlaceName_ko": "열두 신 대성당",
+        "TerritoryType": "f1f2"
+    },
+    "100": {
+        "0xID": "64",
+        "PlaceName_cn": "红茶川水系上游",
+        "PlaceName_de": "Oberer Schwarztee-Bach",
+        "PlaceName_en": "Upper Black Tea Brook",
+        "PlaceName_fr": "Amont du ruisseau du Thé noir",
+        "PlaceName_ja": "グリダニア：紅茶川水系上流",
+        "PlaceName_ko": "그리다니아: 홍차강 상류",
+        "TerritoryType": "f1t2"
+    },
+    "10000": {
+        "0xID": "2710",
+        "PlaceName_cn": "多玛飞地",
+        "PlaceName_de": "Domanische Enklave",
+        "PlaceName_en": "The Doman Enclave",
+        "PlaceName_fr": "Quartier enclavé de Doma",
+        "PlaceName_ja": "ドマ町人地",
+        "PlaceName_ko": "도마 도읍지",
+        "TerritoryType": ""
+    },
+    "10001": {
+        "0xID": "2711",
+        "PlaceName_cn": "云冠洞穴",
+        "PlaceName_de": "Diadem-Grotte",
+        "PlaceName_en": "Diadem Grotto",
+        "PlaceName_fr": "Grotte du Diadème",
+        "PlaceName_ja": "ディアデム諸島の洞穴",
+        "PlaceName_ko": "디아뎀 제도 동굴",
+        "TerritoryType": ""
+    },
+    "10002": {
+        "0xID": "2712",
+        "PlaceName_cn": "云冠西南池",
+        "PlaceName_de": "Südlicher Diademteich",
+        "PlaceName_en": "Southern Diadem Lake",
+        "PlaceName_fr": "Mares du quadrant sud-ouest",
+        "PlaceName_ja": "ディアデム諸島の南西池",
+        "PlaceName_ko": "디아뎀 제도 남서쪽 연못",
+        "TerritoryType": ""
+    },
+    "10003": {
+        "0xID": "2713",
+        "PlaceName_cn": "云冠西北池",
+        "PlaceName_de": "Nördlicher Diademteich",
+        "PlaceName_en": "Northern Diadem Lake",
+        "PlaceName_fr": "Étang du quadrant nord-ouest",
+        "PlaceName_ja": "ディアデム諸島の北西池",
+        "PlaceName_ko": "디아뎀 제도 북서쪽 연못",
+        "TerritoryType": ""
+    },
+    "10004": {
+        "0xID": "2714",
+        "PlaceName_cn": "狂风云海",
+        "PlaceName_de": "Tosende Wolken",
+        "PlaceName_en": "Blustery Cloudtop",
+        "PlaceName_fr": "Cimes venteuses",
+        "PlaceName_ja": "風吹き抜ける雲海",
+        "PlaceName_ko": "바람이 지나는 구름바다",
+        "TerritoryType": ""
+    },
+    "10005": {
+        "0xID": "2715",
+        "PlaceName_cn": "无风云海",
+        "PlaceName_de": "Sanfte Wolken",
+        "PlaceName_en": "Calm Cloudtop",
+        "PlaceName_fr": "Cimes calmes",
+        "PlaceName_ja": "風穏やかな雲海",
+        "PlaceName_ko": "바람이 온화한 구름바다",
+        "TerritoryType": ""
+    },
+    "10006": {
+        "0xID": "2716",
+        "PlaceName_cn": "旋风云海",
+        "PlaceName_de": "Wirbelnde Wolken",
+        "PlaceName_en": "Swirling Cloudtop",
+        "PlaceName_fr": "Cimes tumultueuses",
+        "PlaceName_ja": "風渦巻く雲海",
+        "PlaceName_ko": "바람이 휘도는 구름바다",
+        "TerritoryType": ""
+    },
+    "10007": {
+        "0xID": "2717",
+        "PlaceName_cn": "摇风云海",
+        "PlaceName_de": "Sturmumtostes Wolkenmeer",
+        "PlaceName_en": "Windswept Cloudtop",
+        "PlaceName_fr": "Cimes éventées",
+        "PlaceName_ja": "風吹き上がる雲海",
+        "PlaceName_ko": "바람 부는 구름바다",
+        "TerritoryType": ""
+    },
+    "10008": {
+        "0xID": "2718",
+        "PlaceName_cn": "云冠洞穴",
+        "PlaceName_de": "Diadem-Grotte",
+        "PlaceName_en": "Diadem Grotto",
+        "PlaceName_fr": "Grotte du Diadème",
+        "PlaceName_ja": "ディアデム諸島の洞穴",
+        "PlaceName_ko": "디아뎀 제도 동굴",
+        "TerritoryType": ""
+    },
+    "10009": {
+        "0xID": "2719",
+        "PlaceName_cn": "云冠西南池",
+        "PlaceName_de": "Südlicher Diademteich",
+        "PlaceName_en": "Southern Diadem Lake",
+        "PlaceName_fr": "Mares du quadrant sud-ouest",
+        "PlaceName_ja": "ディアデム諸島の南西池",
+        "PlaceName_ko": "디아뎀 제도 남서쪽 연못",
+        "TerritoryType": ""
+    },
+    "10010": {
+        "0xID": "271A",
+        "PlaceName_cn": "云冠西北池",
+        "PlaceName_de": "Nördlicher Diademteich",
+        "PlaceName_en": "Northern Diadem Lake",
+        "PlaceName_fr": "Étang du quadrant nord-ouest",
+        "PlaceName_ja": "ディアデム諸島の北西池",
+        "PlaceName_ko": "디아뎀 제도 북서쪽 연못",
+        "TerritoryType": ""
+    },
+    "10011": {
+        "0xID": "271B",
+        "PlaceName_cn": "狂风云海",
+        "PlaceName_de": "Tosende Wolken",
+        "PlaceName_en": "Blustery Cloudtop",
+        "PlaceName_fr": "Cimes venteuses",
+        "PlaceName_ja": "風吹き抜ける雲海",
+        "PlaceName_ko": "바람이 지나는 구름바다",
+        "TerritoryType": ""
+    },
+    "10012": {
+        "0xID": "271C",
+        "PlaceName_cn": "无风云海",
+        "PlaceName_de": "Sanfte Wolken",
+        "PlaceName_en": "Calm Cloudtop",
+        "PlaceName_fr": "Cimes calmes",
+        "PlaceName_ja": "風穏やかな雲海",
+        "PlaceName_ko": "바람이 온화한 구름바다",
+        "TerritoryType": ""
+    },
+    "10013": {
+        "0xID": "271D",
+        "PlaceName_cn": "旋风云海",
+        "PlaceName_de": "Wirbelnde Wolken",
+        "PlaceName_en": "Swirling Cloudtop",
+        "PlaceName_fr": "Cimes tumultueuses",
+        "PlaceName_ja": "風渦巻く雲海",
+        "PlaceName_ko": "바람이 휘도는 구름바다",
+        "TerritoryType": ""
+    },
+    "10014": {
+        "0xID": "271E",
+        "PlaceName_cn": "摇风云海",
+        "PlaceName_de": "Sturmumtostes Wolkenmeer",
+        "PlaceName_en": "Windswept Cloudtop",
+        "PlaceName_fr": "Cimes éventées",
+        "PlaceName_ja": "風吹き上がる雲海",
+        "PlaceName_ko": "바람 부는 구름바다",
+        "TerritoryType": ""
+    },
+    "10015": {
+        "0xID": "271F",
+        "PlaceName_cn": "息风云海",
+        "PlaceName_de": "Windbrecher-Wolkengipfel",
+        "PlaceName_en": "Windbreaking Cloudtop",
+        "PlaceName_fr": "Mer de nuages calme",
+        "PlaceName_ja": "風吹き溜まる雲海",
+        "PlaceName_ko": "바람이 머무는 구름바다",
+        "TerritoryType": ""
+    },
+    "10016": {
+        "0xID": "2720",
+        "PlaceName_cn": "狂风云海",
+        "PlaceName_de": "Sturmwind-Wolkengipfel",
+        "PlaceName_en": "Buffeted Cloudtop",
+        "PlaceName_fr": "Mer de nuages agitée",
+        "PlaceName_ja": "風吹き荒ぶ雲海",
+        "PlaceName_ko": "바람이 거친 구름바다",
+        "TerritoryType": ""
+    },
+    "10017": {
+        "0xID": "2721",
+        "PlaceName_cn": "云冠洞穴",
+        "PlaceName_de": "Diadem-Grotte",
+        "PlaceName_en": "Diadem Grotto",
+        "PlaceName_fr": "Grotte du Diadème",
+        "PlaceName_ja": "ディアデム諸島の洞穴",
+        "PlaceName_ko": "디아뎀 제도 동굴",
+        "TerritoryType": ""
+    },
+    "10018": {
+        "0xID": "2722",
+        "PlaceName_cn": "云冠西南池",
+        "PlaceName_de": "Südlicher Diademteich",
+        "PlaceName_en": "Southern Diadem Lake",
+        "PlaceName_fr": "Mares du quadrant sud-ouest",
+        "PlaceName_ja": "ディアデム諸島の南西池",
+        "PlaceName_ko": "디아뎀 제도 남서쪽 연못",
+        "TerritoryType": ""
+    },
+    "10019": {
+        "0xID": "2723",
+        "PlaceName_cn": "云冠西北池",
+        "PlaceName_de": "Nördlicher Diademteich",
+        "PlaceName_en": "Northern Diadem Lake",
+        "PlaceName_fr": "Étang du quadrant nord-ouest",
+        "PlaceName_ja": "ディアデム諸島の北西池",
+        "PlaceName_ko": "디아뎀 제도 북서쪽 연못",
+        "TerritoryType": ""
+    },
+    "10020": {
+        "0xID": "2724",
+        "PlaceName_cn": "狂风云海",
+        "PlaceName_de": "Tosende Wolken",
+        "PlaceName_en": "Blustery Cloudtop",
+        "PlaceName_fr": "Cimes venteuses",
+        "PlaceName_ja": "風吹き抜ける雲海",
+        "PlaceName_ko": "바람이 지나는 구름바다",
+        "TerritoryType": ""
+    },
+    "10021": {
+        "0xID": "2725",
+        "PlaceName_cn": "无风云海",
+        "PlaceName_de": "Sanfte Wolken",
+        "PlaceName_en": "Calm Cloudtop",
+        "PlaceName_fr": "Cimes calmes",
+        "PlaceName_ja": "風穏やかな雲海",
+        "PlaceName_ko": "바람이 온화한 구름바다",
+        "TerritoryType": ""
+    },
+    "10022": {
+        "0xID": "2726",
+        "PlaceName_cn": "旋风云海",
+        "PlaceName_de": "Wirbelnde Wolken",
+        "PlaceName_en": "Swirling Cloudtop",
+        "PlaceName_fr": "Cimes tumultueuses",
+        "PlaceName_ja": "風渦巻く雲海",
+        "PlaceName_ko": "바람이 휘도는 구름바다",
+        "TerritoryType": ""
+    },
+    "10023": {
+        "0xID": "2727",
+        "PlaceName_cn": "摇风云海",
+        "PlaceName_de": "Sturmumtostes Wolkenmeer",
+        "PlaceName_en": "Windswept Cloudtop",
+        "PlaceName_fr": "Cimes éventées",
+        "PlaceName_ja": "風吹き上がる雲海",
+        "PlaceName_ko": "바람 부는 구름바다",
+        "TerritoryType": ""
+    },
+    "10024": {
+        "0xID": "2728",
+        "PlaceName_cn": "息风云海",
+        "PlaceName_de": "Windbrecher-Wolkengipfel",
+        "PlaceName_en": "Windbreaking Cloudtop",
+        "PlaceName_fr": "Mer de nuages calme",
+        "PlaceName_ja": "風吹き溜まる雲海",
+        "PlaceName_ko": "바람이 머무는 구름바다",
+        "TerritoryType": ""
+    },
+    "10025": {
+        "0xID": "2729",
+        "PlaceName_cn": "狂风云海",
+        "PlaceName_de": "Sturmwind-Wolkengipfel",
+        "PlaceName_en": "Buffeted Cloudtop",
+        "PlaceName_fr": "Mer de nuages agitée",
+        "PlaceName_ja": "風吹き荒ぶ雲海",
+        "PlaceName_ko": "바람이 거친 구름바다",
+        "TerritoryType": ""
+    },
+    "10026": {
+        "0xID": "272A",
+        "PlaceName_cn": "至福乐土农业区",
+        "PlaceName_de": "Elysischer Agrarsektor",
+        "PlaceName_en": "Elysian Fields",
+        "PlaceName_fr": "Champs élyséens",
+        "PlaceName_ja": "エリュシオン農業区画",
+        "PlaceName_ko": "엘리시온 농업 구획",
+        "TerritoryType": "u5e3"
+    },
+    "10027": {
+        "0xID": "272B",
+        "PlaceName_cn": "至福乐土海洋区α",
+        "PlaceName_de": "Elysischer Meeressektor α",
+        "PlaceName_en": "Elysian Seas α",
+        "PlaceName_fr": "Mers élyséennes α",
+        "PlaceName_ja": "エリュシオン海洋区画α",
+        "PlaceName_ko": "엘리시온 해양 구획 α",
+        "TerritoryType": "u5e3"
+    },
+    "10028": {
+        "0xID": "272C",
+        "PlaceName_cn": "至福乐土海洋区β",
+        "PlaceName_de": "Elysischer Meeressektor β",
+        "PlaceName_en": "Elysian Seas β",
+        "PlaceName_fr": "Mers élyséennes β",
+        "PlaceName_ja": "エリュシオン海洋区画β",
+        "PlaceName_ko": "엘리시온 해양 구획 β",
+        "TerritoryType": "u5e3"
+    },
+    "10029": {
+        "0xID": "272D",
+        "PlaceName_cn": "至福乐土游乐区α",
+        "PlaceName_de": "Elysischer Vergnügungssektorα",
+        "PlaceName_en": "Elysian Playgrounds α",
+        "PlaceName_fr": "Terrains de jeu élyséens α",
+        "PlaceName_ja": "エリュシオン遊園区画α",
+        "PlaceName_ko": "엘리시온 유원 구획 α",
+        "TerritoryType": "u5e3"
+    },
+    "10030": {
+        "0xID": "272E",
+        "PlaceName_cn": "至福乐土游乐区β",
+        "PlaceName_de": "Elysischer Vergnügungssektorβ",
+        "PlaceName_en": "Elysian Playgrounds β",
+        "PlaceName_fr": "Terrains de jeu élyséens β",
+        "PlaceName_ja": "エリュシオン遊園区画β",
+        "PlaceName_ko": "엘리시온 유원 구획 β",
+        "TerritoryType": "u5e3"
+    },
+    "101": {
+        "0xID": "65",
+        "PlaceName_cn": "萨普沙产卵地",
+        "PlaceName_de": "Sapsa-Laichplatz",
+        "PlaceName_en": "Sapsa Spawning Grounds",
+        "PlaceName_fr": "Frai de Sapsa",
+        "PlaceName_ja": "サプサ産卵地",
+        "PlaceName_ko": "사프사 산란지",
+        "TerritoryType": "s1f4"
+    },
+    "102": {
+        "0xID": "66",
+        "PlaceName_cn": "隐秘港",
+        "PlaceName_de": "Hafen der Geborgenheit",
+        "PlaceName_en": "Reaver Hide",
+        "PlaceName_fr": "Wharf des pillards",
+        "PlaceName_ja": "船隠しの港",
+        "PlaceName_ko": "은닉 항구",
+        "TerritoryType": "s1f4"
+    },
+    "103": {
+        "0xID": "67",
+        "PlaceName_cn": "月滴洞",
+        "PlaceName_de": "Mondtropfen-Höhle",
+        "PlaceName_en": "Moondrip",
+        "PlaceName_fr": "Gouttelune",
+        "PlaceName_ja": "ムーンドリップ洞窟",
+        "PlaceName_ko": "달샘 동굴",
+        "TerritoryType": "w1f1"
+    },
+    "104": {
+        "0xID": "68",
+        "PlaceName_cn": "海雾村",
+        "PlaceName_de": "Dorf des Nebels",
+        "PlaceName_en": "Mist",
+        "PlaceName_fr": "Brumée",
+        "PlaceName_ja": "ミスト・ヴィレッジ",
+        "PlaceName_ko": "안갯빛 마을",
+        "TerritoryType": "s1h1"
+    },
+    "105": {
+        "0xID": "69",
+        "PlaceName_cn": "薰衣草苗圃",
+        "PlaceName_de": "Lavendelbeete",
+        "PlaceName_en": "The Lavender Beds",
+        "PlaceName_fr": "Lavandière",
+        "PlaceName_ja": "ラベンダーベッド",
+        "PlaceName_ko": "라벤더 안식처",
+        "TerritoryType": "f1h1"
+    },
+    "106": {
+        "0xID": "6A",
+        "PlaceName_cn": "高脚孤丘",
+        "PlaceName_de": "Kelchkuppe",
+        "PlaceName_en": "The Goblet",
+        "PlaceName_fr": "La Coupe",
+        "PlaceName_ja": "ゴブレットビュート",
+        "PlaceName_ko": "하늘잔 마루",
+        "TerritoryType": "w1h1"
+    },
+    "107": {
+        "0xID": "6B",
+        "PlaceName_cn": "罗塔诺海（船首）",
+        "PlaceName_de": "Rhotano-See (Vorderdeck)",
+        "PlaceName_en": "Rhotano Sea (Privateer Forecastle)",
+        "PlaceName_fr": "Mer de Rhotano (proue)",
+        "PlaceName_ja": "ロータノ海沖合：船首",
+        "PlaceName_ko": "로타노 해 먼바다: 뱃머리",
+        "TerritoryType": "s1f3"
+    },
+    "108": {
+        "0xID": "6C",
+        "PlaceName_cn": "罗塔诺海（船尾）",
+        "PlaceName_de": "Rhotano-See (Achterdeck)",
+        "PlaceName_en": "Rhotano Sea (Privateer Sterncastle)",
+        "PlaceName_fr": "Mer de Rhotano (poupe)",
+        "PlaceName_ja": "ロータノ海沖合：船尾",
+        "PlaceName_ko": "로타노 해 먼바다: 뱃고물",
+        "TerritoryType": "s1f3"
+    },
+    "109": {
+        "0xID": "6D",
+        "PlaceName_cn": "交汇河",
+        "PlaceName_de": "Zweistrom",
+        "PlaceName_en": "Riversmeet",
+        "PlaceName_fr": "Deux-Rivières",
+        "PlaceName_ja": "リバーズミート",
+        "PlaceName_ko": "맞가람 골짜기",
+        "TerritoryType": "r2f1"
+    },
+    "11": {
+        "0xID": "B",
+        "PlaceName_cn": "哈希瓦河上游",
+        "PlaceName_de": "Oberer Hathoeva",
+        "PlaceName_en": "Upper Hathoeva River",
+        "PlaceName_fr": "Amont d'Hathoeva",
+        "PlaceName_ja": "ハズーバ支流：上流",
+        "PlaceName_ko": "하두바 강 상류",
+        "TerritoryType": "f1f3"
+    },
+    "110": {
+        "0xID": "6E",
+        "PlaceName_cn": "灰尾瀑布",
+        "PlaceName_de": "Grauschwanzfälle",
+        "PlaceName_en": "Greytail Falls",
+        "PlaceName_fr": "Chutes de Grisequeue",
+        "PlaceName_ja": "グレイテール滝",
+        "PlaceName_ko": "회색꼬리 폭포",
+        "TerritoryType": "r2f1"
+    },
+    "111": {
+        "0xID": "6F",
+        "PlaceName_cn": "库尔札斯不冻池",
+        "PlaceName_de": "Coerthas-Taubereich",
+        "PlaceName_en": "Unfrozen Pond",
+        "PlaceName_fr": "Étang dégelé",
+        "PlaceName_ja": "クルザス不凍池",
+        "PlaceName_ko": "얼지 않는 연못",
+        "TerritoryType": "r2f1"
+    },
+    "112": {
+        "0xID": "70",
+        "PlaceName_cn": "清澈池",
+        "PlaceName_de": "Klarteich",
+        "PlaceName_en": "Clearpool",
+        "PlaceName_fr": "Clairétang",
+        "PlaceName_ja": "クリアプール",
+        "PlaceName_ko": "투명한 연못",
+        "TerritoryType": "r2f1"
+    },
+    "113": {
+        "0xID": "71",
+        "PlaceName_cn": "龙涎",
+        "PlaceName_de": "Drachengeifer",
+        "PlaceName_en": "Dragonspit",
+        "PlaceName_fr": "Glaire-de-dragon",
+        "PlaceName_ja": "ドラゴンスピット",
+        "PlaceName_ko": "용숨결 온천",
+        "TerritoryType": "r2f1"
+    },
+    "114": {
+        "0xID": "72",
+        "PlaceName_cn": "灾祸池南",
+        "PlaceName_de": "Südlicher Bannpfuhl",
+        "PlaceName_en": "South Banepool",
+        "PlaceName_fr": "Malétang (berge sud)",
+        "PlaceName_ja": "ベーンプール南",
+        "PlaceName_ko": "죽음의 호수 남쪽",
+        "TerritoryType": "r2f1"
+    },
+    "115": {
+        "0xID": "73",
+        "PlaceName_cn": "灰烬池",
+        "PlaceName_de": "Aschenpfuhl",
+        "PlaceName_en": "Ashpool",
+        "PlaceName_fr": "Cendrétang",
+        "PlaceName_ja": "アッシュプール",
+        "PlaceName_ko": "잿빛 호수",
+        "TerritoryType": "r2f1"
+    },
+    "116": {
+        "0xID": "74",
+        "PlaceName_cn": "灾祸池西",
+        "PlaceName_de": "Westlicher Bannpfuhl",
+        "PlaceName_en": "West Banepool",
+        "PlaceName_fr": "Malétang (berge ouest)",
+        "PlaceName_ja": "ベーンプール西",
+        "PlaceName_ko": "죽음의 호수 서쪽",
+        "TerritoryType": "r2f1"
+    },
+    "117": {
+        "0xID": "75",
+        "PlaceName_cn": "悲叹飞泉",
+        "PlaceName_de": "Hundertfacher Schrei",
+        "PlaceName_en": "The Hundred Throes",
+        "PlaceName_fr": "Les Cent Râles",
+        "PlaceName_ja": "悲嘆の飛泉",
+        "PlaceName_ko": "비탄의 폭포",
+        "TerritoryType": "d2f1"
+    },
+    "118": {
+        "0xID": "76",
+        "PlaceName_cn": "宽慰河",
+        "PlaceName_de": "Der Weiland",
+        "PlaceName_en": "Whilom River",
+        "PlaceName_fr": "Rivière Vairlame",
+        "PlaceName_ja": "ウィロームリバー",
+        "PlaceName_ko": "지난날 강",
+        "TerritoryType": "d2f1"
+    },
+    "119": {
+        "0xID": "77",
+        "PlaceName_cn": "荒烟野地",
+        "PlaceName_de": "Qualmende Öde",
+        "PlaceName_en": "The Smoldering Wastes",
+        "PlaceName_fr": "Terres fumantes",
+        "PlaceName_ja": "スモーキングウェイスト",
+        "PlaceName_ko": "연기 황야",
+        "TerritoryType": "d2f1"
+    },
+    "12": {
+        "0xID": "C",
+        "PlaceName_cn": "哈希瓦河中游",
+        "PlaceName_de": "Mittlerer Hathoeva",
+        "PlaceName_en": "Middle Hathoeva River",
+        "PlaceName_fr": "Centre d'Hathoeva",
+        "PlaceName_ja": "ハズーバ支流：中流",
+        "PlaceName_ko": "하두바 강 중류",
+        "TerritoryType": "f1f3"
+    },
+    "120": {
+        "0xID": "78",
+        "PlaceName_cn": "饵食台地",
+        "PlaceName_de": "Auenfest",
+        "PlaceName_en": "The Iron Feast",
+        "PlaceName_fr": "L'Eurée feste",
+        "PlaceName_ja": "餌食の台地",
+        "PlaceName_ko": "용의 식탁",
+        "TerritoryType": "d2f1"
+    },
+    "121": {
+        "0xID": "79",
+        "PlaceName_cn": "彻悟岩窟",
+        "PlaceName_de": "Mourn",
+        "PlaceName_en": "Mourn",
+        "PlaceName_fr": "Morne",
+        "PlaceName_ja": "モーン大岩窟",
+        "PlaceName_ko": "애도의 바위굴",
+        "TerritoryType": "d2f1"
+    },
+    "122": {
+        "0xID": "7A",
+        "PlaceName_cn": "彻悟岩窟西",
+        "PlaceName_de": "West-Mourn",
+        "PlaceName_en": "West Mourn",
+        "PlaceName_fr": "Morne (ouest)",
+        "PlaceName_ja": "モーン大岩窟西",
+        "PlaceName_ko": "애도의 바위굴 서쪽",
+        "TerritoryType": "d2f1"
+    },
+    "123": {
+        "0xID": "7B",
+        "PlaceName_cn": "不洁古像",
+        "PlaceName_de": "Alter Annex",
+        "PlaceName_en": "Anyx Old",
+        "PlaceName_fr": "Annexe Or",
+        "PlaceName_ja": "アネス・ソー",
+        "PlaceName_ko": "아네스 소",
+        "TerritoryType": "d2f1"
+    },
+    "124": {
+        "0xID": "7C",
+        "PlaceName_cn": "光轮祭坛",
+        "PlaceName_de": "Halo",
+        "PlaceName_en": "Halo",
+        "PlaceName_fr": "Halo",
+        "PlaceName_ja": "光輪の祭壇",
+        "PlaceName_ko": "빛무리 제단",
+        "TerritoryType": "d2f1"
+    },
+    "125": {
+        "0xID": "7D",
+        "PlaceName_cn": "沙利亚克河",
+        "PlaceName_de": "Der Thaliak",
+        "PlaceName_en": "Thaliak River",
+        "PlaceName_fr": "Rivière Thaliak",
+        "PlaceName_ja": "サリャク河",
+        "PlaceName_ko": "살리아크 강",
+        "TerritoryType": "d2f2"
+    },
+    "126": {
+        "0xID": "7E",
+        "PlaceName_cn": "湍流三角地",
+        "PlaceName_de": "Überlauf-Delta",
+        "PlaceName_en": "Quickspill Delta",
+        "PlaceName_fr": "Delta de Grand-Flot",
+        "PlaceName_ja": "クイックスピル・デルタ",
+        "PlaceName_ko": "급류 삼각주",
+        "TerritoryType": "d2f2"
+    },
+    "127": {
+        "0xID": "7F",
+        "PlaceName_cn": "沙利亚克河上流",
+        "PlaceName_de": "Thaliak-Oberlauf",
+        "PlaceName_en": "Upper Thaliak River",
+        "PlaceName_fr": "Rivière Thaliak (amont)",
+        "PlaceName_ja": "サリャク河上流",
+        "PlaceName_ko": "살리아크 강 상류",
+        "TerritoryType": "d2f2"
+    },
+    "128": {
+        "0xID": "80",
+        "PlaceName_cn": "沙利亚克河中流",
+        "PlaceName_de": "Thaliak-Mittellauf",
+        "PlaceName_en": "Middle Thaliak River",
+        "PlaceName_fr": "Rivière Thaliak (centre)",
+        "PlaceName_ja": "サリャク河中州",
+        "PlaceName_ko": "살리아크 강 중류",
+        "TerritoryType": "d2f2"
+    },
+    "129": {
+        "0xID": "81",
+        "PlaceName_cn": "招恶荒岛",
+        "PlaceName_de": "Eil Tohm",
+        "PlaceName_en": "Eil Tohm",
+        "PlaceName_fr": "Eil Tohm",
+        "PlaceName_ja": "エイル・トーム",
+        "PlaceName_ko": "에일 톰",
+        "TerritoryType": "d2f3"
+    },
+    "13": {
+        "0xID": "D",
+        "PlaceName_cn": "哈希瓦河下游",
+        "PlaceName_de": "Unterer Hathoeva",
+        "PlaceName_en": "Lower Hathoeva River",
+        "PlaceName_fr": "Aval d'Hathoeva",
+        "PlaceName_ja": "ハズーバ支流：下流",
+        "PlaceName_ko": "하두바 강 하류",
+        "TerritoryType": "f1f3"
+    },
+    "130": {
+        "0xID": "82",
+        "PlaceName_cn": "绿茵岛",
+        "PlaceName_de": "Grünwarte",
+        "PlaceName_en": "Greensward",
+        "PlaceName_fr": "Clos-Vert",
+        "PlaceName_ja": "グリーンスウォード島",
+        "PlaceName_ko": "잔디섬",
+        "TerritoryType": "d2f3"
+    },
+    "131": {
+        "0xID": "83",
+        "PlaceName_cn": "西方水泉",
+        "PlaceName_de": "Westenwasser",
+        "PlaceName_en": "Weston Waters",
+        "PlaceName_fr": "Thermes d'Ouestebourg",
+        "PlaceName_ja": "ウェストン・ウォーター",
+        "PlaceName_ko": "서쪽 샘",
+        "TerritoryType": "d2f3"
+    },
+    "132": {
+        "0xID": "84",
+        "PlaceName_cn": "人王遗迹",
+        "PlaceName_de": "Grundherren-Kolonie",
+        "PlaceName_en": "Landlord Colony",
+        "PlaceName_fr": "Colonie des Maîtres terriens",
+        "PlaceName_ja": "ランドロード遺構",
+        "PlaceName_ko": "지상왕의 영지",
+        "TerritoryType": "d2f3"
+    },
+    "133": {
+        "0xID": "85",
+        "PlaceName_cn": "索姆阿尔云帽",
+        "PlaceName_de": "Sohm Al-Wolkenmeer",
+        "PlaceName_en": "Sohm Al Summit",
+        "PlaceName_fr": "Nuages de Sohm Al",
+        "PlaceName_ja": "ソーム・アル笠雲",
+        "PlaceName_ko": "솜 알 산머리",
+        "TerritoryType": "d2f3"
+    },
+    "134": {
+        "0xID": "86",
+        "PlaceName_cn": "惋惜之晶遗迹",
+        "PlaceName_de": "Tharl Oom Khash",
+        "PlaceName_en": "Tharl Oom Khash",
+        "PlaceName_fr": "Tharl Oom Khash",
+        "PlaceName_ja": "サルウーム・カシュ",
+        "PlaceName_ko": "살 움 카쉬",
+        "TerritoryType": "d2f3"
+    },
+    "135": {
+        "0xID": "87",
+        "PlaceName_cn": "沃仙曦染",
+        "PlaceName_de": "Voor Sian Siran",
+        "PlaceName_en": "Voor Sian Siran",
+        "PlaceName_fr": "Voor Sian Siran",
+        "PlaceName_ja": "ヴール・シアンシラン",
+        "PlaceName_ko": "부르 시안시란",
+        "TerritoryType": "a2f1"
+    },
+    "136": {
+        "0xID": "88",
+        "PlaceName_cn": "云水塘",
+        "PlaceName_de": "Stauwolken",
+        "PlaceName_en": "The Eddies",
+        "PlaceName_fr": "Les Remous",
+        "PlaceName_ja": "雲溜まり",
+        "PlaceName_ko": "구름웅덩이",
+        "TerritoryType": "a2f1"
+    },
+    "137": {
+        "0xID": "89",
+        "PlaceName_cn": "云顶",
+        "PlaceName_de": "Wolkenwipfel",
+        "PlaceName_en": "Cloudtop",
+        "PlaceName_fr": "Cime-des-nuages",
+        "PlaceName_ja": "クラウドトップ",
+        "PlaceName_ko": "구름마루",
+        "TerritoryType": "a2f1"
+    },
+    "138": {
+        "0xID": "8A",
+        "PlaceName_cn": "蓝天窗",
+        "PlaceName_de": "Himmelblaues Fenster",
+        "PlaceName_en": "The Blue Window",
+        "PlaceName_fr": "La Fenêtre bleue",
+        "PlaceName_ja": "ブルーウィンドウ",
+        "PlaceName_ko": "푸른하늘 창",
+        "TerritoryType": "a2f1"
+    },
+    "139": {
+        "0xID": "8B",
+        "PlaceName_cn": "魔窟离岛",
+        "PlaceName_de": "Mok Oogl",
+        "PlaceName_en": "Mok Oogl Island",
+        "PlaceName_fr": "Île Mok Oogl",
+        "PlaceName_ja": "モック・ウーグル島",
+        "PlaceName_ko": "모크 우글 섬",
+        "TerritoryType": "a2f1"
+    },
+    "14": {
+        "0xID": "E",
+        "PlaceName_cn": "哈希瓦河东支流",
+        "PlaceName_de": "Östlicher Hathoeva",
+        "PlaceName_en": "East Hathoeva River",
+        "PlaceName_fr": "Est d'Hathoeva",
+        "PlaceName_ja": "ハズーバ支流：東",
+        "PlaceName_ko": "하두바 강 동쪽",
+        "TerritoryType": "f1f3"
+    },
+    "140": {
+        "0xID": "8C",
+        "PlaceName_cn": "阿尔法管区",
+        "PlaceName_de": "Alpha-Quadrant",
+        "PlaceName_en": "Alpha Quadrant",
+        "PlaceName_fr": "Quadrant alpha",
+        "PlaceName_ja": "アルファ管区",
+        "PlaceName_ko": "알파 구역",
+        "TerritoryType": "a2f2"
+    },
+    "141": {
+        "0xID": "8D",
+        "PlaceName_cn": "废液池",
+        "PlaceName_de": "Abwasserbecken",
+        "PlaceName_en": "Aetherochemical Spill",
+        "PlaceName_fr": "Nappe de liquide magismologique",
+        "PlaceName_ja": "廃液溜まり",
+        "PlaceName_ko": "폐수 웅덩이",
+        "TerritoryType": "a2f2"
+    },
+    "142": {
+        "0xID": "8E",
+        "PlaceName_cn": "超星际通信塔",
+        "PlaceName_de": "Hyperstellarer Decoder",
+        "PlaceName_en": "Hyperstellar Downconverter",
+        "PlaceName_fr": "Convertisseur hyperstellaire",
+        "PlaceName_ja": "超星間交信塔",
+        "PlaceName_ko": "초성간교신탑",
+        "TerritoryType": "a2f2"
+    },
+    "143": {
+        "0xID": "8F",
+        "PlaceName_cn": "德尔塔管区",
+        "PlaceName_de": "Delta-Quadrant",
+        "PlaceName_en": "Delta Quadrant",
+        "PlaceName_fr": "Quadrant delta",
+        "PlaceName_ja": "デルタ管区",
+        "PlaceName_ko": "델타 구역",
+        "TerritoryType": "a2f2"
+    },
+    "144": {
+        "0xID": "90",
+        "PlaceName_cn": "冠毛大树",
+        "PlaceName_de": "Pappus-Baum",
+        "PlaceName_en": "The Pappus Tree",
+        "PlaceName_fr": "L'arbre à pappus",
+        "PlaceName_ja": "パプスの大樹",
+        "PlaceName_ko": "큰갓털나무",
+        "TerritoryType": "a2f2"
+    },
+    "145": {
+        "0xID": "91",
+        "PlaceName_cn": "生态园",
+        "PlaceName_de": "Biosphäre",
+        "PlaceName_en": "The Habisphere",
+        "PlaceName_fr": "Écosphère",
+        "PlaceName_ja": "ハビスフィア",
+        "PlaceName_ko": "생태공원",
+        "TerritoryType": "a2f2"
+    },
+    "146": {
+        "0xID": "92",
+        "PlaceName_cn": "阿济兹拉旗舰岛",
+        "PlaceName_de": "Flaggschiff",
+        "PlaceName_en": "The Flagship",
+        "PlaceName_fr": "Navire amiral",
+        "PlaceName_ja": "アジス・ラー旗艦島",
+        "PlaceName_ko": "아지스 라 기함섬",
+        "TerritoryType": "a2f2"
+    },
+    "147": {
+        "0xID": "93",
+        "PlaceName_cn": "云冠涌泉",
+        "PlaceName_de": "Diadem-Himmelsquellen",
+        "PlaceName_en": "Diadem Skysprings",
+        "PlaceName_fr": "Sources du Diadème",
+        "PlaceName_ja": "ディアデム諸島の湧水地",
+        "PlaceName_ko": "디아뎀 제도 수원지",
+        "TerritoryType": ""
+    },
+    "148": {
+        "0xID": "94",
+        "PlaceName_cn": "云冠洞穴",
+        "PlaceName_de": "Diadem-Grotte",
+        "PlaceName_en": "Diadem Grotto",
+        "PlaceName_fr": "Grotte du Diadème",
+        "PlaceName_ja": "ディアデム諸島の洞穴",
+        "PlaceName_ko": "디아뎀 제도 동굴",
+        "TerritoryType": ""
+    },
+    "149": {
+        "0xID": "95",
+        "PlaceName_cn": "云冠西南池",
+        "PlaceName_de": "Südlicher Diademteich",
+        "PlaceName_en": "Southern Diadem Lake",
+        "PlaceName_fr": "Mares du quadrant sud-ouest",
+        "PlaceName_ja": "ディアデム諸島の南西池",
+        "PlaceName_ko": "디아뎀 제도 남서쪽 연못",
+        "TerritoryType": ""
+    },
+    "15": {
+        "0xID": "F",
+        "PlaceName_cn": "哥布林血流",
+        "PlaceName_de": "Goblinblut",
+        "PlaceName_en": "Goblinblood",
+        "PlaceName_fr": "Camp des Gobelins",
+        "PlaceName_ja": "ゴブリン族の生簀",
+        "PlaceName_ko": "고블린족 양식장",
+        "TerritoryType": "f1f3"
+    },
+    "150": {
+        "0xID": "96",
+        "PlaceName_cn": "云冠鱼洞",
+        "PlaceName_de": "Abgeschiedener Diademteich",
+        "PlaceName_en": "Secluded Diadem Pond",
+        "PlaceName_fr": "Banc du Diadème",
+        "PlaceName_ja": "ディアデム諸島の穴場",
+        "PlaceName_ko": "디아뎀 제도 숨은 명당",
+        "TerritoryType": ""
+    },
+    "151": {
+        "0xID": "97",
+        "PlaceName_cn": "云冠西北池",
+        "PlaceName_de": "Nördlicher Diademteich",
+        "PlaceName_en": "Northern Diadem Lake",
+        "PlaceName_fr": "Étang du quadrant nord-ouest",
+        "PlaceName_ja": "ディアデム諸島の北西池",
+        "PlaceName_ko": "디아뎀 제도 북서쪽 연못",
+        "TerritoryType": ""
+    },
+    "152": {
+        "0xID": "98",
+        "PlaceName_cn": "狂风云海",
+        "PlaceName_de": "Tosende Wolken",
+        "PlaceName_en": "Blustery Cloudtop",
+        "PlaceName_fr": "Cimes venteuses",
+        "PlaceName_ja": "風吹き抜ける雲海",
+        "PlaceName_ko": "바람이 지나는 구름바다",
+        "TerritoryType": ""
+    },
+    "153": {
+        "0xID": "99",
+        "PlaceName_cn": "无风云海",
+        "PlaceName_de": "Sanfte Wolken",
+        "PlaceName_en": "Calm Cloudtop",
+        "PlaceName_fr": "Cimes calmes",
+        "PlaceName_ja": "風穏やかな雲海",
+        "PlaceName_ko": "바람이 온화한 구름바다",
+        "TerritoryType": ""
+    },
+    "154": {
+        "0xID": "9A",
+        "PlaceName_cn": "旋风云海",
+        "PlaceName_de": "Wirbelnde Wolken",
+        "PlaceName_en": "Swirling Cloudtop",
+        "PlaceName_fr": "Cimes tumultueuses",
+        "PlaceName_ja": "風渦巻く雲海",
+        "PlaceName_ko": "바람이 휘도는 구름바다",
+        "TerritoryType": ""
+    },
+    "155": {
+        "0xID": "9B",
+        "PlaceName_cn": "石绿湖西北岸",
+        "PlaceName_de": "Bronzesee-Nordwestufer",
+        "PlaceName_en": "Northwest Bronze Lake",
+        "PlaceName_fr": "Nord-ouest du lac d'Airain",
+        "PlaceName_ja": "ブロンズレイク北西岸",
+        "PlaceName_ko": "청동호수 북서부",
+        "TerritoryType": "s1f6"
+    },
+    "156": {
+        "0xID": "9C",
+        "PlaceName_cn": "永夏岛北",
+        "PlaceName_de": "Insel des Ewigen Sommers (Nord)",
+        "PlaceName_en": "North Isle of Endless Summer",
+        "PlaceName_fr": "Île de l'Éternel été (nord)",
+        "PlaceName_ja": "常夏の島北",
+        "PlaceName_ko": "늘여름 섬 북부",
+        "TerritoryType": "s1f3"
+    },
+    "157": {
+        "0xID": "9D",
+        "PlaceName_cn": "防波堤",
+        "PlaceName_de": "Hafen Kugane",
+        "PlaceName_en": "Kugane Piers",
+        "PlaceName_fr": "Jetées de Kugane",
+        "PlaceName_ja": "波止場全体",
+        "PlaceName_ko": "부두 전체",
+        "TerritoryType": "e3t1"
+    },
+    "158": {
+        "0xID": "9E",
+        "PlaceName_cn": "红玉炮台近海",
+        "PlaceName_de": "Rubin-Seefestung",
+        "PlaceName_en": "The Ruby Price",
+        "PlaceName_fr": "Batteries de Rubis",
+        "PlaceName_ja": "紅玉台場近海",
+        "PlaceName_ko": "홍옥 포대 근해",
+        "TerritoryType": "e3f1"
+    },
+    "159": {
+        "0xID": "9F",
+        "PlaceName_cn": "狱之盖近海",
+        "PlaceName_de": "Höllenspund",
+        "PlaceName_en": "Hells' Lid",
+        "PlaceName_fr": "Couvercle des enfers",
+        "PlaceName_ja": "獄之蓋近海",
+        "PlaceName_ko": "지옥뚜껑 근해",
+        "TerritoryType": "e3f1"
+    },
+    "16": {
+        "0xID": "10",
+        "PlaceName_cn": "蔓根沼",
+        "PlaceName_de": "Wurzelmoor",
+        "PlaceName_en": "Rootslake",
+        "PlaceName_fr": "Lac des Racines",
+        "PlaceName_ja": "根渡り沼",
+        "PlaceName_ko": "징검뿌리 늪지대",
+        "TerritoryType": "f1f3"
+    },
+    "160": {
+        "0xID": "A0",
+        "PlaceName_cn": "龟甲岛近海",
+        "PlaceName_de": "Bekko",
+        "PlaceName_en": "The Isle of Bekko",
+        "PlaceName_fr": "Île de Bekko",
+        "PlaceName_ja": "ベッコウ島近海",
+        "PlaceName_ko": "베코우 섬 근해",
+        "TerritoryType": "e3f1"
+    },
+    "161": {
+        "0xID": "A1",
+        "PlaceName_cn": "冲之岩近海",
+        "PlaceName_de": "Seichtfels",
+        "PlaceName_en": "Shoal Rock",
+        "PlaceName_fr": "Okinoiwa",
+        "PlaceName_ja": "沖之岩近海",
+        "PlaceName_ko": "난바위 근해",
+        "TerritoryType": "e3f1"
+    },
+    "162": {
+        "0xID": "A2",
+        "PlaceName_cn": "自凝岛近海",
+        "PlaceName_de": "Onokoro",
+        "PlaceName_en": "Onokoro",
+        "PlaceName_fr": "Onokoro",
+        "PlaceName_ja": "オノコロ島近海",
+        "PlaceName_ko": "오노코로 섬 근해",
+        "TerritoryType": "e3f1"
+    },
+    "163": {
+        "0xID": "A3",
+        "PlaceName_cn": "渔村沿岸",
+        "PlaceName_de": "Isari",
+        "PlaceName_en": "Isari",
+        "PlaceName_fr": "Isari",
+        "PlaceName_ja": "イサリ村沿岸",
+        "PlaceName_ko": "이사리 마을 연안",
+        "TerritoryType": "e3f1"
+    },
+    "164": {
+        "0xID": "A4",
+        "PlaceName_cn": "绝鬼岛近海",
+        "PlaceName_de": "Zekki",
+        "PlaceName_en": "The Isle of Zekki",
+        "PlaceName_fr": "Île de Zekki",
+        "PlaceName_ja": "ゼッキ島近海",
+        "PlaceName_ko": "살귀도 근해",
+        "TerritoryType": "e3f1"
+    },
+    "165": {
+        "0xID": "A5",
+        "PlaceName_cn": "苍鹭池",
+        "PlaceName_de": "Nest des Reihers",
+        "PlaceName_en": "The Heron's Nest",
+        "PlaceName_fr": "Nid du Héron",
+        "PlaceName_ja": "アオサギ池",
+        "PlaceName_ko": "왜가리 연못",
+        "TerritoryType": "e3f2"
+    },
+    "166": {
+        "0xID": "A6",
+        "PlaceName_cn": "苍鹭河",
+        "PlaceName_de": "Weg des Reihers",
+        "PlaceName_en": "The Heron's Way",
+        "PlaceName_fr": "Course du Héron",
+        "PlaceName_ja": "アオサギ川",
+        "PlaceName_ko": "왜가리 강",
+        "TerritoryType": "e3f2"
+    },
+    "167": {
+        "0xID": "A7",
+        "PlaceName_cn": "茨菰村水塘",
+        "PlaceName_de": "Namai",
+        "PlaceName_en": "Namai",
+        "PlaceName_fr": "Namai",
+        "PlaceName_ja": "ナマイ村溜池",
+        "PlaceName_ko": "나마이 마을 저수지",
+        "TerritoryType": "e3f2"
+    },
+    "168": {
+        "0xID": "A8",
+        "PlaceName_cn": "七彩沟",
+        "PlaceName_de": "Prismenweiher",
+        "PlaceName_en": "Prism Lake",
+        "PlaceName_fr": "Lac aux Prismes",
+        "PlaceName_ja": "七彩溝",
+        "PlaceName_ko": "무지개 도랑",
+        "TerritoryType": "e3f2"
+    },
+    "169": {
+        "0xID": "A9",
+        "PlaceName_cn": "七彩溪谷",
+        "PlaceName_de": "Prismenschlucht",
+        "PlaceName_en": "Prism Canyon",
+        "PlaceName_fr": "Vallée aux Prismes",
+        "PlaceName_ja": "七彩渓谷",
+        "PlaceName_ko": "무지개 계곡",
+        "TerritoryType": "e3f2"
+    },
+    "17": {
+        "0xID": "11",
+        "PlaceName_cn": "兀尔德恩惠地",
+        "PlaceName_de": "Urths Segen",
+        "PlaceName_en": "Urth's Gift",
+        "PlaceName_fr": "Le Don d'Urth",
+        "PlaceName_ja": "ウルズの恵み",
+        "PlaceName_ko": "우르드의 선물",
+        "TerritoryType": "f1f3"
+    },
+    "170": {
+        "0xID": "AA",
+        "PlaceName_cn": "多玛城前",
+        "PlaceName_de": "Burg Doma",
+        "PlaceName_en": "Doma Castle",
+        "PlaceName_fr": "Château de Doma",
+        "PlaceName_ja": "ドマ城前",
+        "PlaceName_ko": "도마 성",
+        "TerritoryType": "e3f2"
+    },
+    "171": {
+        "0xID": "AB",
+        "PlaceName_cn": "城下码头",
+        "PlaceName_de": "Frachthafen",
+        "PlaceName_en": "Mercantile Docks",
+        "PlaceName_fr": "Quais de commerce",
+        "PlaceName_ja": "城下船場",
+        "PlaceName_ko": "선착장",
+        "TerritoryType": "e3f2"
+    },
+    "172": {
+        "0xID": "AC",
+        "PlaceName_cn": "无二江东",
+        "PlaceName_de": "Der Einzig (Ost)",
+        "PlaceName_en": "The One River (East)",
+        "PlaceName_fr": "Muni (est)",
+        "PlaceName_ja": "無二江東",
+        "PlaceName_ko": "무이강 동쪽",
+        "TerritoryType": "e3f2"
+    },
+    "173": {
+        "0xID": "AD",
+        "PlaceName_cn": "无二江西",
+        "PlaceName_de": "Der Einzig (West)",
+        "PlaceName_en": "The One River (West)",
+        "PlaceName_fr": "Muni (ouest)",
+        "PlaceName_ja": "無二江西",
+        "PlaceName_ko": "무이강 서쪽",
+        "TerritoryType": "e3f2"
+    },
+    "174": {
+        "0xID": "AE",
+        "PlaceName_cn": "梅泉乡",
+        "PlaceName_de": "Quelle am Pflaumenbaum",
+        "PlaceName_en": "Plum Spring",
+        "PlaceName_fr": "Source des Pruniers",
+        "PlaceName_ja": "梅泉郷",
+        "PlaceName_ko": "매천향",
+        "TerritoryType": "e3f2"
+    },
+    "175": {
+        "0xID": "AF",
+        "PlaceName_cn": "涅木卡勒河",
+        "PlaceName_de": "Nem Khaal",
+        "PlaceName_en": "Nem Khaal",
+        "PlaceName_fr": "Nem Khaal",
+        "PlaceName_ja": "ネム・カール",
+        "PlaceName_ko": "넴 칼",
+        "TerritoryType": "e3f3"
+    },
+    "176": {
+        "0xID": "B0",
+        "PlaceName_cn": "哈克卡勒河",
+        "PlaceName_de": "Hak Khaal",
+        "PlaceName_en": "Hak Khaal",
+        "PlaceName_fr": "Hak Khaal",
+        "PlaceName_ja": "ハク・カール",
+        "PlaceName_ko": "하크 칼",
+        "TerritoryType": "e3f3"
+    },
+    "177": {
+        "0xID": "B1",
+        "PlaceName_cn": "亚特卡勒河上游",
+        "PlaceName_de": "Oberer Yat Khaal",
+        "PlaceName_en": "Upper Yat Khaal",
+        "PlaceName_fr": "Yat Khaal (amont)",
+        "PlaceName_ja": "ヤト・カール上流",
+        "PlaceName_ko": "야트 칼 상류",
+        "TerritoryType": "e3f3"
+    },
+    "178": {
+        "0xID": "B2",
+        "PlaceName_cn": "太阳湖",
+        "PlaceName_de": "Azim Khaat",
+        "PlaceName_en": "Azim Khaat",
+        "PlaceName_fr": "Azim Khaat",
+        "PlaceName_ja": "アジム・カート",
+        "PlaceName_ko": "아짐 카트",
+        "TerritoryType": "e3f3"
+    },
+    "179": {
+        "0xID": "B3",
+        "PlaceName_cn": "塔奥卡勒河",
+        "PlaceName_de": "Tao Khaal",
+        "PlaceName_en": "Tao Khaal",
+        "PlaceName_fr": "Tao Khaal",
+        "PlaceName_ja": "タオ・カール",
+        "PlaceName_ko": "타오 칼",
+        "TerritoryType": "e3f3"
+    },
+    "18": {
+        "0xID": "12",
+        "PlaceName_cn": "嘈杂川",
+        "PlaceName_de": "Murmellauf",
+        "PlaceName_en": "Murmur Rills",
+        "PlaceName_fr": "Rivière des Murmures",
+        "PlaceName_ja": "さざめき川",
+        "PlaceName_ko": "술렁이는 강",
+        "TerritoryType": "f1f4"
+    },
+    "180": {
+        "0xID": "B4",
+        "PlaceName_cn": "亚特卡勒河下游",
+        "PlaceName_de": "Unterer Yat Khaal",
+        "PlaceName_en": "Lower Yat Khaal",
+        "PlaceName_fr": "Yat Khaal (aval)",
+        "PlaceName_ja": "ヤト・カール下流",
+        "PlaceName_ko": "야트 칼 하류",
+        "TerritoryType": "e3f3"
+    },
+    "181": {
+        "0xID": "B5",
+        "PlaceName_cn": "朵塔儿水洲",
+        "PlaceName_de": "Dotharl Khaa",
+        "PlaceName_en": "Dotharl Khaa",
+        "PlaceName_fr": "Dotharl Khaa",
+        "PlaceName_ja": "ドタール・カー",
+        "PlaceName_ko": "도탈 카",
+        "TerritoryType": "e3f3"
+    },
+    "182": {
+        "0xID": "B6",
+        "PlaceName_cn": "幻河上游",
+        "PlaceName_de": "Oberer Trugfluss",
+        "PlaceName_en": "Upper Mirage Creek",
+        "PlaceName_fr": "Ruisseau aux Mirages (aval)",
+        "PlaceName_ja": "ミラージュクリーク上流",
+        "PlaceName_ko": "신기루 개울 상류",
+        "TerritoryType": "g3t1"
+    },
+    "183": {
+        "0xID": "B7",
+        "PlaceName_cn": "神拳痕",
+        "PlaceName_de": "Rhalgrs Wacht",
+        "PlaceName_en": "Rhalgr's Reach",
+        "PlaceName_fr": "L'Étendue de Rhalgr",
+        "PlaceName_ja": "ラールガーズリーチ",
+        "PlaceName_ko": "랄거의 손길",
+        "TerritoryType": "g3t1"
+    },
+    "184": {
+        "0xID": "B8",
+        "PlaceName_cn": "星导寺入口",
+        "PlaceName_de": "Zugang zum Tempel der Faust",
+        "PlaceName_en": "The Outer Fist",
+        "PlaceName_fr": "Temple du Poing (entrée)",
+        "PlaceName_ja": "星導山寺院入口",
+        "PlaceName_ko": "성도산 사원 입구",
+        "TerritoryType": "g3t1"
+    },
+    "185": {
+        "0xID": "B9",
+        "PlaceName_cn": "提蒙河",
+        "PlaceName_de": "Timmonbach",
+        "PlaceName_en": "Timmon Beck",
+        "PlaceName_fr": "Ruisseau Timmon",
+        "PlaceName_ja": "ティモン川",
+        "PlaceName_ko": "티몬 강",
+        "TerritoryType": "g3f1"
+    },
+    "186": {
+        "0xID": "BA",
+        "PlaceName_cn": "昏暗林",
+        "PlaceName_de": "Dysterwaldt",
+        "PlaceName_en": "Dimwold",
+        "PlaceName_fr": "Ternebois",
+        "PlaceName_ja": "夜の森",
+        "PlaceName_ko": "밤의 숲",
+        "TerritoryType": "g3f1"
+    },
+    "187": {
+        "0xID": "BB",
+        "PlaceName_cn": "流星尾",
+        "PlaceName_de": "Schweif des Kometen",
+        "PlaceName_en": "The Comet's Tail",
+        "PlaceName_fr": "Queue de la Comète",
+        "PlaceName_ja": "流星の尾",
+        "PlaceName_ko": "별똥별 꼬리",
+        "TerritoryType": "g3f1"
+    },
+    "188": {
+        "0xID": "BC",
+        "PlaceName_cn": "威罗迪纳河",
+        "PlaceName_de": "Velodyna",
+        "PlaceName_en": "The Velodyna River",
+        "PlaceName_fr": "Velodyna",
+        "PlaceName_ja": "ベロジナ川",
+        "PlaceName_ko": "벨로디나 강",
+        "TerritoryType": "g3f1"
+    },
+    "189": {
+        "0xID": "BD",
+        "PlaceName_cn": "幻河",
+        "PlaceName_de": "Trugfluss",
+        "PlaceName_en": "Mirage Creek",
+        "PlaceName_fr": "Ruisseau aux Mirages",
+        "PlaceName_ja": "ミラージュクリーク",
+        "PlaceName_ko": "신기루 개울",
+        "TerritoryType": "g3f1"
+    },
+    "19": {
+        "0xID": "13",
+        "PlaceName_cn": "秋瓜湖畔",
+        "PlaceName_de": "Herbstkürbis-See",
+        "PlaceName_en": "Fallgourd Float",
+        "PlaceName_fr": "Lac de la Calebasse",
+        "PlaceName_ja": "フォールゴウド秋瓜湖畔",
+        "PlaceName_ko": "가을박 호수",
+        "TerritoryType": "f1f4"
+    },
+    "190": {
+        "0xID": "BE",
+        "PlaceName_cn": "夫妇池",
+        "PlaceName_de": "Grymm und Enid",
+        "PlaceName_en": "Grymm & Enid",
+        "PlaceName_fr": "Grymm et Enid",
+        "PlaceName_ja": "夫婦池",
+        "PlaceName_ko": "부부 연못",
+        "TerritoryType": "g3f2"
+    },
+    "191": {
+        "0xID": "BF",
+        "PlaceName_cn": "慢水涤",
+        "PlaceName_de": "Träge Traufe",
+        "PlaceName_en": "The Slow Wash",
+        "PlaceName_fr": "Doux lavement",
+        "PlaceName_ja": "スロウウォッシュ",
+        "PlaceName_ko": "느린너울 강",
+        "TerritoryType": "g3f2"
+    },
+    "192": {
+        "0xID": "C0",
+        "PlaceName_cn": "石楠瀑布",
+        "PlaceName_de": "Kerbelfall",
+        "PlaceName_en": "Heather Falls",
+        "PlaceName_fr": "Chutes de Bruyères",
+        "PlaceName_ja": "ヒース滝",
+        "PlaceName_ko": "히스 폭포",
+        "TerritoryType": "g3f2"
+    },
+    "193": {
+        "0xID": "C1",
+        "PlaceName_cn": "判官神像",
+        "PlaceName_de": "Der Ephor",
+        "PlaceName_en": "The Ephor",
+        "PlaceName_fr": "L'Éphore",
+        "PlaceName_ja": "裁定者の像",
+        "PlaceName_ko": "재판자의 상",
+        "TerritoryType": "g3f2"
+    },
+    "194": {
+        "0xID": "C2",
+        "PlaceName_cn": "猛牛浴池",
+        "PlaceName_de": "Bad des Bullen",
+        "PlaceName_en": "The Bull's Bath",
+        "PlaceName_fr": "Baignade du taureau",
+        "PlaceName_ja": "ブルズバス",
+        "PlaceName_ko": "황소탕",
+        "TerritoryType": "g3f2"
+    },
+    "195": {
+        "0xID": "C3",
+        "PlaceName_cn": "赎罪之腕",
+        "PlaceName_de": "Baum der Buße",
+        "PlaceName_en": "The Arms of Meed",
+        "PlaceName_fr": "Bras du rachat",
+        "PlaceName_ja": "アームズ・オブ・ミード",
+        "PlaceName_ko": "속죄의 가지",
+        "TerritoryType": "g3f2"
+    },
+    "196": {
+        "0xID": "C4",
+        "PlaceName_cn": "盐湖",
+        "PlaceName_de": "Seldsee",
+        "PlaceName_en": "Loch Seld",
+        "PlaceName_fr": "Lac Seld",
+        "PlaceName_ja": "ロッホ・セル湖",
+        "PlaceName_ko": "로흐 셀 호수",
+        "TerritoryType": "g3f3"
+    },
+    "197": {
+        "0xID": "C5",
+        "PlaceName_cn": "白银乡",
+        "PlaceName_de": "Shirogane",
+        "PlaceName_en": "Shirogane",
+        "PlaceName_fr": "Shirogane",
+        "PlaceName_ja": "シロガネ",
+        "PlaceName_ko": "시로가네",
+        "TerritoryType": "e1h1"
+    },
+    "198": {
+        "0xID": "C6",
+        "PlaceName_cn": "白银水路",
+        "PlaceName_de": "Silberkanal",
+        "PlaceName_en": "The Silver Canal",
+        "PlaceName_fr": "Canaux de Shirogane",
+        "PlaceName_ja": "シロガネ水路",
+        "PlaceName_ko": "시로가네 수로",
+        "TerritoryType": "e1h1"
+    },
+    "199": {
+        "0xID": "C7",
+        "PlaceName_cn": "三艺区",
+        "PlaceName_de": "Trivium",
+        "PlaceName_en": "The Trivium",
+        "PlaceName_fr": "Le Trivium",
+        "PlaceName_ja": "三学科の座",
+        "PlaceName_ko": "삼학좌",
+        "TerritoryType": "n4t1"
+    },
+    "2": {
+        "0xID": "2",
+        "PlaceName_cn": "叶脉水系",
+        "PlaceName_de": "Blattader",
+        "PlaceName_en": "The Vein",
+        "PlaceName_fr": "Veine",
+        "PlaceName_ja": "葉脈水系",
+        "PlaceName_ko": "잎맥 물줄기",
+        "TerritoryType": "f1f1"
+    },
+    "20": {
+        "0xID": "14",
+        "PlaceName_cn": "荣耀溪",
+        "PlaceName_de": "Stolzbach",
+        "PlaceName_en": "Proud Creek",
+        "PlaceName_fr": "La Fierté",
+        "PlaceName_ja": "プラウドクリーク",
+        "PlaceName_ko": "영광의 개울",
+        "TerritoryType": "f1f4"
+    },
+    "200": {
+        "0xID": "C8",
+        "PlaceName_cn": "四艺区",
+        "PlaceName_de": "Quadrivium",
+        "PlaceName_en": "The Quadrivium",
+        "PlaceName_fr": "Le Quadrivium",
+        "PlaceName_ja": "四学科の座",
+        "PlaceName_ko": "사학좌",
+        "TerritoryType": "n4t1"
+    },
+    "201": {
+        "0xID": "C9",
+        "PlaceName_cn": "水晶都起居室",
+        "PlaceName_de": "Quartier",
+        "PlaceName_en": "Crystarium Personal Suites",
+        "PlaceName_fr": "Les Pendants",
+        "PlaceName_ja": "クリスタリウム居室",
+        "PlaceName_ko": "크리스타리움 거주실",
+        "TerritoryType": "n4t1"
+    },
+    "202": {
+        "0xID": "CA",
+        "PlaceName_cn": "风化裂痕",
+        "PlaceName_de": "Die Verwitterten Lande",
+        "PlaceName_en": "The Rift of Sighs",
+        "PlaceName_fr": "La Gerçure",
+        "PlaceName_ja": "風化した裂け目",
+        "PlaceName_ko": "풍화한 균열",
+        "TerritoryType": "n4f1"
+    },
+    "203": {
+        "0xID": "CB",
+        "PlaceName_cn": "锈迹贮水池",
+        "PlaceName_de": "Rostlache",
+        "PlaceName_en": "The Rusted Reservoir",
+        "PlaceName_fr": "Étang de Rouille",
+        "PlaceName_ja": "錆ついた貯水池",
+        "PlaceName_ko": "녹슨 저수지",
+        "TerritoryType": "n4f1"
+    },
+    "204": {
+        "0xID": "CC",
+        "PlaceName_cn": "始源湖",
+        "PlaceName_de": "Quellsee",
+        "PlaceName_en": "The Source",
+        "PlaceName_fr": "L'Origine",
+        "PlaceName_ja": "始まりの湖",
+        "PlaceName_ko": "태초의 호수",
+        "TerritoryType": "n4f1"
+    },
+    "205": {
+        "0xID": "CD",
+        "PlaceName_cn": "阴沉乡",
+        "PlaceName_de": "Grantel",
+        "PlaceName_en": "Sullen",
+        "PlaceName_fr": "Maussade",
+        "PlaceName_ja": "サレン郷",
+        "PlaceName_ko": "찌푸린 마을",
+        "TerritoryType": "n4f1"
+    },
+    "206": {
+        "0xID": "CE",
+        "PlaceName_cn": "贤岛",
+        "PlaceName_de": "Insel der Erkenntnis",
+        "PlaceName_en": "The Isle of Ken",
+        "PlaceName_fr": "Île de Ken",
+        "PlaceName_ja": "ケンの島",
+        "PlaceName_ko": "켄의 섬",
+        "TerritoryType": "n4f1"
+    },
+    "207": {
+        "0xID": "CF",
+        "PlaceName_cn": "沃茨河上游",
+        "PlaceName_de": "Watts (Oberlauf)",
+        "PlaceName_en": "Upper Watts River",
+        "PlaceName_fr": "Amont de la Watts",
+        "PlaceName_ja": "ワッツリバー上流",
+        "PlaceName_ko": "와츠 강 상류",
+        "TerritoryType": "n4f2"
+    },
+    "208": {
+        "0xID": "D0",
+        "PlaceName_cn": "白油瀑布",
+        "PlaceName_de": "Weißölfälle",
+        "PlaceName_en": "White Oil Falls",
+        "PlaceName_fr": "Chute de l'Huile blanche",
+        "PlaceName_ja": "ホワイトオイルフォールズ",
+        "PlaceName_ko": "백유폭포",
+        "TerritoryType": "n4f2"
+    },
+    "209": {
+        "0xID": "D1",
+        "PlaceName_cn": "沃茨河下游",
+        "PlaceName_de": "Watts (Unterlauf)",
+        "PlaceName_en": "Lower Watts River",
+        "PlaceName_fr": "Aval de la Watts",
+        "PlaceName_ja": "ワッツリバー下流",
+        "PlaceName_ko": "와츠 강 하류",
+        "TerritoryType": "n4f2"
+    },
+    "21": {
+        "0xID": "15",
+        "PlaceName_cn": "塔赫托特尔湖",
+        "PlaceName_de": "Tahtotl-See",
+        "PlaceName_en": "Lake Tahtotl",
+        "PlaceName_fr": "Lac Tahtotl",
+        "PlaceName_ja": "タホトトル湖畔",
+        "PlaceName_ko": "타호토틀 호수",
+        "TerritoryType": "f1f4"
+    },
+    "210": {
+        "0xID": "D2",
+        "PlaceName_cn": "刺舌滴",
+        "PlaceName_de": "Zungenbrennerteich",
+        "PlaceName_en": "Sharptongue Drip",
+        "PlaceName_fr": "L'Aigrette",
+        "PlaceName_ja": "シャープタンの泉",
+        "PlaceName_ko": "아린맛 샘",
+        "TerritoryType": "n4f2"
+    },
+    "211": {
+        "0xID": "D3",
+        "PlaceName_cn": "珂露西亚岛西海岸",
+        "PlaceName_de": "Kholusia (Westküste)",
+        "PlaceName_en": "The Western Kholusian Coast",
+        "PlaceName_fr": "Rives ouest de Kholusia",
+        "PlaceName_ja": "コルシア島沿岸西",
+        "PlaceName_ko": "콜루시아 섬 서쪽 연안",
+        "TerritoryType": "n4f2"
+    },
+    "212": {
+        "0xID": "D4",
+        "PlaceName_cn": "观海湾",
+        "PlaceName_de": "Bucht von Meerblick",
+        "PlaceName_en": "Seagazer Shoals",
+        "PlaceName_fr": "Calanque de Mervoir",
+        "PlaceName_ja": "シーゲイザーの入江",
+        "PlaceName_ko": "바다 감시탑 해구",
+        "TerritoryType": "n4f2"
+    },
+    "213": {
+        "0xID": "D5",
+        "PlaceName_cn": "珂露西亚岛东海岸",
+        "PlaceName_de": "Kholusia (Ostküste)",
+        "PlaceName_en": "The Eastern Kholusian Coast",
+        "PlaceName_fr": "Rives est de Kholusia",
+        "PlaceName_ja": "コルシア島沿岸東",
+        "PlaceName_ko": "콜루시아 섬 동쪽 연안",
+        "TerritoryType": "n4f2"
+    },
+    "214": {
+        "0xID": "D6",
+        "PlaceName_cn": "废船街",
+        "PlaceName_de": "Wrackstadt",
+        "PlaceName_en": "The Derelicts",
+        "PlaceName_fr": "La Fange",
+        "PlaceName_ja": "廃船街",
+        "PlaceName_ko": "폐선 거리",
+        "TerritoryType": "n4t2"
+    },
+    "215": {
+        "0xID": "D7",
+        "PlaceName_cn": "沙河",
+        "PlaceName_de": "Fluss aus Sand",
+        "PlaceName_en": "The River of Sand",
+        "PlaceName_fr": "Fleuve de Sable",
+        "PlaceName_ja": "砂の川",
+        "PlaceName_ko": "모래강",
+        "TerritoryType": "n4f3"
+    },
+    "216": {
+        "0xID": "D8",
+        "PlaceName_cn": "琥珀丘",
+        "PlaceName_de": "Bernsteinhügel",
+        "PlaceName_en": "The Hills of Amber",
+        "PlaceName_fr": "Collines d'Ambre",
+        "PlaceName_ja": "アンバーヒル",
+        "PlaceName_ko": "호박석 산맥",
+        "TerritoryType": "n4f3"
+    },
+    "217": {
+        "0xID": "D9",
+        "PlaceName_cn": "拿巴示断绝",
+        "PlaceName_de": "Kluft von Nabaath",
+        "PlaceName_en": "The Nabaath Severance",
+        "PlaceName_fr": "Abîme des Nabaath",
+        "PlaceName_ja": "ナバースの断絶",
+        "PlaceName_ko": "나바스의 단절",
+        "TerritoryType": "n4f3"
+    },
+    "218": {
+        "0xID": "DA",
+        "PlaceName_cn": "手镜湖",
+        "PlaceName_de": "Spiegelchen",
+        "PlaceName_en": "Handmirror Lake",
+        "PlaceName_fr": "Lac Beaumiroir",
+        "PlaceName_ja": "手鏡の湖",
+        "PlaceName_ko": "손거울 호수",
+        "TerritoryType": "n4f4"
+    },
+    "219": {
+        "0xID": "DB",
+        "PlaceName_cn": "身镜湖",
+        "PlaceName_de": "Großes Spiegelchen",
+        "PlaceName_en": "Longmirror Lake",
+        "PlaceName_fr": "Lac Psyché",
+        "PlaceName_ja": "姿見の湖",
+        "PlaceName_ko": "거울 호수",
+        "TerritoryType": "n4f4"
+    },
+    "22": {
+        "0xID": "16",
+        "PlaceName_cn": "银泪湖北岸",
+        "PlaceName_de": "Silbertränen-Nordufer",
+        "PlaceName_en": "North Silvertear",
+        "PlaceName_fr": "Rive nord de Pleurargent",
+        "PlaceName_ja": "銀泪湖北岸",
+        "PlaceName_ko": "은빛눈물 호수 북부",
+        "TerritoryType": "l1f1"
+    },
+    "220": {
+        "0xID": "DC",
+        "PlaceName_cn": "傲慢的年长溪流",
+        "PlaceName_de": "Hochmütiges Kind",
+        "PlaceName_en": "The Haughty One",
+        "PlaceName_fr": "Ruisseau de l'Arrogant",
+        "PlaceName_ja": "上の子らの流れ",
+        "PlaceName_ko": "맏이들의 물줄기",
+        "TerritoryType": "n4f4"
+    },
+    "221": {
+        "0xID": "DD",
+        "PlaceName_cn": "嫉妒的年少溪流",
+        "PlaceName_de": "Neidisches Kind",
+        "PlaceName_en": "The Jealous One",
+        "PlaceName_fr": "Ruisseau du Jaloux",
+        "PlaceName_ja": "中の子らの流れ",
+        "PlaceName_ko": "둘째들의 물줄기",
+        "TerritoryType": "n4f4"
+    },
+    "222": {
+        "0xID": "DE",
+        "PlaceName_cn": "科拉德排水沟",
+        "PlaceName_de": "Collards Schwäche",
+        "PlaceName_en": "Father Collard's Failings",
+        "PlaceName_fr": "Eaux grises de la champignonnière",
+        "PlaceName_ja": "コラードの排水溝",
+        "PlaceName_ko": "콜라드의 배수구",
+        "TerritoryType": "n4f4"
+    },
+    "223": {
+        "0xID": "DF",
+        "PlaceName_cn": "宠坏的年幼溪流",
+        "PlaceName_de": "Verwöhntes Kind",
+        "PlaceName_en": "The Spoiled One",
+        "PlaceName_fr": "Ruisseau du Gâté",
+        "PlaceName_ja": "末の子らの流れ",
+        "PlaceName_ko": "막내들의 물줄기",
+        "TerritoryType": "n4f4"
+    },
+    "224": {
+        "0xID": "E0",
+        "PlaceName_cn": "圣法斯里克天庭",
+        "PlaceName_de": "Tempel des Heiligen Fathric",
+        "PlaceName_en": "Saint Fathric's Temple",
+        "PlaceName_fr": "Temple de Saint-Fathric",
+        "PlaceName_ja": "聖ファスリクの額",
+        "PlaceName_ko": "성 파스릭의 이마",
+        "TerritoryType": "n4f4"
+    },
+    "225": {
+        "0xID": "E1",
+        "PlaceName_cn": "蛇水湖",
+        "PlaceName_de": "Schlangensee Tusi Mek'ta",
+        "PlaceName_en": "Lake Tusi Mek'ta",
+        "PlaceName_fr": "Lac Tusi Mek'ta",
+        "PlaceName_ja": "トゥシ・メキタ湖",
+        "PlaceName_ko": "투시 메키타 호수",
+        "TerritoryType": "n4f5"
+    },
+    "226": {
+        "0xID": "E2",
+        "PlaceName_cn": "血盅",
+        "PlaceName_de": "Blutkelch",
+        "PlaceName_en": "The Red Chalice",
+        "PlaceName_fr": "Calice rouge",
+        "PlaceName_ja": "血の酒坏",
+        "PlaceName_ko": "피의 술잔",
+        "TerritoryType": "n4f5"
+    },
+    "227": {
+        "0xID": "E3",
+        "PlaceName_cn": "洛查特尔河",
+        "PlaceName_de": "Lozatl",
+        "PlaceName_en": "The Lozatl",
+        "PlaceName_fr": "Lozatl",
+        "PlaceName_ja": "ロツァトル川",
+        "PlaceName_ko": "로차틀 강",
+        "TerritoryType": "n4f5"
+    },
+    "228": {
+        "0xID": "E4",
+        "PlaceName_cn": "缪栎的乡愁南部",
+        "PlaceName_de": "Mjrls Sehnsucht (Süden)",
+        "PlaceName_en": "South Mjrl's Regret",
+        "PlaceName_fr": "Aval de la Nostalgie de Mjrl",
+        "PlaceName_ja": "ミュリルの郷愁南",
+        "PlaceName_ko": "뮤릴의 향수 남쪽",
+        "TerritoryType": "n4f5"
+    },
+    "229": {
+        "0xID": "E5",
+        "PlaceName_cn": "结誓洞窟",
+        "PlaceName_de": "Eidbund",
+        "PlaceName_en": "Woven Oath",
+        "PlaceName_fr": "Solide Serment",
+        "PlaceName_ja": "ウォーヴンオウス",
+        "PlaceName_ko": "맺어진 서약",
+        "TerritoryType": "n4f5"
+    },
+    "23": {
+        "0xID": "17",
+        "PlaceName_cn": "早霜顶",
+        "PlaceName_de": "Früher Frost",
+        "PlaceName_en": "Rathefrost",
+        "PlaceName_fr": "Hâtegel",
+        "PlaceName_ja": "早霜峠",
+        "PlaceName_ko": "이른서리 고개",
+        "TerritoryType": "l1f1"
+    },
+    "230": {
+        "0xID": "E6",
+        "PlaceName_cn": "鳎沙地窖",
+        "PlaceName_de": "Flundergrotte",
+        "PlaceName_en": "The Flounders' Floor",
+        "PlaceName_fr": "Cellier du Flet",
+        "PlaceName_ja": "フラウンダーの穴蔵",
+        "PlaceName_ko": "가자미굴",
+        "TerritoryType": "n4f6"
+    },
+    "231": {
+        "0xID": "E7",
+        "PlaceName_cn": "陆人墓标",
+        "PlaceName_de": "Seelenruh der Landler",
+        "PlaceName_en": "Where the Dry Return",
+        "PlaceName_fr": "Crypte du Sans-branchies",
+        "PlaceName_ja": "陸人の墓標",
+        "PlaceName_ko": "육지인의 묘비",
+        "TerritoryType": "n4f6"
+    },
+    "232": {
+        "0xID": "E8",
+        "PlaceName_cn": "卡利班深海峡西北",
+        "PlaceName_de": "Caliban-Furche (Norden)",
+        "PlaceName_en": "Northwest Caliban Gorge",
+        "PlaceName_fr": "Nord-ouest des gorges de Caliban",
+        "PlaceName_ja": "キャリバン海底谷北西",
+        "PlaceName_ko": "캘리반 해저곡 북서부",
+        "TerritoryType": "n4f6"
+    },
+    "233": {
+        "0xID": "E9",
+        "PlaceName_cn": "卡利班古巢西",
+        "PlaceName_de": "Calibans Nistplatz (Westen)",
+        "PlaceName_en": "West Caliban Gap",
+        "PlaceName_fr": "Ouest de la caverne de Caliban",
+        "PlaceName_ja": "キャリバンの古巣穴西",
+        "PlaceName_ko": "캘리반의 옛집 서쪽",
+        "TerritoryType": "n4f6"
+    },
+    "234": {
+        "0xID": "EA",
+        "PlaceName_cn": "卡利班古巢东",
+        "PlaceName_de": "Calibans Nistplatz (Osten)",
+        "PlaceName_en": "East Caliban Gap",
+        "PlaceName_fr": "Est de la caverne de Caliban",
+        "PlaceName_ja": "キャリバンの古巣穴東",
+        "PlaceName_ko": "캘리반의 옛집 동쪽",
+        "TerritoryType": "n4f6"
+    },
+    "235": {
+        "0xID": "EB",
+        "PlaceName_cn": "尊紫洞",
+        "PlaceName_de": "Purpurhöhle",
+        "PlaceName_en": "Purpure",
+        "PlaceName_fr": "Grotte purpurine",
+        "PlaceName_ja": "プルプラ洞",
+        "PlaceName_ko": "자색 동굴",
+        "TerritoryType": "n4f6"
+    },
+    "236": {
+        "0xID": "EC",
+        "PlaceName_cn": "诺弗兰特大陆坡",
+        "PlaceName_de": "Norvrandt-Hang",
+        "PlaceName_en": "The Norvrandt Slope",
+        "PlaceName_fr": "Marge continentale de Norvrandt",
+        "PlaceName_ja": "ノルヴラント大陸斜面",
+        "PlaceName_ko": "노르브란트 대륙 사면",
+        "TerritoryType": "n4f6"
+    },
+    "237": {
+        "0xID": "ED",
+        "PlaceName_cn": "加拉迪翁湾外海",
+        "PlaceName_de": "Galadion-Bucht - Hochsee",
+        "PlaceName_en": "Outer Galadion Bay",
+        "PlaceName_fr": "Large de la baie de Galadion",
+        "PlaceName_ja": "ガラディオン湾沖合",
+        "PlaceName_ko": "갈라디온 만 먼바다",
+        "TerritoryType": "o1a1"
+    },
+    "238": {
+        "0xID": "EE",
+        "PlaceName_cn": "加拉迪翁湾外海幻海流",
+        "PlaceName_de": "Galadion-Bucht - Phantomströmung",
+        "PlaceName_en": "Galadion Spectral Current",
+        "PlaceName_fr": "Courant spectral (large de la baie de Galadion)",
+        "PlaceName_ja": "ガラディオン湾沖合：幻海流",
+        "PlaceName_ko": "갈라디온 만 먼바다: 환해류",
+        "TerritoryType": "o1a1"
+    },
+    "239": {
+        "0xID": "EF",
+        "PlaceName_cn": "梅尔托尔海峡南",
+        "PlaceName_de": "Südliche Straße von Merlthor",
+        "PlaceName_en": "The Southern Strait of Merlthor",
+        "PlaceName_fr": "Détroit sud de Merlthor",
+        "PlaceName_ja": "メルトール海峡南",
+        "PlaceName_ko": "멜토르 해협 남쪽",
+        "TerritoryType": "o1a1"
+    },
+    "24": {
+        "0xID": "18",
+        "PlaceName_cn": "纠缠沼泽林",
+        "PlaceName_de": "Der Schlingwald",
+        "PlaceName_en": "The Tangle",
+        "PlaceName_fr": "L'Enchevêtrement",
+        "PlaceName_ja": "タングル湿林",
+        "PlaceName_ko": "엉킨덩굴 습지대",
+        "TerritoryType": "l1f1"
+    },
+    "240": {
+        "0xID": "F0",
+        "PlaceName_cn": "梅尔托尔海峡南幻海流",
+        "PlaceName_de": "Merlthorstraße (Süd) - Phantomströmung",
+        "PlaceName_en": "Southern Merlthor Spectral Current",
+        "PlaceName_fr": "Courant spectral (détroit sud de Merlthor)",
+        "PlaceName_ja": "メルトール海峡南：幻海流",
+        "PlaceName_ko": "멜토르 해협 남쪽: 환해류",
+        "TerritoryType": "o1a1"
+    },
+    "241": {
+        "0xID": "F1",
+        "PlaceName_cn": "罗塔诺海海面",
+        "PlaceName_de": "Rhotano-See - Hochsee",
+        "PlaceName_en": "Open Rhotano Sea",
+        "PlaceName_fr": "Large de la mer de Rhotano",
+        "PlaceName_ja": "ロータノ海沖合",
+        "PlaceName_ko": "로타노 해 먼바다",
+        "TerritoryType": "o1a1"
+    },
+    "242": {
+        "0xID": "F2",
+        "PlaceName_cn": "罗塔诺海海面幻海流",
+        "PlaceName_de": "Rhotano-See - Phantomströmung",
+        "PlaceName_en": "Rhotano Spectral Current",
+        "PlaceName_fr": "Courant spectral (large de la mer de Rhotano)",
+        "PlaceName_ja": "ロータノ海沖合：幻海流",
+        "PlaceName_ko": "로타노 해 먼바다: 환해류",
+        "TerritoryType": "o1a1"
+    },
+    "243": {
+        "0xID": "F3",
+        "PlaceName_cn": "梅尔托尔海峡北",
+        "PlaceName_de": "Nördliche Straße von Merlthor",
+        "PlaceName_en": "The Northern Strait of Merlthor",
+        "PlaceName_fr": "Détroit nord de Merlthor",
+        "PlaceName_ja": "メルトール海峡北",
+        "PlaceName_ko": "멜토르 해협 북쪽",
+        "TerritoryType": "o1a1"
+    },
+    "244": {
+        "0xID": "F4",
+        "PlaceName_cn": "梅尔托尔海峡北幻海流",
+        "PlaceName_de": "Merlthorstraße (Nord) - Phantomströmung",
+        "PlaceName_en": "Northern Merlthor Spectral Current",
+        "PlaceName_fr": "Courant spectral (détroit nord de Merlthor)",
+        "PlaceName_ja": "メルトール海峡北：幻海流",
+        "PlaceName_ko": "멜토르 해협 북쪽: 환해류",
+        "TerritoryType": "o1a1"
+    },
+    "245": {
+        "0xID": "F5",
+        "PlaceName_cn": "缪栎之泪",
+        "PlaceName_de": "Mjrls Tränen",
+        "PlaceName_en": "Mjrl's Tears",
+        "PlaceName_fr": "Les Larmes de Mjrl",
+        "PlaceName_ja": "ミュリルの落涙",
+        "PlaceName_ko": "뮤릴의 눈물",
+        "TerritoryType": "n4f5"
+    },
+    "246": {
+        "0xID": "F6",
+        "PlaceName_cn": "谢尔达莱群岛近海",
+        "PlaceName_de": "Cieldaläen - Hochsee",
+        "PlaceName_en": "Cieldalaes Margin",
+        "PlaceName_fr": "Large des îles de Cieldalaes",
+        "PlaceName_ja": "シェルダレー諸島沖合",
+        "PlaceName_ko": "시엘달레 제도 먼바다",
+        "TerritoryType": "o1a1"
+    },
+    "247": {
+        "0xID": "F7",
+        "PlaceName_cn": "谢尔达莱群岛近海幻海流",
+        "PlaceName_de": "Cieldaläen - Phantomströmung",
+        "PlaceName_en": "Cieldalaes Spectral Current",
+        "PlaceName_fr": "Courant spectral (large des îles de Cieldalaes)",
+        "PlaceName_ja": "シェルダレー諸島沖合：幻海流",
+        "PlaceName_ko": "시엘달레 제도 먼바다: 환해류",
+        "TerritoryType": "o1a1"
+    },
+    "248": {
+        "0xID": "F8",
+        "PlaceName_cn": "绯汐海近海",
+        "PlaceName_de": "Schwerblütiges Meer - Hochsee",
+        "PlaceName_en": "Open Bloodbrine Sea",
+        "PlaceName_fr": "Large de la mer Pourpre",
+        "PlaceName_ja": "緋汐海沖合",
+        "PlaceName_ko": "붉은물결 바다 먼바다",
+        "TerritoryType": "o1a1"
+    },
+    "249": {
+        "0xID": "F9",
+        "PlaceName_cn": "绯汐海近海幻海流",
+        "PlaceName_de": "Schwerblütiges Meer - Phantomströmung",
+        "PlaceName_en": "Bloodbrine Spectral Current",
+        "PlaceName_fr": "Courant spectral (large de la mer Pourpre)",
+        "PlaceName_ja": "緋汐海沖合：幻海流",
+        "PlaceName_ko": "붉은물결 바다 먼바다: 환해류",
+        "TerritoryType": "o1a1"
+    },
+    "25": {
+        "0xID": "19",
+        "PlaceName_cn": "纠缠沼泽林源流",
+        "PlaceName_de": "Tiefer Schlingwald",
+        "PlaceName_en": "The Deep Tangle",
+        "PlaceName_fr": "Cascades de L'Enchevêtrement",
+        "PlaceName_ja": "タングル湿林源流",
+        "PlaceName_ko": "엉킨덩굴 습지대 원류",
+        "TerritoryType": "l1f1"
+    },
+    "250": {
+        "0xID": "FA",
+        "PlaceName_cn": "罗斯利特湾近海",
+        "PlaceName_de": "Rothlyt-Meerbusen - Hochsee",
+        "PlaceName_en": "Outer Rothlyt Sound",
+        "PlaceName_fr": "Large du golfe de Rothlyt",
+        "PlaceName_ja": "ロズリト湾沖合",
+        "PlaceName_ko": "로들리트 만 먼바다",
+        "TerritoryType": "o1a1"
+    },
+    "251": {
+        "0xID": "FB",
+        "PlaceName_cn": "罗斯利特湾近海幻海流",
+        "PlaceName_de": "Rothlyt-Meerbusen - Phantomströmung",
+        "PlaceName_en": "Rothlyt Spectral Current",
+        "PlaceName_fr": "Courant spectral (large du golfe de Rothlyt)",
+        "PlaceName_ja": "ロズリト湾沖合：幻海流",
+        "PlaceName_ko": "로들리트 만 먼바다: 환해류",
+        "TerritoryType": "o1a1"
+    },
+    "252": {
+        "0xID": "FC",
+        "PlaceName_cn": "知识神海港",
+        "PlaceName_de": "Thaliaks Pforte",
+        "PlaceName_en": "Scholar's Harbor",
+        "PlaceName_fr": "Port de l'Érudit",
+        "PlaceName_ja": "知神の港",
+        "PlaceName_ko": "지식신의 항구",
+        "TerritoryType": "k5t1"
+    },
+    "253": {
+        "0xID": "FD",
+        "PlaceName_cn": "碧谷",
+        "PlaceName_de": "Azurtal",
+        "PlaceName_en": "Oinops",
+        "PlaceName_fr": "Vallée cristalline",
+        "PlaceName_ja": "碧き谷",
+        "PlaceName_ko": "푸른 계곡",
+        "TerritoryType": "k5t1"
+    },
+    "254": {
+        "0xID": "FE",
+        "PlaceName_cn": "沉思泉",
+        "PlaceName_de": "Tümpel des Tiefsinns",
+        "PlaceName_en": "Reflecting Pool",
+        "PlaceName_fr": "Étang des Réflexions",
+        "PlaceName_ja": "沈思の泉",
+        "PlaceName_ko": "사색의 샘",
+        "TerritoryType": "k5t1"
+    },
+    "255": {
+        "0xID": "FF",
+        "PlaceName_cn": "一号天球口",
+        "PlaceName_de": "Sammelbecken Nr. 1",
+        "PlaceName_en": "Unmoved Source Alpha",
+        "PlaceName_fr": "Pertuis aérien n°1",
+        "PlaceName_ja": "一号天球口",
+        "PlaceName_ko": "1호 천구구",
+        "TerritoryType": "k5f1"
+    },
+    "256": {
+        "0xID": "100",
+        "PlaceName_cn": "一号沟渠",
+        "PlaceName_de": "Abflusskanal Nr. 1",
+        "PlaceName_en": "The Mover Alpha",
+        "PlaceName_fr": "Canal d'écoulement n°1",
+        "PlaceName_ja": "一号排出路",
+        "PlaceName_ko": "1호 배출로",
+        "TerritoryType": "k5f1"
+    },
+    "257": {
+        "0xID": "101",
+        "PlaceName_cn": "二号天球口",
+        "PlaceName_de": "Sammelbecken Nr. 2",
+        "PlaceName_en": "Unmoved Source Beta",
+        "PlaceName_fr": "Pertuis aérien n°2",
+        "PlaceName_ja": "二号天球口",
+        "PlaceName_ko": "2호 천구구",
+        "TerritoryType": "k5f1"
+    },
+    "258": {
+        "0xID": "102",
+        "PlaceName_cn": "二号沟渠",
+        "PlaceName_de": "Abflusskanal Nr. 2",
+        "PlaceName_en": "The Mover Beta",
+        "PlaceName_fr": "Canal d'écoulement n°2",
+        "PlaceName_ja": "二号排出路",
+        "PlaceName_ko": "2호 배출로",
+        "TerritoryType": "k5f1"
+    },
+    "259": {
+        "0xID": "103",
+        "PlaceName_cn": "深壕",
+        "PlaceName_de": "Tiefer Graben",
+        "PlaceName_en": "Deepmoat",
+        "PlaceName_fr": "Douve du Circuit central",
+        "PlaceName_ja": "ディープモート",
+        "PlaceName_ko": "깊은 해자",
+        "TerritoryType": "k5f1"
+    },
+    "26": {
+        "0xID": "1A",
+        "PlaceName_cn": "库尔札斯河",
+        "PlaceName_de": "Der Coerthas",
+        "PlaceName_en": "Coerthas River",
+        "PlaceName_fr": "Rivière Coerthas",
+        "PlaceName_ja": "クルザス川",
+        "PlaceName_ko": "커르다스 강",
+        "TerritoryType": "r1f1"
+    },
+    "260": {
+        "0xID": "104",
+        "PlaceName_cn": "云使飞沫",
+        "PlaceName_de": "Kaskaden des Meghaduta",
+        "PlaceName_en": "Meghaduta",
+        "PlaceName_fr": "Cascatelle du Meghaduta",
+        "PlaceName_ja": "メーガドゥータの飛沫",
+        "PlaceName_ko": "메가두타의 비말",
+        "TerritoryType": "m5t1"
+    },
+    "261": {
+        "0xID": "105",
+        "PlaceName_cn": "新港沿岸",
+        "PlaceName_de": "Yedlihmad",
+        "PlaceName_en": "Yedlihmad",
+        "PlaceName_fr": "Port de Yedlihmad",
+        "PlaceName_ja": "イェドリマン沿岸",
+        "PlaceName_ko": "예드리만 연안",
+        "TerritoryType": "m5f1"
+    },
+    "262": {
+        "0xID": "106",
+        "PlaceName_cn": "萨维奈岛近海",
+        "PlaceName_de": "Thavnair-Küste",
+        "PlaceName_en": "The Thavnairian Coast",
+        "PlaceName_fr": "Côtes de Thavnair",
+        "PlaceName_ja": "サベネア島近海",
+        "PlaceName_ko": "사베네어 섬 근해",
+        "TerritoryType": "m5f1"
+    },
+    "263": {
+        "0xID": "107",
+        "PlaceName_cn": "代米尔遗烈乡沿岸",
+        "PlaceName_de": "Daemirs Bucht",
+        "PlaceName_en": "The Great Runoff",
+        "PlaceName_fr": "Pontons du Grand Œuvre",
+        "PlaceName_ja": "デミールの遺烈郷沿岸",
+        "PlaceName_ko": "데미르의 유열향 연안",
+        "TerritoryType": "m5f1"
+    },
+    "264": {
+        "0xID": "108",
+        "PlaceName_cn": "巨胆石采掘场",
+        "PlaceName_de": "Gallenerz-Feld",
+        "PlaceName_en": "Giantsgall Grounds",
+        "PlaceName_fr": "Mines de fiel-de-géant",
+        "PlaceName_ja": "ギガントガル採石場",
+        "PlaceName_ko": "거인석 채석장",
+        "TerritoryType": "m5f1"
+    },
+    "265": {
+        "0xID": "109",
+        "PlaceName_cn": "塔门",
+        "PlaceName_de": "Wächter-Torana",
+        "PlaceName_en": "The Wakeful Torana",
+        "PlaceName_fr": "Torana veilleur",
+        "PlaceName_ja": "トラーナ関門",
+        "PlaceName_ko": "토라나 관문",
+        "TerritoryType": "m5f1"
+    },
+    "266": {
+        "0xID": "10A",
+        "PlaceName_cn": "乳河",
+        "PlaceName_de": "Ksiroda",
+        "PlaceName_en": "Ksiroda",
+        "PlaceName_fr": "La Ksiroda",
+        "PlaceName_ja": "クシールローダ川",
+        "PlaceName_ko": "크시로다 강",
+        "TerritoryType": "m5f1"
+    },
+    "267": {
+        "0xID": "10B",
+        "PlaceName_cn": "帕瓦纳的悔悟",
+        "PlaceName_de": "Pavanas Reue",
+        "PlaceName_en": "Pavana's Remorse",
+        "PlaceName_fr": "Résipiscence de Pavana",
+        "PlaceName_ja": "パワナの悔悟",
+        "PlaceName_ko": "파바나의 뉘우침",
+        "TerritoryType": "m5f1"
+    },
+    "268": {
+        "0xID": "10C",
+        "PlaceName_cn": "摩耶幻泉",
+        "PlaceName_de": "Mayaquell",
+        "PlaceName_en": "The Font of Maya",
+        "PlaceName_fr": "Source de la Maya",
+        "PlaceName_ja": "マーヤーの幻泉",
+        "PlaceName_ko": "마야의 환상샘",
+        "TerritoryType": "m5f1"
+    },
+    "269": {
+        "0xID": "10D",
+        "PlaceName_cn": "熏香海岸",
+        "PlaceName_de": "Duftende Wogen",
+        "PlaceName_en": "The Perfumed Tides",
+        "PlaceName_fr": "Pied des Coteaux fragrants",
+        "PlaceName_ja": "薫香の浜",
+        "PlaceName_ko": "훈향 해변",
+        "TerritoryType": "m5f1"
+    },
+    "27": {
+        "0xID": "1B",
+        "PlaceName_cn": "落魔崖",
+        "PlaceName_de": "Hexenschlund",
+        "PlaceName_en": "Witchdrop",
+        "PlaceName_fr": "Gouffre des hérétiques",
+        "PlaceName_ja": "ウィッチドロップ",
+        "PlaceName_ko": "마녀의 비탈",
+        "TerritoryType": "r1f1"
+    },
+    "270": {
+        "0xID": "10E",
+        "PlaceName_cn": "艾布拉纳不冻池",
+        "PlaceName_de": "Eblana-Schmelze",
+        "PlaceName_en": "The Eblan Thaw",
+        "PlaceName_fr": "Étang hardi d'Éblana",
+        "PlaceName_ja": "エブラーナ不凍池",
+        "PlaceName_ko": "에블라나 연못",
+        "TerritoryType": "m5f2"
+    },
+    "271": {
+        "0xID": "10F",
+        "PlaceName_cn": "洁白环濠",
+        "PlaceName_de": "Geläuterter Lauf",
+        "PlaceName_en": "The Stainless Course",
+        "PlaceName_fr": "Canal immaculé",
+        "PlaceName_ja": "潔白の環濠",
+        "PlaceName_ko": "결백한 못도랑",
+        "TerritoryType": "m5f2"
+    },
+    "272": {
+        "0xID": "110",
+        "PlaceName_cn": "最伟大的森林",
+        "PlaceName_de": "Der schönste Wald",
+        "PlaceName_en": "Greatest Endsvale",
+        "PlaceName_fr": "La Garenne sempervirente",
+        "PlaceName_ja": "グレーテスト・エンズヴィル",
+        "PlaceName_ko": "최고의 숲",
+        "TerritoryType": "u5f1"
+    },
+    "273": {
+        "0xID": "111",
+        "PlaceName_cn": "荧光池",
+        "PlaceName_de": "Chlorophos-Weiher",
+        "PlaceName_en": "The Chlorophospond",
+        "PlaceName_fr": "Mare aux chlorophoi",
+        "PlaceName_ja": "クロロフォス・ポンド",
+        "PlaceName_ko": "야광버섯 웅덩이",
+        "TerritoryType": "u5f1"
+    },
+    "274": {
+        "0xID": "112",
+        "PlaceName_cn": "冻土裂痕",
+        "PlaceName_de": "Frostkluft",
+        "PlaceName_en": "The Frozen Fissure",
+        "PlaceName_fr": "Crevasses du pergélisol",
+        "PlaceName_ja": "氷土の亀裂",
+        "PlaceName_ko": "빙토의 균열",
+        "TerritoryType": "u5f1"
+    },
+    "275": {
+        "0xID": "113",
+        "PlaceName_cn": "逍遥水径",
+        "PlaceName_de": "Des Wandlers Wogen",
+        "PlaceName_en": "Rumination's Ramble",
+        "PlaceName_fr": "Le Péripatéticien",
+        "PlaceName_ja": "逍遥水径",
+        "PlaceName_ko": "나들이 물길",
+        "TerritoryType": "n5f1"
+    },
+    "276": {
+        "0xID": "114",
+        "PlaceName_cn": "翠牙园下层",
+        "PlaceName_de": "Garten der tausend Klauen (untere Ebene)",
+        "PlaceName_en": "The Lower Hungering Gardens",
+        "PlaceName_fr": "Contrebas de la Plantation carnassière",
+        "PlaceName_ja": "牙の園下層",
+        "PlaceName_ko": "송곳니 정원 하층",
+        "TerritoryType": "n5f1"
+    },
+    "277": {
+        "0xID": "115",
+        "PlaceName_cn": "忘海",
+        "PlaceName_de": "Lethe",
+        "PlaceName_en": "Lethe",
+        "PlaceName_fr": "Le Léthé",
+        "PlaceName_ja": "レーテー海",
+        "PlaceName_ko": "레테 해",
+        "TerritoryType": "n5f1"
+    },
+    "278": {
+        "0xID": "116",
+        "PlaceName_cn": "沼癸辛γ",
+        "PlaceName_de": "Apohelos 18-γ",
+        "PlaceName_en": "Apohelos 18-γ",
+        "PlaceName_fr": "Hélos Dékaokto γ",
+        "PlaceName_ja": "ヘロス・デカオクトγ",
+        "PlaceName_ko": "헬로스 데카옥토 γ",
+        "TerritoryType": "u5f2"
+    },
+    "279": {
+        "0xID": "117",
+        "PlaceName_cn": "沼癸辛β",
+        "PlaceName_de": "Apohelos 18-β",
+        "PlaceName_en": "Apohelos 18-β",
+        "PlaceName_fr": "Hélos Dékaokto β",
+        "PlaceName_ja": "ヘロス・デカオクトβ",
+        "PlaceName_ko": "헬로스 데카옥토 β",
+        "TerritoryType": "u5f2"
+    },
+    "28": {
+        "0xID": "1C",
+        "PlaceName_cn": "剑峰山麓",
+        "PlaceName_de": "Fuß des Schwertrückens",
+        "PlaceName_en": "The Nail",
+        "PlaceName_fr": "L'Épée",
+        "PlaceName_ja": "剣ヶ峰山麓",
+        "PlaceName_ko": "칼날 봉우리 기슭",
+        "TerritoryType": "r1f1"
+    },
+    "280": {
+        "0xID": "118",
+        "PlaceName_cn": "沼癸辛α",
+        "PlaceName_de": "Apohelos 18-α",
+        "PlaceName_en": "Apohelos 18-α",
+        "PlaceName_fr": "Hélos Dékaokto α",
+        "PlaceName_ja": "ヘロス・デカオクトα",
+        "PlaceName_ko": "헬로스 데카옥토 α",
+        "TerritoryType": "u5f2"
+    },
+    "281": {
+        "0xID": "119",
+        "PlaceName_cn": "逡巡泉",
+        "PlaceName_de": "Quell der Reue",
+        "PlaceName_en": "The Wellspring of Regret",
+        "PlaceName_fr": "Source des Velléitaires",
+        "PlaceName_ja": "逡巡の泉",
+        "PlaceName_ko": "망설임의 샘",
+        "TerritoryType": "u5f2"
+    },
+    "282": {
+        "0xID": "11A",
+        "PlaceName_cn": "异亚村落",
+        "PlaceName_de": "Domizil der Ea",
+        "PlaceName_en": "Abode of the Ea",
+        "PlaceName_fr": "Demeure des Éas",
+        "PlaceName_ja": "イーアの里",
+        "PlaceName_ko": "이아 마을",
+        "TerritoryType": "u5f2"
+    },
+    "283": {
+        "0xID": "11B",
+        "PlaceName_cn": "湖癸辛",
+        "PlaceName_de": "Limne 18",
+        "PlaceName_en": "Limne 18",
+        "PlaceName_fr": "Limné Dékaokto",
+        "PlaceName_ja": "リムニ・デカオクト",
+        "PlaceName_ko": "림네 데카옥토",
+        "TerritoryType": "u5f2"
+    },
+    "284": {
+        "0xID": "11C",
+        "PlaceName_cn": "湖丙α",
+        "PlaceName_de": "Limne 3-α",
+        "PlaceName_en": "Limne 3-α",
+        "PlaceName_fr": "Limné Tria α",
+        "PlaceName_ja": "リムニ・トゥリアα",
+        "PlaceName_ko": "림네 트리아 α",
+        "TerritoryType": "u5f2"
+    },
+    "285": {
+        "0xID": "11D",
+        "PlaceName_cn": "湖丙β",
+        "PlaceName_de": "Limne 3-β",
+        "PlaceName_en": "Limne 3-β",
+        "PlaceName_fr": "Limné Tria β",
+        "PlaceName_ja": "リムニ・トゥリアβ",
+        "PlaceName_ko": "림네 트리아 β",
+        "TerritoryType": "u5f2"
+    },
+    "286": {
+        "0xID": "11E",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "287": {
+        "0xID": "11F",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "288": {
+        "0xID": "120",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "289": {
+        "0xID": "121",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "29": {
+        "0xID": "1D",
+        "PlaceName_cn": "圣人泪",
+        "PlaceName_de": "Der Trauernde Heilige ",
+        "PlaceName_en": "The Weeping Saint",
+        "PlaceName_fr": "Le Saint affligé",
+        "PlaceName_ja": "聖ダナフェンの落涙",
+        "PlaceName_ko": "성 다니펜의 눈물",
+        "TerritoryType": "r1f1"
+    },
+    "290": {
+        "0xID": "122",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "291": {
+        "0xID": "123",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "292": {
+        "0xID": "124",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "293": {
+        "0xID": "125",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "294": {
+        "0xID": "126",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "295": {
+        "0xID": "127",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "296": {
+        "0xID": "128",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "297": {
+        "0xID": "129",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "298": {
+        "0xID": "12A",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "299": {
+        "0xID": "12B",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "3": {
+        "0xID": "3",
+        "PlaceName_cn": "镜池",
+        "PlaceName_de": "Spiegelsee",
+        "PlaceName_en": "The Mirror",
+        "PlaceName_fr": "Le Miroir",
+        "PlaceName_ja": "鏡池",
+        "PlaceName_ko": "거울못",
+        "TerritoryType": "f1f1"
+    },
+    "30": {
+        "0xID": "1E",
+        "PlaceName_cn": "巨龙首营地水库",
+        "PlaceName_de": "Drachenkopf-Teich",
+        "PlaceName_en": "Dragonhead Latrines",
+        "PlaceName_fr": "Camp de la Tête du dragon",
+        "PlaceName_ja": "キャンプ・ドラゴンヘッド溜池",
+        "PlaceName_ko": "용머리 전진기지 저수지",
+        "TerritoryType": "r1f1"
+    },
+    "300": {
+        "0xID": "12C",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "301": {
+        "0xID": "12D",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "302": {
+        "0xID": "12E",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "303": {
+        "0xID": "12F",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "304": {
+        "0xID": "130",
+        "PlaceName_cn": "",
+        "PlaceName_de": "",
+        "PlaceName_en": "",
+        "PlaceName_fr": "",
+        "PlaceName_ja": "",
+        "PlaceName_ko": "",
+        "TerritoryType": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "PlaceName_cn": "圣人旅道",
+        "PlaceName_de": "Daniffen-Pass",
+        "PlaceName_en": "Daniffen Pass",
+        "PlaceName_fr": "Défilé de Daniffen",
+        "PlaceName_ja": "聖ダナフェンの旅程",
+        "PlaceName_ko": "성 다니펜의 여정",
+        "TerritoryType": "r1f1"
+    },
+    "32": {
+        "0xID": "20",
+        "PlaceName_cn": "调查队冰洞",
+        "PlaceName_de": "Eisloch",
+        "PlaceName_en": "Exploratory Ice Hole",
+        "PlaceName_fr": "Puits de glace",
+        "PlaceName_ja": "調査隊の氷穴",
+        "PlaceName_ko": "조사대 얼음 구멍",
+        "TerritoryType": "r1f1"
+    },
+    "33": {
+        "0xID": "21",
+        "PlaceName_cn": "披雪大冰壁",
+        "PlaceName_de": "Schneekleid",
+        "PlaceName_en": "Snowcloak",
+        "PlaceName_fr": "Manteneige",
+        "PlaceName_ja": "スノークローク大氷壁",
+        "PlaceName_ko": "얼음외투 대빙벽",
+        "TerritoryType": "r1f1"
+    },
+    "34": {
+        "0xID": "22",
+        "PlaceName_cn": "伊修加德大云海",
+        "PlaceName_de": "Wolkenmeer",
+        "PlaceName_en": "Sea of Clouds",
+        "PlaceName_fr": "Mer de nuages d'Ishgard",
+        "PlaceName_ja": "イシュガルド大雲海",
+        "PlaceName_ko": "이슈가르드 구름바다",
+        "TerritoryType": "r1f1"
+    },
+    "35": {
+        "0xID": "23",
+        "PlaceName_cn": "利姆萨·罗敏萨下层甲板",
+        "PlaceName_de": "Untere Decks",
+        "PlaceName_en": "Limsa Lominsa Lower Decks",
+        "PlaceName_fr": "Limsa Lominsa - L'Entrepont",
+        "PlaceName_ja": "リムサ・ロミンサ：下甲板層",
+        "PlaceName_ko": "림사 로민사 하층 갑판",
+        "TerritoryType": "s1t2"
+    },
+    "36": {
+        "0xID": "24",
+        "PlaceName_cn": "利姆萨·罗敏萨上层甲板",
+        "PlaceName_de": "Obere Decks",
+        "PlaceName_en": "Limsa Lominsa Upper Decks",
+        "PlaceName_fr": "Limsa Lominsa - Le Tillac",
+        "PlaceName_ja": "リムサ・ロミンサ：上甲板層",
+        "PlaceName_ko": "림사 로민사 상층 갑판",
+        "TerritoryType": "s1t1"
+    },
+    "37": {
+        "0xID": "25",
+        "PlaceName_cn": "和风流地沿岸",
+        "PlaceName_de": "Zephyr-Schneise",
+        "PlaceName_en": "Zephyr Drift",
+        "PlaceName_fr": "Dérive du Zéphyr",
+        "PlaceName_ja": "ゼファードリフト沿岸",
+        "PlaceName_ko": "산들바람 줄기 연안",
+        "TerritoryType": "s1f1"
+    },
+    "38": {
+        "0xID": "26",
+        "PlaceName_cn": "盛夏滩沿岸",
+        "PlaceName_de": "Sommerfurt",
+        "PlaceName_en": "Summerford",
+        "PlaceName_fr": "Vergers d'Estival",
+        "PlaceName_ja": "サマーフォード沿岸",
+        "PlaceName_ko": "여름여울 연안",
+        "TerritoryType": "s1f1"
+    },
+    "39": {
+        "0xID": "27",
+        "PlaceName_cn": "无赖川",
+        "PlaceName_de": "Schurkenstrom",
+        "PlaceName_en": "Rogue River",
+        "PlaceName_fr": "Rivière des requins",
+        "PlaceName_ja": "ローグ川",
+        "PlaceName_ko": "불량배 강",
+        "TerritoryType": "s1f1"
+    },
+    "4": {
+        "0xID": "4",
+        "PlaceName_cn": "常影区",
+        "PlaceName_de": "Immerschatten",
+        "PlaceName_en": "Everschade",
+        "PlaceName_fr": "Breuil de l'Ombre éternelle",
+        "PlaceName_ja": "エバーシェイド",
+        "PlaceName_ko": "영원그늘",
+        "TerritoryType": "f1f1"
+    },
+    "40": {
+        "0xID": "28",
+        "PlaceName_cn": "西永恒川",
+        "PlaceName_de": "Westlicher Agelyss",
+        "PlaceName_en": "West Agelyss River",
+        "PlaceName_fr": "Ouest de la rivière d'Agelyss",
+        "PlaceName_ja": "西アジェレス川",
+        "PlaceName_ko": "서쪽 아젤리스 강",
+        "TerritoryType": "s1f1"
+    },
+    "41": {
+        "0xID": "29",
+        "PlaceName_cn": "尼姆河",
+        "PlaceName_de": "Der Nymquell",
+        "PlaceName_en": "Nym River",
+        "PlaceName_fr": "Rivière de Nym",
+        "PlaceName_ja": "ニーム川",
+        "PlaceName_ko": "니므 강",
+        "TerritoryType": "s1f1"
+    },
+    "42": {
+        "0xID": "2A",
+        "PlaceName_cn": "轻声谷",
+        "PlaceName_de": "Flüsterklamm",
+        "PlaceName_en": "Woad Whisper Canyon",
+        "PlaceName_fr": "Canyon des Chuchotements",
+        "PlaceName_ja": "ささやきの谷",
+        "PlaceName_ko": "속삭임 골짜기",
+        "TerritoryType": "s1f1"
+    },
+    "43": {
+        "0xID": "2B",
+        "PlaceName_cn": "遗孀泪",
+        "PlaceName_de": "Die Trauernde Witwe",
+        "PlaceName_en": "The Mourning Widow",
+        "PlaceName_fr": "La Veuve éplorée",
+        "PlaceName_ja": "モーニングウィドー",
+        "PlaceName_ko": "과부의 눈물",
+        "TerritoryType": "s1f2"
+    },
+    "44": {
+        "0xID": "2C",
+        "PlaceName_cn": "莫拉比湾西岸",
+        "PlaceName_de": "Moraby-Bucht",
+        "PlaceName_en": "Moraby Bay",
+        "PlaceName_fr": "Baie de Moraby",
+        "PlaceName_ja": "モラビー湾西岸",
+        "PlaceName_ko": "모라비 만 서쪽 절벽",
+        "TerritoryType": "s1f2"
+    },
+    "45": {
+        "0xID": "2D",
+        "PlaceName_cn": "雪松原沿岸地",
+        "PlaceName_de": "Zedernwald-Ufer",
+        "PlaceName_en": "Cedarwood",
+        "PlaceName_fr": "La Cédrière",
+        "PlaceName_ja": "シダーウッド沿岸部",
+        "PlaceName_ko": "삼나무 숲 연안",
+        "TerritoryType": "s1f2"
+    },
+    "46": {
+        "0xID": "2E",
+        "PlaceName_cn": "莫拉比造船厂",
+        "PlaceName_de": "Moraby-Trockendocks",
+        "PlaceName_en": "Moraby Drydocks",
+        "PlaceName_fr": "Chantier naval de Moraby",
+        "PlaceName_ja": "モラビー造船廠",
+        "PlaceName_ko": "모라비 조선소",
+        "TerritoryType": "s1f2"
+    },
+    "47": {
+        "0xID": "2F",
+        "PlaceName_cn": "奥修昂火炬",
+        "PlaceName_de": "Oschons Fackel",
+        "PlaceName_en": "Oschon's Torch",
+        "PlaceName_fr": "Torche d'Oschon",
+        "PlaceName_ja": "オシュオン灯台",
+        "PlaceName_ko": "오쉬온 등대",
+        "TerritoryType": "s1f2"
+    },
+    "48": {
+        "0xID": "30",
+        "PlaceName_cn": "砂盐滩",
+        "PlaceName_de": "Der Salzstrand",
+        "PlaceName_en": "The Salt Strand",
+        "PlaceName_fr": "Atolls de sel",
+        "PlaceName_ja": "ソルトストランド",
+        "PlaceName_ko": "소금기둥 해변",
+        "TerritoryType": "s1f2"
+    },
+    "49": {
+        "0xID": "31",
+        "PlaceName_cn": "守炬埠头",
+        "PlaceName_de": "Kerzenwacht-Kai",
+        "PlaceName_en": "Candlekeep Quay",
+        "PlaceName_fr": "Quai de la Torche",
+        "PlaceName_ja": "キャンドルキープ埠頭",
+        "PlaceName_ko": "촛불지기 부두",
+        "TerritoryType": "s1f2"
+    },
+    "5": {
+        "0xID": "5",
+        "PlaceName_cn": "萌芽池",
+        "PlaceName_de": "Hoffnungsschimmer-Teich",
+        "PlaceName_en": "Hopeseed Pond",
+        "PlaceName_fr": "Mare de l'Espoir",
+        "PlaceName_ja": "芽吹の池",
+        "PlaceName_ko": "움트는 연못",
+        "TerritoryType": "f1f1"
+    },
+    "50": {
+        "0xID": "32",
+        "PlaceName_cn": "空心穴",
+        "PlaceName_de": "Leeres Herz",
+        "PlaceName_en": "Empty Heart",
+        "PlaceName_fr": "Cœur-Vide",
+        "PlaceName_ja": "エンプティハート",
+        "PlaceName_ko": "텅 빈 심장",
+        "TerritoryType": "s1f2"
+    },
+    "51": {
+        "0xID": "33",
+        "PlaceName_cn": "南鲜血滨",
+        "PlaceName_de": "Südliche Rotgischt",
+        "PlaceName_en": "South Bloodshore",
+        "PlaceName_fr": "Sud des Rives sanglantes",
+        "PlaceName_ja": "南ブラッドショア",
+        "PlaceName_ko": "남부 핏빛해안",
+        "TerritoryType": "s1f3"
+    },
+    "52": {
+        "0xID": "34",
+        "PlaceName_cn": "太阳海岸",
+        "PlaceName_de": "Sonnenküste",
+        "PlaceName_en": "Costa del Sol",
+        "PlaceName_fr": "Costa del Sol",
+        "PlaceName_ja": "コスタ・デル・ソル",
+        "PlaceName_ko": "코스타 델 솔",
+        "TerritoryType": "s1f3"
+    },
+    "53": {
+        "0xID": "35",
+        "PlaceName_cn": "北鲜血滨",
+        "PlaceName_de": "Nördliche Rotgischt",
+        "PlaceName_en": "North Bloodshore",
+        "PlaceName_fr": "Nord des Rives sanglantes",
+        "PlaceName_ja": "北ブラッドショア",
+        "PlaceName_ko": "북부 핏빛해안",
+        "TerritoryType": "s1f3"
+    },
+    "54": {
+        "0xID": "36",
+        "PlaceName_cn": "隐秘瀑布",
+        "PlaceName_de": "Verborgener Wasserfall",
+        "PlaceName_en": "Hidden Falls",
+        "PlaceName_fr": "Chute cachée",
+        "PlaceName_ja": "隠れ滝",
+        "PlaceName_ko": "숨겨진 폭포",
+        "TerritoryType": "s1f3"
+    },
+    "55": {
+        "0xID": "37",
+        "PlaceName_cn": "东永恒川",
+        "PlaceName_de": "Östlicher Agelyss",
+        "PlaceName_en": "East Agelyss River",
+        "PlaceName_fr": "Est de la rivière d'Agelyss",
+        "PlaceName_ja": "東アジェレス川",
+        "PlaceName_ko": "동쪽 아젤리스 강",
+        "TerritoryType": "s1f3"
+    },
+    "56": {
+        "0xID": "38",
+        "PlaceName_cn": "接雨草树林",
+        "PlaceName_de": "Regenfänger-Rinne",
+        "PlaceName_en": "Raincatcher Gully",
+        "PlaceName_fr": "Ravine des Cueillepluies",
+        "PlaceName_ja": "レインキャッチャー樹林",
+        "PlaceName_ko": "빗물받이 숲",
+        "TerritoryType": "s1f3"
+    },
+    "57": {
+        "0xID": "39",
+        "PlaceName_cn": "接雨草沼泽地",
+        "PlaceName_de": "Der Juggernaut",
+        "PlaceName_en": "The Juggernaut",
+        "PlaceName_fr": "Le Juggernaut",
+        "PlaceName_ja": "レインキャッチャー沼沢地",
+        "PlaceName_ko": "빗물받이 소택지",
+        "TerritoryType": "s1f3"
+    },
+    "58": {
+        "0xID": "3A",
+        "PlaceName_cn": "红螳螂瀑布",
+        "PlaceName_de": "Mantisfall",
+        "PlaceName_en": "Red Mantis Falls",
+        "PlaceName_fr": "Cascade des Mantes rouges",
+        "PlaceName_ja": "レッドマンティス滝",
+        "PlaceName_ko": "붉은사마귀 폭포",
+        "TerritoryType": "s1f3"
+    },
+    "59": {
+        "0xID": "3B",
+        "PlaceName_cn": "雨燕塔殖民地",
+        "PlaceName_de": "Tölpelturm-Siedlung",
+        "PlaceName_en": "Swiftperch",
+        "PlaceName_fr": "Le Martinet",
+        "PlaceName_ja": "スウィフトパーチ入植地",
+        "PlaceName_ko": "칼새횃대 개척지",
+        "TerritoryType": "s1f4"
+    },
+    "6": {
+        "0xID": "6",
+        "PlaceName_cn": "花蜜栈桥",
+        "PlaceName_de": "Honigblumen-Steg",
+        "PlaceName_en": "Sweetbloom Pier",
+        "PlaceName_fr": "Jetée du Bouquet",
+        "PlaceName_ja": "花蜜桟橋",
+        "PlaceName_ko": "꽃꿀 나루",
+        "TerritoryType": "f1f2"
+    },
+    "60": {
+        "0xID": "3C",
+        "PlaceName_cn": "骷髅谷沿岸地",
+        "PlaceName_de": "Schädeltal-Ufer",
+        "PlaceName_en": "Skull Valley",
+        "PlaceName_fr": "Vallée du Crâne",
+        "PlaceName_ja": "スカルバレー沿岸部",
+        "PlaceName_ko": "해골 골짜기 연안",
+        "TerritoryType": "s1f4"
+    },
+    "61": {
+        "0xID": "3D",
+        "PlaceName_cn": "二分石沿岸地",
+        "PlaceName_de": "Halbstein",
+        "PlaceName_en": "Halfstone",
+        "PlaceName_fr": "Demipierre",
+        "PlaceName_ja": "ハーフストーン沿岸部",
+        "PlaceName_ko": "하프스톤 연안",
+        "TerritoryType": "s1f4"
+    },
+    "62": {
+        "0xID": "3E",
+        "PlaceName_cn": "幻影群岛北岸",
+        "PlaceName_de": "Nördliche Phantominseln",
+        "PlaceName_en": "Isles of Umbra Northshore",
+        "PlaceName_fr": "Côte nord des îles d'Ombra",
+        "PlaceName_ja": "幻影諸島北岸",
+        "PlaceName_ko": "환영 제도 북부",
+        "TerritoryType": "s1f4"
+    },
+    "63": {
+        "0xID": "3F",
+        "PlaceName_cn": "幻影群岛南岸",
+        "PlaceName_de": "Südliche Phantominseln",
+        "PlaceName_en": "Isles of Umbra Southshore",
+        "PlaceName_fr": "Côte sud des îles d'Ombra",
+        "PlaceName_ja": "幻影諸島南岸",
+        "PlaceName_ko": "환영 제도 남부",
+        "TerritoryType": "s1f4"
+    },
+    "64": {
+        "0xID": "40",
+        "PlaceName_cn": "酿酒师灯塔",
+        "PlaceName_de": "Leuchtturm Braubake",
+        "PlaceName_en": "The Brewer's Beacon",
+        "PlaceName_fr": "Phare des Brasseurs",
+        "PlaceName_ja": "ブルワーズ灯台",
+        "PlaceName_ko": "양조장이 등대",
+        "TerritoryType": "s1f4"
+    },
+    "65": {
+        "0xID": "41",
+        "PlaceName_cn": "船舶墓场",
+        "PlaceName_de": "Schiffsfriedhof",
+        "PlaceName_en": "The Ship Graveyard",
+        "PlaceName_fr": "Cimetière de bateaux",
+        "PlaceName_ja": "船の墓場",
+        "PlaceName_ko": "배의 무덤",
+        "TerritoryType": "s1f4"
+    },
+    "66": {
+        "0xID": "42",
+        "PlaceName_cn": "橡树原",
+        "PlaceName_de": "Eichenwald",
+        "PlaceName_en": "Oakwood",
+        "PlaceName_fr": "La Chênaie",
+        "PlaceName_ja": "オークウッド",
+        "PlaceName_ko": "참나무 숲",
+        "TerritoryType": "s1f5"
+    },
+    "67": {
+        "0xID": "43",
+        "PlaceName_cn": "愚者瀑布",
+        "PlaceName_de": "Narrenfall",
+        "PlaceName_en": "Fool Falls",
+        "PlaceName_fr": "Cascades des Idiots",
+        "PlaceName_ja": "愚か者の滝",
+        "PlaceName_ko": "얼간이 폭포",
+        "TerritoryType": "s1f5"
+    },
+    "68": {
+        "0xID": "44",
+        "PlaceName_cn": "石绿湖东北岸",
+        "PlaceName_de": "Bronzesee-Nordostufer",
+        "PlaceName_en": "Northeast Bronze Lake",
+        "PlaceName_fr": "Nord-est du lac d'Airain",
+        "PlaceName_ja": "ブロンズレイク北東岸",
+        "PlaceName_ko": "청동호수 북동부",
+        "TerritoryType": "s1f5"
+    },
+    "69": {
+        "0xID": "45",
+        "PlaceName_cn": "白银集市",
+        "PlaceName_de": "Der Silberbasar",
+        "PlaceName_en": "The Silver Bazaar",
+        "PlaceName_fr": "Bazar argenté",
+        "PlaceName_ja": "シルバーバザー",
+        "PlaceName_ko": "은 장터",
+        "TerritoryType": "w1f1"
+    },
+    "7": {
+        "0xID": "7",
+        "PlaceName_cn": "落翠底",
+        "PlaceName_de": "Lindgrüner Tropfen",
+        "PlaceName_en": "Verdant Drop",
+        "PlaceName_fr": "Échancrure",
+        "PlaceName_ja": "青翠の奈落",
+        "PlaceName_ko": "청록의 나락",
+        "TerritoryType": "f1f2"
+    },
+    "70": {
+        "0xID": "46",
+        "PlaceName_cn": "黄昏湾",
+        "PlaceName_de": "Bucht des Abendsterns",
+        "PlaceName_en": "Vesper Bay",
+        "PlaceName_fr": "Baie des Vêpres",
+        "PlaceName_ja": "ベスパーベイ",
+        "PlaceName_ko": "저녁별 만",
+        "TerritoryType": "w1f1"
+    },
+    "71": {
+        "0xID": "47",
+        "PlaceName_cn": "月牙湾",
+        "PlaceName_de": "Mondsichel-Bucht",
+        "PlaceName_en": "Crescent Cove",
+        "PlaceName_fr": "Crique du Croissant",
+        "PlaceName_ja": "クレセントコーヴ",
+        "PlaceName_ko": "초승달 만",
+        "TerritoryType": "w1f1"
+    },
+    "72": {
+        "0xID": "48",
+        "PlaceName_cn": "丰饶神井",
+        "PlaceName_de": "Nophicas Brunnen",
+        "PlaceName_en": "Nophica's Wells",
+        "PlaceName_fr": "Sources de Nophica",
+        "PlaceName_ja": "ノフィカの井戸",
+        "PlaceName_ko": "노피카의 우물",
+        "TerritoryType": "w1f1"
+    },
+    "73": {
+        "0xID": "49",
+        "PlaceName_cn": "足迹谷",
+        "PlaceName_de": "Tal der Spuren",
+        "PlaceName_en": "The Footfalls",
+        "PlaceName_fr": "Vallée des Pas perdus",
+        "PlaceName_ja": "足跡の谷",
+        "PlaceName_ko": "발자국 계곡",
+        "TerritoryType": "w1f1"
+    },
+    "74": {
+        "0xID": "4A",
+        "PlaceName_cn": "西风岬",
+        "PlaceName_de": "Kap Westwind",
+        "PlaceName_en": "Cape Westwind",
+        "PlaceName_fr": "Cap Vendouest",
+        "PlaceName_ja": "ウエストウインド岬",
+        "PlaceName_ko": "하늬바람 곶",
+        "TerritoryType": "w1f1"
+    },
+    "75": {
+        "0xID": "4B",
+        "PlaceName_cn": "污流上游",
+        "PlaceName_de": "Obere Rußrinne",
+        "PlaceName_en": "Upper Soot Creek",
+        "PlaceName_fr": "Amont de la Suie",
+        "PlaceName_ja": "スートクリーク上流",
+        "PlaceName_ko": "검댕개울 상류",
+        "TerritoryType": "w1f2"
+    },
+    "76": {
+        "0xID": "4C",
+        "PlaceName_cn": "污流下游",
+        "PlaceName_de": "Untere Rußrinne",
+        "PlaceName_en": "Lower Soot Creek",
+        "PlaceName_fr": "Aval de la Suie",
+        "PlaceName_ja": "スートクリーク下流",
+        "PlaceName_ko": "검댕개울 하류",
+        "TerritoryType": "w1f2"
+    },
+    "77": {
+        "0xID": "4D",
+        "PlaceName_cn": "邪嗣",
+        "PlaceName_de": "Der Unheilige Erbe",
+        "PlaceName_en": "The Unholy Heir",
+        "PlaceName_fr": "Le Damné",
+        "PlaceName_ja": "アンホーリーエアー",
+        "PlaceName_ko": "부정한 계승자",
+        "TerritoryType": "w1f2"
+    },
+    "78": {
+        "0xID": "4E",
+        "PlaceName_cn": "枯骨北泉",
+        "PlaceName_de": "Nördliches Knochenbleich",
+        "PlaceName_en": "North Drybone",
+        "PlaceName_fr": "Nord des Os desséchés",
+        "PlaceName_ja": "ドライボーン北湧水地",
+        "PlaceName_ko": "마른뼈 황야 북쪽 샘터",
+        "TerritoryType": "w1f3"
+    },
+    "79": {
+        "0xID": "4F",
+        "PlaceName_cn": "枯骨南泉",
+        "PlaceName_de": "Südliches Knochenbleich",
+        "PlaceName_en": "South Drybone",
+        "PlaceName_fr": "Sud des Os desséchés",
+        "PlaceName_ja": "ドライボーン南湧水地",
+        "PlaceName_ko": "마른뼈 황야 남쪽 샘터",
+        "TerritoryType": "w1f3"
+    },
+    "8": {
+        "0xID": "8",
+        "PlaceName_cn": "涟漪小川",
+        "PlaceName_de": "Quellenlauf-Bach",
+        "PlaceName_en": "Springripple Brook",
+        "PlaceName_fr": "Ruisseau de l'Ondulé",
+        "PlaceName_ja": "さざなみ小川",
+        "PlaceName_ko": "잔물결 시내",
+        "TerritoryType": "f1f2"
+    },
+    "80": {
+        "0xID": "50",
+        "PlaceName_cn": "宇格拉姆河",
+        "PlaceName_de": "Der Yugr'am",
+        "PlaceName_en": "Yugr'am River",
+        "PlaceName_fr": "Rivière de Yugr'am",
+        "PlaceName_ja": "ユグラム川",
+        "PlaceName_ko": "유그람 강",
+        "TerritoryType": "w1f3"
+    },
+    "81": {
+        "0xID": "51",
+        "PlaceName_cn": "低语河谷",
+        "PlaceName_de": "Säuselschlucht",
+        "PlaceName_en": "Whispering Gorge",
+        "PlaceName_fr": "Ravin des Lamentations",
+        "PlaceName_ja": "グリダニア：囁きの渓谷",
+        "PlaceName_ko": "그리다니아: 속삭임 계곡",
+        "TerritoryType": "f1t2"
+    },
+    "82": {
+        "0xID": "52",
+        "PlaceName_cn": "火墙",
+        "PlaceName_de": "Der Feuerwall",
+        "PlaceName_en": "The Burning Wall",
+        "PlaceName_fr": "Mur incandescent",
+        "PlaceName_ja": "バーニングウォール",
+        "PlaceName_ko": "불타는 장벽",
+        "TerritoryType": "w1f3"
+    },
+    "83": {
+        "0xID": "53",
+        "PlaceName_cn": "火蜥蜴河",
+        "PlaceName_de": "Echsenbach",
+        "PlaceName_en": "Burnt Lizard Creek",
+        "PlaceName_fr": "Ruisseau du Lézard brûlé",
+        "PlaceName_ja": "リザードクリーク",
+        "PlaceName_ko": "도마뱀 개울",
+        "TerritoryType": "w1f4"
+    },
+    "84": {
+        "0xID": "54",
+        "PlaceName_cn": "不悔战泉",
+        "PlaceName_de": "Zahar'ak",
+        "PlaceName_en": "Zahar'ak",
+        "PlaceName_fr": "Zahar'ak",
+        "PlaceName_ja": "ザハラクの湧水",
+        "PlaceName_ko": "자하라크 샘",
+        "TerritoryType": "w1f4"
+    },
+    "85": {
+        "0xID": "55",
+        "PlaceName_cn": "遗忘绿洲",
+        "PlaceName_de": "Die Vergessene Oase",
+        "PlaceName_en": "Forgotten Springs",
+        "PlaceName_fr": "Oasis oubliée",
+        "PlaceName_ja": "忘れられたオアシス",
+        "PlaceName_ko": "잊힌 오아시스",
+        "TerritoryType": "w1f4"
+    },
+    "86": {
+        "0xID": "56",
+        "PlaceName_cn": "撒沟厉沙海",
+        "PlaceName_de": "Sagolii-Wüste",
+        "PlaceName_en": "Sagolii Desert",
+        "PlaceName_fr": "Désert de Sagolii",
+        "PlaceName_ja": "サゴリー砂海",
+        "PlaceName_ko": "사골리 모래바다",
+        "TerritoryType": "w1f4"
+    },
+    "87": {
+        "0xID": "57",
+        "PlaceName_cn": "撒沟厉沙丘",
+        "PlaceName_de": "Sagolii-Dünen",
+        "PlaceName_en": "Sagolii Dunes",
+        "PlaceName_fr": "Dunes de Sagolii",
+        "PlaceName_ja": "サゴリー砂丘",
+        "PlaceName_ko": "사골리 모래언덕",
+        "TerritoryType": "w1f4"
+    },
+    "88": {
+        "0xID": "58",
+        "PlaceName_cn": "青磷泉",
+        "PlaceName_de": "Erdseim-Felder",
+        "PlaceName_en": "Ceruleum Field",
+        "PlaceName_fr": "Champ de céruleum",
+        "PlaceName_ja": "青燐泉",
+        "PlaceName_ko": "청린 원천지",
+        "TerritoryType": "w1f5"
+    },
+    "89": {
+        "0xID": "59",
+        "PlaceName_cn": "蓝雾涌泉",
+        "PlaceName_de": "Blauer Dunst",
+        "PlaceName_en": "Bluefog",
+        "PlaceName_fr": "Brumebleue",
+        "PlaceName_ja": "ブルーフォグ湧水地",
+        "PlaceName_ko": "푸른안개 샘터",
+        "TerritoryType": "w1f5"
+    },
+    "9": {
+        "0xID": "9",
+        "PlaceName_cn": "妖精领溪谷",
+        "PlaceName_de": "Sylphenland",
+        "PlaceName_en": "Sylphlands",
+        "PlaceName_fr": "Terres sylphes",
+        "PlaceName_ja": "シルフランド渓谷",
+        "PlaceName_ko": "실프의 계곡",
+        "TerritoryType": "f1f2"
+    },
+    "90": {
+        "0xID": "5A",
+        "PlaceName_cn": "翡翠湖滨",
+        "PlaceName_de": "Jadeweiher-Ufer",
+        "PlaceName_en": "Jadeite Flood",
+        "PlaceName_fr": "Berges de Jade",
+        "PlaceName_ja": "グリダニア：翡翠湖畔",
+        "PlaceName_ko": "그리다니아: 비취 호수",
+        "TerritoryType": "f1t1"
+    },
+    "91": {
+        "0xID": "5B",
+        "PlaceName_cn": "红茶川水系下游",
+        "PlaceName_de": "Unterer Schwarztee-Bach",
+        "PlaceName_en": "Lower Black Tea Brook",
+        "PlaceName_fr": "Aval du ruisseau du Thé noir",
+        "PlaceName_ja": "グリダニア：紅茶川水系下流",
+        "PlaceName_ko": "그리다니아: 홍차강 하류",
+        "TerritoryType": "f1t1"
+    },
+    "92": {
+        "0xID": "5C",
+        "PlaceName_cn": "静语庄园",
+        "PlaceName_de": "Haukke-Herrenhaus",
+        "PlaceName_en": "Haukke Manor",
+        "PlaceName_fr": "Manoir des Haukke",
+        "PlaceName_ja": "ハウケタ御用邸",
+        "PlaceName_ko": "하우케타 별궁",
+        "TerritoryType": "f1f1"
+    },
+    "93": {
+        "0xID": "5D",
+        "PlaceName_cn": "歌咏裂谷",
+        "PlaceName_de": "Singende Scherben",
+        "PlaceName_en": "Singing Shards",
+        "PlaceName_fr": "Pierrechantantes",
+        "PlaceName_ja": "唄う裂谷",
+        "PlaceName_ko": "노래하는 열곡",
+        "TerritoryType": "l1f1"
+    },
+    "94": {
+        "0xID": "5E",
+        "PlaceName_cn": "歌咏裂谷北部",
+        "PlaceName_de": "Norden von Singende Scherben",
+        "PlaceName_en": "The North Shards",
+        "PlaceName_fr": "Nord de Pierrechantantes",
+        "PlaceName_ja": "唄う裂谷北部",
+        "PlaceName_ko": "노래하는 열곡 북부",
+        "TerritoryType": "l1f1"
+    },
+    "95": {
+        "0xID": "5F",
+        "PlaceName_cn": "帕拉塔安息地",
+        "PlaceName_de": "Paratas Friede",
+        "PlaceName_en": "Parata's Peace",
+        "PlaceName_fr": "Repos de Parata",
+        "PlaceName_ja": "パラタの墓所",
+        "PlaceName_ko": "파라타의 묘소",
+        "TerritoryType": "w1f1"
+    },
+    "96": {
+        "0xID": "60",
+        "PlaceName_cn": "执掌峡谷",
+        "PlaceName_de": "Die Klaue",
+        "PlaceName_en": "The Clutch",
+        "PlaceName_fr": "Le Nid",
+        "PlaceName_ja": "クラッチ狭間",
+        "PlaceName_ko": "악마의 손아귀",
+        "TerritoryType": "w1f2"
+    },
+    "97": {
+        "0xID": "61",
+        "PlaceName_cn": "盲铁坑道",
+        "PlaceName_de": "Finstereisenmine",
+        "PlaceName_en": "Blind Iron Mines",
+        "PlaceName_fr": "Mines du Fer aveugle",
+        "PlaceName_ja": "ブラインドアイアン坑道",
+        "PlaceName_ko": "눈먼 무쇠 갱도",
+        "TerritoryType": "s1f2"
+    },
+    "98": {
+        "0xID": "62",
+        "PlaceName_cn": "石绿湖浅滩",
+        "PlaceName_de": "Bronzesee-Untiefen",
+        "PlaceName_en": "Bronze Lake Shallows",
+        "PlaceName_fr": "Bas-fonds du lac d'Airain",
+        "PlaceName_ja": "ブロンズレイク・シャロー",
+        "PlaceName_ko": "청동호수 얕은 물",
+        "TerritoryType": "s1f5"
+    },
+    "99": {
+        "0xID": "63",
+        "PlaceName_cn": "登天路溪谷",
+        "PlaceName_de": "Himmelsstiege",
+        "PlaceName_en": "The Long Climb",
+        "PlaceName_fr": "L'Ascension",
+        "PlaceName_ja": "ロングクライム渓谷",
+        "PlaceName_ko": "기나긴 오르막 계곡",
+        "TerritoryType": "s1f6"
+    }
+}

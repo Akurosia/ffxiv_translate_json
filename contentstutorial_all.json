@@ -1,0 +1,47 @@
+{
+    "0": {
+        "0xID": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Name_cn": "\u5357\u65b9\u535a\u5179\u96c5\u6218\u7ebf",
+        "Name_de": "Bozja-S\u00fcdfront",
+        "Name_en": "The Bozjan Southern Front",
+        "Name_fr": "Front sud de Bozja",
+        "Name_ja": "THE BOZJAN SOUTHERN FRONT",
+        "Name_ko": "\ub0a8\ubd80 \ubcf4\uc988\uc57c \uc804\uc120"
+    },
+    "2": {
+        "0xID": "2",
+        "Name_cn": "\u8ff7\u5bab\u6311\u6218",
+        "Name_de": "Dungeon-Inhalte",
+        "Name_en": "Dungeons",
+        "Name_fr": "Missions : donjons",
+        "Name_ja": "CONTENTS : DUNGEON",
+        "Name_ko": "\ub358\uc804 \uacf5\ub7b5"
+    },
+    "3": {
+        "0xID": "3",
+        "Name_cn": "\u591a\u53d8\u8ff7\u5bab",
+        "Name_de": "Unstete Gew\u00f6lbe",
+        "Name_en": "Variant Dungeons",
+        "Name_fr": "Donjons \u00e0 embranchements",
+        "Name_ja": "VARIANT DUNGEON",
+        "Name_ko": "\ubcc0\ud615 \ub358\uc804"
+    },
+    "4": {
+        "0xID": "4",
+        "Name_cn": "\u5f00\u62d3\u65e0\u4eba\u5c9b",
+        "Name_de": "Das Inselparadies",
+        "Name_en": "Island Sanctuary",
+        "Name_fr": "F\u00e9licit\u00e9 insulaire",
+        "Name_ja": "ISLAND SANCTUARY",
+        "Name_ko": "\ubb34\uc778\ub3c4 \uac1c\ucc99"
+    }
+}
