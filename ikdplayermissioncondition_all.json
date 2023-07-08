@@ -161,6 +161,51 @@
         "col_1_ja": "\u5f15\u304d\u306e\u3068\u3066\u3082\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff01\uff09\u3092\u91e3\u308b",
         "col_1_ko": "\uc785\uc9c8\uc774 \uc544\uc8fc \uc13c \ubb3c\uace0\uae30(!!!) \ub09a\uae30"
     },
+    "25": {
+        "0xID": "19",
+        "col_1_cn": "",
+        "col_1_de": "Garnelen oder Tintenfische fangen",
+        "col_1_en": "Catch shrimp or squid",
+        "col_1_fr": "Attraper des crevettes ou des c\u00e9phalopodes",
+        "col_1_ja": "\u30a8\u30d3\u307e\u305f\u306f\u30a4\u30ab\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
+    "26": {
+        "0xID": "1A",
+        "col_1_cn": "",
+        "col_1_de": "Fische mit Rang \u2605\u2605\u2605 oder h\u00f6her fangen",
+        "col_1_en": "Catch fish rated \u2605\u2605\u2605 or higher",
+        "col_1_fr": "Attraper des poissons de raret\u00e9 trois \u00e9toiles (\u2605\u2605\u2605) ou plus",
+        "col_1_ja": "\u2605\u2605\u2605\u4ee5\u4e0a\u306e\u9b5a\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
+    "27": {
+        "0xID": "1B",
+        "col_1_cn": "",
+        "col_1_de": "Fische mit schwachem Zug fangen (!)",
+        "col_1_en": "Catch fish with a weak bite (!)",
+        "col_1_fr": "Attraper un poisson qui tire peu (!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f31\u3044\u9b5a\uff08\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
+    "28": {
+        "0xID": "1C",
+        "col_1_cn": "",
+        "col_1_de": "Fische mit starkem Zug fangen (!!)",
+        "col_1_en": "Catch fish with a strong bite (!!)",
+        "col_1_fr": "Attraper un poisson qui tire bien (!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
+    "29": {
+        "0xID": "1D",
+        "col_1_cn": "",
+        "col_1_de": "Fische mit extremem Zug fangen (!!!)",
+        "col_1_en": "Catch fish with a ferocious bite (!!!)",
+        "col_1_fr": "Attraper un poisson qui tire fort (!!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u3068\u3066\u3082\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
     "3": {
         "0xID": "3",
         "col_1_cn": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
@@ -169,6 +214,51 @@
         "col_1_fr": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
         "col_1_ja": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002",
         "col_1_ko": "\u25cf\u2605\u2605\u2605\u2605\u30923\u5339\u91e3\u308b\u3002"
+    },
+    "30": {
+        "0xID": "1E",
+        "col_1_cn": "",
+        "col_1_de": "Garnelen oder Schalentiere fangen",
+        "col_1_en": "Catch shrimp or shellfish",
+        "col_1_fr": "Attraper des crevettes ou des mollusques",
+        "col_1_ja": "\u30a8\u30d3\u307e\u305f\u306f\u8c9d\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
+    "31": {
+        "0xID": "1F",
+        "col_1_cn": "",
+        "col_1_de": "Fische mit Rang \u2605\u2605\u2605 oder h\u00f6her fangen",
+        "col_1_en": "Catch fish rated \u2605\u2605\u2605 or higher",
+        "col_1_fr": "Attraper des poissons de raret\u00e9 trois \u00e9toiles (\u2605\u2605\u2605) ou plus",
+        "col_1_ja": "\u2605\u2605\u2605\u4ee5\u4e0a\u306e\u9b5a\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
+    "32": {
+        "0xID": "20",
+        "col_1_cn": "",
+        "col_1_de": "Fische mit schwachem Zug fangen (!)",
+        "col_1_en": "Catch fish with a weak bite (!)",
+        "col_1_fr": "Attraper un poisson qui tire peu (!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f31\u3044\u9b5a\uff08\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
+    "33": {
+        "0xID": "21",
+        "col_1_cn": "",
+        "col_1_de": "Fische mit starkem Zug fangen (!!)",
+        "col_1_en": "Catch fish with a strong bite (!!)",
+        "col_1_fr": "Attraper un poisson qui tire bien (!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": ""
+    },
+    "34": {
+        "0xID": "22",
+        "col_1_cn": "",
+        "col_1_de": "Fische mit extremem Zug fangen (!!!)",
+        "col_1_en": "Catch fish with a ferocious bite (!!!)",
+        "col_1_fr": "Attraper un poisson qui tire fort (!!!)",
+        "col_1_ja": "\u5f15\u304d\u306e\u3068\u3066\u3082\u5f37\u3044\u9b5a\uff08\uff01\uff01\uff01\uff09\u3092\u91e3\u308b",
+        "col_1_ko": ""
     },
     "4": {
         "0xID": "4",

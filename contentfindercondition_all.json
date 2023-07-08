@@ -1713,7 +1713,7 @@
         "Name_fr": "la Mer du Chant des sirènes",
         "Name_ja": "漂流海域 セイレーン海",
         "Name_ko": "세이렌 해",
-        "TerritoryType": "o3d1"
+        "TerritoryType": "o3d1_re"
     },
     "239": {
         "0xID": "EF",
@@ -1746,7 +1746,7 @@
         "Name_fr": "la Force de Bardam",
         "Name_ja": "伝統試練 バルダム覇道",
         "Name_ko": "바르담 패도",
-        "TerritoryType": "e3d2"
+        "TerritoryType": "e3d2_re"
     },
     "241": {
         "0xID": "F1",
@@ -1757,7 +1757,7 @@
         "Name_fr": "le Château de Doma",
         "Name_ja": "解放決戦 ドマ城",
         "Name_ko": "도마 성",
-        "TerritoryType": "e3d3"
+        "TerritoryType": "e3d3_re"
     },
     "242": {
         "0xID": "F2",
@@ -1768,7 +1768,7 @@
         "Name_fr": "Castrum Abania",
         "Name_ja": "巨砲要塞 カストルム・アバニア",
         "Name_ko": "카스트룸 아바니아",
-        "TerritoryType": "g3d1"
+        "TerritoryType": "g3d1_re"
     },
     "243": {
         "0xID": "F3",
@@ -1823,7 +1823,7 @@
         "Name_fr": "Ala Mhigo",
         "Name_ja": "紅蓮決戦 アラミゴ",
         "Name_ko": "알라미고",
-        "TerritoryType": "g3d2"
+        "TerritoryType": "g3d2_re"
     },
     "248": {
         "0xID": "F8",
@@ -7219,10 +7219,10 @@
         "0xID": "45",
         "Lodestone": "",
         "Name_cn": "活动挑战1",
-        "Name_de": "Event-Inhalt 3",
-        "Name_en": "Special Event III",
-        "Name_fr": "Défi spécial III",
-        "Name_ja": "イベント用コンテンツ：3",
+        "Name_de": "Arayas Palast",
+        "Name_en": "The Gilded Araya",
+        "Name_fr": "Le temple doré d'Araya",
+        "Name_ja": "アスラ討滅戦",
         "Name_ko": "이벤트용 임무: 3",
         "TerritoryType": "z1z4"
     },
@@ -8375,7 +8375,7 @@
         "Lodestone": "25f8ec27427",
         "Name_cn": "电脑梦境斯提格玛四",
         "Name_de": "Stigma-Holometrie",
-        "Name_en": "The Stigma Dreamscape",
+        "Name_en": "the Stigma Dreamscape",
         "Name_fr": "Rêve électrique de Stigma-4",
         "Name_ja": "電脳夢想 スティグマ・フォー",
         "Name_ko": "스티그마-4",
@@ -8847,12 +8847,12 @@
         "0xID": "336",
         "Lodestone": "",
         "Name_cn": "",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Ätherborn",
+        "Name_en": "the Aetherfont",
+        "Name_fr": "L'île de Haam",
+        "Name_ja": "星霊間欠 ハーム島",
         "Name_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "k5d2"
     },
     "823": {
         "0xID": "337",
@@ -9398,7 +9398,7 @@
         "Lodestone": "",
         "Name_cn": "多变迷宫 希拉狄哈水道",
         "Name_de": "Die Unterstadt von Sil'dih",
-        "Name_en": "The Sil'dihn Subterrane",
+        "Name_en": "the Sil'dihn Subterrane",
         "Name_fr": "Les canalisations sildiennes - Donjon à embranchements",
         "Name_ja": "ヴァリアントダンジョン シラディハ水道",
         "Name_ko": "변형 던전: 실디하 지하수도",
@@ -10229,6 +10229,50 @@
         "Name_ko": "",
         "TerritoryType": "f1eb"
     },
+    "936": {
+        "0xID": "3A8",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Anabaseios - Neunter Kreis",
+        "Name_en": "Anabaseios: The Ninth Circle",
+        "Name_fr": "Le Paradis du Pandæmonium - Métempsycose",
+        "Name_ja": "万魔殿パンデモニウム：天獄編1",
+        "Name_ko": "",
+        "TerritoryType": "n5r9"
+    },
+    "937": {
+        "0xID": "3A9",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Anabaseios - Neunter Kreis (episch)",
+        "Name_en": "Anabaseios: The Ninth Circle (Savage)",
+        "Name_fr": "Le Paradis du Pandæmonium - Métempsycose (sadique)",
+        "Name_ja": "万魔殿パンデモニウム零式：天獄編1",
+        "Name_ko": "",
+        "TerritoryType": "n5r9_2"
+    },
+    "938": {
+        "0xID": "3AA",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Anabaseios - Zehnter Kreis",
+        "Name_en": "Anabaseios: The Tenth Circle",
+        "Name_fr": "Le Paradis du Pandæmonium - Monochrome",
+        "Name_ja": "万魔殿パンデモニウム：天獄編2",
+        "Name_ko": "",
+        "TerritoryType": "n5ra"
+    },
+    "939": {
+        "0xID": "3AB",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Anabaseios - Zehnter Kreis (episch)",
+        "Name_en": "Anabaseios: The Tenth Circle (Savage)",
+        "Name_fr": "Le Paradis du Pandæmonium - Monochrome (sadique)",
+        "Name_ja": "万魔殿パンデモニウム零式：天獄編2",
+        "Name_ko": "",
+        "TerritoryType": "n5ra_2"
+    },
     "94": {
         "0xID": "5E",
         "Lodestone": "9c359c635d7",
@@ -10240,6 +10284,116 @@
         "Name_ko": "대미궁 바하무트: 해후편 2",
         "TerritoryType": "s1b2"
     },
+    "940": {
+        "0xID": "3AC",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Anabaseios - Elfter Kreis",
+        "Name_en": "Anabaseios: The Eleventh Circle",
+        "Name_fr": "Le Paradis du Pandæmonium - Tribunal",
+        "Name_ja": "万魔殿パンデモニウム：天獄編3",
+        "Name_ko": "",
+        "TerritoryType": "n5rb"
+    },
+    "941": {
+        "0xID": "3AD",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Anabaseios - Elfter Kreis (episch)",
+        "Name_en": "Anabaseios: The Eleventh Circle (Savage)",
+        "Name_fr": "Le Paradis du Pandæmonium - Tribunal (sadique)",
+        "Name_ja": "万魔殿パンデモニウム零式：天獄編3",
+        "Name_ko": "",
+        "TerritoryType": "n5rb_2"
+    },
+    "942": {
+        "0xID": "3AE",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Anabaseios - Zwölfter Kreis",
+        "Name_en": "Anabaseios: The Twelfth Circle",
+        "Name_fr": "Le Paradis du Pandæmonium - Apothéose",
+        "Name_ja": "万魔殿パンデモニウム：天獄編4",
+        "Name_ko": "",
+        "TerritoryType": "n5rc"
+    },
+    "943": {
+        "0xID": "3AF",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Anabaseios - Zwölfter Kreis (episch)",
+        "Name_en": "Anabaseios: The Twelfth Circle (Savage)",
+        "Name_fr": "Le Paradis du Pandæmonium - Apothéose (sadique)",
+        "Name_ja": "万魔殿パンデモニウム零式：天獄編4",
+        "Name_ko": "",
+        "TerritoryType": "n5rc_2"
+    },
+    "944": {
+        "0xID": "3B0",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "TerritoryType": ""
+    },
+    "945": {
+        "0xID": "3B1",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "TerritoryType": ""
+    },
+    "946": {
+        "0xID": "3B2",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "TerritoryType": ""
+    },
+    "947": {
+        "0xID": "3B3",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "TerritoryType": ""
+    },
+    "948": {
+        "0xID": "3B4",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "TerritoryType": ""
+    },
+    "949": {
+        "0xID": "3B5",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Prophetie - Golbez",
+        "Name_en": "The Voidcast Dais",
+        "Name_fr": "La Chaire de l'Exilée",
+        "Name_ja": "ゴルベーザ討滅戦",
+        "Name_ko": "",
+        "TerritoryType": "z5fb"
+    },
     "95": {
         "0xID": "5F",
         "Lodestone": "e67a875fc85",
@@ -10250,6 +10404,116 @@
         "Name_ja": "大迷宮バハムート：邂逅編3",
         "Name_ko": "대미궁 바하무트: 해후편 3",
         "TerritoryType": "s1b3"
+    },
+    "950": {
+        "0xID": "3B6",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Eschatos - Golbez",
+        "Name_en": "The Voidcast Dais (Extreme)",
+        "Name_fr": "La Chaire de l'Exilée (extrême)",
+        "Name_ja": "極ゴルベーザ討滅戦",
+        "Name_ko": "",
+        "TerritoryType": "z5fb_2"
+    },
+    "951": {
+        "0xID": "3B7",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Traumprüfung - Zurvan",
+        "Name_en": "Containment Bay Z1T9 (Unreal)",
+        "Name_fr": "Unité de contention Z1P9 (irréel)",
+        "Name_ja": "幻鬼神ズルワーン討滅戦",
+        "Name_ko": "",
+        "TerritoryType": "a2fg_3"
+    },
+    "952": {
+        "0xID": "3B8",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Auf großer Fahrt",
+        "Name_en": "Ocean Fishing",
+        "Name_fr": "Pêche en mer",
+        "Name_ja": "オーシャンフィッシング",
+        "Name_ko": "",
+        "TerritoryType": "o1a2"
+    },
+    "953": {
+        "0xID": "3B9",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Auf großer Fahrt",
+        "Name_en": "Ocean Fishing",
+        "Name_fr": "Pêche en mer",
+        "Name_ja": "オーシャンフィッシング",
+        "Name_ko": "",
+        "TerritoryType": "o1a2"
+    },
+    "954": {
+        "0xID": "3BA",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Auf großer Fahrt",
+        "Name_en": "Ocean Fishing",
+        "Name_fr": "Pêche en mer",
+        "Name_ja": "オーシャンフィッシング",
+        "Name_ko": "",
+        "TerritoryType": "o1a2"
+    },
+    "955": {
+        "0xID": "3BB",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Auf großer Fahrt",
+        "Name_en": "Ocean Fishing",
+        "Name_fr": "Pêche en mer",
+        "Name_ja": "オーシャンフィッシング",
+        "Name_ko": "",
+        "TerritoryType": "o1a2"
+    },
+    "956": {
+        "0xID": "3BC",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Auf großer Fahrt",
+        "Name_en": "Ocean Fishing",
+        "Name_fr": "Pêche en mer",
+        "Name_ja": "オーシャンフィッシング",
+        "Name_ko": "",
+        "TerritoryType": "o1a2"
+    },
+    "957": {
+        "0xID": "3BD",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "Auf großer Fahrt",
+        "Name_en": "Ocean Fishing",
+        "Name_fr": "Pêche en mer",
+        "Name_ja": "オーシャンフィッシング",
+        "Name_ko": "",
+        "TerritoryType": "o1a2"
+    },
+    "958": {
+        "0xID": "3BE",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "TerritoryType": ""
+    },
+    "959": {
+        "0xID": "3BF",
+        "Lodestone": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "TerritoryType": ""
     },
     "96": {
         "0xID": "60",

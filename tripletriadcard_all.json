@@ -2789,6 +2789,24 @@
         "Name_ja": "\u30f4\u30a7\u30fc\u30cd\u30b9",
         "Name_ko": ""
     },
+    "378": {
+        "0xID": "17A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "379": {
+        "0xID": "17B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
     "38": {
         "0xID": "26",
         "Name_cn": "\u8d1d\u5e0c\u6469\u65af",
@@ -2797,6 +2815,87 @@
         "Name_fr": "b\u00e9h\u00e9moth",
         "Name_ja": "\u30d9\u30d2\u30fc\u30e2\u30b9",
         "Name_ko": "\ubca0\ud788\ubaa8\uc2a4"
+    },
+    "380": {
+        "0xID": "17C",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "381": {
+        "0xID": "17D",
+        "Name_cn": "",
+        "Name_de": "Oktomammut",
+        "Name_en": "Octomammoth",
+        "Name_fr": "octomammouth",
+        "Name_ja": "\u30aa\u30af\u30c8\u30de\u30f3\u30e2\u30b9",
+        "Name_ko": ""
+    },
+    "382": {
+        "0xID": "17E",
+        "Name_cn": "",
+        "Name_de": "Proto-Karfunkel",
+        "Name_en": "Proto-Carbuncle",
+        "Name_fr": "Proto-Carbuncle",
+        "Name_ja": "\u30d7\u30ed\u30c8\u30ab\u30fc\u30d0\u30f3\u30af\u30eb",
+        "Name_ko": ""
+    },
+    "383": {
+        "0xID": "17F",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "384": {
+        "0xID": "180",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "385": {
+        "0xID": "181",
+        "Name_cn": "",
+        "Name_de": "Themis",
+        "Name_en": "Themis",
+        "Name_fr": "Th\u00e9mis",
+        "Name_ja": "\u30c6\u30df\u30b9",
+        "Name_ko": ""
+    },
+    "386": {
+        "0xID": "182",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "387": {
+        "0xID": "183",
+        "Name_cn": "",
+        "Name_de": "Golbez",
+        "Name_en": "Golbez",
+        "Name_fr": "Golbez",
+        "Name_ja": "\u30b4\u30eb\u30d9\u30fc\u30b6",
+        "Name_ko": ""
+    },
+    "388": {
+        "0xID": "184",
+        "Name_cn": "",
+        "Name_de": "Athena",
+        "Name_en": "Athena",
+        "Name_fr": "Ath\u00e9na",
+        "Name_ja": "\u30a2\u30c6\u30ca",
+        "Name_ko": ""
     },
     "39": {
         "0xID": "27",

@@ -6,7 +6,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "1": {
         "0xID": "1",
@@ -15,7 +21,13 @@
         "Destination_en": "the Ivory Shoals",
         "Destination_fr": "\u00c9cueils d'Ivoire (A)",
         "Destination_ja": "A\u3000\u767d\u306e\u6d45\u702c",
-        "Destination_ko": "A\u3000\ud558\uc580 \uc5ec\uc6b8"
+        "Destination_ko": "A\u3000\ud558\uc580 \uc5ec\uc6b8",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "10": {
         "0xID": "A",
@@ -24,25 +36,43 @@
         "Destination_en": "unidentified derelict",
         "Destination_fr": "\u00c9pave sans nom (J)",
         "Destination_ja": "J\u3000\u540d\u3082\u7121\u304d\u6c88\u6ca1\u8239",
-        "Destination_ko": "J\u3000\uc774\ub984 \uc5c6\ub294 \uce68\ubab0\uc120"
+        "Destination_ko": "J\u3000\uc774\ub984 \uc5c6\ub294 \uce68\ubab0\uc120",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "100": {
         "0xID": "64",
         "Destination_cn": "",
-        "Destination_de": "",
-        "Destination_en": "",
-        "Destination_fr": "",
-        "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_de": "Mitte des Asterngrabens (F)",
+        "Destination_en": "Bellflower Flood",
+        "Destination_fr": "Centre de la fosse des campanules (F)",
+        "Destination_ja": "F\u3000\u6854\u6897\u6d77\u6e9d\u4e2d\u592e",
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "Das Fliedermeer",
+        "Map_en": "The Lilac Sea",
+        "Map_fr": "Mer de lilas",
+        "Map_ja": "\u7d2b\u7901\u6d77",
+        "Map_ko": "0"
     },
     "101": {
         "0xID": "65",
         "Destination_cn": "",
-        "Destination_de": "",
-        "Destination_en": "",
-        "Destination_fr": "",
-        "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_de": "Fliedermeer 2 (G)",
+        "Destination_en": "the Lilac Sea 2",
+        "Destination_fr": "Mer de lilas 2 (G)",
+        "Destination_ja": "G\u3000\u7d2b\u7901\u6d7702",
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "Das Fliedermeer",
+        "Map_en": "The Lilac Sea",
+        "Map_fr": "Mer de lilas",
+        "Map_ja": "\u7d2b\u7901\u6d77",
+        "Map_ko": "0"
     },
     "102": {
         "0xID": "66",
@@ -51,7 +81,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "103": {
         "0xID": "67",
@@ -60,7 +96,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "104": {
         "0xID": "68",
@@ -69,7 +111,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "105": {
         "0xID": "69",
@@ -78,7 +126,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "106": {
         "0xID": "6A",
@@ -87,7 +141,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "107": {
         "0xID": "6B",
@@ -96,7 +156,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "108": {
         "0xID": "6C",
@@ -105,7 +171,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "109": {
         "0xID": "6D",
@@ -114,7 +186,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "11": {
         "0xID": "B",
@@ -123,7 +201,13 @@
         "Destination_en": "the Cobalt Shoals",
         "Destination_fr": "Haut-fond indigo (K)",
         "Destination_ja": "K\u3000\u85cd\u306e\u6d45\u702c",
-        "Destination_ko": "K\u3000\ucabd\ube5b \uc5ec\uc6b8"
+        "Destination_ko": "K\u3000\ucabd\ube5b \uc5ec\uc6b8",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "110": {
         "0xID": "6E",
@@ -132,7 +216,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "111": {
         "0xID": "6F",
@@ -141,7 +231,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "112": {
         "0xID": "70",
@@ -150,7 +246,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "113": {
         "0xID": "71",
@@ -159,7 +261,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "114": {
         "0xID": "72",
@@ -168,7 +276,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "115": {
         "0xID": "73",
@@ -177,7 +291,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "116": {
         "0xID": "74",
@@ -186,7 +306,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "117": {
         "0xID": "75",
@@ -195,7 +321,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "118": {
         "0xID": "76",
@@ -204,7 +336,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "119": {
         "0xID": "77",
@@ -213,7 +351,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "",
+        "Map_en": "",
+        "Map_fr": "",
+        "Map_ja": "",
+        "Map_ko": "0"
     },
     "12": {
         "0xID": "C",
@@ -222,7 +366,13 @@
         "Destination_en": "the Mystic Basin",
         "Destination_fr": "Bassin myst\u00e9rieux (L)",
         "Destination_ja": "L\u3000\u795e\u79d8\u306e\u6d77\u76c6",
-        "Destination_ko": "L\u3000\uc2e0\ube44\ub85c\uc6b4 \ud574\ubd84"
+        "Destination_ko": "L\u3000\uc2e0\ube44\ub85c\uc6b4 \ud574\ubd84",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "13": {
         "0xID": "D",
@@ -231,7 +381,13 @@
         "Destination_en": "deep-sea site 4",
         "Destination_fr": "Mer des noyades 4 (M)",
         "Destination_ja": "M\u3000\u6eba\u6ca1\u6d7704",
-        "Destination_ko": "M\u3000\uc775\ubab0\ud574 04"
+        "Destination_ko": "M\u3000\uc775\ubab0\ud574 04",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "14": {
         "0xID": "E",
@@ -240,7 +396,13 @@
         "Destination_en": "the Central Rimilala Trench",
         "Destination_fr": "Flanc de la fosse de Rimilala (N)",
         "Destination_ja": "N\u3000\u30ea\u30df\u30e9\u30e9\u6d77\u6e9d\u4e2d\u8179",
-        "Destination_ko": "N\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \uc911\ud131"
+        "Destination_ko": "N\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \uc911\ud131",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "15": {
         "0xID": "F",
@@ -249,7 +411,13 @@
         "Destination_en": "the Wreckage of Discovery I",
         "Destination_fr": "\u00c9pave du D\u00e9couverte I (O)",
         "Destination_ja": "O\u3000\u30c7\u30a3\u30b9\u30ab\u30d0\u30ea\u30fc\u53f7\u306e\u6b8b\u9ab8",
-        "Destination_ko": "O\u3000\ubc1c\uacac\ud638 \uc794\ud574"
+        "Destination_ko": "O\u3000\ubc1c\uacac\ud638 \uc794\ud574",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "16": {
         "0xID": "10",
@@ -258,7 +426,13 @@
         "Destination_en": "Komura",
         "Destination_fr": "\u00cele verdoyante (P)",
         "Destination_ja": "P\u3000\u6728\u53e2\u5cf6",
-        "Destination_ko": "P\u3000\ub364\ubd88 \uc12c"
+        "Destination_ko": "P\u3000\ub364\ubd88 \uc12c",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "17": {
         "0xID": "11",
@@ -267,7 +441,13 @@
         "Destination_en": "Kanayama",
         "Destination_fr": "\u00cele aux monts m\u00e9tallif\u00e8re (Q)",
         "Destination_ja": "Q\u3000\u91d1\u5c71\u5cf6",
-        "Destination_ko": "Q\u3000\uae08\uc0b0\ub3c4"
+        "Destination_ko": "Q\u3000\uae08\uc0b0\ub3c4",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "18": {
         "0xID": "12",
@@ -276,7 +456,13 @@
         "Destination_en": "concealed bay",
         "Destination_fr": "Repaire de l'armada (R)",
         "Destination_ja": "R\u3000\u6c34\u5e2b\u306e\u96a0\u3057\u6e2f",
-        "Destination_ko": "R\u3000\ud574\uad70\uc758 \ube44\ubc00 \ud56d\uad6c"
+        "Destination_ko": "R\u3000\ud574\uad70\uc758 \ube44\ubc00 \ud56d\uad6c",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "19": {
         "0xID": "13",
@@ -285,7 +471,13 @@
         "Destination_en": "deep-sea site 5",
         "Destination_fr": "Mer des noyades 5 (S)",
         "Destination_ja": "S\u3000\u6eba\u6ca1\u6d7705",
-        "Destination_ko": "S\u3000\uc775\ubab0\ud574 05"
+        "Destination_ko": "S\u3000\uc775\ubab0\ud574 05",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "2": {
         "0xID": "2",
@@ -294,7 +486,13 @@
         "Destination_en": "deep-sea site 1",
         "Destination_fr": "Mer des noyades 1 (B)",
         "Destination_ja": "B\u3000\u6eba\u6ca1\u6d7701",
-        "Destination_ko": "B\u3000\uc775\ubab0\ud574 01"
+        "Destination_ko": "B\u3000\uc775\ubab0\ud574 01",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "20": {
         "0xID": "14",
@@ -303,7 +501,13 @@
         "Destination_en": "Purgatory",
         "Destination_fr": "\u00cele du purgatoire (T)",
         "Destination_ja": "T\u3000\u7149\u7344\u5cf6",
-        "Destination_ko": "T\u3000\uc5f0\uc625\ub3c4"
+        "Destination_ko": "T\u3000\uc5f0\uc625\ub3c4",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "21": {
         "0xID": "15",
@@ -312,7 +516,13 @@
         "Destination_en": "deep-sea site 6",
         "Destination_fr": "Mer des noyades 6 (U)",
         "Destination_ja": "U\u3000\u6eba\u6ca1\u6d7706",
-        "Destination_ko": "U\u3000\uc775\ubab0\ud574 06"
+        "Destination_ko": "U\u3000\uc775\ubab0\ud574 06",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "22": {
         "0xID": "16",
@@ -321,7 +531,13 @@
         "Destination_en": "the Rimilala Shelf",
         "Destination_fr": "Large talus de la fosse de Rimilala (V)",
         "Destination_ja": "V\u3000\u30ea\u30df\u30e9\u30e9\u6d77\u6e9d\u5927\u50be\u659c",
-        "Destination_ko": "V\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \uae09\uacbd\uc0ac\uba74"
+        "Destination_ko": "V\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \uae09\uacbd\uc0ac\uba74",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "23": {
         "0xID": "17",
@@ -330,7 +546,13 @@
         "Destination_en": "deep-sea site 7",
         "Destination_fr": "Mer des noyades 7 (W)",
         "Destination_ja": "W\u3000\u6eba\u6ca1\u6d7707",
-        "Destination_ko": "W\u3000\uc775\ubab0\ud574 07"
+        "Destination_ko": "W\u3000\uc775\ubab0\ud574 07",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "24": {
         "0xID": "18",
@@ -339,7 +561,13 @@
         "Destination_en": "Glittersand Basin",
         "Destination_fr": "Bassin des sables scintillants (X)",
         "Destination_ja": "X\u3000\u8f1d\u7802\u306e\u6d77\u76c6",
-        "Destination_ko": "X\u3000\ube5b\ubaa8\ub798 \ud574\ubd84"
+        "Destination_ko": "X\u3000\ube5b\ubaa8\ub798 \ud574\ubd84",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "25": {
         "0xID": "19",
@@ -348,7 +576,13 @@
         "Destination_en": "Flickering Dip",
         "Destination_fr": "Vall\u00e9e \u00e9cumeuse du cr\u00e9puscule (Y)",
         "Destination_ja": "Y\u3000\u6b8b\u7167\u306e\u767d\u8c37",
-        "Destination_ko": "Y\u3000\uc800\ub141\ub180 \uc5f4\uace1"
+        "Destination_ko": "Y\u3000\uc800\ub141\ub180 \uc5f4\uace1",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "26": {
         "0xID": "1A",
@@ -357,7 +591,13 @@
         "Destination_en": "the Wreckage of the Headway",
         "Destination_fr": "\u00c9pave de L'Avanc\u00e9e (Z)",
         "Destination_ja": "Z\u3000\u30d8\u30c3\u30c9\u30a6\u30a7\u30a4\u53f7\u306e\u6b8b\u9ab8",
-        "Destination_ko": "Z\u3000\uc804\uc9c4\ud638 \uc794\ud574"
+        "Destination_ko": "Z\u3000\uc804\uc9c4\ud638 \uc794\ud574",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "27": {
         "0xID": "1B",
@@ -366,7 +606,13 @@
         "Destination_en": "the Upwell",
         "Destination_fr": "Zone des contre-courants (AA)",
         "Destination_ja": "AA\u3000\u5909\u7406\u306e\u6d77\u57df",
-        "Destination_ko": "AA\u3000\uc6a9\uc2b9\ud558\ub294 \ud574\uc5ed"
+        "Destination_ko": "AA\u3000\uc6a9\uc2b9\ud558\ub294 \ud574\uc5ed",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "28": {
         "0xID": "1C",
@@ -375,7 +621,13 @@
         "Destination_en": "the Rimilala Trench Bottom",
         "Destination_fr": "Fin fond de la fosse de Rimilala (AB)",
         "Destination_ja": "AB\u3000\u30ea\u30df\u30e9\u30e9\u6d77\u6e9d\u6700\u6df1\u90e8",
-        "Destination_ko": "AB\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \ucd5c\uc2ec\ubd80"
+        "Destination_ko": "AB\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \ucd5c\uc2ec\ubd80",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "29": {
         "0xID": "1D",
@@ -384,7 +636,13 @@
         "Destination_en": "stone temple",
         "Destination_fr": "Ruines du temple de pierre (AC)",
         "Destination_ja": "AC\u3000\u77f3\u9020\u5bfa\u9662\u8de1",
-        "Destination_ko": "AC\u3000\uc11d\uc870 \uc0ac\uc6d0\ud130"
+        "Destination_ko": "AC\u3000\uc11d\uc870 \uc0ac\uc6d0\ud130",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "3": {
         "0xID": "3",
@@ -393,7 +651,13 @@
         "Destination_en": "deep-sea site 2",
         "Destination_fr": "Mer des noyades 2 (C)",
         "Destination_ja": "C\u3000\u6eba\u6ca1\u6d7702",
-        "Destination_ko": "C\u3000\uc775\ubab0\ud574 02"
+        "Destination_ko": "C\u3000\uc775\ubab0\ud574 02",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "30": {
         "0xID": "1E",
@@ -402,7 +666,13 @@
         "Destination_en": "sunken vault",
         "Destination_fr": "Ancien \u00e9crin (AD)",
         "Destination_ja": "AD\u3000\u53e4\u306e\u5b9d\u7269\u5eab",
-        "Destination_ko": "AD\u3000\uc61b \ubcf4\ubb3c\uace0"
+        "Destination_ko": "AD\u3000\uc61b \ubcf4\ubb3c\uace0",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "31": {
         "0xID": "1F",
@@ -411,7 +681,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "32": {
         "0xID": "20",
@@ -420,7 +696,13 @@
         "Destination_en": "South Isle of Zozonan",
         "Destination_fr": "Rive sud de l'\u00cele Zozonan (A)",
         "Destination_ja": "A\u3000\u30be\u30fc\u30be\u30fc\u30ca\u30f3\u5cf6\u5357\u7aef",
-        "Destination_ko": "A\u3000\uc870\uc870\ub09c \uc12c \ub0a8\ub2e8"
+        "Destination_ko": "A\u3000\uc870\uc870\ub09c \uc12c \ub0a8\ub2e8",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "33": {
         "0xID": "21",
@@ -429,7 +711,13 @@
         "Destination_en": "Wreckage of the Windwalker",
         "Destination_fr": "\u00c9pave du Marche-Vent (B)",
         "Destination_ja": "B\u3000\u30a6\u30a3\u30f3\u30c9\u30fb\u30a6\u30a9\u30fc\u30ab\u30fc\u306e\u6b8b\u9ab8",
-        "Destination_ko": "B\u3000\ud48d\uc6b4\ud638 \uc794\ud574"
+        "Destination_ko": "B\u3000\ud48d\uc6b4\ud638 \uc794\ud574",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "34": {
         "0xID": "22",
@@ -438,7 +726,13 @@
         "Destination_en": "North Isle of Zozonan",
         "Destination_fr": "Rive nord de l'\u00cele Zozonan (C)",
         "Destination_ja": "C\u3000\u30be\u30fc\u30be\u30fc\u30ca\u30f3\u5cf6\u5317\u7aef",
-        "Destination_ko": "C\u3000\uc870\uc870\ub09c \uc12c \ubd81\ub2e8"
+        "Destination_ko": "C\u3000\uc870\uc870\ub09c \uc12c \ubd81\ub2e8",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "35": {
         "0xID": "23",
@@ -447,7 +741,13 @@
         "Destination_en": "Sea of Ash 1",
         "Destination_fr": "Mer de Cendre 1 (D)",
         "Destination_ja": "D\u3000\u7070\u6d7701",
-        "Destination_ko": "D\u3000\uc7bf\ube5b \ubc14\ub2e4 01"
+        "Destination_ko": "D\u3000\uc7bf\ube5b \ubc14\ub2e4 01",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "36": {
         "0xID": "24",
@@ -456,7 +756,13 @@
         "Destination_en": "the Southern Charnel Trench",
         "Destination_fr": "Sud de la Fosse cr\u00e9matoire (E)",
         "Destination_ja": "E\u3000\u706b\u846c\u7089\u6d77\u6e9d\u5357\u7aef",
-        "Destination_ko": "E\u3000\ud654\uc7a5\ub85c \ud574\uad6c \ub0a8\ub2e8"
+        "Destination_ko": "E\u3000\ud654\uc7a5\ub85c \ud574\uad6c \ub0a8\ub2e8",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "37": {
         "0xID": "25",
@@ -465,7 +771,13 @@
         "Destination_en": "Sea of Ash 2",
         "Destination_fr": "Mer de Cendre 2 (F)",
         "Destination_ja": "F\u3000\u7070\u6d7702",
-        "Destination_ko": "F\u3000\uc7bf\ube5b \ubc14\ub2e4 02"
+        "Destination_ko": "F\u3000\uc7bf\ube5b \ubc14\ub2e4 02",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "38": {
         "0xID": "26",
@@ -474,7 +786,13 @@
         "Destination_en": "Sea of Ash 3",
         "Destination_fr": "Mer de Cendre 3 (G)",
         "Destination_ja": "G\u3000\u7070\u6d7703",
-        "Destination_ko": "G\u3000\uc7bf\ube5b \ubc14\ub2e4 03"
+        "Destination_ko": "G\u3000\uc7bf\ube5b \ubc14\ub2e4 03",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "39": {
         "0xID": "27",
@@ -483,7 +801,13 @@
         "Destination_en": "Ascetic's Demise",
         "Destination_fr": "Crypte des Asc\u00e8tes (H)",
         "Destination_ja": "H\u3000\u4fee\u9053\u58eb\u305f\u3061\u306e\u5893\u6a19",
-        "Destination_ko": "H\u3000\uc218\ub3c4\uc0ac\ub4e4\uc758 \ubb18\ube44"
+        "Destination_ko": "H\u3000\uc218\ub3c4\uc0ac\ub4e4\uc758 \ubb18\ube44",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "4": {
         "0xID": "4",
@@ -492,7 +816,13 @@
         "Destination_en": "the Lightless Basin",
         "Destination_fr": "Bassin sans lumi\u00e8re (D)",
         "Destination_ja": "D\u3000\u9ed2\u306e\u6d77\u76c6",
-        "Destination_ko": "D\u3000\uac80\uc740 \ud574\ubd84"
+        "Destination_ko": "D\u3000\uac80\uc740 \ud574\ubd84",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "40": {
         "0xID": "28",
@@ -501,7 +831,13 @@
         "Destination_en": "the Central Charnel Trench",
         "Destination_fr": "Flanc de la Fosse cr\u00e9matoire (I)",
         "Destination_ja": "I\u3000 \u706b\u846c\u7089\u6d77\u6e9d\u4e2d\u8179",
-        "Destination_ko": "I\u3000 \ud654\uc7a5\ub85c \ud574\uad6c \uc911\ud131"
+        "Destination_ko": "I\u3000 \ud654\uc7a5\ub85c \ud574\uad6c \uc911\ud131",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "41": {
         "0xID": "29",
@@ -510,7 +846,13 @@
         "Destination_en": "the Catacombs of the Father",
         "Destination_fr": "Grotte du R\u00e9v\u00e9rend (J)",
         "Destination_ja": "J\u3000\u795e\u7236\u306e\u5ca9\u7a9f",
-        "Destination_ko": "J\u3000\uc2e0\ubd80\uc758 \ubc14\uc704\uad74"
+        "Destination_ko": "J\u3000\uc2e0\ubd80\uc758 \ubc14\uc704\uad74",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "42": {
         "0xID": "2A",
@@ -519,7 +861,13 @@
         "Destination_en": "Sea of Ash 4",
         "Destination_fr": "Mer de Cendre 4 (K)",
         "Destination_ja": "K\u3000\u7070\u6d7704",
-        "Destination_ko": "K\u3000\uc7bf\ube5b \ubc14\ub2e4 04"
+        "Destination_ko": "K\u3000\uc7bf\ube5b \ubc14\ub2e4 04",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "43": {
         "0xID": "2B",
@@ -528,7 +876,13 @@
         "Destination_en": "the Midden Pit",
         "Destination_fr": "Bassin s\u00e9dimentaire (L)",
         "Destination_ja": "L\u3000\u7802\u5229\u306e\u6d77\u76c6",
-        "Destination_ko": "L\u3000\uc790\uac08 \ud574\ubd84"
+        "Destination_ko": "L\u3000\uc790\uac08 \ud574\ubd84",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "44": {
         "0xID": "2C",
@@ -537,7 +891,13 @@
         "Destination_en": "the Lone Glove",
         "Destination_fr": "\u00cele du gant esseul\u00e9 (M)",
         "Destination_ja": "M\u3000\u7247\u5272\u308c\u624b\u888b\u5cf6",
-        "Destination_ko": "M\u3000\uc9dd\uc9dd\uc774 \uc7a5\uac11 \uc12c"
+        "Destination_ko": "M\u3000\uc9dd\uc9dd\uc774 \uc7a5\uac11 \uc12c",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "45": {
         "0xID": "2D",
@@ -546,7 +906,13 @@
         "Destination_en": "Coldtoe Isle",
         "Destination_fr": "\u00cele de la chaussette trou\u00e9e (N)",
         "Destination_ja": "N\u3000\u7a74\u3042\u304d\u9774\u4e0b\u5cf6",
-        "Destination_ko": "N\u3000\uad6c\uba4d\ub09c \ubc11\ucc3d \uc12c"
+        "Destination_ko": "N\u3000\uad6c\uba4d\ub09c \ubc11\ucc3d \uc12c",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "46": {
         "0xID": "2E",
@@ -555,7 +921,13 @@
         "Destination_en": "Smuggler's Knot",
         "Destination_fr": "Repaire des contrebandiers (O)",
         "Destination_ja": "O\u3000\u5bc6\u8f38\u696d\u8005\u306e\u53d6\u5f15\u5834",
-        "Destination_ko": "O\u3000\ubc00\uc218\uc5c5\uc790\uc758 \uac70\ub798\uc18c"
+        "Destination_ko": "O\u3000\ubc00\uc218\uc5c5\uc790\uc758 \uac70\ub798\uc18c",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "47": {
         "0xID": "2F",
@@ -564,7 +936,13 @@
         "Destination_en": "the Open Robe",
         "Destination_fr": "\u00cele de la robe frip\u00e9e (P)",
         "Destination_ja": "P\u3000\u64e6\u308a\u5207\u308c\u30ed\u30fc\u30d6\u5cf6",
-        "Destination_ko": "P\u3000\ud574\uc9c4 \ub85c\ube0c \uc12c"
+        "Destination_ko": "P\u3000\ud574\uc9c4 \ub85c\ube0c \uc12c",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "48": {
         "0xID": "30",
@@ -573,7 +951,13 @@
         "Destination_en": "Nald'thal's Pipe",
         "Destination_fr": "Chemin\u00e9e de Nald'thal (Q)",
         "Destination_ja": "Q\u3000\u30ca\u30eb\u30b6\u30eb\u306e\u7159\u7ba1",
-        "Destination_ko": "Q\u3000\ub0a0\ub2ec\uc758 \ub2f4\ubc43\ub300"
+        "Destination_ko": "Q\u3000\ub0a0\ub2ec\uc758 \ub2f4\ubc43\ub300",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "49": {
         "0xID": "31",
@@ -582,7 +966,13 @@
         "Destination_en": "the Slipped Anchor",
         "Destination_fr": "Mer de Chasse-Ancre (R)",
         "Destination_ja": "R\u3000\u8d70\u9328\u6d77\u57df",
-        "Destination_ko": "R\u3000\ubbf8\ub044\ub7ec\uc9c4 \ub2fb \ud574\uc5ed"
+        "Destination_ko": "R\u3000\ubbf8\ub044\ub7ec\uc9c4 \ub2fb \ud574\uc5ed",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "5": {
         "0xID": "5",
@@ -591,7 +981,13 @@
         "Destination_en": "deep-sea site 3",
         "Destination_fr": "Mer des noyades 3 (E)",
         "Destination_ja": "E\u3000\u6eba\u6ca1\u6d7703",
-        "Destination_ko": "E\u3000\uc775\ubab0\ud574 03"
+        "Destination_ko": "E\u3000\uc775\ubab0\ud574 03",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "50": {
         "0xID": "32",
@@ -600,7 +996,13 @@
         "Destination_en": "Glutton's Belly",
         "Destination_fr": "Estomac goulu (S)",
         "Destination_ja": "S\u3000\u5f37\u6b32\u306e\u80c3\u888b",
-        "Destination_ko": "S\u3000\ud0d0\uc695\uc2a4\ub7ec\uc6b4 \uc704\uc7a5"
+        "Destination_ko": "S\u3000\ud0d0\uc695\uc2a4\ub7ec\uc6b4 \uc704\uc7a5",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "51": {
         "0xID": "33",
@@ -609,7 +1011,13 @@
         "Destination_en": "the Blue Hole",
         "Destination_fr": "Trou bleu (T)",
         "Destination_ja": "T\u3000\u30d6\u30eb\u30fc\u30db\u30fc\u30eb",
-        "Destination_ko": "T\u3000\ud478\ub978 \uad6c\uba4d"
+        "Destination_ko": "T\u3000\ud478\ub978 \uad6c\uba4d",
+        "Map_cn": "2",
+        "Map_de": "Verbranntes Meer",
+        "Map_en": "Sea of Ash",
+        "Map_fr": "Mer de Cendre",
+        "Map_ja": "\u7070\u6d77",
+        "Map_ko": "2"
     },
     "52": {
         "0xID": "34",
@@ -618,7 +1026,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "53": {
         "0xID": "35",
@@ -627,7 +1041,13 @@
         "Destination_en": "the Isle of Sacrament",
         "Destination_fr": "\u00cele du Sacrement (A)",
         "Destination_ja": "A\u3000\u796d\u58c7\u5cf6",
-        "Destination_ko": "A\u3000\uc81c\ub2e8\uc12c"
+        "Destination_ko": "A\u3000\uc81c\ub2e8\uc12c",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "54": {
         "0xID": "36",
@@ -636,7 +1056,13 @@
         "Destination_en": "the Kraken's Tomb",
         "Destination_fr": "Tombe du Kraken (B)",
         "Destination_ja": "B\u3000\u86f8\u58fa\u5165\u6c5f",
-        "Destination_ko": "B\u3000\ubb38\uc5b4\ub2e8\uc9c0 \uc548\uace1"
+        "Destination_ko": "B\u3000\ubb38\uc5b4\ub2e8\uc9c0 \uc548\uace1",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "55": {
         "0xID": "37",
@@ -645,7 +1071,13 @@
         "Destination_en": "Sea of Jade 1",
         "Destination_fr": "Mer de Jade 1 (C)",
         "Destination_ja": "C\u3000\u7fe0\u6d6a\u6d7701",
-        "Destination_ko": "C\u3000\ube44\ucde8 \ubc14\ub2e4 01"
+        "Destination_ko": "C\u3000\ube44\ucde8 \ubc14\ub2e4 01",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "56": {
         "0xID": "38",
@@ -654,7 +1086,13 @@
         "Destination_en": "Rogo-Tumu-Here's Haunt",
         "Destination_fr": "Chasse de Rogo-Tumu-Here (D)",
         "Destination_ja": "D\u3000\u30ed\u30b4\u30c8\u30a5\u30e0\u30d8\u30ec\u306e\u72e9\u5834",
-        "Destination_ko": "D\u3000\ub85c\uace0\ud22c\ubb34\ud5e4\ub808\uc758 \uc0ac\ub0e5\ud130"
+        "Destination_ko": "D\u3000\ub85c\uace0\ud22c\ubb34\ud5e4\ub808\uc758 \uc0ac\ub0e5\ud130",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "57": {
         "0xID": "39",
@@ -663,7 +1101,13 @@
         "Destination_en": "the Stone Barbs",
         "Destination_fr": "Ventouse de pierre (E)",
         "Destination_ja": "E\u3000\u5438\u76e4\u7901",
-        "Destination_ko": "E\u3000\ud761\ubc18\ucd08"
+        "Destination_ko": "E\u3000\ud761\ubc18\ucd08",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "58": {
         "0xID": "3A",
@@ -672,7 +1116,13 @@
         "Destination_en": "Rogo-Tumu-Here's Repose",
         "Destination_fr": "Repos de Rogo-Tumu-Here (F)",
         "Destination_ja": "F\u3000\u30ed\u30b4\u30c8\u30a5\u30e0\u30d8\u30ec\u306e\u5bdd\u8535",
-        "Destination_ko": "F\u3000\ub85c\uace0\ud22c\ubb34\ud5e4\ub808\uc758 \uce68\uc18c"
+        "Destination_ko": "F\u3000\ub85c\uace0\ud22c\ubb34\ud5e4\ub808\uc758 \uce68\uc18c",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "59": {
         "0xID": "3B",
@@ -681,7 +1131,13 @@
         "Destination_en": "Tangaroa's Prow",
         "Destination_fr": "Hame\u00e7on de Tangaroa (G)",
         "Destination_ja": "G\u3000\u30bf\u30ca\u30ed\u30a2\u306e\u91e3\u91dd",
-        "Destination_ko": "G\u3000\ud0c0\ub098\ub85c\uc544\uc758 \ub09a\uc2ef\ubc14\ub298"
+        "Destination_ko": "G\u3000\ud0c0\ub098\ub85c\uc544\uc758 \ub09a\uc2ef\ubc14\ub298",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "6": {
         "0xID": "6",
@@ -690,7 +1146,13 @@
         "Destination_en": "the Southern Rimilala Trench",
         "Destination_fr": "Sud de la fosse de Rimilala (F)",
         "Destination_ja": "F\u3000\u30ea\u30df\u30e9\u30e9\u6d77\u6e9d\u5357\u7aef",
-        "Destination_ko": "F\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \ub0a8\ub2e8"
+        "Destination_ko": "F\u3000\ub9ac\ubbf8\ub77c\ub77c \ud574\uad6c \ub0a8\ub2e8",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "60": {
         "0xID": "3C",
@@ -699,7 +1161,13 @@
         "Destination_en": "Sea of Jade 2",
         "Destination_fr": "Mer de Jade 2 (H)",
         "Destination_ja": "H\u3000\u7fe0\u6d6a\u6d7702",
-        "Destination_ko": "H\u3000\ube44\ucde8 \ubc14\ub2e4 02"
+        "Destination_ko": "H\u3000\ube44\ucde8 \ubc14\ub2e4 02",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "61": {
         "0xID": "3D",
@@ -708,7 +1176,13 @@
         "Destination_en": "the Blind Sound",
         "Destination_fr": "Fjord aveugle (I)",
         "Destination_ja": "I\u3000\u76ee\u96a0\u3057\u5ce1\u6c5f",
-        "Destination_ko": "I\u3000\ub208\uac00\ub9bc \ud611\ub9cc"
+        "Destination_ko": "I\u3000\ub208\uac00\ub9bc \ud611\ub9cc",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "62": {
         "0xID": "3E",
@@ -717,7 +1191,13 @@
         "Destination_en": "Sea of Jade 3",
         "Destination_fr": "Mer de Jade 3 (J)",
         "Destination_ja": "J\u3000\u7fe0\u6d6a\u6d7703",
-        "Destination_ko": "J\u3000\ube44\ucde8 \ubc14\ub2e4 03"
+        "Destination_ko": "J\u3000\ube44\ucde8 \ubc14\ub2e4 03",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "63": {
         "0xID": "3F",
@@ -726,7 +1206,13 @@
         "Destination_en": "Moergynn's Forge",
         "Destination_fr": "Forge de Moergynn (K)",
         "Destination_ja": "K\u3000\u30e0\u30fc\u30eb\u30ae\u30f3\u306e\u935b\u51b6\u5834",
-        "Destination_ko": "K\u3000\ubafc\ub974\uae34\uc758 \ub300\uc7a5\uac04"
+        "Destination_ko": "K\u3000\ubafc\ub974\uae34\uc758 \ub300\uc7a5\uac04",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "64": {
         "0xID": "40",
@@ -735,7 +1221,13 @@
         "Destination_en": "Tangaroa's Beacon",
         "Destination_fr": "Fanal de Tangaroa (L)",
         "Destination_ja": "L\u3000\u30bf\u30ca\u30ed\u30a2\u306e\u6d6e\u6a19",
-        "Destination_ko": "L\u3000\ud0c0\ub098\ub85c\uc544\uc758 \ubd80\ud45c"
+        "Destination_ko": "L\u3000\ud0c0\ub098\ub85c\uc544\uc758 \ubd80\ud45c",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "65": {
         "0xID": "41",
@@ -744,7 +1236,13 @@
         "Destination_en": "Sea of Jade 4",
         "Destination_fr": "Mer de Jade 4 (M)",
         "Destination_ja": "M\u3000\u7fe0\u6d6a\u6d7704",
-        "Destination_ko": "M\u3000\ube44\ucde8 \ubc14\ub2e4 04"
+        "Destination_ko": "M\u3000\ube44\ucde8 \ubc14\ub2e4 04",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "66": {
         "0xID": "42",
@@ -753,7 +1251,13 @@
         "Destination_en": "the Forest of Kelp",
         "Destination_fr": "For\u00eat d'algues (N)",
         "Destination_ja": "N\u3000\u6d77\u85fb\u6a39\u6797",
-        "Destination_ko": "N\u3000\ud574\uc870\uc218\ub9bc"
+        "Destination_ko": "N\u3000\ud574\uc870\uc218\ub9bc",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "67": {
         "0xID": "43",
@@ -762,7 +1266,13 @@
         "Destination_en": "Sea of Jade 5",
         "Destination_fr": "Mer de Jade 5 (O)",
         "Destination_ja": "O\u3000\u7fe0\u6d6a\u6d7705",
-        "Destination_ko": "O\u3000\ube44\ucde8 \ubc14\ub2e4 05"
+        "Destination_ko": "O\u3000\ube44\ucde8 \ubc14\ub2e4 05",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "68": {
         "0xID": "44",
@@ -771,7 +1281,13 @@
         "Destination_en": "Bladefall Chasm",
         "Destination_fr": "Ab\u00eeme \u00e9mouss\u00e9 (P)",
         "Destination_ja": "P\u3000\u306a\u307e\u304f\u3089\u5207\u5cb8",
-        "Destination_ko": "P\u3000\ubb34\ub518 \uc808\ubcbd"
+        "Destination_ko": "P\u3000\ubb34\ub518 \uc808\ubcbd",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "69": {
         "0xID": "45",
@@ -780,7 +1296,13 @@
         "Destination_en": "Stormport",
         "Destination_fr": "Port-temp\u00eate (Q)",
         "Destination_ja": "Q\u3000\u98a8\u306e\u4f11\u6240",
-        "Destination_ko": "Q\u3000\ubc14\ub78c\uc758 \uc27c\ud130"
+        "Destination_ko": "Q\u3000\ubc14\ub78c\uc758 \uc27c\ud130",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "7": {
         "0xID": "7",
@@ -789,7 +1311,13 @@
         "Destination_en": "the Umbrella Narrow",
         "Destination_fr": "D\u00e9troit du Parapluie (G)",
         "Destination_ja": "G\u3000\u30a2\u30f3\u30d6\u30ec\u30e9\u6d77\u5ce1",
-        "Destination_ko": "G\u3000\uc6b0\uc0b0 \ud574\ud611"
+        "Destination_ko": "G\u3000\uc6b0\uc0b0 \ud574\ud611",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "70": {
         "0xID": "46",
@@ -798,7 +1326,13 @@
         "Destination_en": "Wyrm's Rest",
         "Destination_fr": "Repos du dragon (R)",
         "Destination_ja": "R\u3000\u7adc\u9aa8\u6e9c\u307e\u308a",
-        "Destination_ko": "R\u3000\uc6a9\ubf08\ubb34\ub364"
+        "Destination_ko": "R\u3000\uc6a9\ubf08\ubb34\ub364",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "71": {
         "0xID": "47",
@@ -807,7 +1341,13 @@
         "Destination_en": "Sea of Jade 6",
         "Destination_fr": "Mer de Jade 6 (S)",
         "Destination_ja": "S\u3000\u7fe0\u6d6a\u6d7706",
-        "Destination_ko": "S\u3000\ube44\ucde8 \ubc14\ub2e4 06"
+        "Destination_ko": "S\u3000\ube44\ucde8 \ubc14\ub2e4 06",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "72": {
         "0xID": "48",
@@ -816,7 +1356,13 @@
         "Destination_en": "the Devil's Crypt",
         "Destination_fr": "Crypte du diable (T)",
         "Destination_ja": "T\u3000\u6d77\u7363\u306e\u970a\u5712",
-        "Destination_ko": "T\u3000\ubc14\ub2e4\uc9d0\uc2b9 \ubb18\uc9c0"
+        "Destination_ko": "T\u3000\ubc14\ub2e4\uc9d0\uc2b9 \ubb18\uc9c0",
+        "Map_cn": "3",
+        "Map_de": "Jademeer",
+        "Map_en": "Sea of Jade",
+        "Map_fr": "Mer de Jade",
+        "Map_ja": "\u7fe0\u6d6a\u6d77",
+        "Map_ko": "3"
     },
     "73": {
         "0xID": "49",
@@ -825,7 +1371,13 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "74": {
         "0xID": "4A",
@@ -834,7 +1386,13 @@
         "Destination_en": "Mastbound's Bounty",
         "Destination_fr": "Bassin de c\u00e9rumen (A)",
         "Destination_ja": "A\u3000\u8033\u874b\u6f01\u5834",
-        "Destination_ko": "A\u3000\uadc0\ub9c8\uac1c \uc5b4\uc7a5"
+        "Destination_ko": "A\u3000\uadc0\ub9c8\uac1c \uc5b4\uc7a5",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "75": {
         "0xID": "4B",
@@ -843,7 +1401,13 @@
         "Destination_en": "Sirensong Sea 1",
         "Destination_fr": "Mer du Chant des sir\u00e8nes 1 (B)",
         "Destination_ja": "B\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7701",
-        "Destination_ko": "B\u3000\uc138\uc774\ub80c \ud574 01"
+        "Destination_ko": "B\u3000\uc138\uc774\ub80c \ud574 01",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "76": {
         "0xID": "4C",
@@ -852,7 +1416,13 @@
         "Destination_en": "Sirensong Sea 2",
         "Destination_fr": "Mer du Chant des sir\u00e8nes 2 (C)",
         "Destination_ja": "C\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7702",
-        "Destination_ko": "C\u3000\uc138\uc774\ub80c \ud574 02"
+        "Destination_ko": "C\u3000\uc138\uc774\ub80c \ud574 02",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "77": {
         "0xID": "4D",
@@ -861,7 +1431,13 @@
         "Destination_en": "Anthemoessa",
         "Destination_fr": "\u00cele d'Anth\u00e9muse (D)",
         "Destination_ja": "D\u3000\u30a2\u30f3\u30c6\u30e2\u30a8\u30c3\u30b5\u5cf6",
-        "Destination_ko": "D\u3000\uc548\ud14c\ubaa8\uc5d0\uc0ac \uc12c"
+        "Destination_ko": "D\u3000\uc548\ud14c\ubaa8\uc5d0\uc0ac \uc12c",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "78": {
         "0xID": "4E",
@@ -870,7 +1446,13 @@
         "Destination_en": "Magos Trench",
         "Destination_fr": "Bouche du d\u00e9mon des mers (E)",
         "Destination_ja": "E\u3000\u6d77\u9b54\u306e\u53e3",
-        "Destination_ko": "E\u3000\ubc14\ub2e4\ub9c8\ubb3c\uc758 \uc785"
+        "Destination_ko": "E\u3000\ubc14\ub2e4\ub9c8\ubb3c\uc758 \uc785",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "79": {
         "0xID": "4F",
@@ -879,7 +1461,13 @@
         "Destination_en": "Thrall's Unrest",
         "Destination_fr": "Pertuis des naufrages (F)",
         "Destination_ja": "F\u3000\u6f02\u6d41\u6d77\u57df",
-        "Destination_ko": "F\u3000\ud45c\ub958 \ud574\uc5ed"
+        "Destination_ko": "F\u3000\ud45c\ub958 \ud574\uc5ed",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "8": {
         "0xID": "8",
@@ -888,7 +1476,13 @@
         "Destination_en": "Offender's Rot",
         "Destination_fr": "Trou de l'Agresseur (H)",
         "Destination_ja": "H\u3000\u865c\u56da\u5cf6",
-        "Destination_ko": "H\u3000\ud3ec\ub85c\uc12c"
+        "Destination_ko": "H\u3000\ud3ec\ub85c\uc12c",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "80": {
         "0xID": "50",
@@ -897,7 +1491,13 @@
         "Destination_en": "Crow's Drop",
         "Destination_fr": "R\u00e9cif de la mort (G)",
         "Destination_ja": "G\u3000\u544a\u6b7b\u7901",
-        "Destination_ko": "G\u3000\uc8fd\uc74c\uc774 \ub0b4\ub9ac\ub294 \uc554\ucd08"
+        "Destination_ko": "G\u3000\uc8fd\uc74c\uc774 \ub0b4\ub9ac\ub294 \uc554\ucd08",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "81": {
         "0xID": "51",
@@ -906,7 +1506,13 @@
         "Destination_en": "Sirensong Sea 3",
         "Destination_fr": "Mer du Chant des sir\u00e8nes 3 (H)",
         "Destination_ja": "H\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7703",
-        "Destination_ko": "H\u3000\uc138\uc774\ub80c \ud574 03"
+        "Destination_ko": "H\u3000\uc138\uc774\ub80c \ud574 03",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "82": {
         "0xID": "52",
@@ -915,7 +1521,13 @@
         "Destination_en": "the Anthemoessa Undertow",
         "Destination_fr": "Courant sous-marin d'Anth\u00e9muse (I)",
         "Destination_ja": "I\u3000\u30a2\u30f3\u30c6\u30e2\u30a8\u30c3\u30b5\u6d77\u5eca",
-        "Destination_ko": "I\u3000\uc548\ud14c\ubaa8\uc5d0\uc0ac \uc554\ub958"
+        "Destination_ko": "I\u3000\uc548\ud14c\ubaa8\uc5d0\uc0ac \uc554\ub958",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "83": {
         "0xID": "53",
@@ -924,7 +1536,13 @@
         "Destination_en": "Sirensong Sea 4",
         "Destination_fr": "Mer du Chant des sir\u00e8nes 4 (J)",
         "Destination_ja": "J\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7704",
-        "Destination_ko": "J\u3000\uc138\uc774\ub80c \ud574 04"
+        "Destination_ko": "J\u3000\uc138\uc774\ub80c \ud574 04",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "84": {
         "0xID": "54",
@@ -933,7 +1551,13 @@
         "Destination_en": "Seafoam Tide",
         "Destination_fr": "D\u00e9troit aux tourbillons (K)",
         "Destination_ja": "K\u3000\u6e26\u7d0b\u6d77\u5ce1",
-        "Destination_ko": "K\u3000\uc18c\uc6a9\ub3cc\uc774 \ud574\ud611"
+        "Destination_ko": "K\u3000\uc18c\uc6a9\ub3cc\uc774 \ud574\ud611",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "85": {
         "0xID": "55",
@@ -942,7 +1566,13 @@
         "Destination_en": "the Beak",
         "Destination_fr": "Baie du Bec (L)",
         "Destination_ja": "L\u3000\u9ce5\u5634\u6e7e",
-        "Destination_ko": "L\u3000\uc0c8\ubd80\ub9ac \ub9cc"
+        "Destination_ko": "L\u3000\uc0c8\ubd80\ub9ac \ub9cc",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "86": {
         "0xID": "56",
@@ -951,7 +1581,13 @@
         "Destination_en": "Seafarer's End",
         "Destination_fr": "Ge\u00f4le du d\u00e9mon des mers (M)",
         "Destination_ja": "M\u3000\u6d77\u9b54\u306e\u7262\u7344",
-        "Destination_ko": "M\u3000\ubc14\ub2e4\ub9c8\ubb3c \uac10\uc625"
+        "Destination_ko": "M\u3000\ubc14\ub2e4\ub9c8\ubb3c \uac10\uc625",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "4"
     },
     "87": {
         "0xID": "57",
@@ -960,7 +1596,13 @@
         "Destination_en": "Drifter's Decay",
         "Destination_fr": "Atoll des exil\u00e9s (N)",
         "Destination_ja": "N\u3000\u653e\u68c4\u3055\u308c\u305f\u6d41\u5211\u5cf6",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "0"
     },
     "88": {
         "0xID": "58",
@@ -969,7 +1611,13 @@
         "Destination_en": "Lugat's Landing",
         "Destination_fr": "Plage de Lugat (O)",
         "Destination_ja": "O\u3000\u30eb\u30ac\u30c8\u306e\u6d5c",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "0"
     },
     "89": {
         "0xID": "59",
@@ -978,7 +1626,13 @@
         "Destination_en": "the Frozen Spring",
         "Destination_fr": "Source givr\u00e9e (P)",
         "Destination_ja": "P\u3000\u7a4d\u6c37\u6cc9",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "0"
     },
     "9": {
         "0xID": "9",
@@ -987,7 +1641,13 @@
         "Destination_en": "Neolith Island",
         "Destination_fr": "\u00cele des N\u00e9olithes (I)",
         "Destination_ja": "I\u3000\u77f3\u4eba\u5cf6",
-        "Destination_ko": "I\u3000\uc11d\uc778\ub3c4"
+        "Destination_ko": "I\u3000\uc11d\uc778\ub3c4",
+        "Map_cn": "1",
+        "Map_de": "Tiefsee",
+        "Map_en": "Deep-sea Site",
+        "Map_fr": "Mer des noyades",
+        "Map_ja": "\u6eba\u6ca1\u6d77",
+        "Map_ko": "1"
     },
     "90": {
         "0xID": "5A",
@@ -996,7 +1656,13 @@
         "Destination_en": "Sirensong Sea 5",
         "Destination_fr": "Mer du Chant des sir\u00e8nes 5 (Q)",
         "Destination_ja": "Q\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7705",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "0"
     },
     "91": {
         "0xID": "5B",
@@ -1005,7 +1671,13 @@
         "Destination_en": "Tidewind Isle",
         "Destination_fr": "\u00cele du tumulte (R)",
         "Destination_ja": "R\u3000\u6e26\u7d0b\u5cf6",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "0"
     },
     "92": {
         "0xID": "5C",
@@ -1014,7 +1686,13 @@
         "Destination_en": "Bloodbreak",
         "Destination_fr": "Colline de sang pourpre (S)",
         "Destination_ja": "S\u3000\u8d64\u8840\u6d77\u4e18",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "0"
     },
     "93": {
         "0xID": "5D",
@@ -1023,7 +1701,13 @@
         "Destination_en": "the Crystal Font",
         "Destination_fr": "Source cristalline (T)",
         "Destination_ja": "T\u3000\u6d77\u6676\u6cc9",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "4",
+        "Map_de": "Sirenen-See",
+        "Map_en": "Sirensong Sea",
+        "Map_fr": "Mer du Chant des sir\u00e8nes",
+        "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Map_ko": "0"
     },
     "94": {
         "0xID": "5E",
@@ -1032,51 +1716,87 @@
         "Destination_en": "",
         "Destination_fr": "",
         "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "Das Fliedermeer",
+        "Map_en": "The Lilac Sea",
+        "Map_fr": "Mer de lilas",
+        "Map_ja": "\u7d2b\u7901\u6d77",
+        "Map_ko": "0"
     },
     "95": {
         "0xID": "5F",
         "Destination_cn": "",
-        "Destination_de": "",
-        "Destination_en": "",
-        "Destination_fr": "",
-        "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_de": "Glyzinienschauer (A)",
+        "Destination_en": "Weeping Trellis",
+        "Destination_fr": "Arche de glycines aguichantes (A)",
+        "Destination_ja": "A\u3000\u8a98\u3046\u85e4\u68da",
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "Das Fliedermeer",
+        "Map_en": "The Lilac Sea",
+        "Map_fr": "Mer de lilas",
+        "Map_ja": "\u7d2b\u7901\u6d77",
+        "Map_ko": "0"
     },
     "96": {
         "0xID": "60",
         "Destination_cn": "",
-        "Destination_de": "",
-        "Destination_en": "",
-        "Destination_fr": "",
-        "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_de": "Gebleichte Insel (B)",
+        "Destination_en": "the Forsaken Isle",
+        "Destination_fr": "\u00cele blanchie (B)",
+        "Destination_ja": "B\u3000\u767d\u5316\u3057\u305f\u5cf6",
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "Das Fliedermeer",
+        "Map_en": "The Lilac Sea",
+        "Map_fr": "Mer de lilas",
+        "Map_ja": "\u7d2b\u7901\u6d77",
+        "Map_ko": "0"
     },
     "97": {
         "0xID": "61",
         "Destination_cn": "",
-        "Destination_de": "",
-        "Destination_en": "",
-        "Destination_fr": "",
-        "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_de": "Sandbank der Wanderv\u00f6gel (C)",
+        "Destination_en": "Fortune's Ford",
+        "Destination_fr": "Haut-fond de l'oiseau vagabond (C)",
+        "Destination_ja": "C\u3000\u6f02\u9ce5\u306e\u6d45\u702c",
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "Das Fliedermeer",
+        "Map_en": "The Lilac Sea",
+        "Map_fr": "Mer de lilas",
+        "Map_ja": "\u7d2b\u7901\u6d77",
+        "Map_ko": "0"
     },
     "98": {
         "0xID": "62",
         "Destination_cn": "",
-        "Destination_de": "",
-        "Destination_en": "",
-        "Destination_fr": "",
-        "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_de": "Fliedermeer 1 (D)",
+        "Destination_en": "the Lilac Sea 1",
+        "Destination_fr": "Mer de lilas 1 (D)",
+        "Destination_ja": "D\u3000\u7d2b\u7901\u6d7701",
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "Das Fliedermeer",
+        "Map_en": "The Lilac Sea",
+        "Map_fr": "Mer de lilas",
+        "Map_ja": "\u7d2b\u7901\u6d77",
+        "Map_ko": "0"
     },
     "99": {
         "0xID": "63",
         "Destination_cn": "",
-        "Destination_de": "",
-        "Destination_en": "",
-        "Destination_fr": "",
-        "Destination_ja": "",
-        "Destination_ko": ""
+        "Destination_de": "Larth (E)",
+        "Destination_en": "Runners' Reach",
+        "Destination_fr": "\u00cele du r\u00e2le (E)",
+        "Destination_ja": "E\u3000\u30e9\u30eb\u30b9\u5cf6",
+        "Destination_ko": "",
+        "Map_cn": "0",
+        "Map_de": "Das Fliedermeer",
+        "Map_en": "The Lilac Sea",
+        "Map_fr": "Mer de lilas",
+        "Map_ja": "\u7d2b\u7901\u6d77",
+        "Map_ko": "0"
     }
 }

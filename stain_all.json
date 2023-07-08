@@ -148,7 +148,7 @@
         "Name_cn": "\u95ea\u8000\u94f6",
         "Name_de": "Metallic Silber",
         "Name_en": "Metallic Silver",
-        "Name_fr": "argent brillant",
+        "Name_fr": "argent",
         "Name_ja": "\u30b7\u30eb\u30d0\u30fc",
         "Name_ko": "\uc740\uc0c9"
     },
@@ -157,7 +157,7 @@
         "Name_cn": "\u95ea\u8000\u91d1",
         "Name_de": "Metallic Gold",
         "Name_en": "Metallic Gold",
-        "Name_fr": "or brillant",
+        "Name_fr": "or",
         "Name_ja": "\u30b4\u30fc\u30eb\u30c9",
         "Name_ko": "\uae08\uc0c9"
     },
@@ -668,7 +668,7 @@
     "57": {
         "0xID": "39",
         "Name_cn": "\u5929\u4e0a\u84dd",
-        "Name_de": "Azurblau",
+        "Name_de": "Mintgr\u00fcn",
         "Name_en": "Celeste Green",
         "Name_fr": "vert c\u00e9leste",
         "Name_ja": "\u30bb\u30ec\u30b9\u30c8\u30b0\u30ea\u30fc\u30f3",

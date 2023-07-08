@@ -32975,6 +32975,42 @@
         "Name_ja": "\u30e9\u30d4\u30b9\u30fb\u30de\u30ca\u30ea\u30b9",
         "Name_ko": ""
     },
+    "4296": {
+        "0xID": "10C8",
+        "Name_cn": "",
+        "Name_de": "Krone der Schatten",
+        "Name_en": "The Voidcast Dais",
+        "Name_fr": "Hypercube de Golbez",
+        "Name_ja": "\u7acb\u65b9\u9b54\u6cd5\u9663",
+        "Name_ko": ""
+    },
+    "4297": {
+        "0xID": "10C9",
+        "Name_cn": "",
+        "Name_de": "Haam",
+        "Name_en": "The Aetherfont",
+        "Name_fr": "\u00cele de Haam",
+        "Name_ja": "\u30cf\u30fc\u30e0\u5cf6",
+        "Name_ko": ""
+    },
+    "4298": {
+        "0xID": "10CA",
+        "Name_cn": "",
+        "Name_de": "Eisscholl-Atoll",
+        "Name_en": "Ice Field",
+        "Name_fr": "Banquise de mer",
+        "Name_ja": "\u6d41\u6c37\u5e2f",
+        "Name_ko": ""
+    },
+    "4299": {
+        "0xID": "10CB",
+        "Name_cn": "",
+        "Name_de": "Haam",
+        "Name_en": "Isle of Haam",
+        "Name_fr": "\u00cele de Haam",
+        "Name_ja": "\u30cf\u30fc\u30e0\u5cf6",
+        "Name_ko": ""
+    },
     "43": {
         "0xID": "2B",
         "Name_cn": "\u4e2d\u8428\u7eb3\u5170",
@@ -32993,6 +33029,96 @@
         "Name_ja": "\u9b54\u5c0e\u57ce\u30d7\u30e9\u30a8\u30c8\u30ea\u30a6\u30e0",
         "Name_ko": "\ub9c8\ub3c4\uc131 \ud504\ub77c\uc774\ud1a0\ub9ac\uc6c0"
     },
+    "4300": {
+        "0xID": "10CC",
+        "Name_cn": "",
+        "Name_de": "Geysirgrund",
+        "Name_en": "The Aetherfont",
+        "Name_fr": "Geysers d'\u00e9ther",
+        "Name_ja": "\u661f\u970a\u9593\u6b20\u6cc9\u7fa4",
+        "Name_ko": ""
+    },
+    "4301": {
+        "0xID": "10CD",
+        "Name_cn": "",
+        "Name_de": "Raureif-Rondell",
+        "Name_en": "Landfast Floe",
+        "Name_fr": "Cirque glac\u00e9",
+        "Name_ja": "\u6d41\u6c37\u306e\u5186\u5ead",
+        "Name_ko": ""
+    },
+    "4302": {
+        "0xID": "10CE",
+        "Name_cn": "",
+        "Name_de": "Zyanspitze",
+        "Name_en": "Cyancap Cavern",
+        "Name_fr": "Caverne de Cap-cyan",
+        "Name_ja": "\u30b7\u30a2\u30f3\u30ad\u30e3\u30c3\u30d7\u4e2d\u7d99\u5730",
+        "Name_ko": ""
+    },
+    "4303": {
+        "0xID": "10CF",
+        "Name_cn": "",
+        "Name_de": "\u00c4therpfuhl",
+        "Name_en": "The Deep Below",
+        "Name_fr": "Bassin \u00e9th\u00e9r\u00e9",
+        "Name_ja": "\u30a8\u30fc\u30c6\u30ea\u30c3\u30af\u30dd\u30f3\u30c9",
+        "Name_ko": ""
+    },
+    "4304": {
+        "0xID": "10D0",
+        "Name_cn": "",
+        "Name_de": "Eisscholl-Atoll",
+        "Name_en": "Ice Field",
+        "Name_fr": "Banquise de mer",
+        "Name_ja": "\u6d41\u6c37\u5e2f",
+        "Name_ko": ""
+    },
+    "4305": {
+        "0xID": "10D1",
+        "Name_cn": "",
+        "Name_de": "Haam",
+        "Name_en": "Isle of Haam",
+        "Name_fr": "\u00cele de Haam",
+        "Name_ja": "\u30cf\u30fc\u30e0\u5cf6",
+        "Name_ko": ""
+    },
+    "4306": {
+        "0xID": "10D2",
+        "Name_cn": "",
+        "Name_de": "Geysirgrund",
+        "Name_en": "The Aetherfont",
+        "Name_fr": "Geysers d'\u00e9ther",
+        "Name_ja": "\u661f\u970a\u9593\u6b20\u6cc9\u7fa4",
+        "Name_ko": ""
+    },
+    "4307": {
+        "0xID": "10D3",
+        "Name_cn": "",
+        "Name_de": "Halle der Vierzehn Sitze",
+        "Name_en": "The Chamber of Fourteen",
+        "Name_fr": "Pr\u00e9toire des Quatorze",
+        "Name_ja": "\u5341\u56db\u5ea7\u306e\u9593",
+        "Name_ko": ""
+    },
+    "4308": {
+        "0xID": "10D4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4309": {
+        "0xID": "10D5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
     "431": {
         "0xID": "1AF",
         "Name_cn": "\u5e9f\u7269\u5904\u7406\u573a",
@@ -33001,6 +33127,96 @@
         "Name_fr": "D\u00e9p\u00f4t d'ordures",
         "Name_ja": "\u5ec3\u68c4\u7269\u51e6\u5206\u5834",
         "Name_ko": "\ud3d0\uae30\ubb3c \ucc98\ub9ac\uc7a5"
+    },
+    "4310": {
+        "0xID": "10D6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4311": {
+        "0xID": "10D7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4312": {
+        "0xID": "10D8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4313": {
+        "0xID": "10D9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4314": {
+        "0xID": "10DA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4315": {
+        "0xID": "10DB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4316": {
+        "0xID": "10DC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4317": {
+        "0xID": "10DD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4318": {
+        "0xID": "10DE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4319": {
+        "0xID": "10DF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
     },
     "432": {
         "0xID": "1B0",
@@ -33011,6 +33227,96 @@
         "Name_ja": "\u30f4\u30a3\u30a2\u30fb\u30d7\u30ea\u30f3\u30b7\u30d1\u30ea\u30b9",
         "Name_ko": "\uc8fc \uc9c4\uc785\ub85c"
     },
+    "4320": {
+        "0xID": "10E0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4321": {
+        "0xID": "10E1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4322": {
+        "0xID": "10E2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4323": {
+        "0xID": "10E3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4324": {
+        "0xID": "10E4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4325": {
+        "0xID": "10E5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4326": {
+        "0xID": "10E6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4327": {
+        "0xID": "10E7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4328": {
+        "0xID": "10E8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4329": {
+        "0xID": "10E9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
     "433": {
         "0xID": "1B1",
         "Name_cn": "\u7b2c\u4e94\u5c01\u9501\u533a",
@@ -33019,6 +33325,96 @@
         "Name_fr": "Zone V",
         "Name_ja": "\u7b2cV\u9589\u9396\u533a",
         "Name_ko": "\uc81cV\ud3d0\uc1c4\uad6c\uc5ed"
+    },
+    "4330": {
+        "0xID": "10EA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4331": {
+        "0xID": "10EB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4332": {
+        "0xID": "10EC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4333": {
+        "0xID": "10ED",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4334": {
+        "0xID": "10EE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4335": {
+        "0xID": "10EF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4336": {
+        "0xID": "10F0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4337": {
+        "0xID": "10F1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4338": {
+        "0xID": "10F2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4339": {
+        "0xID": "10F3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
     },
     "434": {
         "0xID": "1B2",
@@ -33029,6 +33425,96 @@
         "Name_ja": "\u4e2d\u592e\u4ea4\u5dee\u8def",
         "Name_ko": "\uc911\uc559 \uad50\ucc28\ub85c"
     },
+    "4340": {
+        "0xID": "10F4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4341": {
+        "0xID": "10F5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4342": {
+        "0xID": "10F6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4343": {
+        "0xID": "10F7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4344": {
+        "0xID": "10F8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4345": {
+        "0xID": "10F9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4346": {
+        "0xID": "10FA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4347": {
+        "0xID": "10FB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4348": {
+        "0xID": "10FC",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4349": {
+        "0xID": "10FD",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
     "435": {
         "0xID": "1B3",
         "Name_cn": "\u9b54\u5217\u8f66\u505c\u8f66\u573a",
@@ -33037,6 +33523,96 @@
         "Name_fr": "Gare du train fant\u00f4me",
         "Name_ja": "\u9b54\u5217\u8eca\u505c\u7559\u5834",
         "Name_ko": "\ub9c8\ub3c4\uc5f4\ucc28 \uc815\ub958\uc7a5"
+    },
+    "4350": {
+        "0xID": "10FE",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4351": {
+        "0xID": "10FF",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4352": {
+        "0xID": "1100",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4353": {
+        "0xID": "1101",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4354": {
+        "0xID": "1102",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4355": {
+        "0xID": "1103",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4356": {
+        "0xID": "1104",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4357": {
+        "0xID": "1105",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "4358": {
+        "0xID": "1106",
+        "Name_cn": "",
+        "Name_de": "Sph\u00e4re des Pand\u00e6moniums",
+        "Name_en": "The Aetherial Slough",
+        "Name_fr": "Nappe stagnante",
+        "Name_ja": "\u661f\u6d77\u6ede\u7559\u57df",
+        "Name_ko": ""
+    },
+    "4359": {
+        "0xID": "1107",
+        "Name_cn": "",
+        "Name_de": "Piz Paradiesgrotte",
+        "Name_en": "Mountain Hollow",
+        "Name_fr": "Caverne du pic ac\u00e9r\u00e9",
+        "Name_ja": "\u3068\u3093\u304c\u308a\u5c71\u306e\u6d1e\u7a9f",
+        "Name_ko": ""
     },
     "436": {
         "0xID": "1B4",
@@ -33047,6 +33623,96 @@
         "Name_ja": "\u30a2\u30fc\u30de\u30e1\u30f3\u30bf\u30ea\u30a6\u30e0",
         "Name_ko": "\ubb34\uae30\uace0"
     },
+    "4360": {
+        "0xID": "1108",
+        "Name_cn": "",
+        "Name_de": "Inselparadies",
+        "Name_en": "Surface Terrain",
+        "Name_fr": "Surface",
+        "Name_ja": "\u9678\u4e0a",
+        "Name_ko": ""
+    },
+    "4361": {
+        "0xID": "1109",
+        "Name_cn": "",
+        "Name_de": "H\u00f6hlensystem",
+        "Name_en": "Cave System",
+        "Name_fr": "Cavernes",
+        "Name_ja": "\u6d1e\u7a9f",
+        "Name_ko": ""
+    },
+    "4362": {
+        "0xID": "110A",
+        "Name_cn": "",
+        "Name_de": "D\u00e6monisches Nest",
+        "Name_en": "The D\u00e6mons' Nest",
+        "Name_fr": "Maternit\u00e9 d\u00e9moniaque",
+        "Name_ja": "\u4e07\u9b54\u306e\u7523\u5c4b",
+        "Name_ko": ""
+    },
+    "4363": {
+        "0xID": "110B",
+        "Name_cn": "",
+        "Name_de": "Sirenen-See",
+        "Name_en": "The Sirensong Sea",
+        "Name_fr": "Mer du Chant des sir\u00e8nes",
+        "Name_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
+        "Name_ko": ""
+    },
+    "4364": {
+        "0xID": "110C",
+        "Name_cn": "",
+        "Name_de": "Kugane-Gew\u00e4sser",
+        "Name_en": "Kugane",
+        "Name_fr": "Baie de Kugane",
+        "Name_ja": "\u30af\u30ac\u30cd",
+        "Name_ko": ""
+    },
+    "4365": {
+        "0xID": "110D",
+        "Name_cn": "",
+        "Name_de": "Rubinsee",
+        "Name_en": "The Ruby Sea",
+        "Name_fr": "Mer de Rubis",
+        "Name_ja": "\u7d05\u7389\u6d77",
+        "Name_ko": ""
+    },
+    "4366": {
+        "0xID": "110E",
+        "Name_cn": "",
+        "Name_de": "Einzig",
+        "Name_en": "The One River",
+        "Name_fr": "Muni",
+        "Name_ja": "\u7121\u4e8c\u6c5f",
+        "Name_ko": ""
+    },
+    "4367": {
+        "0xID": "110F",
+        "Name_cn": "",
+        "Name_de": "Sirenen-See - Hochsee",
+        "Name_en": "Open Sirensong Sea",
+        "Name_fr": "Large de la Mer du Chant des sir\u00e8nes",
+        "Name_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77\u6c96\u5408",
+        "Name_ko": ""
+    },
+    "4368": {
+        "0xID": "1110",
+        "Name_cn": "",
+        "Name_de": "Sirenen-See - Phantomstr\u00f6mung",
+        "Name_en": "Sirensong Spectral Current",
+        "Name_fr": "Courant spectral (large de la Mer du Chant des sir\u00e8nes)",
+        "Name_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77\u6c96\u5408\uff1a\u5e7b\u6d77\u6d41",
+        "Name_ko": ""
+    },
+    "4369": {
+        "0xID": "1111",
+        "Name_cn": "",
+        "Name_de": "Kugane-K\u00fcste",
+        "Name_en": "Kugane Coast",
+        "Name_fr": "Large de la baie de Kugane",
+        "Name_ja": "\u30af\u30ac\u30cd\u6c96\u5408",
+        "Name_ko": ""
+    },
     "437": {
         "0xID": "1B5",
         "Name_cn": "\u98de\u7a7a\u8247\u7740\u9646\u573a",
@@ -33056,6 +33722,96 @@
         "Name_ja": "\u98db\u7a7a\u8247\u767a\u7740\u5834",
         "Name_ko": "\ube44\uacf5\uc815 \ubc1c\ucc29\uc7a5"
     },
+    "4370": {
+        "0xID": "1112",
+        "Name_cn": "",
+        "Name_de": "Kugane-K\u00fcste - Phantomstr\u00f6mung",
+        "Name_en": "Kugane Spectral Current",
+        "Name_fr": "Courant spectral (large de la baie de Kugane)",
+        "Name_ja": "\u30af\u30ac\u30cd\u6c96\u5408\uff1a\u5e7b\u6d77\u6d41",
+        "Name_ko": ""
+    },
+    "4371": {
+        "0xID": "1113",
+        "Name_cn": "",
+        "Name_de": "Rubinsee - Hochsee",
+        "Name_en": "Open Ruby Sea",
+        "Name_fr": "Large de la Mer de Rubis",
+        "Name_ja": "\u7d05\u7389\u6d77\u6c96\u5408",
+        "Name_ko": ""
+    },
+    "4372": {
+        "0xID": "1114",
+        "Name_cn": "",
+        "Name_de": "Rubinsee - Phantomstr\u00f6mung",
+        "Name_en": "Ruby Spectral Current",
+        "Name_fr": "Courant spectral (large de la Mer de Rubis)",
+        "Name_ja": "\u7d05\u7389\u6d77\u6c96\u5408\uff1a\u5e7b\u6d77\u6d41",
+        "Name_ko": ""
+    },
+    "4373": {
+        "0xID": "1115",
+        "Name_cn": "",
+        "Name_de": "Einzig (Unterlauf)",
+        "Name_en": "Lower One River",
+        "Name_fr": "Aval de la Muni",
+        "Name_ja": "\u7121\u4e8c\u6c5f\u4e0b\u6d41",
+        "Name_ko": ""
+    },
+    "4374": {
+        "0xID": "1116",
+        "Name_cn": "",
+        "Name_de": "Einzig - Phantomstr\u00f6mung",
+        "Name_en": "One River Spectral Current",
+        "Name_fr": "Courant spectral (aval de la Muni)",
+        "Name_ja": "\u7121\u4e8c\u6c5f\u4e0b\u6d41\uff1a\u5e7b\u6d77\u6d41",
+        "Name_ko": ""
+    },
+    "4375": {
+        "0xID": "1117",
+        "Name_cn": "",
+        "Name_de": "G\u00f6ttlicher Thron",
+        "Name_en": "Ascension",
+        "Name_fr": "Tr\u00f4ne divin",
+        "Name_ja": "\u795e\u306e\u5ea7",
+        "Name_ko": ""
+    },
+    "4376": {
+        "0xID": "1118",
+        "Name_cn": "",
+        "Name_de": "Erschaffene Welt",
+        "Name_en": "Apex of Creation",
+        "Name_fr": "Monde fantasm\u00e9",
+        "Name_ja": "\u5275\u9020\u4e16\u754c",
+        "Name_ko": ""
+    },
+    "4377": {
+        "0xID": "1119",
+        "Name_cn": "",
+        "Name_de": "Arayas Palast",
+        "Name_en": "The Gilded Araya",
+        "Name_fr": "Temple d'Araya",
+        "Name_ja": "\u30a2\u30e9\u30e4\u306e\u5b9d\u5854",
+        "Name_ko": ""
+    },
+    "4378": {
+        "0xID": "111A",
+        "Name_cn": "",
+        "Name_de": "Funkelsteinstollen",
+        "Name_en": "Spriggan's Delight",
+        "Name_fr": "Filon de magilithes",
+        "Name_ja": "\u9b54\u77f3\u306e\u9271\u8108",
+        "Name_ko": ""
+    },
+    "4379": {
+        "0xID": "111B",
+        "Name_cn": "",
+        "Name_de": "Spitzsteinbau",
+        "Name_en": "Shiny Spring",
+        "Name_fr": "Grotte aux stalactites",
+        "Name_ja": "\u3064\u3089\u3089\u6d1e",
+        "Name_ko": ""
+    },
     "438": {
         "0xID": "1B6",
         "Name_cn": "\u9752\u78f7\u6c34\u6c72\u53d6\u573a",
@@ -33064,6 +33820,33 @@
         "Name_fr": "Pompes \u00e0 c\u00e9ruleum",
         "Name_ja": "\u9752\u71d0\u6c34\u6c72\u4e0a\u5834",
         "Name_ko": "\uccad\ub9b0 \uc591\uc218\uc7a5"
+    },
+    "4380": {
+        "0xID": "111C",
+        "Name_cn": "",
+        "Name_de": "Estiniens R\u00e4umlichkeiten",
+        "Name_en": "Estinien's Chambers",
+        "Name_fr": "Chambre d'Estinien",
+        "Name_ja": "\u30a8\u30b9\u30c6\u30a3\u30cb\u30a2\u30f3\u306e\u5ba2\u5ba4",
+        "Name_ko": ""
+    },
+    "4381": {
+        "0xID": "111D",
+        "Name_cn": "",
+        "Name_de": "Senatus",
+        "Name_en": "Senatus",
+        "Name_fr": "Gare de Senatus",
+        "Name_ja": "\u30bb\u30ca\u30c8\u30a5\u30b9\u99c5",
+        "Name_ko": ""
+    },
+    "4382": {
+        "0xID": "111E",
+        "Name_cn": "",
+        "Name_de": "Roter Mond",
+        "Name_en": "The Red Moon",
+        "Name_fr": "Lune rouge",
+        "Name_ja": "\u8d64\u304d\u6708",
+        "Name_ko": ""
     },
     "439": {
         "0xID": "1B7",

@@ -1671,12 +1671,12 @@
     },
     "249": {
         "0xID": "F9",
-        "Icon": "",
+        "Icon": "ui/icon/064000/064427.png",
         "Name_cn": "\u9b54\u672f",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Zaubertrick",
+        "Name_en": "Magic Trick",
+        "Name_fr": "Tour de magie",
+        "Name_ja": "\u624b\u54c1",
         "Name_ko": ""
     },
     "25": {
@@ -1761,12 +1761,12 @@
     },
     "257": {
         "0xID": "101",
-        "Icon": "",
+        "Icon": "ui/icon/064000/064432.png",
         "Name_cn": "",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Heldenhafter Auftritt",
+        "Name_en": "Advent of Light",
+        "Name_fr": "Envol h\u00e9ro\u00efque",
+        "Name_ja": "\u731b\u304d\u5149\u306e\u964d\u81e8",
         "Name_ko": ""
     },
     "258": {
@@ -1831,27 +1831,57 @@
     },
     "263": {
         "0xID": "107",
-        "Icon": "",
+        "Icon": "ui/icon/064000/064438.png",
         "Name_cn": "",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Hand auf die Brust",
+        "Name_en": "Hand to Heart",
+        "Name_fr": "Main sur la poitrine",
+        "Name_ja": "\u80f8\u306b\u624b\u3092\u3042\u3066\u308b",
         "Name_ko": ""
     },
     "264": {
         "0xID": "108",
-        "Icon": "",
+        "Icon": "ui/icon/064000/064439.png",
         "Name_cn": "",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Anfeuern (wei\u00df)",
+        "Name_en": "Cheer On: Bright",
+        "Name_fr": "Encourager (blanc)",
+        "Name_ja": "\u58f0\u63f4\uff1a\u767d",
         "Name_ko": ""
     },
     "265": {
         "0xID": "109",
-        "Icon": "",
+        "Icon": "ui/icon/064000/064440.png",
+        "Name_cn": "",
+        "Name_de": "Anfeuern (lila)",
+        "Name_en": "Cheer Wave: Violet",
+        "Name_fr": "Encourager (violet)",
+        "Name_ja": "\u58f0\u63f4\uff1a\u7d2b",
+        "Name_ko": ""
+    },
+    "266": {
+        "0xID": "10A",
+        "Icon": "ui/icon/064000/064441.png",
+        "Name_cn": "",
+        "Name_de": "Anfeuern (gr\u00fcn)",
+        "Name_en": "Cheer Jump: Green",
+        "Name_fr": "Encourager (vert)",
+        "Name_ja": "\u58f0\u63f4\uff1a\u7dd1",
+        "Name_ko": ""
+    },
+    "267": {
+        "0xID": "10B",
+        "Icon": "ui/icon/064000/064442.png",
+        "Name_cn": "",
+        "Name_de": "Verwandlungsmagie",
+        "Name_en": "All Saints' Charm",
+        "Name_fr": "Sortil\u00e8ge de la Veill\u00e9e",
+        "Name_ja": "\u5b88\u8b77\u5929\u7bc0\u306e\u304a\u307e\u3058\u306a\u3044",
+        "Name_ko": ""
+    },
+    "268": {
+        "0xID": "10C",
+        "Icon": "ui/icon/064000/064442.png",
         "Name_cn": "",
         "Name_de": "",
         "Name_en": "",
@@ -1859,8 +1889,8 @@
         "Name_ja": "",
         "Name_ko": ""
     },
-    "266": {
-        "0xID": "10A",
+    "269": {
+        "0xID": "10D",
         "Icon": "",
         "Name_cn": "",
         "Name_de": "",
@@ -1879,6 +1909,106 @@
         "Name_ja": "\u6307\u3055\u3059",
         "Name_ko": "\uc190\uac00\ub77d\uc73c\ub85c \uac00\ub9ac\ud0a4\uae30"
     },
+    "270": {
+        "0xID": "10E",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "271": {
+        "0xID": "10F",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "272": {
+        "0xID": "110",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "273": {
+        "0xID": "111",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "274": {
+        "0xID": "112",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "275": {
+        "0xID": "113",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "276": {
+        "0xID": "114",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "277": {
+        "0xID": "115",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "278": {
+        "0xID": "116",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "279": {
+        "0xID": "117",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
     "28": {
         "0xID": "1C",
         "Icon": "ui/icon/064000/064028.png",
@@ -1889,6 +2019,106 @@
         "Name_ja": "\u3064\u3064\u304f",
         "Name_ko": "\ucfe1\ucfe1 \ucc0c\ub974\uae30"
     },
+    "280": {
+        "0xID": "118",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "281": {
+        "0xID": "119",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "282": {
+        "0xID": "11A",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "283": {
+        "0xID": "11B",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "284": {
+        "0xID": "11C",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "285": {
+        "0xID": "11D",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "286": {
+        "0xID": "11E",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "287": {
+        "0xID": "11F",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "288": {
+        "0xID": "120",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "289": {
+        "0xID": "121",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
     "29": {
         "0xID": "1D",
         "Icon": "ui/icon/064000/064029.png",
@@ -1898,6 +2128,106 @@
         "Name_fr": "F\u00e9liciter",
         "Name_ja": "\u79f0\u8cdb\u3059\u308b",
         "Name_ko": "\uce6d\ucc2c"
+    },
+    "290": {
+        "0xID": "122",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "291": {
+        "0xID": "123",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "292": {
+        "0xID": "124",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "293": {
+        "0xID": "125",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "294": {
+        "0xID": "126",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "295": {
+        "0xID": "127",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "296": {
+        "0xID": "128",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "297": {
+        "0xID": "129",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "298": {
+        "0xID": "12A",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "299": {
+        "0xID": "12B",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
     },
     "3": {
         "0xID": "3",
@@ -1918,6 +2248,16 @@
         "Name_fr": "Se motiver",
         "Name_ja": "\u6d3b\u3092\u5165\u308c\u308b",
         "Name_ko": "\ud798 \ubd88\uc5b4\ub123\uae30"
+    },
+    "300": {
+        "0xID": "12C",
+        "Icon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
     },
     "31": {
         "0xID": "1F",

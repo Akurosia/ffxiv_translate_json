@@ -259,6 +259,36 @@
         "Singular_ja": "\u9632\u6ef4\u30b7\u30b9\u30c6\u30e0",
         "Singular_ko": ""
     },
+    "32": {
+        "0xID": "20",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "33": {
+        "0xID": "21",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "34": {
+        "0xID": "22",
+        "Icon": "ui/icon/008000/008032.png",
+        "Singular_cn": "",
+        "Singular_de": "Bauderich-Schirm",
+        "Singular_en": "Tactful Taskmaster Umbrella",
+        "Singular_fr": "Parapluie Bernartisan",
+        "Singular_ja": "\u304a\u3084\u304b\u305f\u304f\u3093\u306e\u5098",
+        "Singular_ko": ""
+    },
     "4": {
         "0xID": "4",
         "Icon": "ui/icon/008000/008004.png",

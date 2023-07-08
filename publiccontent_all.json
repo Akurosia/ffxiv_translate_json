@@ -803,6 +803,24 @@
         "TextData_Start_ja": "\u91d1\u306e\u30b5\u30dc\u30c6\u30f3\u30c0\u30fc\u6240\u6301\u6570",
         "TextData_Start_ko": ""
     },
+    "43": {
+        "0xID": "2B",
+        "MapIcon": "",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "TextData_End_cn": "",
+        "TextData_End_ko": "",
+        "TextData_Start_cn": "",
+        "TextData_Start_ko": "",
+        "TextData_de": "",
+        "TextData_en": "",
+        "TextData_fr": "",
+        "TextData_ja": ""
+    },
     "5": {
         "0xID": "5",
         "MapIcon": "ui/icon/060000/060831.png",

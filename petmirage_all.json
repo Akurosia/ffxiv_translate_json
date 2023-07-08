@@ -70,5 +70,14 @@
         "Name_fr": "Garuda-Egi",
         "Name_ja": "\u30ac\u30eb\u30fc\u30c0\u30fb\u30a8\u30ae",
         "Name_ko": "\uac00\ub8e8\ub2e4 \uc5d0\uae30"
+    },
+    "8": {
+        "0xID": "8",
+        "Name_cn": "",
+        "Name_de": "Selene",
+        "Name_en": "Selene",
+        "Name_fr": "Selene",
+        "Name_ja": "\u30d5\u30a7\u30a2\u30ea\u30fc\u30fb\u30bb\u30ec\u30cd",
+        "Name_ko": ""
     }
 }

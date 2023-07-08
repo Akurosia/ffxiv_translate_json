@@ -1307,7 +1307,7 @@
     "139": {
         "0xID": "8B",
         "col_0_cn": "<CommandIcon(10)/>\u6b21\u7ea7\u6307\u4ee4 <CommandIcon(11)/>\u7269\u54c1 <CommandIcon(14)/><CommandIcon(15)/>\u5207\u6362\u5df2\u5e03\u7f6e/\u4ed3\u5e93",
-        "col_0_de": "<CommandIcon(10)/> Untermen\u00fc <CommandIcon(11)/> Inventar  <CommandIcon(14)/><CommandIcon(15)/> Zum Lagerhaus wechseln",
+        "col_0_de": "<CommandIcon(10)/> Untermen\u00fc <CommandIcon(11)/> Inventar <CommandIcon(14)/><CommandIcon(15)/> Platziert/Lagerhaus umschalten",
         "col_0_en": "<CommandIcon(10)/> Subcommands  <CommandIcon(11)/> Inventory  <CommandIcon(14)/><CommandIcon(15)/> Toggle Storeroom",
         "col_0_fr": "<CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Inventaire <CommandIcon(14)/><CommandIcon(15)/> Basculer entre rang\u00e9s/entrep\u00f4t",
         "col_0_ja": "<CommandIcon(10)/>\u30b5\u30d6\u30b3\u30de\u30f3\u30c9 <CommandIcon(11)/>\u6240\u6301\u54c1 <CommandIcon(14)/><CommandIcon(15)/>\u8a2d\u7f6e\u6e08\u307f/\u5009\u5eab\u5207\u66ff",
@@ -4145,7 +4145,7 @@
         "col_0_de": "Mit dem Fortschreiten deines Abenteuers steigt die Anzahl der verf\u00fcgbaren Inhalte in der Inhaltssuche und im Inhaltshelfer.\n\nDungeons und Pr\u00fcfungen, die du bereits abgeschlossen hast, kannst du beliebig oft wiederholen, indem du sie vom Hauptmen\u00fcpunkt \u201eSpielinhalte\u201c aus in der Inhaltssuche oder im Inhaltshelfer erneut ausw\u00e4hlst.",
         "col_0_en": "Over the course of your adventures, the number of duties available to you will gradually increase. Should you encounter a duty for which NPC support is not available, access the Duty Finder to team up with other players instead. You may also rechallenge previously cleared duties by using either the Duty Finder or Duty Support, both accessible via Duty in the main menu.",
         "col_0_fr": "\u00c0 mesure que vous progresserez dans le jeu, vous aurez acc\u00e8s \u00e0 de plus en plus de donjons et d\u00e9fis.\n\nIl se peut que certaines missions soient incompatibles avec le syst\u00e8me de renforts, auquel cas vous pourrez toujours les jouer en vous enregistrant via l'outil de mission.\n\n\n\nVous pourrez \u00e9galement rejouer les missions d\u00e9j\u00e0 accomplies, aussi bien avec l'outil de mission que le syst\u00e8me de renforts (tous deux accessibles \u00e0 partir de la rubrique Missions du menu principal).",
-        "col_0_ja": "\u8cb4\u65b9\u306e\u5192\u967a\u304c\u9032\u3081\u3070\u3001\u653b\u7565\u53ef\u80fd\u306a\u30c0\u30f3\u30b8\u30e7\u30f3\u3084\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\u304c\n\n\u3069\u3093\u3069\u3093\u5897\u3048\u3066\u3044\u304d\u307e\u3059\u3002\n\n\u30b3\u30f3\u30c6\u30f3\u30c4\u30b5\u30dd\u30fc\u30bf\u30fc\u306b\u672a\u5bfe\u5fdc\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u306b\u306f\u3001\n\n\u30b3\u30f3\u30c6\u30f3\u30c4\u30d5\u30a1\u30a4\u30f3\u30c0\u30fc\u3092\u5229\u7528\u3057\u3066\u6311\u6226\u3057\u3066\u307f\u307e\u3057\u3087\u3046\uff01\n\n\n\n\u307e\u305f\u3001\u653b\u7565\u6e08\u307f\u306e\u30c0\u30f3\u30b8\u30e7\u30f3\u3084\u8a0e\u6ec5\u30fb\u8a0e\u6ec5\u6226\u306a\u3069\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u306f\u3001\n\n\u5f8c\u304b\u3089\u7e70\u308a\u8fd4\u3057\u518d\u6311\u6226\u53ef\u80fd\u3067\u3059\u3002\n\n\u30e1\u30a4\u30f3\u30b3\u30de\u30f3\u30c9\u306e\u300c\u30b3\u30f3\u30c6\u30f3\u30c4\u60c5\u5831\u300d\u304b\u3089\n\n\u300c\u30b3\u30f3\u30c6\u30f3\u30c4\u30d5\u30a1\u30a4\u30f3\u30c0\u30fc\u300d\u3084\u3001\u300c\u30b3\u30f3\u30c6\u30f3\u30c4\u30b5\u30dd\u30fc\u30bf\u30fc\u300d\u3092\u5229\u7528\u3057\u3066\n\n\u518d\u6311\u6226\u3067\u304d\u307e\u3059\u3002",
+        "col_0_ja": "\u8cb4\u65b9\u306e\u5192\u967a\u304c\u9032\u3081\u3070\u3001\u653b\u7565\u53ef\u80fd\u306a\u30c0\u30f3\u30b8\u30e7\u30f3\u3084\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\u304c\n\n\u3069\u3093\u3069\u3093\u5897\u3048\u3066\u3044\u304d\u307e\u3059\u3002\n\n\u30b3\u30f3\u30c6\u30f3\u30c4\u30b5\u30dd\u30fc\u30bf\u30fc\u306b\u672a\u5bfe\u5fdc\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u306b\u306f\u3001\n\n\u30b3\u30f3\u30c6\u30f3\u30c4\u30d5\u30a1\u30a4\u30f3\u30c0\u30fc\u3092\u5229\u7528\u3057\u3066\u6311\u6226\u3057\u3066\u307f\u307e\u3057\u3087\u3046\uff01\n\n\n\n\u307e\u305f\u3001\u653b\u7565\u6e08\u307f\u306e\u30c0\u30f3\u30b8\u30e7\u30f3\u3084\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\u306a\u3069\u306e\u30b3\u30f3\u30c6\u30f3\u30c4\u306f\u3001\n\n\u5f8c\u304b\u3089\u7e70\u308a\u8fd4\u3057\u518d\u6311\u6226\u53ef\u80fd\u3067\u3059\u3002\n\n\u30e1\u30a4\u30f3\u30b3\u30de\u30f3\u30c9\u306e\u300c\u30b3\u30f3\u30c6\u30f3\u30c4\u60c5\u5831\u300d\u304b\u3089\n\n\u300c\u30b3\u30f3\u30c6\u30f3\u30c4\u30d5\u30a1\u30a4\u30f3\u30c0\u30fc\u300d\u3084\u3001\u300c\u30b3\u30f3\u30c6\u30f3\u30c4\u30b5\u30dd\u30fc\u30bf\u30fc\u300d\u3092\u5229\u7528\u3057\u3066\n\n\u518d\u6311\u6226\u3067\u304d\u307e\u3059\u3002",
         "col_0_ko": "\ub2f9\uc2e0\uc774 \uc131\uc7a5\ud560\uc218\ub85d, \uacf5\ub7b5\ud560 \uc218 \uc788\ub294 \ub358\uc804/\ud1a0\ubc8c\uc804\ub3c4 \ub298\uc5b4\ub0a9\ub2c8\ub2e4.\n\uc784\ubb34 \uc9c0\uc6d0\uc744 \uc774\uc6a9\ud560 \uc218 \uc5c6\ub294 \uc784\ubb34\ub294\n\uc784\ubb34 \ucc3e\uae30\ub97c \uc774\uc6a9\ud574\uc11c \ub3c4\uc804\ud574 \ubcf4\uc138\uc694.\n\n\uc774\ubbf8 \uacf5\ub7b5\uc744 \uc644\ub8cc\ud588\ub354\ub77c\ub3c4, \uba87 \ubc88\uc774\uace0 \ub2e4\uc2dc \uac19\uc740 \ub358\uc804/\ud1a0\ubc8c\uc804\uc5d0 \ub3c4\uc804\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\uc8fc \uba54\ub274\uc758 \uc784\ubb34 \uc815\ubcf4\uc5d0\uc11c\n\uc784\ubb34 \ucc3e\uae30\ub098 \uc784\ubb34 \uc9c0\uc6d0\uc744 \ud1b5\ud574 \ub2e4\uc2dc \ub3c4\uc804\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4."
     },
     "422": {
@@ -4163,7 +4163,7 @@
         "col_0_de": "Instanziierte Dungeons und Pr\u00fcfungen des Hauptszenarios ab Stufe 71 k\u00f6nnen mit einer Gruppe von befreundeten NPCs betreten werden.\n\nM\u00f6chtest du ein Mitglied deiner Gruppe gegen ein anderes austauschen, w\u00e4hle das auszutauschende Mitglied, um eine Liste mit f\u00fcr den jeweiligen Inhalt verf\u00fcgbaren NPCs aufzurufen.",
         "col_0_en": "When challenging main scenario duties of level 71 and above, you may choose your favorite support NPCs with which to form a party. Click on a member of your current party to see all members available for selection.",
         "col_0_fr": "Les donjons et d\u00e9fis de niveau 71 et plus rencontr\u00e9s au cours de l'\u00e9pop\u00e9e peuvent \u00eatre accomplis avec l'aide d'une \u00e9quipe de PNJ alli\u00e9s personnalisable.\n\nPour modifier l'\u00e9quipe, cliquez sur les portraits des PNJ. Une fen\u00eatre s'ouvrira alors, vous montrant les PNJ que vous pouvez s\u00e9lectionner.",
-        "col_0_ja": "\u30e1\u30a4\u30f3\u30af\u30a8\u30b9\u30c8\u3067\u8a2a\u308c\u308b\u30ec\u30d9\u30eb71\u4ee5\u964d\u306e\u30c0\u30f3\u30b8\u30e7\u30f3\u3084\u8a0e\u6ec5\u30fb\u8a0e\u6ec5\u6226\u306f\u3001\n\n\u30b5\u30dd\u30fc\u30c8NPC\u306e\u4e00\u89a7\u304b\u3089\u81ea\u5206\u3067\u9078\u629e\u30fb\u7de8\u6210\u3057\u305f\u30d1\u30fc\u30c6\u30a3\u3067\n\n\u7a81\u5165\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002\n\n\n\n\u30d1\u30fc\u30c6\u30a3\u30e1\u30f3\u30d0\u30fc\u306e\u4e0a\u3067\u30af\u30ea\u30c3\u30af\u3001\u307e\u305f\u306f\u6c7a\u5b9a\u30dc\u30bf\u30f3\u64cd\u4f5c\u306b\u3066\n\n\u305d\u306e\u5bfe\u8c61\u30b3\u30f3\u30c6\u30f3\u30c4\u306b\u540c\u884c\u53ef\u80fd\u306a\u30b5\u30dd\u30fc\u30c8NPC\u306e\u4e00\u89a7\u30a6\u30a3\u30f3\u30c9\u30a6\u3092\n\n\u547c\u3073\u51fa\u305b\u307e\u3059\u3002",
+        "col_0_ja": "\u30e1\u30a4\u30f3\u30af\u30a8\u30b9\u30c8\u3067\u8a2a\u308c\u308b\u30ec\u30d9\u30eb71\u4ee5\u964d\u306e\u30c0\u30f3\u30b8\u30e7\u30f3\u3084\u8a0e\u4f10\u30fb\u8a0e\u6ec5\u6226\u306f\u3001\n\n\u30b5\u30dd\u30fc\u30c8NPC\u306e\u4e00\u89a7\u304b\u3089\u81ea\u5206\u3067\u9078\u629e\u30fb\u7de8\u6210\u3057\u305f\u30d1\u30fc\u30c6\u30a3\u3067\n\n\u7a81\u5165\u3067\u304d\u308b\u3088\u3046\u306b\u306a\u308a\u307e\u3059\u3002\n\n\n\n\u30d1\u30fc\u30c6\u30a3\u30e1\u30f3\u30d0\u30fc\u306e\u4e0a\u3067\u30af\u30ea\u30c3\u30af\u3001\u307e\u305f\u306f\u6c7a\u5b9a\u30dc\u30bf\u30f3\u64cd\u4f5c\u306b\u3066\n\n\u305d\u306e\u5bfe\u8c61\u30b3\u30f3\u30c6\u30f3\u30c4\u306b\u540c\u884c\u53ef\u80fd\u306a\u30b5\u30dd\u30fc\u30c8NPC\u306e\u4e00\u89a7\u30a6\u30a3\u30f3\u30c9\u30a6\u3092\n\n\u547c\u3073\u51fa\u305b\u307e\u3059\u3002",
         "col_0_ko": "\uc8fc\uc694 \ud018\uc2a4\ud2b8\uc5d0\uc11c \ubc29\ubb38\ud558\uac8c \ub418\ub294 \ub808\ubca8 71 \uc774\ud6c4 \uc77c\ubc18 \ub358\uc804/\ud1a0\ubc8c\uc804\uc740\n\uc9c0\uc6d0 NPC\ub85c \ud30c\ud2f0\ub97c \ud3b8\uc131\ud558\uc5ec \uc785\uc7a5\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\n\ud604\uc7ac \ud30c\ud2f0\uc6d0\uc744 \ud074\ub9ad\ud558\uba74 \ud30c\ud2f0\uc6d0 \uc120\ud0dd\ucc3d\uc774 \uc5f4\ub9ac\uba70,\n\ub358\uc804\uc5d0 \uac19\uc774 \uac08 \uc218 \uc788\ub294 \uc9c0\uc6d0 NPC\uac00 \ud45c\uc2dc\ub429\ub2c8\ub2e4."
     },
     "424": {
@@ -4592,10 +4592,10 @@
     "467": {
         "0xID": "1D3",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(8)/> Zum wertvollsten Spieler ehren",
+        "col_0_en": "<CommandIcon(8)/> Commend Player",
+        "col_0_fr": "<CommandIcon(8)/> Honorer l'\u00e9quipier",
+        "col_0_ja": "<CommandIcon(8)/>MIP\u63a8\u85a6\u3092\u6c7a\u5b9a",
         "col_0_ko": ""
     },
     "468": {
@@ -4666,7 +4666,7 @@
         "col_0_cn": "<CommandIcon(11)/>\u786e\u5b9a\u63a2\u7d22\u76ee\u7684\u5730",
         "col_0_de": "<CommandIcon(11)/> Ausschicken",
         "col_0_en": "<CommandIcon(11)/> Confirm",
-        "col_0_fr": "<CommandIcon(11)/>Envoyer",
+        "col_0_fr": "<CommandIcon(11)/> Envoyer",
         "col_0_ja": "<CommandIcon(11)/>\u63a2\u7d22\u5730\u6c7a\u5b9a",
         "col_0_ko": ""
     },
@@ -4736,37 +4736,37 @@
     "481": {
         "0xID": "1E1",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(18)/> M\u00f6belprojektion beenden",
+        "col_0_en": "<CommandIcon(18)/> Finish Placing Furnishing Glamours",
+        "col_0_fr": "<CommandIcon(18)/> Terminer l'arrangement du mobilier",
+        "col_0_ja": "<CommandIcon(18)/>\u7121\u4eba\u5cf6\u5ead\u5177\u306e\u6295\u5f71\u914d\u7f6e\u3092\u7d42\u4e86\u3059\u308b",
         "col_0_ko": ""
     },
     "482": {
         "0xID": "1E2",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<Gui(13)/>\uff0b<Gui(20)/> Bewegen <CommandIcon(14)/><CommandIcon(15)/> Drehen <CommandIcon(10)/> Untermen\u00fc <CommandIcon(11)/> Raster ein",
+        "col_0_en": "<Gui(13)/>+<Gui(20)/> Move <CommandIcon(14)/><CommandIcon(15)/> Rotate <CommandIcon(10)/> Subcommands <CommandIcon(11)/> Enable Grid Snap",
+        "col_0_fr": "<Gui(13)/>+<Gui(20)/> D\u00e9placer <CommandIcon(14)/><CommandIcon(15)/> Tourner <CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Activer/D\u00e9sactiver la fonction d'ancrage",
+        "col_0_ja": "<Gui(13)/>\uff0b<Gui(20)/>\u79fb\u52d5 <CommandIcon(14)/><CommandIcon(15)/>\u56de\u8ee2 <CommandIcon(10)/>\u30b5\u30d6\u30b3\u30de\u30f3\u30c9 <CommandIcon(11)/>\u30b0\u30ea\u30c3\u30c9\u30b9\u30ca\u30c3\u30d7\u6a5f\u80fd\u3092\u6709\u52b9\u306b\u3059\u308b",
         "col_0_ko": ""
     },
     "483": {
         "0xID": "1E3",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(10)/> Untermen\u00fc <CommandIcon(11)/> Projektionsliste",
+        "col_0_en": "<CommandIcon(10)/> Subcommands  <CommandIcon(11)/> Registered Glamours List",
+        "col_0_fr": "<CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Liste du mobilier",
+        "col_0_ja": "<CommandIcon(10)/>\u30b5\u30d6\u30b3\u30de\u30f3\u30c9 <CommandIcon(11)/>\u7121\u4eba\u5cf6\u5ead\u5177\u30ea\u30b9\u30c8",
         "col_0_ko": ""
     },
     "484": {
         "0xID": "1E4",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(10)/> Untermen\u00fc <CommandIcon(11)/>Inventar  <CommandIcon(14)/><CommandIcon(15)/> Registriert/Platziert umschalten",
+        "col_0_en": "<CommandIcon(10)/> Subcommands  <CommandIcon(11)/> Inventory  <CommandIcon(14)/><CommandIcon(15)/> Toggle Registered/Placed Glamours",
+        "col_0_fr": "<CommandIcon(10)/> Sous-menu <CommandIcon(11)/> Inventaire <CommandIcon(14)/><CommandIcon(15)/> Basculer entre enregistr\u00e9s/plac\u00e9s",
+        "col_0_ja": "<CommandIcon(10)/>\u30b5\u30d6\u30b3\u30de\u30f3\u30c9 <CommandIcon(11)/>\u6240\u6301\u54c1 <CommandIcon(14)/><CommandIcon(15)/>\u767b\u9332\u6e08\u307f/\u6295\u5f71\u914d\u7f6e\u6e08\u307f\u5207\u66ff",
         "col_0_ko": ""
     },
     "485": {
@@ -4781,37 +4781,37 @@
     "486": {
         "0xID": "1E6",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(10)/> Untermen\u00fc <CommandIcon(11)/> Raster ein",
+        "col_0_en": "<CommandIcon(10)/> Subcommands <CommandIcon(11)/> Enable Grid Snap",
+        "col_0_fr": "<CommandIcon(10)/> Sous-menu  <CommandIcon(11)/> Activer/D\u00e9sactiver la fonction d'ancrage",
+        "col_0_ja": "<CommandIcon(10)/>\u30b5\u30d6\u30b3\u30de\u30f3\u30c9 <CommandIcon(11)/>\u30b0\u30ea\u30c3\u30c9\u30b9\u30ca\u30c3\u30d7\u6a5f\u80fd\u3092\u6709\u52b9\u306b\u3059\u308b",
         "col_0_ko": ""
     },
     "487": {
         "0xID": "1E7",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(10)/> Untermen\u00fc",
+        "col_0_en": "<CommandIcon(10)/> Subcommands",
+        "col_0_fr": "<CommandIcon(10)/> Sous-menu",
+        "col_0_ja": "<CommandIcon(10)/>\u30b5\u30d6\u30b3\u30de\u30f3\u30c9",
         "col_0_ko": ""
     },
     "488": {
         "0xID": "1E8",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(18)/> M\u00f6belf\u00e4rben beenden",
+        "col_0_en": "<CommandIcon(18)/> Quit Coloring",
+        "col_0_fr": "<CommandIcon(18)/> Terminer la teinture du mobilier",
+        "col_0_ja": "<CommandIcon(18)/>\u5ead\u5177\u306e\u67d3\u8272\u3092\u7d42\u4e86\u3059\u308b",
         "col_0_ko": ""
     },
     "489": {
         "0xID": "1E9",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(18)/> M\u00f6belprojektion beenden",
+        "col_0_en": "<CommandIcon(18)/> Finish Placing Furnishings",
+        "col_0_fr": "<CommandIcon(18)/> Terminer l'arrangement du mobilier",
+        "col_0_ja": "<CommandIcon(18)/>\u5ead\u5177\u306e\u914d\u7f6e\u3092\u7d42\u4e86\u3059\u308b",
         "col_0_ko": ""
     },
     "49": {
@@ -4826,19 +4826,19 @@
     "490": {
         "0xID": "1EA",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<Gui(13)/>\uff0b<Gui(20)/> Bewegen <CommandIcon(14)/><CommandIcon(15)/> Drehen <CommandIcon(11)/> Raster ein",
+        "col_0_en": "<Gui(13)/>+<Gui(20)/> Move <CommandIcon(14)/><CommandIcon(15)/> Rotate <CommandIcon(11)/>Enable Grid Snap",
+        "col_0_fr": "<Gui(13)/>+<Gui(20)/> D\u00e9placer <CommandIcon(14)/><CommandIcon(15)/> Tourner <CommandIcon(11)/> Activer/D\u00e9sactiver la fonction d'ancrage",
+        "col_0_ja": "<Gui(13)/>\uff0b<Gui(20)/>\u79fb\u52d5 <CommandIcon(14)/><CommandIcon(15)/>\u56de\u8ee2 <CommandIcon(11)/>\u30b0\u30ea\u30c3\u30c9\u30b9\u30ca\u30c3\u30d7\u6a5f\u80fd\u3092\u6709\u52b9\u306b\u3059\u308b",
         "col_0_ko": ""
     },
     "491": {
         "0xID": "1EB",
         "col_0_cn": "",
-        "col_0_de": "",
-        "col_0_en": "",
-        "col_0_fr": "",
-        "col_0_ja": "",
+        "col_0_de": "<CommandIcon(11)/> Raster ein",
+        "col_0_en": "<CommandIcon(11)/>Enable Grid Snap",
+        "col_0_fr": "<CommandIcon(11)/> Activer/D\u00e9sactiver la fonction d'ancrage",
+        "col_0_ja": "<CommandIcon(11)/>\u30b0\u30ea\u30c3\u30c9\u30b9\u30ca\u30c3\u30d7\u6a5f\u80fd\u3092\u6709\u52b9\u306b\u3059\u308b",
         "col_0_ko": ""
     },
     "492": {

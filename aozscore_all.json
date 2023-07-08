@@ -413,7 +413,7 @@
         "Description_de": "Vitakupo, Exuviation und Wei\u00dfer Wind benutzt.",
         "Description_en": "Use Pom Cure, Exuviation, and White Wind.",
         "Description_fr": "Utilisation de Pompon soignant, Exuviation et Vent blanc.",
-        "Description_ja": "\u30dd\u30f3\u30dd\u30f3\u30b1\u30a2\u30eb\u3001\u30a4\u30b0\u30b8\u30e5\u30d3\u30a8\u30fc\u30b7\u30e7\u30f3\u3001\u30db\u30ef\u30a4\u30c8\u30a6\u30a4\u30f3\u30c9\u3092\u4f7f\u7528",
+        "Description_ja": "\u30dd\u30f3\u30dd\u30f3\u30b1\u30a2\u30eb\u3001\u30a4\u30b0\u30b8\u30e5\u30d3\u30a8\u30fc\u30b7\u30e7\u30f3\u3001\u30db\u30ef\u30a4\u30c8\u30a6\u30a3\u30f3\u30c9\u3092\u4f7f\u7528",
         "Description_ko": "\ud3fc\ud3fc \ucf00\uc54c, \ud5c8\ubb3c \ubc97\uae30, \ud558\uc580 \ubc14\ub78c\uc744 \uc0ac\uc6a9",
         "IsHidden": "True",
         "Name_cn": "\u6062\u590d\u5927\u5e08",
@@ -474,6 +474,23 @@
         "Name_ja": "\u30d4\u30e5\u30a2\u30d6\u30eb\u30fc",
         "Name_ko": "\uc9c4\ud30c\ub791",
         "Score": "80000"
+    },
+    "34": {
+        "0xID": "22",
+        "Description_cn": "",
+        "Description_de": "",
+        "Description_en": "",
+        "Description_fr": "",
+        "Description_ja": "",
+        "Description_ko": "",
+        "IsHidden": "False",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": "",
+        "Score": "0"
     },
     "4": {
         "0xID": "4",

@@ -9575,15 +9575,6 @@
         "Text_ja": "F\u00eate",
         "Text_ko": "\ucc3d\ucc9c \uc6b4\ub3d9\ud68c"
     },
-    "4035": {
-        "0xID": "FC3",
-        "Text_cn": "\u4e9a\u62c9\u6208\u7ecf\u5178\u795e\u5178\u77f3",
-        "Text_de": "Allagische Steine des Aphorismus",
-        "Text_en": "Allagan tomestone of aphorism",
-        "Text_fr": "m\u00e9moquartz allagois aphoristiques",
-        "Text_ja": "\u30a2\u30e9\u30ac\u30f3\u30c8\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3:\u7d4c\u5178",
-        "Text_ko": "\uc54c\ub77c\uadf8 \uc11d\ud310: \uacbd\uc804"
-    },
     "4036": {
         "0xID": "FC4",
         "Text_cn": "\u4e9a\u62c9\u6208\u5929\u6587\u795e\u5178\u77f3",
@@ -9672,6 +9663,15 @@
         "Text_en": "Splendorous tool",
         "Text_fr": "outil des merveilles",
         "Text_ja": "\u30e2\u30fc\u30a8\u30f3\u30c4\u30fc\u30eb",
+        "Text_ko": ""
+    },
+    "4045": {
+        "0xID": "FCD",
+        "Text_cn": "",
+        "Text_de": "Allagische Steine der Kom\u00f6die",
+        "Text_en": "Allagan tomestone of comedy",
+        "Text_fr": "m\u00e9moquartz allagois dantesques",
+        "Text_ja": "\u30a2\u30e9\u30ac\u30f3\u30c8\u30fc\u30e0\u30b9\u30c8\u30fc\u30f3:\u795e\u66f2",
         "Text_ko": ""
     },
     "405": {
@@ -10977,6 +10977,33 @@
         "Text_en": "The Clockwork Castletown",
         "Text_fr": "Traquenard oriental",
         "Text_ja": "\u6771\u65b9\u7d61\u7e70\u5fa1\u6bbf",
+        "Text_ko": ""
+    },
+    "5121": {
+        "0xID": "1401",
+        "Text_cn": "",
+        "Text_de": "Haam",
+        "Text_en": "The Aetherfont",
+        "Text_fr": "\u00eele de Haam",
+        "Text_ja": "\u30cf\u30fc\u30e0\u5cf6",
+        "Text_ko": ""
+    },
+    "5122": {
+        "0xID": "1402",
+        "Text_cn": "",
+        "Text_de": "Anabaseios",
+        "Text_en": "Anabaseios",
+        "Text_fr": "Paradis du Pand\u00e6monium",
+        "Text_ja": "\u5929\u7344\u7de8",
+        "Text_ko": ""
+    },
+    "5125": {
+        "0xID": "1405",
+        "Text_cn": "",
+        "Text_de": "Traumpr\u00fcfung - Zurvan",
+        "Text_en": "Containment Bay Z1T9 (Unreal)",
+        "Text_fr": "Unit\u00e9 de contention Z1P9 (irr\u00e9el)",
+        "Text_ja": "\u5e7b\u9b3c\u795e\u30ba\u30eb\u30ef\u30fc\u30f3\u8a0e\u6ec5\u6226",
         "Text_ko": ""
     },
     "513": {

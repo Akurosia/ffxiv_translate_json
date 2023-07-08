@@ -2392,42 +2392,42 @@
     "286": {
         "0xID": "11E",
         "PlaceName_cn": "",
-        "PlaceName_de": "",
-        "PlaceName_en": "",
-        "PlaceName_fr": "",
-        "PlaceName_ja": "",
+        "PlaceName_de": "Sirenen-See - Hochsee",
+        "PlaceName_en": "Open Sirensong Sea",
+        "PlaceName_fr": "Large de la Mer du Chant des sirènes",
+        "PlaceName_ja": "セイレーン海沖合",
         "PlaceName_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "o1a1"
     },
     "287": {
         "0xID": "11F",
         "PlaceName_cn": "",
-        "PlaceName_de": "",
-        "PlaceName_en": "",
-        "PlaceName_fr": "",
-        "PlaceName_ja": "",
+        "PlaceName_de": "Sirenen-See - Phantomströmung",
+        "PlaceName_en": "Sirensong Spectral Current",
+        "PlaceName_fr": "Courant spectral (large de la Mer du Chant des sirènes)",
+        "PlaceName_ja": "セイレーン海沖合：幻海流",
         "PlaceName_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "o1a1"
     },
     "288": {
         "0xID": "120",
         "PlaceName_cn": "",
-        "PlaceName_de": "",
-        "PlaceName_en": "",
-        "PlaceName_fr": "",
-        "PlaceName_ja": "",
+        "PlaceName_de": "Kugane-Küste",
+        "PlaceName_en": "Kugane Coast",
+        "PlaceName_fr": "Large de la baie de Kugane",
+        "PlaceName_ja": "クガネ沖合",
         "PlaceName_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "o1a1"
     },
     "289": {
         "0xID": "121",
         "PlaceName_cn": "",
-        "PlaceName_de": "",
-        "PlaceName_en": "",
-        "PlaceName_fr": "",
-        "PlaceName_ja": "",
+        "PlaceName_de": "Kugane-Küste - Phantomströmung",
+        "PlaceName_en": "Kugane Spectral Current",
+        "PlaceName_fr": "Courant spectral (large de la baie de Kugane)",
+        "PlaceName_ja": "クガネ沖合：幻海流",
         "PlaceName_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "o1a1"
     },
     "29": {
         "0xID": "1D",
@@ -2442,42 +2442,42 @@
     "290": {
         "0xID": "122",
         "PlaceName_cn": "",
-        "PlaceName_de": "",
-        "PlaceName_en": "",
-        "PlaceName_fr": "",
-        "PlaceName_ja": "",
+        "PlaceName_de": "Rubinsee - Hochsee",
+        "PlaceName_en": "Open Ruby Sea",
+        "PlaceName_fr": "Large de la Mer de Rubis",
+        "PlaceName_ja": "紅玉海沖合",
         "PlaceName_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "o1a1"
     },
     "291": {
         "0xID": "123",
         "PlaceName_cn": "",
-        "PlaceName_de": "",
-        "PlaceName_en": "",
-        "PlaceName_fr": "",
-        "PlaceName_ja": "",
+        "PlaceName_de": "Rubinsee - Phantomströmung",
+        "PlaceName_en": "Ruby Spectral Current",
+        "PlaceName_fr": "Courant spectral (large de la Mer de Rubis)",
+        "PlaceName_ja": "紅玉海沖合：幻海流",
         "PlaceName_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "o1a1"
     },
     "292": {
         "0xID": "124",
         "PlaceName_cn": "",
-        "PlaceName_de": "",
-        "PlaceName_en": "",
-        "PlaceName_fr": "",
-        "PlaceName_ja": "",
+        "PlaceName_de": "Einzig (Unterlauf)",
+        "PlaceName_en": "Lower One River",
+        "PlaceName_fr": "Aval de la Muni",
+        "PlaceName_ja": "無二江下流",
         "PlaceName_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "o1a1"
     },
     "293": {
         "0xID": "125",
         "PlaceName_cn": "",
-        "PlaceName_de": "",
-        "PlaceName_en": "",
-        "PlaceName_fr": "",
-        "PlaceName_ja": "",
+        "PlaceName_de": "Einzig - Phantomströmung",
+        "PlaceName_en": "One River Spectral Current",
+        "PlaceName_fr": "Courant spectral (aval de la Muni)",
+        "PlaceName_ja": "無二江下流：幻海流",
         "PlaceName_ko": "",
-        "TerritoryType": ""
+        "TerritoryType": "o1a1"
     },
     "294": {
         "0xID": "126",

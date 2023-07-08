@@ -25,7 +25,7 @@
         "Name_cn": "\u7981\u6b622",
         "Name_de": "Ignorieren 2",
         "Name_en": "Target to Ignore 2",
-        "Name_fr": "2e cible interdite",
+        "Name_fr": "2e cible \u00e0 ignorer",
         "Name_ja": "\u7981\u6b622",
         "Name_ko": "\uae08\uc9c02"
     },
@@ -68,6 +68,36 @@
         "Name_fr": "Triangle",
         "Name_ja": "\u6c4e\u7528\u30b5\u30f3\u30ab\u30af",
         "Name_ko": "\uc138\ubaa8"
+    },
+    "15": {
+        "0xID": "F",
+        "Icon": "ui/icon/061000/061206.png",
+        "Name_cn": "",
+        "Name_de": "Angreifen 6",
+        "Name_en": "Target to Attack 6",
+        "Name_fr": "6e cible \u00e0 attaquer",
+        "Name_ja": "\u653b\u64836",
+        "Name_ko": ""
+    },
+    "16": {
+        "0xID": "10",
+        "Icon": "ui/icon/061000/061207.png",
+        "Name_cn": "",
+        "Name_de": "Angreifen 7",
+        "Name_en": "Target to Attack 7",
+        "Name_fr": "7e cible \u00e0 attaquer",
+        "Name_ja": "\u653b\u64837",
+        "Name_ko": ""
+    },
+    "17": {
+        "0xID": "11",
+        "Icon": "ui/icon/061000/061208.png",
+        "Name_cn": "",
+        "Name_de": "Angreifen 8",
+        "Name_en": "Target to Attack 8",
+        "Name_fr": "8e cible \u00e0 attaquer",
+        "Name_ja": "\u653b\u64838",
+        "Name_ko": ""
     },
     "2": {
         "0xID": "2",
@@ -145,7 +175,7 @@
         "Name_cn": "\u7981\u6b621",
         "Name_de": "Ignorieren 1",
         "Name_en": "Target to Ignore 1",
-        "Name_fr": "1re cible interdite",
+        "Name_fr": "1re cible \u00e0 ignorer",
         "Name_ja": "\u7981\u6b621",
         "Name_ko": "\uae08\uc9c01"
     }

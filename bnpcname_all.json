@@ -6250,7 +6250,7 @@
         "Singular_cn": "俄菲翁尼厄斯",
         "Singular_de": "Ophioneus",
         "Singular_en": "Ophioneus",
-        "Singular_fr": "Ophion",
+        "Singular_fr": "Ophioneus",
         "Singular_ja": "オピオネウス",
         "Singular_ko": "오피오네우스"
     },
@@ -9056,19 +9056,19 @@
     "10902": {
         "0xID": "2A96",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "flutschig[a] Gürteltier",
+        "Singular_en": "slippery armadillo",
+        "Singular_fr": "tatou fuyard",
+        "Singular_ja": "スリッパリー・アルマジロ",
         "Singular_ko": ""
     },
     "10903": {
         "0xID": "2A97",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "geschuppt[a] Gürteltier",
+        "Singular_en": "hardscale armadillo",
+        "Singular_fr": "tatou chitineux",
+        "Singular_ja": "ハードスケイル・アルマジロ",
         "Singular_ko": ""
     },
     "10904": {
@@ -9463,7 +9463,7 @@
         "Singular_cn": "第一军团士兵",
         "Singular_de": "Soldat der I. Legion",
         "Singular_en": "1st Legion soldier",
-        "Singular_fr": "soldat de la 1ère légion",
+        "Singular_fr": "soldat de la 1re légion",
         "Singular_ja": "第I軍団の軍団兵",
         "Singular_ko": "제I군단 군단병"
     },
@@ -10705,7 +10705,7 @@
         "Singular_cn": "Iレギオン・ホプロマクス",
         "Singular_de": "Hoplomachus der I. Legion",
         "Singular_en": "1st Legion hoplomachus",
-        "Singular_fr": "hoplomachus de la 1ère légion",
+        "Singular_fr": "hoplomachus de la 1re légion",
         "Singular_ja": "Iレギオン・ホプロマクス",
         "Singular_ko": "I군단 검투사"
     },
@@ -22458,7 +22458,7 @@
         "0xID": "2FD2",
         "Singular_cn": "",
         "Singular_de": "Tiamat-Klon",
-        "Singular_en": "Tiamat clone",
+        "Singular_en": "Tiamat's clone",
         "Singular_fr": "clone de Tiamat",
         "Singular_ja": "ティアマット・クローン",
         "Singular_ko": ""
@@ -22591,12 +22591,12 @@
     },
     "12256": {
         "0xID": "2FE0",
-        "Singular_cn": "_rsv_",
+        "Singular_cn": "_rsv",
         "Singular_de": "Alpha-Omega",
         "Singular_en": "Alpha Omega",
         "Singular_fr": "Alpha-Oméga",
         "Singular_ja": "アルファオメガ",
-        "Singular_ko": "_rsv_"
+        "Singular_ko": "_rsv"
     },
     "12257": {
         "0xID": "2FE1",
@@ -22618,12 +22618,12 @@
     },
     "12259": {
         "0xID": "2FE3",
-        "Singular_cn": "_rsv_",
-        "Singular_de": "Kosmosmeteore",
-        "Singular_en": "cosmo meteors",
-        "Singular_fr": "cosmométéores",
+        "Singular_cn": "_rsv",
+        "Singular_de": "Kosmosmeteor",
+        "Singular_en": "cosmo meteor",
+        "Singular_fr": "cosmométéore",
         "Singular_ja": "コスモメテオ",
-        "Singular_ko": "_rsv_"
+        "Singular_ko": "_rsv"
     },
     "1226": {
         "0xID": "4CA",
@@ -22636,12 +22636,12 @@
     },
     "12260": {
         "0xID": "2FE4",
-        "Singular_cn": "_rsv_",
-        "Singular_de": "Kosmoskometen",
-        "Singular_en": "cosmo comets",
-        "Singular_fr": "cosmocomètes",
+        "Singular_cn": "_rsv",
+        "Singular_de": "Kosmoskomet",
+        "Singular_en": "cosmo comet",
+        "Singular_fr": "cosmocomète",
         "Singular_ja": "コスモコメット",
-        "Singular_ko": "_rsv_"
+        "Singular_ko": "_rsv"
     },
     "12261": {
         "0xID": "2FE5",
@@ -22665,7 +22665,7 @@
         "0xID": "2FE7",
         "Singular_cn": "",
         "Singular_de": "Twintania-Klon",
-        "Singular_en": "Twintania clone",
+        "Singular_en": "Twintania's clone",
         "Singular_fr": "clone de Gémellia",
         "Singular_ja": "ツインタニア・クローン",
         "Singular_ko": ""
@@ -23375,55 +23375,55 @@
     "12334": {
         "0xID": "302E",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Oktomammut",
+        "Singular_en": "Octomammoth",
+        "Singular_fr": "octomammouth",
+        "Singular_ja": "オクトマンモス",
         "Singular_ko": ""
     },
     "12335": {
         "0xID": "302F",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Oktomammut-Tentakel",
+        "Singular_en": "mammoth tentacle",
+        "Singular_fr": "bras d'octomammouth",
+        "Singular_ja": "オクトマンモスの腕",
         "Singular_ko": ""
     },
     "12336": {
         "0xID": "3030",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Lyngbakr",
+        "Singular_en": "Lyngbakr",
+        "Singular_fr": "Lyngbakr",
+        "Singular_ja": "リングバーク",
         "Singular_ko": ""
     },
     "12337": {
         "0xID": "3031",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Arkas",
+        "Singular_en": "Arkas",
+        "Singular_fr": "Arkas",
+        "Singular_ja": "アルカス",
         "Singular_ko": ""
     },
     "12338": {
         "0xID": "3032",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Eisbestie",
+        "Singular_en": "Haam frostbeast",
+        "Singular_fr": "bête glacée de Haam",
+        "Singular_ja": "ハーム・ブリーズビースト",
         "Singular_ko": ""
     },
     "12339": {
         "0xID": "3033",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Otodus",
+        "Singular_en": "Haam otodus",
+        "Singular_fr": "otodus de Haam",
+        "Singular_ja": "ハーム・オトドゥス",
         "Singular_ko": ""
     },
     "1234": {
@@ -23438,91 +23438,91 @@
     "12340": {
         "0xID": "3034",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Aurelia",
+        "Singular_en": "Haam aurelia",
+        "Singular_fr": "aurélie de Haam",
+        "Singular_ja": "ハーム・オーレリア",
         "Singular_ko": ""
     },
     "12341": {
         "0xID": "3035",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Halonid",
+        "Singular_en": "Haam Halonid",
+        "Singular_fr": "halonide de Haam",
+        "Singular_ja": "ハーム・ハルオニッド",
         "Singular_ko": ""
     },
     "12342": {
         "0xID": "3036",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Taucher",
+        "Singular_en": "Haam auk",
+        "Singular_fr": "alque tueur de Haam",
+        "Singular_ja": "ハーム・キラーパフィン",
         "Singular_ko": ""
     },
     "12343": {
         "0xID": "3037",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Troll",
+        "Singular_en": "Haam troll",
+        "Singular_fr": "troll de Haam",
+        "Singular_ja": "ハーム・トロル",
         "Singular_ko": ""
     },
     "12344": {
         "0xID": "3038",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Yakuh",
+        "Singular_en": "Haam yakow",
+        "Singular_fr": "dzo de Haam",
+        "Singular_ja": "ハーム・ヤーコウ",
         "Singular_ko": ""
     },
     "12345": {
         "0xID": "3039",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Kristall",
+        "Singular_en": "Haam crystal",
+        "Singular_fr": "cristal vivant de Haam",
+        "Singular_ja": "ハーム・リビングクリスタル",
         "Singular_ko": ""
     },
     "12346": {
         "0xID": "303A",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Golem",
+        "Singular_en": "Haam golem",
+        "Singular_fr": "golem arc-en-ciel de Haam",
+        "Singular_ja": "ハーム・レインボーゴーレム",
         "Singular_ko": ""
     },
     "12347": {
         "0xID": "303B",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Myrrlith",
+        "Singular_en": "Haam myrrlith",
+        "Singular_fr": "myrrlith de Haam",
+        "Singular_ja": "ハーム・ミルリス",
         "Singular_ko": ""
     },
     "12348": {
         "0xID": "303C",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Polykristall",
+        "Singular_en": "Haam polycrystal",
+        "Singular_fr": "polycristal de Haam",
+        "Singular_ja": "ハーム・ポリクリスタル",
         "Singular_ko": ""
     },
     "12349": {
         "0xID": "303D",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Haam-Verloren[a]",
+        "Singular_en": "Haam Forlorn",
+        "Singular_fr": "délaissé de Haam",
+        "Singular_ja": "ハーム・フォーローン",
         "Singular_ko": ""
     },
     "1235": {
@@ -23536,6 +23536,87 @@
     },
     "12350": {
         "0xID": "303E",
+        "Singular_cn": "",
+        "Singular_de": "Haam-Dhruva",
+        "Singular_en": "Haam dhruva",
+        "Singular_fr": "dhruva de Haam",
+        "Singular_ja": "ハーム・ドルヴァ",
+        "Singular_ko": ""
+    },
+    "12351": {
+        "0xID": "303F",
+        "Singular_cn": "",
+        "Singular_de": "Asura",
+        "Singular_en": "Asura",
+        "Singular_fr": "Asura",
+        "Singular_ja": "アスラ",
+        "Singular_ko": ""
+    },
+    "12352": {
+        "0xID": "3040",
+        "Singular_cn": "",
+        "Singular_de": "Asuras Inkarnation",
+        "Singular_en": "Asura image",
+        "Singular_fr": "incarnation d'Asura",
+        "Singular_ja": "アスラの化身",
+        "Singular_ko": ""
+    },
+    "12353": {
+        "0xID": "3041",
+        "Singular_cn": "",
+        "Singular_de": "Asura-Abbild",
+        "Singular_en": "phantom Asura",
+        "Singular_fr": "illusion d'Asura",
+        "Singular_ja": "アスラの幻影",
+        "Singular_ko": ""
+    },
+    "12354": {
+        "0xID": "3042",
+        "Singular_cn": "",
+        "Singular_de": "Pandæmonium",
+        "Singular_en": "Pandæmonium",
+        "Singular_fr": "Pandæmonium",
+        "Singular_ja": "パンデモニウム",
+        "Singular_ko": ""
+    },
+    "12355": {
+        "0xID": "3043",
+        "Singular_cn": "",
+        "Singular_de": "pandæmonisch[a] Turm",
+        "Singular_en": "pandæmoniac pillar",
+        "Singular_fr": "pilier pandæmoniaque",
+        "Singular_ja": "万魔殿の塔",
+        "Singular_ko": ""
+    },
+    "12356": {
+        "0xID": "3044",
+        "Singular_cn": "",
+        "Singular_de": "arkan[a] Körper",
+        "Singular_en": "arcane sphere",
+        "Singular_fr": "sphère arcanique",
+        "Singular_ja": "立体魔法陣",
+        "Singular_ko": ""
+    },
+    "12357": {
+        "0xID": "3045",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12358": {
+        "0xID": "3046",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12359": {
+        "0xID": "3047",
         "Singular_cn": "",
         "Singular_de": "",
         "Singular_en": "",
@@ -23552,6 +23633,96 @@
         "Singular_ja": "ダーティ・ラット",
         "Singular_ko": "더러운 쥐"
     },
+    "12360": {
+        "0xID": "3048",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12361": {
+        "0xID": "3049",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12362": {
+        "0xID": "304A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12363": {
+        "0xID": "304B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12364": {
+        "0xID": "304C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12365": {
+        "0xID": "304D",
+        "Singular_cn": "",
+        "Singular_de": "Golbez",
+        "Singular_en": "Golbez",
+        "Singular_fr": "Golbez",
+        "Singular_ja": "ゴルベーザ",
+        "Singular_ko": ""
+    },
+    "12366": {
+        "0xID": "304E",
+        "Singular_cn": "",
+        "Singular_de": "Phantom-Golbez",
+        "Singular_en": "Golbez's shadow",
+        "Singular_fr": "spectre de Golbez",
+        "Singular_ja": "ゴルベーザの幻影",
+        "Singular_ko": ""
+    },
+    "12367": {
+        "0xID": "304F",
+        "Singular_cn": "",
+        "Singular_de": "Schattendrache",
+        "Singular_en": "shadow dragon",
+        "Singular_fr": "dragonne obscure",
+        "Singular_ja": "黒竜",
+        "Singular_ko": ""
+    },
+    "12368": {
+        "0xID": "3050",
+        "Singular_cn": "",
+        "Singular_de": "Windorbis",
+        "Singular_en": "gale sphere",
+        "Singular_fr": "sphère de vent",
+        "Singular_ja": "風球",
+        "Singular_ko": ""
+    },
+    "12369": {
+        "0xID": "3051",
+        "Singular_cn": "",
+        "Singular_de": "Kokytos",
+        "Singular_en": "Kokytos",
+        "Singular_fr": "Cocyte",
+        "Singular_ja": "コキュートス",
+        "Singular_ko": ""
+    },
     "1237": {
         "0xID": "4D5",
         "Singular_cn": "诺诺卢恩",
@@ -23560,6 +23731,96 @@
         "Singular_fr": "Nonoroon renifle-nid",
         "Singular_ja": "メメルン交易商会 ノノルン",
         "Singular_ko": "노노룬"
+    },
+    "12370": {
+        "0xID": "3052",
+        "Singular_cn": "",
+        "Singular_de": "Phantom-Kokytos",
+        "Singular_en": "Kokytos's echo",
+        "Singular_fr": "spectre de Cocyte",
+        "Singular_ja": "コキュートスの幻影",
+        "Singular_ko": ""
+    },
+    "12371": {
+        "0xID": "3053",
+        "Singular_cn": "",
+        "Singular_de": "Elektrosphäre",
+        "Singular_en": "ball of levin",
+        "Singular_fr": "orbe de foudre",
+        "Singular_ja": "雷球",
+        "Singular_ko": ""
+    },
+    "12372": {
+        "0xID": "3054",
+        "Singular_cn": "",
+        "Singular_de": "Meteor",
+        "Singular_en": "comet",
+        "Singular_fr": "comète",
+        "Singular_ja": "コメット",
+        "Singular_ko": ""
+    },
+    "12373": {
+        "0xID": "3055",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12374": {
+        "0xID": "3056",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12375": {
+        "0xID": "3057",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12376": {
+        "0xID": "3058",
+        "Singular_cn": "",
+        "Singular_de": "Klabauter-Matrose",
+        "Singular_en": "Kraken's Arms deckhand",
+        "Singular_fr": "marin de la Horde du kraken",
+        "Singular_ja": "百鬼夜行の甲板員",
+        "Singular_ko": ""
+    },
+    "12377": {
+        "0xID": "3059",
+        "Singular_cn": "",
+        "Singular_de": "Athena",
+        "Singular_en": "Athena",
+        "Singular_fr": "Athéna",
+        "Singular_ja": "アテナ",
+        "Singular_ko": ""
+    },
+    "12378": {
+        "0xID": "305A",
+        "Singular_cn": "",
+        "Singular_de": "Anthropos",
+        "Singular_en": "anthropos",
+        "Singular_fr": "anthropos",
+        "Singular_ja": "アンスロポス",
+        "Singular_ko": ""
+    },
+    "12379": {
+        "0xID": "305B",
+        "Singular_cn": "",
+        "Singular_de": "Logos",
+        "Singular_en": "logou idea",
+        "Singular_fr": "logou idea",
+        "Singular_ja": "ロゴス・イデア",
+        "Singular_ko": ""
     },
     "1238": {
         "0xID": "4D6",
@@ -23570,6 +23831,96 @@
         "Singular_ja": "狂犬のラタタ",
         "Singular_ko": "미친개 라타타"
     },
+    "12380": {
+        "0xID": "305C",
+        "Singular_cn": "",
+        "Singular_de": "Thymos",
+        "Singular_en": "thymou idea",
+        "Singular_fr": "thymou idea",
+        "Singular_ja": "テューモス・イデア",
+        "Singular_ko": ""
+    },
+    "12381": {
+        "0xID": "305D",
+        "Singular_cn": "",
+        "Singular_de": "Epithymia",
+        "Singular_en": "epithymias idea ",
+        "Singular_fr": "epithymia idea",
+        "Singular_ja": "エピテューミア・イデア",
+        "Singular_ko": ""
+    },
+    "12382": {
+        "0xID": "305E",
+        "Singular_cn": "",
+        "Singular_de": "_rsv_12382_-1_2_0_0_S64755250_E64755250",
+        "Singular_en": "Pallas Athena",
+        "Singular_fr": "_rsv_12382_-1_3_0_0_S64755250_E64755250",
+        "Singular_ja": "_rsv_12382_-1_0_0_0_S64755250_E64755250",
+        "Singular_ko": ""
+    },
+    "12383": {
+        "0xID": "305F",
+        "Singular_cn": "",
+        "Singular_de": "_rsv_12383_-1_2_0_0_S64755250_E64755250",
+        "Singular_en": "hemitheos",
+        "Singular_fr": "_rsv_12383_-1_3_0_0_S64755250_E64755250",
+        "Singular_ja": "_rsv_12383_-1_0_0_0_S64755250_E64755250",
+        "Singular_ko": ""
+    },
+    "12384": {
+        "0xID": "3060",
+        "Singular_cn": "",
+        "Singular_de": "_rsv_12384_-1_2_0_0_S64755250_E64755250",
+        "Singular_en": "concept of fire",
+        "Singular_fr": "_rsv_12384_-1_3_0_0_S64755250_E64755250",
+        "Singular_ja": "_rsv_12384_-1_0_0_0_S64755250_E64755250",
+        "Singular_ko": ""
+    },
+    "12385": {
+        "0xID": "3061",
+        "Singular_cn": "",
+        "Singular_de": "_rsv_12385_-1_2_0_0_S64755250_E64755250",
+        "Singular_en": "concept of water",
+        "Singular_fr": "_rsv_12385_-1_3_0_0_S64755250_E64755250",
+        "Singular_ja": "_rsv_12385_-1_0_0_0_S64755250_E64755250",
+        "Singular_ko": ""
+    },
+    "12386": {
+        "0xID": "3062",
+        "Singular_cn": "",
+        "Singular_de": "_rsv_12386_-1_2_0_0_S64755250_E64755250",
+        "Singular_en": "concept of earth",
+        "Singular_fr": "_rsv_12386_-1_3_0_0_S64755250_E64755250",
+        "Singular_ja": "_rsv_12386_-1_0_0_0_S64755250_E64755250",
+        "Singular_ko": ""
+    },
+    "12387": {
+        "0xID": "3063",
+        "Singular_cn": "",
+        "Singular_de": "_rsv_12387_-1_2_0_0_S64755250_E64755250",
+        "Singular_en": "forbidden factor",
+        "Singular_fr": "_rsv_12387_-1_3_0_0_S64755250_E64755250",
+        "Singular_ja": "_rsv_12387_-1_0_0_0_S64755250_E64755250",
+        "Singular_ko": ""
+    },
+    "12388": {
+        "0xID": "3064",
+        "Singular_cn": "",
+        "Singular_de": "Themis",
+        "Singular_en": "Themis",
+        "Singular_fr": "Thémis",
+        "Singular_ja": "テミス",
+        "Singular_ko": ""
+    },
+    "12389": {
+        "0xID": "3065",
+        "Singular_cn": "",
+        "Singular_de": "Phantom-Themis",
+        "Singular_en": "illusory Themis",
+        "Singular_fr": "spectre de Thémis",
+        "Singular_ja": "テミスの幻影",
+        "Singular_ko": ""
+    },
     "1239": {
         "0xID": "4D7",
         "Singular_cn": "猎犬同盟甲板员",
@@ -23578,6 +23929,96 @@
         "Singular_fr": "matelot des Dogues de mer",
         "Singular_ja": "猟犬同盟の甲板員",
         "Singular_ko": "사냥개동맹 갑판원"
+    },
+    "12390": {
+        "0xID": "3066",
+        "Singular_cn": "",
+        "Singular_de": "arkan[a] Körper",
+        "Singular_en": "arcane sphere",
+        "Singular_fr": "sphère arcanique",
+        "Singular_ja": "立体魔法陣",
+        "Singular_ko": ""
+    },
+    "12391": {
+        "0xID": "3067",
+        "Singular_cn": "",
+        "Singular_de": "arkan[a] Zylinder",
+        "Singular_en": "arcane cylinder",
+        "Singular_fr": "sphère arcanique orientée",
+        "Singular_ja": "指向魔法陣",
+        "Singular_ko": ""
+    },
+    "12392": {
+        "0xID": "3068",
+        "Singular_cn": "",
+        "Singular_de": "Experiment Nummer XXIV",
+        "Singular_en": "Subject Number XXIV",
+        "Singular_fr": "sujet expérimental Numéro XXIV",
+        "Singular_ja": "実験体ナンバーXXIV",
+        "Singular_ko": ""
+    },
+    "12393": {
+        "0xID": "3069",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12394": {
+        "0xID": "306A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12395": {
+        "0xID": "306B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12396": {
+        "0xID": "306C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12397": {
+        "0xID": "306D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12398": {
+        "0xID": "306E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12399": {
+        "0xID": "306F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
     },
     "124": {
         "0xID": "7C",
@@ -23597,6 +24038,96 @@
         "Singular_ja": "猟犬同盟の航海士",
         "Singular_ko": "사냥개동맹 항해사"
     },
+    "12400": {
+        "0xID": "3070",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12401": {
+        "0xID": "3071",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12402": {
+        "0xID": "3072",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12403": {
+        "0xID": "3073",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12404": {
+        "0xID": "3074",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12405": {
+        "0xID": "3075",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12406": {
+        "0xID": "3076",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12407": {
+        "0xID": "3077",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12408": {
+        "0xID": "3078",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12409": {
+        "0xID": "3079",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
     "1241": {
         "0xID": "4D9",
         "Singular_cn": "装谷物的木箱",
@@ -23605,6 +24136,96 @@
         "Singular_fr": "caisse de céréales",
         "Singular_ja": "穀物入りの木箱",
         "Singular_ko": "곡물 상자"
+    },
+    "12410": {
+        "0xID": "307A",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12411": {
+        "0xID": "307B",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12412": {
+        "0xID": "307C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12413": {
+        "0xID": "307D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12414": {
+        "0xID": "307E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12415": {
+        "0xID": "307F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12416": {
+        "0xID": "3080",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12417": {
+        "0xID": "3081",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12418": {
+        "0xID": "3082",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12419": {
+        "0xID": "3083",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
     },
     "1242": {
         "0xID": "4DA",
@@ -23615,6 +24236,96 @@
         "Singular_ja": "人買のナヨク・ロー",
         "Singular_ko": "인신매매범 나요크 로"
     },
+    "12420": {
+        "0xID": "3084",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12421": {
+        "0xID": "3085",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12422": {
+        "0xID": "3086",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12423": {
+        "0xID": "3087",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12424": {
+        "0xID": "3088",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12425": {
+        "0xID": "3089",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12426": {
+        "0xID": "308A",
+        "Singular_cn": "",
+        "Singular_de": "pandæmonisch[a] Turm",
+        "Singular_en": "pandæmoniac pillar",
+        "Singular_fr": "pilier pandæmoniaque",
+        "Singular_ja": "万魔殿の塔",
+        "Singular_ko": ""
+    },
+    "12427": {
+        "0xID": "308B",
+        "Singular_cn": "",
+        "Singular_de": "pandæmonisch[a] Turm",
+        "Singular_en": "pandæmoniac pillar",
+        "Singular_fr": "pilier pandæmoniaque",
+        "Singular_ja": "万魔殿の塔",
+        "Singular_ko": ""
+    },
+    "12428": {
+        "0xID": "308C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12429": {
+        "0xID": "308D",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
     "1243": {
         "0xID": "4DB",
         "Singular_cn": "守财奴 兹兹卢恩",
@@ -23623,6 +24334,96 @@
         "Singular_fr": "Zuzuroon le grippe-sou",
         "Singular_ja": "守銭奴のズズルン",
         "Singular_ko": "수전노 즈즈룬"
+    },
+    "12430": {
+        "0xID": "308E",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12431": {
+        "0xID": "308F",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12432": {
+        "0xID": "3090",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12433": {
+        "0xID": "3091",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12434": {
+        "0xID": "3092",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12435": {
+        "0xID": "3093",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12436": {
+        "0xID": "3094",
+        "Singular_cn": "",
+        "Singular_de": "Papageientaucher",
+        "Singular_en": "puffin",
+        "Singular_fr": "macareux",
+        "Singular_ja": "パフィン",
+        "Singular_ko": ""
+    },
+    "12437": {
+        "0xID": "3095",
+        "Singular_cn": "",
+        "Singular_de": "Mosasaurus",
+        "Singular_en": "mossasaurus",
+        "Singular_fr": "mossasaure",
+        "Singular_ja": "モサモサウルス",
+        "Singular_ko": ""
+    },
+    "12438": {
+        "0xID": "3096",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12439": {
+        "0xID": "3097",
+        "Singular_cn": "",
+        "Singular_de": "Dampf-Otter",
+        "Singular_en": "posher otter",
+        "Singular_fr": "loutre choute fringante",
+        "Singular_ja": "スチームウソウソ",
+        "Singular_ko": ""
     },
     "1244": {
         "0xID": "4DC",
@@ -23633,6 +24434,96 @@
         "Singular_ja": "キキルン・トラフィッカー",
         "Singular_ko": "키키룬 밀매상"
     },
+    "12440": {
+        "0xID": "3098",
+        "Singular_cn": "",
+        "Singular_de": "Rubellit-Waffe",
+        "Singular_en": "Rubellite Weapon",
+        "Singular_fr": "Arme Rubellite",
+        "Singular_ja": "ルベライトウェポン",
+        "Singular_ko": ""
+    },
+    "12441": {
+        "0xID": "3099",
+        "Singular_cn": "",
+        "Singular_de": "Schimpanse",
+        "Singular_en": "chimpanzee",
+        "Singular_fr": "chimpanzé",
+        "Singular_ja": "チンパンジー",
+        "Singular_ko": ""
+    },
+    "12442": {
+        "0xID": "309A",
+        "Singular_cn": "",
+        "Singular_de": "aufgeregt[a] Dynamit",
+        "Singular_en": "exciting dynamite",
+        "Singular_fr": "dynamite exaltante",
+        "Singular_ja": "エキサイティング・ダイナマイト",
+        "Singular_ko": ""
+    },
+    "12443": {
+        "0xID": "309B",
+        "Singular_cn": "",
+        "Singular_de": "Lyssa Mikra",
+        "Singular_en": "mikra Lyssa",
+        "Singular_fr": "mikra Lyssa",
+        "Singular_ja": "ミクラ・リッサ",
+        "Singular_ko": ""
+    },
+    "12444": {
+        "0xID": "309C",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12445": {
+        "0xID": "309D",
+        "Singular_cn": "",
+        "Singular_de": "Aufzieh-Athena",
+        "Singular_en": "wind-up Athena",
+        "Singular_fr": "Athéna miniature",
+        "Singular_ja": "マメット・アテナ",
+        "Singular_ko": ""
+    },
+    "12446": {
+        "0xID": "309E",
+        "Singular_cn": "",
+        "Singular_de": "Aufzieh-Barbarizia",
+        "Singular_en": "wind-up Barbariccia",
+        "Singular_fr": "Barbariccia miniature",
+        "Singular_ja": "マメット・バルバリシア",
+        "Singular_ko": ""
+    },
+    "12447": {
+        "0xID": "309F",
+        "Singular_cn": "",
+        "Singular_de": "Shakoki-Dogu",
+        "Singular_en": "goggle-eyed dogu",
+        "Singular_fr": "dogû globuleux",
+        "Singular_ja": "遮光器土偶",
+        "Singular_ko": ""
+    },
+    "12448": {
+        "0xID": "30A0",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12449": {
+        "0xID": "30A1",
+        "Singular_cn": "",
+        "Singular_de": "Feuersphäre",
+        "Singular_en": "fire sphere",
+        "Singular_fr": "sphère de feu",
+        "Singular_ja": "ファイアスフィア",
+        "Singular_ko": ""
+    },
     "1245": {
         "0xID": "4DD",
         "Singular_cn": "茶茶姆恩",
@@ -23641,6 +24532,96 @@
         "Singular_fr": "Chachamun",
         "Singular_ja": "武具屋 チャチャムン",
         "Singular_ko": "차차문"
+    },
+    "12450": {
+        "0xID": "30A2",
+        "Singular_cn": "",
+        "Singular_de": "Eissphäre",
+        "Singular_en": "ice sphere",
+        "Singular_fr": "sphère gelée",
+        "Singular_ja": "アイススフィア",
+        "Singular_ko": ""
+    },
+    "12451": {
+        "0xID": "30A3",
+        "Singular_cn": "",
+        "Singular_de": "Kokytos-Magierin",
+        "Singular_en": "mage's lament",
+        "Singular_fr": "Cocyte mage",
+        "Singular_ja": "メイガス・コキュートス",
+        "Singular_ko": ""
+    },
+    "12452": {
+        "0xID": "30A4",
+        "Singular_cn": "",
+        "Singular_de": "Kokytos-Krieger",
+        "Singular_en": "martialist's lament",
+        "Singular_fr": "Cocyte artiste martial",
+        "Singular_ja": "マーシャリスト・コキュートス",
+        "Singular_ko": ""
+    },
+    "12453": {
+        "0xID": "30A5",
+        "Singular_cn": "",
+        "Singular_de": "Kokytos-Bestie",
+        "Singular_en": "beast's lament",
+        "Singular_fr": "Cocyte bête sauvage",
+        "Singular_ja": "ビースト・コキュートス",
+        "Singular_ko": ""
+    },
+    "12454": {
+        "0xID": "30A6",
+        "Singular_cn": "",
+        "Singular_de": "Kokytos-Chimäre",
+        "Singular_en": "chimera's lament",
+        "Singular_fr": "Cocyte chimère",
+        "Singular_ja": "キメリック・コキュートス",
+        "Singular_ko": ""
+    },
+    "12455": {
+        "0xID": "30A7",
+        "Singular_cn": "",
+        "Singular_de": "Satellit auf Abwegen",
+        "Singular_en": "runaway satellite",
+        "Singular_fr": "satellite fugitif",
+        "Singular_ja": "ランナウェイ・サテライト",
+        "Singular_ko": ""
+    },
+    "12456": {
+        "0xID": "30A8",
+        "Singular_cn": "",
+        "Singular_de": "Quarz-Spriggan",
+        "Singular_en": "quartz spriggan",
+        "Singular_fr": "spriggan albâtre",
+        "Singular_ja": "スプリガン・アルバ",
+        "Singular_ko": ""
+    },
+    "12457": {
+        "0xID": "30A9",
+        "Singular_cn": "",
+        "Singular_de": "Amethyst-Spriggan",
+        "Singular_en": "amethyst spriggan",
+        "Singular_fr": "spriggan lilas",
+        "Singular_ja": "スプリガン・リラ",
+        "Singular_ko": ""
+    },
+    "12458": {
+        "0xID": "30AA",
+        "Singular_cn": "",
+        "Singular_de": "wild[a] Keiler",
+        "Singular_en": "wild boar",
+        "Singular_fr": "sanglier sauvage",
+        "Singular_ja": "ワイルドボア",
+        "Singular_ko": ""
+    },
+    "12459": {
+        "0xID": "30AB",
+        "Singular_cn": "",
+        "Singular_de": "Paradies-Keiler",
+        "Singular_en": "boar of paradise",
+        "Singular_fr": "sanglier paradisiaque",
+        "Singular_ja": "パライソボア",
+        "Singular_ko": ""
     },
     "1246": {
         "0xID": "4DE",
@@ -23651,6 +24632,96 @@
         "Singular_ja": "バートラム",
         "Singular_ko": "버트램"
     },
+    "12460": {
+        "0xID": "30AC",
+        "Singular_cn": "",
+        "Singular_de": "Weird",
+        "Singular_en": "weird spriggan",
+        "Singular_fr": "spriggan extravagant",
+        "Singular_ja": "ウィアード・スプリガン",
+        "Singular_ko": ""
+    },
+    "12461": {
+        "0xID": "30AD",
+        "Singular_cn": "",
+        "Singular_de": "Fungus",
+        "Singular_en": "funguar",
+        "Singular_fr": "fungus",
+        "Singular_ja": "ファンガー",
+        "Singular_ko": ""
+    },
+    "12462": {
+        "0xID": "30AE",
+        "Singular_cn": "",
+        "Singular_de": "Alkonost",
+        "Singular_en": "alkonost",
+        "Singular_fr": "alkonost",
+        "Singular_ja": "アルコノスト",
+        "Singular_ko": ""
+    },
+    "12463": {
+        "0xID": "30AF",
+        "Singular_cn": "",
+        "Singular_de": "Carvallain",
+        "Singular_en": "Carvallain",
+        "Singular_fr": "Carvallain",
+        "Singular_ja": "カルヴァラン",
+        "Singular_ko": ""
+    },
+    "12464": {
+        "0xID": "30B0",
+        "Singular_cn": "",
+        "Singular_de": "Gosetsu",
+        "Singular_en": "Gosetsu",
+        "Singular_fr": "Gosetsu",
+        "Singular_ja": "ゴウセツ",
+        "Singular_ko": ""
+    },
+    "12465": {
+        "0xID": "30B1",
+        "Singular_cn": "",
+        "Singular_de": "jung[a] Mol",
+        "Singular_en": "Mol youth",
+        "Singular_fr": "jeune Mol",
+        "Singular_ja": "モル族の若者",
+        "Singular_ko": ""
+    },
+    "12466": {
+        "0xID": "30B2",
+        "Singular_cn": "",
+        "Singular_de": "Yugiri",
+        "Singular_en": "Yugiri",
+        "Singular_fr": "Yugiri",
+        "Singular_ja": "ユウギリ",
+        "Singular_ko": ""
+    },
+    "12467": {
+        "0xID": "30B3",
+        "Singular_cn": "",
+        "Singular_de": "domanisch[a] Befreierin",
+        "Singular_en": "Doman liberator",
+        "Singular_fr": "intrépide de Doma",
+        "Singular_ja": "ドマの烈士",
+        "Singular_ko": ""
+    },
+    "12468": {
+        "0xID": "30B4",
+        "Singular_cn": "",
+        "Singular_de": "domanisch[a] Priester",
+        "Singular_en": "Doman shaman",
+        "Singular_fr": "prêtre de Doma",
+        "Singular_ja": "ドマの巫士",
+        "Singular_ko": ""
+    },
+    "12469": {
+        "0xID": "30B5",
+        "Singular_cn": "",
+        "Singular_de": "Befreiungskämpfer",
+        "Singular_en": "Resistance fighter",
+        "Singular_fr": "combattant de l'armée de libération",
+        "Singular_ja": "解放軍の闘士",
+        "Singular_ko": ""
+    },
     "1247": {
         "0xID": "4DF",
         "Singular_cn": "泰尼·奥罗克斯",
@@ -23659,6 +24730,96 @@
         "Singular_fr": "Tiny Aurochs",
         "Singular_ja": "タイニー・オーロクス",
         "Singular_ko": "작은 들소"
+    },
+    "12470": {
+        "0xID": "30B6",
+        "Singular_cn": "",
+        "Singular_de": "Befreiungsarmee-Pikenier",
+        "Singular_en": "Resistance pikedancer",
+        "Singular_fr": "piquière de l'armée de libération",
+        "Singular_ja": "解放軍のパイク兵",
+        "Singular_ko": ""
+    },
+    "12471": {
+        "0xID": "30B7",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12472": {
+        "0xID": "30B8",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12473": {
+        "0xID": "30B9",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12474": {
+        "0xID": "30BA",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12475": {
+        "0xID": "30BB",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12476": {
+        "0xID": "30BC",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12477": {
+        "0xID": "30BD",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12478": {
+        "0xID": "30BE",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12479": {
+        "0xID": "30BF",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
     },
     "1248": {
         "0xID": "4E0",
@@ -23669,6 +24830,96 @@
         "Singular_ja": "ルルラジ",
         "Singular_ko": "루루라지"
     },
+    "12480": {
+        "0xID": "30C0",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12481": {
+        "0xID": "30C1",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12482": {
+        "0xID": "30C2",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12483": {
+        "0xID": "30C3",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12484": {
+        "0xID": "30C4",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12485": {
+        "0xID": "30C5",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12486": {
+        "0xID": "30C6",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12487": {
+        "0xID": "30C7",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12488": {
+        "0xID": "30C8",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12489": {
+        "0xID": "30C9",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
     "1249": {
         "0xID": "4E1",
         "Singular_cn": "加加恩佐",
@@ -23677,6 +24928,96 @@
         "Singular_fr": "Jajanzo",
         "Singular_ja": "ジャジャンゾ",
         "Singular_ko": "자자응조"
+    },
+    "12490": {
+        "0xID": "30CA",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12491": {
+        "0xID": "30CB",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12492": {
+        "0xID": "30CC",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12493": {
+        "0xID": "30CD",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12494": {
+        "0xID": "30CE",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12495": {
+        "0xID": "30CF",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12496": {
+        "0xID": "30D0",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12497": {
+        "0xID": "30D1",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12498": {
+        "0xID": "30D2",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "12499": {
+        "0xID": "30D3",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
     },
     "125": {
         "0xID": "7D",
@@ -23695,6 +25036,15 @@
         "Singular_fr": "Aldebrand",
         "Singular_ja": "アルデブランド",
         "Singular_ko": "알드브랜드"
+    },
+    "12500": {
+        "0xID": "30D4",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
     },
     "1251": {
         "0xID": "4E3",
@@ -77834,10 +79184,10 @@
     "6666": {
         "0xID": "1A0A",
         "Singular_cn": "昏倒的冒险者",
-        "Singular_de": "bewusstlos[a] Abenteurer",
-        "Singular_en": "unconscious adventurer",
-        "Singular_fr": "aventurier inconscient",
-        "Singular_ja": "昏倒した冒険者",
+        "Singular_de": "bewusstlos[a] Person",
+        "Singular_en": "empty vessel",
+        "Singular_fr": "corps inerte",
+        "Singular_ja": "昏倒した身体",
         "Singular_ko": "기절한 모험가"
     },
     "6667": {
@@ -103809,7 +105159,7 @@
         "0xID": "242F",
         "Singular_cn": "克琉普斯",
         "Singular_de": "Kyklops",
-        "Singular_en": "Kyklops",
+        "Singular_en": "kyklops",
         "Singular_fr": "Kyklops",
         "Singular_ja": "クリュプス",
         "Singular_ko": "키클롭스"

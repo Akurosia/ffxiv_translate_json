@@ -2168,15 +2168,6 @@
         "Singular_ja": "",
         "Singular_ko": ""
     },
-    "2000265": {
-        "0xID": "1E8589",
-        "Singular_cn": "\u00d7\u9577\u8c37\u5ddd\u30c6\u30b9\u30c8\u30aa\u30d6\u30b8\u30a7\u30af\u30c8",
-        "Singular_de": "\u00d7\u9577\u8c37\u5ddd\u30c6\u30b9\u30c8\u30aa\u30d6\u30b8\u30a7\u30af\u30c8",
-        "Singular_en": "\u00d7\u9577\u8c37\u5ddd\u30c6\u30b9\u30c8\u30aa\u30d6\u30b8\u30a7\u30af\u30c8",
-        "Singular_fr": "\u00d7\u9577\u8c37\u5ddd\u30c6\u30b9\u30c8\u30aa\u30d6\u30b8\u30a7\u30af\u30c8",
-        "Singular_ja": "\u00d7\u9577\u8c37\u5ddd\u30c6\u30b9\u30c8\u30aa\u30d6\u30b8\u30a7\u30af\u30c8",
-        "Singular_ko": "\u00d7\u9577\u8c37\u5ddd\u30c6\u30b9\u30c8\u30aa\u30d6\u30b8\u30a7\u30af\u30c8"
-    },
     "2000266": {
         "0xID": "1E858A",
         "Singular_cn": "",
@@ -98486,6 +98477,15 @@
         "Singular_ja": "",
         "Singular_ko": ""
     },
+    "2011709": {
+        "0xID": "1EB23D",
+        "Singular_cn": "",
+        "Singular_de": "Portal",
+        "Singular_en": "entrance",
+        "Singular_fr": "entr\u00e9e",
+        "Singular_ja": "\u9032\u5165\u5730\u70b9",
+        "Singular_ko": ""
+    },
     "2011711": {
         "0xID": "1EB23F",
         "Singular_cn": "",
@@ -108188,33 +108188,6 @@
         "Singular_ja": "",
         "Singular_ko": ""
     },
-    "2012808": {
-        "0xID": "1EB688",
-        "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
-        "Singular_ko": ""
-    },
-    "2012809": {
-        "0xID": "1EB689",
-        "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
-        "Singular_ko": ""
-    },
-    "2012810": {
-        "0xID": "1EB68A",
-        "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
-        "Singular_ko": ""
-    },
     "2012811": {
         "0xID": "1EB68B",
         "Singular_cn": "\u9b54\u5bfc\u7ec8\u7aef",
@@ -110330,24 +110303,6 @@
         "Singular_ja": "",
         "Singular_ko": ""
     },
-    "2013080": {
-        "0xID": "1EB798",
-        "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
-        "Singular_ko": ""
-    },
-    "2013081": {
-        "0xID": "1EB799",
-        "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
-        "Singular_ko": ""
-    },
     "2013082": {
         "0xID": "1EB79A",
         "Singular_cn": "",
@@ -111656,7 +111611,7 @@
     "2013227": {
         "0xID": "1EB82B",
         "Singular_cn": "\u79fb\u52a8\u5230\u52a0\u96f7\u9a6c",
-        "Singular_de": "Weg nach Garlemald",
+        "Singular_de": "Ausgang",
         "Singular_en": "exit to Garlemald",
         "Singular_fr": "acc\u00e8s \u00e0 Garlemald",
         "Singular_ja": "\u30ac\u30ec\u30de\u30eb\u30c9\u3078\u79fb\u52d5\u3059\u308b",
@@ -112380,6 +112335,609 @@
         "Singular_en": "",
         "Singular_fr": "",
         "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013313": {
+        "0xID": "1EB881",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013314": {
+        "0xID": "1EB882",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013315": {
+        "0xID": "1EB883",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013320": {
+        "0xID": "1EB888",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013321": {
+        "0xID": "1EB889",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013322": {
+        "0xID": "1EB88A",
+        "Singular_cn": "",
+        "Singular_de": "Zielort",
+        "Singular_en": "destination",
+        "Singular_fr": "destination",
+        "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013338": {
+        "0xID": "1EB89A",
+        "Singular_cn": "",
+        "Singular_de": "Zielort",
+        "Singular_en": "destination",
+        "Singular_fr": "destination",
+        "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013339": {
+        "0xID": "1EB89B",
+        "Singular_cn": "",
+        "Singular_de": "Teleportationszirkel",
+        "Singular_en": "entrance",
+        "Singular_fr": "entr\u00e9e",
+        "Singular_ja": "\u9032\u5165\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013340": {
+        "0xID": "1EB89C",
+        "Singular_cn": "",
+        "Singular_de": "Portal",
+        "Singular_en": "entrance",
+        "Singular_fr": "entr\u00e9e",
+        "Singular_ja": "\u9032\u5165\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013341": {
+        "0xID": "1EB89D",
+        "Singular_cn": "",
+        "Singular_de": "Zugang zum D\u00e6monischen Nest",
+        "Singular_en": "passage to the D\u00e6mons' Nest",
+        "Singular_fr": "acc\u00e8s \u00e0 la Maternit\u00e9 d\u00e9moniaque",
+        "Singular_ja": "\u4e07\u9b54\u306e\u7523\u5c4b\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013342": {
+        "0xID": "1EB89E",
+        "Singular_cn": "",
+        "Singular_de": "Zugang zum Aitiaskop",
+        "Singular_en": "passage to the Aitiascope",
+        "Singular_fr": "acc\u00e8s au Prisme de l'Aitia",
+        "Singular_ja": "\u30a2\u30a4\u30c6\u30a3\u30aa\u30f3\u661f\u6676\u93e1\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013349": {
+        "0xID": "1EB8A5",
+        "Singular_cn": "",
+        "Singular_de": "Auswahl an Gew\u00fcrzs\u00e4cken",
+        "Singular_en": "selection of spice",
+        "Singular_fr": "sacs remplis d'\u00e9pices",
+        "Singular_ja": "\u30b9\u30d1\u30a4\u30b9\u306e\u8a70\u307e\u3063\u305f\u888b",
+        "Singular_ko": ""
+    },
+    "2013350": {
+        "0xID": "1EB8A6",
+        "Singular_cn": "",
+        "Singular_de": "Erdseimfass",
+        "Singular_en": "barrel of ceruleum",
+        "Singular_fr": "barils de c\u00e9ruleum",
+        "Singular_ja": "\u9752\u71d0\u6c34\u5165\u308a\u306e\u30bf\u30eb",
+        "Singular_ko": ""
+    },
+    "2013351": {
+        "0xID": "1EB8A7",
+        "Singular_cn": "",
+        "Singular_de": "Stapel von G\u00fctern",
+        "Singular_en": "pile of crates",
+        "Singular_fr": "caisses de marchandises",
+        "Singular_ja": "\u7a4d\u307e\u308c\u305f\u7269\u8cc7",
+        "Singular_ko": ""
+    },
+    "2013352": {
+        "0xID": "1EB8A8",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013353": {
+        "0xID": "1EB8A9",
+        "Singular_cn": "",
+        "Singular_de": "Zielort",
+        "Singular_en": "destination",
+        "Singular_fr": "destination",
+        "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013354": {
+        "0xID": "1EB8AA",
+        "Singular_cn": "",
+        "Singular_de": "interessant[a] Stelle",
+        "Singular_en": "point of interest",
+        "Singular_fr": "point d'int\u00e9r\u00eat",
+        "Singular_ja": "\u63a2\u7d22\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013355": {
+        "0xID": "1EB8AB",
+        "Singular_cn": "",
+        "Singular_de": "interessant[a] Stelle",
+        "Singular_en": "point of interest",
+        "Singular_fr": "point d'int\u00e9r\u00eat",
+        "Singular_ja": "\u63a2\u7d22\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013356": {
+        "0xID": "1EB8AC",
+        "Singular_cn": "",
+        "Singular_de": "interessant[a] Stelle",
+        "Singular_en": "point of interest",
+        "Singular_fr": "point d'int\u00e9r\u00eat",
+        "Singular_ja": "\u63a2\u7d22\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013357": {
+        "0xID": "1EB8AD",
+        "Singular_cn": "",
+        "Singular_de": "interessant[a] Stelle",
+        "Singular_en": "point of interest",
+        "Singular_fr": "point d'int\u00e9r\u00eat",
+        "Singular_ja": "\u63a2\u7d22\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013358": {
+        "0xID": "1EB8AE",
+        "Singular_cn": "",
+        "Singular_de": "Weg nach Radz-at-Han",
+        "Singular_en": "passage to Radz-at-Han",
+        "Singular_fr": "acc\u00e8s \u00e0 Radz-at-Han",
+        "Singular_ja": "\u30e9\u30b6\u30cf\u30f3\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013359": {
+        "0xID": "1EB8AF",
+        "Singular_cn": "",
+        "Singular_de": "Portal",
+        "Singular_en": "entrance",
+        "Singular_fr": "entr\u00e9e",
+        "Singular_ja": "\u9032\u5165\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013360": {
+        "0xID": "1EB8B0",
+        "Singular_cn": "",
+        "Singular_de": "Eingang zum Senatus",
+        "Singular_en": "passage to Senatus",
+        "Singular_fr": "acc\u00e8s \u00e0 la gare de Senatus",
+        "Singular_ja": "\u30bb\u30ca\u30c8\u30a5\u30b9\u99c5\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013361": {
+        "0xID": "1EB8B1",
+        "Singular_cn": "",
+        "Singular_de": "Weg nach Garlemald",
+        "Singular_en": "passage to Garlemald",
+        "Singular_fr": "sortie",
+        "Singular_ja": "\u30ac\u30ec\u30de\u30eb\u30c9\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013362": {
+        "0xID": "1EB8B2",
+        "Singular_cn": "",
+        "Singular_de": "Portal zum roten Mond",
+        "Singular_en": "gate to the red moon",
+        "Singular_fr": "acc\u00e8s \u00e0 la lune rouge",
+        "Singular_ja": "\u8d64\u304d\u6708\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013363": {
+        "0xID": "1EB8B3",
+        "Singular_cn": "",
+        "Singular_de": "Portal nach Mare Lamentorum",
+        "Singular_en": "gate to Mare Lamentorum",
+        "Singular_fr": "acc\u00e8s \u00e0 Mare Lamentorum",
+        "Singular_ja": "\u5606\u304d\u306e\u6d77\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013364": {
+        "0xID": "1EB8B4",
+        "Singular_cn": "",
+        "Singular_de": "Portal",
+        "Singular_en": "entrance",
+        "Singular_fr": "entr\u00e9e",
+        "Singular_ja": "\u9032\u5165\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013365": {
+        "0xID": "1EB8B5",
+        "Singular_cn": "",
+        "Singular_de": "Portal zur Krone der Schatten",
+        "Singular_en": "the Voidcast Dais",
+        "Singular_fr": "acc\u00e8s \u00e0 l'hypercube de Golbez",
+        "Singular_ja": "\u7acb\u65b9\u9b54\u6cd5\u9663\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013366": {
+        "0xID": "1EB8B6",
+        "Singular_cn": "",
+        "Singular_de": "Portal zum roten Mond",
+        "Singular_en": "exit to the red moon",
+        "Singular_fr": "acc\u00e8s \u00e0 la lune rouge",
+        "Singular_ja": "\u8d64\u304d\u6708\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013375": {
+        "0xID": "1EB8BF",
+        "Singular_cn": "",
+        "Singular_de": "leuchtend[a] Pilz",
+        "Singular_en": "glowing fungus",
+        "Singular_fr": "champignon phosphorescent",
+        "Singular_ja": "\u767a\u5149\u3059\u308b\u30ad\u30ce\u30b3",
+        "Singular_ko": ""
+    },
+    "2013376": {
+        "0xID": "1EB8C0",
+        "Singular_cn": "",
+        "Singular_de": "Fossilgestein",
+        "Singular_en": "composite rock",
+        "Singular_fr": "roche fossilis\u00e9e",
+        "Singular_ja": "\u5316\u77f3\u3064\u304d\u306e\u5ca9",
+        "Singular_ko": ""
+    },
+    "2013377": {
+        "0xID": "1EB8C1",
+        "Singular_cn": "",
+        "Singular_de": "Stalaktit",
+        "Singular_en": "stalactite",
+        "Singular_fr": "stalactite",
+        "Singular_ja": "\u937e\u4e73\u77f3",
+        "Singular_ko": ""
+    },
+    "2013378": {
+        "0xID": "1EB8C2",
+        "Singular_cn": "",
+        "Singular_de": "Strauch Paradiesfeuerbohnen",
+        "Singular_en": "island runner beanstalk",
+        "Singular_fr": "haricot-fleur exotique",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30e9\u30ca\u30fc\u30d3\u30fc\u30f3\u30ba",
+        "Singular_ko": ""
+    },
+    "2013379": {
+        "0xID": "1EB8C3",
+        "Singular_cn": "",
+        "Singular_de": "Rot[a] Paradiesbete",
+        "Singular_en": "island beet",
+        "Singular_fr": "betterave exotique",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30d3\u30fc\u30c4",
+        "Singular_ko": ""
+    },
+    "2013380": {
+        "0xID": "1EB8C4",
+        "Singular_cn": "",
+        "Singular_de": "Paradiesaubergine",
+        "Singular_en": "island eggplant",
+        "Singular_fr": "aubergine exotique",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30a8\u30c3\u30b0\u30d7\u30e9\u30f3\u30c8",
+        "Singular_ko": ""
+    },
+    "2013381": {
+        "0xID": "1EB8C5",
+        "Singular_cn": "",
+        "Singular_de": "Paradieszucchini",
+        "Singular_en": "island zucchini",
+        "Singular_fr": "courgette exotique",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30ba\u30c3\u30ad\u30fc\u30cb",
+        "Singular_ko": ""
+    },
+    "2013383": {
+        "0xID": "1EB8C7",
+        "Singular_cn": "",
+        "Singular_de": "Zielort",
+        "Singular_en": "destination",
+        "Singular_fr": "destination",
+        "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013388": {
+        "0xID": "1EB8CC",
+        "Singular_cn": "",
+        "Singular_de": "Untersuchungsort",
+        "Singular_en": "point of interest",
+        "Singular_fr": "point d'observation",
+        "Singular_ja": "\u8abf\u67fb\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013389": {
+        "0xID": "1EB8CD",
+        "Singular_cn": "",
+        "Singular_de": "Untersuchungsort",
+        "Singular_en": "point of interest",
+        "Singular_fr": "point d'observation",
+        "Singular_ja": "\u8abf\u67fb\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013390": {
+        "0xID": "1EB8CE",
+        "Singular_cn": "",
+        "Singular_de": "Untersuchungsort",
+        "Singular_en": "point of interest",
+        "Singular_fr": "point d'observation",
+        "Singular_ja": "\u8abf\u67fb\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013399": {
+        "0xID": "1EB8D7",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013400": {
+        "0xID": "1EB8D8",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013401": {
+        "0xID": "1EB8D9",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013421": {
+        "0xID": "1EB8ED",
+        "Singular_cn": "",
+        "Singular_de": "\u00c4therstrom",
+        "Singular_en": "aetherial stream",
+        "Singular_fr": "flux \u00e9th\u00e9r\u00e9",
+        "Singular_ja": "\u30a8\u30fc\u30c6\u30eb\u306e\u5954\u6d41",
+        "Singular_ko": ""
+    },
+    "2013422": {
+        "0xID": "1EB8EE",
+        "Singular_cn": "",
+        "Singular_de": "Zielort",
+        "Singular_en": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_fr": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013423": {
+        "0xID": "1EB8EF",
+        "Singular_cn": "",
+        "Singular_de": "Zugang zum Okular",
+        "Singular_en": "portal to the Ocular",
+        "Singular_fr": "passage vers L'Observatoire",
+        "Singular_ja": "\u661f\u898b\u306e\u9593\u3078\u79fb\u52d5\u3059\u308b",
+        "Singular_ko": ""
+    },
+    "2013424": {
+        "0xID": "1EB8F0",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013425": {
+        "0xID": "1EB8F1",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013426": {
+        "0xID": "1EB8F2",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013427": {
+        "0xID": "1EB8F3",
+        "Singular_cn": "",
+        "Singular_de": "Zielort",
+        "Singular_en": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_fr": "destination",
+        "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013428": {
+        "0xID": "1EB8F4",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013429": {
+        "0xID": "1EB8F5",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013430": {
+        "0xID": "1EB8F6",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013431": {
+        "0xID": "1EB8F7",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013432": {
+        "0xID": "1EB8F8",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013433": {
+        "0xID": "1EB8F9",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013434": {
+        "0xID": "1EB8FA",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013435": {
+        "0xID": "1EB8FB",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013436": {
+        "0xID": "1EB8FC",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013437": {
+        "0xID": "1EB8FD",
+        "Singular_cn": "",
+        "Singular_de": "Leittafel \u201eBaugrund #6\u201c",
+        "Singular_en": "facility VI logboard",
+        "Singular_fr": "panneau de construction : installation 6",
+        "Singular_ja": "\u62e0\u70b9\u65bd\u8a2d6\u756a\u5730\u306e\u7ba1\u7406\u677f",
+        "Singular_ko": ""
+    },
+    "2013438": {
+        "0xID": "1EB8FE",
+        "Singular_cn": "",
+        "Singular_de": "Leittafel \u201eWahrzeichen #5\u201c",
+        "Singular_en": "landmark V logboard",
+        "Singular_fr": "panneau de construction : \u00e9difice 5",
+        "Singular_ja": "\u30e9\u30f3\u30c9\u30de\u30fc\u30af5\u756a\u5730\u306e\u7ba1\u7406\u677f",
+        "Singular_ko": ""
+    },
+    "2013439": {
+        "0xID": "1EB8FF",
+        "Singular_cn": "",
+        "Singular_de": "Zielort",
+        "Singular_en": "destination",
+        "Singular_fr": "destination",
+        "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
+        "Singular_ko": ""
+    },
+    "2013440": {
+        "0xID": "1EB900",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013441": {
+        "0xID": "1EB901",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013442": {
+        "0xID": "1EB902",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013443": {
+        "0xID": "1EB903",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "2013444": {
+        "0xID": "1EB904",
+        "Singular_cn": "",
+        "Singular_de": "Portal zum roten Mond",
+        "Singular_en": "gate to the red moon",
+        "Singular_fr": "acc\u00e8s \u00e0 la lune rouge",
+        "Singular_ja": "\u8d64\u304d\u6708\u3078\u79fb\u52d5\u3059\u308b",
         "Singular_ko": ""
     }
 }

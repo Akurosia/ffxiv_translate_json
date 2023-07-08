@@ -11,6 +11,26 @@
         "0xID": "A",
         "Member": "Kristallexarch"
     },
+    "100": {
+        "0xID": "64",
+        "Member": ""
+    },
+    "101": {
+        "0xID": "65",
+        "Member": "Alphinaud"
+    },
+    "102": {
+        "0xID": "66",
+        "Member": "Alphinaud"
+    },
+    "103": {
+        "0xID": "67",
+        "Member": "Alphinaud"
+    },
+    "104": {
+        "0xID": "68",
+        "Member": "Alisaie"
+    },
     "11": {
         "0xID": "B",
         "Member": "Kristallexarch"
@@ -347,8 +367,56 @@
         "0xID": "57",
         "Member": ""
     },
+    "88": {
+        "0xID": "58",
+        "Member": ""
+    },
+    "89": {
+        "0xID": "59",
+        "Member": ""
+    },
     "9": {
         "0xID": "9",
         "Member": "Kristallexarch"
+    },
+    "90": {
+        "0xID": "5A",
+        "Member": ""
+    },
+    "91": {
+        "0xID": "5B",
+        "Member": ""
+    },
+    "92": {
+        "0xID": "5C",
+        "Member": ""
+    },
+    "93": {
+        "0xID": "5D",
+        "Member": ""
+    },
+    "94": {
+        "0xID": "5E",
+        "Member": ""
+    },
+    "95": {
+        "0xID": "5F",
+        "Member": ""
+    },
+    "96": {
+        "0xID": "60",
+        "Member": ""
+    },
+    "97": {
+        "0xID": "61",
+        "Member": ""
+    },
+    "98": {
+        "0xID": "62",
+        "Member": ""
+    },
+    "99": {
+        "0xID": "63",
+        "Member": ""
     }
 }

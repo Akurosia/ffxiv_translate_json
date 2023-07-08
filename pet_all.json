@@ -317,19 +317,46 @@
     "40": {
         "0xID": "28",
         "Name_cn": "",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Obsidian-Karfunkel",
+        "Name_en": "Obsidian Carbuncle",
+        "Name_fr": "Carbuncle obsidienne",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30aa\u30d6\u30b7\u30c0\u30f3",
         "Name_ko": ""
     },
     "41": {
         "0xID": "29",
         "Name_cn": "",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Obsidian-Karfunkel",
+        "Name_en": "Obsidian Carbuncle",
+        "Name_fr": "Carbuncle obsidienne",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30aa\u30d6\u30b7\u30c0\u30f3",
+        "Name_ko": ""
+    },
+    "42": {
+        "0xID": "2A",
+        "Name_cn": "",
+        "Name_de": "Obsidian-Karfunkel",
+        "Name_en": "Obsidian Carbuncle",
+        "Name_fr": "Carbuncle obsidienne",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30aa\u30d6\u30b7\u30c0\u30f3",
+        "Name_ko": ""
+    },
+    "43": {
+        "0xID": "2B",
+        "Name_cn": "",
+        "Name_de": "Obsidian-Karfunkel",
+        "Name_en": "Obsidian Carbuncle",
+        "Name_fr": "Carbuncle obsidienne",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30aa\u30d6\u30b7\u30c0\u30f3",
+        "Name_ko": ""
+    },
+    "44": {
+        "0xID": "2C",
+        "Name_cn": "",
+        "Name_de": "Mondstein-Karfunkel",
+        "Name_en": "Moonstone Carbuncle",
+        "Name_fr": "Carbuncle h\u00e9catolite",
+        "Name_ja": "\u30ab\u30fc\u30d0\u30f3\u30af\u30eb\u30fb\u30e0\u30fc\u30f3\u30b9\u30c8\u30fc\u30f3",
         "Name_ko": ""
     },
     "5": {

@@ -830,19 +830,19 @@
     "92": {
         "0xID": "5C",
         "Name_cn": "",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Golbez-Rossharnisch",
+        "Name_en": "Voidcast Barding",
+        "Name_fr": "Barde de Golbez",
+        "Name_ja": "\u30b4\u30eb\u30d9\u30fc\u30b6\u30fb\u30d0\u30fc\u30c9",
         "Name_ko": ""
     },
     "93": {
         "0xID": "5D",
         "Name_cn": "",
-        "Name_de": "",
-        "Name_en": "",
-        "Name_fr": "",
-        "Name_ja": "",
+        "Name_de": "Miaurizius-Rossharnisch",
+        "Name_en": "Felicitous Barding",
+        "Name_fr": "Barde de Chamoiselle",
+        "Name_ja": "\u306d\u3053\u307f\u307f\u30fb\u30d0\u30fc\u30c9",
         "Name_ko": ""
     },
     "94": {

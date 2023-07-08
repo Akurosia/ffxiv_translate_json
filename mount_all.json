@@ -1771,22 +1771,22 @@
     },
     "258": {
         "0xID": "102",
-        "Icon": "",
+        "Icon": "ui/icon/004000/004205.png",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Sir Paradiesknoblauch",
+        "Singular_en": "island Garlic Jester",
+        "Singular_fr": "Baron ail insulaire",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30fb\u30ac\u30fc\u30ea\u30c3\u30af\u30b9\u30bf\u30fc",
         "Singular_ko": ""
     },
     "259": {
         "0xID": "103",
-        "Icon": "",
+        "Icon": "ui/icon/004000/004206.png",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "K\u00f6nig Paradiestomate",
+        "Singular_en": "island Tomato King ",
+        "Singular_fr": "Roi tomate insulaire",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30fb\u30ad\u30f3\u30b0\u30c8\u30de\u30c8",
         "Singular_ko": ""
     },
     "26": {
@@ -1801,12 +1801,12 @@
     },
     "260": {
         "0xID": "104",
-        "Icon": "",
+        "Icon": "ui/icon/004000/004207.png",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "K\u00f6nigin Paradies-Mandragora",
+        "Singular_en": "island Mandragora Queen",
+        "Singular_fr": "Reine mandragore insulaire",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30fb\u30de\u30f3\u30c9\u30e9\u30af\u30a4\u30fc\u30f3",
         "Singular_ko": ""
     },
     "261": {
@@ -2041,12 +2041,12 @@
     },
     "282": {
         "0xID": "11A",
-        "Icon": "",
+        "Icon": "ui/icon/004000/004265.png",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Inselb\u00fcffel",
+        "Singular_en": "island buffalo",
+        "Singular_fr": "buffle insulaire",
+        "Singular_ja": "\u30a2\u30a4\u30eb\u30fb\u30d0\u30c3\u30d5\u30a1\u30ed\u30fc",
         "Singular_ko": ""
     },
     "283": {
@@ -2201,12 +2201,12 @@
     },
     "297": {
         "0xID": "129",
-        "Icon": "",
+        "Icon": "ui/icon/004000/004264.png",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Reise-Support",
+        "Singular_en": "traveling supporter",
+        "Singular_fr": "unit\u00e9 de voyage accompagn\u00e9",
+        "Singular_ja": "\u30c8\u30e9\u30d9\u30ea\u30f3\u30b0\u30b5\u30dd\u30fc\u30bf\u30fc",
         "Singular_ko": ""
     },
     "298": {
@@ -2441,22 +2441,22 @@
     },
     "318": {
         "0xID": "13E",
-        "Icon": "",
+        "Icon": "ui/icon/004000/004256.png",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Garlond GL-IIS",
+        "Singular_en": "Garlond GL-IS",
+        "Singular_fr": "Garlond GL-IS",
+        "Singular_ja": "\u30ac\u30fc\u30ed\u30f3\u30c9GL-IS",
         "Singular_ko": ""
     },
     "319": {
         "0xID": "13F",
-        "Icon": "",
+        "Icon": "ui/icon/004000/004257.png",
         "Singular_cn": "",
-        "Singular_de": "",
-        "Singular_en": "",
-        "Singular_fr": "",
-        "Singular_ja": "",
+        "Singular_de": "Megalo-Ambystoma",
+        "Singular_en": "megaloambystoma",
+        "Singular_fr": "m\u00e9galo-ambystoma",
+        "Singular_ja": "\u30e1\u30ac\u30ed\u30a2\u30f3\u30d3\u30b9\u30c8\u30de",
         "Singular_ko": ""
     },
     "32": {
@@ -2468,6 +2468,106 @@
         "Singular_fr": "lion de guerre",
         "Singular_ja": "\u30a6\u30a9\u30fc\u30e9\u30a4\u30aa\u30f3",
         "Singular_ko": "\uc804\ud22c\uc0ac\uc790"
+    },
+    "320": {
+        "0xID": "140",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "321": {
+        "0xID": "141",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "322": {
+        "0xID": "142",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "323": {
+        "0xID": "143",
+        "Icon": "ui/icon/004000/004261.png",
+        "Singular_cn": "",
+        "Singular_de": "Schattenwolf",
+        "Singular_en": "shadow wolf",
+        "Singular_fr": "loup de l'ombre",
+        "Singular_ja": "\u5f71\u306e\u72fc",
+        "Singular_ko": ""
+    },
+    "324": {
+        "0xID": "144",
+        "Icon": "ui/icon/004000/004262.png",
+        "Singular_cn": "",
+        "Singular_de": "Magisches Kinderbett",
+        "Singular_en": "magicked children's bed",
+        "Singular_fr": "lit enfant magique",
+        "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30ad\u30c3\u30ba\u30d9\u30c3\u30c9",
+        "Singular_ko": ""
+    },
+    "325": {
+        "0xID": "145",
+        "Icon": "ui/icon/004000/004263.png",
+        "Singular_cn": "",
+        "Singular_de": "Dunkelheits-Luchs",
+        "Singular_en": "lynx of fallen shadow",
+        "Singular_fr": "lynx de l'obscurit\u00e9 \u00e9ternelle",
+        "Singular_ja": "\u30ea\u30f3\u30af\u30b9\u30fb\u30aa\u30d6\u30fb\u30c0\u30fc\u30af\u30cd\u30b9",
+        "Singular_ko": ""
+    },
+    "326": {
+        "0xID": "146",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "327": {
+        "0xID": "147",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "328": {
+        "0xID": "148",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
+    },
+    "329": {
+        "0xID": "149",
+        "Icon": "",
+        "Singular_cn": "",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": "",
+        "Singular_ko": ""
     },
     "33": {
         "0xID": "21",

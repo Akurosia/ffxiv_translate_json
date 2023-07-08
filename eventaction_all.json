@@ -79,6 +79,16 @@
         "Name_ja": "\u6551\u52a9",
         "Name_ko": "\uad6c\uc870"
     },
+    "105": {
+        "0xID": "69",
+        "Icon": "ui/icon/061000/061103.png",
+        "Name_cn": "",
+        "Name_de": "Interagieren",
+        "Name_en": "Interacting",
+        "Name_fr": "Interaction",
+        "Name_ja": "\u63a2\u7d22",
+        "Name_ko": ""
+    },
     "11": {
         "0xID": "B",
         "Icon": "ui/icon/061000/061104.png",

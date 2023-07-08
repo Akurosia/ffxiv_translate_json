@@ -1,0 +1,776 @@
+{
+    "0": {
+        "0xID": "0",
+        "Text_cn": "",
+        "Text_de": "",
+        "Text_en": "",
+        "Text_fr": "",
+        "Text_ja": "",
+        "Text_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Text_cn": "\u7a7a\u624b",
+        "Text_de": "Blo\u00dfe Hand",
+        "Text_en": "None",
+        "Text_fr": "Mains nues",
+        "Text_ja": "\u7d20\u624b",
+        "Text_ko": "\ub9e8\uc190"
+    },
+    "10": {
+        "0xID": "A",
+        "Text_cn": "\u5c6f\u8d27\u4ed3\u5e93 III",
+        "Text_de": "Kornkammer III",
+        "Text_en": "Granary III",
+        "Text_fr": "Grange III",
+        "Text_ja": "\u30b0\u30e9\u30ca\u30ea\u30fc\u30aa\u30d5\u30a3\u30b9 III",
+        "Text_ko": "\uc7ac\ub8cc \uc800\uc7a5\uace0 3"
+    },
+    "11": {
+        "0xID": "B",
+        "Text_cn": "\u8352\u5730",
+        "Text_de": "Naturbelassen",
+        "Text_en": "Overgrown",
+        "Text_fr": "Sol rugueux",
+        "Text_ja": "\u8352\u308c\u305f\u5730\u9762",
+        "Text_ko": "\ud5d8\ud55c \ub545\ubc14\ub2e5"
+    },
+    "12": {
+        "0xID": "C",
+        "Text_cn": "\u6ce5\u5730",
+        "Text_de": "Erde",
+        "Text_en": "Dirt",
+        "Text_fr": "Sol en terre",
+        "Text_ja": "\u571f\u306e\u5730\u9762",
+        "Text_ko": "\ud759\ubc14\ub2e5"
+    },
+    "13": {
+        "0xID": "D",
+        "Text_cn": "\u77f3\u677f\u5730",
+        "Text_de": "Stein",
+        "Text_en": "Stone",
+        "Text_fr": "Sol en pierre",
+        "Text_ja": "\u77f3\u7573\u306e\u5730\u9762",
+        "Text_ko": "\uc11d\uc7ac \ubc14\ub2e5"
+    },
+    "14": {
+        "0xID": "E",
+        "Text_cn": "\u8352\u5730",
+        "Text_de": "Naturbelassen",
+        "Text_en": "Overgrown",
+        "Text_fr": "Voie rugueuse",
+        "Text_ja": "\u8352\u308c\u305f\u9053",
+        "Text_ko": "\ud5d8\ud55c \uae38"
+    },
+    "15": {
+        "0xID": "F",
+        "Text_cn": "\u6ce5\u5730",
+        "Text_de": "Trampelpfad",
+        "Text_en": "Dirt",
+        "Text_fr": "Voie en terre",
+        "Text_ja": "\u571f\u306e\u9053",
+        "Text_ko": "\ud759\uae38"
+    },
+    "16": {
+        "0xID": "10",
+        "Text_cn": "\u77f3\u677f\u5730",
+        "Text_de": "Steinpfad",
+        "Text_en": "Stone",
+        "Text_fr": "Voie en pierre",
+        "Text_ja": "\u77f3\u7573\u306e\u9053",
+        "Text_ko": "\uc11d\uc7ac \ub3c4\ub85c"
+    },
+    "17": {
+        "0xID": "11",
+        "Text_cn": "\u5761\u9053",
+        "Text_de": "Naturbelassen",
+        "Text_en": "Natural Incline",
+        "Text_fr": "Pente naturelle",
+        "Text_ja": "\u8352\u308c\u305f\u5742\u9053",
+        "Text_ko": "\ud5d8\ud55c \uc624\ub974\ub9c9\uae38"
+    },
+    "18": {
+        "0xID": "12",
+        "Text_cn": "\u6728\u5236\u53f0\u9636",
+        "Text_de": "Holztreppe",
+        "Text_en": "Log Steps",
+        "Text_fr": "Escaliers en bois",
+        "Text_ja": "\u6728\u7d44\u307f\u306e\u968e\u6bb5",
+        "Text_ko": "\ub098\ubb34 \uacc4\ub2e8"
+    },
+    "19": {
+        "0xID": "13",
+        "Text_cn": "\u77f3\u780c\u53f0\u9636",
+        "Text_de": "Steintreppe",
+        "Text_en": "Stone Steps",
+        "Text_fr": "Escaliers en pierre",
+        "Text_ja": "\u77f3\u7a4d\u307f\u306e\u968e\u6bb5",
+        "Text_ko": "\ub3cc \uacc4\ub2e8"
+    },
+    "2": {
+        "0xID": "2",
+        "Text_cn": "\u5c0f\u5c9b\u6728\u5c4b I",
+        "Text_de": "Strandh\u00fctte I",
+        "Text_en": "Cozy Cabin I",
+        "Text_fr": "Hutte placide I",
+        "Text_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30db\u30fc\u30eb I",
+        "Text_ko": "\ubb34\uc778\ub3c4 \ud68c\uad00 1"
+    },
+    "20": {
+        "0xID": "14",
+        "Text_cn": "\u98ce\u8f66",
+        "Text_de": "Windm\u00fchle",
+        "Text_en": "Quixotic Windmill",
+        "Text_fr": "Moulin",
+        "Text_ja": "\u98a8\u8eca",
+        "Text_ko": "\ud48d\ucc28"
+    },
+    "21": {
+        "0xID": "15",
+        "Text_cn": "\u6811\u5c4b",
+        "Text_de": "Baumhaus",
+        "Text_en": "Towering Tree Fort",
+        "Text_fr": "Cabane foresti\u00e8re",
+        "Text_ja": "\u30c4\u30ea\u30fc\u30cf\u30a6\u30b9",
+        "Text_ko": "\ub098\ubb34\uae30\uc9c0"
+    },
+    "22": {
+        "0xID": "16",
+        "Text_cn": "\u6e29\u6cc9\u5c0f\u5c4b",
+        "Text_de": "Hei\u00dfe Quelle",
+        "Text_en": "Boiling Bathhouse",
+        "Text_fr": "Sources thermales",
+        "Text_ja": "\u6e29\u6cc9\u5c0f\u5c4b",
+        "Text_ko": "\uc628\ucc9c \uc624\ub450\ub9c9"
+    },
+    "23": {
+        "0xID": "17",
+        "Text_cn": "\u706f\u5854",
+        "Text_de": "Leuchtturm",
+        "Text_en": "Lominsan Lighthouse",
+        "Text_fr": "Phare",
+        "Text_ja": "\u706f\u53f0",
+        "Text_ko": "\ub4f1\ub300"
+    },
+    "24": {
+        "0xID": "18",
+        "Text_cn": "\u736d\u736d\u55b7\u6cc9",
+        "Text_de": "Otterborn",
+        "Text_en": "Water Otter Fountain",
+        "Text_fr": "Fontaine ressour\u00e7ante",
+        "Text_ja": "\u30a6\u30bd\u30a6\u30bd\u306e\u6cc9",
+        "Text_ko": "\ub2ec\ub2ec\uc774 \uc0d8"
+    },
+    "25": {
+        "0xID": "19",
+        "Text_cn": "\u5efa\u9020\u5730",
+        "Text_de": "Freies Gel\u00e4nde",
+        "Text_en": "Vacant Plot",
+        "Text_fr": "Terrain vide",
+        "Text_ja": "\u5efa\u7bc9\u5730",
+        "Text_ko": "\uac74\ucd95\uc9c0"
+    },
+    "26": {
+        "0xID": "1A",
+        "Text_cn": "\u65e0\u540d\u6d77\u6ee8",
+        "Text_de": "Korallenk\u00fcste",
+        "Text_en": "Islet Inlet",
+        "Text_fr": "Plage sans nom",
+        "Text_ja": "\u540d\u3082\u7121\u304d\u6d5c",
+        "Text_ko": "\uc774\ub984 \uc5c6\ub294 \ud574\ubcc0"
+    },
+    "27": {
+        "0xID": "1B",
+        "Text_cn": "\u6d77\u5c9b\u5e7f\u573a",
+        "Text_de": "Paradiesplaza",
+        "Text_en": "Hideaway Central",
+        "Text_fr": "Place principale",
+        "Text_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30b9\u30af\u30a8\u30a2",
+        "Text_ko": "\ubb34\uc778\ub3c4 \uad11\uc7a5"
+    },
+    "28": {
+        "0xID": "1C",
+        "Text_cn": "\u5f00\u62d3\u636e\u70b9\u7684\u5c71\u4e18\u5317",
+        "Text_de": "Norden",
+        "Text_en": "Hideaway North",
+        "Text_fr": "Colline nord",
+        "Text_ja": "\u958b\u62d3\u62e0\u70b9\u306e\u4e18\u30fb\u5317",
+        "Text_ko": "\uac1c\ucc99 \uac70\uc810 \uc5b8\ub355 \ubd81\ucabd"
+    },
+    "29": {
+        "0xID": "1D",
+        "Text_cn": "\u5e7f\u573a\u4fa7\u9762\u7684\u5f00\u62d3\u5730",
+        "Text_de": "Hang",
+        "Text_en": "Hideaway Overlook",
+        "Text_fr": "Esplanade",
+        "Text_ja": "\u5e83\u5834\u6a2a\u306e\u958b\u62d3\u5730",
+        "Text_ko": "\uad11\uc7a5 \uc606 \uac1c\ucc99\uc9c0"
+    },
+    "3": {
+        "0xID": "3",
+        "Text_cn": "\u5c0f\u5c9b\u6728\u5c4b II",
+        "Text_de": "Strandh\u00fctte II",
+        "Text_en": "Cozy Cabin II",
+        "Text_fr": "Hutte placide II",
+        "Text_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30db\u30fc\u30eb II",
+        "Text_ko": "\ubb34\uc778\ub3c4 \ud68c\uad00 2"
+    },
+    "30": {
+        "0xID": "1E",
+        "Text_cn": "\u9ad8\u53f0\u4e0a\u7684\u5f00\u62d3\u5730",
+        "Text_de": "Plateau",
+        "Text_en": "Hideaway Heights",
+        "Text_fr": "Belv\u00e9d\u00e8re",
+        "Text_ja": "\u9ad8\u53f0\u306e\u958b\u62d3\u5730",
+        "Text_ko": "\uace0\uc9c0\ub300 \uac1c\ucc99\uc9c0"
+    },
+    "31": {
+        "0xID": "1F",
+        "Text_cn": "\u5f00\u62d3\u636e\u70b9\u7684\u5c71\u4e18\u4e1c",
+        "Text_de": "Osten",
+        "Text_en": "Hideaway East",
+        "Text_fr": "Colline est",
+        "Text_ja": "\u958b\u62d3\u62e0\u70b9\u306e\u4e18\u30fb\u6771",
+        "Text_ko": "\uac1c\ucc99 \uac70\uc810 \uc5b8\ub355 \ub3d9\ucabd"
+    },
+    "32": {
+        "0xID": "20",
+        "Text_cn": "\u5f00\u62d3\u636e\u70b9\u7684\u5c71\u4e18\u5357",
+        "Text_de": "Gipfel",
+        "Text_en": "Hideaway Peak",
+        "Text_fr": "Colline sud",
+        "Text_ja": "\u958b\u62d3\u62e0\u70b9\u306e\u4e18\u30fb\u5357",
+        "Text_ko": "\uac1c\ucc99 \uac70\uc810 \uc5b8\ub355 \ub0a8\ucabd"
+    },
+    "33": {
+        "0xID": "21",
+        "Text_cn": "\u4e00\u53f7\u8015\u5730",
+        "Text_de": "Feld I",
+        "Text_en": "Cropland Section I",
+        "Text_fr": "Terre arable I",
+        "Text_ja": "\u4e00\u53f7\u8015\u4f5c\u5730",
+        "Text_ko": "1\ud638 \uacbd\uc791\uc9c0"
+    },
+    "34": {
+        "0xID": "22",
+        "Text_cn": "\u4e8c\u53f7\u8015\u5730",
+        "Text_de": "Feld II",
+        "Text_en": "Cropland Section II",
+        "Text_fr": "Terre arable II",
+        "Text_ja": "\u4e8c\u53f7\u8015\u4f5c\u5730",
+        "Text_ko": "2\ud638 \uacbd\uc791\uc9c0"
+    },
+    "35": {
+        "0xID": "23",
+        "Text_cn": "\u4e09\u53f7\u8015\u5730",
+        "Text_de": "Feld III",
+        "Text_en": "Cropland Section III",
+        "Text_fr": "Terre arable III",
+        "Text_ja": "\u4e09\u53f7\u8015\u4f5c\u5730",
+        "Text_ko": "3\ud638 \uacbd\uc791\uc9c0"
+    },
+    "36": {
+        "0xID": "24",
+        "Text_cn": "\u4e00\u53f7\u7267\u573a",
+        "Text_de": "Weide I",
+        "Text_en": "Pasture Section I",
+        "Text_fr": "P\u00e2turage I",
+        "Text_ja": "\u4e00\u53f7\u653e\u7267\u5730",
+        "Text_ko": "1\ud638 \ubc29\ubaa9\uc9c0"
+    },
+    "37": {
+        "0xID": "25",
+        "Text_cn": "\u4e8c\u53f7\u7267\u573a",
+        "Text_de": "Weide II",
+        "Text_en": "Pasture Section II",
+        "Text_fr": "P\u00e2turage II",
+        "Text_ja": "\u4e8c\u53f7\u653e\u7267\u5730",
+        "Text_ko": "2\ud638 \ubc29\ubaa9\uc9c0"
+    },
+    "38": {
+        "0xID": "26",
+        "Text_cn": "\u4e09\u53f7\u7267\u573a",
+        "Text_de": "Weide III",
+        "Text_en": "Pasture Section III",
+        "Text_fr": "P\u00e2turage III",
+        "Text_ja": "\u4e09\u53f7\u653e\u7267\u5730",
+        "Text_ko": "3\ud638 \ubc29\ubaa9\uc9c0"
+    },
+    "39": {
+        "0xID": "27",
+        "Text_cn": "\u8349\u539f",
+        "Text_de": "Freie Flur",
+        "Text_en": "Meandering Meadows",
+        "Text_fr": "Prairie verdoyante",
+        "Text_ja": "\u8349\u539f",
+        "Text_ko": "\ucd08\uc6d0"
+    },
+    "4": {
+        "0xID": "4",
+        "Text_cn": "\u5c0f\u5c9b\u6728\u5c4b III",
+        "Text_de": "Strandh\u00fctte III",
+        "Text_en": "Cozy Cabin III",
+        "Text_fr": "Hutte placide III",
+        "Text_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30db\u30fc\u30eb III",
+        "Text_ko": "\ubb34\uc778\ub3c4 \ud68c\uad00 3"
+    },
+    "40": {
+        "0xID": "28",
+        "Text_cn": "\u6eaa\u6d41",
+        "Text_de": "Schnellender Strom",
+        "Text_en": "Fatal Falls",
+        "Text_fr": "Ruisseau cristallin",
+        "Text_ja": "\u6e13\u6d41",
+        "Text_ko": "\uc2dc\ub0c7\ubb3c"
+    },
+    "41": {
+        "0xID": "29",
+        "Text_cn": "\u68ee\u6797",
+        "Text_de": "Weiter Wald",
+        "Text_en": "Wild Woods",
+        "Text_fr": "Bois sauvages",
+        "Text_ja": "\u68ee\u6797",
+        "Text_ko": "\uc0bc\ub9bc"
+    },
+    "42": {
+        "0xID": "2A",
+        "Text_cn": "\u6c99\u6ee9",
+        "Text_de": "Sandiger Strand",
+        "Text_en": "Bending Beaches",
+        "Text_fr": "Plage sablonneuse",
+        "Text_ja": "\u6d5c\u8fba",
+        "Text_ko": "\ud574\ubcc0"
+    },
+    "43": {
+        "0xID": "2B",
+        "Text_cn": "\u5c71",
+        "Text_de": "B\u00f6iger Berg",
+        "Text_en": "Mossy Mountains",
+        "Text_fr": "Montagne moussue",
+        "Text_ja": "\u5c71",
+        "Text_ko": "\uc0b0"
+    },
+    "44": {
+        "0xID": "2C",
+        "Text_cn": "\u53d1\u82bd",
+        "Text_de": "Keimend",
+        "Text_en": "Sprout",
+        "Text_fr": "Germination",
+        "Text_ja": "\u767a\u82bd\u72b6\u614b",
+        "Text_ko": "\ubc1c\uc544"
+    },
+    "45": {
+        "0xID": "2D",
+        "Text_cn": "\u5e7c\u82d7",
+        "Text_de": "Wachsend",
+        "Text_en": "Seedling",
+        "Text_fr": "Pousse",
+        "Text_ja": "\u82d7\u6728\u72b6\u614b",
+        "Text_ko": "\ubb18\ubaa9"
+    },
+    "46": {
+        "0xID": "2E",
+        "Text_cn": "\u5f00\u82b1",
+        "Text_de": "Bl\u00fchend",
+        "Text_en": "Blossom",
+        "Text_fr": "Floraison",
+        "Text_ja": "\u7d50\u5b9f\u72b6\u614b",
+        "Text_ko": "\uacb0\uc2e4"
+    },
+    "47": {
+        "0xID": "2F",
+        "Text_cn": "\u5f00\u62d3\u65e0\u4eba\u5c9b\u6240\u9700\u7684\u57fa\u7840\u5efa\u7b51\u3002\n\u3000\u3000\u3000\u7528\u624b\u5934\u4e3a\u6570\u4e0d\u591a\u7684\u7d20\u6750\u8d39\u5c3d\u5fc3\u601d\u5efa\u9020\u800c\u6210\u3002",
+        "Text_de": "Das hastig zusammengezimmerte Heim, das sowohl als Basis jeglicher Operation, als auch als Oase der Entspannung dient.",
+        "Text_en": "Your foothold in this untamed land, hastily built using materials scavenged in the wilds.",
+        "Text_fr": "L'installation vous servant de point de d\u00e9part, construite tant bien que mal avec les mat\u00e9riaux du coin.",
+        "Text_ja": "\u7121\u4eba\u5cf6\u958b\u62d3\u306e\u8db3\u639b\u304b\u308a\u3068\u306a\u308b\u5efa\u7269\u3002\n\n\u3000\u3000\u3000\u3042\u308a\u3082\u306e\u306e\u7d20\u6750\u3067\u4f55\u3068\u304b\u4f5c\u308a\u4e0a\u3052\u305f\u3002",
+        "Text_ko": "\ubb34\uc778\ub3c4 \uac1c\ucc99\uc758 \ubc1c\ud310\uc774 \ub420 \uac74\ubb3c.\n\u3000\u3000\u3000\uc788\ub294 \uc7ac\ub8cc\ub85c \uac04\uc2e0\ud788 \uc9c0\uc5c8\ub2e4."
+    },
+    "48": {
+        "0xID": "30",
+        "Text_cn": "\u5f00\u62d3\u65e0\u4eba\u5c9b\u6240\u9700\u7684\u9aa8\u5e72\u5efa\u7b51\u3002\n\u3000\u3000\u3000\u5728\u4e0d\u65ad\u5730\u589e\u5efa\u6539\u5efa\u8fc7\u7a0b\u4e2d\uff0c\u5916\u89c2\u9010\u6e10\u53d8\u5f97\u50cf\u6837\u4e86\u8bb8\u591a\u3002",
+        "Text_de": "Dein eigenes Heim, das sich langsam aber sicher zu einem gem\u00fctlich-entspannten Zuhause entwickelt.",
+        "Text_en": "The crux of your island operation, one snuggly step above the bare necessities.",
+        "Text_fr": "La base de vos op\u00e9rations sur la F\u00e9licit\u00e9 insulaire. Une installation devenue plus accueillante gr\u00e2ce \u00e0 quelques am\u00e9liorations bien senties.",
+        "Text_ja": "\u7121\u4eba\u5cf6\u958b\u62d3\u306e\u790e\u3068\u306a\u308b\u5efa\u7269\u3002\n\n\u3000\u3000\u3000\u5897\u6539\u7bc9\u304c\u9032\u307f\u3001\u5c11\u3057\u898b\u305f\u76ee\u3082\u8cd1\u3084\u304b\u306b\u306a\u3063\u305f\u3002",
+        "Text_ko": "\ubb34\uc778\ub3c4 \uac1c\ucc99\uc758 \ucd08\uc11d\uc774 \ub420 \uac74\ubb3c.\n\u3000\u3000\u3000\uc99d\ucd95 \ubc0f \uac1c\ucd95\uc774 \uc9c4\ud589\ub418\uc5b4 \uc870\uae08\uc740 \ubcfc\ub9cc\ud574\uc84c\ub2e4."
+    },
+    "49": {
+        "0xID": "31",
+        "Text_cn": "\u5f00\u62d3\u65e0\u4eba\u5c9b\u6240\u9700\u7684\u6838\u5fc3\u5efa\u7b51\u3002\n\u3000\u3000\u3000\u968f\u7740\u9b54\u6cd5\u4eba\u5076\u7684\u5efa\u7b51\u6280\u672f\u8d8b\u4e8e\u719f\u7ec3\uff0c\n\u3000\u3000\u3000\u4e0d\u8bba\u662f\u529f\u80fd\u6027\u8fd8\u662f\u5916\u89c2\u90fd\u8fbe\u5230\u4e86\u4ee4\u4eba\u6ee1\u610f\u7684\u7a0b\u5ea6\u3002",
+        "Text_de": "Dein eigenes Heim und Prachtst\u00fcck deines Inselparadieses. Dank Flei\u00df und Hingabe hast du die bescheidene H\u00fctte zu einer beeindruckenden Basis entwickelt.",
+        "Text_en": "The cornerstone of your thriving island enterprise, fully renovated by mammets skilled in carpentry.",
+        "Text_fr": "Le centre n\u00e9vralgique dans le d\u00e9veloppement de votre \u00eele, parfaitement r\u00e9nov\u00e9 gr\u00e2ce au talent des poup\u00e9es magiques.",
+        "Text_ja": "\u7121\u4eba\u5cf6\u958b\u62d3\u306e\u4e2d\u5fc3\u3068\u306a\u308b\u5efa\u7269\u3002\n\n\u3000\u3000\u3000\u9b54\u6cd5\u4eba\u5f62\u306e\u5efa\u7bc9\u6280\u8853\u3082\u5411\u4e0a\u3057\u3001\u6a5f\u80fd\u6027\u3082\u5916\u89b3\u3082\u6574\u3063\u3066\u304d\u305f\u3002",
+        "Text_ko": "\ubb34\uc778\ub3c4 \uac1c\ucc99\uc758 \uc911\uc2ec\uc774 \ub420 \uac74\ubb3c.\n\u3000\u3000\u3000\ub9c8\ubc95\uc778\ud615\uc758 \uac74\ucd95 \uae30\uc220\uc774 \ud5a5\uc0c1\ub418\uc5b4, \uae30\ub2a5\uc131\ub3c4 \uc678\uad00\ub3c4 \uc815\ub3c8\ub418\uc5c8\ub2e4."
+    },
+    "5": {
+        "0xID": "5",
+        "Text_cn": "\u5f00\u62d3\u5de5\u623f I",
+        "Text_de": "Inselatelier I",
+        "Text_en": "Workshop I",
+        "Text_fr": "Fabrique I",
+        "Text_ja": "\u958b\u62d3\u5de5\u623f I",
+        "Text_ko": "\uac1c\ucc99\uacf5\ubc29 1"
+    },
+    "50": {
+        "0xID": "32",
+        "Text_cn": "\u65b0\u624b\u9b54\u6cd5\u4eba\u5076\u5de5\u5320\u5236\u4f5c\u6d77\u5c9b\u4ea7\u54c1\u7684\u8bbe\u65bd\u3002\n\u3000\u3000\u3000\u4ece\u5916\u89c2\u4e0a\u4e5f\u80fd\u770b\u51fa\u624b\u5de5\u6253\u9020\u7684\u98ce\u683c\u3002",
+        "Text_de": "Deine hastig gezimmerte Werkstatt, in der die Marionetten der Insel aus Leibeskr\u00e4ften basteln- oder es zumindest versuchen.",
+        "Text_en": "Four walls and a roof under which your bright-eyed mammets eagerly make handicrafts.",
+        "Text_fr": "Une simple b\u00e2tisse o\u00f9 vos poup\u00e9es s'adonnent \u00e0 la cr\u00e9ation de biens insulaires.",
+        "Text_ja": "\u65b0\u7c73\u8077\u4eba\u9b54\u6cd5\u4eba\u5f62\u304c\u96c6\u3046\u3001\u5cf6\u7523\u54c1\u306e\u88fd\u4f5c\u65bd\u8a2d\u3002\n\n\u3000\u3000\u3000\u5916\u89b3\u306b\u3082\u624b\u4f5c\u308a\u306e\u98a8\u5408\u3044\u304c\u3042\u308b\u3002",
+        "Text_ko": "\uc2e0\uc785 \uc7a5\uc778 \ub9c8\ubc95\uc778\ud615\uc774 \ubaa8\uc5ec \ud2b9\uc0b0\ud488\uc744 \uc81c\uc791\ud558\ub294 \uc2dc\uc124.\n\u3000\u3000\u3000\uc678\uad00\ub3c4 \uc218\uacf5\uc608 \ub290\ub08c\uc774 \ub09c\ub2e4."
+    },
+    "51": {
+        "0xID": "33",
+        "Text_cn": "\u4e2d\u575a\u9b54\u6cd5\u4eba\u5076\u5de5\u5320\u5236\u4f5c\u6d77\u5c9b\u4ea7\u54c1\u7684\u8bbe\u65bd\u3002\n\u3000\u3000\u3000\u4ece\u5916\u89c2\u4e0a\u4e5f\u80fd\u770b\u51fa\u5b83\u4eec\u7684\u624b\u827a\u503c\u5f97\u4fe1\u8d56\u3002",
+        "Text_de": "Deine solide Werkstatt, in der die Marionetten der Insel ihr Bestes geben- inzwischen sogar erfolgreich.",
+        "Text_en": "A practical-yet-modest facility at which your reliable mammets craft artisan goods.",
+        "Text_fr": "Une fabrique solide o\u00f9 vos poup\u00e9es magiques offrent leur huile de coude en \u00e9change de biens insulaires.",
+        "Text_ja": "\u5b9f\u76f4\u306a\u8077\u4eba\u9b54\u6cd5\u4eba\u5f62\u304c\u96c6\u3046\u3001\u5cf6\u7523\u54c1\u306e\u88fd\u4f5c\u65bd\u8a2d\u3002\n\n\u3000\u3000\u3000\u5916\u89b3\u306b\u3082\u5805\u5b9f\u306a\u4ed5\u4e8b\u304c\u611f\u3058\u3089\u308c\u308b\u3002",
+        "Text_ko": "\uc131\uc2e4\ud55c \uc7a5\uc778 \ub9c8\ubc95\uc778\ud615\uc774 \ubaa8\uc5ec \ud2b9\uc0b0\ud488\uc744 \uc81c\uc791\ud558\ub294 \uc2dc\uc124.\n\u3000\u3000\u3000\uc678\uad00\uc5d0\uc11c\ub3c4 \uaf3c\uaf3c\ud568\uc774 \ub290\uaef4\uc9c4\ub2e4."
+    },
+    "52": {
+        "0xID": "34",
+        "Text_cn": "\u4f18\u79c0\u9b54\u6cd5\u4eba\u5076\u5de5\u5320\u5236\u4f5c\u6d77\u5c9b\u4ea7\u54c1\u7684\u8bbe\u65bd\u3002\n\u3000\u3000\u3000\u4ece\u5916\u89c2\u4e0a\u4e5f\u80fd\u611f\u5230\u5927\u5e08\u7684\u624b\u827a\u3002",
+        "Text_de": "Deine rundum ausgestattete Werkstatt, in der die Marionetten der Insel ihr Bestes geben- und wahre Meisterst\u00fccke hervorbringen.",
+        "Text_en": "A stately workplace designed with the professional mammet handicrafter in mind.",
+        "Text_fr": "Une magnifique installation consacr\u00e9e \u00e0 la production de biens insulaires et tenue par les poup\u00e9es magiques les plus dou\u00e9es en artisanat.",
+        "Text_ja": "\u512a\u79c0\u306a\u8077\u4eba\u9b54\u6cd5\u4eba\u5f62\u304c\u96c6\u3046\u3001\u5cf6\u7523\u54c1\u306e\u88fd\u4f5c\u65bd\u8a2d\u3002\n\n\u3000\u3000\u3000\u5916\u89b3\u306b\u3082\u5320\u306e\u6280\u3092\u611f\u3058\u3089\u308c\u308b\u3002",
+        "Text_ko": "\ub6f0\uc5b4\ub09c \uc7a5\uc778 \ub9c8\ubc95\uc778\ud615\uc774 \ubaa8\uc5ec \ud2b9\uc0b0\ud488\uc744 \uc81c\uc791\ud558\ub294 \uc2dc\uc124.\n\u3000\u3000\u3000\uc678\uad00\uc5d0\uc11c\ub3c4 \uc7a5\uc778\uc758 \uc190\uae38\uc774 \ub290\uaef4\uc9c4\ub2e4."
+    },
+    "53": {
+        "0xID": "35",
+        "Text_cn": "\u9b54\u6cd5\u4eba\u5076\u8fdb\u884c\u5c9b\u5185\u63a2\u7d22\u7528\u7684\u636e\u70b9\u517c\u5f00\u62d3\u7d20\u6750\u50a8\u5b58\u4ed3\u5e93\u3002\n\u3000\u3000\u3000\u4f5c\u4e3a\u50a8\u85cf\u5e93\u6765\u8bf4\uff0c\u53ea\u80fd\u7b97\u662f\u52c9\u5f3a\u5408\u683c\u3002",
+        "Text_de": "Auch wenn deine Kornkammer im Moment eher windig als stabil ist, dient sie als Materiallager und Basis f\u00fcr die Expeditionen deiner Marionetten.",
+        "Text_en": "A basic storehouse for island materials and gathering place for exploratory mammets.",
+        "Text_fr": "Une grange tout ce qu'il a de plus basique pour y entreposer vos r\u00e9serves de mat\u00e9riaux.",
+        "Text_ja": "\u5cf6\u5185\u63a2\u7d22\u3092\u62c5\u3046\u9b54\u6cd5\u4eba\u5f62\u306e\u62e0\u70b9\u3001\u517c\u3001\u958b\u62d3\u7d20\u6750\u306e\u96c6\u7a4d\u65bd\u8a2d\u3002\n\n\u3000\u3000\u3000\u8caf\u8535\u5eab\u3068\u3057\u3066\u3001\u305d\u3053\u305d\u3053\u306e\u6574\u5099\u304c\u3055\u308c\u3066\u3044\u308b\u3002",
+        "Text_ko": "\uc12c \ud0d0\uc0c9\uc744 \ub2f4\ub2f9\ud558\ub294 \ub9c8\ubc95\uc778\ud615\uc758 \uac70\uc810 \uacb8 \uac1c\ucc99\uc7ac\ub8cc \uc9d1\uc801 \uc2dc\uc124.\n\u3000\u3000\u3000\uc800\uc7a5\uace0\ub85c\uc11c \uadf8\ub7ed\uc800\ub7ed \uc815\ube44\ub418\uc5b4 \uc788\ub2e4."
+    },
+    "54": {
+        "0xID": "36",
+        "Text_cn": "\u9b54\u6cd5\u4eba\u5076\u8fdb\u884c\u5c9b\u5185\u63a2\u7d22\u7528\u7684\u636e\u70b9\u517c\u5f00\u62d3\u7d20\u6750\u50a8\u5b58\u4ed3\u5e93\u3002\n\u3000\u3000\u3000\u4f5c\u4e3a\u50a8\u85cf\u5e93\u6765\u8bf4\uff0c\u8fbe\u5230\u4e86\u4e0d\u9519\u7684\u6c34\u51c6\u3002",
+        "Text_de": "Deine robuste, mit viel Liebe umgebaute Kornkammer, die als Materiallager und Basis f\u00fcr die Expeditionen deiner Marionetten dient.",
+        "Text_en": "A facility with adequate storage space and resources to support a reliable team of foraging mammets.",
+        "Text_fr": "Une installation bien \u00e9quip\u00e9e pour servir de base \u00e0 vos poup\u00e9es magiques, mais aussi pour conserver comme il le faut vos r\u00e9serves de mat\u00e9riaux.",
+        "Text_ja": "\u5cf6\u5185\u63a2\u7d22\u3092\u62c5\u3046\u9b54\u6cd5\u4eba\u5f62\u306e\u62e0\u70b9\u3001\u517c\u3001\u958b\u62d3\u7d20\u6750\u306e\u96c6\u7a4d\u65bd\u8a2d\u3002\n\n\u3000\u3000\u3000\u8caf\u8535\u5eab\u3068\u3057\u3066\u3001\u306a\u304b\u306a\u304b\u306e\u6574\u5099\u304c\u3055\u308c\u3066\u3044\u308b\u3002",
+        "Text_ko": "\uc12c \ud0d0\uc0c9\uc744 \ub2f4\ub2f9\ud558\ub294 \ub9c8\ubc95\uc778\ud615\uc758 \uac70\uc810 \uacb8 \uac1c\ucc99\uc7ac\ub8cc \uc9d1\uc801 \uc2dc\uc124.\n\u3000\u3000\u3000\uc800\uc7a5\uace0\ub85c\uc11c \uc81c\ubc95 \uc798 \uc815\ube44\ub418\uc5b4 \uc788\ub2e4."
+    },
+    "55": {
+        "0xID": "37",
+        "Text_cn": "\u9b54\u6cd5\u4eba\u5076\u8fdb\u884c\u5c9b\u5185\u63a2\u7d22\u7528\u7684\u636e\u70b9\u517c\u5f00\u62d3\u7d20\u6750\u50a8\u5b58\u4ed3\u5e93\u3002\n\u3000\u3000\u3000\u4f5c\u4e3a\u50a8\u85cf\u5e93\u6765\u8bf4\uff0c\u8fbe\u5230\u4e86\u5341\u5206\u4f18\u79c0\u7684\u6c34\u51c6\u3002",
+        "Text_de": "Deine prachtvolle Kornkammer, die als Materiallager und Basis f\u00fcr die Expeditionen deiner Marionetten dient. Au\u00dferdem l\u00e4sst sie alle anderen Insulaner vor Neid erblassen.",
+        "Text_en": "An expansive and professional-grade island repository populated by elite mammet gleaners. ",
+        "Text_fr": "Le summum de la grange, parfaitement \u00e9quip\u00e9e pour entreposer vos mat\u00e9riaux et les conserver dans les meilleures conditions.",
+        "Text_ja": "\u5cf6\u5185\u63a2\u7d22\u3092\u62c5\u3046\u9b54\u6cd5\u4eba\u5f62\u306e\u62e0\u70b9\u3001\u517c\u3001\u958b\u62d3\u7d20\u6750\u306e\u96c6\u7a4d\u65bd\u8a2d\u3002\n\n\u3000\u3000\u3000\u8caf\u8535\u5eab\u3068\u3057\u3066\u3001\u3044\u3044\u611f\u3058\u306e\u6574\u5099\u304c\u3055\u308c\u3066\u3044\u308b\u3002",
+        "Text_ko": "\uc12c \ud0d0\uc0c9\uc744 \ub2f4\ub2f9\ud558\ub294 \ub9c8\ubc95\uc778\ud615\uc758 \uac70\uc810 \uacb8 \uac1c\ucc99\uc7ac\ub8cc \uc9d1\uc801 \uc2dc\uc124.\n\u3000\u3000\u3000\uc800\uc7a5\uace0\ub85c\uc11c \uc544\uc8fc \uc798 \uc815\ube44\ub418\uc5b4 \uc788\ub2e4."
+    },
+    "56": {
+        "0xID": "38",
+        "Text_cn": "\u7ecf\u8fc7\u6574\u5907\u53ef\u4ee5\u5efa\u9020\u5efa\u7b51\u7269\u7684\u571f\u5730\u3002",
+        "Text_de": "Ein ebenes Fleckchen Erde, das nur darauf wartet, ein Geb\u00e4ude zu beherbergen.",
+        "Text_en": "An empty lot brimming with architectural potential.",
+        "Text_fr": "Un terrain vide, mais pr\u00eat \u00e0 accueillir n'importe quel type d'\u00e9difice.",
+        "Text_ja": "\u5efa\u7269\u3092\u5efa\u3066\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3001\u6574\u5099\u3055\u308c\u305f\u571f\u5730\u3002",
+        "Text_ko": "\uac74\ubb3c\uc744 \uc9c0\uc744 \uc218 \uc788\ub3c4\ub85d \uc815\ube44\ub41c \ud1a0\uc9c0."
+    },
+    "57": {
+        "0xID": "39",
+        "Text_cn": "\u98ce\u529b\u5e26\u52a8\u98ce\u8f66\u6868\u65cb\u8f6c\uff0c\n\u3000\u3000\u3000\u5728\u673a\u68b0\u4f20\u52a8\u7684\u4f5c\u7528\u4e0b\u53ef\u4ee5\u5728\u98ce\u8f66\u7684\u5185\u90e8\u7814\u78e8\u8c37\u7269\u5236\u4f5c\u5404\u79cd\u7c89\u7c7b\u3002\n\u3000\u3000\u3000\u5f00\u62d3\u636e\u70b9\u5404\u8bbe\u65bd\u5185\u5de5\u4f5c\u7684\u9b54\u6cd5\u4eba\u5076\u80fd\u529b\u4e0a\u5347\u3002",
+        "Text_de": "Eine idyllische Windm\u00fchle, deren Fl\u00fcgel sich gem\u00e4chlich im Wind drehen. Ihr Anblick- und nat\u00fcrlich ihr Mahlwerk- verhilft den Marionetten deiner Insel zu besonderen F\u00e4higkeiten.",
+        "Text_en": "Giant, spinning vanes that will not fulfill your glorious aspirations so much as they will power the mill that grinds your grain. Adored by island mammets.",
+        "Text_fr": "Reconnaissable \u00e0 ses grandes pales qui tournent au gr\u00e9 du vent, cet \u00e9difice vous permet de moudre plus facilement le grain et augmente ainsi l'efficacit\u00e9 de vos poup\u00e9es.",
+        "Text_ja": "\u98a8\u529b\u3067\u7fbd\u6839\u8eca\u3092\u56de\u3057\u3001\u5185\u90e8\u3067\u306f\u88fd\u7c89\u306a\u3069\u3082\u884c\u308f\u308c\u308b\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3002\n\n\u3000\u3000\u3000\u958b\u62d3\u62e0\u70b9\u306e\u65bd\u8a2d\u3067\u50cd\u304f\u9b54\u6cd5\u4eba\u5f62\u305f\u3061\u306e\u80fd\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u3002",
+        "Text_ko": "\ub0a0\uac1c\ub85c \ud48d\ub825\uc744 \uc5bb\uc5b4, \uc81c\ubd84 \ub4f1\uc5d0 \uc774\uc6a9\ud558\ub294 \ud2b9\uc218 \uac74\ubb3c.\n\u3000\u3000\u3000\uac1c\ucc99 \uac70\uc810 \uc2dc\uc124\uc5d0\uc11c \uc77c\ud558\ub294 \ub9c8\ubc95\uc778\ud615\ub4e4\uc758 \ub2a5\ub825\uc774 \ud5a5\uc0c1\ub41c\ub2e4."
+    },
+    "58": {
+        "0xID": "3A",
+        "Text_cn": "\u5229\u7528\u9ad8\u5ea6\u5408\u9002\u7684\u6811\u6728\u5efa\u9020\u7684\u89c6\u91ce\u5bbd\u9614\u7684\u5c0f\u5c4b\uff0c\n\u3000\u3000\u3000\u5f88\u9002\u5408\u6765\u6b64\u773a\u671b\u8fdc\u65b9\u8f6c\u6362\u5fc3\u60c5\u3002\n\u3000\u3000\u3000\u5f00\u62d3\u636e\u70b9\u5404\u8bbe\u65bd\u5185\u5de5\u4f5c\u7684\u9b54\u6cd5\u4eba\u5076\u80fd\u529b\u4e0a\u5347\u3002",
+        "Text_de": "Die schattige Baumkrone l\u00e4dt zu einem Ruhep\u00e4uschen ein, am besten genossen mit einer Schale K\u00fcrbispudding. Es verhilft den Marionetten deiner Insel zu besonderen F\u00e4higkeiten.",
+        "Text_en": "A secluded hideout nestled among lofty, verdant boughs. Adored by island mammets.",
+        "Text_fr": "Un petit endroit de calme au milieu de la verdure. De quoi offrir un peu de d\u00e9tente \u00e0 vos poup\u00e9es et leur donner de l'\u00e9nergie pour les t\u00e2ches \u00e0 venir.",
+        "Text_ja": "\u5c0f\u9ad8\u3044\u6a39\u6728\u3092\u5229\u7528\u3057\u305f\u773a\u671b\u306e\u3044\u3044\u5c0f\u5c4b\u3067\u3001\u4e00\u4f11\u307f\u3067\u304d\u308b\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3002\n\n\u3000\u3000\u3000\u958b\u62d3\u62e0\u70b9\u306e\u65bd\u8a2d\u3067\u50cd\u304f\u9b54\u6cd5\u4eba\u5f62\u305f\u3061\u306e\u80fd\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u3002",
+        "Text_ko": "\ub192\ub2e4\ub780 \ub098\ubb34\ub97c \uc774\uc6a9\ud574 \uc804\ub9dd \uc88b\uc740 \uc624\ub450\ub9c9\uc5d0\uc11c \ud734\uc2dd\uc744 \ucde8\ud560 \uc218 \uc788\ub294 \ud2b9\uc218 \uac74\ubb3c.\n\u3000\u3000\u3000\uac1c\ucc99 \uac70\uc810 \uc2dc\uc124\uc5d0\uc11c \uc77c\ud558\ub294 \ub9c8\ubc95\uc778\ud615\ub4e4\uc758 \ub2a5\ub825\uc774 \ud5a5\uc0c1\ub41c\ub2e4."
+    },
+    "59": {
+        "0xID": "3B",
+        "Text_cn": "\u6ce1\u5728\u6e29\u6cc9\u4e2d\u611f\u53d7\u65f6\u95f4\u7f13\u7f13\u5730\u6d41\u901d\uff0c\n\u3000\u3000\u3000\u8ba9\u8eab\u5fc3\u5f7b\u5e95\u5f97\u5230\u653e\u677e\u3002\n\u3000\u3000\u3000\u5f00\u62d3\u636e\u70b9\u5404\u8bbe\u65bd\u5185\u5de5\u4f5c\u7684\u9b54\u6cd5\u4eba\u5076\u80fd\u529b\u4e0a\u5347\u3002",
+        "Text_de": "Das dampfende Wasser ist eine Wohltat f\u00fcr schmerzende Glieder und unruhige Geister. Au\u00dferdem verhilft es den Marionetten deiner Insel zu besonderen F\u00e4higkeiten.",
+        "Text_en": "The well-intentioned automata in charge of its temperature boast that this lovely outdoor bath will sear the impurities from your skin and leave you clean...if you survive. Adored by island mammets.",
+        "Text_fr": "Apr\u00e8s une dure journ\u00e9e de labeur \u00e0 d\u00e9fricher ou \u00e0 s'occuper des animaux, quoi de mieux qu'un bon bain chaud? Vos poup\u00e9es magiques vous en seront tr\u00e8s reconnaissantes, c'est certain!",
+        "Text_ja": "\u6e29\u6cc9\u306b\u5165\u3063\u3066\u3001\u3086\u3063\u304f\u308a\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3002\n\n\u3000\u3000\u3000\u958b\u62d3\u62e0\u70b9\u306e\u65bd\u8a2d\u3067\u50cd\u304f\u9b54\u6cd5\u4eba\u5f62\u305f\u3061\u306e\u80fd\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u3002",
+        "Text_ko": "\uc628\ucc9c\uc5d0 \ub4e4\uc5b4\uac00 \ub290\uae0b\ud558\uac8c \uc274 \uc218 \uc788\ub294 \ud2b9\uc218 \uac74\ubb3c.\n\u3000\u3000\u3000\uac1c\ucc99 \uac70\uc810 \uc2dc\uc124\uc5d0\uc11c \uc77c\ud558\ub294 \ub9c8\ubc95\uc778\ud615\ub4e4\uc758 \ub2a5\ub825\uc774 \ud5a5\uc0c1\ub41c\ub2e4."
+    },
+    "6": {
+        "0xID": "6",
+        "Text_cn": "\u5f00\u62d3\u5de5\u623f II",
+        "Text_de": "Inselatelier II",
+        "Text_en": "Workshop II",
+        "Text_fr": "Fabrique II",
+        "Text_ja": "\u958b\u62d3\u5de5\u623f II",
+        "Text_ko": "\uac1c\ucc99\uacf5\ubc29 2"
+    },
+    "60": {
+        "0xID": "3C",
+        "Text_cn": "\u4e3a\u7ecf\u8fc7\u8c22\u5c14\u8fbe\u83b1\u7fa4\u5c9b\u9644\u8fd1\u7684\u8239\u53ea\u63d0\u4f9b\u6307\u5f15\u7684\u706f\u5854\u3002\n\u3000\u3000\u3000\u5f00\u62d3\u636e\u70b9\u5404\u8bbe\u65bd\u5185\u5de5\u4f5c\u7684\u9b54\u6cd5\u4eba\u5076\u80fd\u529b\u4e0a\u5347\u3002",
+        "Text_de": "Stumm wacht dieser Turm \u00fcber dein kleines Paradies und sorgt f\u00fcr ruhige Gew\u00e4sser. Sein Anblick verhilft den Marionetten deiner Insel zu besonderen F\u00e4higkeiten.",
+        "Text_en": "Great pains were taken to construct this lighthouse in the Lominsan style despite limited materials and heated creative differences amongst its mammet architects. Adored by island mammets.",
+        "Text_fr": "Un \u00e9difice qui signale votre pr\u00e9sence dans cette partie des Cieldalaes et qui avertit les navires de la proximit\u00e9 des r\u00e9cifs. Sa lumi\u00e8re giratoire apaise et rassure vos poup\u00e9es la nuit.",
+        "Text_ja": "\u30b7\u30a7\u30eb\u30c0\u30ec\u30fc\u8af8\u5cf6\u3092\u884c\u304d\u4ea4\u3046\u8239\u306e\u6a19\u3068\u306a\u308b\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3002\n\n\u3000\u3000\u3000\u958b\u62d3\u62e0\u70b9\u306e\u65bd\u8a2d\u3067\u50cd\u304f\u9b54\u6cd5\u4eba\u5f62\u305f\u3061\u306e\u80fd\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u3002",
+        "Text_ko": "\uc2dc\uc5d8\ub2ec\ub808 \uc81c\ub3c4\ub97c \uc624\uac00\ub294 \ubc30\ub4e4\uc774 \uae38\uc7a1\uc774\ub85c \uc0bc\ub294 \ud2b9\uc218 \uac74\ubb3c.\n\u3000\u3000\u3000\uac1c\ucc99 \uac70\uc810 \uc2dc\uc124\uc5d0\uc11c \uc77c\ud558\ub294 \ub9c8\ubc95\uc778\ud615\ub4e4\uc758 \ub2a5\ub825\uc774 \ud5a5\uc0c1\ub41c\ub2e4."
+    },
+    "61": {
+        "0xID": "3D",
+        "Text_cn": "\u4ee5\u736d\u736d\u7684\u5f62\u8c61\u4f5c\u4e3a\u53c2\u8003\uff0c\n\u3000\u3000\u3000\u80fd\u591f\u8ba9\u4eba\u611f\u5230\u5fc3\u60c5\u5e73\u9759\u7684\u55b7\u6c34\u6c60\u3002\n\u3000\u3000\u3000\u5f00\u62d3\u636e\u70b9\u5404\u8bbe\u65bd\u5185\u5de5\u4f5c\u7684\u9b54\u6cd5\u4eba\u5076\u80fd\u529b\u4e0a\u5347\u3002",
+        "Text_de": "Nichts macht so gl\u00fccklich wie das L\u00e4cheln dieses steinernen Otters. Das Pl\u00e4tschern des Wassers verhilft deinen Marionetten deiner Insel au\u00dferdem zu besonderen F\u00e4higkeiten.",
+        "Text_en": "Answering the age-old question\u2500an otter spouting water might, in fact, be odder than an otter out of water. Adored by island mammets.",
+        "Text_fr": "Cette fontaine au motif de loutre choute envo\u00fbte sans aucun doute toutes vos poup\u00e9es, les yeux riv\u00e9s sur les gouttes qui s'\u00e9l\u00e8vent puis s'\u00e9chouent dans le bassin.",
+        "Text_ja": "\u30a6\u30bd\u30a6\u30bd\u304c\u8c61\u3089\u308c\u305f\u3001\u3069\u3053\u304b\u548c\u3080\u5674\u6c34\u306e\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3002\n\n\u3000\u3000\u3000\u958b\u62d3\u62e0\u70b9\u306e\u65bd\u8a2d\u3067\u50cd\u304f\u9b54\u6cd5\u4eba\u5f62\u305f\u3061\u306e\u80fd\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u3002",
+        "Text_ko": "\ub2ec\ub2ec\uc774 \uc870\uac01\uc0c1 \ubd84\uc218\uac00 \ub9c8\uc74c\uc5d0 \ud3c9\ud654\ub97c \uc8fc\ub294 \ud2b9\uc218 \uac74\ubb3c.\n\u3000\u3000\u3000\uac1c\ucc99 \uac70\uc810 \uc2dc\uc124\uc5d0\uc11c \uc77c\ud558\ub294 \ub9c8\ubc95\uc778\ud615\ub4e4\uc758 \ub2a5\ub825\uc774 \ud5a5\uc0c1\ub41c\ub2e4."
+    },
+    "62": {
+        "0xID": "3E",
+        "Text_cn": "\u8015\u5730",
+        "Text_de": "Felder",
+        "Text_en": "Cropland",
+        "Text_fr": "Terre arable",
+        "Text_ja": "\u8015\u4f5c\u5730",
+        "Text_ko": "\uacbd\uc791\uc9c0"
+    },
+    "63": {
+        "0xID": "3F",
+        "Text_cn": "\u7267\u573a",
+        "Text_de": "Weide",
+        "Text_en": "Pasture",
+        "Text_fr": "P\u00e2turage",
+        "Text_ja": "\u653e\u7267\u5730",
+        "Text_ko": "\ubc29\ubaa9\uc9c0"
+    },
+    "64": {
+        "0xID": "40",
+        "Text_cn": "\u53ef\u4ee5\u5728\u5c9b\u5185\u8015\u79cd\u683d\u57f9\u4f5c\u7269\u7684\u80a5\u6c83\u7530\u5730\u3002",
+        "Text_de": "Beete von dunkler, fruchtbarer Erde, in dem allerlei heimische Pflanzen wachsen und gedeihen k\u00f6nnen.",
+        "Text_en": "Beds of rich, tilled soil perfect for the cultivation of crops.",
+        "Text_fr": "Un champ au sol fertile, capable d'accueillir tous types de cultures.",
+        "Text_ja": "\u5cf6\u5185\u306e\u690d\u7269\u3092\u4f5c\u7269\u3068\u3057\u3066\u683d\u57f9\u3067\u304d\u308b\u3001\u8c4a\u304b\u306a\u571f\u58cc\u306e\u7551\u3002",
+        "Text_ko": "\uc12c\uc5d0\uc11c \uc790\ub77c\ub294 \uc2dd\ubb3c\uc744 \uc791\ubb3c\ub85c \uc7ac\ubc30\ud560 \uc218 \uc788\ub294, \ube44\uc625\ud55c \ubc2d."
+    },
+    "65": {
+        "0xID": "41",
+        "Text_cn": "\u53ef\u4ee5\u653e\u7267\u9972\u517b\u5c9b\u5185\u52a8\u7269\u7684\u7267\u573a\u3002",
+        "Text_de": "Eine satte Wiese voller gr\u00fcnem Gras, die jedem Tierchen ein sonniges Pl\u00e4tzchen garantiert.",
+        "Text_en": "A lush, green field accommodating to island animals of all shapes and sizes.",
+        "Text_fr": "Une belle \u00e9tendue de verdure, parfaite pour accueillir les animaux que vous aurez captur\u00e9s.",
+        "Text_ja": "\u5cf6\u5185\u306e\u52d5\u7269\u3092\u6355\u7372\u3057\u3066\u3001\u653e\u7267\u98fc\u80b2\u3067\u304d\u308b\u7267\u5834\u3002",
+        "Text_ko": "\uc12c\uc5d0\uc11c \ud3ec\ud68d\ud55c \ub3d9\ubb3c\uc744 \ubc29\ubaa9 \uc0ac\uc721\ud560 \uc218 \uc788\ub294 \ubaa9\uc7a5."
+    },
+    "66": {
+        "0xID": "42",
+        "Text_cn": "\u5f00\u62d3\u7ba1\u7406\u9762\u677f",
+        "Text_de": "INSELF\u00dcHRER",
+        "Text_en": "Islekeep's Index",
+        "Text_fr": "Tableau de gestion",
+        "Text_ja": "\u958b\u62d3\u7ba1\u7406\u30dc\u30fc\u30c9",
+        "Text_ko": "\uac1c\ucc99 \uad00\ub9ac\ud310"
+    },
+    "67": {
+        "0xID": "43",
+        "Text_cn": "\u5c0f\u5c9b\u5ead\u56ed",
+        "Text_de": "Inselg\u00e4rtchen",
+        "Text_en": "Gamboling Garden",
+        "Text_fr": "Jardin insulaire",
+        "Text_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30ac\u30fc\u30c7\u30f3",
+        "Text_ko": ""
+    },
+    "68": {
+        "0xID": "44",
+        "Text_cn": "\u6d41\u6c34\u6d93\u6d93\uff0c\u5341\u5206\u6e29\u99a8\u7684\u5ead\u56ed\u578b\u5730\u6807\u3002\n\u3000\u3000\u3000\u5f00\u62d3\u636e\u70b9\u5404\u8bbe\u65bd\u5185\u5de5\u4f5c\u7684\u9b54\u6cd5\u4eba\u5076\u80fd\u529b\u4e0a\u5347\u3002",
+        "Text_de": "Sattes Gr\u00fcn und sanftes Pl\u00e4tschern ist wahrer Balsam f\u00fcr die Seele. Au\u00dferdem verhilft es den Marionetten deiner Insel zu besonderen F\u00e4higkeiten.",
+        "Text_en": "This so-called \u201cgarden\u201d is a playground in all but name, contrived by a group of mammets who conspire to create a secret paradise of their own, one landmark at a time. Adored by island mammets.",
+        "Text_fr": "Un joli jardinet verdoyant avec sa petite mare. Les gazouillis des oiseaux qui y batifolent apaisent vos poup\u00e9es, qui pourront s'atteler \u00e0 leur t\u00e2che avec toujours plus d'ardeur!",
+        "Text_ja": "\u6c34\u5834\u306e\u305b\u305b\u3089\u304e\u304c\u5fc3\u5730\u3088\u3044\u3001\u307b\u306e\u307c\u306e\u3068\u3057\u305f\u5ead\u5712\u306e\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3002\n\n\u3000\u3000\u3000\u958b\u62d3\u62e0\u70b9\u306e\u65bd\u8a2d\u3067\u50cd\u304f\u9b54\u6cd5\u4eba\u5f62\u305f\u3061\u306e\u80fd\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u3002",
+        "Text_ko": ""
+    },
+    "69": {
+        "0xID": "45",
+        "Text_cn": "",
+        "Text_de": "Kornkammer IV",
+        "Text_en": "Granary IV",
+        "Text_fr": "Grange IV",
+        "Text_ja": "\u30b0\u30e9\u30ca\u30ea\u30fc\u30aa\u30d5\u30a3\u30b9 IV",
+        "Text_ko": ""
+    },
+    "7": {
+        "0xID": "7",
+        "Text_cn": "\u5f00\u62d3\u5de5\u623f III",
+        "Text_de": "Inselatelier III",
+        "Text_en": "Workshop III",
+        "Text_fr": "Fabrique III",
+        "Text_ja": "\u958b\u62d3\u5de5\u623f III",
+        "Text_ko": "\uac1c\ucc99\uacf5\ubc29 3"
+    },
+    "70": {
+        "0xID": "46",
+        "Text_cn": "",
+        "Text_de": "",
+        "Text_en": "",
+        "Text_fr": "",
+        "Text_ja": "",
+        "Text_ko": ""
+    },
+    "71": {
+        "0xID": "47",
+        "Text_cn": "",
+        "Text_de": "Heulende H\u00f6hlen",
+        "Text_en": "Crumbling Caverns",
+        "Text_fr": "Caverne croulante",
+        "Text_ja": "\u6d1e\u7a9f",
+        "Text_ko": ""
+    },
+    "72": {
+        "0xID": "48",
+        "Text_cn": "",
+        "Text_de": "Deine m\u00e4chtige Kornkammer, die als Materiallager und Basis f\u00fcr die Expeditionen deiner Marionetten dient. Ihr Prunk ist in den ganzen Cieldal\u00e4en bekannt.",
+        "Text_en": "A state-of-the-art establishment specifically designed to support veteran mammet gleaners.",
+        "Text_fr": "Le nec plus ultra de la grange, parfaite pour entreposer vos mat\u00e9riaux, les conserver dans les meilleures conditions et servir de base pour vos poup\u00e9es magiques exploratrices.",
+        "Text_ja": "\u5cf6\u5185\u63a2\u7d22\u3092\u62c5\u3046\u9b54\u6cd5\u4eba\u5f62\u306e\u62e0\u70b9\u3001\u517c\u3001\u958b\u62d3\u7d20\u6750\u306e\u96c6\u7a4d\u65bd\u8a2d\u3002\n\n\u3000\u3000\u3000\u8caf\u8535\u5eab\u3068\u3057\u3066\u3001\u304b\u306a\u308a\u3044\u3044\u611f\u3058\u306e\u6574\u5099\u304c\u3055\u308c\u3066\u3044\u308b\u3002",
+        "Text_ko": ""
+    },
+    "73": {
+        "0xID": "49",
+        "Text_cn": "",
+        "Text_de": "Strandh\u00fctte IV",
+        "Text_en": "Cozy Cabin IV",
+        "Text_fr": "Hutte placide IV",
+        "Text_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30db\u30fc\u30eb IV",
+        "Text_ko": ""
+    },
+    "74": {
+        "0xID": "4A",
+        "Text_cn": "",
+        "Text_de": "Dein eigenes Heim und prunkvolles Anwesen. Die harte Arbeit hat sich gelohnt- hier k\u00f6nntest du gar K\u00f6nige empfangen.",
+        "Text_en": "An elegant statement of success and island affluence, from prow to sturdy second floor.",
+        "Text_fr": "Le centre n\u00e9vralgique de votre \u00eele, toujours plus clinquant et poss\u00e9dant maintenant un splendide second \u00e9tage. Merci qui? Les poup\u00e9es magiques, \u00e9videmment!",
+        "Text_ja": "\u7121\u4eba\u5cf6\u958b\u62d3\u306e\u4e2d\u67a2\u3068\u306a\u308b\u5efa\u7269\u3002\n\n\u3000\u3000\u3000\u9b54\u6cd5\u4eba\u5f62\u306e\u5efa\u7bc9\u6280\u8853\u3082\u3055\u3089\u306b\u5411\u4e0a\u3057\u3001\u6a5f\u80fd\u6027\u3082\u5916\u89b3\u3082\u6d17\u7df4\u3055\u308c\u3066\u304d\u305f\u3002",
+        "Text_ko": ""
+    },
+    "75": {
+        "0xID": "4B",
+        "Text_cn": "",
+        "Text_de": "Inselatelier IV",
+        "Text_en": "Workshop IV",
+        "Text_fr": "Fabrique IV",
+        "Text_ja": "\u958b\u62d3\u5de5\u623f IV",
+        "Text_ko": ""
+    },
+    "76": {
+        "0xID": "4C",
+        "Text_cn": "",
+        "Text_de": "Deine pr\u00e4chtige Werkstatt, in der die Marionetten der Insel ihr Bestes geben- und t\u00e4glich \u00fcber sich hinauswachsen.",
+        "Text_en": "A streamlined facility created to improve the already impressive efficiency of veteran mammet artisans.",
+        "Text_fr": "Une splendide installation consacr\u00e9e \u00e0 la production de biens insulaires, con\u00e7us avec amour et talent par vos poup\u00e9es devenues expertes en artisanat.",
+        "Text_ja": "\u5353\u8d8a\u3057\u305f\u8077\u4eba\u9b54\u6cd5\u4eba\u5f62\u304c\u96c6\u3046\u3001\u5cf6\u7523\u54c1\u306e\u88fd\u4f5c\u65bd\u8a2d\u3002\n\n\u3000\u3000\u3000\u5916\u89b3\u306b\u3082\u8077\u4eba\u306e\u5de7\u6280\u3092\u611f\u3058\u3089\u308c\u308b\u3002",
+        "Text_ko": ""
+    },
+    "77": {
+        "0xID": "4D",
+        "Text_cn": "",
+        "Text_de": "Kopfstein",
+        "Text_en": "Tiled Brick",
+        "Text_fr": "Pavage en arche",
+        "Text_ja": "\u30a6\u30ed\u30b3\u8cbc\u308a\u306e\u5730\u9762",
+        "Text_ko": ""
+    },
+    "78": {
+        "0xID": "4E",
+        "Text_cn": "",
+        "Text_de": "Kopfsteinpfad",
+        "Text_en": "Tiled Brick",
+        "Text_fr": "Pavage en arche",
+        "Text_ja": "\u30a6\u30ed\u30b3\u8cbc\u308a\u306e\u9053",
+        "Text_ko": ""
+    },
+    "79": {
+        "0xID": "4F",
+        "Text_cn": "",
+        "Text_de": "Kopfsteintreppe",
+        "Text_en": "Tiled Brick",
+        "Text_fr": "Pavage en arche",
+        "Text_ja": "\u30a6\u30ed\u30b3\u8cbc\u308a\u306e\u968e\u6bb5",
+        "Text_ko": ""
+    },
+    "8": {
+        "0xID": "8",
+        "Text_cn": "\u5c6f\u8d27\u4ed3\u5e93 I",
+        "Text_de": "Kornkammer I",
+        "Text_en": "Granary I",
+        "Text_fr": "Grange I",
+        "Text_ja": "\u30b0\u30e9\u30ca\u30ea\u30fc\u30aa\u30d5\u30a3\u30b9 I",
+        "Text_ko": "\uc7ac\ub8cc \uc800\uc7a5\uace0 1"
+    },
+    "80": {
+        "0xID": "50",
+        "Text_cn": "",
+        "Text_de": "Gymnastikutter",
+        "Text_en": "Uncharted Course",
+        "Text_fr": "Accrobranche insulaire",
+        "Text_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30a2\u30b9\u30ec\u30c1\u30c3\u30af\u30b7\u30c3\u30d7",
+        "Text_ko": ""
+    },
+    "81": {
+        "0xID": "51",
+        "Text_cn": "",
+        "Text_de": "Ein Schiffchen f\u00fcr leichte Leibesert\u00fcchtigungen bei sanfter Meeresbrise. Es verhilft den Marionetten deiner Insel zu besonderen F\u00e4higkeiten.",
+        "Text_en": "What started as a frigate has ended as grounds to frolic. Adored by island mammets.",
+        "Text_fr": "Une incroyable r\u00e9plique d'un galion transform\u00e9e en parcours acrobatique pour le plus grand plaisir de vos poup\u00e9es, mais \u00e9galement pour leur permettre de se muscler les biscotos!",
+        "Text_ja": "\u30a2\u30b9\u30ec\u30c1\u30c3\u30af\u304c\u697d\u3057\u3081\u308b\u3001\u5916\u6d0b\u8239\u3092\u30a4\u30e1\u30fc\u30b8\u3057\u305f\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3002\n\n\u3000\u3000\u3000\u958b\u62d3\u62e0\u70b9\u306e\u65bd\u8a2d\u3067\u50cd\u304f\u9b54\u6cd5\u4eba\u5f62\u305f\u3061\u306e\u80fd\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u3002",
+        "Text_ko": ""
+    },
+    "82": {
+        "0xID": "52",
+        "Text_cn": "",
+        "Text_de": "Glockenturm",
+        "Text_en": "Quaint Clock Tower",
+        "Text_fr": "Beffroi insulaire",
+        "Text_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30af\u30ed\u30c3\u30af\u30bf\u30ef\u30fc",
+        "Text_ko": ""
+    },
+    "83": {
+        "0xID": "53",
+        "Text_cn": "",
+        "Text_de": "Sanftes Ticken und wohltuende Glockenschl\u00e4ge schallen \u00fcber das Domizil und verhelfen den Marionetten deiner Insel zu besonderen F\u00e4higkeiten.",
+        "Text_en": "A peaceful timepiece, complete with slowly swinging pendulum. Adored by island mammets.",
+        "Text_fr": "Un \u00e9difice imposant de par sa taille et son horloge m\u00e9canique infaillible. Le balancement lancinant de son pendule fascine d'ailleurs grandement vos poup\u00e9es magiques.",
+        "Text_ja": "\u306e\u3069\u304b\u306b\u6642\u3092\u523b\u3080\u3001\u6b6f\u8eca\u3068\u632f\u308a\u5b50\u304c\u5370\u8c61\u7684\u306a\u6642\u8a08\u5854\u306e\u30e9\u30f3\u30c9\u30de\u30fc\u30af\u3002\n\n\u3000\u3000\u3000\u958b\u62d3\u62e0\u70b9\u306e\u65bd\u8a2d\u3067\u50cd\u304f\u9b54\u6cd5\u4eba\u5f62\u305f\u3061\u306e\u80fd\u529b\u304c\u30a2\u30c3\u30d7\u3059\u308b\u3002",
+        "Text_ko": ""
+    },
+    "84": {
+        "0xID": "54",
+        "Text_cn": "",
+        "Text_de": "Pionierssitz",
+        "Text_en": "Islekeep's Ambition",
+        "Text_fr": "Clairi\u00e8re",
+        "Text_ja": "\u5cf6\u9577\u8005\u306e\u958b\u62d3\u5730",
+        "Text_ko": ""
+    },
+    "85": {
+        "0xID": "55",
+        "Text_cn": "",
+        "Text_de": "Pionierskrone",
+        "Text_en": "Islekeep's Outlook",
+        "Text_fr": "Observatoire ",
+        "Text_ja": "\u5cf6\u9577\u8005\u306e\u5c55\u671b\u5730",
+        "Text_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "Text_cn": "\u5c6f\u8d27\u4ed3\u5e93 II",
+        "Text_de": "Kornkammer II",
+        "Text_en": "Granary II",
+        "Text_fr": "Grange II",
+        "Text_ja": "\u30b0\u30e9\u30ca\u30ea\u30fc\u30aa\u30d5\u30a3\u30b9 II",
+        "Text_ko": "\uc7ac\ub8cc \uc800\uc7a5\uace0 2"
+    }
+}

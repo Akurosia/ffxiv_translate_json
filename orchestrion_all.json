@@ -4922,6 +4922,87 @@
         "Name_ja": "一方その頃 ～蠢く野心～",
         "Name_ko": ""
     },
+    "591": {
+        "0xID": "24F",
+        "Name_cn": "",
+        "Name_de": "Another Moon",
+        "Name_en": "Another Moon",
+        "Name_fr": "Another Moon",
+        "Name_ja": "もう一つの月 ～暁月～",
+        "Name_ko": ""
+    },
+    "592": {
+        "0xID": "250",
+        "Name_cn": "",
+        "Name_de": "Voidcast Savior",
+        "Name_en": "Voidcast Savior",
+        "Name_fr": "Voidcast Savior",
+        "Name_ja": "ヴォイドの救済者",
+        "Name_ko": ""
+    },
+    "593": {
+        "0xID": "251",
+        "Name_cn": "",
+        "Name_de": "Subterranean Sanctuary",
+        "Name_en": "Subterranean Sanctuary",
+        "Name_fr": "Subterranean Sanctuary",
+        "Name_ja": "涼やかなる洞窟 ～無人島開拓～",
+        "Name_ko": ""
+    },
+    "594": {
+        "0xID": "252",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "595": {
+        "0xID": "253",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "596": {
+        "0xID": "254",
+        "Name_cn": "",
+        "Name_de": "Starsbreath",
+        "Name_en": "Starsbreath",
+        "Name_fr": "Starsbreath",
+        "Name_ja": "星のため息 ～星霊間欠 ハーム島～",
+        "Name_ko": ""
+    },
+    "597": {
+        "0xID": "255",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "598": {
+        "0xID": "256",
+        "Name_cn": "",
+        "Name_de": "One Amongst the Weary",
+        "Name_en": "One Amongst the Weary",
+        "Name_fr": "One Amongst the Weary",
+        "Name_ja": "One Amongst the Weary ～万魔殿パンデモニウム：天獄編～",
+        "Name_ko": ""
+    },
+    "599": {
+        "0xID": "257",
+        "Name_cn": "",
+        "Name_de": "Fleeting Moment",
+        "Name_en": "Fleeting Moment",
+        "Name_fr": "Fleeting Moment",
+        "Name_ja": "Fleeting Moment ～万魔殿パンデモニウム：天獄編～",
+        "Name_ko": ""
+    },
     "6": {
         "0xID": "6",
         "Name_cn": "沙之家",
@@ -4940,6 +5021,96 @@
         "Name_ja": "紅蓮祭",
         "Name_ko": "Moonfire Faire"
     },
+    "600": {
+        "0xID": "258",
+        "Name_cn": "",
+        "Name_de": "Athena, the Tireless One",
+        "Name_en": "Athena, the Tireless One",
+        "Name_fr": "Athena, the Tireless One",
+        "Name_ja": "Athena, the Tireless One ～万魔殿パンデモニウム：天獄編～",
+        "Name_ko": ""
+    },
+    "601": {
+        "0xID": "259",
+        "Name_cn": "",
+        "Name_de": "Ultima's Perfection (Endwalker)",
+        "Name_en": "Ultima's Perfection (Endwalker)",
+        "Name_fr": "Ultima's Perfection (Endwalker)",
+        "Name_ja": "Ultema The Perfect Body! ～暁月～",
+        "Name_ko": ""
+    },
+    "602": {
+        "0xID": "25A",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "603": {
+        "0xID": "25B",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "604": {
+        "0xID": "25C",
+        "Name_cn": "",
+        "Name_de": "Fracture",
+        "Name_en": "Fracture",
+        "Name_fr": "Fracture",
+        "Name_ja": "不穏な気配",
+        "Name_ko": ""
+    },
+    "605": {
+        "0xID": "25D",
+        "Name_cn": "",
+        "Name_de": "Conundrum",
+        "Name_en": "Conundrum",
+        "Name_fr": "Conundrum",
+        "Name_ja": "堂々巡り",
+        "Name_ko": ""
+    },
+    "606": {
+        "0xID": "25E",
+        "Name_cn": "",
+        "Name_de": "Return of the Hero",
+        "Name_en": "Return of the Hero",
+        "Name_fr": "Return of the Hero",
+        "Name_ja": "英雄の凱旋",
+        "Name_ko": ""
+    },
+    "607": {
+        "0xID": "25F",
+        "Name_cn": "",
+        "Name_de": "Kiss of Chaos",
+        "Name_en": "Kiss of Chaos",
+        "Name_fr": "Kiss of Chaos",
+        "Name_ja": "混沌の予感",
+        "Name_ko": ""
+    },
+    "608": {
+        "0xID": "260",
+        "Name_cn": "",
+        "Name_de": "Machinations",
+        "Name_en": "Machinations",
+        "Name_fr": "Machinations",
+        "Name_ja": "軍議",
+        "Name_ko": ""
+    },
+    "609": {
+        "0xID": "261",
+        "Name_cn": "",
+        "Name_de": "Damnation",
+        "Name_en": "Damnation",
+        "Name_fr": "Damnation",
+        "Name_ja": "破滅",
+        "Name_ko": ""
+    },
     "61": {
         "0xID": "3D",
         "Name_cn": "Heavensward　-飞向苍穹-",
@@ -4949,6 +5120,96 @@
         "Name_ja": "Heavensward",
         "Name_ko": "Heavensward"
     },
+    "610": {
+        "0xID": "262",
+        "Name_cn": "",
+        "Name_de": "Skullduggery",
+        "Name_en": "Skullduggery",
+        "Name_fr": "Skullduggery",
+        "Name_ja": "奸計",
+        "Name_ko": ""
+    },
+    "611": {
+        "0xID": "263",
+        "Name_cn": "",
+        "Name_de": "Tranquility",
+        "Name_en": "Tranquility",
+        "Name_fr": "Tranquility",
+        "Name_ja": "静かなる一刻",
+        "Name_ko": ""
+    },
+    "612": {
+        "0xID": "264",
+        "Name_cn": "",
+        "Name_de": "My Soul to Keep",
+        "Name_en": "My Soul to Keep",
+        "Name_fr": "My Soul to Keep",
+        "Name_ja": "我が魂を捧げて",
+        "Name_ko": ""
+    },
+    "613": {
+        "0xID": "265",
+        "Name_cn": "",
+        "Name_de": "Meteor",
+        "Name_en": "Meteor",
+        "Name_fr": "Meteor",
+        "Name_ja": "メテオ",
+        "Name_ko": ""
+    },
+    "614": {
+        "0xID": "266",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "615": {
+        "0xID": "267",
+        "Name_cn": "",
+        "Name_de": "Shadowbringers (Orchestral Version)",
+        "Name_en": "Shadowbringers (Orchestral Version)",
+        "Name_fr": "Shadowbringers (Orchestral Version)",
+        "Name_ja": "Shadowbringers（Orchestral）",
+        "Name_ko": ""
+    },
+    "616": {
+        "0xID": "268",
+        "Name_cn": "",
+        "Name_de": "Endcaller (Orchestral Version)",
+        "Name_en": "Endcaller (Orchestral Version)",
+        "Name_fr": "Endcaller (Orchestral Version)",
+        "Name_ja": "ENDCALLER 〜ゾディアーク討滅戦〜（Orchestral）",
+        "Name_ko": ""
+    },
+    "617": {
+        "0xID": "269",
+        "Name_cn": "",
+        "Name_de": "Your Answer (Orchestral Version)",
+        "Name_en": "Your Answer (Orchestral Version)",
+        "Name_fr": "Your Answer (Orchestral Version)",
+        "Name_ja": "Your Answer 〜ハイデリン討滅戦〜（Orchestral）",
+        "Name_ko": ""
+    },
+    "618": {
+        "0xID": "26A",
+        "Name_cn": "",
+        "Name_de": "Close in the Distance (Orchestral Version)",
+        "Name_en": "Close in the Distance (Orchestral Version)",
+        "Name_fr": "Close in the Distance (Orchestral Version)",
+        "Name_ja": "Close in the Distance（Orchestral）",
+        "Name_ko": ""
+    },
+    "619": {
+        "0xID": "26B",
+        "Name_cn": "",
+        "Name_de": "The Final Day (Orchestral Version)",
+        "Name_en": "The Final Day (Orchestral Version)",
+        "Name_fr": "The Final Day (Orchestral Version)",
+        "Name_ja": "終焉の戦い（Orchestral）",
+        "Name_ko": ""
+    },
     "62": {
         "0xID": "3E",
         "Name_cn": "密道",
@@ -4957,6 +5218,96 @@
         "Name_fr": "The Warrens",
         "Name_ja": "秘密坑道 ～氷結潜窟 スノークローク大氷壁～",
         "Name_ko": "The Warrens"
+    },
+    "620": {
+        "0xID": "26C",
+        "Name_cn": "",
+        "Name_de": "Unbreakable (Pulse)",
+        "Name_en": "Unbreakable (Pulse)",
+        "Name_fr": "Unbreakable (Pulse)",
+        "Name_ja": "アンブレーカブル ～博物戦艦 フラクタル・コンティニアム～（Pulse）",
+        "Name_ko": ""
+    },
+    "621": {
+        "0xID": "26D",
+        "Name_cn": "",
+        "Name_de": "Equilibrium (Pulse)",
+        "Name_en": "Equilibrium (Pulse)",
+        "Name_fr": "Equilibrium (Pulse)",
+        "Name_ja": "女神 ～女神ソフィア討滅戦～（Pulse）",
+        "Name_ko": ""
+    },
+    "622": {
+        "0xID": "26E",
+        "Name_cn": "",
+        "Name_de": "Beauty's Wicked Wiles (Pulse)",
+        "Name_en": "Beauty's Wicked Wiles (Pulse)",
+        "Name_fr": "Beauty's Wicked Wiles (Pulse)",
+        "Name_ja": "美の謀略 ～蛮神ラクシュミ討滅戦～（Pulse）",
+        "Name_ko": ""
+    },
+    "623": {
+        "0xID": "26F",
+        "Name_cn": "",
+        "Name_de": "I Am the Sea (Pulse)",
+        "Name_en": "I Am the Sea (Pulse)",
+        "Name_fr": "I Am the Sea (Pulse)",
+        "Name_ja": "偉大なる母港 ～リムサ・ロミンサ～（Pulse）",
+        "Name_ko": ""
+    },
+    "624": {
+        "0xID": "270",
+        "Name_cn": "",
+        "Name_de": "A Long Fall (Pulse)",
+        "Name_en": "A Long Fall (Pulse)",
+        "Name_fr": "A Long Fall (Pulse)",
+        "Name_ja": "ロングフォール ～異界遺構 シルクス・ツイニング～（Pulse）",
+        "Name_ko": ""
+    },
+    "625": {
+        "0xID": "271",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "626": {
+        "0xID": "272",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "627": {
+        "0xID": "273",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "628": {
+        "0xID": "274",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "629": {
+        "0xID": "275",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
     },
     "63": {
         "0xID": "3F",

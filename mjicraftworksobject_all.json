@@ -1,0 +1,812 @@
+{
+    "0": {
+        "0xID": "0",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "1": {
+        "0xID": "1",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Trank",
+        "Name_en": "Isleworks Potion",
+        "Name_fr": "Potion manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30dd\u30fc\u30b7\u30e7\u30f3",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "10": {
+        "0xID": "A",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Bratk\u00fcrbis",
+        "Name_en": "Isleworks Baked Pumpkin",
+        "Name_fr": "Citrouille grill\u00e9e manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u713c\u304d\u30d1\u30f3\u30d7\u30ad\u30f3",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "11": {
+        "0xID": "B",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Hemd",
+        "Name_en": "Isleworks Tunic",
+        "Name_fr": "Tunique manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30c1\u30e5\u30cb\u30c3\u30af",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "12": {
+        "0xID": "C",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-K\u00fcchenmesser",
+        "Name_en": "Isleworks Culinary Knife",
+        "Name_fr": "Couteau de cuisine manufactur\u00e9",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30af\u30ea\u30ca\u30ea\u30fc\u30ca\u30a4\u30d5",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "13": {
+        "0xID": "D",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-B\u00fcrste",
+        "Name_en": "Isleworks Brush",
+        "Name_fr": "Brosse manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d6\u30e9\u30b7",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "14": {
+        "0xID": "E",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Gekochtes Atelier-Ei",
+        "Name_en": "Isleworks Boiled Egg",
+        "Name_fr": "\u0152uf dur manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30dc\u30a4\u30eb\u30c9\u30a8\u30c3\u30b0",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "15": {
+        "0xID": "F",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Hora",
+        "Name_en": "Isleworks Hora",
+        "Name_fr": "Hora manufactur\u00e9s",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30db\u30e9",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "16": {
+        "0xID": "10",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Ohrringe",
+        "Name_en": "Isleworks Earrings",
+        "Name_fr": "Boucles d'oreilles en croc manufactur\u00e9es",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d5\u30a1\u30f3\u30b0\u30a4\u30e4\u30ea\u30f3\u30b0",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "17": {
+        "0xID": "11",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Butter",
+        "Name_en": "Isleworks Butter",
+        "Name_fr": "Beurre manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30d0\u30bf\u30fc",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "18": {
+        "0xID": "12",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Ziegeltheke",
+        "Name_en": "Isleworks Brick Counter",
+        "Name_fr": "Comptoir en brique manufactur\u00e9",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d6\u30ea\u30c3\u30af\u30ab\u30a6\u30f3\u30bf\u30fc",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "19": {
+        "0xID": "13",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Bronzeschaf",
+        "Name_en": "Bronze Sheep",
+        "Name_fr": "Statue de mouton en bronze manufactur\u00e9e",
+        "Name_ja": "\u30b7\u30fc\u30d7\u306e\u30d6\u30ed\u30f3\u30ba\u50cf",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "2": {
+        "0xID": "2",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Feuersandbeutel",
+        "Name_en": "Isleworks Firesand",
+        "Name_fr": "Poudre manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u706b\u85ac",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "20": {
+        "0xID": "14",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Wachstumsformel",
+        "Name_en": "Isleworks Growth Formula",
+        "Name_fr": "Formule de croissance manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30b0\u30ed\u30fc\u30b9\u30d5\u30a9\u30fc\u30df\u30e5\u30e9",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "21": {
+        "0xID": "15",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Granatrapier",
+        "Name_en": "Isleworks Garnet Rapier",
+        "Name_fr": "Rapi\u00e8re en grenat manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30ac\u30fc\u30cd\u30c3\u30c8\u30ec\u30a4\u30d4\u30a2",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "22": {
+        "0xID": "16",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Fichtenrundschild",
+        "Name_en": "Isleworks Spruce Round Shield",
+        "Name_fr": "Bouclier rond en \u00e9pic\u00e9a manufactur\u00e9",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30b9\u30d7\u30eb\u30fc\u30b9\u30b7\u30fc\u30eb\u30c9",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "23": {
+        "0xID": "17",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Haifischtran",
+        "Name_en": "Isleworks Shark Oil",
+        "Name_fr": "Huile de requin manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30b7\u30e3\u30fc\u30af\u30aa\u30a4\u30eb",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "24": {
+        "0xID": "18",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Silberkreolen",
+        "Name_en": "Isleworks Silver Ear Cuffs",
+        "Name_fr": "Bagues d'oreilles en argent manufactur\u00e9es",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30b7\u30eb\u30d0\u30fc\u30a4\u30e4\u30fc\u30ab\u30d5",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "25": {
+        "0xID": "19",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-S\u00fc\u00dftoffel",
+        "Name_en": "Isleworks Sweet Popoto",
+        "Name_fr": "Popoto doux manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30b9\u30a4\u30fc\u30c8\u30dd\u30dd\u30c8",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "26": {
+        "0xID": "1A",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Pastinaksalat",
+        "Name_en": "Isleworks Parsnip Salad",
+        "Name_fr": "Salade de panais manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30d1\u30fc\u30b9\u30cb\u30c3\u30d7\u30b5\u30e9\u30c0",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "27": {
+        "0xID": "1B",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Karamell",
+        "Name_en": "Isleworks Caramels",
+        "Name_fr": "Caramel exotique",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30ad\u30e3\u30e9\u30e1\u30eb",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "28": {
+        "0xID": "1C",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Schleife",
+        "Name_en": "Isleworks Ribbon",
+        "Name_fr": "Ruban exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30ea\u30dc\u30f3",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "29": {
+        "0xID": "1D",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Seil",
+        "Name_en": "Isleworks Rope",
+        "Name_fr": "Corde exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30ed\u30fc\u30d7",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "3": {
+        "0xID": "3",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Holzstuhl",
+        "Name_en": "Isleworks Wooden Chair",
+        "Name_fr": "Chaise en bois manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30a6\u30c3\u30c9\u30c1\u30a7\u30a2",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "30": {
+        "0xID": "1E",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Kavaliershut",
+        "Name_en": "Isleworks Cavalier's Hat",
+        "Name_fr": "Chapeau de cavalier exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30ad\u30e3\u30d0\u30ea\u30a8\u30cf\u30c3\u30c8",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "31": {
+        "0xID": "1F",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Jagdhorn",
+        "Name_en": "Isleworks Horn",
+        "Name_fr": "Cor exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30db\u30eb\u30f3",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "32": {
+        "0xID": "20",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Salzdorsch",
+        "Name_en": "Isleworks Salt Cod",
+        "Name_fr": "Morue sal\u00e9e exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30bd\u30eb\u30c8\u30b3\u30c3\u30c9",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "33": {
+        "0xID": "21",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Tintenfischtinte",
+        "Name_en": "Isleworks Squid Ink",
+        "Name_fr": "P\u00e2te d'encre exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30a4\u30f3\u30af\u30da\u30fc\u30b9\u30c8",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "34": {
+        "0xID": "22",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Maxtrank",
+        "Name_en": "Isleworks Essential Draught",
+        "Name_fr": "Breuvage \u00e9r\u00e9mitique manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u4ed9\u85ac",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "35": {
+        "0xID": "23",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Paradiesbeerenmarmelade",
+        "Name_en": "Isleberry Jam",
+        "Name_fr": "Confiture de fraises exotiques",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d9\u30ea\u30fc\u30b8\u30e3\u30e0",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "36": {
+        "0xID": "24",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Paradeiserw\u00fcrze",
+        "Name_en": "Isleworks Tomato Relish",
+        "Name_fr": "Condiment \u00e9pic\u00e9 \u00e0 la tomate exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30c8\u30de\u30c8\u30b1\u30c1\u30e3\u30c3\u30d7",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "37": {
+        "0xID": "25",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Zwiebelsuppe",
+        "Name_en": "Isleworks Onion Soup",
+        "Name_fr": "Soupe d'oignons manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30aa\u30cb\u30aa\u30f3\u30b9\u30fc\u30d7",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "38": {
+        "0xID": "26",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Fischpastete",
+        "Name_en": "Islefish Pie",
+        "Name_fr": "Tarte au poisson manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30d5\u30a3\u30c3\u30b7\u30e5\u30d1\u30a4",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "39": {
+        "0xID": "27",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-M\u00fcsli",
+        "Name_en": "Isleworks Corn Flakes",
+        "Name_fr": "C\u00e9r\u00e9ales manufactur\u00e9es",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30b3\u30fc\u30f3\u30d5\u30ec\u30fc\u30af",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "4": {
+        "0xID": "4",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Grillmuscheln",
+        "Name_en": "Isleworks Grilled Clam",
+        "Name_fr": "Coquillage grill\u00e9 manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u713c\u304d\u8c9d",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "40": {
+        "0xID": "28",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Gew\u00fcrzrettich",
+        "Name_en": "Isleworks Pickled Radish",
+        "Name_fr": "Radis marin\u00e9 manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30e9\u30c7\u30a3\u30c3\u30b7\u30e5\u30d4\u30af\u30eb\u30b9",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "41": {
+        "0xID": "29",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Eisenaxt",
+        "Name_en": "Isleworks Iron Axe",
+        "Name_fr": "Hache de fer manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30a2\u30a4\u30a2\u30f3\u30a2\u30af\u30b9",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "42": {
+        "0xID": "2A",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Quarzring",
+        "Name_en": "Isleworks Quartz Ring",
+        "Name_fr": "Anneau en quartz exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30af\u30a9\u30fc\u30c4\u30ea\u30f3\u30b0",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "43": {
+        "0xID": "2B",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Porzellanvase",
+        "Name_en": "Isleworks Porcelain Vase",
+        "Name_fr": "Vase en porcelaine manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u78c1\u5668\u58fa",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "44": {
+        "0xID": "2C",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Gem\u00fcsesaft",
+        "Name_en": "Isleworks Vegetable Juice",
+        "Name_fr": "Jus de l\u00e9gumes manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u91ce\u83dc\u30b8\u30e5\u30fc\u30b9",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "45": {
+        "0xID": "2D",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-K\u00fcrbispudding",
+        "Name_en": "Isleworks Pumpkin Pudding",
+        "Name_fr": "Flan \u00e0 la citrouille manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30d1\u30f3\u30d7\u30ad\u30f3\u30d7\u30c7\u30a3\u30f3\u30b0",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "46": {
+        "0xID": "2E",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Hirtenteppich",
+        "Name_en": "Isleworks Sheepfluff Rug",
+        "Name_fr": "Tapis moutonnant exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30b7\u30fc\u30d7\u30e9\u30b0",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "47": {
+        "0xID": "2F",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Gartensense",
+        "Name_en": "Isleworks Garden Scythe",
+        "Name_fr": "Faux de jardinage exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30ac\u30fc\u30c7\u30f3\u30b5\u30a4\u30ba",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "48": {
+        "0xID": "30",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Bett",
+        "Name_en": "Isleworks Bed",
+        "Name_fr": "Lit exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d9\u30c3\u30c9",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "49": {
+        "0xID": "31",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Schuppen-Fingerhandschuhe",
+        "Name_en": "Isleworks Scale Fingers",
+        "Name_fr": "Garde-doigts d'\u00e9cailles exotiques",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30b9\u30b1\u30a4\u30eb\u30d5\u30a3\u30f3\u30ac\u30fc",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "5": {
+        "0xID": "5",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Halskette",
+        "Name_en": "Isleworks Necklace",
+        "Name_fr": "Collier en bois manufactur\u00e9",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30a6\u30c3\u30c9\u30cd\u30c3\u30af\u30ec\u30b9",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    },
+    "50": {
+        "0xID": "32",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Hirtenstock",
+        "Name_en": "Isleworks Crook",
+        "Name_fr": "Crosse exotique",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30af\u30eb\u30fc\u30af",
+        "Name_ko": "\ubd88 \ud06c\ub9ac\uc2a4\ud0c8"
+    },
+    "51": {
+        "0xID": "33",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Korallenschwert",
+        "Name_en": "Isleworks Coral Sword",
+        "Name_fr": "\u00c9p\u00e9e de corail manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u73ca\u745a\u306e\u5263",
+        "Name_ko": ""
+    },
+    "52": {
+        "0xID": "34",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Kokosnusssaft",
+        "Name_en": "Isleworks Coconut Juice",
+        "Name_fr": "Jus de coco manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30b3\u30b3\u30ca\u30c3\u30c4\u30b8\u30e5\u30fc\u30b9",
+        "Name_ko": ""
+    },
+    "53": {
+        "0xID": "35",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Honig",
+        "Name_en": "Isleworks Honey",
+        "Name_fr": "Miel manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u8702\u871c",
+        "Name_ko": ""
+    },
+    "54": {
+        "0xID": "36",
+        "CraftingTime": "8",
+        "Name_cn": "\u706b\u4e4b\u6c34\u6676",
+        "Name_de": "Atelier-Tiefseeopal",
+        "Name_en": "Isleworks Seashine Opal",
+        "Name_fr": "Opale bleue insulaire",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d6\u30eb\u30fc\u30aa\u30d1\u30fc\u30eb",
+        "Name_ko": ""
+    },
+    "55": {
+        "0xID": "37",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Trockenblumen",
+        "Name_en": "Isleworks Dried Flowers",
+        "Name_fr": "Fleurs s\u00e9ch\u00e9es manufactur\u00e9es",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30c9\u30e9\u30a4\u30d5\u30e9\u30ef\u30fc",
+        "Name_ko": ""
+    },
+    "56": {
+        "0xID": "38",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Paprikapulver",
+        "Name_en": "Isleworks Powdered Paprika",
+        "Name_fr": "Paprika manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30d1\u30d7\u30ea\u30ab\u30d1\u30a6\u30c0\u30fc",
+        "Name_ko": ""
+    },
+    "57": {
+        "0xID": "39",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Cawl Cennin",
+        "Name_en": "Isleworks Cawl Cennin",
+        "Name_fr": "Soupe de poireaux manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30ab\u30a6\u30eb\u30b1\u30cb\u30f3",
+        "Name_ko": ""
+    },
+    "58": {
+        "0xID": "3A",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Inselbrot",
+        "Name_en": "Isleworks Isloaf",
+        "Name_fr": "Pain de F\u00e9licit\u00e9 manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u7121\u4eba\u30d1\u30f3",
+        "Name_ko": ""
+    },
+    "59": {
+        "0xID": "3B",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Toffelsalat",
+        "Name_en": "Isleworks Popoto Salad",
+        "Name_fr": "Salade de popotos manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30dd\u30dd\u30c8\u30b5\u30e9\u30c0",
+        "Name_ko": ""
+    },
+    "6": {
+        "0xID": "6",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Korallenring",
+        "Name_en": "Isleworks Coral Ring",
+        "Name_fr": "Bague en corail manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30b3\u30fc\u30e9\u30eb\u30ea\u30f3\u30b0",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "60": {
+        "0xID": "3C",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Salatso\u00dfe",
+        "Name_en": "Isleworks Dressing",
+        "Name_fr": "Vinaigrette manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30c9\u30ec\u30c3\u30b7\u30f3\u30b0",
+        "Name_ko": ""
+    },
+    "61": {
+        "0xID": "3D",
+        "CraftingTime": "6",
+        "Name_cn": "",
+        "Name_de": "Atelierherd",
+        "Name_en": "Isleworks Stove",
+        "Name_fr": "Po\u00eale manufactur\u00e9",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30b9\u30c8\u30fc\u30d6",
+        "Name_ko": ""
+    },
+    "62": {
+        "0xID": "3E",
+        "CraftingTime": "8",
+        "Name_cn": "",
+        "Name_de": "Atelierlaterne",
+        "Name_en": "Isleworks Lantern",
+        "Name_fr": "Lanterne manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30bf\u30f3",
+        "Name_ko": ""
+    },
+    "63": {
+        "0xID": "3F",
+        "CraftingTime": "4",
+        "Name_cn": "",
+        "Name_de": "Ateliernatron",
+        "Name_en": "Isleworks Natron",
+        "Name_fr": "Bicarbonate de soude manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u91cd\u66f9",
+        "Name_ko": ""
+    },
+    "64": {
+        "0xID": "40",
+        "CraftingTime": "8",
+        "Name_cn": "",
+        "Name_de": "Atelier-Bouillabaisse",
+        "Name_en": "Isleworks Bouillabaisse",
+        "Name_fr": "Bouillabaisse manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30d6\u30a4\u30e4\u30d9\u30fc\u30b9",
+        "Name_ko": ""
+    },
+    "65": {
+        "0xID": "41",
+        "CraftingTime": "6",
+        "Name_cn": "",
+        "Name_de": "Atelier-Ausstellfossil",
+        "Name_en": "Isleworks Fossil Display",
+        "Name_fr": "Cadre de fossile manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u5316\u77f3\u6a19\u672c",
+        "Name_ko": ""
+    },
+    "66": {
+        "0xID": "42",
+        "CraftingTime": "8",
+        "Name_cn": "",
+        "Name_de": "Atelierbadewanne",
+        "Name_en": "Isleworks Bathtub",
+        "Name_fr": "Baignoire manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d0\u30b9\u30bf\u30d6",
+        "Name_ko": ""
+    },
+    "67": {
+        "0xID": "43",
+        "CraftingTime": "6",
+        "Name_cn": "",
+        "Name_de": "Atelierbrille",
+        "Name_en": "Isleworks Spectacles",
+        "Name_fr": "Lunettes manufactur\u00e9es",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30b9\u30da\u30af\u30bf\u30af\u30eb\u30ba",
+        "Name_ko": ""
+    },
+    "68": {
+        "0xID": "44",
+        "CraftingTime": "8",
+        "Name_cn": "",
+        "Name_de": "Atelierisolierglas ",
+        "Name_en": "Isleworks Cooling Glass",
+        "Name_fr": "Verre isolant manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u65ad\u71b1\u30ac\u30e9\u30b9",
+        "Name_ko": ""
+    },
+    "69": {
+        "0xID": "45",
+        "CraftingTime": "4",
+        "Name_cn": "",
+        "Name_de": "Atelier-Feuerbohnentopf",
+        "Name_en": "Isleworks Runner Bean Saute",
+        "Name_fr": "Saut\u00e9 de haricots-fleurs manufactur\u00e9",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30e9\u30ca\u30fc\u30d3\u30fc\u30f3\u30ba\u30bd\u30c6\u30fc",
+        "Name_ko": ""
+    },
+    "7": {
+        "0xID": "7",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Barbuta",
+        "Name_en": "Isleworks Barbut",
+        "Name_fr": "Barbute manufactur\u00e9e",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d0\u30eb\u30d3\u30e5\u30fc\u30c8",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "70": {
+        "0xID": "46",
+        "CraftingTime": "6",
+        "Name_cn": "",
+        "Name_de": "Rote Atelier-Betesuppe",
+        "Name_en": "Isleworks Beet Soup",
+        "Name_fr": "Soupe de betterave manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30d3\u30fc\u30c4\u30b9\u30fc\u30d7",
+        "Name_ko": ""
+    },
+    "71": {
+        "0xID": "47",
+        "CraftingTime": "6",
+        "Name_cn": "",
+        "Name_de": "Atelier-Imam Bayildi",
+        "Name_en": "Isleworks Imam Bayildi",
+        "Name_fr": "Imam bayildi manufactur\u00e9",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30d1\u30c8\u30a5\u30eb\u30b8\u30e3\u30f3\u30fb\u30a4\u30de\u30e0\u30fb\u30d0\u30e6\u30eb\u30c9\u30a5",
+        "Name_ko": ""
+    },
+    "72": {
+        "0xID": "48",
+        "CraftingTime": "8",
+        "Name_cn": "",
+        "Name_de": "Eingelegte Atelier-Zucchini",
+        "Name_en": "Isleworks Pickled Zucchini",
+        "Name_fr": "Saumure de courgettes manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30ba\u30c3\u30ad\u30fc\u30cb\u30d4\u30af\u30eb\u30b9",
+        "Name_ko": ""
+    },
+    "73": {
+        "0xID": "49",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "74": {
+        "0xID": "4A",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "75": {
+        "0xID": "4B",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "76": {
+        "0xID": "4C",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "77": {
+        "0xID": "4D",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "78": {
+        "0xID": "4E",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "79": {
+        "0xID": "4F",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "8": {
+        "0xID": "8",
+        "CraftingTime": "6",
+        "Name_cn": "\u96f7\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Macuahuitl",
+        "Name_en": "Isleworks Macuahuitl",
+        "Name_fr": "Macuahuitl manufactur\u00e9",
+        "Name_ja": "\u30a2\u30a4\u30eb\u30de\u30af\u30a2\u30d5\u30c6\u30a3\u30eb",
+        "Name_ko": "\ubc88\uac1c \uc0e4\ub4dc"
+    },
+    "80": {
+        "0xID": "50",
+        "CraftingTime": "0",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "Diadochos Sword",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "9": {
+        "0xID": "9",
+        "CraftingTime": "4",
+        "Name_cn": "\u98ce\u4e4b\u788e\u6676",
+        "Name_de": "Atelier-Sauerkraut",
+        "Name_en": "Isleworks Sauerkraut",
+        "Name_fr": "Choucroute manufactur\u00e9e",
+        "Name_ja": "\u958b\u62d3\u5de5\u623f\u306e\u30b6\u30ef\u30fc\u30af\u30e9\u30a6\u30c8",
+        "Name_ko": "\ubc14\ub78c \uc0e4\ub4dc"
+    }
+}

@@ -869,6 +869,26 @@
         "Name_ja": "\u6b21\u5143",
         "Name_ko": ""
     },
+    "177": {
+        "0xID": "B1",
+        "Icon": "ui/icon/060000/060228.png",
+        "Name_cn": "",
+        "Name_de": "Pand\u00e6monium",
+        "Name_en": "Pand\u00e6monium",
+        "Name_fr": "Pand\u00e6monium",
+        "Name_ja": "\u4e07\u9b54\u6bbf",
+        "Name_ko": ""
+    },
+    "178": {
+        "0xID": "B2",
+        "Icon": "ui/icon/060000/060228.png",
+        "Name_cn": "",
+        "Name_de": "Pand\u00e6monium",
+        "Name_en": "Pand\u00e6monium",
+        "Name_fr": "Pand\u00e6monium",
+        "Name_ja": "\u4e07\u9b54\u6bbf",
+        "Name_ko": ""
+    },
     "18": {
         "0xID": "12",
         "Icon": "ui/icon/060000/060217.png",

@@ -880,5 +880,14 @@
         "col_0_fr": "Crystalline Conflict : carte",
         "col_0_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\uff1a\u30de\u30c3\u30d7",
         "col_0_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8: \uc9c0\ub3c4"
+    },
+    "98": {
+        "0xID": "62",
+        "col_0_cn": "",
+        "col_0_de": "PvP-Front: Punktzahl",
+        "col_0_en": "Frontline Score Info",
+        "col_0_fr": "Front : score",
+        "col_0_ja": "\u30d5\u30ed\u30f3\u30c8\u30e9\u30a4\u30f3\uff1a\u30b9\u30b3\u30a2\u60c5\u5831",
+        "col_0_ko": ""
     }
 }

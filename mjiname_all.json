@@ -1,0 +1,51 @@
+{
+    "0": {
+        "0xID": "0",
+        "Singular_de": "",
+        "Singular_en": "",
+        "Singular_fr": "",
+        "Singular_ja": ""
+    },
+    "1": {
+        "0xID": "1",
+        "Singular_de": "Freie Flur",
+        "Singular_en": "Meandering Meadows",
+        "Singular_fr": "Prairie verdoyante",
+        "Singular_ja": "草原"
+    },
+    "2": {
+        "0xID": "2",
+        "Singular_de": "Schnellender Strom",
+        "Singular_en": "Fatal Falls",
+        "Singular_fr": "Ruisseau cristallin",
+        "Singular_ja": "渓流"
+    },
+    "3": {
+        "0xID": "3",
+        "Singular_de": "Weiter Wald",
+        "Singular_en": "Wild Woods",
+        "Singular_fr": "Bois sauvages",
+        "Singular_ja": "森林"
+    },
+    "4": {
+        "0xID": "4",
+        "Singular_de": "Sandiger Strand",
+        "Singular_en": "Bending Beaches",
+        "Singular_fr": "Plage sablonneuse",
+        "Singular_ja": "浜辺"
+    },
+    "5": {
+        "0xID": "5",
+        "Singular_de": "Böiger Berg",
+        "Singular_en": "Mossy Mountains",
+        "Singular_fr": "Montagne moussue",
+        "Singular_ja": "山"
+    },
+    "6": {
+        "0xID": "6",
+        "Singular_de": "Heulende Höhlen",
+        "Singular_en": "Crumbling Caverns",
+        "Singular_fr": "Caverne croulante",
+        "Singular_ja": "洞窟"
+    }
+}

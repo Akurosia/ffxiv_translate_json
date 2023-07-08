@@ -48,5 +48,15 @@
         "Name_fr": "Mer du Chant des sir\u00e8nes",
         "Name_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
         "Name_ko": "\uc138\uc774\ub80c \ud574"
+    },
+    "5": {
+        "0xID": "5",
+        "Image": "ui/icon/063000/063195.png",
+        "Name_cn": "",
+        "Name_de": "Das Fliedermeer",
+        "Name_en": "The Lilac Sea",
+        "Name_fr": "Mer de lilas",
+        "Name_ja": "\u7d2b\u7901\u6d77",
+        "Name_ko": ""
     }
 }

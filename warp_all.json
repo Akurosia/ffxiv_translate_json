@@ -4018,7 +4018,7 @@
         "Name_cn": "\u95ed\u76ee\u72b6\u6001\u4e0b\u7a81\u7834\u81f3\u4e2d\u7ee7\u5730\u70b9",
         "Name_de": "Schlie\u00dfe deine Augen",
         "Name_en": "Close Your Eyes",
-        "Name_fr": "\u76ee\u3092\u9589\u3058\u3066\u4e2d\u7d99\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
+        "Name_fr": "Avancer les yeux ferm\u00e9s jusqu'\u00e0 mi-chemin",
         "Name_ja": "\u76ee\u3092\u9589\u3058\u3066\u4e2d\u7d99\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
         "Name_ko": ""
     },
@@ -4027,7 +4027,7 @@
         "Name_cn": "\u95ed\u76ee\u72b6\u6001\u4e0b\u7a81\u7834\u81f3\u7ec8\u70b9",
         "Name_de": "Schlie\u00dfe deine Augen",
         "Name_en": "Close Your Eyes",
-        "Name_fr": "\u76ee\u3092\u9589\u3058\u3066\u7d42\u7740\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
+        "Name_fr": "Avancer les yeux ferm\u00e9s jusqu'\u00e0 la ligne d'arriv\u00e9e",
         "Name_ja": "\u76ee\u3092\u9589\u3058\u3066\u7d42\u7740\u5730\u70b9\u307e\u3067\u653b\u7565\u3059\u308b",
         "Name_ko": ""
     },
@@ -4042,6 +4042,105 @@
     },
     "131521": {
         "0xID": "201C1",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131522": {
+        "0xID": "201C2",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131523": {
+        "0xID": "201C3",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131524": {
+        "0xID": "201C4",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131525": {
+        "0xID": "201C5",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131526": {
+        "0xID": "201C6",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131527": {
+        "0xID": "201C7",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131528": {
+        "0xID": "201C8",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131529": {
+        "0xID": "201C9",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131530": {
+        "0xID": "201CA",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131531": {
+        "0xID": "201CB",
+        "Name_cn": "",
+        "Name_de": "",
+        "Name_en": "",
+        "Name_fr": "",
+        "Name_ja": "",
+        "Name_ko": ""
+    },
+    "131532": {
+        "0xID": "201CC",
         "Name_cn": "",
         "Name_de": "",
         "Name_en": "",
