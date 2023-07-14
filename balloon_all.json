@@ -57664,7 +57664,7 @@
     },
     "6765": {
         "0xID": "1A6D",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6211\u628a\u6cb9\u6f06\u62ff\u8fc7\u6765\u4e86\uff01",
         "Dialogue_de": "Ich hab neue Farbe geholt!",
         "Dialogue_en": "I've got the goods.",
         "Dialogue_fr": "J'ai ramen\u00e9 plus de peinture!",
@@ -58843,7 +58843,7 @@
     },
     "6883": {
         "0xID": "1AE3",
-        "Dialogue_cn": "\u6700\u96be\u8def\u7ebf\u7684\u5165\u53e3\u5728\u8fd9\u8fb9\u554a\u2026\u2026",
+        "Dialogue_cn": "\u6700\u96be\u8def\u7ebf\u7684\u8d77\u70b9\u5728\u8fd9\u91cc\u554a\u2026\u2026",
         "Dialogue_de": "Hier wird's dann also so richtig knifflig.",
         "Dialogue_en": "So the difficult course starts from there, eh?",
         "Dialogue_fr": "Le plus dur est \u00e0 venir...",
@@ -59104,7 +59104,7 @@
     },
     "6909": {
         "0xID": "1AFD",
-        "Dialogue_cn": "\u770b\u597d\uff01\u8fd9\u5c31\u662f\u808c\u8089\u7684\u5956\u52b1\uff01",
+        "Dialogue_cn": "\u4f60\u542c\u5230\u4e86\u5417\uff1f\n\u6211\u8fd9\u8eab\u5f3a\u58ee\u808c\u8089\u8212\u5f20\u7684\u58f0\u97f3\uff01",
         "Dialogue_de": "Seht euch nur meine dicken Arme an!",
         "Dialogue_en": "Can you hear that? The sound of my muscles expanding?",
         "Dialogue_fr": "Regardez un peu ces muscles!",
@@ -59122,7 +59122,7 @@
     },
     "6910": {
         "0xID": "1AFE",
-        "Dialogue_cn": "\u4eca\u5929\u808c\u8089\u4e5f\u5f88\u5f00\u5fc3\uff01",
+        "Dialogue_cn": "\u5c3d\u60c5\u4eab\u53d7\u8fd9\u573a\u808c\u8089\u76db\u5bb4\u5427\uff01",
         "Dialogue_de": "Ich habe Muskeln an Stellen, da haben andere nicht mal Stellen.",
         "Dialogue_en": "Feast your eyes on this pure, unadulterated muscle!",
         "Dialogue_fr": "Mes muscles sont heureux aujourd'hui encore!",
@@ -59131,7 +59131,7 @@
     },
     "6911": {
         "0xID": "1AFF",
-        "Dialogue_cn": "\u6211\u611f\u89c9\u5230\u4e86\u5f88\u591a\u70bd\u70ed\u7684\u89c6\u7ebf\uff01\n\u597d\uff0c\u5c31\u6b23\u8d4f\u6b23\u8d4f\u6211\u7684\u808c\u8089\u5427\uff01",
+        "Dialogue_cn": "\u6211\u611f\u89c9\u5230\u4e86\u5f88\u591a\u70bd\u70ed\u7684\u89c6\u7ebf\uff01\n\u597d\u597d\u6b23\u8d4f\u6211\u7684\u808c\u8089\u5427\uff01",
         "Dialogue_de": "Ich sp\u00fcre die Blicke. Welch Wonne!",
         "Dialogue_en": "Why do I feel as if stalked by a slavering beast...",
         "Dialogue_fr": "Je sens un regard passionn\u00e9... Allez-y, observez mes muscles!",
@@ -59176,7 +59176,7 @@
     },
     "6916": {
         "0xID": "1B04",
-        "Dialogue_cn": "\u8ba9\u4f60\u770b\u770b\u9ed1\u6da1\u56e2\u7684\u5389\u5bb3\uff01",
+        "Dialogue_cn": "\u8ba9\u4f60\u4eec\u89c1\u8bc6\u9ed1\u6da1\u56e2\u7684\u5389\u5bb3\uff01",
         "Dialogue_de": "F\u00fcr den Mahlstrom!",
         "Dialogue_en": "I'll show everyone what the Maelstrom's made of!",
         "Dialogue_fr": "Je vais vous montrrrer ce que vaut le Maelstrom!",
@@ -59221,7 +59221,7 @@
     },
     "6920": {
         "0xID": "1B08",
-        "Dialogue_cn": "\u4e00\u8d77\u5236\u4f5c\u70b8\u5f39\u554a\uff0c\n\u4f1a\u6709\u610f\u601d\u5417\uff1f",
+        "Dialogue_cn": "\u4e0e\u4ed6\u4eba\u4e00\u8d77\u5236\u4f5c\u70b8\u5f39\u7684\n\u611f\u89c9\u5982\u4f55\u554a\uff1f",
         "Dialogue_de": "Hat es Spa\u00df gemacht, die Bomben zu bauen?",
         "Dialogue_en": "How was it cooperating with others to craft explosives?",
         "Dialogue_fr": "Alors, comment c'\u00e9tait de fabriquer des bombes avec des humains?",
@@ -59230,7 +59230,7 @@
     },
     "6921": {
         "0xID": "1B09",
-        "Dialogue_cn": "\u5475\u5475\u5475\uff0c\u771f\u662f\u96be\u5f97\u7684\u7ecf\u9a8c\uff01",
+        "Dialogue_cn": "\u563f\u563f\u563f \u771f\u662f \u6709\u610f\u601d\uff01",
         "Dialogue_de": "Einen Bombenspa\u00df! Hehehe...",
         "Dialogue_en": "Very fun\u2500good, interesting, fun!",
         "Dialogue_fr": "H\u00e9h\u00e9... C'\u00e9tait une super exp\u00e9rience, oui...",
@@ -59797,7 +59797,7 @@
     },
     "6979": {
         "0xID": "1B43",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6211\u6765\u6559\u4f60\uff01",
         "Dialogue_de": "Jetzt funktionier doch mal!",
         "Dialogue_en": "Oh, they'll want to hear this...",
         "Dialogue_fr": "Je vais devoir leur expliquer comment \u00e7a marche!",
@@ -59815,7 +59815,7 @@
     },
     "6980": {
         "0xID": "1B44",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u54fc\uff0c\u54fc\u54fc\uff01",
         "Dialogue_de": "Schuuubiduuu\uff5e",
         "Dialogue_en": "Right...there!",
         "Dialogue_fr": "Lalala...\u266a",
@@ -59824,7 +59824,7 @@
     },
     "6981": {
         "0xID": "1B45",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u4e0b\u4e00\u4e2a\u95ee\u9898\u662f\u2026\u2026",
         "Dialogue_de": "Der n\u00e4chste Leserbrief ist von...",
         "Dialogue_en": "Next: Lights in the sky above the Carrotorium...",
         "Dialogue_fr": "\u00c0 vous les studios!",
@@ -59833,7 +59833,7 @@
     },
     "6982": {
         "0xID": "1B46",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u5927\u5bb6\u90fd\u53bb\u54ea\u91cc\u4e86\uff1f",
         "Dialogue_de": "Ob er den Weg hierher findet...?",
         "Dialogue_en": "Where did the other carrot couriers go...?",
         "Dialogue_fr": "Ils m'ont pos\u00e9 un lapin ou quoi?",
@@ -60931,7 +60931,7 @@
     },
     "7091": {
         "0xID": "1BB3",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u54c7\uff01\u597d\u68d2\uff01",
         "Dialogue_de": "Wuhuuu! ",
         "Dialogue_en": "Woooooo!",
         "Dialogue_fr": "Youpi! Youpi!",
@@ -60940,7 +60940,7 @@
     },
     "7092": {
         "0xID": "1BB4",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8036\uff01",
         "Dialogue_de": "Los, Hip Hopplers!",
         "Dialogue_en": "Yea! Yea, I say!",
         "Dialogue_fr": "Ouaiiiis!",
@@ -60949,7 +60949,7 @@
     },
     "7093": {
         "0xID": "1BB5",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8fd9\u4e2a\u597d\u597d\u5403\uff01",
         "Dialogue_de": "Mmm, lecker! <m\u00fcmmel>",
         "Dialogue_en": "Mmmmmmuffin...",
         "Dialogue_fr": "Mais c'est bon, \u00e7a!",
@@ -60958,7 +60958,7 @@
     },
     "7094": {
         "0xID": "1BB6",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8fd9\u4e2a\u4e5f\u4e0d\u9519\uff01",
         "Dialogue_de": "Das kommt auf meine Traumliste...",
         "Dialogue_en": "Let's add it to my list...",
         "Dialogue_fr": "J'ajoute \u00e7a \u00e0 ma liste!",
@@ -60967,7 +60967,7 @@
     },
     "7095": {
         "0xID": "1BB7",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u597d\u70ed\u95f9\u554a\uff01",
         "Dialogue_de": "Das sieht auch lustig aus!",
         "Dialogue_en": "This looks fun!",
         "Dialogue_fr": "Quelle ambiance!",
@@ -60976,7 +60976,7 @@
     },
     "7096": {
         "0xID": "1BB8",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u770b\u8d77\u6765\u597d\u7f8e\u5473\uff01",
         "Dialogue_de": "So viel buntes Essen! ",
         "Dialogue_en": "This looks tasty!",
         "Dialogue_fr": "J'en grignoterais bien un bout...",
@@ -60985,7 +60985,7 @@
     },
     "7097": {
         "0xID": "1BB9",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u597d\u5e05\u554a\uff01",
         "Dialogue_de": "Woaaah...!",
         "Dialogue_en": "How exciting!",
         "Dialogue_fr": "C'est la classe!",
@@ -60994,7 +60994,7 @@
     },
     "7098": {
         "0xID": "1BBA",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u597d\u53ef\u7231\uff01",
         "Dialogue_de": "Oh, wie h\u00fcbsch!",
         "Dialogue_en": "How lovely!",
         "Dialogue_fr": "Trop mignon!",
@@ -61003,7 +61003,7 @@
     },
     "7099": {
         "0xID": "1BBB",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u4e1c\u897f\u90fd\u51c6\u5907\u597d\u4e86\u5427\uff1f",
         "Dialogue_de": "Haben wir alles?",
         "Dialogue_en": "Needs more carrots...",
         "Dialogue_fr": "Tout le monde est pr\u00eat?",
@@ -61030,7 +61030,7 @@
     },
     "7100": {
         "0xID": "1BBC",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u98df\u6750\u5c31\u662f\u8fd9\u4e9b\u2026\u2026\u55ef\uff01",
         "Dialogue_de": "Die reichen f\u00fcr heute.",
         "Dialogue_en": "At least we have plenty in stock!",
         "Dialogue_fr": "Et si je rajoutais... cet ingr\u00e9dient!",
@@ -61039,7 +61039,7 @@
     },
     "7101": {
         "0xID": "1BBD",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8bf6\uff0c\u600e\u4e48\u5c11\u4e86\u4e00\u5757\uff1f",
         "Dialogue_de": "Fehlt da ein St\u00fcck, oder geh\u00f6rt das so?",
         "Dialogue_en": "I could swear this was a whole cake last I checked...",
         "Dialogue_fr": "Il manque une part, non?",
@@ -61048,7 +61048,7 @@
     },
     "7102": {
         "0xID": "1BBE",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u55ef\u55ef\uff0c\u611f\u89c9\u4e0d\u9519\uff01",
         "Dialogue_de": "Mmm, wie das duftet!",
         "Dialogue_en": "Baked to perfection!",
         "Dialogue_fr": "Tout se d\u00e9roule comme pr\u00e9vu!",
@@ -61057,7 +61057,7 @@
     },
     "7103": {
         "0xID": "1BBF",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u563f\u563f\uff0c\u597d\u53ef\u7231\uff01",
         "Dialogue_de": "Die sind aber s\u00fc\u00df geworden!",
         "Dialogue_en": "How sweet!",
         "Dialogue_fr": "Le r\u00e9sultat est trop mignon!",
@@ -61066,7 +61066,7 @@
     },
     "7104": {
         "0xID": "1BC0",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u9a6c\u4e0a\u5c31\u8981\u5b8c\u6210\u4e86\uff01",
         "Dialogue_de": "Noch ein bisschen weiterbrutzeln...",
         "Dialogue_en": "Not quite golden brown yet...",
         "Dialogue_fr": "Et maintenant, la cerise sur la carotte...",
@@ -61084,7 +61084,7 @@
     },
     "7106": {
         "0xID": "1BC2",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u771f\u60f3\u5750\u4e0a\u53bb\u8bd5\u8bd5\u2026\u2026",
         "Dialogue_de": "Ich will damit fahren!",
         "Dialogue_en": "Am I allowed to play on this? Let's go with \u201cyes\u201d...",
         "Dialogue_fr": "J'aimerais bien faire un tour...",
@@ -61093,7 +61093,7 @@
     },
     "7107": {
         "0xID": "1BC3",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6709\u4eba\u80fd\u6765\u5e2e\u4e0b\u5fd9\u5417\uff1f",
         "Dialogue_de": "Hat jemand meinen Gehilfen gesehen?",
         "Dialogue_en": "Where are they?",
         "Dialogue_fr": "O\u00f9 est pass\u00e9 mon assistant?",
@@ -61102,7 +61102,7 @@
     },
     "7108": {
         "0xID": "1BC4",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u55ef\uff0c\u5e93\u5b58\u6ca1\u6709\u95ee\u9898\uff01",
         "Dialogue_de": "Gut, alles komplett!",
         "Dialogue_en": "We're fully stocked!",
         "Dialogue_fr": "On a tout ce qu'il faut ici!",
@@ -61111,7 +61111,7 @@
     },
     "7109": {
         "0xID": "1BC5",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u9535\u9535\uff01",
         "Dialogue_de": "Tadaaa!",
         "Dialogue_en": "I present...this!",
         "Dialogue_fr": "Et voil\u00e0!!",
@@ -61129,7 +61129,7 @@
     },
     "7110": {
         "0xID": "1BC6",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8fd9\u3001\u8fd9\u662f\u4ec0\u4e48\uff1f\uff01",
         "Dialogue_de": "Oh, das \u00e4h ... sieht toll aus!",
         "Dialogue_en": "It's very...this.",
         "Dialogue_fr": "C-c'est quoi ce bidule!?",
@@ -61138,7 +61138,7 @@
     },
     "7111": {
         "0xID": "1BC7",
-        "Dialogue_cn": "\u30bf\u3001\u30bf\u30de\u30b4\u304b\u3089\n\u30d8\u30d3\u304c\u98db\u3073\u51fa\u3057\u3066\u2026\uff01",
+        "Dialogue_cn": "\u86cb\u3001\u86cb\u91cc\u6709\u86c7\uff01",
         "Dialogue_de": "S-Schlange! Da ist eine Schlange zwischen den Eiern!",
         "Dialogue_en": "S-Snake! There's a snake amongst the eggs!",
         "Dialogue_fr": "U-un serpent a bondi de mon \u0153uf!",
@@ -61147,7 +61147,7 @@
     },
     "7112": {
         "0xID": "1BC8",
-        "Dialogue_cn": "\u30a2\u30eb\u30b3\u30f3\u30a8\u30c3\u30b0\u3092\n\u30b7\u30eb\u30d5\u65cf\u306b\u76d7\u307e\u308c\u308b\u306a\u3093\u3066\u2026",
+        "Dialogue_cn": "\u6211\u7684\u9884\u8a00\u86cb\u88ab\u5996\u7cbe\u65cf\u5077\u8d70\u4e86\u2026\u2026",
         "Dialogue_de": "Mein sch\u00f6nes Saliah-Ei... Eine Sylphe hat es gestohlen!",
         "Dialogue_en": "My precious Archon egg...\n\nThey just...took it...",
         "Dialogue_fr": "Oh non... Un Sylphe a vol\u00e9 mon Prrr\u0153uf...",
@@ -61156,7 +61156,7 @@
     },
     "7113": {
         "0xID": "1BC9",
-        "Dialogue_cn": "\u30b7\u30eb\u30d5\u65cf\u306e\u305b\u3044\u3067\n\u8d08\u308a\u7269\u304c\u5ddd\u306b\u843d\u3061\u3061\u3083\u3063\u305f\u2026",
+        "Dialogue_cn": "\u90fd\u602a\u90a3\u4e9b\u5996\u7cbe\u65cf\uff0c\n\u6211\u7684\u793c\u7269\u90fd\u6389\u8fdb\u6cb3\u91cc\u4e86\u2026\u2026",
         "Dialogue_de": "Mein Geschenk! Es ist ins Wasser gefallen! Diese verdammten Sylphen!",
         "Dialogue_en": "Agh, my gift! Sunk to the bottom...\n\nThose blasted sylphs!",
         "Dialogue_fr": "Le Pr\u0153uf que je comptais offrir est tomb\u00e9 dans la rivi\u00e8re \u00e0 cause des Sylphes...",
@@ -61165,7 +61165,7 @@
     },
     "7114": {
         "0xID": "1BCA",
-        "Dialogue_cn": "\u30b7\u30eb\u30d5\u65cf\u3081\n\u3044\u305f\u305a\u3089\u3067\u8170\u304c\u629c\u3051\u305f\u305e\u2026",
+        "Dialogue_cn": "\u5feb\u3001\u5feb\u4f4f\u624b\uff0c\u522b\u518d\u6076\u4f5c\u5267\u4e86\uff01",
         "Dialogue_de": "Diese Streiche m\u00fcssen endlich ein Ende nehmen...",
         "Dialogue_en": "N-No more pranks... Cease this madness, I beg of you...",
         "Dialogue_fr": "Les farces des Sylphes m'ont donn\u00e9 une de ces frousses!",
@@ -61210,7 +61210,7 @@
     },
     "7119": {
         "0xID": "1BCF",
-        "Dialogue_cn": "\u75b2\u308c\u305f\u308f\n\u51b7\u305f\u3044\u98f2\u307f\u7269\u3092\u3082\u3089\u3048\u308b\uff1f",
+        "Dialogue_cn": "\u6709\u70b9\u7d2f\u4e86\uff0c\u6709\u6ca1\u6709\u51b7\u996e\u53ef\u4ee5\u559d\u554a\uff1f",
         "Dialogue_de": "Puh, ich kann nicht mehr. Kann ich was Kaltes zu trinken haben?",
         "Dialogue_en": "Gods, I'm exhausted. What's a woman have to do to get a bloody drink?",
         "Dialogue_fr": "Je me sens un peu patraque. Auriez-vous des rafraichissements \u00e0 me proposer?",
@@ -61228,7 +61228,7 @@
     },
     "7120": {
         "0xID": "1BD0",
-        "Dialogue_cn": "\u3053\u308c\u306f\u30ed\u30a6\u30a7\u30ca\u69d8\n\u3088\u3046\u3053\u305d\u3044\u3089\u3063\u3057\u3083\u3044\u307e\u3057\u305f",
+        "Dialogue_cn": "\u8fd9\u4e0d\u662f\u7f57\u8587\u5a1c\u5c0f\u59d0\u5417\uff0c\u6b22\u8fce\u5149\u4e34\uff01",
         "Dialogue_de": "Ah, werte Frau Rowena! Ich freue mich, Euch hier begr\u00fc\u00dfen zu d\u00fcrfen.",
         "Dialogue_en": "Ah, Madam Rowena. A pleasure, as always.",
         "Dialogue_fr": "Madame Rowena, c'est un honneur de vous recevoir parmi nous.",
@@ -61237,7 +61237,7 @@
     },
     "7121": {
         "0xID": "1BD1",
-        "Dialogue_cn": "\u30ab\u30ef\u30a4\u30b3\u3061\u3083\u3093\n\u30ef\u30b7\u3068\u904a\u3093\u3067\u304f\u308c\u3093\u304b\u306e\u3046\uff1f",
+        "Dialogue_cn": "\u5c0f\u53ef\u7231\uff0c\u966a\u6211\u73a9\u4e00\u4f1a\u5427\uff1f",
         "Dialogue_de": "Hallo, meine S\u00fc\u00dfe! Willst du mich nicht ein bisschen rumf\u00fchren?",
         "Dialogue_en": "Why, hello there. Won't you show me around your fine...establishment?",
         "Dialogue_fr": "Quelle beaut\u00e9! Vous marinez chez vos harengs?",
@@ -61246,7 +61246,7 @@
     },
     "7122": {
         "0xID": "1BD2",
-        "Dialogue_cn": "\u3042\u3089\u3001\u3042\u306e\u65b9\u2026\n\u306a\u304b\u306a\u304b\u306e\u7b4b\u8089\u3067\u3059\u308f\u3041\u2026",
+        "Dialogue_cn": "\u54ce\u5440\uff0c\u90a3\u4e2a\u4eba\u7684\u808c\u8089\u771f\u662f\u4e0d\u9519\u2026\u2026",
         "Dialogue_de": "Oh wow... So viele Muskeln...",
         "Dialogue_en": "Those muscles... They're like tree trunks...",
         "Dialogue_fr": "C-cet homme l\u00e0-bas est dr\u00f4lement musculeux...",
@@ -61255,7 +61255,7 @@
     },
     "7123": {
         "0xID": "1BD3",
-        "Dialogue_cn": "\u30d5\u30fc\u30c3\u3001\u30d5\u30fc\u30c3\u2026\n\u540c\u5fd7\u306e\u304a\u819d\u5143\u306b\u6765\u305f\u305e\u2026",
+        "Dialogue_cn": "\u547c\u2026\u2026\u6765\u540c\u5fd7\u7684\u5730\u76d8\u8f6c\u8f6c\u2026\u2026",
         "Dialogue_de": "Oooh! Endlich, ein Gleichgesinnter...",
         "Dialogue_en": "What have we here? A craftsman after my own heart...",
         "Dialogue_fr": "Huh huh, voil\u00e0 une personnalit\u00e9 qui partage mon amour du gluant...",
@@ -61264,7 +61264,7 @@
     },
     "7124": {
         "0xID": "1BD4",
-        "Dialogue_cn": "\u6728\u6750\u672c\u6765\u306e\u59ff\u3092\u6d3b\u304b\u3057\u3064\u3064\n\u5149\u6e90\u3092\u5f69\u308b\u610f\u5320\u306b\u843d\u3068\u3057\u8fbc\u3080\u2026",
+        "Dialogue_cn": "\u5229\u7528\u6728\u6750\u539f\u672c\u7684\u6837\u5b50\u6765\u88c5\u9970\u5149\u6e90\uff0c\n\u4f7f\u5176\u66f4\u52a0\u51fa\u5f69\u2026\u2026",
         "Dialogue_de": "Hmm, sie nutzen das Holz in seiner Ursprungsform zusammen mit den Lichtern, um diese Farbmuster zu erzeugen... ",
         "Dialogue_en": "Fascinating... A complex interplay between light and the wood's natural form. ",
         "Dialogue_fr": "Int\u00e9ressant comme la lumi\u00e8re sublime les mat\u00e9riaux naturels...",
@@ -61273,7 +61273,7 @@
     },
     "7125": {
         "0xID": "1BD5",
-        "Dialogue_cn": "\u30e2\u30b0\u305f\u3061\u3092\n\u30ad\u30e3\u30c3\u30c1\u3059\u308b\u30af\u30dd\uff01\uff1f",
+        "Dialogue_cn": "\u8981\u6293\u83ab\u53e4\u5e93\u5575\uff1f\uff01",
         "Dialogue_de": "D-Da sind nicht wirklich Mogrys eingesperrt, oder, kupo!?",
         "Dialogue_en": "Can you catch us, kupo?",
         "Dialogue_fr": "Un Mog en guise de grappin!? Mais c'est de la barbarie, kupo!",
@@ -61282,7 +61282,7 @@
     },
     "7126": {
         "0xID": "1BD6",
-        "Dialogue_cn": "\u9152\u3067\u3082\u98f2\u307e\u306a\u304d\u3083\n\u3084\u3063\u3066\u3089\u30f3\u306d\u3048\u305c\u2026",
+        "Dialogue_cn": "\u6ca1\u9152\u559d\u53ef\u4e0d\u884c\uff01",
         "Dialogue_de": "Ein Gl\u00fcck kann man hier trinken, sonst w\u00fcrd' ich's nicht aushalten!",
         "Dialogue_en": "So long as there's drink, I can manage...",
         "Dialogue_fr": "Faut que j'picole un coup, sinon \u00e7a va pas le faire...",
@@ -61291,7 +61291,7 @@
     },
     "7127": {
         "0xID": "1BD7",
-        "Dialogue_cn": "\u4e00\u652b\u5343\u91d1\n\u3053\u308c\u3082\u307e\u305f\u30e9\u30d6\uff06\u30c9\u30ea\u30fc\u30e0\u2026",
+        "Dialogue_cn": "\u4e00\u591c\u66b4\u5bcc\u4e5f\u662f\u4e00\u79cd\n\u7231\u4e0e\u68a6\u5e7b\u7684\u8bdd\u9898\u5462\u2026\u2026",
         "Dialogue_de": "Auf einen Schlag reich! Ein Gedanke voller Liebe und Tr\u00e4ume! Genau, was ich suche!",
         "Dialogue_en": "One moment poor as a pauper, the next rich as a king! Ah, what a magical place!",
         "Dialogue_fr": "Ah, la fortune... Qui n'en a jamais r\u00eav\u00e9?",
@@ -61300,7 +61300,7 @@
     },
     "7128": {
         "0xID": "1BD8",
-        "Dialogue_cn": "\u666f\u54c1\u306e\u30ea\u30b9\u30c8\u3092\u8f09\u305b\u305f\u3089\n\u8aad\u8005\u306e\u8208\u5473\u3092\u5f15\u3051\u308b\u304b\u306a\u2026",
+        "Dialogue_cn": "\u628a\u5956\u54c1\u540d\u5355\u520a\u767b\u51fa\u6765\uff0c\n\u80fd\u4e0d\u80fd\u5f15\u8d77\u8bfb\u8005\u7684\u5174\u8da3\u5462\u2026\u2026",
         "Dialogue_de": "Ich frag mich, ob es Leser anziehen w\u00fcrde, eine Liste der Preise in den Artikel zu packen...",
         "Dialogue_en": "My readers would be very interested to know what items are on offer.",
         "Dialogue_fr": "Peut-\u00eatre que la liste des lots en jeu int\u00e9resserait nos lecteurs...?",
@@ -61309,7 +61309,7 @@
     },
     "7129": {
         "0xID": "1BD9",
-        "Dialogue_cn": "\u304a\u6bcd\u3055\u3093\u306b\u4f1a\u3048\u3066\n\u3088\u304b\u3063\u305f\u306a\uff01",
+        "Dialogue_cn": "\u80fd\u89c1\u5230\u6bcd\u4eb2\u771f\u662f\u592a\u597d\u4e86\uff01",
         "Dialogue_de": "Ein Gl\u00fcck haben wir deine Mama gefunden, hm?",
         "Dialogue_en": "It's a good thing we found your mother, isn't it?",
         "Dialogue_fr": "Ta maman est l\u00e0, regarrrde!",
@@ -61327,7 +61327,7 @@
     },
     "7130": {
         "0xID": "1BDA",
-        "Dialogue_cn": "\u304a\u306b\u3044\u3061\u3083\u3093\n\u3042\u308a\u304c\u3068\u3046\uff01\uff01",
+        "Dialogue_cn": "\u8c22\u8c22\u4f60\uff0c\u5927\u54e5\u54e5\uff01",
         "Dialogue_de": "Vielen Dank, Herr Nhagi!",
         "Dialogue_en": "Thank you, mister! Thank you!",
         "Dialogue_fr": "Merci Monsieur, vous \u00eates un saint!",
@@ -61336,7 +61336,7 @@
     },
     "7131": {
         "0xID": "1BDB",
-        "Dialogue_cn": "\u3053\u3061\u3089\u306e\u65b9\u304c\u635c\u7d22\u3092\n\u624b\u4f1d\u3063\u3066\u304f\u3060\u3055\u3063\u305f\u306e\u3067\u3059",
+        "Dialogue_cn": "\u8fd9\u8fb9\u8fd9\u4f4d\u597d\u5fc3\u4eba\u5e2e\u5fd9\u641c\u7d22\u4e86\u4e00\u4e0b\u3002",
         "Dialogue_de": "Dieser junge Herr hat uns bei der Suche geholfen.",
         "Dialogue_en": "This young lad was a great help in the search.",
         "Dialogue_fr": "Cette personne nous a aid\u00e9s \u00e0 retrouver votre enfant.",
@@ -61570,7 +61570,7 @@
     },
     "7155": {
         "0xID": "1BF3",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u597d\u597d\u5403\uff01",
         "Dialogue_de": "Mehr davon!",
         "Dialogue_en": "Yum yum!",
         "Dialogue_fr": "D\u00e9licieux!",
@@ -61957,7 +61957,7 @@
     },
     "7194": {
         "0xID": "1C1A",
-        "Dialogue_cn": "\u30a2\u30eb\u30b3\u30f3\u30a8\u30c3\u30b0\u306e\u914d\u5e03\u306b\n\u5354\u529b\u3057\u307e\u3057\u3087\u3046\uff01",
+        "Dialogue_cn": "\u8bf7\u6765\u5e2e\u5fd9\u5206\u53d1\u9884\u8a00\u86cb\u5427\uff01",
         "Dialogue_de": "Los, helfen wir ihnen beim Verteilen der Saliah-Eier!",
         "Dialogue_en": "What if we volunteer to distribute eggs?",
         "Dialogue_fr": "Aidons-les \u00e0 distribuer les Pr\u0153ufs!",
@@ -61966,7 +61966,7 @@
     },
     "7195": {
         "0xID": "1C1B",
-        "Dialogue_cn": "\u30bf\u30de\u30b4\u3092\u30c8\u30f3\u30d9\u30ea\u67c4\u306b\n\u5857\u3063\u3066\u307f\u3088\u3046\u304b\u306a\uff1f",
+        "Dialogue_cn": "\u8981\u4e0d\u8981\u6d82\u4e00\u4e2a\n\u51ac\u8d1d\u5229\u56fe\u6848\u7684\u5f69\u86cb\u5462\uff1f",
         "Dialogue_de": "Wie w\u00e4re es, wenn wir die Eier mit Tomberry-Motiven verzieren w\u00fcrden?",
         "Dialogue_en": "Time to transform these eggs into adorable tonberries!",
         "Dialogue_fr": "Et si on d\u00e9corrrait les Pr\u0153ufs avec des motifs de tomberrys?",
@@ -61975,7 +61975,7 @@
     },
     "7196": {
         "0xID": "1C1C",
-        "Dialogue_cn": "\u3044\u3044\u306d\n\u50d5\u3082\u3084\u3063\u3066\u307f\u3088\u3046",
+        "Dialogue_cn": "\u771f\u4e0d\u9519\uff01\u6211\u4e5f\u8981\u8bd5\u8bd5\uff01",
         "Dialogue_de": "Die Idee gef\u00e4llt mir! Ich will es auch mal versuchen.",
         "Dialogue_en": "Does that make them...toneggies?",
         "Dialogue_fr": "Bonne id\u00e9e! Je vais essayer aussi.",
@@ -61984,7 +61984,7 @@
     },
     "7197": {
         "0xID": "1C1D",
-        "Dialogue_cn": "\u5b9f\u884c\u59d4\u54e1\u3092\n\u624b\u4f1d\u3044\u305f\u3044\u306a\u2026",
+        "Dialogue_cn": "\u60f3\u53bb\u7ed9\u6267\u884c\u59d4\u5458\u5e2e\u5fd9\u2026\u2026",
         "Dialogue_de": "Ich w\u00fcrde mich gerne n\u00fctzlich machen...",
         "Dialogue_en": "I do wish we could help somehow...",
         "Dialogue_fr": "J'aimerais pr\u00eater main-forte aux organisateurs...",
@@ -61993,7 +61993,7 @@
     },
     "7198": {
         "0xID": "1C1E",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6709\u6ca1\u6709\u4ec0\u4e48\u60f3\u505a\u7684\u4e8b\u5440\uff1f",
         "Dialogue_de": "Wollen wir irgendwo mitmachen?",
         "Dialogue_en": "Well, what do you like to do?",
         "Dialogue_fr": "Qu'est-ce que tu voudrais faire?",
@@ -62002,7 +62002,7 @@
     },
     "7199": {
         "0xID": "1C1F",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u60f3\u505a\u7684\u4e8b\u2026\u2026\uff1f",
         "Dialogue_de": "M-Mitmachen? Bist du sicher?",
         "Dialogue_en": "I haven't the foggiest.",
         "Dialogue_fr": "Je peux d\u00e9cider par moi-m\u00eame?",
@@ -62029,7 +62029,7 @@
     },
     "7200": {
         "0xID": "1C20",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u60f3\u4e0d\u60f3\u8bd5\u8bd5\u5236\u4f5c\u673a\u5668\u5440\uff1f",
         "Dialogue_de": "Ich w\u00fcrde so gerne etwas bauen...",
         "Dialogue_en": "Why not try inventing a machine?",
         "Dialogue_fr": "Tu veux pas essayer de construire une machine?",
@@ -62038,7 +62038,7 @@
     },
     "7201": {
         "0xID": "1C21",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u55ef\u2026\u2026\u6211\u770b\u770b\u2026\u2026",
         "Dialogue_de": "Wollen wir es mal versuchen?",
         "Dialogue_en": "W-With wrenches!? Oooh...",
         "Dialogue_fr": "Hm... Pourquoi pas...",
@@ -62047,7 +62047,7 @@
     },
     "7202": {
         "0xID": "1C22",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u5bf9\u7f8e\u98df\u611f\u5174\u8da3\u5417\uff1f",
         "Dialogue_de": "Da bekommt man selbst Lust zu kochen, oder?",
         "Dialogue_en": "Are you interested in cooking?",
         "Dialogue_fr": "La cuisine, \u00e7a t'int\u00e9resse?",
@@ -62056,7 +62056,7 @@
     },
     "7203": {
         "0xID": "1C23",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u867d\u7136\u6211\u5f88\u559c\u6b22\u54c1\u5c1d\u7f8e\u98df\uff0c\n\u4f46\u4eb2\u624b\u505a\u5c31\u2026\u2026",
         "Dialogue_de": "Hmm, ich futtere ja lieber...",
         "Dialogue_en": "I do like to eat...",
         "Dialogue_fr": "Hmm... Je sais pas, mais j'aime bien manger en tout cas!",
@@ -62065,7 +62065,7 @@
     },
     "7204": {
         "0xID": "1C24",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6211\u4eec\u6765\u4e00\u8d77\u753b\u753b\u600e\u4e48\u6837\uff1f",
         "Dialogue_de": "Malen wir zusammen ein Bild?",
         "Dialogue_en": "How about painting?",
         "Dialogue_fr": "Viens peindre avec nous!",
@@ -62074,7 +62074,7 @@
     },
     "7205": {
         "0xID": "1C25",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6211\u4e0d\u4f1a\u753b\u753b\u2026\u2026",
         "Dialogue_de": "Ich kann aber nicht malen...",
         "Dialogue_en": "I don't have the talent. Or coordination...",
         "Dialogue_fr": "Hmm... Je sais pas... Je suis pas tr\u00e8s dou\u00e9...",
@@ -62083,7 +62083,7 @@
     },
     "7206": {
         "0xID": "1C26",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6709\u5174\u8da3\u6765\u5e2e\u5fd9\u5e7f\u64ad\u4e00\u4e0b\u5417\uff1f",
         "Dialogue_de": "Komm, denken wir uns ein neues Thema aus!",
         "Dialogue_en": "Would you like to be on the radio?",
         "Dialogue_fr": "Tu as un physique de radio! Tu veux essayer?",
@@ -62092,7 +62092,7 @@
     },
     "7207": {
         "0xID": "1C27",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u542c\u3001\u542c\u4e0a\u53bb\u5012\u662f\u633a\u6709\u8da3\u7684\u2026\u2026",
         "Dialogue_de": "Au ja!",
         "Dialogue_en": "Would I!?",
         "Dialogue_fr": "Oh oui! \u00c7a a l'air bigrement amusant!",
@@ -62101,7 +62101,7 @@
     },
     "7208": {
         "0xID": "1C28",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u600e\u4e48\u6837\uff1f\u627e\u5230\u68a6\u60f3\u4e86\u5417\uff1f",
         "Dialogue_de": "Hast du schon deinen Traum gefunden?",
         "Dialogue_en": "Did you find a dream?",
         "Dialogue_fr": "Et toi, c'est quoi ton r\u00eave!?",
@@ -62110,7 +62110,7 @@
     },
     "7209": {
         "0xID": "1C29",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u80fd\u505a\u7684\u4e8b\u60c5\u592a\u591a\uff0c\n\u53cd\u800c\u72b9\u8c6b\u4e86\u8d77\u6765\u2026\u2026",
         "Dialogue_de": "Ich wei\u00df nicht. Die Auswahl ist riesig...",
         "Dialogue_en": "I found too many. Now I'm confused...",
         "Dialogue_fr": "Il y a tant de stations \u00e0 essayer!!",
@@ -62128,7 +62128,7 @@
     },
     "7210": {
         "0xID": "1C2A",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8fd9\u8eab\u5236\u670d\u771f\u4e0d\u9519\uff01",
         "Dialogue_de": "Wo hast du die tolle Uniform her?",
         "Dialogue_en": "What a nice uniform you have!",
         "Dialogue_fr": "Moi aussi je veux un maillot jaune... Comment tu l'as eu?",
@@ -62137,7 +62137,7 @@
     },
     "7211": {
         "0xID": "1C2B",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u68a6\u60f3\u554a\u2026\u2026",
         "Dialogue_de": "Einen Traum...? Hmm...",
         "Dialogue_en": "Dreaming...",
         "Dialogue_fr": "Mon r\u00eave...",
@@ -62146,7 +62146,7 @@
     },
     "7212": {
         "0xID": "1C2C",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u90a3\u6211\u7684\u68a6\u60f3\n\u5c31\u662f\u7a7f\u8fd9\u8eab\u5236\u670d\uff01",
         "Dialogue_de": "Mein Traum ist es, diese Uniform zu haben!",
         "Dialogue_en": "My dream is to wear one of those uniforms!",
         "Dialogue_fr": "C'est d'avoir un uniforme comme le v\u00f4tre!",
@@ -62155,7 +62155,7 @@
     },
     "7213": {
         "0xID": "1C2D",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6211\u8981\u5403\u5230\u6491\uff01",
         "Dialogue_de": "Mein Traum ist, zu futtern, bis ich umfalle!",
         "Dialogue_en": "My dream is to have lunch at the cooking station!",
         "Dialogue_fr": "C'est de ne jamais m'arr\u00eater de manger!",
@@ -62164,7 +62164,7 @@
     },
     "7214": {
         "0xID": "1C2E",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6211\u60f3\u4e00\u76f4\u73a9\u4e0b\u53bb\uff01",
         "Dialogue_de": "Mein Traum ist es, jeden Tag Spa\u00df zu haben!",
         "Dialogue_en": "My dream is to have a dream!",
         "Dialogue_fr": "C'est de m'amuser comme un petit fou!",
@@ -62173,7 +62173,7 @@
     },
     "7215": {
         "0xID": "1C2F",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8fd9\u6837\u554a\u2026\u2026",
         "Dialogue_de": "Waaas? Na gut... ",
         "Dialogue_en": "Aw...",
         "Dialogue_fr": "Ah bon...?",
@@ -62182,7 +62182,7 @@
     },
     "7216": {
         "0xID": "1C30",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u5514\uff0c\u90a3\u6211\u518d\u60f3\u60f3\u2026\u2026",
         "Dialogue_de": "Ich komm wieder, wenn mir etwas eingefallen ist!",
         "Dialogue_en": "I'll be back\u2500with a proper dream!",
         "Dialogue_fr": "Je vais r\u00e9fl\u00e9chir encore un peu \u00e0 quel r\u00eave r\u00e9aliser!",
@@ -62191,7 +62191,7 @@
     },
     "7217": {
         "0xID": "1C31",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u5feb\u70b9\u53d1\u6398\u81ea\u5df1\u7684\u68a6\u60f3\uff0c\n\u6210\u4e3a\u8fd9\u91cc\u7684\u4e00\u5458\u5427\uff01",
         "Dialogue_de": "Die bekommt man, wenn man einen Traum gefunden hat!",
         "Dialogue_en": "I'm one of the Dreaming Ways now!",
         "Dialogue_fr": "J'ai d\u00e9couvert mon r\u00eave et j'ai rejoint les Ateliers Dreaming!",
@@ -62200,7 +62200,7 @@
     },
     "7218": {
         "0xID": "1C32",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u55ef\u2026\u2026\n\u611f\u89c9\u8fd9\u4e2a\u4e0d\u80fd\u7b97\u68a6\u60f3\u2026\u2026",
         "Dialogue_de": "Ich glaube, das reicht nicht ganz...",
         "Dialogue_en": "...I'm not certain that counts.",
         "Dialogue_fr": "Hmm... \u00c7a suffira pas...",
@@ -62209,7 +62209,7 @@
     },
     "7219": {
         "0xID": "1C33",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u5440\u543c\uff01",
         "Dialogue_de": "Huhu!",
         "Dialogue_en": "Hail, my best Way!",
         "Dialogue_fr": "Bonjour!",
@@ -62470,7 +62470,7 @@
     },
     "7245": {
         "0xID": "1C4D",
-        "Dialogue_cn": "\u307e\u3042\u3001\u304a\u5ba2\u69d8\u3063\u305f\u3089\n\u304a\u4e0a\u624b\u3067\u3059\u3053\u3068",
+        "Dialogue_cn": "\u54ce\u5440\uff0c\u5ba2\u4eba\u60a8\u771f\u662f\u5389\u5bb3\u3002",
         "Dialogue_de": "Fantastisch! Ihr seid ein Naturtalent!",
         "Dialogue_en": "My, my, you're quite good at this!",
         "Dialogue_fr": "Vous me flattez, mon bon monsieur!",
@@ -62479,7 +62479,7 @@
     },
     "7246": {
         "0xID": "1C4E",
-        "Dialogue_cn": "\u3042\u306e\u30cc\u30eb\u30cc\u30eb\u306e\u79d8\u5bc6\n\u304d\u3063\u3068\u3053\u3053\u306b\u3042\u308b\u306f\u305a\u2026\uff01",
+        "Dialogue_cn": "\u90a3\u4e2a\u6ed1\u6e9c\u6e9c\u7684\u79d8\u8bc0\u4e00\u5b9a\u5728\u8fd9\u91cc\uff01",
         "Dialogue_de": "Das Geheimnis dieses Glibbers... Die Antworten sind hier, ich sp\u00fcre es!",
         "Dialogue_en": "I shall uncover this slippery secret!",
         "Dialogue_fr": "Je percerai le secret de sa viscosit\u00e9!",
@@ -62488,7 +62488,7 @@
     },
     "7247": {
         "0xID": "1C4F",
-        "Dialogue_cn": "\u3053\u306e\u7a7a\u9593\u3092\u4f5c\u3063\u305f\u65b9\u306f\n\u304b\u306a\u308a\u306e\u6280\u8853\u8005\u3067\u3059\u306d\u2026",
+        "Dialogue_cn": "\u5236\u9020\u8fd9\u4e2a\u7a7a\u95f4\u7684\u4eba\n\u7684\u6280\u672f\u771f\u662f\u9ad8\u8d85\u2026\u2026",
         "Dialogue_de": "Wer diese Hallen entworfen hat, ist wahrlich ein Meister seiner Kunst...",
         "Dialogue_en": "The architect of this space is truly a master of his craft...",
         "Dialogue_fr": "La personne qui a con\u00e7u ce square ne manque pas d'ing\u00e9niosit\u00e9.",
@@ -62497,7 +62497,7 @@
     },
     "7248": {
         "0xID": "1C50",
-        "Dialogue_cn": "\u306a\u3093\u3066\u304a\u305d\u308d\u3057\u3044\u3053\u3068\u3092\n\u8003\u3048\u308b\u30af\u30dd\u2026",
+        "Dialogue_cn": "\u5728\u60f3\u4ec0\u4e48\n\u53ef\u6015\u7684\u4e8b\u5462\u5e93\u5575\u2026\u2026\uff1f",
         "Dialogue_de": "Die denken sich wirklich schreckliche Dinge aus hier, kupo...!",
         "Dialogue_en": "What frightful mind thought these up, kupo?",
         "Dialogue_fr": "Les humains ont des id\u00e9es effrayantes, kupo...",
@@ -62506,7 +62506,7 @@
     },
     "7249": {
         "0xID": "1C51",
-        "Dialogue_cn": "\u305d\u3046\u3058\u3083\u306a\u3044\u3068\n\u601d\u3046\u30af\u30dd\u2026",
+        "Dialogue_cn": "\u83ab\u53e4\u89c9\u5f97\u4e0d\u662f\u90a3\u6837\u5e93\u5575\u2026\u2026",
         "Dialogue_de": "Ich glaube nicht, dass die echt sind, kupo...",
         "Dialogue_en": "It's not that bad, kupo.",
         "Dialogue_fr": "Je crois que vous avez mal compris, kupo...",
@@ -62524,7 +62524,7 @@
     },
     "7250": {
         "0xID": "1C52",
-        "Dialogue_cn": "\u3042\u3042\u3001\u672c\u5f53\u306b\n\u306a\u3093\u3066\u304a\u793c\u3092\u8a00\u3048\u3070\u3044\u3044\u304b\u2026\uff01",
+        "Dialogue_cn": "\u8c22\u8c22\uff0c\u771f\u662f\u611f\u6fc0\u4e0d\u5c3d\uff01",
         "Dialogue_de": "Oh, ich wei\u00df gar nicht, wie ich Euch danken kann...!",
         "Dialogue_en": "Oh, how can I possibly thank you!",
         "Dialogue_fr": "J-je ne sais pas comment vous remercier!",
@@ -62533,7 +62533,7 @@
     },
     "7251": {
         "0xID": "1C53",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u6211\u662f\u4ec0\u4e48\u65f6\u5019\u6765\u5230\u8fd9\u91cc\u7684\u2026\u2026\uff1f",
         "Dialogue_de": "Was sie hier wohl vorhaben...?",
         "Dialogue_en": "Whoa! This isn't a closet at all!",
         "Dialogue_fr": "Oh! Depuis quand un tel endroit existe?",
@@ -62542,7 +62542,7 @@
     },
     "7252": {
         "0xID": "1C54",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8fd9\u3001\u8fd9\u4e2a\u97f3\u4e50\u662f\u600e\u4e48\u56de\u4e8b\uff1f\uff01",
         "Dialogue_de": "Ich muss wissen, wie dieses Lied hei\u00dft!",
         "Dialogue_en": "I know this song!",
         "Dialogue_fr": "C'est quoi le titre de la chanson!?",
@@ -62551,7 +62551,7 @@
     },
     "7253": {
         "0xID": "1C55",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u8c22\u8c22\uff01",
         "Dialogue_de": "Dankesch\u00f6n!",
         "Dialogue_en": "White and blue! You're a miracle worker!",
         "Dialogue_fr": "Merci!!",
@@ -62560,7 +62560,7 @@
     },
     "7254": {
         "0xID": "1C56",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u63a5\u4e0b\u6765\u662f\u4ec0\u4e48\u6545\u4e8b\u5462\uff1f",
         "Dialogue_de": "Worum es in der Sendung heute wohl geht?",
         "Dialogue_en": "Maybe they'll read mine next!",
         "Dialogue_fr": "Je me demande de quoi ils vont parler maintenant!",
@@ -62569,7 +62569,7 @@
     },
     "7255": {
         "0xID": "1C57",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u600e\u4e48\u8fd8\u6ca1\u5230\u554a\u2026\u2026\uff1f",
         "Dialogue_de": "Hundert M\u00f6hren, dass der sich verlaufen hat...",
         "Dialogue_en": "My arms are getting tired...",
         "Dialogue_fr": "Mais qu'est-ce qu'il fait...?",
@@ -62578,7 +62578,7 @@
     },
     "7256": {
         "0xID": "1C58",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u4e45\u7b49\u4e86\uff01",
         "Dialogue_de": "Huhuuu! Da bin ich!",
         "Dialogue_en": "Ready to go?",
         "Dialogue_fr": "D\u00e9sol\u00e9 pour le retard!",
@@ -62587,7 +62587,7 @@
     },
     "7257": {
         "0xID": "1C59",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u600e\u4e48\u6765\u5f97\u8fd9\u4e48\u6162\uff01",
         "Dialogue_de": "Potzr\u00fcbe, wo hast du gesteckt?!",
         "Dialogue_en": "What took you so long?",
         "Dialogue_fr": "J'allais prendre racine comme cette carotte!",
@@ -62596,7 +62596,7 @@
     },
     "7258": {
         "0xID": "1C5A",
-        "Dialogue_cn": "",
+        "Dialogue_cn": "\u62b1\u6b49\u62b1\u6b49\uff01\n\u6211\u4eec\u8d70\u5427\uff01",
         "Dialogue_de": "Tut mir leid, bin eingenickt...",
         "Dialogue_en": "I tripped! Tail over teakettle, straight into a creation station...",
         "Dialogue_fr": "Pardon, pardon! Bon, on y va?",

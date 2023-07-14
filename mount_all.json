@@ -2072,7 +2072,7 @@
     "285": {
         "0xID": "11D",
         "Icon": "ui/icon/004000/004245.png",
-        "Singular_cn": "",
+        "Singular_cn": "\u6708\u9762\u8dc3\u52a8\u673a",
         "Singular_de": "Mondhopper",
         "Singular_en": "moon-hopper",
         "Singular_fr": "bondisseur lunaire",
@@ -2152,7 +2152,7 @@
     "292": {
         "0xID": "124",
         "Icon": "ui/icon/004000/004232.png",
-        "Singular_cn": "",
+        "Singular_cn": "\u6b63\u7edf\u88c2\u94b3\u87f9",
         "Singular_de": "Orthos-Kraklaw",
         "Singular_en": "Orthos craklaw",
         "Singular_fr": "craqulov Orthos",
@@ -2332,7 +2332,7 @@
     "308": {
         "0xID": "134",
         "Icon": "ui/icon/004000/004246.png",
-        "Singular_cn": "",
+        "Singular_cn": "\u6c38\u6052",
         "Singular_de": "Aeturna",
         "Singular_en": "aeturna",
         "Singular_fr": "Aeturna",

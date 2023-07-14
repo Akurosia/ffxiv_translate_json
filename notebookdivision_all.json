@@ -514,7 +514,7 @@
     },
     "1054": {
         "0xID": "41E",
-        "Name_cn": "",
+        "Name_cn": "\u5154\u5154\u65cf",
         "Name_de": "Auftr\u00e4ge der Loporrit",
         "Name_en": "Loporrit Quests",
         "Name_fr": "Qu\u00eates loporrites",
@@ -523,7 +523,7 @@
     },
     "1055": {
         "0xID": "41F",
-        "Name_cn": "",
+        "Name_cn": "\u83ab\u96ef\u5353\u8d8a\u5de5\u5177",
         "Name_de": "Mowen-Werkzeuge",
         "Name_en": "Splendorous Tools",
         "Name_fr": "Outils des merveilles",
@@ -766,7 +766,7 @@
     },
     "2014": {
         "0xID": "7DE",
-        "Name_cn": "",
+        "Name_cn": "\u83ab\u96ef\u5353\u8d8a\u5de5\u5177",
         "Name_de": "Mowen-Werkzeuge",
         "Name_en": "Splendorous Tools",
         "Name_fr": "Outils des merveilles",

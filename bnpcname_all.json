@@ -3124,7 +3124,7 @@
     },
     "10309": {
         "0xID": "2845",
-        "Singular_cn": "",
+        "Singular_cn": "正统柯瑞甘",
         "Singular_de": "Orthos-Korrigane",
         "Singular_en": "Orthos korrigan",
         "Singular_fr": "korrigan Orthos",
@@ -20467,7 +20467,7 @@
     },
     "12043": {
         "0xID": "2F0B",
-        "Singular_cn": "",
+        "Singular_cn": "希尔迪布兰德",
         "Singular_de": "Hildibrand",
         "Singular_en": "Hildibrand",
         "Singular_fr": "Hildibrand",
@@ -20476,7 +20476,7 @@
     },
     "12044": {
         "0xID": "2F0C",
-        "Singular_cn": "",
+        "Singular_cn": "戈德伯特",
         "Singular_de": "Godbert",
         "Singular_en": "Godbert",
         "Singular_fr": "Godbert",
@@ -20485,7 +20485,7 @@
     },
     "12045": {
         "0xID": "2F0D",
-        "Singular_cn": "",
+        "Singular_cn": "超威卢格",
         "Singular_de": "Suprae-Lugae",
         "Singular_en": "Suprae-Lugae",
         "Singular_fr": "Super Lugae",
@@ -20494,7 +20494,7 @@
     },
     "12046": {
         "0xID": "2F0E",
-        "Singular_cn": "",
+        "Singular_cn": "被雇佣的无赖",
         "Singular_de": "gedungen[a] Schläger",
         "Singular_en": "hired thug",
         "Singular_fr": "pillard stipendié",
@@ -20503,7 +20503,7 @@
     },
     "12047": {
         "0xID": "2F0F",
-        "Singular_cn": "",
+        "Singular_cn": "被雇佣的无赖",
         "Singular_de": "gedungen[a] Schläger",
         "Singular_en": "hired thug",
         "Singular_fr": "pillard stipendié",
@@ -20512,7 +20512,7 @@
     },
     "12048": {
         "0xID": "2F10",
-        "Singular_cn": "",
+        "Singular_cn": "被雇佣的无赖",
         "Singular_de": "gedungen[a] Schläger",
         "Singular_en": "hired thug",
         "Singular_fr": "pillard stipendié",
@@ -20521,7 +20521,7 @@
     },
     "12049": {
         "0xID": "2F11",
-        "Singular_cn": "",
+        "Singular_cn": "雇われのゴロツキ",
         "Singular_de": "gedungen[a] Schläger",
         "Singular_en": "hired thug",
         "Singular_fr": "雇われのゴロツキ",
@@ -20539,7 +20539,7 @@
     },
     "12050": {
         "0xID": "2F12",
-        "Singular_cn": "",
+        "Singular_cn": "雇われのゴロツキ",
         "Singular_de": "gedungen[a] Schläger",
         "Singular_en": "hired thug",
         "Singular_fr": "雇われのゴロツキ",
@@ -20548,7 +20548,7 @@
     },
     "12051": {
         "0xID": "2F13",
-        "Singular_cn": "",
+        "Singular_cn": "雇われのゴロツキ",
         "Singular_de": "gedungen[a] Schläger",
         "Singular_en": "hired thug",
         "Singular_fr": "雇われのゴロツキ",
@@ -20557,7 +20557,7 @@
     },
     "12052": {
         "0xID": "2F14",
-        "Singular_cn": "",
+        "Singular_cn": "导弹",
         "Singular_de": "Rakete",
         "Singular_en": "missile",
         "Singular_fr": "missile",
@@ -21043,7 +21043,7 @@
     },
     "12100": {
         "0xID": "2F44",
-        "Singular_cn": "",
+        "Singular_cn": "斗神 王者之剑",
         "Singular_de": "Excalibur",
         "Singular_en": "Excalibur",
         "Singular_fr": "Excalibur",
@@ -21052,7 +21052,7 @@
     },
     "12101": {
         "0xID": "2F45",
-        "Singular_cn": "",
+        "Singular_cn": "石中剑",
         "Singular_de": "Caliburnus",
         "Singular_en": "Caliburnus",
         "Singular_fr": "Caliburnus",
@@ -21061,7 +21061,7 @@
     },
     "12102": {
         "0xID": "2F46",
-        "Singular_cn": "",
+        "Singular_cn": "管理者",
         "Singular_de": "Administrator",
         "Singular_en": "Administrator",
         "Singular_fr": "Administrateur",
@@ -21070,7 +21070,7 @@
     },
     "12103": {
         "0xID": "2F47",
-        "Singular_cn": "",
+        "Singular_cn": "截击系统α",
         "Singular_de": "Hilfssystem α",
         "Singular_en": "interceptor α",
         "Singular_fr": "intercepteur α",
@@ -21079,7 +21079,7 @@
     },
     "12104": {
         "0xID": "2F48",
-        "Singular_cn": "",
+        "Singular_cn": "截击系统β",
         "Singular_de": "Hilfssystem β",
         "Singular_en": "interceptor β",
         "Singular_fr": "intercepteur β",
@@ -21088,7 +21088,7 @@
     },
     "12105": {
         "0xID": "2F49",
-        "Singular_cn": "",
+        "Singular_cn": "截击系统γ",
         "Singular_de": "Hilfssystem γ",
         "Singular_en": "interceptor γ",
         "Singular_fr": "intercepteur γ",
@@ -21097,7 +21097,7 @@
     },
     "12106": {
         "0xID": "2F4A",
-        "Singular_cn": "",
+        "Singular_cn": "正统尸龙",
         "Singular_de": "untot[a] Orthos-Drache",
         "Singular_en": "undead Orthos dragon",
         "Singular_fr": "dragon zombi Orthos",
@@ -21106,7 +21106,7 @@
     },
     "12107": {
         "0xID": "2F4B",
-        "Singular_cn": "",
+        "Singular_cn": "正统塔纳托斯",
         "Singular_de": "Orthos-Thanatos",
         "Singular_en": "Orthos Thanatos",
         "Singular_fr": "thanatos Orthos",
@@ -21115,7 +21115,7 @@
     },
     "12108": {
         "0xID": "2F4C",
-        "Singular_cn": "",
+        "Singular_cn": "正统梦魔",
         "Singular_de": "Orthos-Sukkubus",
         "Singular_en": "Orthos succubus",
         "Singular_fr": "succube Orthos",
@@ -21124,7 +21124,7 @@
     },
     "12109": {
         "0xID": "2F4D",
-        "Singular_cn": "",
+        "Singular_cn": "正统贝希摩斯",
         "Singular_de": "Orthos-Behemoth",
         "Singular_en": "Orthos behemoth",
         "Singular_fr": "béhémoth Orthos",
@@ -21142,7 +21142,7 @@
     },
     "12110": {
         "0xID": "2F4E",
-        "Singular_cn": "",
+        "Singular_cn": "正统榴弹怪",
         "Singular_de": "Orthos-Granate",
         "Singular_en": "Orthos grenade",
         "Singular_fr": "grenado Orthos",
@@ -21151,7 +21151,7 @@
     },
     "12111": {
         "0xID": "2F4F",
-        "Singular_cn": "",
+        "Singular_cn": "正统扎哈克",
         "Singular_de": "Orthos-Dahak",
         "Singular_en": "Orthos dahak",
         "Singular_fr": "dahaka Orthos",
@@ -21160,7 +21160,7 @@
     },
     "12112": {
         "0xID": "2F50",
-        "Singular_cn": "",
+        "Singular_cn": "正统小魔精",
         "Singular_de": "Orthos-Imp",
         "Singular_en": "Orthos imp",
         "Singular_fr": "imp Orthos",
@@ -21169,7 +21169,7 @@
     },
     "12113": {
         "0xID": "2F51",
-        "Singular_cn": "",
+        "Singular_cn": "正统恶魔",
         "Singular_de": "Orthos-Dämon",
         "Singular_en": "Orthos demon",
         "Singular_fr": "démon Orthos",
@@ -21178,7 +21178,7 @@
     },
     "12114": {
         "0xID": "2F52",
-        "Singular_cn": "",
+        "Singular_cn": "正统幽鬼之眼",
         "Singular_de": "Orthos-Fachan",
         "Singular_en": "Orthos fachan",
         "Singular_fr": "fachan Orthos",
@@ -21187,7 +21187,7 @@
     },
     "12115": {
         "0xID": "2F53",
-        "Singular_cn": "",
+        "Singular_cn": "正统瓦沙克",
         "Singular_de": "Orthos-Vassago",
         "Singular_en": "Orthos vassago",
         "Singular_fr": "vassago Orthos",
@@ -21196,7 +21196,7 @@
     },
     "12116": {
         "0xID": "2F54",
-        "Singular_cn": "",
+        "Singular_cn": "正统浮灵",
         "Singular_de": "Orthos-Bhut",
         "Singular_en": "Orthos bhoot",
         "Singular_fr": "bhut Orthos",
@@ -21205,7 +21205,7 @@
     },
     "12117": {
         "0xID": "2F55",
-        "Singular_cn": "",
+        "Singular_cn": "正统钢铁之爪",
         "Singular_de": "Orthos-Eisenklaue",
         "Singular_en": "orthoiron claw",
         "Singular_fr": "griffe de fer Orthos",
@@ -21214,7 +21214,7 @@
     },
     "12118": {
         "0xID": "2F56",
-        "Singular_cn": "",
+        "Singular_cn": "正统水元精",
         "Singular_de": "Orthos-Wasser-Exergon",
         "Singular_en": "Orthos water sprite",
         "Singular_fr": "élémentaire d'eau Orthos",
@@ -21223,7 +21223,7 @@
     },
     "12119": {
         "0xID": "2F57",
-        "Singular_cn": "",
+        "Singular_cn": "正统猎手",
         "Singular_de": "Orthos-Jäger",
         "Singular_en": "orthohunter",
         "Singular_fr": "chasseur Orthos",
@@ -21241,7 +21241,7 @@
     },
     "12120": {
         "0xID": "2F58",
-        "Singular_cn": "",
+        "Singular_cn": "正统系统β",
         "Singular_de": "Orthosystem β",
         "Singular_en": "Orthosystem β",
         "Singular_fr": "système β Orthos",
@@ -21250,7 +21250,7 @@
     },
     "12121": {
         "0xID": "2F59",
-        "Singular_cn": "",
+        "Singular_cn": "正统微型系统",
         "Singular_de": "Orthomikroystem",
         "Singular_en": "Orthos microsystem",
         "Singular_fr": "microsystème Orthos",
@@ -21259,7 +21259,7 @@
     },
     "12122": {
         "0xID": "2F5A",
-        "Singular_cn": "",
+        "Singular_cn": "正统士兵",
         "Singular_de": "Orthos-Soldat",
         "Singular_en": "orthosoldier",
         "Singular_fr": "soldat Orthos",
@@ -21268,7 +21268,7 @@
     },
     "12123": {
         "0xID": "2F5B",
-        "Singular_cn": "",
+        "Singular_cn": "正统树木巨像",
         "Singular_de": "Orthos-Holzgolem",
         "Singular_en": "Orthos wood golem",
         "Singular_fr": "golem sylvestre Orthos",
@@ -21277,7 +21277,7 @@
     },
     "12124": {
         "0xID": "2F5C",
-        "Singular_cn": "",
+        "Singular_cn": "正统坐镇巨像",
         "Singular_de": "Orthos-Erdwächter",
         "Singular_en": "Orthos groundskeeper",
         "Singular_fr": "terragardien Orthos",
@@ -21286,7 +21286,7 @@
     },
     "12125": {
         "0xID": "2F5D",
-        "Singular_cn": "",
+        "Singular_cn": "正统王冠",
         "Singular_de": "Orthos-Keter",
         "Singular_en": "Orthos keter",
         "Singular_fr": "keter Orthos",
@@ -21295,7 +21295,7 @@
     },
     "12126": {
         "0xID": "2F5E",
-        "Singular_cn": "",
+        "Singular_cn": "正统大王花",
         "Singular_de": "Orthos-Rafflesia",
         "Singular_en": "Orthos rafflesia",
         "Singular_fr": "rafflesia Orthos",
@@ -21304,7 +21304,7 @@
     },
     "12127": {
         "0xID": "2F5F",
-        "Singular_cn": "",
+        "Singular_cn": "正统锯齿花",
         "Singular_de": "Orthos-Sägezahn",
         "Singular_en": "Orthos sawtooth",
         "Singular_fr": "dentata Orthos",
@@ -21313,7 +21313,7 @@
     },
     "12128": {
         "0xID": "2F60",
-        "Singular_cn": "",
+        "Singular_cn": "正统胜利",
         "Singular_de": "Orthos-Netzach",
         "Singular_en": "Orthos netzach",
         "Singular_fr": "netzach Orthos",
@@ -21322,7 +21322,7 @@
     },
     "12129": {
         "0xID": "2F61",
-        "Singular_cn": "",
+        "Singular_cn": "正统螺旋藻",
         "Singular_de": "Orthos-Spirulina",
         "Singular_en": "Orthos spirulina",
         "Singular_fr": "spiruline Orthos",
@@ -21340,7 +21340,7 @@
     },
     "12130": {
         "0xID": "2F62",
-        "Singular_cn": "",
+        "Singular_cn": "正统大魔界花",
         "Singular_de": "Orthos-Großmorbol",
         "Singular_en": "great Orthos morbol",
         "Singular_fr": "grand morbol Orthos",
@@ -21349,7 +21349,7 @@
     },
     "12131": {
         "0xID": "2F63",
-        "Singular_cn": "",
+        "Singular_cn": "正统剧毒美人",
         "Singular_de": "Orthos-Belladonna",
         "Singular_en": "Orthos belladonna",
         "Singular_fr": "belladone Orthos",
@@ -21358,7 +21358,7 @@
     },
     "12132": {
         "0xID": "2F64",
-        "Singular_cn": "",
+        "Singular_cn": "正统破坏者",
         "Singular_de": "Orthodemolierer",
         "Singular_en": "orthodemolisher",
         "Singular_fr": "destructeur Orthos",
@@ -21367,7 +21367,7 @@
     },
     "12133": {
         "0xID": "2F65",
-        "Singular_cn": "",
+        "Singular_cn": "正统骑士",
         "Singular_de": "Orthoritter",
         "Singular_en": "orthoknight",
         "Singular_fr": "chevalier Orthos",
@@ -21376,7 +21376,7 @@
     },
     "12134": {
         "0xID": "2F66",
-        "Singular_cn": "",
+        "Singular_cn": "正统机甲",
         "Singular_de": "Orthodroide",
         "Singular_en": "orthodroid",
         "Singular_fr": "droïde Orthos",
@@ -21385,7 +21385,7 @@
     },
     "12135": {
         "0xID": "2F67",
-        "Singular_cn": "",
+        "Singular_cn": "正统铁巨人",
         "Singular_de": "Orthogigant",
         "Singular_en": "orthogiant",
         "Singular_fr": "géant Orthos",
@@ -21394,7 +21394,7 @@
     },
     "12136": {
         "0xID": "2F68",
-        "Singular_cn": "",
+        "Singular_cn": "正统卡利亚",
         "Singular_de": "Orthokaliya",
         "Singular_en": "Orthokaliya",
         "Singular_fr": "kaliya Orthos",
@@ -21403,7 +21403,7 @@
     },
     "12137": {
         "0xID": "2F69",
-        "Singular_cn": "",
+        "Singular_cn": "正统雷蛟",
         "Singular_de": "Orthos-Smei",
         "Singular_en": "Orthos biast",
         "Singular_fr": "biast Orthos",
@@ -21412,7 +21412,7 @@
     },
     "12138": {
         "0xID": "2F6A",
-        "Singular_cn": "",
+        "Singular_cn": "正统小龙",
         "Singular_de": "nieder[a] Orthos-Drache",
         "Singular_en": "lesser Orthos dragon",
         "Singular_fr": "maître aérien mineur Orthos",
@@ -21421,7 +21421,7 @@
     },
     "12139": {
         "0xID": "2F6B",
-        "Singular_cn": "",
+        "Singular_cn": "正统双足飞龙",
         "Singular_de": "Orthos-Wyvern",
         "Singular_en": "Orthos wyvern",
         "Singular_fr": "wyverne Orthos",
@@ -21439,7 +21439,7 @@
     },
     "12140": {
         "0xID": "2F6C",
-        "Singular_cn": "",
+        "Singular_cn": "正统蓝龙",
         "Singular_de": "blau[a] Ortho-Drache",
         "Singular_en": "orthoblue dragon",
         "Singular_fr": "dragon bleu Orthos",
@@ -21448,7 +21448,7 @@
     },
     "12141": {
         "0xID": "2F6D",
-        "Singular_cn": "",
+        "Singular_cn": "正统薇薇尔飞龙",
         "Singular_de": "Orthos-Vivel",
         "Singular_en": "Orthos vouivre",
         "Singular_fr": "vouivre Orthos",
@@ -21457,7 +21457,7 @@
     },
     "12142": {
         "0xID": "2F6E",
-        "Singular_cn": "",
+        "Singular_cn": "正统布罗宾雅克",
         "Singular_de": "Orthos-Brobinyak",
         "Singular_en": "Orthos brobinyak",
         "Singular_fr": "brobinyak Orthos",
@@ -21466,7 +21466,7 @@
     },
     "12143": {
         "0xID": "2F6F",
-        "Singular_cn": "",
+        "Singular_cn": "正统婆那罗",
         "Singular_de": "Orthos-Vanara",
         "Singular_en": "Orthos vanara",
         "Singular_fr": "vanara Orthos",
@@ -21475,7 +21475,7 @@
     },
     "12144": {
         "0xID": "2F70",
-        "Singular_cn": "",
+        "Singular_cn": "正统龟甲龙",
         "Singular_de": "Orthos-Panzerdrache",
         "Singular_en": "orthoshelled dragon",
         "Singular_fr": "dragon Orthos à carapace",
@@ -21484,7 +21484,7 @@
     },
     "12145": {
         "0xID": "2F71",
-        "Singular_cn": "",
+        "Singular_cn": "正统故障虫",
         "Singular_de": "Orthos-Käfer",
         "Singular_en": "orthobug",
         "Singular_fr": "insecte Orthos",
@@ -21493,7 +21493,7 @@
     },
     "12146": {
         "0xID": "2F72",
-        "Singular_cn": "",
+        "Singular_cn": "正统蜘蛛",
         "Singular_de": "Orthos-Spinne",
         "Singular_en": "orthospider",
         "Singular_fr": "araignée Orthos",
@@ -21502,7 +21502,7 @@
     },
     "12147": {
         "0xID": "2F73",
-        "Singular_cn": "",
+        "Singular_cn": "正统铁血战士",
         "Singular_de": "Orthos-Prädator",
         "Singular_en": "orthopredator",
         "Singular_fr": "prédateur Orthos",
@@ -21511,7 +21511,7 @@
     },
     "12148": {
         "0xID": "2F74",
-        "Singular_cn": "",
+        "Singular_cn": "正统幻影光",
         "Singular_de": "Orthos-Phantomschimmer",
         "Singular_en": "phantom orthoray",
         "Singular_fr": "rayon fantomatique Orthos",
@@ -21520,7 +21520,7 @@
     },
     "12149": {
         "0xID": "2F75",
-        "Singular_cn": "",
+        "Singular_cn": "正统镜骑士",
         "Singular_de": "Orthos-Speglidae",
         "Singular_en": "Orthos mirrorknight",
         "Singular_fr": "chevalier miroir Orthos",
@@ -21538,7 +21538,7 @@
     },
     "12150": {
         "0xID": "2F76",
-        "Singular_cn": "",
+        "Singular_cn": "正统弥诺陶洛斯",
         "Singular_de": "Orthotaurus",
         "Singular_en": "orthotaur",
         "Singular_fr": "minotaure Orthos",
@@ -21547,7 +21547,7 @@
     },
     "12151": {
         "0xID": "2F77",
-        "Singular_cn": "",
+        "Singular_cn": "正统爬虫半人马",
         "Singular_de": "Orthos-Reptoid",
         "Singular_en": "Orthos reptoid",
         "Singular_fr": "reptoïde Orthos",
@@ -21556,7 +21556,7 @@
     },
     "12152": {
         "0xID": "2F78",
-        "Singular_cn": "",
+        "Singular_cn": "正统奇美拉",
         "Singular_de": "Orthochimära",
         "Singular_en": "orthochimera",
         "Singular_fr": "chimère Orthos",
@@ -21565,7 +21565,7 @@
     },
     "12153": {
         "0xID": "2F79",
-        "Singular_cn": "",
+        "Singular_cn": "正统沙布提",
         "Singular_de": "Orthos-Shabti",
         "Singular_en": "Orthos shabti",
         "Singular_fr": "chaouabti Orthos",
@@ -21574,7 +21574,7 @@
     },
     "12154": {
         "0xID": "2F7A",
-        "Singular_cn": "",
+        "Singular_cn": "正统改造鸟人",
         "Singular_de": "Orthos-Iksalion",
         "Singular_en": "orthoiksalion",
         "Singular_fr": "iksalion Orthos",
@@ -21583,7 +21583,7 @@
     },
     "12155": {
         "0xID": "2F7B",
-        "Singular_cn": "",
+        "Singular_cn": "正统那迦",
         "Singular_de": "Orthos-Naga",
         "Singular_en": "orthonaga",
         "Singular_fr": "naga Orthos",
@@ -21592,7 +21592,7 @@
     },
     "12156": {
         "0xID": "2F7C",
-        "Singular_cn": "",
+        "Singular_cn": "正统疫虫",
         "Singular_de": "Orthos-Empusa",
         "Singular_en": "orthoempuse",
         "Singular_fr": "empousa Orthos",
@@ -21601,7 +21601,7 @@
     },
     "12157": {
         "0xID": "2F7D",
-        "Singular_cn": "",
+        "Singular_cn": "正统拉米亚",
         "Singular_de": "Orthos-Lamia",
         "Singular_en": "Orthos lamia",
         "Singular_fr": "lamia Orthos",
@@ -21610,7 +21610,7 @@
     },
     "12158": {
         "0xID": "2F7E",
-        "Singular_cn": "",
+        "Singular_cn": "正统明胶怪",
         "Singular_de": "Orthos-Gelato",
         "Singular_en": "Orthos gelato",
         "Singular_fr": "gelato Orthos",
@@ -21619,7 +21619,7 @@
     },
     "12159": {
         "0xID": "2F7F",
-        "Singular_cn": "",
+        "Singular_cn": "正统魔石精",
         "Singular_de": "Orthos-Spriggan",
         "Singular_en": "Orthos spriggan",
         "Singular_fr": "spriggan Orthos",
@@ -21637,7 +21637,7 @@
     },
     "12160": {
         "0xID": "2F80",
-        "Singular_cn": "",
+        "Singular_cn": "正统山巨魔",
         "Singular_de": "Orthos-Jötunn",
         "Singular_en": "Orthos bergthurs",
         "Singular_fr": "bergthurs Orthos",
@@ -21646,7 +21646,7 @@
     },
     "12161": {
         "0xID": "2F81",
-        "Singular_cn": "",
+        "Singular_cn": "正统阿帕斯",
         "Singular_de": "Orthos-Apa",
         "Singular_en": "Orthos apa",
         "Singular_fr": "apa Orthos",
@@ -21655,7 +21655,7 @@
     },
     "12162": {
         "0xID": "2F82",
-        "Singular_cn": "",
+        "Singular_cn": "正统凯尔派",
         "Singular_de": "Orthos-Kelpie",
         "Singular_en": "Orthos Kelpie",
         "Singular_fr": "kelpie Orthos",
@@ -21664,7 +21664,7 @@
     },
     "12163": {
         "0xID": "2F83",
-        "Singular_cn": "",
+        "Singular_cn": "正统库库尔坎",
         "Singular_de": "Orthos-Kukulkan",
         "Singular_en": "Orthos kukulkan",
         "Singular_fr": "kukulkan Orthos",
@@ -21673,7 +21673,7 @@
     },
     "12164": {
         "0xID": "2F84",
-        "Singular_cn": "",
+        "Singular_cn": "正统霜狼",
         "Singular_de": "Orthos-Höllenhund",
         "Singular_en": "Orthos hoarhound",
         "Singular_fr": "ballote Orthos",
@@ -21682,7 +21682,7 @@
     },
     "12165": {
         "0xID": "2F85",
-        "Singular_cn": "",
+        "Singular_cn": "正统胡瓦西",
         "Singular_de": "Orthos-Huwasi",
         "Singular_en": "Orthos huwasi",
         "Singular_fr": "huwasi Orthos",
@@ -21691,7 +21691,7 @@
     },
     "12166": {
         "0xID": "2F86",
-        "Singular_cn": "",
+        "Singular_cn": "正统阿刻戎",
         "Singular_de": "Orthos-Acheron",
         "Singular_en": "Orthos Acheron",
         "Singular_fr": "achéron Orthos",
@@ -21700,7 +21700,7 @@
     },
     "12167": {
         "0xID": "2F87",
-        "Singular_cn": "",
+        "Singular_cn": "正统阿巴伊",
         "Singular_de": "Orthos-Abaia",
         "Singular_en": "Orthos abaia",
         "Singular_fr": "abaia Orthos",
@@ -21709,7 +21709,7 @@
     },
     "12168": {
         "0xID": "2F88",
-        "Singular_cn": "",
+        "Singular_cn": "正统古菩猩猩",
         "Singular_de": "Orthos-Goobbue",
         "Singular_en": "Orthos goobbue",
         "Singular_fr": "goobbue Orthos",
@@ -21718,7 +21718,7 @@
     },
     "12169": {
         "0xID": "2F89",
-        "Singular_cn": "",
+        "Singular_cn": "正统赫德提特",
         "Singular_de": "Orthos-Hedetet",
         "Singular_en": "Orthos Hedetet",
         "Singular_fr": "hedetet Orthos",
@@ -21736,7 +21736,7 @@
     },
     "12170": {
         "0xID": "2F8A",
-        "Singular_cn": "",
+        "Singular_cn": "正统土泥人",
         "Singular_de": "Orthos-Matschmann",
         "Singular_en": "Orthos mudman",
         "Singular_fr": "tadboue Orthos",
@@ -21745,7 +21745,7 @@
     },
     "12171": {
         "0xID": "2F8B",
-        "Singular_cn": "",
+        "Singular_cn": "正统班西",
         "Singular_de": "Orthos-Banshee",
         "Singular_en": "Orthos banshee",
         "Singular_fr": "banshee Orthos",
@@ -21754,7 +21754,7 @@
     },
     "12172": {
         "0xID": "2F8C",
-        "Singular_cn": "",
+        "Singular_cn": "正统鬼鱼",
         "Singular_de": "Orthos-Mönch",
         "Singular_en": "Orthos monk",
         "Singular_fr": "moine Orthos",
@@ -21763,7 +21763,7 @@
     },
     "12173": {
         "0xID": "2F8D",
-        "Singular_cn": "",
+        "Singular_cn": "正统刺魟",
         "Singular_de": "Orthos-Manta",
         "Singular_en": "Orthos stingray",
         "Singular_fr": "raie Orthos",
@@ -21772,7 +21772,7 @@
     },
     "12174": {
         "0xID": "2F8E",
-        "Singular_cn": "",
+        "Singular_cn": "正统俄刻阿诺斯",
         "Singular_de": "Orthos-Okeanos",
         "Singular_en": "Orthos Oceanus",
         "Singular_fr": "océanus Orthos",
@@ -21781,7 +21781,7 @@
     },
     "12175": {
         "0xID": "2F8F",
-        "Singular_cn": "",
+        "Singular_cn": "正统大螯陆蟹",
         "Singular_de": "Orthos-Mörderkrabbe",
         "Singular_en": "Orthos big claw",
         "Singular_fr": "grosse pince Orthos",
@@ -21790,7 +21790,7 @@
     },
     "12176": {
         "0xID": "2F90",
-        "Singular_cn": "",
+        "Singular_cn": "正统虾蛄",
         "Singular_de": "Orthos-Yabby",
         "Singular_en": "Orthos yabby",
         "Singular_fr": "thalassina Orthos",
@@ -21799,7 +21799,7 @@
     },
     "12177": {
         "0xID": "2F91",
-        "Singular_cn": "",
+        "Singular_cn": "正统皮拉鱼",
         "Singular_de": "Orthos-Piranu",
         "Singular_en": "Orthos piranu",
         "Singular_fr": "piranu Orthos",
@@ -21808,7 +21808,7 @@
     },
     "12178": {
         "0xID": "2F92",
-        "Singular_cn": "",
+        "Singular_cn": "正统水蛭",
         "Singular_de": "Orthos-Egel",
         "Singular_en": "Orthos leech",
         "Singular_fr": "sangsue Orthos",
@@ -21817,7 +21817,7 @@
     },
     "12179": {
         "0xID": "2F93",
-        "Singular_cn": "",
+        "Singular_cn": "正统扎拉坦",
         "Singular_de": "Orthos-Zaratan",
         "Singular_en": "Orthos zaratan",
         "Singular_fr": "zaratan Orthos",
@@ -21835,7 +21835,7 @@
     },
     "12180": {
         "0xID": "2F94",
-        "Singular_cn": "",
+        "Singular_cn": "正统冰元精",
         "Singular_de": "Orthos-Eis-Exergon",
         "Singular_en": "Orthos ice sprite",
         "Singular_fr": "élémentaire de glace Orthos",
@@ -21844,7 +21844,7 @@
     },
     "12181": {
         "0xID": "2F95",
-        "Singular_cn": "",
+        "Singular_cn": "正统爆弹鱼",
         "Singular_de": "Orthos-Igelbomber",
         "Singular_en": "Orthos bombfish",
         "Singular_fr": "poisson-bombo Orthos",
@@ -21853,7 +21853,7 @@
     },
     "12182": {
         "0xID": "2F96",
-        "Singular_cn": "",
+        "Singular_cn": "正统石鳍鲨",
         "Singular_de": "Orthos-Felsenflosse",
         "Singular_en": "Orthos rockfin",
         "Singular_fr": "rocquin Orthos",
@@ -21862,7 +21862,7 @@
     },
     "12183": {
         "0xID": "2F97",
-        "Singular_cn": "",
+        "Singular_cn": "正统尤弥尔",
         "Singular_de": "Orthos-Ymir",
         "Singular_en": "Orthos ymir",
         "Singular_fr": "bulot Orthos",
@@ -21871,7 +21871,7 @@
     },
     "12184": {
         "0xID": "2F98",
-        "Singular_cn": "",
+        "Singular_cn": "正统翼蜥",
         "Singular_de": "Orthos-Pterosaurus",
         "Singular_en": "Orthos pteroc",
         "Singular_fr": "ptéroc Orthos",
@@ -21880,7 +21880,7 @@
     },
     "12185": {
         "0xID": "2F99",
-        "Singular_cn": "",
+        "Singular_cn": "正统烈阳火蛟",
         "Singular_de": "Orthos-Drakon",
         "Singular_en": "Orthos drake",
         "Singular_fr": "draconide Orthos",
@@ -21889,7 +21889,7 @@
     },
     "12186": {
         "0xID": "2F9A",
-        "Singular_cn": "",
+        "Singular_cn": "正统眼镜蛇",
         "Singular_de": "Orthos-Kobra",
         "Singular_en": "Orthos cobra",
         "Singular_fr": "cobra Orthos",
@@ -21898,7 +21898,7 @@
     },
     "12187": {
         "0xID": "2F9B",
-        "Singular_cn": "",
+        "Singular_cn": "正统飞巨蜥",
         "Singular_de": "Orthos-Waran",
         "Singular_en": "Orthos monitor",
         "Singular_fr": "varan Orthos",
@@ -21907,7 +21907,7 @@
     },
     "12188": {
         "0xID": "2F9C",
-        "Singular_cn": "",
+        "Singular_cn": "正统阿那罗",
         "Singular_de": "Orthos-Anala",
         "Singular_en": "Orthos anala",
         "Singular_fr": "anala Orthos",
@@ -21916,7 +21916,7 @@
     },
     "12189": {
         "0xID": "2F9D",
-        "Singular_cn": "",
+        "Singular_cn": "正统笠头螈",
         "Singular_de": "Orthos-Diplocaulus",
         "Singular_en": "Orthos diplocaulus",
         "Singular_fr": "diplocaulus Orthos",
@@ -21934,7 +21934,7 @@
     },
     "12190": {
         "0xID": "2F9E",
-        "Singular_cn": "",
+        "Singular_cn": "正统石蜥蜴",
         "Singular_de": "Orthos-Basilisk",
         "Singular_en": "Orthos basilisk",
         "Singular_fr": "basilic Orthos",
@@ -21943,7 +21943,7 @@
     },
     "12191": {
         "0xID": "2F9F",
-        "Singular_cn": "",
+        "Singular_cn": "正统玛塔蛇颈龟",
         "Singular_de": "Orthos-Matamata",
         "Singular_en": "Orthos matamata",
         "Singular_fr": "matamata Orthos",
@@ -21952,7 +21952,7 @@
     },
     "12192": {
         "0xID": "2FA0",
-        "Singular_cn": "",
+        "Singular_cn": "正统侏儒避役",
         "Singular_de": "Orthos-Palleon",
         "Singular_en": "Orthos palleon",
         "Singular_fr": "palléon Orthos",
@@ -21961,7 +21961,7 @@
     },
     "12193": {
         "0xID": "2FA1",
-        "Singular_cn": "",
+        "Singular_cn": "正统法拉克",
         "Singular_de": "Orthos-Falak",
         "Singular_en": "Orthos falak",
         "Singular_fr": "falak Orthos",
@@ -21970,7 +21970,7 @@
     },
     "12194": {
         "0xID": "2FA2",
-        "Singular_cn": "",
+        "Singular_cn": "正统高牢怪龙",
         "Singular_de": "Orthos-Gowrow",
         "Singular_en": "Orthos gowrow",
         "Singular_fr": "gowrow Orthos",
@@ -21979,7 +21979,7 @@
     },
     "12195": {
         "0xID": "2FA3",
-        "Singular_cn": "",
+        "Singular_cn": "正统忍者",
         "Singular_de": "Orthos-Ninja",
         "Singular_en": "orthoninja",
         "Singular_fr": "ninja Orthos",
@@ -21988,7 +21988,7 @@
     },
     "12196": {
         "0xID": "2FA4",
-        "Singular_cn": "",
+        "Singular_cn": "正统哈奥卡",
         "Singular_de": "perfektioniert[a] Haokah",
         "Singular_en": "Haokah perfected",
         "Singular_fr": "haokah Orthos",
@@ -21997,7 +21997,7 @@
     },
     "12197": {
         "0xID": "2FA5",
-        "Singular_cn": "",
+        "Singular_cn": "正统巨嘴鸟",
         "Singular_de": "Orthos-Tokotoko",
         "Singular_en": "Orthos toco toco",
         "Singular_fr": "toco toco Orthos",
@@ -22006,7 +22006,7 @@
     },
     "12198": {
         "0xID": "2FA6",
-        "Singular_cn": "",
+        "Singular_cn": "正统斯卡尼特",
         "Singular_de": "Orthos-Skatene",
         "Singular_en": "Orthos skatene",
         "Singular_fr": "skate'ne Orthos",
@@ -22015,7 +22015,7 @@
     },
     "12199": {
         "0xID": "2FA7",
-        "Singular_cn": "",
+        "Singular_cn": "正统独角兽",
         "Singular_de": "Orthos-Einhorn",
         "Singular_en": "Orthos unicorn",
         "Singular_fr": "licorne Orthos",
@@ -22042,7 +22042,7 @@
     },
     "12200": {
         "0xID": "2FA8",
-        "Singular_cn": "",
+        "Singular_cn": "正统长须豹",
         "Singular_de": "Orthos-Coeurl",
         "Singular_en": "Orthos coeurl",
         "Singular_fr": "coeurl Orthos",
@@ -22051,7 +22051,7 @@
     },
     "12201": {
         "0xID": "2FA9",
-        "Singular_cn": "",
+        "Singular_cn": "正统凶狼",
         "Singular_de": "Orthos-Wolf",
         "Singular_en": "Orthos wolf",
         "Singular_fr": "loup Orthos",
@@ -22060,7 +22060,7 @@
     },
     "12202": {
         "0xID": "2FAA",
-        "Singular_cn": "",
+        "Singular_cn": "正统狼獾",
         "Singular_de": "Orthos-Gulo Gulo",
         "Singular_en": "Orthos gulo gulo",
         "Singular_fr": "gulo gulo Orthos",
@@ -22069,7 +22069,7 @@
     },
     "12203": {
         "0xID": "2FAB",
-        "Singular_cn": "",
+        "Singular_cn": "正统大脚巨猿",
         "Singular_de": "Orthos-Sasquatch",
         "Singular_en": "Orthos sasquatch",
         "Singular_fr": "sasquatch Orthos",
@@ -22078,7 +22078,7 @@
     },
     "12204": {
         "0xID": "2FAC",
-        "Singular_cn": "",
+        "Singular_cn": "正统曙象",
         "Singular_de": "Orthos-Primelephas",
         "Singular_en": "Orthos primelephas",
         "Singular_fr": "primelephas Orthos",
@@ -22087,7 +22087,7 @@
     },
     "12205": {
         "0xID": "2FAD",
-        "Singular_cn": "",
+        "Singular_cn": "正统女忍",
         "Singular_de": "Orthos-Kunoichi",
         "Singular_en": "orthokunoichi",
         "Singular_fr": "kunoichi Orthos",
@@ -22096,7 +22096,7 @@
     },
     "12206": {
         "0xID": "2FAE",
-        "Singular_cn": "",
+        "Singular_cn": "正统妖鸟",
         "Singular_de": "Orthos-Vogel",
         "Singular_en": "bird of Orthos",
         "Singular_fr": "oiseau d'Eurêka Orthos",
@@ -22105,7 +22105,7 @@
     },
     "12207": {
         "0xID": "2FAF",
-        "Singular_cn": "",
+        "Singular_cn": "正统雷兽",
         "Singular_de": "Orthos-Donnerbestie",
         "Singular_en": "Orthos thunderbeast",
         "Singular_fr": "bête de foudre Orthos",
@@ -22114,7 +22114,7 @@
     },
     "12208": {
         "0xID": "2FB0",
-        "Singular_cn": "",
+        "Singular_cn": "正统焰兽",
         "Singular_de": "Orthos-Flammenbestie",
         "Singular_en": "Orthos flamebeast",
         "Singular_fr": "bête de feu Orthos",
@@ -22123,7 +22123,7 @@
     },
     "12209": {
         "0xID": "2FB1",
-        "Singular_cn": "",
+        "Singular_cn": "正统卡尔加斯",
         "Singular_de": "Orthos-Kargas",
         "Singular_en": "Orthos kargas",
         "Singular_fr": "kargas Orthos",
@@ -22141,7 +22141,7 @@
     },
     "12210": {
         "0xID": "2FB2",
-        "Singular_cn": "",
+        "Singular_cn": "正统深瞳",
         "Singular_de": "Orthos-Glotzauge",
         "Singular_en": "Orthos deepeye",
         "Singular_fr": "oculus Orthos",
@@ -22150,7 +22150,7 @@
     },
     "12211": {
         "0xID": "2FB3",
-        "Singular_cn": "",
+        "Singular_cn": "正统地生人",
         "Singular_de": "Orthos-Spartoi",
         "Singular_en": "Orthos Spartoi",
         "Singular_fr": "spartoi Orthos",
@@ -22159,7 +22159,7 @@
     },
     "12212": {
         "0xID": "2FB4",
-        "Singular_cn": "",
+        "Singular_cn": "正统百目妖",
         "Singular_de": "Orthos-Hektokulus",
         "Singular_en": "Orthos hecteyes",
         "Singular_fr": "hectoculus Orthos",
@@ -22168,7 +22168,7 @@
     },
     "12213": {
         "0xID": "2FB5",
-        "Singular_cn": "",
+        "Singular_cn": "正统软糊怪",
         "Singular_de": "Orthos-Pudding",
         "Singular_en": "Orthos pudding",
         "Singular_fr": "pudding Orthos",
@@ -22177,7 +22177,7 @@
     },
     "12214": {
         "0xID": "2FB6",
-        "Singular_cn": "",
+        "Singular_cn": "正统假面",
         "Singular_de": "Orthos-Persona",
         "Singular_en": "Orthos persona",
         "Singular_fr": "persona Orthos",
@@ -22186,7 +22186,7 @@
     },
     "12215": {
         "0xID": "2FB7",
-        "Singular_cn": "",
+        "Singular_cn": "正统贪吃鬼",
         "Singular_de": "Orthos-Gourmet",
         "Singular_en": "Orthos gourmand",
         "Singular_fr": "gourmand Orthos",
@@ -22195,7 +22195,7 @@
     },
     "12216": {
         "0xID": "2FB8",
-        "Singular_cn": "",
+        "Singular_cn": "正统冥鬼之眼",
         "Singular_de": "Orthos-Ahriman",
         "Singular_en": "Orthos ahriman",
         "Singular_fr": "ahriman Orthos",
@@ -22204,7 +22204,7 @@
     },
     "12217": {
         "0xID": "2FB9",
-        "Singular_cn": "",
+        "Singular_cn": "正统铁面腐尸",
         "Singular_de": "Orthos-Eisenleichnam",
         "Singular_en": "orthoiron corse",
         "Singular_fr": "cors de fer Orthos",
@@ -22213,7 +22213,7 @@
     },
     "12218": {
         "0xID": "2FBA",
-        "Singular_cn": "",
+        "Singular_cn": "正统卡托布莱帕斯",
         "Singular_de": "Orthos-Catblepus",
         "Singular_en": "Orthos catoblepas",
         "Singular_fr": "catoblépas Orthos",
@@ -22222,7 +22222,7 @@
     },
     "12219": {
         "0xID": "2FBB",
-        "Singular_cn": "",
+        "Singular_cn": "正统黑天马",
         "Singular_de": "schwarz[a] Orthos-Pegasus",
         "Singular_en": "Orthos pegasus",
         "Singular_fr": "pégase sombre Orthos",
@@ -22240,7 +22240,7 @@
     },
     "12220": {
         "0xID": "2FBC",
-        "Singular_cn": "",
+        "Singular_cn": "正统幽灵",
         "Singular_de": "Orthos-Geist",
         "Singular_en": "Orthos wraith",
         "Singular_fr": "spectre Orthos",
@@ -22249,7 +22249,7 @@
     },
     "12221": {
         "0xID": "2FBD",
-        "Singular_cn": "",
+        "Singular_cn": "正统妖影",
         "Singular_de": "Orthos-Schemen",
         "Singular_en": "Orthos specter",
         "Singular_fr": "spector Orthos",
@@ -22258,7 +22258,7 @@
     },
     "12222": {
         "0xID": "2FBE",
-        "Singular_cn": "",
+        "Singular_cn": "正统深渊",
         "Singular_de": "Orthos-Abyssus",
         "Singular_en": "Orthos abyss",
         "Singular_fr": "arabesque Orthos",
@@ -22267,7 +22267,7 @@
     },
     "12223": {
         "0xID": "2FBF",
-        "Singular_cn": "",
+        "Singular_cn": "正统无人机",
         "Singular_de": "Orthodrohne",
         "Singular_en": "orthodrone",
         "Singular_fr": "drone Orthos",
@@ -22276,7 +22276,7 @@
     },
     "12224": {
         "0xID": "2FC0",
-        "Singular_cn": "",
+        "Singular_cn": "正统系统γ",
         "Singular_de": "Orthosystem γ",
         "Singular_en": "Orthosystem γ",
         "Singular_fr": "système γ Orthos",
@@ -22285,7 +22285,7 @@
     },
     "12225": {
         "0xID": "2FC1",
-        "Singular_cn": "",
+        "Singular_cn": "正统米特里达梯",
         "Singular_de": "Orthos-Mithridates",
         "Singular_en": "Orthos Mithridates",
         "Singular_fr": "mithridate Orthos",
@@ -22294,7 +22294,7 @@
     },
     "12226": {
         "0xID": "2FC2",
-        "Singular_cn": "",
+        "Singular_cn": "正统恐慌装甲",
         "Singular_de": "Orthonaut",
         "Singular_en": "orthonaught",
         "Singular_fr": "cuirassé Dreadnaught Orthos",
@@ -22303,7 +22303,7 @@
     },
     "12227": {
         "0xID": "2FC3",
-        "Singular_cn": "",
+        "Singular_cn": "正统整备工",
         "Singular_de": "Orthos-Schlosser",
         "Singular_en": "Orthos fitter",
         "Singular_fr": "installateur Orthos",
@@ -22312,7 +22312,7 @@
     },
     "12228": {
         "0xID": "2FC4",
-        "Singular_cn": "",
+        "Singular_cn": "正统斯芬克斯",
         "Singular_de": "Orthosphinx",
         "Singular_en": "Orthos sphinx",
         "Singular_fr": "sphinx Orthos",
@@ -22321,7 +22321,7 @@
     },
     "12229": {
         "0xID": "2FC5",
-        "Singular_cn": "",
+        "Singular_cn": "正统系统α",
         "Singular_de": "Orthosystem α",
         "Singular_en": "Orthosystem α",
         "Singular_fr": "système α Orthos",
@@ -22339,7 +22339,7 @@
     },
     "12230": {
         "0xID": "2FC6",
-        "Singular_cn": "",
+        "Singular_cn": "正统扎戈斧龙",
         "Singular_de": "Orthos-Zaghnal",
         "Singular_en": "Orthos zaghnal",
         "Singular_fr": "zaghnal Orthos",
@@ -22348,7 +22348,7 @@
     },
     "12231": {
         "0xID": "2FC7",
-        "Singular_cn": "",
+        "Singular_cn": "正统采掘无人机",
         "Singular_de": "Orthos-Minendrohne",
         "Singular_en": "Orthos mining drone",
         "Singular_fr": "drone des mines Orthos",
@@ -22357,7 +22357,7 @@
     },
     "12232": {
         "0xID": "2FC8",
-        "Singular_cn": "",
+        "Singular_cn": "正统浮游炮主板",
         "Singular_de": "Orthos-Mutterdrohne",
         "Singular_en": "Orthos motherbit",
         "Singular_fr": "drone mère Orthos",
@@ -22366,7 +22366,7 @@
     },
     "12233": {
         "0xID": "2FC9",
-        "Singular_cn": "",
+        "Singular_cn": "正统自控化奇美拉",
         "Singular_de": "servomechanisch[a] Orthochimära",
         "Singular_en": "servomechanical orthochimera",
         "Singular_fr": "chimère servomécanique Orthos",
@@ -22375,7 +22375,7 @@
     },
     "12234": {
         "0xID": "2FCA",
-        "Singular_cn": "",
+        "Singular_cn": "正统自控化弥诺陶洛斯",
         "Singular_de": "servomechanisch[a] Orthotaurus",
         "Singular_en": "servomechanical orthotaur",
         "Singular_fr": "minotaure servomécanique Orthos",
@@ -22384,7 +22384,7 @@
     },
     "12235": {
         "0xID": "2FCB",
-        "Singular_cn": "",
+        "Singular_cn": "正统杜尔迦",
         "Singular_de": "Orthos-Durga",
         "Singular_en": "Orthos Durga",
         "Singular_fr": "dourgâ Orthos",
@@ -22438,7 +22438,7 @@
     },
     "12240": {
         "0xID": "2FD0",
-        "Singular_cn": "",
+        "Singular_cn": "蜜言妖",
         "Singular_de": "Gancanagh",
         "Singular_en": "Gancanagh",
         "Singular_fr": "Gancanagh",
@@ -22447,7 +22447,7 @@
     },
     "12241": {
         "0xID": "2FD1",
-        "Singular_cn": "",
+        "Singular_cn": "地雷棒槌树",
         "Singular_de": "Minen-Pachypodium",
         "Singular_en": "pachypodium mine",
         "Singular_fr": "mine pachypodium",
@@ -22456,7 +22456,7 @@
     },
     "12242": {
         "0xID": "2FD2",
-        "Singular_cn": "",
+        "Singular_cn": "提亚马特复制体",
         "Singular_de": "Tiamat-Klon",
         "Singular_en": "Tiamat's clone",
         "Singular_fr": "clone de Tiamat",
@@ -22465,7 +22465,7 @@
     },
     "12243": {
         "0xID": "2FD3",
-        "Singular_cn": "",
+        "Singular_cn": "暗龙气息",
         "Singular_de": "Seele des dunklen Drachen",
         "Singular_en": "dark wanderer",
         "Singular_fr": "esprit du Dragon des ténèbres",
@@ -22492,7 +22492,7 @@
     },
     "12246": {
         "0xID": "2FD6",
-        "Singular_cn": "",
+        "Singular_cn": "永恒",
         "Singular_de": "Aeturna",
         "Singular_en": "aeturna",
         "Singular_fr": "Aeturna",
@@ -22501,7 +22501,7 @@
     },
     "12247": {
         "0xID": "2FD7",
-        "Singular_cn": "",
+        "Singular_cn": "原型卡利亚",
         "Singular_de": "Proto-Kaliya",
         "Singular_en": "Proto-Kaliya",
         "Singular_fr": "proto-Kaliya",
@@ -22510,7 +22510,7 @@
     },
     "12248": {
         "0xID": "2FD8",
-        "Singular_cn": "",
+        "Singular_cn": "炮击无人机",
         "Singular_de": "Artilleriedrohne",
         "Singular_en": "weapons drone",
         "Singular_fr": "drone armé",
@@ -22645,7 +22645,7 @@
     },
     "12261": {
         "0xID": "2FE5",
-        "Singular_cn": "",
+        "Singular_cn": "复制系统",
         "Singular_de": "Klonmodul",
         "Singular_en": "cloning node",
         "Singular_fr": "système de clonage",
@@ -22654,7 +22654,7 @@
     },
     "12262": {
         "0xID": "2FE6",
-        "Singular_cn": "",
+        "Singular_cn": "盾龙复制体",
         "Singular_de": "Wehrdrachen-Klon",
         "Singular_en": "cloned shield dragon",
         "Singular_fr": "clone de dragon blindé",
@@ -22663,7 +22663,7 @@
     },
     "12263": {
         "0xID": "2FE7",
-        "Singular_cn": "",
+        "Singular_cn": "双塔尼亚复制体",
         "Singular_de": "Twintania-Klon",
         "Singular_en": "Twintania's clone",
         "Singular_fr": "clone de Gémellia",
@@ -22672,7 +22672,7 @@
     },
     "12264": {
         "0xID": "2FE8",
-        "Singular_cn": "",
+        "Singular_cn": "烈风",
         "Singular_de": "Wirbelwind",
         "Singular_en": "biting wind",
         "Singular_fr": "vent mordant",
@@ -22681,7 +22681,7 @@
     },
     "12265": {
         "0xID": "2FE9",
-        "Singular_cn": "",
+        "Singular_cn": "自控化奇美拉14X",
         "Singular_de": "servomechanisch[a] Chimäre 14X",
         "Singular_en": "servomechanical chimera 14X",
         "Singular_fr": "chimère servomécanique 14X",
@@ -22690,7 +22690,7 @@
     },
     "12266": {
         "0xID": "2FEA",
-        "Singular_cn": "",
+        "Singular_cn": "嘈杂的噪音",
         "Singular_de": "Kakophonie",
         "Singular_en": "cacophony",
         "Singular_fr": "cacophonie",
@@ -22699,7 +22699,7 @@
     },
     "12267": {
         "0xID": "2FEB",
-        "Singular_cn": "",
+        "Singular_cn": "自控化弥诺陶洛斯16",
         "Singular_de": "servomechanisch[a] Minotaurus 16",
         "Singular_en": "servomechanical minotaur 16",
         "Singular_fr": "minotaure servomécanique 16",
@@ -22708,7 +22708,7 @@
     },
     "12268": {
         "0xID": "2FEC",
-        "Singular_cn": "",
+        "Singular_cn": "雷球",
         "Singular_de": "Elektrosphäre",
         "Singular_en": "ball of levin",
         "Singular_fr": "orbe de foudre",
@@ -22717,7 +22717,7 @@
     },
     "12269": {
         "0xID": "2FED",
-        "Singular_cn": "",
+        "Singular_cn": "雷球",
         "Singular_de": "Elektrosphäre",
         "Singular_en": "ball of levin",
         "Singular_fr": "orbe de foudre",
@@ -22735,7 +22735,7 @@
     },
     "12270": {
         "0xID": "2FEE",
-        "Singular_cn": "",
+        "Singular_cn": "驯服犀鸟",
         "Singular_de": "gebändigt[a] Hornrabe",
         "Singular_en": "tamed hornbill",
         "Singular_fr": "bucorve dressé",
@@ -22744,7 +22744,7 @@
     },
     "12271": {
         "0xID": "2FEF",
-        "Singular_cn": "",
+        "Singular_cn": "驯服黑狼",
         "Singular_de": "gebändigt[a] Grauwolf",
         "Singular_en": "tamed wolf",
         "Singular_fr": "loup dressé",
@@ -22753,7 +22753,7 @@
     },
     "12272": {
         "0xID": "2FF0",
-        "Singular_cn": "",
+        "Singular_cn": "魔导先锋",
         "Singular_de": "Magitek-Frontbrecher",
         "Singular_en": "magitek vanguard",
         "Singular_fr": "avant-garde magitek",
@@ -22762,7 +22762,7 @@
     },
     "12273": {
         "0xID": "2FF1",
-        "Singular_cn": "",
+        "Singular_cn": "魔导死亡机器",
         "Singular_de": "Magitek-Todesmaschine",
         "Singular_en": "magitek death machine",
         "Singular_fr": "mécacharogne magitek",
@@ -22771,7 +22771,7 @@
     },
     "12274": {
         "0xID": "2FF2",
-        "Singular_cn": "",
+        "Singular_cn": "魔导螳螂",
         "Singular_de": "Magitek-Schlitzer",
         "Singular_en": "magitek slasher",
         "Singular_fr": "tailladeur magitek",
@@ -22780,7 +22780,7 @@
     },
     "12275": {
         "0xID": "2FF3",
-        "Singular_cn": "",
+        "Singular_cn": "魔导浮游炮",
         "Singular_de": "Magitek-Drohne",
         "Singular_en": "magitek bit",
         "Singular_fr": "drone magitek",
@@ -22888,7 +22888,7 @@
     },
     "12286": {
         "0xID": "2FFE",
-        "Singular_cn": "",
+        "Singular_cn": "探明威",
         "Singular_de": "Findingway",
         "Singular_en": "Findingway",
         "Singular_fr": "Findingway",
@@ -22897,7 +22897,7 @@
     },
     "12287": {
         "0xID": "2FFF",
-        "Singular_cn": "",
+        "Singular_cn": "私用棒槌树",
         "Singular_de": "Privat-Pachypodium",
         "Singular_en": "private pachypodium",
         "Singular_fr": "soldate pachypodium",
@@ -23194,7 +23194,7 @@
     },
     "12316": {
         "0xID": "301C",
-        "Singular_cn": "",
+        "Singular_cn": "亚拉戈水晶",
         "Singular_de": "allagisch[a] Kristall",
         "Singular_en": "Allagan crystal",
         "Singular_fr": "cristal allagois",
@@ -23212,7 +23212,7 @@
     },
     "12318": {
         "0xID": "301E",
-        "Singular_cn": "",
+        "Singular_cn": "正统裂钳蟹",
         "Singular_de": "Orthos-Kraklaw",
         "Singular_en": "Orthos craklaw",
         "Singular_fr": "craqulov Orthos",
@@ -23221,7 +23221,7 @@
     },
     "12319": {
         "0xID": "301F",
-        "Singular_cn": "",
+        "Singular_cn": "洋葱剑士亚灵复制体",
         "Singular_de": "Demiklon-Zwiebelritter",
         "Singular_en": "onion knight demiclone",
         "Singular_fr": "semi-clone de chevalier Oignon",
@@ -23239,7 +23239,7 @@
     },
     "12320": {
         "0xID": "3020",
-        "Singular_cn": "",
+        "Singular_cn": "多加亚灵复制体",
         "Singular_de": "Demiklon-Doga",
         "Singular_en": "Doga demiclone",
         "Singular_fr": "semi-clone de Doga",
@@ -23248,7 +23248,7 @@
     },
     "12321": {
         "0xID": "3021",
-        "Singular_cn": "",
+        "Singular_cn": "乌内亚灵复制体",
         "Singular_de": "Demiklon-Unei",
         "Singular_en": "Unei demiclone",
         "Singular_fr": "semi-clone d'Unéi",
@@ -23257,7 +23257,7 @@
     },
     "12322": {
         "0xID": "3022",
-        "Singular_cn": "",
+        "Singular_cn": "拉米亚女王",
         "Singular_de": "Lamia-Königin",
         "Singular_en": "lamia queen",
         "Singular_fr": "reine lamia",
@@ -23266,7 +23266,7 @@
     },
     "12323": {
         "0xID": "3023",
-        "Singular_cn": "",
+        "Singular_cn": "美拉西迪亚复制体",
         "Singular_de": "meracydisch[a] Klon",
         "Singular_en": "Meracydian clone",
         "Singular_fr": "clone de Méracydien",
@@ -23275,7 +23275,7 @@
     },
     "12324": {
         "0xID": "3024",
-        "Singular_cn": "",
+        "Singular_cn": "亚灵智慧之灵",
         "Singular_de": "Demi-Cochma",
         "Singular_en": "Demi-Cochma",
         "Singular_fr": "semi-chokhmah",

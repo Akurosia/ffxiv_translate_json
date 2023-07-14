@@ -15310,7 +15310,7 @@
     },
     "2529": {
         "0xID": "9E1",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361",
         "Name_de": "Eureka Orthos",
         "Name_en": "Eureka Orthos",
         "Name_fr": "Eur\u00eaka Orthos",
@@ -15760,7 +15760,7 @@
     },
     "2574": {
         "0xID": "A0E",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361\n[\u6df1\u5c42\u8ff7\u5bab]",
         "Name_de": "Eureka Orthos (Tiefes Gew\u00f6lbe)",
         "Name_en": "Eureka Orthos\n\n(Dungeon Entry)",
         "Name_fr": "Eur\u00eaka Orthos\n\n[Donjon sans fond]",
@@ -32923,7 +32923,7 @@
     },
     "4290": {
         "0xID": "10C2",
-        "Name_cn": "\u5e0c\u671b\u7684\u907f\u6240",
+        "Name_cn": "\u5e0c\u671b\u7684\u8d27\u8231",
         "Name_de": "Halle der Heiterkeit",
         "Name_en": "Hoper's Hold",
         "Name_fr": "Berceau des espoirs",

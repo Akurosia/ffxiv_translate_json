@@ -4564,7 +4564,7 @@
     },
     "1959": {
         "0xID": "7A7",
-        "Text_cn": "",
+        "Text_cn": "\u5362\u6bd4\u574e\u7279",
         "Text_de": "Rubicante",
         "Text_en": "Rubicante",
         "Text_fr": "Rubicante",
@@ -9091,7 +9091,7 @@
     },
     "3628": {
         "0xID": "E2C",
-        "Text_cn": "",
+        "Text_cn": "\u518d\u751f\u88c5\u7f6e",
         "Text_de": "Reanimator",
         "Text_en": "Pylon of Return",
         "Text_fr": "r\u00e9surrecteur",
@@ -9100,7 +9100,7 @@
     },
     "3629": {
         "0xID": "E2D",
-        "Text_cn": "",
+        "Text_cn": "\u4f20\u9001\u88c5\u7f6e",
         "Text_de": "Translokator",
         "Text_en": "Pylon of Passage",
         "Text_fr": "t\u00e9l\u00e9porteur",
@@ -9109,7 +9109,7 @@
     },
     "3630": {
         "0xID": "E2E",
-        "Text_cn": "",
+        "Text_cn": "\u4e4c\u5185\u4e9a\u7075\u590d\u5236\u4f53",
         "Text_de": "Demiklon-Unei",
         "Text_en": "Unei demiclone",
         "Text_fr": "semi-clone d'Un\u00e9i",
@@ -9118,7 +9118,7 @@
     },
     "3631": {
         "0xID": "E2F",
-        "Text_cn": "",
+        "Text_cn": "\u591a\u52a0\u4e9a\u7075\u590d\u5236\u4f53",
         "Text_de": "Demiklon-Doga",
         "Text_en": "Doga demiclone",
         "Text_fr": "semi-clone de Doga",
@@ -9127,7 +9127,7 @@
     },
     "3632": {
         "0xID": "E30",
-        "Text_cn": "",
+        "Text_cn": "\u6d0b\u8471\u5251\u58eb\u4e9a\u7075\u590d\u5236\u4f53",
         "Text_de": "Demiklon-Zwiebelritter",
         "Text_en": "onion knight demiclone",
         "Text_fr": "semi-clone du chevalier Oignon",
@@ -9136,7 +9136,7 @@
     },
     "3633": {
         "0xID": "E31",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u7f13\u901f",
         "Text_de": "\u00c4therogef\u00e4\u00df der Tr\u00e4gheit",
         "Text_en": "Protomander of Lethargy",
         "Text_fr": "magismobjet de ralentissement",
@@ -9145,7 +9145,7 @@
     },
     "3634": {
         "0xID": "E32",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5927\u6f29\u6da1",
         "Text_de": "\u00c4therogef\u00e4\u00df der Schw\u00e4che",
         "Text_en": "Protomander of Storms",
         "Text_fr": "magismobjet de Charybde",
@@ -9154,7 +9154,7 @@
     },
     "3635": {
         "0xID": "E33",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u6050\u614c\u88c5\u7532\u5316",
         "Text_de": "\u00c4therogef\u00e4\u00df der Macht",
         "Text_en": "Protomander of Dread",
         "Text_fr": "magismobjet de cuirass\u00e9 Dreadnaught",
@@ -9163,7 +9163,7 @@
     },
     "3636": {
         "0xID": "E34",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5492\u5370\u89e3\u9664",
         "Text_de": "\u00c4therogef\u00e4\u00df des Siegelbruchs",
         "Text_en": "Protomander of Safety",
         "Text_fr": "magismobjet de d\u00e9samor\u00e7age",
@@ -9172,7 +9172,7 @@
     },
     "3637": {
         "0xID": "E35",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5168\u666f",
         "Text_de": "\u00c4therogef\u00e4\u00df der Sicht",
         "Text_en": "Protomander of Sight",
         "Text_fr": "magismobjet de localisation",
@@ -9181,7 +9181,7 @@
     },
     "3638": {
         "0xID": "E36",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5f3a\u5316\u81ea\u8eab",
         "Text_de": "\u00c4therogef\u00e4\u00df der St\u00e4rkung",
         "Text_en": "Protomander of Strength",
         "Text_fr": "magismobjet de puissance",
@@ -9190,7 +9190,7 @@
     },
     "3639": {
         "0xID": "E37",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5f3a\u5316\u9632\u5fa1",
         "Text_de": "\u00c4therogef\u00e4\u00df der Abwehr",
         "Text_en": "Protomander of Steel",
         "Text_fr": "magismobjet de protection",
@@ -9199,7 +9199,7 @@
     },
     "3640": {
         "0xID": "E38",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5b9d\u7bb1\u589e\u52a0",
         "Text_de": "\u00c4therogef\u00e4\u00df der Sch\u00e4tze",
         "Text_en": "Protomander of Affluence",
         "Text_fr": "magismobjet de d\u00e9c\u00e8lement",
@@ -9208,7 +9208,7 @@
     },
     "3641": {
         "0xID": "E39",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u51cf\u5c11\u654c\u4eba",
         "Text_de": "\u00c4therogef\u00e4\u00df des Feindtods",
         "Text_en": "Protomander of Flight",
         "Text_fr": "magismobjet de s\u00e9curisation",
@@ -9217,7 +9217,7 @@
     },
     "3642": {
         "0xID": "E3A",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u6539\u53d8\u654c\u4eba",
         "Text_de": "\u00c4therogef\u00e4\u00df der Feindwandlung",
         "Text_en": "Protomander of Alteration",
         "Text_fr": "magismobjet d'affaiblissement",
@@ -9226,7 +9226,7 @@
     },
     "3643": {
         "0xID": "E3B",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u89e3\u5492",
         "Text_de": "\u00c4therogef\u00e4\u00df der Entzauberung",
         "Text_en": "Protomander of Purity",
         "Text_fr": "magismobjet d'anti-mal\u00e9fice",
@@ -9235,7 +9235,7 @@
     },
     "3644": {
         "0xID": "E3C",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u8fd0\u6c14\u4e0a\u5347",
         "Text_de": "\u00c4therogef\u00e4\u00df des Gl\u00fccks",
         "Text_en": "Protomander of Fortune",
         "Text_fr": "magismobjet de chance",
@@ -9244,7 +9244,7 @@
     },
     "3645": {
         "0xID": "E3D",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5f62\u6001\u53d8\u5316",
         "Text_de": "\u00c4therogef\u00e4\u00df der Wandlung",
         "Text_en": "Protomander of Witching",
         "Text_fr": "magismobjet de mutation",
@@ -9253,7 +9253,7 @@
     },
     "3646": {
         "0xID": "E3E",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u9b54\u6cd5\u6548\u679c\u89e3\u9664",
         "Text_de": "\u00c4therogef\u00e4\u00df der Enthexung",
         "Text_en": "Protomander of Serenity",
         "Text_fr": "magismobjet de dissipation",
@@ -9262,7 +9262,7 @@
     },
     "3647": {
         "0xID": "E3F",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u611f\u77e5\u5b9d\u85cf",
         "Text_de": "\u00c4therogef\u00e4\u00df des Finders",
         "Text_en": "Protomander of Intuition",
         "Text_fr": "magismobjet d'intuition",
@@ -9271,7 +9271,7 @@
     },
     "3648": {
         "0xID": "E40",
-        "Text_cn": "",
+        "Text_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u91cd\u751f",
         "Text_de": "\u00c4therogef\u00e4\u00df des Lebens",
         "Text_en": "Protomander of Raising",
         "Text_fr": "magismobjet de r\u00e9surrection",
@@ -9658,7 +9658,7 @@
     },
     "4044": {
         "0xID": "FCC",
-        "Text_cn": "",
+        "Text_cn": "\u83ab\u96ef\u5353\u8d8a\u5de5\u5177",
         "Text_de": "Mowen-Werkzeug",
         "Text_en": "Splendorous tool",
         "Text_fr": "outil des merveilles",
@@ -10909,7 +10909,7 @@
     },
     "5114": {
         "0xID": "13FA",
-        "Text_cn": "",
+        "Text_cn": "\u6b63\u7edf\u4f18\u96f7\u5361",
         "Text_de": "Eureka Orthos",
         "Text_en": "Eureka Orthos",
         "Text_fr": "Eur\u00eaka Orthos",
@@ -10936,7 +10936,7 @@
     },
     "5117": {
         "0xID": "13FD",
-        "Text_cn": "",
+        "Text_cn": "\u5362\u6bd4\u574e\u7279\u6b7c\u706d\u6218",
         "Text_de": "Prophetie - Rubicante",
         "Text_en": "Mount Ordeals",
         "Text_fr": "Mont du Supplice",
@@ -10945,7 +10945,7 @@
     },
     "5118": {
         "0xID": "13FE",
-        "Text_cn": "",
+        "Text_cn": "\u5362\u6bd4\u574e\u7279\u6b7c\u6b9b\u6218",
         "Text_de": "Eschatos - Rubicante",
         "Text_en": "Mount Ordeals (Extreme)",
         "Text_fr": "Mont du Supplice (extr\u00eame)",

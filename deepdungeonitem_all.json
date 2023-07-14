@@ -132,7 +132,7 @@
     "20": {
         "0xID": "14",
         "Icon": "ui/icon/027000/027995.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u7f13\u901f",
         "Name_de": "\u00c4therogef\u00e4\u00df der Tr\u00e4gheit",
         "Name_en": "Protomander of Lethargy",
         "Name_fr": "Magismobjet de ralentissement",
@@ -142,7 +142,7 @@
     "21": {
         "0xID": "15",
         "Icon": "ui/icon/027000/027996.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5927\u6f29\u6da1",
         "Name_de": "\u00c4therogef\u00e4\u00df der Schw\u00e4che",
         "Name_en": "Protomander of Storms",
         "Name_fr": "Magismobjet de Charybde",
@@ -152,7 +152,7 @@
     "22": {
         "0xID": "16",
         "Icon": "ui/icon/027000/027997.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u6050\u614c\u88c5\u7532\u5316",
         "Name_de": "\u00c4therogef\u00e4\u00df der Macht",
         "Name_en": "Protomander of Dread",
         "Name_fr": "Magismobjet de cuirass\u00e9 Dreadnaught",
@@ -162,7 +162,7 @@
     "23": {
         "0xID": "17",
         "Icon": "ui/icon/027000/027976.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5492\u5370\u89e3\u9664",
         "Name_de": "\u00c4therogef\u00e4\u00df des Siegelbruchs",
         "Name_en": "Protomander of Safety",
         "Name_fr": "Magismobjet de d\u00e9samor\u00e7age",
@@ -172,7 +172,7 @@
     "24": {
         "0xID": "18",
         "Icon": "ui/icon/027000/027977.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5168\u666f",
         "Name_de": "\u00c4therogef\u00e4\u00df der Sicht",
         "Name_en": "Protomander of Sight",
         "Name_fr": "Magismobjet de localisation",
@@ -182,7 +182,7 @@
     "25": {
         "0xID": "19",
         "Icon": "ui/icon/027000/027978.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5f3a\u5316\u81ea\u8eab",
         "Name_de": "\u00c4therogef\u00e4\u00df der St\u00e4rkung",
         "Name_en": "Protomander of Strength",
         "Name_fr": "Magismobjet de puissance",
@@ -192,7 +192,7 @@
     "26": {
         "0xID": "1A",
         "Icon": "ui/icon/027000/027979.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5f3a\u5316\u9632\u5fa1",
         "Name_de": "\u00c4therogef\u00e4\u00df der Abwehr",
         "Name_en": "Protomander of Steel",
         "Name_fr": "Magismobjet de protection",
@@ -202,7 +202,7 @@
     "27": {
         "0xID": "1B",
         "Icon": "ui/icon/027000/027980.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5b9d\u7bb1\u589e\u52a0",
         "Name_de": "\u00c4therogef\u00e4\u00df der Sch\u00e4tze",
         "Name_en": "Protomander of Affluence",
         "Name_fr": "Magismobjet de d\u00e9c\u00e8lement",
@@ -212,7 +212,7 @@
     "28": {
         "0xID": "1C",
         "Icon": "ui/icon/027000/027981.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u51cf\u5c11\u654c\u4eba",
         "Name_de": "\u00c4therogef\u00e4\u00df des Feindtods",
         "Name_en": "Protomander of Flight",
         "Name_fr": "Magismobjet de s\u00e9curisation",
@@ -222,7 +222,7 @@
     "29": {
         "0xID": "1D",
         "Icon": "ui/icon/027000/027982.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u6539\u53d8\u654c\u4eba",
         "Name_de": "\u00c4therogef\u00e4\u00df der Feindwandlung",
         "Name_en": "Protomander of Alteration",
         "Name_fr": "Magismobjet d'affaiblissement",
@@ -242,7 +242,7 @@
     "30": {
         "0xID": "1E",
         "Icon": "ui/icon/027000/027983.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u89e3\u5492",
         "Name_de": "\u00c4therogef\u00e4\u00df der Entzauberung",
         "Name_en": "Protomander of Purity",
         "Name_fr": "Magismobjet d'anti-mal\u00e9fice",
@@ -252,7 +252,7 @@
     "31": {
         "0xID": "1F",
         "Icon": "ui/icon/027000/027984.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u8fd0\u6c14\u4e0a\u5347",
         "Name_de": "\u00c4therogef\u00e4\u00df des Gl\u00fccks",
         "Name_en": "Protomander of Fortune",
         "Name_fr": "Magismobjet de chance",
@@ -262,7 +262,7 @@
     "32": {
         "0xID": "20",
         "Icon": "ui/icon/027000/027985.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u5f62\u6001\u53d8\u5316",
         "Name_de": "\u00c4therogef\u00e4\u00df der Wandlung",
         "Name_en": "Protomander of Witching",
         "Name_fr": "Magismobjet de mutation",
@@ -272,7 +272,7 @@
     "33": {
         "0xID": "21",
         "Icon": "ui/icon/027000/027986.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u9b54\u6cd5\u6548\u679c\u89e3\u9664",
         "Name_de": "\u00c4therogef\u00e4\u00df der Enthexung",
         "Name_en": "Protomander of Serenity",
         "Name_fr": "Magismobjet de dissipation",
@@ -282,7 +282,7 @@
     "34": {
         "0xID": "22",
         "Icon": "ui/icon/027000/027991.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u611f\u77e5\u5b9d\u85cf",
         "Name_de": "\u00c4therogef\u00e4\u00df des Finders",
         "Name_en": "Protomander of Intuition",
         "Name_fr": "Magismobjet d'intuition",
@@ -292,7 +292,7 @@
     "35": {
         "0xID": "23",
         "Icon": "ui/icon/027000/027989.png",
-        "Name_cn": "",
+        "Name_cn": "\u9b54\u79d1\u5b66\u5668\uff1a\u91cd\u751f",
         "Name_de": "\u00c4therogef\u00e4\u00df des Lebens",
         "Name_en": "Protomander of Raising",
         "Name_fr": "Magismobjet de r\u00e9surrection",

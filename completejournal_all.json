@@ -9712,7 +9712,7 @@
     "1872": {
         "0xID": "750",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u53bb\u5bfb\u627e\u68a6\u60f3\u5427\uff01",
         "Name_de": "Komras kaltes Herz",
         "Name_en": "It Takes a Village",
         "Name_fr": "Tous coupables?",
@@ -9722,7 +9722,7 @@
     "1873": {
         "0xID": "751",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u53d1\u660e\u5e05\u6c14\u7684\u673a\u5668\u5427\uff01",
         "Name_de": "Zart bl\u00fcht die Hoffnung",
         "Name_en": "Komra Wasn't Built in a Day",
         "Name_fr": "Projet d'avenir",
@@ -9732,7 +9732,7 @@
     "1874": {
         "0xID": "752",
         "Icon": "ui/icon/061000/061921.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u6765\u5c1d\u8bd5\u70f9\u996a\u5427\uff01",
         "Name_de": "Des einen Tand ...",
         "Name_en": "All That Grinds Is Not Gloom",
         "Name_fr": "Formes de vie recyclables",
@@ -9742,7 +9742,7 @@
     "1875": {
         "0xID": "753",
         "Icon": "ui/icon/061000/061921.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u7528\u60c5\u611f\u6765\u521b\u4f5c\u5427\uff01",
         "Name_de": "Meisterhafter Merkantilismus",
         "Name_en": "The Merchant of Komra",
         "Name_fr": "Bon d\u00e9barras",
@@ -9752,7 +9752,7 @@
     "1876": {
         "0xID": "754",
         "Icon": "ui/icon/061000/061921.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u5f00\u8bbe\u64ad\u97f3\u7535\u53f0\u5427\uff01",
         "Name_de": "Tapfere Taten und k\u00fchne K\u00e4mpfe",
         "Name_en": "How to Catch an Automaton",
         "Name_fr": "Chasse \u00e0 la grenouille",
@@ -9762,7 +9762,7 @@
     "1877": {
         "0xID": "755",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u68a6\u60f3\u6c38\u4e0d\u4f1a\u5b8c\u7ed3\uff01",
         "Name_de": "So bitters\u00fc\u00df wie Honigwein",
         "Name_en": "Whence the Heart Leads",
         "Name_fr": "Comme les deux doigts de la main",
@@ -9772,7 +9772,7 @@
     "1878": {
         "0xID": "756",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u8e66\u8e66\u8df3\u8df3\uff01\u5f00\u5f00\u5fc3\u5fc3\uff01",
         "Name_de": "Rubinrote Konfrontation",
         "Name_en": "Ruby Doomsday",
         "Name_fr": "Une bataille en rouge",
@@ -9782,7 +9782,7 @@
     "1879": {
         "0xID": "757",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u60f3\u5439\u54cd\u4e50\u5668\uff01",
         "Name_de": "Luftangriff auf Werlyt",
         "Name_en": "Sleep Now in Sapphire",
         "Name_fr": "Sur la mer de saphir",
@@ -9802,7 +9802,7 @@
     "1880": {
         "0xID": "758",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u53ee\u53ee\u5f53\u5f53\u79ef\u6512\u80e1\u841d\u535c\u5e01\uff01",
         "Name_de": "Blutsmaragd",
         "Name_en": "Blood of Emerald",
         "Name_fr": "\u00c0 la poursuite du joyau vert",
@@ -9812,7 +9812,7 @@
     "1881": {
         "0xID": "759",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u821e\u52a8\uff01\u8df3\u8dc3\uff01\u5154\u5154\u65cf\uff01",
         "Name_de": "Mahnmal der S\u00fchne",
         "Name_en": "In Memory",
         "Name_fr": "Memento Mori",
@@ -9822,7 +9822,7 @@
     "1882": {
         "0xID": "75A",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u5fd9\u5fd9\u788c\u788c\u5236\u4f5c\u7eaa\u5ff5\u54c1",
         "Name_de": "Glei\u00dfendes Leben",
         "Name_en": "Duty in the Sky with Diamond",
         "Name_fr": "Les diamants sont immuables",
@@ -9832,7 +9832,7 @@
     "1883": {
         "0xID": "75B",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u5728\u5b87\u5b99\u95ea\u8000\u53d1\u5149\u7684\u573a\u5730",
         "Name_de": "Leben f\u00fcr die Freiheit",
         "Name_en": "Forever at Your Side",
         "Name_fr": "Toujours pr\u00e8s de toi",
@@ -9842,7 +9842,7 @@
     "1884": {
         "0xID": "75C",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u60f3\u8981\u6325\u821e\u8d77\u5149\u8292",
         "Name_de": "Hinab ins Pand\u00e6monium",
         "Name_en": "The Crystal from Beyond",
         "Name_fr": "\u201cTous les d\u00e9mons\u201d",
@@ -9852,7 +9852,7 @@
     "1885": {
         "0xID": "75D",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u8fd9\u91cc\u662f\u6708\u7403\u97f3\u4e50\u60c5\u62a5\u5c40",
         "Name_de": "Die Tiefen der Tausend Teufel",
         "Name_en": "Where Familiars Dare",
         "Name_fr": "Aux portes du p\u00e9nitencier",
@@ -9862,7 +9862,7 @@
     "1886": {
         "0xID": "75E",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u6708\u9762\u6e05\u626b\u673a",
         "Name_de": "Ketten, K\u00e4fig und Kan\u00e4le",
         "Name_en": "Under the Surface",
         "Name_fr": "En eaux troubles",
@@ -9872,7 +9872,7 @@
     "1887": {
         "0xID": "75F",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u6c47\u805a\u8bb0\u5f55\u66f4\u591a\u7684\u58f0\u97f3",
         "Name_de": "Die Feuer von Asphodelos",
         "Name_en": "The Fires of Creation",
         "Name_fr": "Changement de d\u00e9cor",
@@ -9882,7 +9882,7 @@
     "1888": {
         "0xID": "760",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u9700\u8981\u6551\u52a9\u7684\u534f\u52a9\u673a",
         "Name_de": "Im Herzen des Hohen W\u00e4chters",
         "Name_en": "Who Wards the Warders?",
         "Name_fr": "L'ombre du grand ge\u00f4lier",
@@ -9892,7 +9892,7 @@
     "1889": {
         "0xID": "761",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u5b88\u75c5\u5a01\u7684\u5229\u5668",
         "Name_de": "Keine besonderen Vorkommnisse",
         "Name_en": "An Unwelcome Visitor",
         "Name_fr": "Retour \u00e0 la case prison",
@@ -9912,7 +9912,7 @@
     "1890": {
         "0xID": "762",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u62c5\u60ca\u53d7\u6015\uff1f\u6218\u6218\u5162\u5162\uff01",
         "Name_de": "Blick hinter die Maske",
         "Name_en": "Masks of the Father",
         "Name_fr": "Duplicit\u00e9 paternelle",
@@ -9922,7 +9922,7 @@
     "1891": {
         "0xID": "763",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u7f8e\u68a6\u52a0\u500d\uff01\u80e1\u841d\u535c\u7ffb\u500d\uff01",
         "Name_de": "Ein K\u00e4fig f\u00fcr die W\u00e4chterin",
         "Name_en": "A Keyward's Gaol",
         "Name_fr": "M\u00e9diation p\u00e8re-fils",
@@ -9932,7 +9932,7 @@
     "1892": {
         "0xID": "764",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u53a8\u884c\u5a01\u7684\u70f9\u996a\u5165\u95e8\u4e66",
         "Name_de": "Die letzte W\u00e4chterin",
         "Name_en": "Servant of Violence",
         "Name_fr": "Descente \u00e0 l'Enfer",
@@ -9942,7 +9942,7 @@
     "1893": {
         "0xID": "765",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u7528\u574f\u4e86\u7684\u87ba\u4e1d\u62e7\u62e7\u62e7",
         "Name_de": "Erichthonios' Wunsch",
         "Name_en": "One Final Wish",
         "Name_fr": "Un ennemi nomm\u00e9 d\u00e9sir",
@@ -9952,7 +9952,7 @@
     "1894": {
         "0xID": "766",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u96e8\u540e\u6625\u7b0b\u822c\u7684\u7f8e\u98df\u68a6\u60f3",
         "Name_de": "Sp\u00e4te Wahrheit",
         "Name_en": "Truth Imperfect",
         "Name_fr": "D'H\u00e9pha\u00efstos \u00e0 Lahabrea",
@@ -9962,7 +9962,7 @@
     "1895": {
         "0xID": "767",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u5e26\u53bb\u5e78\u798f\u7684\u7f8e\u98df",
         "Name_de": "Der Seelenfresser",
         "Name_en": "Eater of Souls",
         "Name_fr": "Le d\u00e9voreur d'\u00e2mes",
@@ -9972,7 +9972,7 @@
     "1896": {
         "0xID": "768",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u5403\u9971\u4e86\u624d\u6709\u529b\u6c14\u5b9e\u73b0\u68a6\u60f3",
         "Name_de": "Pand\u00e6monium erwacht",
         "Name_en": "Pand\u00e6monium Awakens",
         "Name_fr": "Un monstre appel\u00e9 Pand\u00e6monium",
@@ -9982,7 +9982,7 @@
     "1897": {
         "0xID": "769",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u5065\u8eab\u4e5f\u5feb\u4e50",
         "Name_de": "Die R\u00fcckkehr des F\u00fcrsprechers",
         "Name_en": "The Emissary's Judgment",
         "Name_fr": "Ennemi malgr\u00e9 lui",
@@ -9992,7 +9992,7 @@
     "1898": {
         "0xID": "76A",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u97f3\u4e50\u4ea6\u662f\u529b\u91cf\u7684\u6e90\u6cc9",
         "Name_de": "Ende der G\u00f6ttlichkeit",
         "Name_en": "A Mother's Touch",
         "Name_fr": "M\u00e8re et fils",
@@ -10002,7 +10002,7 @@
     "1899": {
         "0xID": "76B",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u6781\u5177\u5149\u6cfd\u7684\u6d82\u6599",
         "Name_de": "Heute, gestern, morgen",
         "Name_en": "Guided by the Past",
         "Name_fr": "R\u00e9trospections",
@@ -10032,7 +10032,7 @@
     "1900": {
         "0xID": "76C",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u4e0d\u53ef\u968f\u610f\u4e71\u6d82\u9e26",
         "Name_de": "Ein Fall f\u00fcr die Gelehrten",
         "Name_en": "A Mission in Mor Dhona",
         "Name_fr": "Le monde chim\u00e9rique",
@@ -10042,7 +10042,7 @@
     "1901": {
         "0xID": "76D",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u6025\u9700\u5f3a\u529b\u6d17\u6da4\u5242",
         "Name_de": "Im Reich der G\u00f6tter",
         "Name_en": "The Realm of the Gods",
         "Name_fr": "Divins d\u00e9m\u00eal\u00e9s",
@@ -10052,7 +10052,7 @@
     "1902": {
         "0xID": "76E",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u4e3a\u68a6\u60f3\u800c\u70e6\u607c",
         "Name_de": "Glaube und Wirklichkeit",
         "Name_en": "A Divine Dilemma",
         "Name_fr": "Le paradoxe du panth\u00e9on",
@@ -10062,7 +10062,7 @@
     "1903": {
         "0xID": "76F",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u7834\u574f\u5373\u662f\u827a\u672f\uff01",
         "Name_de": "Verst\u00e4rkung f\u00fcr die Gelehrten",
         "Name_en": "The Face of an Explorer",
         "Name_fr": "Explorateur Deryk",
@@ -10072,7 +10072,7 @@
     "1904": {
         "0xID": "770",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u65f6\u5c1a\u7684\u82d7\u5934",
         "Name_de": "R\u00fcckkehr ins Schemenreich",
         "Name_en": "Return to the Phantom Realm",
         "Name_fr": "Retour \u00e0 Omphalos",
@@ -10082,7 +10082,7 @@
     "1905": {
         "0xID": "771",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0be \u706b\u82b1\u5373\u662f\u827a\u672f\uff01",
         "Name_de": "In himmlischer Gesellschaft",
         "Name_en": "In Heavenly Company",
         "Name_fr": "Un voyage lapidaire",
@@ -17062,7 +17062,7 @@
     "2533": {
         "0xID": "9E5",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\u72ec\u521b\u7684\u641c\u67e5",
         "Name_de": "Ein Schmied bei dem's leicht piept",
         "Name_en": "Manderville Men",
         "Name_fr": "L'orf\u00e8vre le plus bal\u00e8ze d'\u00c9orz\u00e9a",
@@ -17072,7 +17072,7 @@
     "2534": {
         "0xID": "9E6",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\u5145\u6ee1\u6d3b\u529b\u7684\u7236\u5b50",
         "Name_de": "Duell der Eitelkeiten",
         "Name_en": "The Three Collectors",
         "Name_fr": "Un coup d'\u00e9p\u00e9e dans l'eau",
@@ -17102,7 +17102,7 @@
     "2537": {
         "0xID": "9E9",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0bf \u89c9\u9192\u5427\uff01\u6597\u4e89\u672c\u80fd\uff01",
         "Name_de": "Der Hase im Pfeffer",
         "Name_en": "Seeds of Rebellion",
         "Name_fr": "D\u00e9raciner et d\u00e9masquer",
@@ -17112,7 +17112,7 @@
     "2538": {
         "0xID": "9EA",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0bf \u4ee4\u4eba\u60ca\u5f02\u7684\u66fc\u5fb7\u7ef4\u5c14\u6b66\u5668",
         "Name_de": "Die Braut, die sich was traut",
         "Name_en": "A Case of Indecency",
         "Name_fr": "Un coup de collier",
@@ -18392,7 +18392,7 @@
     "2653": {
         "0xID": "A5D",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\u8d34\u8fd1\u5de5\u5320\u9700\u6c42\u7684\u65b0\u5de5\u5177",
         "Name_de": "Dein M\u00fcll, unsere Zukunft",
         "Name_en": "It Takes an Enclave",
         "Name_fr": "Un quartier \u00e0 reb\u00e2tir",
@@ -18402,7 +18402,7 @@
     "2654": {
         "0xID": "A5E",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0bf \u8bda\u4fe1\u4e3a\u672c\u7684\u6539\u826f\u8ba1\u5212",
         "Name_de": "Laternen f\u00fcr die Toten",
         "Name_en": "Lighting the Way",
         "Name_fr": "Les lumi\u00e8res de l'enclave",
@@ -18412,7 +18412,7 @@
     "2655": {
         "0xID": "A5F",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\ue0bf \u56de\u5e94\u601d\u60f3\u7684\u6539\u826f\u8ba1\u5212",
         "Name_de": "Dem Himmel entgegen",
         "Name_en": "Towards the Firmament",
         "Name_fr": "Un avenir couleur azur",
@@ -18482,7 +18482,7 @@
     "2661": {
         "0xID": "A65",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\u8c1c\u56e2\u7b3c\u7f69\u7684\u6b63\u7edf\u4f18\u96f7\u5361",
         "Name_de": "Verhandlungen in der W\u00fcste",
         "Name_en": "Dealings in the Desert",
         "Name_fr": "Voyage d'affaires \u00e0 Ul'dah",
@@ -18492,7 +18492,7 @@
     "2662": {
         "0xID": "A66",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\u5f3a\u6881\u9738\u9053\u7ec8\u8986\u706d",
         "Name_de": "Plaudern mit Piraten",
         "Name_en": "A Parley with Pirates",
         "Name_fr": "Voyage d'affaires \u00e0 Limsa Lominsa",
@@ -18502,7 +18502,7 @@
     "2663": {
         "0xID": "A67",
         "Icon": "ui/icon/061000/061419.png",
-        "Name_cn": "",
+        "Name_cn": "\u4f18\u96f7\u5361\u7684\u771f\u76f8",
         "Name_de": "Aufwind f\u00fcr das Federfall-Quartier",
         "Name_en": "May Featherfall Flourish",
         "Name_fr": "Un nouveau c\u0153ur pour Azur\u00e9e",
@@ -51342,7 +51342,7 @@
     "5619": {
         "0xID": "15F3",
         "Icon": "ui/icon/062000/062510.png",
-        "Name_cn": "\u91c7\u96c6\u786e\u8ba4\uff1a\u7fe0\u6cea\u62e9\u4f10\u5730\u7684\u95f4\u4f10",
+        "Name_cn": "\u91c7\u96c6\u786e\u8ba4\uff1a\u7fe0\u6cea\u62e9\u4f10\u533a\u7684\u95f4\u4f10",
         "Name_de": "Levitierender Sand",
         "Name_en": "What Goes Up",
         "Name_fr": "Collecte : du minerai des vents",
@@ -69922,7 +69922,7 @@
     "7291": {
         "0xID": "1C7B",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b1\uff5e10\u5c42",
         "Name_de": "G\u00f6tterd\u00e4mmerung - Tsukuyomi",
         "Name_en": "Castrum Fluminis",
         "Name_fr": "Castrum Fluminis",
@@ -69932,7 +69932,7 @@
     "7292": {
         "0xID": "1C7C",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b11\uff5e20\u5c42",
         "Name_de": "Duell auf der Kugane-Br\u00fccke",
         "Name_en": "Kugane Ohashi",
         "Name_fr": "le Pont Ohashi",
@@ -69942,7 +69942,7 @@
     "7293": {
         "0xID": "1C7D",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b21\uff5e30\u5c42",
         "Name_de": "Jagd auf Rathalos",
         "Name_en": "the Great Hunt",
         "Name_fr": "Chasse au Rathalos",
@@ -69952,7 +69952,7 @@
     "7294": {
         "0xID": "1C7E",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b31\uff5e40\u5c42",
         "Name_de": "Seelentanz - Byakko",
         "Name_en": "the Jade Stoa",
         "Name_fr": "la Clairi\u00e8re de Jade",
@@ -69962,7 +69962,7 @@
     "7295": {
         "0xID": "1C7F",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b41\uff5e50\u5c42",
         "Name_de": "Seelentanz - Suzaku",
         "Name_en": "Hells' Kier",
         "Name_fr": "le Nid des Lamentations",
@@ -69972,7 +69972,7 @@
     "7296": {
         "0xID": "1C80",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b51\uff5e60\u5c42",
         "Name_de": "Seelentanz - Seiryu",
         "Name_en": "the Wreath of Snakes",
         "Name_fr": "l'\u00celot des Amertumes",
@@ -69982,7 +69982,7 @@
     "7297": {
         "0xID": "1C81",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b61\uff5e70\u5c42",
         "Name_de": "Zenit der G\u00f6tter - Susano",
         "Name_en": "the Pool of Tribute (Extreme)",
         "Name_fr": "la Crique aux tributs (extr\u00eame)",
@@ -69992,7 +69992,7 @@
     "7298": {
         "0xID": "1C82",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b71\uff5e80\u5c42",
         "Name_de": "Zenit der G\u00f6tter - Lakshmi",
         "Name_en": "Emanation (Extreme)",
         "Name_fr": "\u00c9manation (extr\u00eame)",
@@ -70002,7 +70002,7 @@
     "7299": {
         "0xID": "1C83",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b81\uff5e90\u5c42",
         "Name_de": "Heldenlied von Shinryu",
         "Name_en": "the Minstrel's Ballad: Shinryu's Domain",
         "Name_fr": "Le domaine de Shinryu",
@@ -70032,7 +70032,7 @@
     "7300": {
         "0xID": "1C84",
         "Icon": "ui/icon/061000/061804.png",
-        "Name_cn": "",
+        "Name_cn": "\u6b63\u7edf\u4f18\u96f7\u5361 \u5730\u4e0b91\uff5e100\u5c42",
         "Name_de": "Zenit der G\u00f6tter - Tsukuyomi",
         "Name_en": "the Minstrel's Ballad: Tsukuyomi's Pain",
         "Name_fr": "Castrum Fluminis (extr\u00eame)",
@@ -71412,7 +71412,7 @@
     "774": {
         "0xID": "306",
         "Icon": "",
-        "Name_cn": "",
+        "Name_cn": "\u5145\u6ee1\u6d3b\u529b\u7684\u7236\u5b50",
         "Name_de": "Ein frostiger Empfang",
         "Name_en": "A Frosty Reception",
         "Name_fr": "Un accueil glacial",

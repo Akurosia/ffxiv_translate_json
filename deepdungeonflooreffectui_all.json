@@ -62,7 +62,7 @@
     "14": {
         "0xID": "E",
         "Icon": "ui/icon/016000/016814.png",
-        "Name_cn": "\u9b54\u6cd5\u52b9\u679c\uff1a\u30c7\u30df\u30af\u30ed\u30fc\u30f3\u7981\u6b62",
+        "Name_cn": "\u9b54\u6cd5\u6548\u679c\uff1a\u7981\u6b62\u4f7f\u7528\u4e9a\u7075\u590d\u5236\u4f53",
         "Name_de": "Ebeneneffekt: Demiklone blockiert",
         "Name_en": "Floor Effect: Demiclone Penalty",
         "Name_fr": "Aura : Semi-clones inutilisables",
