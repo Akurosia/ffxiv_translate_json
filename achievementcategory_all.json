@@ -1116,13 +1116,13 @@
         "AchievementKind_en": "Quests",
         "AchievementKind_fr": "Qu\u00eates",
         "AchievementKind_ja": "\u30af\u30a8\u30b9\u30c8",
-        "AchievementKind_ko": "",
+        "AchievementKind_ko": "8",
         "Name_cn": "\u4e3b\u7ebf\u4efb\u52a1",
         "Name_de": "Hauptszenario",
         "Name_en": "Main Scenario",
         "Name_fr": "\u00c9pop\u00e9e",
         "Name_ja": "\u30e1\u30a4\u30f3\u30af\u30a8\u30b9\u30c8",
-        "Name_ko": ""
+        "Name_ko": "\uc8fc\uc694 \ud018\uc2a4\ud2b8"
     },
     "77": {
         "0xID": "4D",
@@ -1131,13 +1131,13 @@
         "AchievementKind_en": "Quests",
         "AchievementKind_fr": "Qu\u00eates",
         "AchievementKind_ja": "\u30af\u30a8\u30b9\u30c8",
-        "AchievementKind_ko": "",
+        "AchievementKind_ko": "8",
         "Name_cn": "\u804c\u4e1a\u4efb\u52a1",
         "Name_de": "Job- und Rollenauftr\u00e4ge",
         "Name_en": "Job/Role Quests",
         "Name_fr": "Qu\u00eates de job/r\u00f4le",
         "Name_ja": "\u30b8\u30e7\u30d6\uff0f\u30ed\u30fc\u30eb\u30af\u30a8\u30b9\u30c8",
-        "Name_ko": ""
+        "Name_ko": "\uc7a1/\uc5ed\ud560 \ud018\uc2a4\ud2b8"
     },
     "78": {
         "0xID": "4E",
@@ -1146,7 +1146,7 @@
         "AchievementKind_en": "Items",
         "AchievementKind_fr": "Objets",
         "AchievementKind_ja": "\u30a2\u30a4\u30c6\u30e0",
-        "AchievementKind_ko": "",
+        "AchievementKind_ko": "0",
         "Name_cn": "",
         "Name_de": "Mowen-Werkzeuge",
         "Name_en": "Splendorous Tools",

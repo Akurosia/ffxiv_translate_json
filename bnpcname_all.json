@@ -3120,7 +3120,7 @@
         "Singular_en": "Galatea Magna",
         "Singular_fr": "Galatea Magna",
         "Singular_ja": "ガラテア・マグナ",
-        "Singular_ko": ""
+        "Singular_ko": "갈라테아 마그나"
     },
     "10309": {
         "0xID": "2845",
@@ -12984,7 +12984,7 @@
         "Singular_en": "ceremonial pillar",
         "Singular_fr": "pilier de glace",
         "Singular_ja": "魔氷柱",
-        "Singular_ko": ""
+        "Singular_ko": "마력 얼음기둥"
     },
     "11296": {
         "0xID": "2C20",
@@ -12993,7 +12993,7 @@
         "Singular_en": "ice sprite",
         "Singular_fr": "élémentaire de glace",
         "Singular_ja": "アイススプライト",
-        "Singular_ko": ""
+        "Singular_ko": "얼음 정령"
     },
     "11297": {
         "0xID": "2C21",
@@ -13002,7 +13002,7 @@
         "Singular_en": "hellsfire",
         "Singular_fr": "flamme spectrale",
         "Singular_ja": "妖炎",
-        "Singular_ko": ""
+        "Singular_ko": "요마불"
     },
     "11298": {
         "0xID": "2C22",
@@ -19878,7 +19878,7 @@
         "Singular_en": "wind-up philos",
         "Singular_fr": "ami miniature",
         "Singular_ja": "マメット・フィロス",
-        "Singular_ko": ""
+        "Singular_ko": "필로스 인형"
     },
     "11986": {
         "0xID": "2ED2",
@@ -19950,7 +19950,7 @@
         "Singular_en": "Albion",
         "Singular_fr": "Albion",
         "Singular_ja": "アルビオン",
-        "Singular_ko": ""
+        "Singular_ko": "알비온"
     },
     "11993": {
         "0xID": "2ED9",
@@ -19977,7 +19977,7 @@
         "Singular_en": "Cagnazzo",
         "Singular_fr": "Cagnazzo",
         "Singular_ja": "カイナッツォ",
-        "Singular_ko": ""
+        "Singular_ko": "카냐초"
     },
     "11996": {
         "0xID": "2EDC",
@@ -19986,7 +19986,7 @@
         "Singular_en": "fearsome flotsam",
         "Singular_fr": "pal de submersion",
         "Singular_ja": "水禍の楔",
-        "Singular_ko": ""
+        "Singular_ko": "수마의 쐐기"
     },
     "11997": {
         "0xID": "2EDD",
@@ -19995,7 +19995,7 @@
         "Singular_en": "gymnasiou leon",
         "Singular_fr": "gymnasiou léon",
         "Singular_ja": "ギュムナシオー・レオン",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 사자"
     },
     "11998": {
         "0xID": "2EDE",
@@ -20004,7 +20004,7 @@
         "Singular_en": "gymnasiou leon mikros",
         "Singular_fr": "gymnasiou léon mikros",
         "Singular_ja": "ギュムナシオー・レオンミクロス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 작은 사자"
     },
     "11999": {
         "0xID": "2EDF",
@@ -20013,7 +20013,7 @@
         "Singular_en": "gymnasiou tigris",
         "Singular_fr": "gymnasiou tigris",
         "Singular_ja": "ギュムナシオー・ティグリス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 호랑이"
     },
     "12": {
         "0xID": "C",
@@ -20049,7 +20049,7 @@
         "Singular_en": "gymnasiou tigris mikra",
         "Singular_fr": "gymnasiou tigris mikra",
         "Singular_ja": "ギュムナシオー・ティグリスミクラ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 작은 호랑이"
     },
     "12001": {
         "0xID": "2EE1",
@@ -20058,7 +20058,7 @@
         "Singular_en": "gymnasiou pithekos",
         "Singular_fr": "gymnasiou pithékos",
         "Singular_ja": "ギュムナシオー・ピテコス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 원숭이"
     },
     "12002": {
         "0xID": "2EE2",
@@ -20067,7 +20067,7 @@
         "Singular_en": "gymnasiou pithekos mikros",
         "Singular_fr": "gymnasiou pithékos mikros",
         "Singular_ja": "ギュムナシオー・ピテコスミクロス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 작은 원숭이"
     },
     "12003": {
         "0xID": "2EE3",
@@ -20076,7 +20076,7 @@
         "Singular_en": "gymnasiou satyros",
         "Singular_fr": "gymnasiou satyros",
         "Singular_ja": "ギュムナシオー・サテュロス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 사티로스"
     },
     "12004": {
         "0xID": "2EE4",
@@ -20085,7 +20085,7 @@
         "Singular_en": "gymnasiou elaphos",
         "Singular_fr": "gymnasiou élaphos",
         "Singular_ja": "ギュムナシオー・エラポス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 순록"
     },
     "12005": {
         "0xID": "2EE5",
@@ -20094,7 +20094,7 @@
         "Singular_en": "the storm's grip",
         "Singular_fr": "zone de tempête",
         "Singular_ja": "暴風域",
-        "Singular_ko": ""
+        "Singular_ko": "폭풍 영역"
     },
     "12006": {
         "0xID": "2EE6",
@@ -20103,7 +20103,7 @@
         "Singular_en": "gymnasiou triton",
         "Singular_fr": "gymnasiou triton",
         "Singular_ja": "ギュムナシオー・トリトン",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 트리톤"
     },
     "12007": {
         "0xID": "2EE7",
@@ -20112,7 +20112,7 @@
         "Singular_en": "gymnasiou echeneis",
         "Singular_fr": "gymnasiou echénéis",
         "Singular_ja": "ギュムナシオー・エケネイス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 에케네이스"
     },
     "12008": {
         "0xID": "2EE8",
@@ -20121,7 +20121,7 @@
         "Singular_en": "bubble",
         "Singular_fr": "bulle",
         "Singular_ja": "バブル",
-        "Singular_ko": ""
+        "Singular_ko": "거품"
     },
     "12009": {
         "0xID": "2EE9",
@@ -20130,7 +20130,7 @@
         "Singular_en": "gymnasiou megakantha",
         "Singular_fr": "gymnasiou mégakantha",
         "Singular_ja": "ギュムナシオー・メガアカンサ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 큰가시풀"
     },
     "1201": {
         "0xID": "4B1",
@@ -20148,7 +20148,7 @@
         "Singular_en": "gymnasiou akantha",
         "Singular_fr": "gymnasiou akantha",
         "Singular_ja": "ギュムナシオー・アカンサ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 가시풀"
     },
     "12011": {
         "0xID": "2EEB",
@@ -20157,7 +20157,7 @@
         "Singular_en": "gymnasiou sinapi",
         "Singular_fr": "gymnasiou sinapi",
         "Singular_ja": "ギュムナシオー・シナーピ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 겨자풀"
     },
     "12012": {
         "0xID": "2EEC",
@@ -20166,7 +20166,7 @@
         "Singular_en": "gymnasiou styphnolobion",
         "Singular_fr": "gymnasiou styphnolobion",
         "Singular_ja": "ギュムナシオー・スティファノロビュウム",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 회화나무"
     },
     "12013": {
         "0xID": "2EED",
@@ -20175,7 +20175,7 @@
         "Singular_en": "gymnasiou hippogryph",
         "Singular_fr": "gymnasiou hippogryph",
         "Singular_ja": "ギュムナシオー・ヒッポグリフ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 히포그리프"
     },
     "12014": {
         "0xID": "2EEE",
@@ -20184,7 +20184,7 @@
         "Singular_en": "gymnasiou meganereis",
         "Singular_fr": "gymnasiou méganéréis",
         "Singular_ja": "ギュムナシオー・メガネレイス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 거대 네레이스"
     },
     "12015": {
         "0xID": "2EEF",
@@ -20193,7 +20193,7 @@
         "Singular_en": "gymnasiou nereis",
         "Singular_fr": "gymnasiou néréis",
         "Singular_ja": "ギュムナシオー・ネレイス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 네레이스"
     },
     "12016": {
         "0xID": "2EF0",
@@ -20202,7 +20202,7 @@
         "Singular_en": "gymnasiou sphinx",
         "Singular_fr": "gymnasiou sphinx",
         "Singular_ja": "ギュムナシオー・スフィンクス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 스핑크스"
     },
     "12017": {
         "0xID": "2EF1",
@@ -20211,7 +20211,7 @@
         "Singular_en": "gymnasiou gryps",
         "Singular_fr": "gymnasiou gryps",
         "Singular_ja": "ギュムナシオー・グリュプス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 그륍스"
     },
     "12018": {
         "0xID": "2EF2",
@@ -20220,7 +20220,7 @@
         "Singular_en": "verdant plume",
         "Singular_fr": "plume vert foncé",
         "Singular_ja": "濃緑の羽根",
-        "Singular_ko": ""
+        "Singular_ko": "진녹색 깃털"
     },
     "12019": {
         "0xID": "2EF3",
@@ -20229,7 +20229,7 @@
         "Singular_en": "gymnasiou acheloios",
         "Singular_fr": "gymnasiou achéloios",
         "Singular_ja": "ギュムナシオー・アケローオス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 아켈로오스"
     },
     "1202": {
         "0xID": "4B2",
@@ -20247,7 +20247,7 @@
         "Singular_en": "gymnasiou souchos",
         "Singular_fr": "gymnasiou souchos",
         "Singular_ja": "ギュムナシオー・スクス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 악어"
     },
     "12021": {
         "0xID": "2EF5",
@@ -20256,7 +20256,7 @@
         "Singular_en": "lampas chrysine",
         "Singular_fr": "lampas chrysine",
         "Singular_ja": "クリュシネ・ランパス",
-        "Singular_ko": ""
+        "Singular_ko": "람파스 크뤼시네"
     },
     "12022": {
         "0xID": "2EF6",
@@ -20265,7 +20265,7 @@
         "Singular_en": "gymnasiou mandragoras",
         "Singular_fr": "gymnasiou mandragoras",
         "Singular_ja": "ギュムナシオー・マンドラゴラ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 만드라고라"
     },
     "12023": {
         "0xID": "2EF7",
@@ -20274,7 +20274,7 @@
         "Singular_en": "gymnasiou korrigan",
         "Singular_fr": "gymnasiou korrigan",
         "Singular_ja": "ギュムナシオー・コリガン",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 코리건"
     },
     "12024": {
         "0xID": "2EF8",
@@ -20283,7 +20283,7 @@
         "Singular_en": "lyssa chrysine",
         "Singular_fr": "lyssa chrysine",
         "Singular_ja": "クリュシネ・リッサ",
-        "Singular_ko": ""
+        "Singular_ko": "뤼사 크뤼시네"
     },
     "12025": {
         "0xID": "2EF9",
@@ -20292,7 +20292,7 @@
         "Singular_en": "ice pillar",
         "Singular_fr": "pilier de glace",
         "Singular_ja": "氷柱",
-        "Singular_ko": ""
+        "Singular_ko": "얼음기둥"
     },
     "12026": {
         "0xID": "2EFA",
@@ -20301,7 +20301,7 @@
         "Singular_en": "Phaethon",
         "Singular_fr": "Phaéton",
         "Singular_ja": "ファエトン",
-        "Singular_ko": ""
+        "Singular_ko": "파에톤"
     },
     "12027": {
         "0xID": "2EFB",
@@ -20310,7 +20310,7 @@
         "Singular_en": "phantasmal Phaethon",
         "Singular_fr": "spectre de Phaéton",
         "Singular_ja": "ファエトンの幻影",
-        "Singular_ko": ""
+        "Singular_ko": "파에톤의 환영"
     },
     "12028": {
         "0xID": "2EFC",
@@ -20319,7 +20319,7 @@
         "Singular_en": "ball of fire",
         "Singular_fr": "orbe de feu",
         "Singular_ja": "火球",
-        "Singular_ko": ""
+        "Singular_ko": "불덩이"
     },
     "12029": {
         "0xID": "2EFD",
@@ -20328,7 +20328,7 @@
         "Singular_en": "Narkissos",
         "Singular_fr": "Narcisse",
         "Singular_ja": "ナルキッソス",
-        "Singular_ko": ""
+        "Singular_ko": "나르키소스"
     },
     "1203": {
         "0xID": "4B3",
@@ -20346,7 +20346,7 @@
         "Singular_en": "Hippomenes",
         "Singular_fr": "Hippomène",
         "Singular_ja": "ヒッポメネス",
-        "Singular_ko": ""
+        "Singular_ko": "히포메네스"
     },
     "12031": {
         "0xID": "2EFF",
@@ -20355,7 +20355,7 @@
         "Singular_en": "ball of levin",
         "Singular_fr": "orbe de foudre",
         "Singular_ja": "雷球",
-        "Singular_ko": ""
+        "Singular_ko": "번개 구체"
     },
     "12032": {
         "0xID": "2F00",
@@ -20364,7 +20364,7 @@
         "Singular_en": "ephemeral observer",
         "Singular_fr": "observateur spectral",
         "Singular_ja": "観察者の幻体",
-        "Singular_ko": ""
+        "Singular_ko": "관찰자의 환영체"
     },
     "12033": {
         "0xID": "2F01",
@@ -20373,7 +20373,7 @@
         "Singular_en": "kalypso",
         "Singular_fr": "Calypso",
         "Singular_ja": "カリュプソー",
-        "Singular_ko": ""
+        "Singular_ko": "칼립소"
     },
     "12034": {
         "0xID": "2F02",
@@ -20382,7 +20382,7 @@
         "Singular_en": "gymnasiou lampas",
         "Singular_fr": "gymnasiou lampas",
         "Singular_ja": "ギュムナシオー・ランパス",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 람파스"
     },
     "12035": {
         "0xID": "2F03",
@@ -20391,7 +20391,7 @@
         "Singular_en": "gymnasiou lyssa",
         "Singular_fr": "gymnasiou lyssa",
         "Singular_ja": "ギュムナシオー・リッサ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 뤼사"
     },
     "12036": {
         "0xID": "2F04",
@@ -20400,7 +20400,7 @@
         "Singular_en": "gymnastic onion",
         "Singular_fr": "oignon du Gymnase",
         "Singular_ja": "ギュムナシオー・オニオン",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 양파"
     },
     "12037": {
         "0xID": "2F05",
@@ -20409,7 +20409,7 @@
         "Singular_en": "gymnastic eggplant",
         "Singular_fr": "aubergine du Gymnase",
         "Singular_ja": "ギュムナシオー・エッグ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 가지"
     },
     "12038": {
         "0xID": "2F06",
@@ -20418,7 +20418,7 @@
         "Singular_en": "gymnastic garlic",
         "Singular_fr": "ail du Gymnase",
         "Singular_ja": "ギュムナシオー・ガーリック",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 마늘"
     },
     "12039": {
         "0xID": "2F07",
@@ -20427,7 +20427,7 @@
         "Singular_en": "gymnastic tomato",
         "Singular_fr": "tomate du Gymnase",
         "Singular_ja": "ギュムナシオー・トマト",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 토마토"
     },
     "1204": {
         "0xID": "4B4",
@@ -20445,7 +20445,7 @@
         "Singular_en": "gymnastic queen",
         "Singular_fr": "reine du Gymnase",
         "Singular_ja": "ギュムナシオー・クイーン",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 여왕"
     },
     "12041": {
         "0xID": "2F09",
@@ -20454,7 +20454,7 @@
         "Singular_en": "lampas & lyssa",
         "Singular_fr": "groupe lampas & lyssa",
         "Singular_ja": "ギュムナシオー・ランパスとギュムナシオー・リッサ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 람파스와 김나시온 뤼사"
     },
     "12042": {
         "0xID": "2F0A",
@@ -20463,7 +20463,7 @@
         "Singular_en": "gymnasiou mandragorai",
         "Singular_fr": "groupe gymnasiou mandragorai",
         "Singular_ja": "ギュムナシオー・マンドラゴライ",
-        "Singular_ko": ""
+        "Singular_ko": "김나시온 만드라고라들"
     },
     "12043": {
         "0xID": "2F0B",
@@ -20571,7 +20571,7 @@
         "Singular_en": "Zero's avatar",
         "Singular_fr": "avatar de Zero",
         "Singular_ja": "ゼロの幻体",
-        "Singular_ko": ""
+        "Singular_ko": "제로의 환영체"
     },
     "12054": {
         "0xID": "2F16",
@@ -20580,7 +20580,7 @@
         "Singular_en": "Rubicante",
         "Singular_fr": "Rubicante",
         "Singular_ja": "ルビカンテ",
-        "Singular_ko": ""
+        "Singular_ko": "루비칸테"
     },
     "12055": {
         "0xID": "2F17",
@@ -20589,7 +20589,7 @@
         "Singular_en": "ardent wing",
         "Singular_fr": "aile de Rubicante",
         "Singular_ja": "ルビカンテの翼",
-        "Singular_ko": ""
+        "Singular_ko": "루비칸테의 날개"
     },
     "12056": {
         "0xID": "2F18",
@@ -20598,7 +20598,7 @@
         "Singular_en": "flamesent",
         "Singular_fr": "flamme démoniaque",
         "Singular_ja": "炎妖",
-        "Singular_ko": ""
+        "Singular_ko": "불꽃 요마"
     },
     "12057": {
         "0xID": "2F19",
@@ -20607,7 +20607,7 @@
         "Singular_en": "Rubicante mirage",
         "Singular_fr": "spectre de Rubicante",
         "Singular_ja": "ルビカンテの幻影",
-        "Singular_ko": ""
+        "Singular_ko": "루비칸테의 환영"
     },
     "12058": {
         "0xID": "2F1A",
@@ -20616,7 +20616,7 @@
         "Singular_en": "circle of purgatory",
         "Singular_fr": "cercle arcanique du Purgatoire",
         "Singular_ja": "煉獄魔陣",
-        "Singular_ko": ""
+        "Singular_ko": "연옥 마법진"
     },
     "12059": {
         "0xID": "2F1B",
@@ -20625,7 +20625,7 @@
         "Singular_en": "circle of purgatory",
         "Singular_fr": "cercle arcanique du Purgatoire",
         "Singular_ja": "煉獄魔陣",
-        "Singular_ko": ""
+        "Singular_ko": "연옥 마법진"
     },
     "1206": {
         "0xID": "4B6",
@@ -20643,7 +20643,7 @@
         "Singular_en": "wild beasts",
         "Singular_fr": "meute sauvage",
         "Singular_ja": "野獣の群れ",
-        "Singular_ko": ""
+        "Singular_ko": "산짐승 떼"
     },
     "12061": {
         "0xID": "2F1D",
@@ -20652,7 +20652,7 @@
         "Singular_en": "Nymeia",
         "Singular_fr": "Nymeia",
         "Singular_ja": "ニメーヤ",
-        "Singular_ko": ""
+        "Singular_ko": "니메이아"
     },
     "12062": {
         "0xID": "2F1E",
@@ -20661,7 +20661,7 @@
         "Singular_en": "Althyk",
         "Singular_fr": "Althyk",
         "Singular_ja": "アルジク",
-        "Singular_ko": ""
+        "Singular_ko": "알디크"
     },
     "12063": {
         "0xID": "2F1F",
@@ -20670,7 +20670,7 @@
         "Singular_en": "Menphina",
         "Singular_fr": "Menphina",
         "Singular_ja": "メネフィナ",
-        "Singular_ko": ""
+        "Singular_ko": "메느피나"
     },
     "12064": {
         "0xID": "2F20",
@@ -20679,7 +20679,7 @@
         "Singular_en": "Halone",
         "Singular_fr": "Halone",
         "Singular_ja": "ハルオーネ",
-        "Singular_ko": ""
+        "Singular_ko": "할로네"
     },
     "12065": {
         "0xID": "2F21",
@@ -20688,7 +20688,7 @@
         "Singular_en": "Nophica",
         "Singular_fr": "Nophica",
         "Singular_ja": "ノフィカ",
-        "Singular_ko": ""
+        "Singular_ko": "노피카"
     },
     "12066": {
         "0xID": "2F22",
@@ -20697,7 +20697,7 @@
         "Singular_en": "Furcas",
         "Singular_fr": "Furcas",
         "Singular_ja": "フルカス",
-        "Singular_ko": ""
+        "Singular_ko": "푸르카스"
     },
     "12067": {
         "0xID": "2F23",
@@ -20706,7 +20706,7 @@
         "Singular_en": "visitant voidskipper",
         "Singular_fr": "cisailleur visiteur",
         "Singular_ja": "ビジタント・スキッパー",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 파드닥파리"
     },
     "12068": {
         "0xID": "2F24",
@@ -20715,7 +20715,7 @@
         "Singular_en": "visitant hecteyes",
         "Singular_fr": "hectoculus visiteur",
         "Singular_ja": "ビジタント・ヘクトアイズ",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 백눈깔이"
     },
     "12069": {
         "0xID": "2F25",
@@ -20724,7 +20724,7 @@
         "Singular_en": "visitant persona",
         "Singular_fr": "persona visiteuse",
         "Singular_ja": "ビジタント・ペルソナ",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 페르소나"
     },
     "1207": {
         "0xID": "4B7",
@@ -20742,7 +20742,7 @@
         "Singular_en": "visitant dahak",
         "Singular_fr": "dahaka visiteur",
         "Singular_ja": "ビジタント・ダハーカ",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 다하카"
     },
     "12071": {
         "0xID": "2F27",
@@ -20751,7 +20751,7 @@
         "Singular_en": "Andromalius",
         "Singular_fr": "Andromalius",
         "Singular_ja": "アンドロマリウス",
-        "Singular_ko": ""
+        "Singular_ko": "안드로말리우스"
     },
     "12072": {
         "0xID": "2F28",
@@ -20760,7 +20760,7 @@
         "Singular_en": "visitant ogre",
         "Singular_fr": "ogre visiteur",
         "Singular_ja": "ビジタント・オーガ",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 오거"
     },
     "12073": {
         "0xID": "2F29",
@@ -20769,7 +20769,7 @@
         "Singular_en": "voidcrystal",
         "Singular_fr": "cristal du néant",
         "Singular_ja": "ヴォイドクリスタル",
-        "Singular_ko": ""
+        "Singular_ko": "보이드 크리스탈"
     },
     "12074": {
         "0xID": "2F2A",
@@ -20778,7 +20778,7 @@
         "Singular_en": "voidcluster",
         "Singular_fr": "agrégat du néant",
         "Singular_ja": "ヴォイドクラスター",
-        "Singular_ko": ""
+        "Singular_ko": "보이드 클러스터"
     },
     "12075": {
         "0xID": "2F2B",
@@ -20787,7 +20787,7 @@
         "Singular_en": "Alphinaud",
         "Singular_fr": "Alphinaud",
         "Singular_ja": "アルフィノ",
-        "Singular_ko": ""
+        "Singular_ko": "알피노"
     },
     "12076": {
         "0xID": "2F2C",
@@ -20796,7 +20796,7 @@
         "Singular_en": "Alisaie",
         "Singular_fr": "Alisaie",
         "Singular_ja": "アリゼー",
-        "Singular_ko": ""
+        "Singular_ko": "알리제"
     },
     "12077": {
         "0xID": "2F2D",
@@ -20805,7 +20805,7 @@
         "Singular_en": "Zero",
         "Singular_fr": "Zero",
         "Singular_ja": "ゼロ",
-        "Singular_ko": ""
+        "Singular_ko": "제로"
     },
     "12078": {
         "0xID": "2F2E",
@@ -20814,7 +20814,7 @@
         "Singular_en": "caladrius maturus",
         "Singular_fr": "caladrius maturus",
         "Singular_ja": "カラドリウス・マトゥルス",
-        "Singular_ko": ""
+        "Singular_ko": "성장한 칼라드리우스"
     },
     "12079": {
         "0xID": "2F2F",
@@ -20823,7 +20823,7 @@
         "Singular_en": "rock of Albus",
         "Singular_fr": "rocher vivant de l'Albus",
         "Singular_ja": "アルバス・リビングロック",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 살아있는 바위"
     },
     "1208": {
         "0xID": "4B8",
@@ -20841,7 +20841,7 @@
         "Singular_en": "Albus bear",
         "Singular_fr": "ours de l'Albus",
         "Singular_ja": "アルバス・ベアー",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 곰"
     },
     "12081": {
         "0xID": "2F31",
@@ -20850,7 +20850,7 @@
         "Singular_en": "caladrius",
         "Singular_fr": "caladrius",
         "Singular_ja": "カラドリウス",
-        "Singular_ko": ""
+        "Singular_ko": "칼라드리우스"
     },
     "12082": {
         "0xID": "2F32",
@@ -20859,7 +20859,7 @@
         "Singular_en": "Galatea Parva",
         "Singular_fr": "Galatea Parva",
         "Singular_ja": "ガラテア・パルヴァ",
-        "Singular_ko": ""
+        "Singular_ko": "갈라테아 파르바"
     },
     "12083": {
         "0xID": "2F33",
@@ -20868,7 +20868,7 @@
         "Singular_en": "visitant satana",
         "Singular_fr": "minisatana visiteur",
         "Singular_ja": "ビジタント・サタナジュニア",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 소악마"
     },
     "12084": {
         "0xID": "2F34",
@@ -20877,7 +20877,7 @@
         "Singular_en": "visitant monk",
         "Singular_fr": "moine visiteur",
         "Singular_ja": "ビジタント・モンク",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 문어"
     },
     "12085": {
         "0xID": "2F35",
@@ -20886,7 +20886,7 @@
         "Singular_en": "visitant vodoriga",
         "Singular_fr": "vodoriga visiteuse",
         "Singular_ja": "ビジタント・ヴォドリガ",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 보도리가"
     },
     "12086": {
         "0xID": "2F36",
@@ -20895,7 +20895,7 @@
         "Singular_en": "Albus craklaw",
         "Singular_fr": "craqulov de l'Albus",
         "Singular_ja": "アルバス・クラックロー",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 균열집게"
     },
     "12087": {
         "0xID": "2F37",
@@ -20904,7 +20904,7 @@
         "Singular_en": "Albus serpent",
         "Singular_fr": "serpent de l'Albus",
         "Singular_ja": "アルバス・サーペント",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 뱀"
     },
     "12088": {
         "0xID": "2F38",
@@ -20913,7 +20913,7 @@
         "Singular_en": "visitant bloodguard",
         "Singular_fr": "garde de sang de l'Albus",
         "Singular_ja": "ビジタント・ブラッドガード",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 피의 파수꾼"
     },
     "12089": {
         "0xID": "2F39",
@@ -20922,7 +20922,7 @@
         "Singular_en": "Albus cliffmole",
         "Singular_fr": "アルバス・クリフモール",
         "Singular_ja": "アルバス・クリフモール",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 절벽두더지"
     },
     "1209": {
         "0xID": "4B9",
@@ -20940,7 +20940,7 @@
         "Singular_en": "Albus doblyn",
         "Singular_fr": "アルバス・ドブラン",
         "Singular_ja": "アルバス・ドブラン",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 도브란"
     },
     "12091": {
         "0xID": "2F3B",
@@ -20949,7 +20949,7 @@
         "Singular_en": "Albus bat",
         "Singular_fr": "アルバス・バット",
         "Singular_ja": "アルバス・バット",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 박쥐"
     },
     "12092": {
         "0xID": "2F3C",
@@ -20958,7 +20958,7 @@
         "Singular_en": "visitant arch demon",
         "Singular_fr": "ビジタント・アークデーモン",
         "Singular_ja": "ビジタント・アークデーモン",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 아크데몬"
     },
     "12093": {
         "0xID": "2F3D",
@@ -20967,7 +20967,7 @@
         "Singular_en": "visitant parthenope",
         "Singular_fr": "ビジタント・コムサベラ",
         "Singular_ja": "ビジタント・コムサベラ",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 콤사벨라"
     },
     "12094": {
         "0xID": "2F3E",
@@ -20976,7 +20976,7 @@
         "Singular_en": "Albus canis lupinus",
         "Singular_fr": "canis lupinus de l'Albus",
         "Singular_ja": "アルバス・カニスルピナス",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 흰늑대"
     },
     "12095": {
         "0xID": "2F3F",
@@ -20985,7 +20985,7 @@
         "Singular_en": "visitant taurus",
         "Singular_fr": "taurus visiteur",
         "Singular_ja": "ビジタント・タウルス",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 타우루스"
     },
     "12096": {
         "0xID": "2F40",
@@ -20994,7 +20994,7 @@
         "Singular_en": "spirited engineer",
         "Singular_fr": "ingénieur jovial",
         "Singular_ja": "快活な技師",
-        "Singular_ko": ""
+        "Singular_ko": "쾌활한 기술자"
     },
     "12097": {
         "0xID": "2F41",
@@ -21003,7 +21003,7 @@
         "Singular_en": "suspect sylph",
         "Singular_fr": "Sylphe farceur",
         "Singular_ja": "いたずらシルフ",
-        "Singular_ko": ""
+        "Singular_ko": "장난꾸러기 실프"
     },
     "12098": {
         "0xID": "2F42",
@@ -21012,7 +21012,7 @@
         "Singular_en": "egg runner",
         "Singular_fr": "Livreur d'œufs",
         "Singular_ja": "エッグデリバラー",
-        "Singular_ko": ""
+        "Singular_ko": "알 운송인형"
     },
     "12099": {
         "0xID": "2F43",
@@ -21021,7 +21021,7 @@
         "Singular_en": "Hamlyn",
         "Singular_fr": "Hamlyn",
         "Singular_ja": "ハムリン",
-        "Singular_ko": ""
+        "Singular_ko": "함린"
     },
     "121": {
         "0xID": "79",
@@ -22398,7 +22398,7 @@
         "Singular_en": "House Fortemps knight",
         "Singular_fr": "chevalier des Fortemps",
         "Singular_ja": "フォルタン家の騎士",
-        "Singular_ko": ""
+        "Singular_ko": "포르탕 가 기사"
     },
     "12237": {
         "0xID": "2FCD",
@@ -22407,7 +22407,7 @@
         "Singular_en": "House Fortemps banneret",
         "Singular_fr": "lancier des Fortemps",
         "Singular_ja": "フォルタン家の槍騎兵",
-        "Singular_ko": ""
+        "Singular_ko": "포르탕 가 창기병"
     },
     "12238": {
         "0xID": "2FCE",
@@ -22416,7 +22416,7 @@
         "Singular_en": "House Fortemps archer",
         "Singular_fr": "archère des Fortemps",
         "Singular_ja": "フォルタン家の射手",
-        "Singular_ko": ""
+        "Singular_ko": "포르탕 가 궁수"
     },
     "12239": {
         "0xID": "2FCF",
@@ -22425,7 +22425,7 @@
         "Singular_en": "Temple chirurgeon",
         "Singular_fr": "chirurgienne ishgardaise",
         "Singular_ja": "神殿騎士団の治療師",
-        "Singular_ko": ""
+        "Singular_ko": "신전기사단 치료사"
     },
     "1224": {
         "0xID": "4C8",
@@ -22479,7 +22479,7 @@
         "Singular_en": "Althyk & Nymeia",
         "Singular_fr": "duo Althyk et Nymeia",
         "Singular_ja": "アルジク＆ニメーヤ",
-        "Singular_ko": ""
+        "Singular_ko": "알디크와 니메이아"
     },
     "12245": {
         "0xID": "2FD5",
@@ -22488,7 +22488,7 @@
         "Singular_en": "Albus griffin",
         "Singular_fr": "griffon de l'Albus",
         "Singular_ja": "アルバス・グリフィン",
-        "Singular_ko": ""
+        "Singular_ko": "알부스 그리핀"
     },
     "12246": {
         "0xID": "2FD6",
@@ -22542,7 +22542,7 @@
         "Singular_en": "euphrosynos behemoth",
         "Singular_fr": "béhémoth d'Euphrosyne",
         "Singular_ja": "エウプロシュネ・ベヒーモス",
-        "Singular_ko": ""
+        "Singular_ko": "에우프로시네 베히모스"
     },
     "12251": {
         "0xID": "2FDB",
@@ -22551,7 +22551,7 @@
         "Singular_en": "euphrosynos ktenos",
         "Singular_fr": "kténos d'Euphrosyne",
         "Singular_ja": "エウプロシュネ・クティノス",
-        "Singular_ko": ""
+        "Singular_ko": "에우프로시네 뿔짐승"
     },
     "12252": {
         "0xID": "2FDC",
@@ -22560,7 +22560,7 @@
         "Singular_en": "euphrosynos gigantoad",
         "Singular_fr": "crapaud géant d'Euphrosyne",
         "Singular_ja": "エウプロシュネ・ギガントード",
-        "Singular_ko": ""
+        "Singular_ko": "에우프로시네 왕두꺼비"
     },
     "12253": {
         "0xID": "2FDD",
@@ -22569,7 +22569,7 @@
         "Singular_en": "euphrosynos werewood",
         "Singular_fr": "arbre-garou d'Euphrosyne",
         "Singular_ja": "エウプロシュネ・ウェアウッド",
-        "Singular_ko": ""
+        "Singular_ko": "에우프로시네 나무인간"
     },
     "12254": {
         "0xID": "2FDE",
@@ -22578,7 +22578,7 @@
         "Singular_en": "euphrosynos dhruva",
         "Singular_fr": "dhruva d'Euphrosyne",
         "Singular_ja": "エウプロシュネ・ドルヴァ",
-        "Singular_ko": ""
+        "Singular_ko": "에우프로시네 드루바"
     },
     "12255": {
         "0xID": "2FDF",
@@ -22587,7 +22587,7 @@
         "Singular_en": "euphrosynos colossus",
         "Singular_fr": "colosse d'Euphrosyne",
         "Singular_ja": "エウプロシュネ・コロッサス",
-        "Singular_ko": ""
+        "Singular_ko": "에우프로시네 콜로서스"
     },
     "12256": {
         "0xID": "2FE0",
@@ -22794,7 +22794,7 @@
         "Singular_en": "visitant gnat",
         "Singular_fr": "taon visiteur",
         "Singular_ja": "ビジタント・ナット",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 각다귀"
     },
     "12277": {
         "0xID": "2FF5",
@@ -22803,7 +22803,7 @@
         "Singular_en": "visitant trapper",
         "Singular_fr": "trappeur visiteur",
         "Singular_ja": "ビジタント・トラッパー",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 올가미꾼"
     },
     "12278": {
         "0xID": "2FF6",
@@ -22812,7 +22812,7 @@
         "Singular_en": "clockwork yojimbo",
         "Singular_fr": "garde du corps mécanique",
         "Singular_ja": "からくり用心棒",
-        "Singular_ko": ""
+        "Singular_ko": "꼭두각시 경호원"
     },
     "12279": {
         "0xID": "2FF7",
@@ -22821,7 +22821,7 @@
         "Singular_en": "clockwork onmyoji",
         "Singular_fr": "prêtre onmyo mécanique",
         "Singular_ja": "からくり陰陽師",
-        "Singular_ko": ""
+        "Singular_ko": "꼭두각시 음양사"
     },
     "1228": {
         "0xID": "4CC",
@@ -22839,7 +22839,7 @@
         "Singular_en": "greater flamesent",
         "Singular_fr": "flamme démoniaque inexorable",
         "Singular_ja": "業炎妖",
-        "Singular_ko": ""
+        "Singular_ko": "업화의 요마"
     },
     "12281": {
         "0xID": "2FF9",
@@ -22848,7 +22848,7 @@
         "Singular_en": "corgi",
         "Singular_fr": "corgi",
         "Singular_ja": "コーギー",
-        "Singular_ko": ""
+        "Singular_ko": "코기"
     },
     "12282": {
         "0xID": "2FFA",
@@ -22857,7 +22857,7 @@
         "Singular_en": "sky blue back",
         "Singular_fr": "dronte échine-bleu ciel",
         "Singular_ja": "スカイブルーバック",
-        "Singular_ko": ""
+        "Singular_ko": "연파랑등새"
     },
     "12283": {
         "0xID": "2FFB",
@@ -22866,7 +22866,7 @@
         "Singular_en": "suzusaurus",
         "Singular_fr": "suzusaurus",
         "Singular_ja": "スズサウルス",
-        "Singular_ko": ""
+        "Singular_ko": "스즈사우루스"
     },
     "12284": {
         "0xID": "2FFC",
@@ -22875,7 +22875,7 @@
         "Singular_en": "Mama automaton",
         "Singular_fr": "automate Maman",
         "Singular_ja": "オートマトン・ママ",
-        "Singular_ko": ""
+        "Singular_ko": "자동인형 마마"
     },
     "12285": {
         "0xID": "2FFD",
@@ -22884,7 +22884,7 @@
         "Singular_en": "wind-up Cagnazzo",
         "Singular_fr": "Cagnazzo miniature",
         "Singular_ja": "マメット・カイナッツォ",
-        "Singular_ko": ""
+        "Singular_ko": "카냐초 인형"
     },
     "12286": {
         "0xID": "2FFE",
@@ -22911,7 +22911,7 @@
         "Singular_en": "wind-up Halone",
         "Singular_fr": "Halone miniature",
         "Singular_ja": "マメット・ハルオーネ",
-        "Singular_ko": ""
+        "Singular_ko": "할로네 인형"
     },
     "12289": {
         "0xID": "3001",
@@ -22920,7 +22920,7 @@
         "Singular_en": "bantam train",
         "Singular_fr": "train petit mais costaud",
         "Singular_ja": "豆列車",
-        "Singular_ko": ""
+        "Singular_ko": "꼬마열차"
     },
     "1229": {
         "0xID": "4CD",
@@ -22938,7 +22938,7 @@
         "Singular_en": "wind-up Godbert",
         "Singular_fr": "Godbert miniature",
         "Singular_ja": "マメット・ゴッドベルト",
-        "Singular_ko": ""
+        "Singular_ko": "고드베르트 인형"
     },
     "12291": {
         "0xID": "3003",
@@ -22947,7 +22947,7 @@
         "Singular_en": "wind-up Aidoneus",
         "Singular_fr": "Aidoneus miniature",
         "Singular_ja": "マメット・アイドネウス",
-        "Singular_ko": ""
+        "Singular_ko": "아이도네우스 인형"
     },
     "12292": {
         "0xID": "3004",
@@ -22956,7 +22956,7 @@
         "Singular_en": "frozen star",
         "Singular_fr": "globe de glace",
         "Singular_ja": "氷の魔力球",
-        "Singular_ko": ""
+        "Singular_ko": "빙결 마력 구체"
     },
     "12293": {
         "0xID": "3005",
@@ -22965,7 +22965,7 @@
         "Singular_en": "burning star",
         "Singular_fr": "globe de feu",
         "Singular_ja": "炎の魔力球",
-        "Singular_ko": ""
+        "Singular_ko": "화염 마력 구체"
     },
     "12294": {
         "0xID": "3006",
@@ -22974,7 +22974,7 @@
         "Singular_en": "arcane sphere",
         "Singular_fr": "sphère arcanique",
         "Singular_ja": "立体魔法陣",
-        "Singular_ko": ""
+        "Singular_ko": "입체마법진"
     },
     "12295": {
         "0xID": "3007",
@@ -22983,7 +22983,7 @@
         "Singular_en": "Lahabrea's shade",
         "Singular_fr": "spectre de Lahabrea",
         "Singular_ja": "ラハブレアの影",
-        "Singular_ko": ""
+        "Singular_ko": "라하브레아의 그림자"
     },
     "12296": {
         "0xID": "3008",
@@ -22992,7 +22992,7 @@
         "Singular_en": "Igeyorhm's shade",
         "Singular_fr": "spectre d'Igeyorhm",
         "Singular_ja": "イゲオルムの影",
-        "Singular_ko": ""
+        "Singular_ko": "이게요름의 그림자"
     },
     "12297": {
         "0xID": "3009",
@@ -23001,7 +23001,7 @@
         "Singular_en": "glacial spear",
         "Singular_fr": "lance de glace",
         "Singular_ja": "氷の数槍",
-        "Singular_ko": ""
+        "Singular_ko": "얼음창"
     },
     "12298": {
         "0xID": "300A",
@@ -23010,7 +23010,7 @@
         "Singular_en": "territorial yggdreant",
         "Singular_fr": "yggdriade territoriale",
         "Singular_ja": "テリトリアル・イグドリア",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 위그드리아"
     },
     "12299": {
         "0xID": "300B",
@@ -23019,7 +23019,7 @@
         "Singular_en": "territorial lykopersikon",
         "Singular_fr": "lycopersicum territorial",
         "Singular_ja": "テリトリアル・リコペルシクム",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 리코페르시콘"
     },
     "123": {
         "0xID": "7B",
@@ -23046,7 +23046,7 @@
         "Singular_en": "territorial harpuia",
         "Singular_fr": "harpyia territoriale",
         "Singular_ja": "テリトリアル・ハルピュイア",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 하르퓌아"
     },
     "12301": {
         "0xID": "300D",
@@ -23055,7 +23055,7 @@
         "Singular_en": "territorial medusa",
         "Singular_fr": "médusa territoriale",
         "Singular_ja": "テリトリアル・メデューサ",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 메두사"
     },
     "12302": {
         "0xID": "300E",
@@ -23064,7 +23064,7 @@
         "Singular_en": "territorial ophion",
         "Singular_fr": "ophion territorial",
         "Singular_ja": "テリトリアル・オピオン",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 오피온"
     },
     "12303": {
         "0xID": "300F",
@@ -23073,7 +23073,7 @@
         "Singular_en": "territorial bird of Elpis",
         "Singular_fr": "oiseau territorial",
         "Singular_ja": "テリトリアル・バード",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 엘피스 새"
     },
     "12304": {
         "0xID": "3010",
@@ -23082,7 +23082,7 @@
         "Singular_en": "territorial hippe",
         "Singular_fr": "hippe territoriale",
         "Singular_ja": "テリトリアル・ヒッペー",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 힙페"
     },
     "12305": {
         "0xID": "3011",
@@ -23091,7 +23091,7 @@
         "Singular_en": "territorial phanopsyche",
         "Singular_fr": "phanopsychée territoriale",
         "Singular_ja": "テリトリアル・ファノプシュケ",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 파노프시케"
     },
     "12306": {
         "0xID": "3012",
@@ -23100,7 +23100,7 @@
         "Singular_en": "territorial ophiotauros",
         "Singular_fr": "ophiotauros territorial",
         "Singular_ja": "テリトリアル・オピオタウロス",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 오피오타우로스"
     },
     "12307": {
         "0xID": "3013",
@@ -23109,7 +23109,7 @@
         "Singular_en": "territorial lotis",
         "Singular_fr": "lotis territoriale",
         "Singular_ja": "テリトリアル・ロティス",
-        "Singular_ko": ""
+        "Singular_ko": "땅주인 로티스"
     },
     "12308": {
         "0xID": "3014",
@@ -23118,7 +23118,7 @@
         "Singular_en": "visitant blackguard",
         "Singular_fr": "garde noir visiteur",
         "Singular_ja": "ビジタント・ブラックガード",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 검은 파수꾼"
     },
     "12309": {
         "0xID": "3015",
@@ -23127,7 +23127,7 @@
         "Singular_en": "visitant arch demon",
         "Singular_fr": "archidémon visiteur",
         "Singular_ja": "ビジタント・アークデーモン",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 아크데몬"
     },
     "1231": {
         "0xID": "4CF",
@@ -23145,7 +23145,7 @@
         "Singular_en": "visitant vodoriga",
         "Singular_fr": "vodoriga visiteuse",
         "Singular_ja": "ビジタント・ヴォドリガ",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 보도리가"
     },
     "12311": {
         "0xID": "3017",
@@ -23154,7 +23154,7 @@
         "Singular_en": "visitant taurus",
         "Singular_fr": "taurus visiteur",
         "Singular_ja": "ビジタント・タウルス",
-        "Singular_ko": ""
+        "Singular_ko": "방문자 타우루스"
     },
     "12312": {
         "0xID": "3018",
@@ -23163,7 +23163,7 @@
         "Singular_en": "Pero Roggo",
         "Singular_fr": "Pero Roggo",
         "Singular_ja": "ペロ・ロッゴ",
-        "Singular_ko": ""
+        "Singular_ko": "페로 록고"
     },
     "12313": {
         "0xID": "3019",
@@ -23172,7 +23172,7 @@
         "Singular_en": "griffin",
         "Singular_fr": "griffon",
         "Singular_ja": "グリフィン",
-        "Singular_ko": ""
+        "Singular_ko": "그리핀"
     },
     "12314": {
         "0xID": "301A",
@@ -23181,7 +23181,7 @@
         "Singular_en": "tiger of paradise",
         "Singular_fr": "tigre paradisiaque",
         "Singular_ja": "パライソタイガー",
-        "Singular_ko": ""
+        "Singular_ko": "낙원 호랑이"
     },
     "12315": {
         "0xID": "301B",
@@ -23190,7 +23190,7 @@
         "Singular_en": "morbol seedling",
         "Singular_fr": "bulbe de morbol",
         "Singular_ja": "モルボルバルブ",
-        "Singular_ko": ""
+        "Singular_ko": "몰볼 묘목"
     },
     "12316": {
         "0xID": "301C",
@@ -23208,7 +23208,7 @@
         "Singular_en": "trick floor",
         "Singular_fr": "tatami mécanique",
         "Singular_ja": "からくり畳",
-        "Singular_ko": ""
+        "Singular_ko": "꼭두각시 장판"
     },
     "12318": {
         "0xID": "301E",
@@ -95334,7 +95334,7 @@
         "Singular_en": "engendered lycopersicum",
         "Singular_fr": "lycopersicum artificiel",
         "Singular_ja": "エンジェンダード・リコペルシクム",
-        "Singular_ko": "창조된 리코페르시쿰"
+        "Singular_ko": "창조된 리코페르시콘"
     },
     "8281": {
         "0xID": "2059",
@@ -107061,7 +107061,7 @@
         "Singular_en": "verdant plume",
         "Singular_fr": "plume de sinople",
         "Singular_ja": "濃緑の羽根",
-        "Singular_ko": "진녹색 날개"
+        "Singular_ko": "진녹색 깃털"
     },
     "9454": {
         "0xID": "24EE",
@@ -107070,7 +107070,7 @@
         "Singular_en": "scarlet plume",
         "Singular_fr": "plume écarlate",
         "Singular_ja": "真紅の羽根",
-        "Singular_ko": "진홍색 날개"
+        "Singular_ko": "진홍색 깃털"
     },
     "9455": {
         "0xID": "24EF",

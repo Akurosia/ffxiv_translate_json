@@ -3254,7 +3254,7 @@
         "Description_en": "Regenerating HP over time.",
         "Description_fr": "Des PV sont récupérés périodiquement.",
         "Description_ja": "連続してＨＰが回復している状態。",
-        "Description_ko": "받는 피해량이 일부 감소하고, 공격 방향 조건이 있는 기술이 어떤 방향에서나 성공하는 상태.",
+        "Description_ko": "지속적으로 HP가 회복되는 상태.",
         "Icon": "ui/icon/012000/012531.png",
         "Name_cn": "金刚决意",
         "Name_de": "Steinerne Klarheit",
@@ -6486,14 +6486,14 @@
         "Description_en": "A holy barrier is nullifying damage.",
         "Description_fr": "Insensible à un certain montant de dégâts.",
         "Description_ja": "一定量のダメージを軽減する状態。",
-        "Description_ko": "",
+        "Description_ko": "받는 피해량이 일부 감소하는 상태.",
         "Icon": "ui/icon/012000/012509.png",
         "Name_cn": "圣光幕帘",
         "Name_de": "Heiliger Quell",
         "Name_en": "Divine Veil",
         "Name_fr": "Voile divin",
         "Name_ja": "ディヴァインヴェール",
-        "Name_ko": ""
+        "Name_ko": "신성한 보호막"
     },
     "1363": {
         "0xID": "553",
@@ -6582,7 +6582,7 @@
         "Description_en": "Potency of certain actions is increased and spells require no time to cast.",
         "Description_fr": "Les sorts sont instantanés et la puissance de certaines actions est augmentée.",
         "Description_ja": "魔法を詠唱時間無しで唱えることができ、一部のアクションの威力が上昇する状態。",
-        "Description_ko": "마법을 시전 시간 없이 시전할 수 있으며, 성령의 권능과 신성한 원의 위력이 증가한 상태.",
+        "Description_ko": "마법을 시전 시간 없이 시전할 수 있으며, 일부 기술의 위력이 증가한 상태.",
         "Icon": "ui/icon/018000/018345.png",
         "Name_cn": "安魂祈祷",
         "Name_de": "Requiescat",
@@ -15254,7 +15254,7 @@
         "Description_en": "Damage taken is reduced.",
         "Description_fr": "Les dégâts reçus sont réduits.",
         "Description_ja": "受けるダメージの一部が軽減される状態。",
-        "Description_ko": "공격을 받을 때 반드시 방패 막기가 발생하는 상태.",
+        "Description_ko": "받는 피해량이 감소하는 상태.",
         "Icon": "ui/icon/012000/012510.png",
         "Name_cn": "盾阵",
         "Name_de": "Schiltron",
@@ -19750,14 +19750,14 @@
         "Description_en": "Regenerating HP over time.",
         "Description_fr": "Des PV sont récupérés périodiquement.",
         "Description_ja": "連続してＨＰが回復している状態。",
-        "Description_ko": "",
+        "Description_ko": "지속적으로 HP가 회복되는 상태.",
         "Icon": "ui/icon/012000/012567.png",
         "Name_cn": "持续摆脱",
         "Name_de": "Abschütteln",
         "Name_en": "Shake It Off (Over Time)",
         "Name_fr": "Débarrassé",
         "Name_ja": "シェイクオフ[被]",
-        "Name_ko": ""
+        "Name_ko": "뿌리치기 대상"
     },
     "2109": {
         "0xID": "83D",
@@ -26790,7 +26790,7 @@
         "Description_en": "Shrunk to a fraction of your normal size. Movement speed and damage dealt is reduced while damage taken is increased.",
         "Description_fr": "Le nanisme réduit les dégâts infligés, la vitesse de déplacement, et augmente les dégâts subis.",
         "Description_ja": "小人に変身した状態。与ダメージと移動速度が低下し、被ダメージが増加する。",
-        "Description_ko": "몸집이 줄어든 상태.\n적에게 주는 피해량이 감소하고, 받는 피해량은 증가한다.",
+        "Description_ko": "몸집이 줄어든 상태.\n적에게 주는 피해량과 이동 속도가 감소하고, 받는 피해량은 증가한다.",
         "Icon": "ui/icon/015000/015581.png",
         "Name_cn": "缩小",
         "Name_de": "Wicht",
@@ -29782,14 +29782,14 @@
         "Description_en": "Next Holy Spirit or Holy Circle will deal increased damage and require no cast time.",
         "Description_fr": "Le prochain Esprit saint ou Cercle sacré peut être lancé instantanément avec une puissance augmentée.",
         "Description_ja": "次に実行するホーリースピリットとホーリーサークルの威力が上昇し、詠唱時間無しで唱えられる状態。",
-        "Description_ko": "",
+        "Description_ko": "다음에 사용하는 성령의 권능과 신성한 원의 위력이 증가하고, 시전 시간 없이 실행할 수 있는 상태.",
         "Icon": "ui/icon/012000/012521.png",
         "Name_cn": "神圣魔法效果提高",
         "Name_de": "Göttliche Gunst",
         "Name_en": "Divine Might",
         "Name_fr": "Grâce divine",
         "Name_ja": "神聖魔法効果アップ",
-        "Name_ko": ""
+        "Name_ko": "신성 마법 효과 향상"
     },
     "2674": {
         "0xID": "A72",
@@ -29798,7 +29798,7 @@
         "Description_en": "Damage taken is reduced.",
         "Description_fr": "Les dégâts reçus sont réduits.",
         "Description_ja": "受けるダメージの一部が軽減される状態。",
-        "Description_ko": "공격을 받을 때 반드시 방패 막기가 발생하는 상태.",
+        "Description_ko": "받는 피해량이 감소하는 상태.",
         "Icon": "ui/icon/012000/012515.png",
         "Name_cn": "圣盾阵",
         "Name_de": "Heiliges Schiltron",
@@ -30038,14 +30038,14 @@
         "Description_en": "<If(GreaterThanOrEqualTo(PlayerParameter(72),35))>Potency of single-target weaponskills is increased. Able to execute Heat Blast<If(Equal(PlayerParameter(68),31))><If(GreaterThanOrEqualTo(PlayerParameter(72),52))> and Auto Crossbow<Else/><Else/>Potency of single-target weaponskills is increased<Else/>Potency of single-target weaponskills is increased.",
         "Description_fr": "<If(GreaterThanOrEqualTo(PlayerParameter(72),35))>La puissance de certaines techniques d'armes est augmentée, Pyro-explosion<If(Equal(PlayerParameter(68),31))><If(GreaterThanOrEqualTo(PlayerParameter(72),52))> et Arbalète automatique peuvent être lancées<Else/> peut être lancée.<Else/>La puissance de certaines techniques d'armes est augmentée.<Else/>La puissance de certaines techniques d'armes est augmentée.",
         "Description_ja": "<If(GreaterThanOrEqualTo(PlayerParameter(72),35))>一部のウェポンスキルの威力が上昇し、ヒートブラスト<If(Equal(PlayerParameter(68),31))><If(GreaterThanOrEqualTo(PlayerParameter(72),52))>およびオートボウガン<Else/>を実行できる状態。<Else/>一部のウェポンスキルの威力が上昇する状態。<Else/>一部のウェポンスキルの威力が上昇する状態。",
-        "Description_ko": "용안창궁을 실행할 수 있는 상태.",
+        "Description_ko": "<If(GreaterThanOrEqualTo(PlayerParameter(72),35))>일부 무기 기술의 위력이 증가하고 과열<If(Equal(PlayerParameter(68),31))><If(GreaterThanOrEqualTo(PlayerParameter(72),52))> 및 자동 석궁<Else/>을 실행할 수 있는 상태.<Else/>일부 무기 기술의 위력이 증가하는 상태.<Else/>일부 무기 기술의 위력이 증가하는 상태.",
         "Icon": "ui/icon/018000/018385.png",
         "Name_cn": "过热",
         "Name_de": "Überhitzung",
         "Name_en": "Overheated",
         "Name_fr": "Surchauffe",
         "Name_ja": "オーバーヒート",
-        "Name_ko": "용안창궁 시전 가능"
+        "Name_ko": "과열"
     },
     "2689": {
         "0xID": "A81",
@@ -32605,7 +32605,7 @@
         "Name_en": "Shield of the Fury",
         "Name_fr": "Bouclier de la Conquérante",
         "Name_ja": "シールド・オブ・ハルオーネ",
-        "Name_ko": "할로네의 방패"
+        "Name_ko": "할로네의 보호"
     },
     "2832": {
         "0xID": "B10",
@@ -35942,14 +35942,14 @@
         "Description_en": "Able to execute Confiteor.",
         "Description_fr": "Confiteor peut être lancé.",
         "Description_ja": "コンフィテオルを実行できる状態。",
-        "Description_ko": "신의의 검을 실행할 수 있는 상태.",
+        "Description_ko": "고백 기도를 실행할 수 있는 상태.",
         "Icon": "ui/icon/012000/012520.png",
         "Name_cn": "悔罪预备",
         "Name_de": "Confiteor",
         "Name_en": "Confiteor Ready",
         "Name_fr": "Confiteor préparé",
         "Name_ja": "コンフィテオル実行可",
-        "Name_ko": "신의의 검 시전 가능"
+        "Name_ko": "고백 기도 시전 가능"
     },
     "302": {
         "0xID": "12E",
@@ -38166,7 +38166,7 @@
         "Description_en": "Weaponskill cast and recast times are reduced while increasing movement speed. Increasing damage dealt by self and nearby party members while also gradually filling the limit gauge.",
         "Description_fr": "Le temps de lancement et de recharge des techniques d'arme est réduit, et la vitesse de déplacement est augmentée. Les dégâts infligés par les équipiers alentour sont augmentés et la jauge de Transcendance augmente graduellement.",
         "Description_ja": "ウェポンスキルのキャストタイムとリキャストタイムが短縮され、移動速度が上昇した状態。さらに周囲のパーティメンバーの与ダメージを上昇させ、リミットゲージを徐々に増加させる。",
-        "Description_ko": "자신의 무기 기술 시전 시간과 재사용 대기 시간이 단축되고, 이동 속도가 향상된 상태.",
+        "Description_ko": "자신의 무기 기술 시전 시간과 재사용 대기 시간이 단축되고, 이동 속도가 향상된 상태. 또한 주위 파티원이 주는 피해량이 증가하고, 리미트 게이지가 서서히 축적된다.",
         "Icon": "ui/icon/014000/014914.png",
         "Name_cn": "英雄的幻想曲",
         "Name_de": "Fantasie des Helden",
@@ -41430,14 +41430,14 @@
         "Description_en": "A greater cursed tide will be upon you when this effect expires.",
         "Description_fr": "Subit un maléfice qui se déclenche à la fin de l'effet.",
         "Description_ja": "カイナッツォの呪いを受けた状態。効果時間終了時に呪いが発動する。",
-        "Description_ko": "",
+        "Description_ko": "카냐초의 저주에 걸린 상태. 지속시간이 끝나면 저주가 발동한다.",
         "Icon": "ui/icon/015000/015120.png",
         "Name_cn": "凶水大潮",
         "Name_de": "Fluch der Fluten: Springtide",
         "Name_en": "Spring Tide",
         "Name_fr": "Maléfice des vives-eaux",
         "Name_ja": "水禍の呪い：大潮",
-        "Name_ko": ""
+        "Name_ko": "수마의 저주: 큰물"
     },
     "3329": {
         "0xID": "D01",
@@ -41446,14 +41446,14 @@
         "Description_en": "A lesser cursed tide will be upon you when this effect expires.",
         "Description_fr": "Subit un maléfice qui se déclenche à la fin de l'effet.",
         "Description_ja": "カイナッツォの呪いを受けた状態。効果時間終了時に呪いが発動する。",
-        "Description_ko": "",
+        "Description_ko": "카냐초의 저주에 걸린 상태. 지속시간이 끝나면 저주가 발동한다.",
         "Icon": "ui/icon/015000/015121.png",
         "Name_cn": "凶水小潮",
         "Name_de": "Fluch der Fluten: Nipptide",
         "Name_en": "Neap Tide",
         "Name_fr": "Maléfice des mortes-eaux",
         "Name_ja": "水禍の呪い：小潮",
-        "Name_ko": ""
+        "Name_ko": "수마의 저주: 작은물"
     },
     "333": {
         "0xID": "14D",
@@ -42054,14 +42054,14 @@
         "Description_en": "Enthralled by an irresistible force and unable to act of your own volition.",
         "Description_fr": "Toute volonté est perdue, et les mouvements deviennent erratiques.",
         "Description_ja": "誘惑を受け心奪われ、勝手に動いてしまう状態。",
-        "Description_ko": "",
+        "Description_ko": "유혹에 마음을 빼앗겨 몸이 멋대로 움직이는 상태.",
         "Icon": "ui/icon/015000/015552.png",
         "Name_cn": "魅惑",
         "Name_de": "Versuchung",
         "Name_en": "Seduced",
         "Name_fr": "Séduction",
         "Name_ja": "誘惑",
-        "Name_ko": ""
+        "Name_ko": "유혹"
     },
     "3364": {
         "0xID": "D24",
@@ -42102,14 +42102,14 @@
         "Description_en": "Damage taken is increased.",
         "Description_fr": "Les dégâts reçus sont augmentés.",
         "Description_ja": "受けるダメージが増加する状態。",
-        "Description_ko": "",
+        "Description_ko": "받는 피해량이 증가하는 상태.",
         "Icon": "ui/icon/015000/015020.png",
         "Name_cn": "受伤加重",
         "Name_de": "Erhöhte Verwundbarkeit",
         "Name_en": "Vulnerability Up",
         "Name_fr": "Vulnérabilité augmentée",
         "Name_ja": "被ダメージ上昇",
-        "Name_ko": ""
+        "Name_ko": "받는 피해량 증가"
     },
     "3367": {
         "0xID": "D27",
@@ -42406,14 +42406,14 @@
         "Description_en": "Fated by the Spinner to emerge victorious when this effect expires.",
         "Description_fr": "Le destin est déterminé par le pouvoir divin de la Fileuse. La bataille est remportée à la fin de l'effet.",
         "Description_ja": "星神の神力により運命が定められた状態。効果時間が終了すると、戦いに勝利する。",
-        "Description_ko": "",
+        "Description_ko": "별의 신이 신력으로 운명을 결정지은 상태. 지속시간이 끝나면 싸움에서 승리한다.",
         "Icon": "ui/icon/015000/015152.png",
         "Name_cn": "胜利的命运",
         "Name_de": "Schicksal des Siegers",
         "Name_en": "Arcane Triumph",
         "Name_fr": "Destin victorieux",
         "Name_ja": "勝利の運命",
-        "Name_ko": ""
+        "Name_ko": "승리할 운명"
     },
     "3384": {
         "0xID": "D38",
@@ -42422,14 +42422,14 @@
         "Description_en": "Fated by the Spinner to emerge victorious when this effect expires.",
         "Description_fr": "Le destin est déterminé par le pouvoir divin de la Fileuse. La bataille est remportée à la fin de l'effet.",
         "Description_ja": "星神の神力により運命が定められた状態。効果時間が終了すると、戦いに勝利する。",
-        "Description_ko": "",
+        "Description_ko": "별의 신이 신력으로 운명을 결정지은 상태. 지속시간이 끝나면 싸움에서 승리한다.",
         "Icon": "ui/icon/015000/015152.png",
         "Name_cn": "胜利的命运",
         "Name_de": "Schicksal des Siegers",
         "Name_en": "Arcane Triumph",
         "Name_fr": "Destin victorieux",
         "Name_ja": "勝利の運命",
-        "Name_ko": ""
+        "Name_ko": "승리할 운명"
     },
     "3385": {
         "0xID": "D39",
@@ -42438,14 +42438,14 @@
         "Description_en": "Fated by the Spinner to be Seduced if gazing at Nymeia when this effect expires.",
         "Description_fr": "Le destin est déterminé par le pouvoir divin de la Fileuse. Provoque l'effet Séduction à la fin de l'effet si Nymeia est dans le champ de vision.",
         "Description_ja": "星神の神力により運命が定められた状態。効果時間終了時にニメーヤを見ていた場合、誘惑状態になる。",
-        "Description_ko": "",
+        "Description_ko": "별의 신이 신력으로 운명을 결정지은 상태. 지속시간이 끝날 때 니메이아를 보고 있으면 유혹 상태가 된다.",
         "Icon": "ui/icon/015000/015153.png",
         "Name_cn": "爱恋的命运",
         "Name_de": "Schicksal der Liebenden",
         "Name_en": "Arcane Attraction",
         "Name_fr": "Destin amoureux",
         "Name_ja": "恋慕の運命",
-        "Name_ko": ""
+        "Name_ko": "유혹될 운명"
     },
     "3386": {
         "0xID": "D3A",
@@ -42454,14 +42454,14 @@
         "Description_en": "Fated by the Spinner to be Seduced if looking away from Nymeia when this effect expires.",
         "Description_fr": "Le destin est déterminé par le pouvoir divin de la Fileuse. Provoque l'effet Séduction à la fin de l'effet si Nymeia n'est pas dans le champ de vision.",
         "Description_ja": "星神の神力により運命が定められた状態。効果時間終了時にニメーヤを見ていなかった場合、誘惑状態になる。",
-        "Description_ko": "",
+        "Description_ko": "별의 신이 신력으로 운명을 결정지은 상태. 지속시간이 끝날 때 니메이아를 보고 있지 않으면 유혹 상태가 된다.",
         "Icon": "ui/icon/015000/015154.png",
         "Name_cn": "爱恋的命运：逆位",
         "Name_de": "Schicksal der umgekehrten Liebenden",
         "Name_en": "Attraction Reversed",
         "Name_fr": "Destin amoureux opposé",
         "Name_ja": "恋慕の運命【逆位置】",
-        "Name_ko": ""
+        "Name_ko": "유혹될 운명[반전]"
     },
     "3387": {
         "0xID": "D3B",
@@ -42470,14 +42470,14 @@
         "Description_en": "Fated by the Spinner to become Pyretic when this effect expires.",
         "Description_fr": "Le destin est déterminé par le pouvoir divin de la Fileuse. Provoque l'effet Chaleur à la fin de l'effet.",
         "Description_ja": "星神の神力により運命が定められた状態。効果時間終了時にヒート状態になる。",
-        "Description_ko": "",
+        "Description_ko": "별의 신이 신력으로 운명을 결정지은 상태. 지속시간이 끝나면 열병 상태가 된다.",
         "Icon": "ui/icon/015000/015155.png",
         "Name_cn": "热火的命运",
         "Name_de": "Schicksal des Eifers",
         "Name_en": "Arcane Fever",
         "Name_fr": "Destin enflammé",
         "Name_ja": "熱火の運命",
-        "Name_ko": ""
+        "Name_ko": "타오를 운명"
     },
     "3388": {
         "0xID": "D3C",
@@ -42486,14 +42486,14 @@
         "Description_en": "Fated by the Spinner to begin Freezing Up when this effect expires, resulting in Deep Freeze if not continuously in motion.",
         "Description_fr": "Le destin est déterminé par le pouvoir divin de la Fileuse. Provoque l'effet Réfrigération à la fin de l'effet.",
         "Description_ja": "星神の神力により運命が定められた状態。効果時間終了時に冷却状態となり、移動し続けなければ氷結状態になる。",
-        "Description_ko": "",
+        "Description_ko": "별의 신이 신력으로 운명을 결정지은 상태. 지속시간이 끝나면 냉각 상태가 되고, 냉각 상태가 끝날 때까지 계속 움직이지 않으면 빙결 상태가 된다.",
         "Icon": "ui/icon/015000/015156.png",
         "Name_cn": "热火的命运：逆位",
         "Name_de": "Schicksal des umgekehrten Eifers",
         "Name_en": "Fever Reversed",
         "Name_fr": "Destin enflammé opposé",
         "Name_ja": "熱火の運命【逆位置】",
-        "Name_ko": ""
+        "Name_ko": "타오를 운명[반전]"
     },
     "3389": {
         "0xID": "D3D",
@@ -42502,14 +42502,14 @@
         "Description_en": "Combat capabilities increase when Althyk and Nymeia are nearby one another.",
         "Description_fr": "Si Althyk et Nymeia sont proches l'un de l'autre, leur potentiel combatif est augmenté.",
         "Description_ja": "アルジクとニメーヤの距離が近い場合、戦闘能力が向上する状態。",
-        "Description_ko": "",
+        "Description_ko": "알디크와 니메이아가 가까이 있으면 전투 능력이 향상되는 상태.",
         "Icon": "ui/icon/015000/015157.png",
         "Name_cn": "兄妹的牵绊",
         "Name_de": "Göttliche Geschwisterbande",
         "Name_en": "Sibling Revelry",
         "Name_fr": "Lien fraternel divin",
         "Name_ja": "兄妹神の絆",
-        "Name_ko": ""
+        "Name_ko": "남매신의 유대"
     },
     "339": {
         "0xID": "153",
@@ -43094,14 +43094,14 @@
         "Description_en": "Unable to execute actions.",
         "Description_fr": "Toute action est impossible.",
         "Description_ja": "行動できなくなった状態。",
-        "Description_ko": "",
+        "Description_ko": "행동이 불가능한 상태.",
         "Icon": "ui/icon/015000/015545.png",
         "Name_cn": "拘束",
         "Name_de": "Gefesselt",
         "Name_en": "Fetters",
         "Name_fr": "Attache",
         "Name_ja": "拘束",
-        "Name_ko": ""
+        "Name_ko": "구속"
     },
     "3422": {
         "0xID": "D5E",
@@ -43750,14 +43750,14 @@
         "Description_en": "Resistant to blueblossom aether.",
         "Description_fr": "L'effet des pétales d'azur est diminué.",
         "Description_ja": "青花の魔力に耐性を得た状態。",
-        "Description_ko": "",
+        "Description_ko": "푸른꽃의 마력에 저항력이 생긴 상태.",
         "Icon": "ui/icon/015000/015124.png",
         "Name_cn": "蓝花的加护",
         "Name_de": "Blaue Benediktion",
         "Name_en": "Blooming Blue",
         "Name_fr": "Bénédiction d'azur",
         "Name_ja": "青花の加護",
-        "Name_ko": ""
+        "Name_ko": "푸른꽃의 가호"
     },
     "346": {
         "0xID": "15A",
@@ -43782,14 +43782,14 @@
         "Description_en": "Resistant to goldblossom aether.",
         "Description_fr": "L'effet des pétales dorés est diminué.",
         "Description_ja": "黄花の魔力に耐性を得た状態。",
-        "Description_ko": "",
+        "Description_ko": "노란꽃의 마력에 저항력이 생긴 상태.",
         "Icon": "ui/icon/015000/015125.png",
         "Name_cn": "黄花的加护",
         "Name_de": "Gelbe Benediktion",
         "Name_en": "Blooming Gold",
         "Name_fr": "Bénédiction dorée",
         "Name_ja": "黄花の加護",
-        "Name_ko": ""
+        "Name_ko": "노란꽃의 가호"
     },
     "3461": {
         "0xID": "D85",
@@ -43814,14 +43814,14 @@
         "Description_en": "Toxins are causing damage over time.",
         "Description_fr": "Des dégâts périodiques de poison sont subis.",
         "Description_ja": "毒に冒された状態。ＨＰが徐々に失われる。",
-        "Description_ko": "",
+        "Description_ko": "독에 중독된 상태. HP가 서서히 줄어든다.",
         "Icon": "ui/icon/017000/017001.png",
         "Name_cn": "中毒",
         "Name_de": "Gift",
         "Name_en": "Poison",
         "Name_fr": "Poison",
         "Name_ja": "毒",
-        "Name_ko": ""
+        "Name_ko": "독"
     },
     "3463": {
         "0xID": "D87",
@@ -43830,14 +43830,14 @@
         "Description_en": "Deadened nerves are sometimes preventing the execution of actions.",
         "Description_fr": "Une paralysie empêche parfois d'effectuer des actions.",
         "Description_ja": "身体が痺れ、時々行動できなくなる状態。",
-        "Description_ko": "",
+        "Description_ko": "몸이 마비되어 잠깐씩 행동할 수 없는 상태.",
         "Icon": "ui/icon/015000/015006.png",
         "Name_cn": "麻痹",
         "Name_de": "Paralyse",
         "Name_en": "Paralysis",
         "Name_fr": "Paralysie",
         "Name_ja": "麻痺",
-        "Name_ko": ""
+        "Name_ko": "마비"
     },
     "3464": {
         "0xID": "D88",
@@ -43846,14 +43846,14 @@
         "Description_en": "Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay are increased.",
         "Description_fr": "La vitesse des attaques automatiques est réduite, et les temps de lancement et de recharge des sorts et des techniques d'arme sont allongés.",
         "Description_ja": "オートアタックの攻撃間隔と、ウェポンスキルおよび魔法のキャストタイムとリキャストタイムが延長された状態。",
-        "Description_ko": "",
+        "Description_ko": "자동 공격 주기, 무기 기술 및 마법 시전 시간과 재사용 대기 시간이 늘어난 상태.",
         "Icon": "ui/icon/015000/015009.png",
         "Name_cn": "减速",
         "Name_de": "Gemach",
         "Name_en": "Slow",
         "Name_fr": "Lenteur",
         "Name_ja": "スロウ",
-        "Name_ko": ""
+        "Name_ko": "둔화"
     },
     "3465": {
         "0xID": "D89",
@@ -43862,14 +43862,14 @@
         "Description_en": "Unable to execute actions.",
         "Description_fr": "Toute action est impossible.",
         "Description_ja": "行動できなくなった状態。",
-        "Description_ko": "",
+        "Description_ko": "행동이 불가능한 상태.",
         "Icon": "ui/icon/015000/015004.png",
         "Name_cn": "眩晕",
         "Name_de": "Betäubung",
         "Name_en": "Stun",
         "Name_fr": "Étourdissement",
         "Name_ja": "スタン",
-        "Name_ko": ""
+        "Name_ko": "기절"
     },
     "3466": {
         "0xID": "D8A",
@@ -43878,14 +43878,14 @@
         "Description_en": "Overwhelming drowsiness is preventing the execution of actions",
         "Description_fr": "Le sommeil empêche toute action.",
         "Description_ja": "眠りに落ち、行動できなくなった状態。",
-        "Description_ko": "",
+        "Description_ko": "잠에 빠져 행동이 불가능한 상태.",
         "Icon": "ui/icon/015000/015013.png",
         "Name_cn": "睡眠",
         "Name_de": "Schlaf",
         "Name_en": "Sleep",
         "Name_fr": "Sommeil",
         "Name_ja": "睡眠",
-        "Name_ko": ""
+        "Name_ko": "수면"
     },
     "3467": {
         "0xID": "D8B",
@@ -43894,14 +43894,14 @@
         "Description_en": "Overcome and quite unable to act.",
         "Description_fr": "Un envoûtement empêche toute action.",
         "Description_ja": "香光に惑わされ、行動不能になった状態。",
-        "Description_ko": "",
+        "Description_ko": "향기에 매혹되어 행동불능이 된 상태.",
         "Icon": "ui/icon/015000/015147.png",
         "Name_cn": "魅惑的香光",
         "Name_de": "Betört und Verlockt",
         "Name_en": "Vegetal Vapours",
         "Name_fr": "Encens lumineux",
         "Name_ja": "魅惑の香光",
-        "Name_ko": ""
+        "Name_ko": "매혹의 향기"
     },
     "3468": {
         "0xID": "D8C",
@@ -43910,14 +43910,14 @@
         "Description_en": "Hybrid blaster is crackling with charged energy.",
         "Description_fr": "Super électrochoc est prêt à être utilisé.",
         "Description_ja": "ハイブラスターをチャージした状態。",
-        "Description_ko": "",
+        "Description_ko": "하이 블래스터를 충전한 상태.",
         "Icon": "ui/icon/015000/015148.png",
         "Name_cn": "蓄电冲击：前",
         "Name_de": "Frontale Blaster-Ladung",
         "Name_en": "Frontal Blaster Charge",
         "Name_fr": "Charge d'électrochoc : avant",
         "Name_ja": "ブラスターチャージ：前",
-        "Name_ko": ""
+        "Name_ko": "블래스터 충전: 전"
     },
     "3469": {
         "0xID": "D8D",
@@ -43926,14 +43926,14 @@
         "Description_en": "Hybrid blaster is crackling with charged energy.",
         "Description_fr": "Super électrochoc est prêt à être utilisé.",
         "Description_ja": "ハイブラスターをチャージした状態。",
-        "Description_ko": "",
+        "Description_ko": "하이 블래스터를 충전한 상태.",
         "Icon": "ui/icon/015000/015149.png",
         "Name_cn": "蓄电冲击：后",
         "Name_de": "Hintere Blaster-Ladung",
         "Name_en": "Rear Blaster Charge",
         "Name_fr": "Charge d'électrochoc : arrière",
         "Name_ja": "ブラスターチャージ：後",
-        "Name_ko": ""
+        "Name_ko": "블래스터 충전: 후"
     },
     "347": {
         "0xID": "15B",
@@ -43958,14 +43958,14 @@
         "Description_en": "Hybrid blaster is crackling with charged energy.",
         "Description_fr": "Super électrochoc est prêt à être utilisé.",
         "Description_ja": "ハイブラスターをチャージした状態。",
-        "Description_ko": "",
+        "Description_ko": "하이 블래스터를 충전한 상태.",
         "Icon": "ui/icon/015000/015150.png",
         "Name_cn": "蓄电冲击：左",
         "Name_de": "Linke Blaster-Ladung",
         "Name_en": "Left Blaster Charge",
         "Name_fr": "Charge d'électrochoc : gauche",
         "Name_ja": "ブラスターチャージ：左",
-        "Name_ko": ""
+        "Name_ko": "블래스터 충전: 좌"
     },
     "3471": {
         "0xID": "D8F",
@@ -43974,14 +43974,14 @@
         "Description_en": "Hybrid blaster is crackling with charged energy.",
         "Description_fr": "Super électrochoc est prêt à être utilisé.",
         "Description_ja": "ハイブラスターをチャージした状態。",
-        "Description_ko": "",
+        "Description_ko": "하이 블래스터를 충전한 상태.",
         "Icon": "ui/icon/015000/015151.png",
         "Name_cn": "蓄电冲击：右",
         "Name_de": "Rechte Blaster-Ladung",
         "Name_en": "Right Blaster Charge",
         "Name_fr": "Charge d'électrochoc : droite",
         "Name_ja": "ブラスターチャージ：右",
-        "Name_ko": ""
+        "Name_ko": "블래스터 충전: 우"
     },
     "3472": {
         "0xID": "D90",
@@ -43990,14 +43990,14 @@
         "Description_en": "Movement speed is reduced.",
         "Description_fr": "La vitesse de déplacement est réduite.",
         "Description_ja": "移動速度が低下した状態。",
-        "Description_ko": "",
+        "Description_ko": "이동 속도가 느려진 상태.",
         "Icon": "ui/icon/015000/015002.png",
         "Name_cn": "加重",
         "Name_de": "Gewicht",
         "Name_en": "Heavy",
         "Name_fr": "Pesanteur",
         "Name_ja": "ヘヴィ",
-        "Name_ko": ""
+        "Name_ko": "과중력"
     },
     "3473": {
         "0xID": "D91",
@@ -44006,14 +44006,14 @@
         "Description_en": "Movement speed is reduced.",
         "Description_fr": "La vitesse de déplacement est réduite.",
         "Description_ja": "移動速度が低下した状態。",
-        "Description_ko": "",
+        "Description_ko": "이동 속도가 느려진 상태.",
         "Icon": "ui/icon/015000/015002.png",
         "Name_cn": "加重",
         "Name_de": "Gewicht",
         "Name_en": "Heavy",
         "Name_fr": "Pesanteur",
         "Name_ja": "ヘヴィ",
-        "Name_ko": ""
+        "Name_ko": "과중력"
     },
     "3474": {
         "0xID": "D92",
@@ -44038,14 +44038,14 @@
         "Description_en": "Humbled by Rubicante. Penitent's Shackles will be applied when this effect expires.",
         "Description_fr": "Subit la malédiction de Rubicante. Devient Étreinte enflammée à la fin de l'effet.",
         "Description_ja": "ルビカンテの呪いを受けた状態。効果終了時に、妖炎拘束状態となる。",
-        "Description_ko": "",
+        "Description_ko": "루비칸테의 저주에 걸린 상태. 효과가 끝날 때 요마불 구속 상태가 된다.",
         "Icon": "ui/icon/015000/015158.png",
         "Name_cn": "妖炎诅咒",
         "Name_de": "Des Büßers Fluch",
         "Name_en": "Penance",
         "Name_fr": "Malédiction des flammes spectrales",
         "Name_ja": "妖炎の呪い",
-        "Name_ko": ""
+        "Name_ko": "요마불의 저주"
     },
     "3476": {
         "0xID": "D94",
@@ -44054,14 +44054,14 @@
         "Description_en": "Fettered and unable to move.",
         "Description_fr": "Tout déplacement est impossible.",
         "Description_ja": "妖炎拘束が発動し、移動できない状態。",
-        "Description_ko": "",
+        "Description_ko": "요마불 구속이 발동하여 이동할 수 없는 상태.",
         "Icon": "ui/icon/015000/015159.png",
         "Name_cn": "妖炎拘束",
         "Name_de": "Des Büßers Kerker",
         "Name_en": "Penitent's Shackles",
         "Name_fr": "Étreinte enflammée",
         "Name_ja": "妖炎拘束",
-        "Name_ko": ""
+        "Name_ko": "요마불 구속"
     },
     "3477": {
         "0xID": "D95",
@@ -44070,14 +44070,14 @@
         "Description_en": "Humbled by Rubicante. Penitent's Shackles will be applied when this effect expires.",
         "Description_fr": "Subit la malédiction de Rubicante. Devient Étreinte enflammée à la fin de l'effet.",
         "Description_ja": "ルビカンテの呪いを受けた状態。効果終了時に、妖炎拘束状態となる。",
-        "Description_ko": "",
+        "Description_ko": "루비칸테의 저주에 걸린 상태. 효과가 끝날 때 요마불 구속 상태가 된다.",
         "Icon": "ui/icon/015000/015158.png",
         "Name_cn": "妖炎诅咒",
         "Name_de": "Des Büßers Fluch",
         "Name_en": "Penance",
         "Name_fr": "Malédiction des flammes spectrales",
         "Name_ja": "妖炎の呪い",
-        "Name_ko": ""
+        "Name_ko": "요마불의 저주"
     },
     "3478": {
         "0xID": "D96",
@@ -44182,14 +44182,14 @@
         "Description_en": "A scathing curse lingers on your skin, resulting in a radiating explosion when this effect expires.",
         "Description_fr": "Provoque une grosse explosion à la fin de l'effet.",
         "Description_ja": "ルビカンテの呪いを受けた状態。効果終了時に大爆発を起こす。",
-        "Description_ko": "",
+        "Description_ko": "루비칸테의 저주에 걸린 상태. 효과가 끝날 때 대폭발을 일으킨다.",
         "Icon": "ui/icon/015000/015165.png",
         "Name_cn": "大爆咒",
         "Name_de": "Loderndes Mal",
         "Name_en": "Blooming Welt",
         "Name_fr": "Grosse malédiction explosive",
         "Name_ja": "大爆呪",
-        "Name_ko": ""
+        "Name_ko": "대폭발 저주"
     },
     "3484": {
         "0xID": "D9C",
@@ -44198,14 +44198,14 @@
         "Description_en": "A scathing curse lingers on your skin, resulting in an intense explosion when this effect expires.",
         "Description_fr": "Provoque une explosion massive à la fin de l'effet.",
         "Description_ja": "ルビカンテの呪いを受けた状態。効果終了時に重爆発を起こす。",
-        "Description_ko": "",
+        "Description_ko": "루비칸테의 저주에 걸린 상태. 효과가 끝날 때 집중 폭발을 일으킨다.",
         "Icon": "ui/icon/015000/015166.png",
         "Name_cn": "重爆咒",
         "Name_de": "Zehrendes Mal",
         "Name_en": "Furious Welt",
         "Name_fr": "Malédiction explosive massive",
         "Name_ja": "重爆呪",
-        "Name_ko": ""
+        "Name_ko": "집중 폭발 저주"
     },
     "3485": {
         "0xID": "D9D",
@@ -44214,14 +44214,14 @@
         "Description_en": "A scathing curse lingers on your skin, resulting in an explosion when this effect expires.",
         "Description_fr": "Provoque une explosion à la fin de l'effet.",
         "Description_ja": "ルビカンテの呪いを受けた状態。効果終了時に爆発を起こす。",
-        "Description_ko": "",
+        "Description_ko": "루비칸테의 저주에 걸린 상태. 효과가 끝날 때 폭발을 일으킨다.",
         "Icon": "ui/icon/015000/015167.png",
         "Name_cn": "爆咒",
         "Name_de": "Flammenmal",
         "Name_en": "Stinging Welt",
         "Name_fr": "Malédiction explosive",
         "Name_ja": "爆呪",
-        "Name_ko": ""
+        "Name_ko": "폭발 저주"
     },
     "3486": {
         "0xID": "D9E",
@@ -44230,14 +44230,14 @@
         "Description_en": "Taking heavy damage from each blow of Flamespire Claw. Accumulating 5 stacks will result in a massive explosion.",
         "Description_fr": "D'importants dégâts sont subis à cause des griffes enflammées maudites. Une grosse explosion se produit si l'effet est accumulé 5 fois.",
         "Description_ja": "炎禍の武爪で大ダメージを受ける状態。5スタック付与されると大爆発を起こす。",
-        "Description_ko": "",
+        "Description_ko": "화마의 발톱으로 큰 피해를 받은 상태. 5단계 중첩되면 대폭발을 일으킨다.",
         "Icon": "ui/icon/019000/019564.png",
         "Name_cn": "炀火",
         "Name_de": "Flammendorn",
         "Name_en": "Flamespire",
         "Name_fr": "Flamme maudite",
         "Name_ja": "炎禍",
-        "Name_ko": ""
+        "Name_ko": "화마"
     },
     "3487": {
         "0xID": "D9F",
@@ -44246,14 +44246,14 @@
         "Description_en": "Taking heavy damage from each blow of Flamespire Claw. Accumulating 5 stacks will result in a massive explosion.",
         "Description_fr": "D'importants dégâts sont subis à cause des griffes enflammées maudites. Une grosse explosion se produit si l'effet est accumulé 5 fois.",
         "Description_ja": "炎禍の武爪で大ダメージを受ける状態。5スタック付与されると大爆発を起こす。",
-        "Description_ko": "",
+        "Description_ko": "화마의 발톱으로 큰 피해를 받은 상태. 5단계 중첩되면 대폭발을 일으킨다.",
         "Icon": "ui/icon/019000/019564.png",
         "Name_cn": "炀火",
         "Name_de": "Flammendorn",
         "Name_en": "Flamespire",
         "Name_fr": "Flamme maudite",
         "Name_ja": "炎禍",
-        "Name_ko": ""
+        "Name_ko": "화마"
     },
     "3488": {
         "0xID": "DA0",
@@ -44262,14 +44262,14 @@
         "Description_en": "Damage taken from the reaper who applied this effect is increased.",
         "Description_fr": "Les dégâts reçus du personnage ayant créé l'effet sont augmentés.",
         "Description_ja": "この効果を付与したキャラクターから受けるダメージが増加する状態。",
-        "Description_ko": "",
+        "Description_ko": "시전자에게 받는 피해량이 증가하는 상태.",
         "Icon": "ui/icon/016000/016412.png",
         "Name_cn": "ハーベストマーク",
         "Name_de": "Erntemal",
         "Name_en": "Mark of the Harvest",
         "Name_fr": "Marque de moisson",
         "Name_ja": "ハーベストマーク",
-        "Name_ko": ""
+        "Name_ko": "수확 각인"
     },
     "3489": {
         "0xID": "DA1",
@@ -44374,14 +44374,14 @@
         "Description_en": "Encroaching darkness is lowering accuracy.",
         "Description_fr": "Un voile d'obscurité diminue la précision.",
         "Description_ja": "闇に囚われ、命中率が低下した状態。",
-        "Description_ko": "",
+        "Description_ko": "어둠에 사로잡혀 명중률이 떨어진 상태.",
         "Icon": "ui/icon/015000/015012.png",
         "Name_cn": "失明",
         "Name_de": "Blind",
         "Name_en": "Blind",
         "Name_fr": "Cécité",
         "Name_ja": "暗闇",
-        "Name_ko": ""
+        "Name_ko": "실명"
     },
     "3495": {
         "0xID": "DA7",
@@ -44518,14 +44518,14 @@
         "Description_en": "Unable to move or execute actions.",
         "Description_fr": "Impossible d'utiliser des actions ou de se déplacer.",
         "Description_ja": "ノックダウンした状態。移動およびアクション実行不可。",
-        "Description_ko": "",
+        "Description_ko": "넉다운된 상태. 이동하거나 기술을 실행할 수 없다.",
         "Icon": "ui/icon/015000/015044.png",
         "Name_cn": "击倒",
         "Name_de": "Am Boden",
         "Name_en": "Down for the Count",
         "Name_fr": "Au tapis",
         "Name_ja": "ノックダウン",
-        "Name_ko": ""
+        "Name_ko": "넉다운"
     },
     "3502": {
         "0xID": "DAE",
@@ -44582,14 +44582,14 @@
         "Description_en": "Fiery bonds are forming, resulting in enchainment to another player when this effect expires.",
         "Description_fr": "Une chaîne de flammes relie à autrui lorsque la durée de l'effet s'est écoulée.",
         "Description_ja": "炎鎖の呪いを受けた状態。効果終了時に他者と炎の鎖で繋がれてしまう。",
-        "Description_ko": "",
+        "Description_ko": "화염사슬 저주에 걸린 상태. 효과가 끝날 때 다른 플레이어와 화염 사슬로 연결된다.",
         "Icon": "ui/icon/015000/015170.png",
         "Name_cn": "炎链之咒",
         "Name_de": "Fluch der Flammenkette",
         "Name_en": "Burning Chains",
         "Name_fr": "Malédiction des flammes enchaînées",
         "Name_ja": "炎鎖の呪い",
-        "Name_ko": ""
+        "Name_ko": "화염사슬 저주"
     },
     "3506": {
         "0xID": "DB2",
@@ -44598,14 +44598,14 @@
         "Description_en": "Enveloped by ice magicks, which will impart the chill of Ancient Frost when this effect expires.",
         "Description_fr": "L'énergie de glace enveloppe le corps. L'action Givre ancien est utilisée à la fin de cet effet.",
         "Description_ja": "氷の魔力を帯びた状態。効果終了時にエンシェントフロストが発動する。",
-        "Description_ko": "",
+        "Description_ko": "빙결 마력을 띤 상태. 효과가 끝날 때 고대의 서리가 발동된다.",
         "Icon": "ui/icon/015000/015168.png",
         "Name_cn": "古代寒霜",
         "Name_de": "Antiker Frost",
         "Name_en": "Ancient Frost",
         "Name_fr": "Givre ancien",
         "Name_ja": "エンシェントフロスト",
-        "Name_ko": ""
+        "Name_ko": "고대의 서리"
     },
     "3507": {
         "0xID": "DB3",
@@ -44694,14 +44694,14 @@
         "Description_en": "Become another of Galatea's puppets. When this effect expires, body will be possessed and unleash a petrifying attack in all directions.",
         "Description_fr": "Un maléfice a été reçu, qui provoquera la pétrification de tout le monde à la fin de l'effet.",
         "Description_ja": "ガラテアの呪いを受けた状態。効果終了時に身体を乗っ取られ、全体範囲に対して他者を石化状態にするアクションを放ってしまう。",
-        "Description_ko": "",
+        "Description_ko": "갈라테아의 저주에 걸린 상태. 효과가 끝날 때 전체 범위 안의 대상을 석화시킨다.",
         "Icon": "ui/icon/015000/015986.png",
         "Name_cn": "人偶石眼",
         "Name_de": "Steinauge der Lebenden",
         "Name_en": "Glassy-eyed",
         "Name_fr": "Œil pétrifiant de marionnette",
         "Name_ja": "人形の石眼",
-        "Name_ko": ""
+        "Name_ko": "인형의 석화 저주"
     },
     "3512": {
         "0xID": "DB8",
@@ -44710,14 +44710,14 @@
         "Description_en": "Movement speed is increased due to inhalation of moonspores.",
         "Description_fr": "Aspiration de sporelunes. La vitesse de déplacement est augmentée.",
         "Description_ja": "ムーンスポアを吸い、移動速度が上昇した状態。",
-        "Description_ko": "",
+        "Description_ko": "달빛홀씨를 들이마셔 이동 속도가 향상된 상태.",
         "Icon": "ui/icon/015000/015169.png",
         "Name_cn": "月芽孢子",
         "Name_de": "Mondspore",
         "Name_en": "Moonspore Spurred",
         "Name_fr": "Sporelunes",
         "Name_ja": "ムーンスポア",
-        "Name_ko": ""
+        "Name_ko": "달빛홀씨"
     },
     "3513": {
         "0xID": "DB9",
@@ -44726,14 +44726,14 @@
         "Description_en": "Suffering severe head trauma. Unable to act and taking increased damage.",
         "Description_fr": "Impossible d'agir du fait d'une commotion cérébrale. Les dégâts subis sont augmentés.",
         "Description_ja": "脳しんとうを起こし、行動不能になった状態。被ダメージが増加する。",
-        "Description_ko": "",
+        "Description_ko": "뇌진탕으로 행동불능이 된 상태. 받는 피해량이 증가한다.",
         "Icon": "ui/icon/015000/015712.png",
         "Name_cn": "脑震荡",
         "Name_de": "Schädel-Hirn-Trauma",
         "Name_en": "Concussion",
         "Name_fr": "Commotion cérébrale",
         "Name_ja": "脳しんとう",
-        "Name_ko": ""
+        "Name_ko": "뇌진탕"
     },
     "3514": {
         "0xID": "DBA",
@@ -44806,14 +44806,14 @@
         "Description_en": "Shrunk to a fraction of your normal size. Damage dealt and movement speed are reduced, while damage taken is increased.",
         "Description_fr": "Le nanisme réduit les dégâts infligés ainsi que la vitesse de déplacement et augmente les dégâts subis.",
         "Description_ja": "小人に変身した状態。与ダメージと移動速度が低下し、被ダメージが増加する。",
-        "Description_ko": "",
+        "Description_ko": "몸집이 줄어든 상태.\n적에게 주는 피해량과 이동 속도가 감소하고, 받는 피해량은 증가한다.",
         "Icon": "ui/icon/015000/015581.png",
         "Name_cn": "缩小",
         "Name_de": "Wicht",
         "Name_en": "Mini",
         "Name_fr": "Mini",
         "Name_ja": "ミニマム",
-        "Name_ko": ""
+        "Name_ko": "미니멈"
     },
     "3519": {
         "0xID": "DBF",
@@ -44822,14 +44822,14 @@
         "Description_en": "Your body is encased in ice, preventing action and dealing damage over time.",
         "Description_fr": "Le corps est entièrement gelé. Des dégâts périodiques de glace sont subis.",
         "Description_ja": "身体が凍り付き、行動できなくなった状態。ＨＰが徐々に失われる。",
-        "Description_ko": "",
+        "Description_ko": "몸이 얼어붙어 행동이 불가능하고, HP가 서서히 줄어드는 상태.",
         "Icon": "ui/icon/015000/015637.png",
         "Name_cn": "冻结",
         "Name_de": "Tiefkühlung",
         "Name_en": "Deep Freeze",
         "Name_fr": "Congélation",
         "Name_ja": "氷結",
-        "Name_ko": ""
+        "Name_ko": "빙결"
     },
     "352": {
         "0xID": "160",
@@ -44870,14 +44870,14 @@
         "Description_en": "Wounds dealt by a blunt weapon are causing damage over time.",
         "Description_fr": "Une blessure infligée par une arme contondante saigne, et des dégâts périodiques sont subis.",
         "Description_ja": "打属性ダメージにより、ＨＰが徐々に失われる状態。",
-        "Description_ko": "",
+        "Description_ko": "타격속성 피해로 HP가 서서히 줄어드는 상태.",
         "Icon": "ui/icon/015000/015523.png",
         "Name_cn": "打伤",
         "Name_de": "Prellung",
         "Name_en": "Concussion",
         "Name_fr": "Concussion",
         "Name_ja": "打撲傷",
-        "Name_ko": ""
+        "Name_ko": "타박상"
     },
     "3522": {
         "0xID": "DC2",
@@ -44886,14 +44886,14 @@
         "Description_en": "Fire-aspected damage is taken with every action.",
         "Description_fr": "Des dégâts de feu sont subis après chaque action.",
         "Description_ja": "身体が極度に熱せられた状態。何か行動をすると火属性ダメージを受ける。",
-        "Description_ko": "",
+        "Description_ko": "몸이 극도로 뜨거워진 상태. 행동을 할 때마다 불속성 피해를 받는다.",
         "Icon": "ui/icon/015000/015647.png",
         "Name_cn": "热病",
         "Name_de": "Pyretisch",
         "Name_en": "Pyretic",
         "Name_fr": "Chaleur",
         "Name_ja": "ヒート",
-        "Name_ko": ""
+        "Name_ko": "열병"
     },
     "3523": {
         "0xID": "DC3",
@@ -44902,14 +44902,14 @@
         "Description_en": "Growing colder by the moment. Failure to continue moving until this effect expires will result in Deep Freeze.",
         "Description_fr": "Le corps est refroidi. Si la victime ne se déplace pas constamment avant la fin de l'effet, elle subit Congélation.",
         "Description_ja": "冷却している状態。効果終了まで移動し続けなければ、氷結状態になる。",
-        "Description_ko": "",
+        "Description_ko": "냉각되고 있는 상태. 효과가 끝날 때까지 계속 움직이지 않으면 빙결 상태가 된다.",
         "Icon": "ui/icon/015000/015355.png",
         "Name_cn": "冷却",
         "Name_de": "Kühlung",
         "Name_en": "Freezing Up",
         "Name_fr": "Réfrigération",
         "Name_ja": "冷却",
-        "Name_ko": ""
+        "Name_ko": "냉각"
     },
     "3524": {
         "0xID": "DC4",
@@ -45094,14 +45094,14 @@
         "Description_en": "Fell darkness spreads out from where you stand. The Ancient Circle will activate when this effect expires.",
         "Description_fr": "L'énergie des Ténèbres enveloppe le corps. L'action Cercle ancien est utilisée à la fin de cet effet.",
         "Description_ja": "闇の魔力を帯びた状態。効果終了時にエンシェントリングが発動する。",
-        "Description_ko": "",
+        "Description_ko": "어둠의 마력을 띤 상태. 지속시간이 끝나면 고대의 고리가 발동한다.",
         "Icon": "ui/icon/015000/015770.png",
         "Name_cn": "古代圆环",
         "Name_de": "Orbis Antiquus",
         "Name_en": "Ancient Circle",
         "Name_fr": "Cercle ancien",
         "Name_ja": "エンシェントリング",
-        "Name_ko": ""
+        "Name_ko": "고대의 고리"
     },
     "3535": {
         "0xID": "DCF",
@@ -45110,14 +45110,14 @@
         "Description_en": "Cursed by tongues of stygian flame, which will unleash a dark attack when this effect expires.",
         "Description_fr": "Une attaque de Ténèbres est lancée lorsque la durée de l'effet s'est écoulée.",
         "Description_ja": "闇火の呪いを受けた状態。効果終了時に闇属性攻撃を発する。",
-        "Description_ko": "",
+        "Description_ko": "어둠불 저주에 걸린 상태. 효과가 끝날 때 어둠속성 공격을 실행한다.",
         "Icon": "ui/icon/015000/015305.png",
         "Name_cn": "暗火之咒",
         "Name_de": "Fluch der Finsterflamme",
         "Name_en": "Dark Whispers",
         "Name_fr": "Malédiction du feu ténébreux",
         "Name_ja": "闇火の呪い",
-        "Name_ko": ""
+        "Name_ko": "어둠불 저주"
     },
     "3536": {
         "0xID": "DD0",
@@ -45126,14 +45126,14 @@
         "Description_en": "Magic damage taken is increased.",
         "Description_fr": "Les dégâts magiques reçus sont augmentés.",
         "Description_ja": "受ける魔法ダメージが増加する状態。",
-        "Description_ko": "",
+        "Description_ko": "마법 공격으로 받는 피해량이 증가하는 상태.",
         "Icon": "ui/icon/015000/015057.png",
         "Name_cn": "魔法受伤加重",
         "Name_de": "Erhöhte Magie-Verwundbarkeit",
         "Name_en": "Magic Vulnerability Up",
         "Name_fr": "Vulnérabilité magique augmentée",
         "Name_ja": "被魔法ダメージ上昇",
-        "Name_ko": ""
+        "Name_ko": "받는 마법 피해량 증가"
     },
     "3537": {
         "0xID": "DD1",
@@ -45142,14 +45142,14 @@
         "Description_en": "Sustaining fire damage over time.",
         "Description_fr": "Des dégâts périodiques sont subis.",
         "Description_ja": "火属性ダメージにより、ＨＰが徐々に失われる状態。",
-        "Description_ko": "",
+        "Description_ko": "불속성 피해로 HP가 서서히 줄어드는 상태.",
         "Icon": "ui/icon/015000/015524.png",
         "Name_cn": "火伤",
         "Name_de": "Brandwunde",
         "Name_en": "Burns",
         "Name_fr": "Brûlure",
         "Name_ja": "火傷",
-        "Name_ko": ""
+        "Name_ko": "화상"
     },
     "3538": {
         "0xID": "DD2",
@@ -45158,14 +45158,14 @@
         "Description_en": "Have received the order to advance. Order will be executed when status fades.",
         "Description_fr": "Un ordre de mouvement est intimé par télépathie. À la fin de l'effet, le corps est contraint d'aller vers l'avant.",
         "Description_ja": "移動命令を受けた状態。この状態の効果が切れた際に、前方向に移動してしまう。",
-        "Description_ko": "",
+        "Description_ko": "이동 명령을 받은 상태. 효과가 끝나는 시점에 캐릭터가 향한 방향 기준으로, 앞으로 이동한다.",
         "Icon": "ui/icon/015000/015774.png",
         "Name_cn": "移动命令：前",
         "Name_de": "Geistlenkung vorwärts",
         "Name_en": "Forward March",
         "Name_fr": "Contrainte mentale : avancer",
         "Name_ja": "移動命令：前",
-        "Name_ko": ""
+        "Name_ko": "이동 명령: 전"
     },
     "3539": {
         "0xID": "DD3",
@@ -45174,14 +45174,14 @@
         "Description_en": "Have received the order to retreat. Order will be executed when status fades.",
         "Description_fr": "Un ordre de mouvement est intimé par télépathie. À la fin de l'effet, le corps est contraint d'aller vers l'arrière.",
         "Description_ja": "移動命令を受けた状態。この状態の効果が切れた際に、後方向に移動してしまう。",
-        "Description_ko": "",
+        "Description_ko": "이동 명령을 받은 상태. 효과가 끝나는 시점에 캐릭터가 향한 방향 기준으로, 뒤로 이동한다.",
         "Icon": "ui/icon/015000/015775.png",
         "Name_cn": "移动命令：后",
         "Name_de": "Geistlenkung rückwärts",
         "Name_en": "About Face",
         "Name_fr": "Contrainte mentale : reculer",
         "Name_ja": "移動命令：後",
-        "Name_ko": ""
+        "Name_ko": "이동 명령: 후"
     },
     "354": {
         "0xID": "162",
@@ -45206,14 +45206,14 @@
         "Description_en": "Have received the order to move left. Order will be executed when status fades.",
         "Description_fr": "Un ordre de mouvement est intimé par télépathie. À la fin de l'effet, le corps est contraint d'aller vers la gauche.",
         "Description_ja": "移動命令を受けた状態。この状態の効果が切れた際に、左方向に移動してしまう。",
-        "Description_ko": "",
+        "Description_ko": "이동 명령을 받은 상태. 효과가 끝나는 시점에 캐릭터가 향한 방향 기준으로, 왼쪽으로 이동한다.",
         "Icon": "ui/icon/015000/015776.png",
         "Name_cn": "移动命令：左",
         "Name_de": "Geistlenkung links",
         "Name_en": "Left Face",
         "Name_fr": "Contrainte mentale : virage à gauche",
         "Name_ja": "移動命令：左",
-        "Name_ko": ""
+        "Name_ko": "이동 명령: 좌"
     },
     "3541": {
         "0xID": "DD5",
@@ -45222,14 +45222,14 @@
         "Description_en": "Have received the order to move right. Order will be executed when status fades.",
         "Description_fr": "Un ordre de mouvement est intimé par télépathie. À la fin de l'effet, le corps est contraint d'aller vers la droite.",
         "Description_ja": "移動命令を受けた状態。この状態の効果が切れた際に、右方向に移動してしまう。",
-        "Description_ko": "",
+        "Description_ko": "이동 명령을 받은 상태. 효과가 끝나는 시점에 캐릭터가 향한 방향 기준으로, 오른쪽으로 이동한다.",
         "Icon": "ui/icon/015000/015777.png",
         "Name_cn": "移动命令：右",
         "Name_de": "Geistlenkung rechts",
         "Name_en": "Right Face",
         "Name_fr": "Contrainte mentale : virage à droite",
         "Name_ja": "移動命令：右",
-        "Name_ko": ""
+        "Name_ko": "이동 명령: 우"
     },
     "3542": {
         "0xID": "DD6",
@@ -45302,14 +45302,14 @@
         "Description_en": "A magicked barrier is nullifying damage.",
         "Description_fr": "Insensible à un certain montant de dégâts.",
         "Description_ja": "一定量のダメージを軽減する状態。",
-        "Description_ko": "",
+        "Description_ko": "받는 피해량이 일부 감소하는 상태.",
         "Icon": "ui/icon/012000/012509.png",
         "Name_cn": "星法衣",
         "Name_de": "Himmelsmantel",
         "Name_en": "Radiant Veil",
         "Name_fr": "Voile étoilé",
         "Name_ja": "星法衣",
-        "Name_ko": ""
+        "Name_ko": "별의 법의"
     },
     "3547": {
         "0xID": "DDB",
@@ -50854,7 +50854,7 @@
         "Description_en": "Shrunk to a fraction of your normal size. Movement speed and damage dealt is reduced while damage taken is increased.",
         "Description_fr": "Le nanisme réduit les dégâts infligés, la vitesse de déplacement, et augmente les dégâts subis.",
         "Description_ja": "小人に変身した状態。与ダメージと移動速度が低下し、被ダメージが増加する。",
-        "Description_ko": "몸집이 줄어든 상태.\n적에게 주는 피해량이 감소하고, 받는 피해량은 증가한다.",
+        "Description_ko": "몸집이 줄어든 상태.\n적에게 주는 피해량과 이동 속도가 감소하고, 받는 피해량은 증가한다.",
         "Icon": "ui/icon/015000/015581.png",
         "Name_cn": "缩小",
         "Name_de": "Wicht",
@@ -50902,7 +50902,7 @@
         "Description_en": "Shrunk to a fraction of your normal size. Movement speed and damage dealt is reduced while damage taken is increased.",
         "Description_fr": "Le nanisme réduit les dégâts infligés, la vitesse de déplacement, et augmente les dégâts subis.",
         "Description_ja": "小人に変身した状態。与ダメージと移動速度が低下し、被ダメージが増加する。",
-        "Description_ko": "몸집이 줄어든 상태.\n적에게 주는 피해량이 감소하고, 받는 피해량은 증가한다.",
+        "Description_ko": "몸집이 줄어든 상태.\n적에게 주는 피해량과 이동 속도가 감소하고, 받는 피해량은 증가한다.",
         "Icon": "ui/icon/016000/016211.png",
         "Name_cn": "缩小",
         "Name_de": "Wicht",
@@ -56566,7 +56566,7 @@
         "Description_en": "Damage dealt is increased.",
         "Description_fr": "Les dégâts infligés sont augmentés.",
         "Description_ja": "与ダメージが上昇した状態。",
-        "Description_ko": "물리 공격 피해량이 증가한 상태.",
+        "Description_ko": "적에게 주는 피해량이 증가하는 상태.",
         "Icon": "ui/icon/010000/010155.png",
         "Name_cn": "战逃反应",
         "Name_de": "Verwegenheit",
@@ -56742,7 +56742,7 @@
         "Description_en": "Blocking incoming attacks.",
         "Description_fr": "Les attaques sont immanquablement bloquées.",
         "Description_ja": "攻撃を確実にブロックする状態。",
-        "Description_ko": "방패 막기 발동률이 올라간 상태.",
+        "Description_ko": "공격을 반드시 막아내는 상태.",
         "Icon": "ui/icon/010000/010156.png",
         "Name_cn": "壁垒",
         "Name_de": "Bollwerk",

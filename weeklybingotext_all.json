@@ -186,7 +186,7 @@
         "Description_en": "Eden's Gate: Resurrection or Descent",
         "Description_fr": "L'\u00c9veil d'\u00c9den - R\u00e9surrection/Descente",
         "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u899a\u9192\u7de81-2",
-        "Description_ko": ""
+        "Description_ko": "\ud76c\ub9dd\uc758 \ub099\uc6d0 \uc5d0\ub374: \uac01\uc131\ud3b8 1-2"
     },
     "28": {
         "0xID": "1C",
@@ -195,7 +195,7 @@
         "Description_en": "Eden's Gate: Inundation or Sepulture",
         "Description_fr": "L'\u00c9veil d'\u00c9den - D\u00e9luge/Inhumation",
         "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u899a\u9192\u7de83-4",
-        "Description_ko": ""
+        "Description_ko": "\ud76c\ub9dd\uc758 \ub099\uc6d0 \uc5d0\ub374: \uac01\uc131\ud3b8 3-4"
     },
     "29": {
         "0xID": "1D",
@@ -204,7 +204,7 @@
         "Description_en": "Eden's Verse: Fulmination or Furor",
         "Description_fr": "Les Accords d'\u00c9den - Fulmination/Fureur",
         "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u5171\u9cf4\u7de81-2",
-        "Description_ko": ""
+        "Description_ko": "\ud76c\ub9dd\uc758 \ub099\uc6d0 \uc5d0\ub374: \uacf5\uba85\ud3b8 1-2"
     },
     "3": {
         "0xID": "3",
@@ -222,7 +222,7 @@
         "Description_en": "Eden's Verse: Iconoclasm or Refulgence",
         "Description_fr": "Les Accords d'\u00c9den - Iconoclasme/\u00c9clat",
         "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u5171\u9cf4\u7de83-4",
-        "Description_ko": ""
+        "Description_ko": "\ud76c\ub9dd\uc758 \ub099\uc6d0 \uc5d0\ub374: \uacf5\uba85\ud3b8 3-4"
     },
     "31": {
         "0xID": "1F",
@@ -231,7 +231,7 @@
         "Description_en": "Eden's Promise: Umbra or Litany",
         "Description_fr": "La Promesse d'\u00c9den - Nu\u00e9e/Litanie",
         "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u518d\u751f\u7de81-2",
-        "Description_ko": ""
+        "Description_ko": "\ud76c\ub9dd\uc758 \ub099\uc6d0 \uc5d0\ub374: \uc7ac\uc0dd\ud3b8 1-2"
     },
     "32": {
         "0xID": "20",
@@ -240,7 +240,7 @@
         "Description_en": "Eden's Promise: Anamorphosis or Eternity",
         "Description_fr": "La Promesse d'\u00c9den - Anamorphose/\u00c9ternit\u00e9",
         "Description_ja": "\u5e0c\u671b\u306e\u5712\u30a8\u30c7\u30f3\uff1a\u518d\u751f\u7de83-4",
-        "Description_ko": ""
+        "Description_ko": "\ud76c\ub9dd\uc758 \ub099\uc6d0 \uc5d0\ub374: \uc7ac\uc0dd\ud3b8 3-4"
     },
     "33": {
         "0xID": "21",
@@ -249,7 +249,7 @@
         "Description_en": "Asphodelos: First or Second Circles",
         "Description_fr": "Les Limbes du Pand\u00e6monium - Parvis/Cloaque",
         "Description_ja": "\u4e07\u9b54\u6bbf\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\uff1a\u8fba\u7344\u7de81-2",
-        "Description_ko": ""
+        "Description_ko": "\ub9c8\uc758 \uc804\ub2f9 \ud310\ub370\ubaa8\ub2c8\uc6c0: \ubcc0\uc625\ud3b8 1-2"
     },
     "34": {
         "0xID": "22",
@@ -258,7 +258,7 @@
         "Description_en": "Asphodelos: Third or Fourth Circles",
         "Description_fr": "Les Limbes du Pand\u00e6monium - Fournaise/Ab\u00eeme",
         "Description_ja": "\u4e07\u9b54\u6bbf\u30d1\u30f3\u30c7\u30e2\u30cb\u30a6\u30e0\uff1a\u8fba\u7344\u7de83-4",
-        "Description_ko": ""
+        "Description_ko": "\ub9c8\uc758 \uc804\ub2f9 \ud310\ub370\ubaa8\ub2c8\uc6c0: \ubcc0\uc625\ud3b8 3-4"
     },
     "35": {
         "0xID": "23",

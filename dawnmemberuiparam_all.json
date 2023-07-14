@@ -437,13 +437,13 @@
         "Class_Plural_en": "Poroggo",
         "Class_Plural_fr": "Poroggo",
         "Class_Plural_ja": "\u30dd\u30ed\u30c3\u30b4",
-        "Class_Plural_ko": "",
+        "Class_Plural_ko": "\ud3ec\ub85d\uace0",
         "col_1_cn": "\u4f69\u7f57\u00b7\u7f57\u683c",
         "col_1_de": "Pero Roggo",
         "col_1_en": "Pero Roggo",
         "col_1_fr": "Pero Roggo",
         "col_1_ja": "PERO ROGGO",
-        "col_1_ko": ""
+        "col_1_ko": "\ud398\ub85c \ub85d\uace0"
     },
     "36": {
         "0xID": "24",
@@ -452,13 +452,13 @@
         "Class_Plural_en": "Lord Commander",
         "Class_Plural_fr": "Capitaine g\u00e9n\u00e9ral",
         "Class_Plural_ja": "\u7dcf\u9577",
-        "Class_Plural_ko": "",
+        "Class_Plural_ko": "\ucd1d\uc7a5",
         "col_1_cn": "\u827e\u9ed8\u91cc\u514b",
         "col_1_de": "Aymeric",
         "col_1_en": "Aymeric",
         "col_1_fr": "Aymeric",
         "col_1_ja": "AYMERIC",
-        "col_1_ko": ""
+        "col_1_ko": "\uc544\uc774\uba54\ub9ac\ud06c"
     },
     "37": {
         "0xID": "25",
@@ -467,13 +467,13 @@
         "Class_Plural_en": "Knight",
         "Class_Plural_fr": "Chevalier",
         "Class_Plural_ja": "\u9a0e\u58eb",
-        "Class_Plural_ko": "",
+        "Class_Plural_ko": "\uae30\uc0ac",
         "col_1_cn": "\u798f\u5c14\u5510\u5bb6\u7684\u9a91\u58eb",
         "col_1_de": "Fortemps-Ritter",
         "col_1_en": "House Fortemps Knight",
         "col_1_fr": "Chevalier des Fortemps",
         "col_1_ja": "HOUSE FORTEMPS KNIGHT",
-        "col_1_ko": ""
+        "col_1_ko": "\ud3ec\ub974\ud0d5 \uac00 \uae30\uc0ac"
     },
     "38": {
         "0xID": "26",
@@ -482,13 +482,13 @@
         "Class_Plural_en": "Banneret",
         "Class_Plural_fr": "Lancier",
         "Class_Plural_ja": "\u69cd\u9a0e\u5175",
-        "Class_Plural_ko": "",
+        "Class_Plural_ko": "\ucc3d\uae30\ubcd1",
         "col_1_cn": "\u798f\u5c14\u5510\u5bb6\u7684\u67aa\u9a91\u5175",
         "col_1_de": "Fortemps-Bannerherr",
         "col_1_en": "House Fortemps Banneret",
         "col_1_fr": "Lancier des Fortemps",
         "col_1_ja": "HOUSE FORTEMPS BANNERET",
-        "col_1_ko": ""
+        "col_1_ko": "\ud3ec\ub974\ud0d5 \uac00 \ucc3d\uae30\ubcd1"
     },
     "39": {
         "0xID": "27",
@@ -497,13 +497,13 @@
         "Class_Plural_en": "Archer",
         "Class_Plural_fr": "Arch\u00e8re",
         "Class_Plural_ja": "\u5c04\u624b",
-        "Class_Plural_ko": "",
+        "Class_Plural_ko": "\uad81\uc218",
         "col_1_cn": "\u798f\u5c14\u5510\u5bb6\u7684\u5c04\u624b",
         "col_1_de": "Fortemps-Bogensch\u00fctzin",
         "col_1_en": "House Fortemps Archer",
         "col_1_fr": "Arch\u00e8re des Fortemps",
         "col_1_ja": "HOUSE FORTEMPS ARCHER",
-        "col_1_ko": ""
+        "col_1_ko": "\ud3ec\ub974\ud0d5 \uac00 \uad81\uc218"
     },
     "4": {
         "0xID": "4",
@@ -527,13 +527,13 @@
         "Class_Plural_en": "Archon",
         "Class_Plural_fr": "H\u00e9ritier",
         "Class_Plural_ja": "\u8ce2\u4eba",
-        "Class_Plural_ko": "",
+        "Class_Plural_ko": "\ud604\uc778",
         "col_1_cn": "\u6851\u514b\u745e\u5fb7",
         "col_1_de": "Thancred",
         "col_1_en": "Thancred",
         "col_1_fr": "Thancred",
         "col_1_ja": "THANCRED",
-        "col_1_ko": ""
+        "col_1_ko": "\uc0b0\ud06c\ub808\ub4dc"
     },
     "41": {
         "0xID": "29",
@@ -542,13 +542,13 @@
         "Class_Plural_en": "Memoriate",
         "Class_Plural_fr": "Manieuse de m\u00e9morias",
         "Class_Plural_ja": "\u30e1\u30e2\u30ea\u30a2\u4f7f\u3044",
-        "Class_Plural_ko": "",
+        "Class_Plural_ko": "\uba54\ubaa8\ub9ac\uc544\uc220\uc0ac",
         "col_1_cn": "\u96f6",
         "col_1_de": "Zero",
         "col_1_en": "Zero",
         "col_1_fr": "Zero",
         "col_1_ja": "ZERO",
-        "col_1_ko": ""
+        "col_1_ko": "\uc81c\ub85c"
     },
     "42": {
         "0xID": "2A",
@@ -557,13 +557,13 @@
         "Class_Plural_en": "Archon",
         "Class_Plural_fr": "H\u00e9riti\u00e8re",
         "Class_Plural_ja": "\u8ce2\u4eba",
-        "Class_Plural_ko": "",
+        "Class_Plural_ko": "\ud604\uc778",
         "col_1_cn": "\u96c5\u00b7\u4fee\u7279\u62c9",
         "col_1_de": "Y'shtola",
         "col_1_en": "Y'shtola",
         "col_1_fr": "Y'shtola",
         "col_1_ja": "Y'SHTOLA",
-        "col_1_ko": ""
+        "col_1_ko": "\uc57c\uc288\ud1a8\ub77c"
     },
     "43": {
         "0xID": "2B",

@@ -5802,7 +5802,7 @@
         "TextData_en": "Mistress <Split([ObjectParameter(1)], ,1)/>, it looks like <Unknown0A>E802</Unknown0A> decided to visit!",
         "TextData_fr": "Oh\u00e9, oh\u00e9!  <Unknown0A>E802</Unknown0A> vient vous rendre visite!",
         "TextData_ja": "\u3054\u9023\u7d61\u3001\u3054\u9023\u7d61\uff01\n\n<Unknown0A>E802</Unknown0A>\u3055\u3093\u304c\u904a\u3073\u306b\u304d\u307e\u3057\u305f\uff01",
-        "TextData_ko": ""
+        "TextData_ko": "\uc54c\ub9bc, \uc54c\ub9bc!\n<Unknown0A>E802</Unknown0A> \ub2d8\uc774 \ubc29\ubb38\ud558\uc168\uc2b5\ub2c8\ub2e4!"
     },
     "3101": {
         "0xID": "C1D",
@@ -5811,7 +5811,7 @@
         "TextData_en": "Guess what, Mistress <Split([ObjectParameter(1)], ,1)/>! <Unknown0A>E802</Unknown0A> is here!",
         "TextData_fr": "Oh\u00e9, oh\u00e9!  <Unknown0A>E802</Unknown0A> a d\u00e9barqu\u00e9 sur l'\u00eele!",
         "TextData_ja": "\u3054\u9023\u7d61\u3001\u3054\u9023\u7d61\uff01\n\n<Unknown0A>E802</Unknown0A>\u3055\u3093\u304c\u3044\u3089\u3063\u3057\u3083\u3044\u307e\u3057\u305f\uff01",
-        "TextData_ko": ""
+        "TextData_ko": "\uc54c\ub9bc, \uc54c\ub9bc!\n<Unknown0A>E802</Unknown0A> \ub2d8\uc774 \uc624\uc168\uc2b5\ub2c8\ub2e4!"
     },
     "3102": {
         "0xID": "C1E",

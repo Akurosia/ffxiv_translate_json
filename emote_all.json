@@ -1677,7 +1677,7 @@
         "Name_en": "Magic Trick",
         "Name_fr": "Tour de magie",
         "Name_ja": "\u624b\u54c1",
-        "Name_ko": ""
+        "Name_ko": "\ub9c8\uc220"
     },
     "25": {
         "0xID": "19",
@@ -1697,7 +1697,7 @@
         "Name_en": "Little Ladies' Dance",
         "Name_fr": "Danse des princesses",
         "Name_ja": "\u59eb\u306e\u821e\u8e0a",
-        "Name_ko": ""
+        "Name_ko": "\uacf5\uc8fc\ub2d8 \ucda4"
     },
     "251": {
         "0xID": "FB",
@@ -1707,7 +1707,7 @@
         "Name_en": "Linkpearl",
         "Name_fr": "Appel via linkperle",
         "Name_ja": "\u30ea\u30f3\u30af\u30d1\u30fc\u30eb\u901a\u4fe1",
-        "Name_ko": ""
+        "Name_ko": "\ub9c1\ud06c\ud384 \ud1b5\uc2e0"
     },
     "252": {
         "0xID": "FC",
@@ -1757,7 +1757,7 @@
         "Name_en": "Frighten",
         "Name_fr": "Effrayer",
         "Name_ja": "\u9a5a\u304b\u3059",
-        "Name_ko": ""
+        "Name_ko": "\ub180\ub798\uae30"
     },
     "257": {
         "0xID": "101",

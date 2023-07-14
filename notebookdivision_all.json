@@ -258,7 +258,7 @@
         "Name_en": "Restoration (1)",
         "Name_fr": "Reconstruction d'Ishgard (1)",
         "Name_ja": "\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u5fa9\u82081",
-        "Name_ko": "\ubd80\ud765 \uc0ac\uc5c5(1)"
+        "Name_ko": "\uc774\uc288\uac00\ub974\ub4dc \ubd80\ud765(1)"
     },
     "1026": {
         "0xID": "402",
@@ -276,7 +276,7 @@
         "Name_en": "Restoration (2)",
         "Name_fr": "Reconstruction d'Ishgard (2)",
         "Name_ja": "\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u5fa9\u82082",
-        "Name_ko": "\ubd80\ud765 \uc0ac\uc5c5(2)"
+        "Name_ko": "\uc774\uc288\uac00\ub974\ub4dc \ubd80\ud765(2)"
     },
     "1028": {
         "0xID": "404",
@@ -312,7 +312,7 @@
         "Name_en": "Restoration (3)",
         "Name_fr": "Reconstruction d'Ishgard (3)",
         "Name_ja": "\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u5fa9\u82083",
-        "Name_ko": "\ubd80\ud765 \uc0ac\uc5c5(3)"
+        "Name_ko": "\uc774\uc288\uac00\ub974\ub4dc \ubd80\ud765(3)"
     },
     "1032": {
         "0xID": "408",
@@ -357,7 +357,7 @@
         "Name_en": "Restoration (4)",
         "Name_fr": "Reconstruction d'Ishgard (4)",
         "Name_ja": "\u30a4\u30b7\u30e5\u30ac\u30eb\u30c9\u5fa9\u82084",
-        "Name_ko": "\ubd80\ud765 \uc0ac\uc5c5(4)"
+        "Name_ko": "\uc774\uc288\uac00\ub974\ub4dc \ubd80\ud765(4)"
     },
     "1037": {
         "0xID": "40D",
@@ -510,7 +510,7 @@
         "Name_en": "Anden",
         "Name_fr": "Anden",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374"
     },
     "1054": {
         "0xID": "41E",

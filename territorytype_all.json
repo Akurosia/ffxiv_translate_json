@@ -1124,7 +1124,7 @@
         "Name_en": "The Fell Court of Troia",
         "Name_fr": "Château de Troïa",
         "Name_ja": "トロイアコート",
-        "Name_ko": "최고신관의 방",
+        "Name_ko": "트로이아 궁정",
         "TerritoryType": "ec046"
     },
     "1092": {
@@ -1172,7 +1172,7 @@
         "Name_en": "Mount Ordeals",
         "Name_fr": "Mont du Supplice",
         "Name_ja": "試練の山",
-        "Name_ko": "",
+        "Name_ko": "시련의 산",
         "TerritoryType": "m5fa"
     },
     "1096": {
@@ -1184,7 +1184,7 @@
         "Name_en": "Mount Ordeals",
         "Name_fr": "Mont du Supplice",
         "Name_ja": "試練の山",
-        "Name_ko": "",
+        "Name_ko": "시련의 산",
         "TerritoryType": "m5fa_2"
     },
     "1097": {
@@ -1196,7 +1196,7 @@
         "Name_en": "Lapis Manalis",
         "Name_fr": "Lapis Manalis",
         "Name_ja": "ラピス・マナリス",
-        "Name_ko": "",
+        "Name_ko": "라피스 마날리스",
         "TerritoryType": "m5d5"
     },
     "1098": {
@@ -1208,7 +1208,7 @@
         "Name_en": "Sylphstep",
         "Name_fr": "Sylve sylphe sibylline",
         "Name_ja": "シルフ領風特設アスレチック",
-        "Name_ko": "",
+        "Name_ko": "실프 영지풍 특설 경기장",
         "TerritoryType": "f1eb"
     },
     "1099": {
@@ -1436,7 +1436,7 @@
         "Name_en": "The Clockwork Castletown",
         "Name_fr": "Le Traquenard oriental",
         "Name_ja": "東方絡繰御殿",
-        "Name_ko": "",
+        "Name_ko": "동방 꼭두각시 어전",
         "TerritoryType": "s5p4"
     },
     "1117": {
@@ -1448,7 +1448,7 @@
         "Name_en": "The Clockwork Castletown",
         "Name_fr": "Le Traquenard oriental",
         "Name_ja": "東方絡繰御殿",
-        "Name_ko": "",
+        "Name_ko": "동방 꼭두각시 어전",
         "TerritoryType": "s5p4_ctm"
     },
     "1118": {
@@ -1460,7 +1460,7 @@
         "Name_en": "Euphrosyne",
         "Name_fr": "Domaine divin - Euphrosyne",
         "Name_ja": "喜びの神域 エウプロシュネ",
-        "Name_ko": "",
+        "Name_ko": "에우프로시네",
         "TerritoryType": "z5r2"
     },
     "1119": {
@@ -1472,7 +1472,7 @@
         "Name_en": "Lapis Manalis",
         "Name_fr": "Lapis Manalis",
         "Name_ja": "ラピス・マナリス",
-        "Name_ko": "",
+        "Name_ko": "라피스 마날리스",
         "TerritoryType": "m5d5_event"
     },
     "1120": {
@@ -1484,7 +1484,7 @@
         "Name_en": "Garlemald",
         "Name_fr": "Garlemald",
         "Name_ja": "ガレマルド",
-        "Name_ko": "",
+        "Name_ko": "갈레말드",
         "TerritoryType": "ec048"
     },
     "1121": {
@@ -1496,7 +1496,7 @@
         "Name_en": "Containment Bay P1T6",
         "Name_fr": "Unité de contention P1P6",
         "Name_ja": "コンテイメントベイP1T6",
-        "Name_ko": "",
+        "Name_ko": "봉쇄구역 P1T6",
         "TerritoryType": "a2fe_3"
     },
     "1122": {
@@ -1520,7 +1520,7 @@
         "Name_en": "The Shifting Gymnasion Agonon",
         "Name_fr": "Elpis Gymnasion",
         "Name_ja": "エルピス・ギュムナシオン祭殿",
-        "Name_ko": "",
+        "Name_ko": "엘피스 김나시온 제전",
         "TerritoryType": "n5c1"
     },
     "1124": {
@@ -1544,7 +1544,7 @@
         "Name_en": "Khadga",
         "Name_fr": "Khadga",
         "Name_ja": "カドガの大岩",
-        "Name_ko": "",
+        "Name_ko": "카드가 바위",
         "TerritoryType": "m5e6"
     },
     "1126": {
@@ -5780,7 +5780,7 @@
         "Name_en": "",
         "Name_fr": "",
         "Name_ja": "",
-        "Name_ko": "구브라 환상도서관",
+        "Name_ko": "",
         "TerritoryType": ""
     },
     "417": {
@@ -6044,7 +6044,7 @@
         "Name_en": "",
         "Name_fr": "",
         "Name_ja": "",
-        "Name_ko": "마과학 연구소",
+        "Name_ko": "",
         "TerritoryType": ""
     },
     "439": {
@@ -6992,7 +6992,7 @@
         "Name_en": "",
         "Name_fr": "",
         "Name_ja": "",
-        "Name_ko": "거꾸로 선 탑",
+        "Name_ko": "",
         "TerritoryType": ""
     },
     "517": {
@@ -7460,7 +7460,7 @@
         "Name_en": "",
         "Name_fr": "",
         "Name_ja": "",
-        "Name_ko": "소르 카이",
+        "Name_ko": "",
         "TerritoryType": ""
     },
     "556": {
@@ -7664,7 +7664,7 @@
         "Name_en": "",
         "Name_fr": "",
         "Name_ja": "",
-        "Name_ko": "젤파톨",
+        "Name_ko": "",
         "TerritoryType": ""
     },
     "573": {
@@ -8192,7 +8192,7 @@
         "Name_en": "",
         "Name_fr": "",
         "Name_ja": "",
-        "Name_ko": "바일사르 장성",
+        "Name_ko": "",
         "TerritoryType": ""
     },
     "616": {
@@ -8372,7 +8372,7 @@
         "Name_en": "",
         "Name_fr": "",
         "Name_ja": "",
-        "Name_ko": "디아뎀 제도",
+        "Name_ko": "",
         "TerritoryType": ""
     },
     "631": {

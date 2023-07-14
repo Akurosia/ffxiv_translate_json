@@ -159,7 +159,7 @@
         "CurrencyItem_en": "Loporrit Carat",
         "CurrencyItem_fr": "Carotus",
         "CurrencyItem_ja": "\u30ec\u30dd\u30ea\u30c3\u30c8\u4eba\u53c2\u8ca8",
-        "CurrencyItem_ko": "",
+        "CurrencyItem_ko": "38952",
         "Icon": "ui/icon/065000/065101.png",
         "Icon_Reputation": "ui/icon/061000/061917.png",
         "Name_cn": "\u30ec\u30dd\u30ea\u30c3\u30c8\u65cf\uff1a\u30c9\u30ea\u30fc\u30df\u30f3\u30b0\u30fb\u30ef\u30fc\u30af\u30b7\u30e7\u30c3\u30d7",
@@ -167,7 +167,7 @@
         "Name_en": "Loporrits",
         "Name_fr": "Loporrites",
         "Name_ja": "\u30ec\u30dd\u30ea\u30c3\u30c8\u65cf\uff1a\u30c9\u30ea\u30fc\u30df\u30f3\u30b0\u30fb\u30ef\u30fc\u30af\u30b7\u30e7\u30c3\u30d7",
-        "Name_ko": ""
+        "Name_ko": "\u30ec\u30dd\u30ea\u30c3\u30c8\u65cf\uff1a\u30c9\u30ea\u30fc\u30df\u30f3\u30b0\u30fb\u30ef\u30fc\u30af\u30b7\u30e7\u30c3\u30d7"
     },
     "2": {
         "0xID": "2",

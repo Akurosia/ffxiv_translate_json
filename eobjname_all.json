@@ -107394,7 +107394,7 @@
         "Singular_en": "exit",
         "Singular_fr": "sortie",
         "Singular_ja": "\u30ab\u30b9\u30c8\u30eb\u30e0\u30fb\u30bb\u30f3\u30c8\u30ea\u304b\u3089\u51fa\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\uce74\uc2a4\ud2b8\ub8f8 \uc13c\ud2b8\ub9ac\uc5d0\uc11c \ub098\uac00\uae30"
     },
     "2012719": {
         "0xID": "1EB62F",
@@ -107421,7 +107421,7 @@
         "Singular_en": "exit",
         "Singular_fr": "sortie",
         "Singular_ja": "\u30ab\u30b9\u30c8\u30eb\u30e0\u30fb\u30bb\u30f3\u30c8\u30ea\u304b\u3089\u51fa\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\uce74\uc2a4\ud2b8\ub8f8 \uc13c\ud2b8\ub9ac\uc5d0\uc11c \ub098\uac00\uae30"
     },
     "2012722": {
         "0xID": "1EB632",
@@ -110049,7 +110049,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013052": {
         "0xID": "1EB77C",
@@ -111408,7 +111408,7 @@
         "Singular_en": "pedestal of passage",
         "Singular_fr": "pi\u00e9destal de passage",
         "Singular_ja": "\u7c21\u6613\u8ee2\u79fb\u67f1",
-        "Singular_ko": ""
+        "Singular_ko": "\uac04\uc774 \uc804\uc1a1\uae30\ub465"
     },
     "2013205": {
         "0xID": "1EB815",
@@ -111417,7 +111417,7 @@
         "Singular_en": "pedestal of passage",
         "Singular_fr": "pi\u00e9destal de passage",
         "Singular_ja": "\u7c21\u6613\u8ee2\u79fb\u67f1",
-        "Singular_ko": ""
+        "Singular_ko": "\uac04\uc774 \uc804\uc1a1\uae30\ub465"
     },
     "2013206": {
         "0xID": "1EB816",
@@ -111426,7 +111426,7 @@
         "Singular_en": "pedestal of passage",
         "Singular_fr": "pi\u00e9destal de passage",
         "Singular_ja": "\u7c21\u6613\u8ee2\u79fb\u67f1",
-        "Singular_ko": ""
+        "Singular_ko": "\uac04\uc774 \uc804\uc1a1\uae30\ub465"
     },
     "2013207": {
         "0xID": "1EB817",
@@ -111435,7 +111435,7 @@
         "Singular_en": "pedestal of passage",
         "Singular_fr": "pi\u00e9destal de passage",
         "Singular_ja": "\u7c21\u6613\u8ee2\u79fb\u67f1",
-        "Singular_ko": ""
+        "Singular_ko": "\uac04\uc774 \uc804\uc1a1\uae30\ub465"
     },
     "2013208": {
         "0xID": "1EB818",
@@ -111444,7 +111444,7 @@
         "Singular_en": "pedestal of passage",
         "Singular_fr": "pi\u00e9destal de passage",
         "Singular_ja": "\u7c21\u6613\u8ee2\u79fb\u67f1",
-        "Singular_ko": ""
+        "Singular_ko": "\uac04\uc774 \uc804\uc1a1\uae30\ub465"
     },
     "2013209": {
         "0xID": "1EB819",
@@ -111453,7 +111453,7 @@
         "Singular_en": "pedestal of passage",
         "Singular_fr": "pi\u00e9destal de passage",
         "Singular_ja": "\u7c21\u6613\u8ee2\u79fb\u67f1",
-        "Singular_ko": ""
+        "Singular_ko": "\uac04\uc774 \uc804\uc1a1\uae30\ub465"
     },
     "2013210": {
         "0xID": "1EB81A",
@@ -111462,7 +111462,7 @@
         "Singular_en": "frost-wreathed portal",
         "Singular_fr": "portail glac\u00e9",
         "Singular_ja": "\u6c37\u5929\u3078\u79fb\u52d5\u3059\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\ube59\ucc9c\uc73c\ub85c \uc774\ub3d9"
     },
     "2013211": {
         "0xID": "1EB81B",
@@ -111489,7 +111489,7 @@
         "Singular_en": "rustling undergrowth",
         "Singular_fr": "buisson fr\u00e9missant",
         "Singular_ja": "\u4f55\u304b\u304c\u52d5\u3044\u305f\u8349\u3080\u3089",
-        "Singular_ko": ""
+        "Singular_ko": "\uc6c0\uc9c1\uc778 \ub4ef\ud55c \ub364\ubd88"
     },
     "2013214": {
         "0xID": "1EB81E",
@@ -111498,7 +111498,7 @@
         "Singular_en": "broken barrel",
         "Singular_fr": "tonneau cass\u00e9",
         "Singular_ja": "\u58ca\u308c\u305f\u30bf\u30eb",
-        "Singular_ko": ""
+        "Singular_ko": "\ubd80\uc11c\uc9c4 \ud1b5"
     },
     "2013215": {
         "0xID": "1EB81F",
@@ -111507,7 +111507,7 @@
         "Singular_en": "entrance",
         "Singular_fr": "entr\u00e9e",
         "Singular_ja": "\u9032\u5165\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c4\uc785 \uc9c0\uc810"
     },
     "2013216": {
         "0xID": "1EB820",
@@ -111552,7 +111552,7 @@
         "Singular_en": "dated records",
         "Singular_fr": "vieux carnet de notes",
         "Singular_ja": "\u53e4\u3073\u305f\u8a18\u9332\u5e33",
-        "Singular_ko": ""
+        "Singular_ko": "\ub0a1\uc740 \uae30\ub85d\uc7a5"
     },
     "2013221": {
         "0xID": "1EB825",
@@ -111561,7 +111561,7 @@
         "Singular_en": "faded records",
         "Singular_fr": "carnet de notes sali",
         "Singular_ja": "\u6c5a\u308c\u305f\u8a18\u9332\u5e33",
-        "Singular_ko": ""
+        "Singular_ko": "\ub354\ub7ec\uc6b4 \uae30\ub85d\uc7a5"
     },
     "2013222": {
         "0xID": "1EB826",
@@ -111570,7 +111570,7 @@
         "Singular_en": "trainee warning notice",
         "Singular_fr": "fiche d'instruction",
         "Singular_ja": "\u8a13\u7df4\u8005\u5411\u3051\u306e\u6ce8\u610f\u66f8\u304d",
-        "Singular_ko": ""
+        "Singular_ko": "\ud6c8\ub828\uc790 \uacbd\uace0\ubb38"
     },
     "2013223": {
         "0xID": "1EB827",
@@ -111588,7 +111588,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013225": {
         "0xID": "1EB829",
@@ -111597,7 +111597,7 @@
         "Singular_en": "entrance",
         "Singular_fr": "entr\u00e9e",
         "Singular_ja": "\u9032\u5165\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c4\uc785 \uc9c0\uc810"
     },
     "2013226": {
         "0xID": "1EB82A",
@@ -111606,7 +111606,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013227": {
         "0xID": "1EB82B",
@@ -111615,7 +111615,7 @@
         "Singular_en": "exit to Garlemald",
         "Singular_fr": "acc\u00e8s \u00e0 Garlemald",
         "Singular_ja": "\u30ac\u30ec\u30de\u30eb\u30c9\u3078\u79fb\u52d5\u3059\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\uac08\ub808\ub9d0\ub4dc\ub85c \uc774\ub3d9"
     },
     "2013228": {
         "0xID": "1EB82C",
@@ -111624,7 +111624,7 @@
         "Singular_en": "passage to the vicus messorum",
         "Singular_fr": "acc\u00e8s \u00e0 Vicus Messorem",
         "Singular_ja": "\u30f4\u30a3\u30af\u30b9\u30fb\u30e1\u30c3\u30bd\u30eb\u30e0\u3078\u79fb\u52d5\u3059\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\uc218\ud655\uc790\uc758 \uae38\ub85c \uc774\ub3d9"
     },
     "2013229": {
         "0xID": "1EB82D",
@@ -111633,7 +111633,7 @@
         "Singular_en": "passage to Mons Albus",
         "Singular_fr": "acc\u00e8s au flanc du Mons Albus",
         "Singular_ja": "\u30e2\u30f3\u30b9\u30fb\u30a2\u30eb\u30d0\u30b9\u5c71\u8179\u3078\u79fb\u52d5\u3059\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\ubaac\uc2a4 \uc54c\ubd80\uc2a4 \uc0b0\ud5c8\ub9ac\ub85c \uc774\ub3d9"
     },
     "2013230": {
         "0xID": "1EB82E",
@@ -111642,7 +111642,7 @@
         "Singular_en": "passage to Fons Manalis",
         "Singular_fr": "acc\u00e8s \u00e0 Fons Manalis",
         "Singular_ja": "\u30d5\u30a9\u30f3\u30b9\u30fb\u30de\u30ca\u30ea\u30b9\u3078\u79fb\u52d5\u3059\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\ub9c8\ub0a0\ub9ac\uc2a4 \uc0d8\uc73c\ub85c \uc774\ub3d9"
     },
     "2013231": {
         "0xID": "1EB82F",
@@ -111651,7 +111651,7 @@
         "Singular_en": "passage to the vicus messorum",
         "Singular_fr": "acc\u00e8s \u00e0 Vicus Messorem",
         "Singular_ja": "\u30f4\u30a3\u30af\u30b9\u30fb\u30e1\u30c3\u30bd\u30eb\u30e0\u3078\u79fb\u52d5\u3059\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\uc218\ud655\uc790\uc758 \uae38\ub85c \uc774\ub3d9"
     },
     "2013232": {
         "0xID": "1EB830",
@@ -111660,7 +111660,7 @@
         "Singular_en": "sturdy barrel",
         "Singular_fr": "baril d'apparence robuste",
         "Singular_ja": "\u4e08\u592b\u305d\u3046\u306a\u30bf\u30eb",
-        "Singular_ko": ""
+        "Singular_ko": "\ud2bc\ud2bc\ud574 \ubcf4\uc774\ub294 \ud1b5"
     },
     "2013233": {
         "0xID": "1EB831",
@@ -111669,7 +111669,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013234": {
         "0xID": "1EB832",
@@ -111678,7 +111678,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013235": {
         "0xID": "1EB833",
@@ -111687,7 +111687,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013236": {
         "0xID": "1EB834",
@@ -111696,7 +111696,7 @@
         "Singular_en": "bottomless barrel",
         "Singular_fr": "baril sans fond",
         "Singular_ja": "\u5e95\u306e\u629c\u3051\u305f\u30bf\u30eb",
-        "Singular_ko": ""
+        "Singular_ko": "\ubc11 \ube60\uc9c4 \ud1b5"
     },
     "2013237": {
         "0xID": "1EB835",
@@ -111705,7 +111705,7 @@
         "Singular_en": "dilapidated barrel",
         "Singular_fr": "baril pourri",
         "Singular_ja": "\u673d\u3061\u304b\u3051\u305f\u30bf\u30eb",
-        "Singular_ko": ""
+        "Singular_ko": "\uc369\uc740 \ud1b5"
     },
     "2013238": {
         "0xID": "1EB836",
@@ -111714,7 +111714,7 @@
         "Singular_en": "hole-poked barrel",
         "Singular_fr": "baril trou\u00e9",
         "Singular_ja": "\u7a74\u304c\u958b\u3044\u3066\u3044\u308b\u30bf\u30eb",
-        "Singular_ko": ""
+        "Singular_ko": "\uad6c\uba4d \ub6ab\ub9b0 \ud1b5"
     },
     "2013239": {
         "0xID": "1EB837",
@@ -111723,7 +111723,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013240": {
         "0xID": "1EB838",
@@ -111732,7 +111732,7 @@
         "Singular_en": "entrance",
         "Singular_fr": "entr\u00e9e",
         "Singular_ja": "\u9032\u5165\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c4\uc785 \uc9c0\uc810"
     },
     "2013241": {
         "0xID": "1EB839",
@@ -111741,7 +111741,7 @@
         "Singular_en": "passage to the Giantsgall Grounds",
         "Singular_fr": "acc\u00e8s \u00e0 Thavnair",
         "Singular_ja": "\u30b5\u30d9\u30cd\u30a2\u5cf6\u3078\u79fb\u52d5\u3059\u308b",
-        "Singular_ko": ""
+        "Singular_ko": "\uc0ac\ubca0\ub124\uc5b4 \uc12c\uc73c\ub85c \uc774\ub3d9"
     },
     "2013242": {
         "0xID": "1EB83A",
@@ -111759,7 +111759,7 @@
         "Singular_en": "Archon egg",
         "Singular_fr": "Pr\u0153ufs",
         "Singular_ja": "\u30a2\u30eb\u30b3\u30f3\u30a8\u30c3\u30b0",
-        "Singular_ko": ""
+        "Singular_ko": "\u30a2\u30eb\u30b3\u30f3\u30a8\u30c3\u30b0"
     },
     "2013244": {
         "0xID": "1EB83C",
@@ -111795,7 +111795,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013248": {
         "0xID": "1EB840",
@@ -112137,7 +112137,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013289": {
         "0xID": "1EB869",
@@ -112146,7 +112146,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013290": {
         "0xID": "1EB86A",
@@ -112173,7 +112173,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\u6307\u5b9a\u5730\u70b9"
     },
     "2013293": {
         "0xID": "1EB86D",
@@ -112200,7 +112200,7 @@
         "Singular_en": "dollmaster's memorandum",
         "Singular_fr": "m\u00e9morandum",
         "Singular_ja": "\u4eba\u5f62\u5e2b\u5411\u3051\u306e\u899a\u3048\u66f8\u304d",
-        "Singular_ko": ""
+        "Singular_ko": "\uc778\ud615\uc0ac\uc758 \ube44\ub9dd\ub85d"
     },
     "2013296": {
         "0xID": "1EB870",
@@ -112209,7 +112209,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013297": {
         "0xID": "1EB871",
@@ -112245,7 +112245,7 @@
         "Singular_en": "multicolored isleblooms",
         "Singular_fr": "fleur multicolore",
         "Singular_ja": "\u6975\u5f69\u8272\u306e\u82b1",
-        "Singular_ko": ""
+        "Singular_ko": "\ud654\ub824\ud55c \uaf43"
     },
     "2013301": {
         "0xID": "1EB875",
@@ -112254,7 +112254,7 @@
         "Singular_en": "island leek",
         "Singular_fr": "poireau exotique",
         "Singular_ja": "\u30a2\u30a4\u30eb\u30ea\u30fc\u30ad",
-        "Singular_ko": ""
+        "Singular_ko": "\uc12c \ub300\ud30c"
     },
     "2013302": {
         "0xID": "1EB876",
@@ -112263,7 +112263,7 @@
         "Singular_en": "island paprika",
         "Singular_fr": "poivron exotique",
         "Singular_ja": "\u30a2\u30a4\u30eb\u30d1\u30d7\u30ea\u30ab",
-        "Singular_ko": ""
+        "Singular_ko": "\uc12c \ud30c\ud504\ub9ac\uce74"
     },
     "2013303": {
         "0xID": "1EB877",
@@ -112308,7 +112308,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013308": {
         "0xID": "1EB87C",
@@ -112317,7 +112317,7 @@
         "Singular_en": "destination",
         "Singular_fr": "destination",
         "Singular_ja": "\u6307\u5b9a\u5730\u70b9",
-        "Singular_ko": ""
+        "Singular_ko": "\uc9c0\uc815 \uc9c0\uc810"
     },
     "2013310": {
         "0xID": "1EB87E",

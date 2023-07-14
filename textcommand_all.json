@@ -3366,13 +3366,13 @@
         "Alias_en": "",
         "Alias_fr": "/clicdroitpj",
         "Alias_ja": "",
-        "Alias_ko": "",
+        "Alias_ko": "/\uc624\ud074\ud50c",
         "Command_cn": "/rclickpc",
         "Command_de": "/rclickpc",
         "Command_en": "/rclickpc",
         "Command_fr": "/rclickpc",
         "Command_ja": "/rclickpc",
-        "Command_ko": "//resetSettingCWLS"
+        "Command_ko": "/rclickpc"
     },
     "4": {
         "0xID": "4",
@@ -3396,13 +3396,13 @@
         "Alias_en": "",
         "Alias_fr": "/clicdroitpnj",
         "Alias_ja": "",
-        "Alias_ko": "",
+        "Alias_ko": "/\uc624\ud074\uc801",
         "Command_cn": "/rclickbattlenpc",
         "Command_de": "/rclickbattlenpc",
         "Command_en": "/rclickbattlenpc",
         "Command_fr": "/rclickbattlenpc",
         "Command_ja": "/rclickbattlenpc",
-        "Command_ko": ""
+        "Command_ko": "/rclickbattlenpc"
     },
     "401": {
         "0xID": "191",
@@ -3546,13 +3546,13 @@
         "Alias_en": "",
         "Alias_fr": "/clicdroitmascotte",
         "Alias_ja": "",
-        "Alias_ko": "",
+        "Alias_ko": "/\uc624\ud074\uaf2c",
         "Command_cn": "/rclickminion",
         "Command_de": "/rclickminion",
         "Command_en": "/rclickminion",
         "Command_fr": "/rclickminion",
         "Command_ja": "/rclickminion",
-        "Command_ko": ""
+        "Command_ko": "/rclickminion"
     },
     "410": {
         "0xID": "19A",
@@ -6756,13 +6756,13 @@
         "Alias_en": "",
         "Alias_fr": "/tourdemagie",
         "Alias_ja": "",
-        "Alias_ko": "",
+        "Alias_ko": "/\ub9c8\uc220",
         "Command_cn": "/magictrick",
         "Command_de": "/magictrick",
         "Command_en": "/magictrick",
         "Command_fr": "/magictrick",
         "Command_ja": "/magictrick",
-        "Command_ko": ""
+        "Command_ko": "/magictrick"
     },
     "651": {
         "0xID": "28B",
@@ -6771,13 +6771,13 @@
         "Alias_en": "",
         "Alias_fr": "/dansedesprincesses",
         "Alias_ja": "",
-        "Alias_ko": "",
+        "Alias_ko": "/\uacf5\uc8fc\ub2d8\ucda4",
         "Command_cn": "/littleladiesdance",
         "Command_de": "/littleladiesdance",
         "Command_en": "/littleladiesdance",
         "Command_fr": "/littleladiesdance",
         "Command_ja": "/littleladiesdance",
-        "Command_ko": ""
+        "Command_ko": "/littleladiesdance"
     },
     "652": {
         "0xID": "28C",
@@ -6786,13 +6786,13 @@
         "Alias_en": "",
         "Alias_fr": "/appelvialinkperle",
         "Alias_ja": "",
-        "Alias_ko": "",
+        "Alias_ko": "/\ub9c1\ud06c\ud384",
         "Command_cn": "/linkpearl",
         "Command_de": "/linkpearl",
         "Command_en": "/linkpearl",
         "Command_fr": "/linkpearl",
         "Command_ja": "/linkpearl",
-        "Command_ko": ""
+        "Command_ko": "/linkpearl"
     },
     "653": {
         "0xID": "28D",
@@ -6816,13 +6816,13 @@
         "Alias_en": "",
         "Alias_fr": "/effrayer",
         "Alias_ja": "",
-        "Alias_ko": "",
+        "Alias_ko": "/\ub180\ub798\uae30",
         "Command_cn": "/frighten",
         "Command_de": "/frighten",
         "Command_en": "/frighten",
         "Command_fr": "/frighten",
         "Command_ja": "/frighten",
-        "Command_ko": ""
+        "Command_ko": "/frighten"
     },
     "658": {
         "0xID": "292",

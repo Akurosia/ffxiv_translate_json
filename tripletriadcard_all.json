@@ -2697,7 +2697,7 @@
         "Name_en": "Clockwork Onmyoji & Clockwork Yojimbo",
         "Name_fr": "pr\u00eatre onmyo m\u00e9canique & garde du corps m\u00e9canique",
         "Name_ja": "\u304b\u3089\u304f\u308a\u9670\u967d\u5e2b\uff06\u304b\u3089\u304f\u308a\u7528\u5fc3\u68d2",
-        "Name_ko": ""
+        "Name_ko": "\uaf2d\ub450\uac01\uc2dc \uc74c\uc591\uc0ac \uff06 \uaf2d\ub450\uac01\uc2dc \uacbd\ud638\uc6d0"
     },
     "369": {
         "0xID": "171",
@@ -2724,7 +2724,7 @@
         "Name_en": "Felicitous Furball",
         "Name_fr": "Chamoiselle",
         "Name_ja": "\u306d\u3053\u307f\u307f\u3055\u3093",
-        "Name_ko": ""
+        "Name_ko": "\uc57c\uc639 \uc120\uc0dd"
     },
     "371": {
         "0xID": "173",
@@ -2733,7 +2733,7 @@
         "Name_en": "Anden",
         "Name_fr": "Anden",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374"
     },
     "372": {
         "0xID": "174",
@@ -2760,7 +2760,7 @@
         "Name_en": "Menphina",
         "Name_fr": "Menphina",
         "Name_ja": "\u30e1\u30cd\u30d5\u30a3\u30ca",
-        "Name_ko": ""
+        "Name_ko": "\uba54\ub290\ud53c\ub098"
     },
     "375": {
         "0xID": "177",
@@ -2769,7 +2769,7 @@
         "Name_en": "Cagnazzo",
         "Name_fr": "Cagnazzo",
         "Name_ja": "\u30ab\u30a4\u30ca\u30c3\u30c4\u30a9",
-        "Name_ko": ""
+        "Name_ko": "\uce74\ub0d0\ucd08"
     },
     "376": {
         "0xID": "178",
@@ -2778,7 +2778,7 @@
         "Name_en": "Rubicante",
         "Name_fr": "Rubicante",
         "Name_ja": "\u30eb\u30d3\u30ab\u30f3\u30c6",
-        "Name_ko": ""
+        "Name_ko": "\ub8e8\ube44\uce78\ud14c"
     },
     "377": {
         "0xID": "179",

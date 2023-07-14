@@ -59802,7 +59802,7 @@
         "Dialogue_en": "Oh, they'll want to hear this...",
         "Dialogue_fr": "Je vais devoir leur expliquer comment \u00e7a marche!",
         "Dialogue_ja": "\u6559\u3048\u3066\u3042\u3052\u3088\u3046\u3063\u3068\u2026\uff01",
-        "Dialogue_ko": "\u25cf\u30aa\u30df\u30af\u30ed\u30f3\uff1a90042_06"
+        "Dialogue_ko": ""
     },
     "698": {
         "0xID": "2BA",
@@ -59820,7 +59820,7 @@
         "Dialogue_en": "Right...there!",
         "Dialogue_fr": "Lalala...\u266a",
         "Dialogue_ja": "\u30d5\u30f3\u3001\u30d5\u30d5\uff5e\u30f3\uff01",
-        "Dialogue_ko": "\u25cf\u30aa\u30df\u30af\u30ed\u30f3\uff1a90042_07"
+        "Dialogue_ko": ""
     },
     "6981": {
         "0xID": "1B45",
@@ -59829,7 +59829,7 @@
         "Dialogue_en": "Next: Lights in the sky above the Carrotorium...",
         "Dialogue_fr": "\u00c0 vous les studios!",
         "Dialogue_ja": "\u305d\u308c\u3067\u306f\u3001\u6b21\u306e\u304a\u8a71\u306f\u2026",
-        "Dialogue_ko": "\u25cf\u30aa\u30df\u30af\u30ed\u30f3\uff1a90042_08"
+        "Dialogue_ko": ""
     },
     "6982": {
         "0xID": "1B46",
@@ -59838,7 +59838,7 @@
         "Dialogue_en": "Where did the other carrot couriers go...?",
         "Dialogue_fr": "Ils m'ont pos\u00e9 un lapin ou quoi?",
         "Dialogue_ja": "\u307f\u3093\u306a\u3001\u3069\u3053\u304b\u306a\u3041\u2026\uff1f",
-        "Dialogue_ko": "\u25cf\u30aa\u30df\u30af\u30ed\u30f3\uff1a90042_09"
+        "Dialogue_ko": ""
     },
     "6983": {
         "0xID": "1B47",
@@ -60792,7 +60792,7 @@
         "Dialogue_en": "I can scarcely take another hop, ribbit...",
         "Dialogue_fr": "J'ai co\u00e2mme un coup de fatigue...",
         "Dialogue_ja": "\u75b2\u308c\u307e\u3057\u305f\u30b1\u30ed\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud53c\uace4\ud569\ub2c8\ub2e4\uac1c\uace8\u2026"
     },
     "7078": {
         "0xID": "1BA6",
@@ -60801,7 +60801,7 @@
         "Dialogue_en": "Oh, for the time to pore over this collection...",
         "Dialogue_fr": "Si seulement j'avais le temps de jeter un \u0153il \u00e0 tous ces rayons!",
         "Dialogue_ja": "\u8208\u5473\u6df1\u3044\u8535\u66f8\u304c\u591a\u305d\u3046\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud765\ubbf8\ub85c\uc6b4 \uc7a5\uc11c\uac00 \ub9ce\ub124\uc694"
     },
     "7079": {
         "0xID": "1BA7",
@@ -60810,7 +60810,7 @@
         "Dialogue_en": "Now then, where might Master Matoya's tome be?",
         "Dialogue_fr": "Autant chercher une aiguille dans une botte de foin...",
         "Dialogue_ja": "\u3055\u3066\u3001\u30de\u30c8\u30fc\u30e4\u69d8\u306e\n\n\u8ad6\u6587\u306f\u3069\u3053\u306b\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ub9c8\ud1a0\uc57c \ub2d8\uc758 \ub17c\ubb38\uc740\n\uc5b4\ub514\uc5d0 \uc788\uc744\uc9c0\u2026"
     },
     "708": {
         "0xID": "2C4",
@@ -60828,7 +60828,7 @@
         "Dialogue_en": "The aether here is almost too much for my eyes.",
         "Dialogue_fr": "L'\u00e9ther est tellement dense ici... C'est proprement incroyable!",
         "Dialogue_ja": "\u3053\u306e\u30a8\u30fc\u30c6\u30eb\u306e\u6fc3\u3055\u2026\n\n\u79c1\u306e\u773c\u306b\u306f\u7729\u3057\u3059\u304e\u308b\u308f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc774 \uc5d0\ud14c\ub974 \ub18d\ub3c4\u2026\n\ub208\uc774 \uc2dc\ub9b4 \uc815\ub3c4\ub124\uc694"
     },
     "7081": {
         "0xID": "1BA9",
@@ -60837,7 +60837,7 @@
         "Dialogue_en": "So this is the closest point to the aetherial sea...",
         "Dialogue_fr": "Nous voil\u00e0 au plus pr\u00e8s de la mer des \u00e9toiles...",
         "Dialogue_ja": "\u3053\u3053\u304c\u6700\u3082\n\n\u300c\u661f\u306e\u6d77\u300d\u306b\u8fd1\u3044\u5834\u6240\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc774\uacf3\uc774 '\ubcc4\uc758 \ubc14\ub2e4'\uc5d0\n\uac00\uc7a5 \uac00\uae4c\uc6b4 \uacf3\u2026"
     },
     "7082": {
         "0xID": "1BAA",
@@ -60846,7 +60846,7 @@
         "Dialogue_en": "We've come for you, Minfilia...",
         "Dialogue_fr": "Minfilia...!",
         "Dialogue_ja": "\u30df\u30f3\u30d5\u30a3\u30ea\u30a2\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ubbfc\ud544\ub9ac\uc544\u2026!"
     },
     "7083": {
         "0xID": "1BAB",
@@ -60855,7 +60855,7 @@
         "Dialogue_en": "I shan't soon forget this trial.",
         "Dialogue_fr": "Voil\u00e0 une \u00e9preuve que je n'oublierai pas de sit\u00f4t...",
         "Dialogue_ja": "\u306a\u3093\u3068\u3082\u624b\u8352\u3044\u8a66\u7df4\u3060\u3063\u305f\u306a",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc81c\ubc95 \ud5d8\ub09c\ud55c \uc2dc\ub828\uc774\uc5c8\uad70"
     },
     "7084": {
         "0xID": "1BAC",
@@ -60864,7 +60864,7 @@
         "Dialogue_en": "I gave my all. I pray it was enough...",
         "Dialogue_fr": "J'ai fait tout ce que j'ai pu... \u00c9tait-ce suffisant?",
         "Dialogue_ja": "\u5168\u529b\u306f\u5c3d\u304f\u3057\u305f\u3064\u3082\u308a\u3060\u304c\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ucd5c\uc120\uc744 \ub2e4\ud558\uae34 \ud588\ub294\ub370\u2026"
     },
     "7085": {
         "0xID": "1BAD",
@@ -60873,7 +60873,7 @@
         "Dialogue_en": "The Ixal fought to the very last...",
         "Dialogue_fr": "Les Ixali se sont battus jusqu'au bout...",
         "Dialogue_ja": "\u30a4\u30af\u30b5\u30eb\u65cf\u3082\u5fc5\u6b7b\u3060\u3063\u305f\u306d\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc774\ud06c\uc0b4\uc871\ub3c4 \ud544\uc0ac\uc801\uc774\ub354\uad70\u2026"
     },
     "7086": {
         "0xID": "1BAE",
@@ -60882,7 +60882,7 @@
         "Dialogue_en": "Tee hee hee! Go on, go on!",
         "Dialogue_fr": "Hihi! Allez, parle-nous!",
         "Dialogue_ja": "\u3075\u3075\u3063\uff01\n\n\u304a\u8a71\u3057\u3057\u307e\u3057\u3087\u3046\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud6c4\ud6d7!\n\ub098\ub791 \uc598\uae30\ud558\uc790!"
     },
     "7087": {
         "0xID": "1BAF",
@@ -60891,7 +60891,7 @@
         "Dialogue_en": "Watch it fidget! How adorable!",
         "Dialogue_fr": "Il est tout g\u00ean\u00e9! Trop mignon!",
         "Dialogue_ja": "\u56f0\u3063\u3066\u308b\u59ff\u3082\n\n\u304b\u308f\u3044\u3044\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud5c8\ub465\ub300\ub294 \ubaa8\uc2b5\ub3c4\n\uadc0\uc5ec\uc6cc!"
     },
     "7088": {
         "0xID": "1BB0",
@@ -60900,7 +60900,7 @@
         "Dialogue_en": "Tell me, do you like flowers?",
         "Dialogue_fr": "Tu aimes les fleurs?",
         "Dialogue_ja": "\u306d\u3048\u306d\u3048\uff01\n\n\u304a\u82b1\u306f\u597d\u304d\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc788\uc796\uc544!\n\uaf43 \uc88b\uc544\ud574?"
     },
     "7089": {
         "0xID": "1BB1",
@@ -61143,7 +61143,7 @@
         "Dialogue_en": "S-Snake! There's a snake amongst the eggs!",
         "Dialogue_fr": "U-un serpent a bondi de mon \u0153uf!",
         "Dialogue_ja": "\u30bf\u3001\u30bf\u30de\u30b4\u304b\u3089\n\n\u30d8\u30d3\u304c\u98db\u3073\u51fa\u3057\u3066\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc544, \uc54c\uc5d0\uc11c\n\ubc40\uc774 \ud280\uc5b4\ub098\uc654\uc5b4\u2026!"
     },
     "7112": {
         "0xID": "1BC8",
@@ -61152,7 +61152,7 @@
         "Dialogue_en": "My precious Archon egg...\n\nThey just...took it...",
         "Dialogue_fr": "Oh non... Un Sylphe a vol\u00e9 mon Prrr\u0153uf...",
         "Dialogue_ja": "\u30a2\u30eb\u30b3\u30f3\u30a8\u30c3\u30b0\u3092\n\n\u30b7\u30eb\u30d5\u65cf\u306b\u76d7\u307e\u308c\u308b\u306a\u3093\u3066\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud604\uc790\uc758 \uc54c\uc744\n\uc2e4\ud504\uc871\uc5d0\uac8c \ub3c4\ub451\ub9de\ub2e4\ub2c8\u2026"
     },
     "7113": {
         "0xID": "1BC9",
@@ -61161,7 +61161,7 @@
         "Dialogue_en": "Agh, my gift! Sunk to the bottom...\n\nThose blasted sylphs!",
         "Dialogue_fr": "Le Pr\u0153uf que je comptais offrir est tomb\u00e9 dans la rivi\u00e8re \u00e0 cause des Sylphes...",
         "Dialogue_ja": "\u30b7\u30eb\u30d5\u65cf\u306e\u305b\u3044\u3067\n\n\u8d08\u308a\u7269\u304c\u5ddd\u306b\u843d\u3061\u3061\u3083\u3063\u305f\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc2e4\ud504\uc871 \ub54c\ubb38\uc5d0\n\uc120\ubb3c\uc774 \uac1c\uc6b8\uc5d0 \ub5a8\uc5b4\uc84c\uc5b4\u2026"
     },
     "7114": {
         "0xID": "1BCA",
@@ -61170,7 +61170,7 @@
         "Dialogue_en": "N-No more pranks... Cease this madness, I beg of you...",
         "Dialogue_fr": "Les farces des Sylphes m'ont donn\u00e9 une de ces frousses!",
         "Dialogue_ja": "\u30b7\u30eb\u30d5\u65cf\u3081\n\n\u3044\u305f\u305a\u3089\u3067\u8170\u304c\u629c\u3051\u305f\u305e\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc2e4\ud504\uc871 \uc7a5\ub09c \ub54c\ubb38\uc5d0\n\ud5c8\ub9ac\ub97c \uc090\ub057\ud588\uc5b4\u2026"
     },
     "7115": {
         "0xID": "1BCB",
@@ -61179,7 +61179,7 @@
         "Dialogue_en": "Thanks to you, I was able to focus on the data collection.",
         "Dialogue_fr": "J'ai pu me concentrrrer sur la collecte de donn\u00e9es pendant le combat.",
         "Dialogue_ja": "\u3042\u3093\u305f\u306e\u304a\u304b\u3052\u3067\n\n\u30b9\u30ad\u30e3\u30f3\u306b\u5c02\u5ff5\u3067\u304d\u305f\u3088",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ub124 \ub355\ubd84\uc5d0\n\uc2a4\uce94\uc5d0 \uc804\ub150\ud560 \uc218 \uc788\uc5c8\uc5b4"
     },
     "7116": {
         "0xID": "1BCC",
@@ -61188,7 +61188,7 @@
         "Dialogue_en": "I believe we may declare this foray a success!",
         "Dialogue_fr": "Merrrci, <Split([ObjectParameter(1)], ,1)/>!",
         "Dialogue_ja": "\u3042\u308a\u304c\u3068\u3046\u306a\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uace0\ub9c8\uc6cc!"
     },
     "7117": {
         "0xID": "1BCD",
@@ -61215,7 +61215,7 @@
         "Dialogue_en": "Gods, I'm exhausted. What's a woman have to do to get a bloody drink?",
         "Dialogue_fr": "Je me sens un peu patraque. Auriez-vous des rafraichissements \u00e0 me proposer?",
         "Dialogue_ja": "\u75b2\u308c\u305f\u308f\n\n\u51b7\u305f\u3044\u98f2\u307f\u7269\u3092\u3082\u3089\u3048\u308b\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud53c\uace4\ud558\ub124\n\ucc2c \uc74c\ub8cc \uc880 \uc904\ub798?"
     },
     "712": {
         "0xID": "2C8",
@@ -61233,7 +61233,7 @@
         "Dialogue_en": "Ah, Madam Rowena. A pleasure, as always.",
         "Dialogue_fr": "Madame Rowena, c'est un honneur de vous recevoir parmi nous.",
         "Dialogue_ja": "\u3053\u308c\u306f\u30ed\u30a6\u30a7\u30ca\u69d8\n\n\u3088\u3046\u3053\u305d\u3044\u3089\u3063\u3057\u3083\u3044\u307e\u3057\u305f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ub85c\uc6e8\ub098 \ub2d8 \uc544\ub2c8\uc2ed\ub2c8\uae4c\n\uc5b4\uc11c \uc624\uc138\uc694"
     },
     "7121": {
         "0xID": "1BD1",
@@ -61242,7 +61242,7 @@
         "Dialogue_en": "Why, hello there. Won't you show me around your fine...establishment?",
         "Dialogue_fr": "Quelle beaut\u00e9! Vous marinez chez vos harengs?",
         "Dialogue_ja": "\u30ab\u30ef\u30a4\u30b3\u3061\u3083\u3093\n\n\u30ef\u30b7\u3068\u904a\u3093\u3067\u304f\u308c\u3093\u304b\u306e\u3046\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uadc0\uc5fc\ub465\uc774\uc57c\n\uac19\uc774 \ub180\uc9c0 \uc54a\uc73c\ub828?"
     },
     "7122": {
         "0xID": "1BD2",
@@ -61251,7 +61251,7 @@
         "Dialogue_en": "Those muscles... They're like tree trunks...",
         "Dialogue_fr": "C-cet homme l\u00e0-bas est dr\u00f4lement musculeux...",
         "Dialogue_ja": "\u3042\u3089\u3001\u3042\u306e\u65b9\u2026\n\n\u306a\u304b\u306a\u304b\u306e\u7b4b\u8089\u3067\u3059\u308f\u3041\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc5b4\uba38\ub098, \uc800 \ubd84\u2026\n\uad1c\ucc2e\uc740 \uadfc\uc721\uc778\ub370\uc694\u2026"
     },
     "7123": {
         "0xID": "1BD3",
@@ -61260,7 +61260,7 @@
         "Dialogue_en": "What have we here? A craftsman after my own heart...",
         "Dialogue_fr": "Huh huh, voil\u00e0 une personnalit\u00e9 qui partage mon amour du gluant...",
         "Dialogue_ja": "\u30d5\u30fc\u30c3\u3001\u30d5\u30fc\u30c3\u2026\n\n\u540c\u5fd7\u306e\u304a\u819d\u5143\u306b\u6765\u305f\u305e\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud6c4\uc6b1, \ud6c4\uc6b1\u2026\n\ub3d9\uc9c0\uac00 \uc788\ub294 \uacf3\uc5d0 \uc654\ub3c4\ub2e4\u2026"
     },
     "7124": {
         "0xID": "1BD4",
@@ -61269,7 +61269,7 @@
         "Dialogue_en": "Fascinating... A complex interplay between light and the wood's natural form. ",
         "Dialogue_fr": "Int\u00e9ressant comme la lumi\u00e8re sublime les mat\u00e9riaux naturels...",
         "Dialogue_ja": "\u6728\u6750\u672c\u6765\u306e\u59ff\u3092\u6d3b\u304b\u3057\u3064\u3064\n\n\u5149\u6e90\u3092\u5f69\u308b\u610f\u5320\u306b\u843d\u3068\u3057\u8fbc\u3080\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ubaa9\uc7ac \ubcf8\uc5f0\uc758 \ubaa8\uc2b5\uc744 \uc0b4\ub9ac\uba74\uc11c\n\ub2e4\ucc44\ub85c\uc6b4 \ube5b\uacfc \uc5b4\uc6b8\ub9ac\uac8c \uc7a5\uc2dd\ud588\uad70\uc694\u2026"
     },
     "7125": {
         "0xID": "1BD5",
@@ -61278,7 +61278,7 @@
         "Dialogue_en": "Can you catch us, kupo?",
         "Dialogue_fr": "Un Mog en guise de grappin!? Mais c'est de la barbarie, kupo!",
         "Dialogue_ja": "\u30e2\u30b0\u305f\u3061\u3092\n\n\u30ad\u30e3\u30c3\u30c1\u3059\u308b\u30af\u30dd\uff01\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ubaa8\uadf8\ub4e4\uc744\n\ubf51\ub294\ub2e4\uace0\ucfe0\ubf40!?"
     },
     "7126": {
         "0xID": "1BD6",
@@ -61287,7 +61287,7 @@
         "Dialogue_en": "So long as there's drink, I can manage...",
         "Dialogue_fr": "Faut que j'picole un coup, sinon \u00e7a va pas le faire...",
         "Dialogue_ja": "\u9152\u3067\u3082\u98f2\u307e\u306a\u304d\u3083\n\n\u3084\u3063\u3066\u3089\u30f3\u306d\u3048\u305c\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc220\uc774\ub77c\ub3c4 \ub9c8\uc2dc\uc9c0 \uc54a\uc73c\uba74\n\ubabb \ud574 \uba39\ub294\ub2e4\uace0\u2026"
     },
     "7127": {
         "0xID": "1BD7",
@@ -61296,7 +61296,7 @@
         "Dialogue_en": "One moment poor as a pauper, the next rich as a king! Ah, what a magical place!",
         "Dialogue_fr": "Ah, la fortune... Qui n'en a jamais r\u00eav\u00e9?",
         "Dialogue_ja": "\u4e00\u652b\u5343\u91d1\n\n\u3053\u308c\u3082\u307e\u305f\u30e9\u30d6\uff06\u30c9\u30ea\u30fc\u30e0\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc77c\ud655\ucc9c\uae08\n\uc774 \ub610\ud55c \uc0ac\ub791\uacfc \uafc8\u2026"
     },
     "7128": {
         "0xID": "1BD8",
@@ -61305,7 +61305,7 @@
         "Dialogue_en": "My readers would be very interested to know what items are on offer.",
         "Dialogue_fr": "Peut-\u00eatre que la liste des lots en jeu int\u00e9resserait nos lecteurs...?",
         "Dialogue_ja": "\u666f\u54c1\u306e\u30ea\u30b9\u30c8\u3092\u8f09\u305b\u305f\u3089\n\n\u8aad\u8005\u306e\u8208\u5473\u3092\u5f15\u3051\u308b\u304b\u306a\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uacbd\ud488 \ubaa9\ub85d\uc744 \uc2e4\uc73c\uba74\n\ub3c5\uc790\uc758 \uad00\uc2ec\uc744 \ub04c \uc218 \uc788\uc744\uae4c\u2026"
     },
     "7129": {
         "0xID": "1BD9",
@@ -61314,7 +61314,7 @@
         "Dialogue_en": "It's a good thing we found your mother, isn't it?",
         "Dialogue_fr": "Ta maman est l\u00e0, regarrrde!",
         "Dialogue_ja": "\u304a\u6bcd\u3055\u3093\u306b\u4f1a\u3048\u3066\n\n\u3088\u304b\u3063\u305f\u306a\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc5c4\ub9c8\ub97c \ucc3e\uc544\uc11c\n\ub2e4\ud589\uc774\ub2e4!"
     },
     "713": {
         "0xID": "2C9",
@@ -61332,7 +61332,7 @@
         "Dialogue_en": "Thank you, mister! Thank you!",
         "Dialogue_fr": "Merci Monsieur, vous \u00eates un saint!",
         "Dialogue_ja": "\u304a\u306b\u3044\u3061\u3083\u3093\n\n\u3042\u308a\u304c\u3068\u3046\uff01\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc624\ube60\n\uace0\ub9d9\uc2b5\ub2c8\ub2e4!!"
     },
     "7131": {
         "0xID": "1BDB",
@@ -61341,7 +61341,7 @@
         "Dialogue_en": "This young lad was a great help in the search.",
         "Dialogue_fr": "Cette personne nous a aid\u00e9s \u00e0 retrouver votre enfant.",
         "Dialogue_ja": "\u3053\u3061\u3089\u306e\u65b9\u304c\u635c\u7d22\u3092\n\n\u624b\u4f1d\u3063\u3066\u304f\u3060\u3055\u3063\u305f\u306e\u3067\u3059",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc774\ubd84\uc774 \ub3c4\uc640\uc8fc\uc168\uc2b5\ub2c8\ub2e4"
     },
     "7132": {
         "0xID": "1BDC",
@@ -61350,7 +61350,7 @@
         "Dialogue_en": "The colors of summer should lend themselves splendidly to new garments.",
         "Dialogue_fr": "Une tenue aux couleurs de l'\u00c9ternel \u00e9t\u00e9, ce serait vraiment pas mal!",
         "Dialogue_ja": "\u5e38\u590f\u306e\u88c5\u3044\u2026\n\n\u65b0\u5546\u54c1\u306e\u53c2\u8003\u306b\u3059\u308b\u306e\u3067\u3063\u3059\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u5e38\u590f\u306e\u88c5\u3044\u2026\n\u65b0\u5546\u54c1\u306e\u53c2\u8003\u306b\u3059\u308b\u306e\u3067\u3063\u3059\uff01"
     },
     "7133": {
         "0xID": "1BDD",
@@ -61359,7 +61359,7 @@
         "Dialogue_en": "We're here to glean inspiration for Tataru Taru's Boutique!",
         "Dialogue_fr": "Nous venons chercher de l'inspiration pour la Tarufacture!",
         "Dialogue_ja": "\u79c1\u305f\u3061\u3001\u5927\u7e41\u76db\u5546\u5e97\u306e\n\n\u8996\u5bdf\u3067\u8a2a\u554f\u3057\u3066\u3044\u308b\u3093\u3067\u3059\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u79c1\u305f\u3061\u3001\u5927\u7e41\u76db\u5546\u5e97\u306e\n\u8996\u5bdf\u3067\u8a2a\u554f\u3057\u3066\u3044\u308b\u3093\u3067\u3059\uff01"
     },
     "7134": {
         "0xID": "1BDE",
@@ -61368,7 +61368,7 @@
         "Dialogue_en": "The sea here looks so different than in Thavnair... I could stare at it forever!",
         "Dialogue_fr": "La couleur de la mer est diff\u00e9rente mais tout aussi belle qu'\u00e0 Thavnair!",
         "Dialogue_ja": "\u30b5\u30d9\u30cd\u30a2\u306e\u6d77\u3068\u3082\u9055\u3046\u8272\u2026\n\n\u7d20\u6575\u306a\u3068\u3053\u308d\u306d\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30b5\u30d9\u30cd\u30a2\u306e\u6d77\u3068\u3082\u9055\u3046\u8272\u2026\n\u7d20\u6575\u306a\u3068\u3053\u308d\u306d\uff01"
     },
     "7135": {
         "0xID": "1BDF",
@@ -61377,7 +61377,7 @@
         "Dialogue_en": "Oh, thank the gods Khloe is safe...",
         "Dialogue_fr": "Khloe a l'air en pleine forrrme, tant mieux!",
         "Dialogue_ja": "\u30af\u30ed\u306b\u602a\u6211\u304c\u306a\u304f\u3066\n\n\u672c\u5f53\u306b\u3088\u304b\u3063\u305f\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30af\u30ed\u306b\u602a\u6211\u304c\u306a\u304f\u3066\n\u672c\u5f53\u306b\u3088\u304b\u3063\u305f\u2026"
     },
     "7136": {
         "0xID": "1BE0",
@@ -61386,7 +61386,7 @@
         "Dialogue_en": "Of course not, T'kebbe! The savior was amazing!",
         "Dialogue_fr": "Le H\u00e9ros de la Morrrt en jette! Puisque je te le dis, T'kebbe!",
         "Dialogue_ja": "\u30b1\u30d3\u3061\u3083\u3093\u304d\u3044\u3066\uff01\n\n\u3059\u3063\u3054\u304f\u304b\u3063\u3053\u3088\u304b\u3063\u305f\u306e\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30b1\u30d3\u3061\u3083\u3093\u304d\u3044\u3066\uff01\n\u3059\u3063\u3054\u304f\u304b\u3063\u3053\u3088\u304b\u3063\u305f\u306e\uff01"
     },
     "7137": {
         "0xID": "1BE1",
@@ -61395,7 +61395,7 @@
         "Dialogue_en": "You weren't scared, Khloe?",
         "Dialogue_fr": "Tu as d\u00fb avoir vachement peurrr, quand m\u00eame...",
         "Dialogue_ja": "\u30af\u30ed\u3061\u3083\u3093\n\n\u6016\u304f\u306a\u304b\u3063\u305f\u2026\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30af\u30ed\u3061\u3083\u3093\n\u6016\u304f\u306a\u304b\u3063\u305f\u2026\uff1f"
     },
     "7138": {
         "0xID": "1BE2",
@@ -61404,7 +61404,7 @@
         "Dialogue_en": "We'll catch our fortunes soon enough, I can feel it!",
         "Dialogue_fr": "Ma\u00eetre Wawalago est toujours aussi motiv\u00e9!",
         "Dialogue_ja": "\u89aa\u5206\u3001\u3044\u3064\u306b\u306a\u304f\n\n\u3084\u308b\u6c17\u51fa\u3057\u3066\u308b\u3058\u3083\u306a\u3044",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u89aa\u5206\u3001\u3044\u3064\u306b\u306a\u304f\n\u3084\u308b\u6c17\u51fa\u3057\u3066\u308b\u3058\u3083\u306a\u3044"
     },
     "7139": {
         "0xID": "1BE3",
@@ -61413,7 +61413,7 @@
         "Dialogue_en": "I heard tell there's fish around here that'll fetch a whole sack of gil.",
         "Dialogue_fr": "Il para\u00eet qu'il y a des poissons rares dans le coin...",
         "Dialogue_ja": "\u73cd\u3057\u3044\u304a\u9b5a\u3055\u3093\u304c\u3044\u308b\u3068\n\n\u805e\u3044\u305f\u3093\u3062\u3084\u304c\u306e\u3046\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u73cd\u3057\u3044\u304a\u9b5a\u3055\u3093\u304c\u3044\u308b\u3068\n\u805e\u3044\u305f\u3093\u3062\u3084\u304c\u306e\u3046\uff1f"
     },
     "714": {
         "0xID": "2CA",
@@ -61431,7 +61431,7 @@
         "Dialogue_en": "Kweh! Kweh!",
         "Dialogue_fr": "Kw\u00e9kw\u00e9!",
         "Dialogue_ja": "\u30af\u30a8\u30af\u30a8\u30c3\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30af\u30a8\u30af\u30a8\u30c3\uff01"
     },
     "7141": {
         "0xID": "1BE5",
@@ -61449,7 +61449,7 @@
         "Dialogue_en": "Ungh... What the\u2500!?",
         "Dialogue_fr": "A\u00efe! Ouille! Argh!",
         "Dialogue_ja": "\u3050\u306c\u306c\u306c\u3001\u306a\u306b\u3092\u30fc\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3050\u306c\u306c\u306c\u3001\u306a\u306b\u3092\u30fc\uff01"
     },
     "7143": {
         "0xID": "1BE7",
@@ -61458,7 +61458,7 @@
         "Dialogue_en": "You almost have it, my lord!",
         "Dialogue_fr": "Encore un tout petit effort, Sire Emmanellain!",
         "Dialogue_ja": "\u30a8\u30de\u30cd\u30e9\u30f3\u69d8\n\n\u3082\u3046\u5c11\u3057\u3067\u3059\u3001\u306f\u3044",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30a8\u30de\u30cd\u30e9\u30f3\u69d8\n\u3082\u3046\u5c11\u3057\u3067\u3059\u3001\u306f\u3044"
     },
     "7144": {
         "0xID": "1BE8",
@@ -61467,7 +61467,7 @@
         "Dialogue_en": "Guess your blue blood's not worth much here, eh?",
         "Dialogue_fr": "Eh ben alors, le poudr\u00e9? On a du mal \u00e0 grimper?",
         "Dialogue_ja": "\u30dc\u30f3\u30af\u30e9\u8cb4\u65cf\u306b\u3083\n\n\u304d\u3064\u304b\u3063\u305f\u304b\u3041\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30dc\u30f3\u30af\u30e9\u8cb4\u65cf\u306b\u3083\n\u304d\u3064\u304b\u3063\u305f\u304b\u3041\uff1f"
     },
     "7145": {
         "0xID": "1BE9",
@@ -61476,7 +61476,7 @@
         "Dialogue_en": "No one else saw that... Aye, no one else...",
         "Dialogue_fr": "Allez, juste un petit coup de pouce du hasard, quoi...",
         "Dialogue_ja": "\u5076\u7136\u3092\u3001\u5076\u7136\u3092\u88c5\u3048\u3070\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u5076\u7136\u3092\u3001\u5076\u7136\u3092\u88c5\u3048\u3070\u2026"
     },
     "7146": {
         "0xID": "1BEA",
@@ -61485,7 +61485,7 @@
         "Dialogue_en": "I'm so full of desserts... And so cold...",
         "Dialogue_fr": "\u00c9trange, ce coup de froid soudain... Trop de sorbet, peut-\u00eatre?",
         "Dialogue_ja": "\u4f55\u6545\u304b\u5bd2\u6c17\u304c\u2026\n\n\u6c37\u83d3\u3092\u98df\u3079\u3059\u304e\u307e\u3057\u305f\u304b\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u4f55\u6545\u304b\u5bd2\u6c17\u304c\u2026\n\u6c37\u83d3\u3092\u98df\u3079\u3059\u304e\u307e\u3057\u305f\u304b\u306d"
     },
     "7147": {
         "0xID": "1BEB",
@@ -61494,7 +61494,7 @@
         "Dialogue_en": "I hear that a master of making confectionaries has come to enjoy the festivities.",
         "Dialogue_fr": "On m'a dit qu'un p\u00e2tissier de grand talent \u00e9tait venu bronzer ici...",
         "Dialogue_ja": "\u304a\u83d3\u5b50\u3065\u304f\u308a\u306e\u9054\u4eba\u304c\n\n\u3053\u3053\u306b\u6765\u3066\u308b\u3089\u3057\u3044\u3093\u3067\u3059",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u304a\u83d3\u5b50\u3065\u304f\u308a\u306e\u9054\u4eba\u304c\n\u3053\u3053\u306b\u6765\u3066\u308b\u3089\u3057\u3044\u3093\u3067\u3059"
     },
     "7148": {
         "0xID": "1BEC",
@@ -61503,7 +61503,7 @@
         "Dialogue_en": "Everyone here's having so much fun!",
         "Dialogue_fr": "C'est vraiment l'\u00e9clate totale sur les plages d'\u00c6therys!",
         "Dialogue_ja": "\u307f\u3093\u306a\u3067\u30d4\u30e7\u30f3\u30d4\u30e7\u30f3\u305f\u306e\u3057\u305d\u3046\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u307f\u3093\u306a\u3067\u30d4\u30e7\u30f3\u30d4\u30e7\u30f3\u305f\u306e\u3057\u305d\u3046\uff01"
     },
     "7149": {
         "0xID": "1BED",
@@ -61512,7 +61512,7 @@
         "Dialogue_en": "If only the moon had something like this...",
         "Dialogue_fr": "Si seulement on pouvait avoir les m\u00eames sur la lune...",
         "Dialogue_ja": "\u3053\u3046\u3044\u3046\u306e\n\n\u6708\u306b\u3082\u4f5c\u308c\u306a\u3044\u304b\u306a\u3042",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3053\u3046\u3044\u3046\u306e\n\u6708\u306b\u3082\u4f5c\u308c\u306a\u3044\u304b\u306a\u3042"
     },
     "715": {
         "0xID": "2CB",
@@ -61530,7 +61530,7 @@
         "Dialogue_en": "That's quite a few bombs. We may soon need a resupply...",
         "Dialogue_fr": "On risque de se retrouver \u00e0 court de bombes tr\u00e8s bient\u00f4t...",
         "Dialogue_ja": "\u9b54\u57ce\u3067\u4f7f\u3046\u7206\u5f3e\u304c\u8db3\u308a\u306a\u3044\uff1f\n\n\u306f\u3084\u304f\u7528\u610f\u3057\u306a\u3044\u3068\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u9b54\u57ce\u3067\u4f7f\u3046\u7206\u5f3e\u304c\u8db3\u308a\u306a\u3044\uff1f\n\u306f\u3084\u304f\u7528\u610f\u3057\u306a\u3044\u3068\u2026"
     },
     "7151": {
         "0xID": "1BEF",
@@ -61539,7 +61539,7 @@
         "Dialogue_en": "Hehehe... Worry not. I have brought enough for many, many booms\u2500blasts, bangs, booms!",
         "Dialogue_fr": "Hihihi... Pas d'inqui\u00e9tude, j'en ai ramen\u00e9 une tonz, oh ouiii, une tonz!",
         "Dialogue_ja": "\u30af\u30af\u30af\u2026\u304a\u304b\u3052\u30fc\u3067\n\n\u30dc\u30e0\u3061\u3083\u3093\u3001\u305f\u304f\u3055\u3093\u7f6e\u3051\u305f\u30fc\u3088",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30af\u30af\u30af\u2026\u304a\u304b\u3052\u30fc\u3067\n\u30dc\u30e0\u3061\u3083\u3093\u3001\u305f\u304f\u3055\u3093\u7f6e\u3051\u305f\u30fc\u3088"
     },
     "7152": {
         "0xID": "1BF0",
@@ -61548,7 +61548,7 @@
         "Dialogue_en": "Ungh... I can't do any better than this...?",
         "Dialogue_fr": "Urrrgh... Il faut que je me donne plus \u00e0 fond!",
         "Dialogue_ja": "\u3046\u3050\u3050\u3001\u672c\u6c17\u3067\u6311\u3081\u3070\n\n\u3053\u308c\u304f\u3089\u3044\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3046\u3050\u3050\u3001\u672c\u6c17\u3067\u6311\u3081\u3070\n\u3053\u308c\u304f\u3089\u3044\u2026\uff01"
     },
     "7153": {
         "0xID": "1BF1",
@@ -61557,7 +61557,7 @@
         "Dialogue_en": "You can do it! Go, go!",
         "Dialogue_fr": "Courrrage, grand fr\u00e8re!",
         "Dialogue_ja": "\u304a\u5144\u3061\u3083\u3093\u3001\u304c\u3093\u3070\u308c\u30fc\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u304a\u5144\u3061\u3083\u3093\u3001\u304c\u3093\u3070\u308c\u30fc\uff01"
     },
     "7154": {
         "0xID": "1BF2",
@@ -61566,7 +61566,7 @@
         "Dialogue_en": "I believe in you!",
         "Dialogue_fr": "C'est dans la poche, Patron!",
         "Dialogue_ja": "\u3044\u3051\u307e\u3059\u3088\u3001\u5144\u8cb4\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3044\u3051\u307e\u3059\u3088\u3001\u5144\u8cb4\uff01"
     },
     "7155": {
         "0xID": "1BF3",
@@ -61584,7 +61584,7 @@
         "Dialogue_en": "I won't doubt myself any longer!",
         "Dialogue_fr": "Pas le moment de se d\u00e9concentrer!",
         "Dialogue_ja": "\u308f\u305f\u3057\u306f\u2026\u8ff7\u308f\u306a\u3044\u3088",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u308f\u305f\u3057\u306f\u2026\u8ff7\u308f\u306a\u3044\u3088"
     },
     "7157": {
         "0xID": "1BF5",
@@ -61593,7 +61593,7 @@
         "Dialogue_en": "Don't worry!",
         "Dialogue_fr": "Vous faites pas de bile!",
         "Dialogue_ja": "\u5fc3\u914d\u306a\u3044\u30c3\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u5fc3\u914d\u306a\u3044\u30c3\uff01"
     },
     "7158": {
         "0xID": "1BF6",
@@ -61602,7 +61602,7 @@
         "Dialogue_en": "When it comes to water...",
         "Dialogue_fr": "On a tous bu trois bouteilles d'eau chacun!",
         "Dialogue_ja": "\u6c34\u5206\u88dc\u7d66\u306f\u30c3\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u6c34\u5206\u88dc\u7d66\u306f\u30c3\uff01"
     },
     "7159": {
         "0xID": "1BF7",
@@ -61611,7 +61611,7 @@
         "Dialogue_en": "...We're filled to the brim!",
         "Dialogue_fr": "J'ai envie d'aller aux gogues...",
         "Dialogue_ja": "\u4e07\u5168\u3060\u30c3\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u4e07\u5168\u3060\u30c3\uff01"
     },
     "716": {
         "0xID": "2CC",
@@ -61629,7 +61629,7 @@
         "Dialogue_en": "This might be beyond me...",
         "Dialogue_fr": "C'est trop d'\u00e9motions d'un coup pour moi!",
         "Dialogue_ja": "\u30a2\u30bf\u30b7\u306f\u30ad\u30c4\u30a4\u304b\u306a\uff5e",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30a2\u30bf\u30b7\u306f\u30ad\u30c4\u30a4\u304b\u306a\uff5e"
     },
     "7161": {
         "0xID": "1BF9",
@@ -61638,7 +61638,7 @@
         "Dialogue_en": "One step at a time...",
         "Dialogue_fr": "Un pied devant l'autre, comme on dit chez nous!",
         "Dialogue_ja": "\u3072\u3068\u3064\u3072\u3068\u3064\n\n\u78ba\u5b9f\u306b\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3072\u3068\u3064\u3072\u3068\u3064\n\u78ba\u5b9f\u306b\u2026\uff01"
     },
     "7162": {
         "0xID": "1BFA",
@@ -61647,7 +61647,7 @@
         "Dialogue_en": "So many bombs! Eeek!",
         "Dialogue_fr": "\u00c7a p\u00e8te de partout, dites donc!",
         "Dialogue_ja": "\u7206\u5f3e\u3044\u3063\u3071\u3044\uff01\n\n\u3072\u3048\u3047\uff5e\u3063",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u7206\u5f3e\u3044\u3063\u3071\u3044\uff01\n\u3072\u3048\u3047\uff5e\u3063"
     },
     "7163": {
         "0xID": "1BFB",
@@ -61656,7 +61656,7 @@
         "Dialogue_en": "Easy does it...",
         "Dialogue_fr": "Attention \u00e0 ne pas d\u00e9rrraper!",
         "Dialogue_ja": "\u8efd\u3044\u8efd\u3044\uff5e\u3063\u266a",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u8efd\u3044\u8efd\u3044\uff5e\u3063\u266a"
     },
     "7164": {
         "0xID": "1BFC",
@@ -61665,7 +61665,7 @@
         "Dialogue_en": "Come visit the memorial space when you have a moment!",
         "Dialogue_fr": "Si vous voulez voir le m\u00e9morial, laissez-vous glisser le long de ce toboggan!",
         "Dialogue_ja": "\u3053\u3061\u3089\u306e\u30e1\u30e2\u30ea\u30a2\u30eb\u30b9\u30da\u30fc\u30b9\u306b\u3082\n\n\u305c\u3072\u8db3\u3092\u904b\u3093\u3067\u307f\u3066\u304f\u3060\u3055\u3044\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3053\u3061\u3089\u306e\u30e1\u30e2\u30ea\u30a2\u30eb\u30b9\u30da\u30fc\u30b9\u306b\u3082\n\u305c\u3072\u8db3\u3092\u904b\u3093\u3067\u307f\u3066\u304f\u3060\u3055\u3044\uff01"
     },
     "7165": {
         "0xID": "1BFD",
@@ -61674,7 +61674,7 @@
         "Dialogue_en": "Glub...glub...glub...!",
         "Dialogue_fr": "Blourp... Glourp...",
         "Dialogue_ja": "\u30ac\u30dc\u30dc\u30d9\u30d9\u30d9\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30ac\u30dc\u30dc\u30d9\u30d9\u30d9\u2026"
     },
     "7166": {
         "0xID": "1BFE",
@@ -61683,7 +61683,7 @@
         "Dialogue_en": "Ahhh... Now that's refreshing!",
         "Dialogue_fr": "Aaaah... \u00c7a fait tellement du bien...",
         "Dialogue_ja": "\u6ce2\u306b\u63fa\u3089\u308c\u3066\n\n\u3086\uff5e\u3089\u3086\u3089\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u6ce2\u306b\u63fa\u3089\u308c\u3066\n\u3086\uff5e\u3089\u3086\u3089\u2026"
     },
     "7167": {
         "0xID": "1BFF",
@@ -61692,7 +61692,7 @@
         "Dialogue_en": "Come on... Just a little further...",
         "Dialogue_fr": "Allez... Un peu de courage, que diable...",
         "Dialogue_ja": "\u52c7\u6c17\u51fa\u305b\u3001\u4ffa\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u52c7\u6c17\u51fa\u305b\u3001\u4ffa\u2026\uff01"
     },
     "7168": {
         "0xID": "1C00",
@@ -61701,7 +61701,7 @@
         "Dialogue_en": "Quit faking or you'll distract the savior from real heroics!",
         "Dialogue_fr": "Arr\u00eate de faire semblant de te noyer, tu vas d\u00e9ranger le H\u00e9ros de la Mort pour rien!",
         "Dialogue_ja": "\u3042\u3093\u307e\u308a\u3075\u3056\u3051\u3066\u308b\u3068\n\n\u30d2\u30fc\u30ed\u30fc\u58eb\u304c\u5fc3\u914d\u3059\u308b\u3088\uff5e\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3042\u3093\u307e\u308a\u3075\u3056\u3051\u3066\u308b\u3068\n\u30d2\u30fc\u30ed\u30fc\u58eb\u304c\u5fc3\u914d\u3059\u308b\u3088\uff5e\uff1f"
     },
     "7169": {
         "0xID": "1C01",
@@ -61710,7 +61710,7 @@
         "Dialogue_en": "I can do this... Maybe.",
         "Dialogue_fr": "\u00c7a va le faire, \u00e7a va le faire... Enfin, j'esp\u00e8re...",
         "Dialogue_ja": "\u3044\u3051\u308b\u3044\u3051\u308b\n\n\u305f\u3076\u3093\u3044\u3051\u308b\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3044\u3051\u308b\u3044\u3051\u308b\n\u305f\u3076\u3093\u3044\u3051\u308b\u2026"
     },
     "717": {
         "0xID": "2CD",
@@ -61728,7 +61728,7 @@
         "Dialogue_en": "I can't fall...not again!",
         "Dialogue_fr": "Fais attention \u00e0 ne pas tomber cette fois, mon loulou!",
         "Dialogue_ja": "\u4eca\u5ea6\u306f\u843d\u3061\u306a\u3044\u3067\u3088\uff5e\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u4eca\u5ea6\u306f\u843d\u3061\u306a\u3044\u3067\u3088\uff5e\uff1f"
     },
     "7171": {
         "0xID": "1C03",
@@ -61737,7 +61737,7 @@
         "Dialogue_en": "Every failure just makes you stronger! Show us what you're made of!",
         "Dialogue_fr": "L'heure de ta revanche a sonn\u00e9!",
         "Dialogue_ja": "\u304a\u3046\u3001\u30ea\u30d9\u30f3\u30b8\u304b\u307e\u3057\u305f\u308c\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u304a\u3046\u3001\u30ea\u30d9\u30f3\u30b8\u304b\u307e\u3057\u305f\u308c\uff01"
     },
     "7172": {
         "0xID": "1C04",
@@ -61746,7 +61746,7 @@
         "Dialogue_en": "If trouble comes knocking, the Sunshine Savior will scare it off!",
         "Dialogue_fr": "Tant que le H\u00e9rrros de la Mort est l\u00e0, nous sommes en s\u00e9curit\u00e9!",
         "Dialogue_ja": "\u4e07\u4e00\u30c8\u30e9\u30d6\u30eb\u304c\u3042\u3063\u3066\u3082\n\n\u30d2\u30fc\u30ed\u30fc\u58eb\u304c\u3044\u308b\u306a\u3089\u5b89\u5fc3\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u4e07\u4e00\u30c8\u30e9\u30d6\u30eb\u304c\u3042\u3063\u3066\u3082\n\u30d2\u30fc\u30ed\u30fc\u58eb\u304c\u3044\u308b\u306a\u3089\u5b89\u5fc3\u306d"
     },
     "7173": {
         "0xID": "1C05",
@@ -61755,7 +61755,7 @@
         "Dialogue_en": "Even if it's a shark that's thiiis big!",
         "Dialogue_fr": "Vous croyez que le requin va revenir?",
         "Dialogue_ja": "\u30b5\u30e1\u304c\u6765\u3066\u3082\u5927\u4e08\u592b\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30b5\u30e1\u304c\u6765\u3066\u3082\u5927\u4e08\u592b\uff01"
     },
     "7174": {
         "0xID": "1C06",
@@ -61764,7 +61764,7 @@
         "Dialogue_en": "H-Hey! Don't tempt fate like that!",
         "Dialogue_fr": "Oh non, parle pas de malheur!",
         "Dialogue_ja": "\u3061\u3087\u3063\u3068\n\n\u6016\u3044\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3061\u3087\u3063\u3068\n\u6016\u3044\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088\uff01"
     },
     "7175": {
         "0xID": "1C07",
@@ -61773,7 +61773,7 @@
         "Dialogue_en": "What scent drew that shark here, I wonder?",
         "Dialogue_fr": "Un requin sur pattes, c'est vrai que \u00e7a fait peur...",
         "Dialogue_ja": "\u3042\u306e\u30b5\u30e1\n\n\u4f55\u3057\u306b\u304d\u305f\u3093\u3060\u308d\u3046\u306d\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3042\u306e\u30b5\u30e1\n\u4f55\u3057\u306b\u304d\u305f\u3093\u3060\u308d\u3046\u306d\uff1f"
     },
     "7176": {
         "0xID": "1C08",
@@ -61782,7 +61782,7 @@
         "Dialogue_en": "Someone said there's a breathtaking vista next to the course.",
         "Dialogue_fr": "\u00c7a a l'air sympa l\u00e0-bas, \u00e0 c\u00f4t\u00e9 de l'attraction...",
         "Dialogue_ja": "\u9b54\u57ce\u306e\u96a3\u306b\n\n\u7d76\u666f\u30b9\u30dd\u30c3\u30c8\u304c\u3042\u308b\u3093\u3060\u3068",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u9b54\u57ce\u306e\u96a3\u306b\n\u7d76\u666f\u30b9\u30dd\u30c3\u30c8\u304c\u3042\u308b\u3093\u3060\u3068"
     },
     "7177": {
         "0xID": "1C09",
@@ -61791,7 +61791,7 @@
         "Dialogue_en": "Really!? Promise we'll go later.",
         "Dialogue_fr": "Tu crois? Allons voir \u00e7a de plus pr\u00e8s!",
         "Dialogue_ja": "\u3078\uff5e\n\n\u3042\u3068\u3067\u3044\u3063\u3066\u307f\u3088\u3063\u304b\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3078\uff5e\n\u3042\u3068\u3067\u3044\u3063\u3066\u307f\u3088\u3063\u304b\uff01"
     },
     "7178": {
         "0xID": "1C0A",
@@ -61800,7 +61800,7 @@
         "Dialogue_en": "Welcome, welcome!",
         "Dialogue_fr": "Bienvenue \u00e0 vous!",
         "Dialogue_ja": "\u3088\u3046\u3053\u305d\u30fc\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3088\u3046\u3053\u305d\u30fc\uff01"
     },
     "7179": {
         "0xID": "1C0B",
@@ -61809,7 +61809,7 @@
         "Dialogue_en": "You did well to make it here!",
         "Dialogue_fr": "On dirait que vous avez fait \u00e7a toute votrrre vie!",
         "Dialogue_ja": "\u3088\u304f\u3053\u3053\u307e\u3067\u3053\u308c\u305f\u306d\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3088\u304f\u3053\u3053\u307e\u3067\u3053\u308c\u305f\u306d\uff01"
     },
     "718": {
         "0xID": "2CE",
@@ -61827,7 +61827,7 @@
         "Dialogue_en": "Such courage! Such grace!",
         "Dialogue_fr": "Quelle classe!",
         "Dialogue_ja": "\u30ca\u30a4\u30b9\u30d5\u30a1\u30a4\u30c8\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30ca\u30a4\u30b9\u30d5\u30a1\u30a4\u30c8\uff01"
     },
     "7181": {
         "0xID": "1C0D",
@@ -61836,7 +61836,7 @@
         "Dialogue_en": "That's our savior? ",
         "Dialogue_fr": "Tout de m\u00eame, ce costume...",
         "Dialogue_ja": "\u3057\u304b\u3057\u3042\u306e\u8863\u88c5\u306f\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3057\u304b\u3057\u3042\u306e\u8863\u88c5\u306f\u2026"
     },
     "7182": {
         "0xID": "1C0E",
@@ -61845,7 +61845,7 @@
         "Dialogue_en": "Aye, it takes courage to wear something like that...",
         "Dialogue_fr": "Jamais de la vie je ne mettrai un truc pareil!",
         "Dialogue_ja": "\u3048\u3048\u3001\u3055\u3059\u304c\u306b\n\n\u7740\u308b\u306e\u306f\u9060\u616e\u3057\u305f\u3044\u308f\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3048\u3048\u3001\u3055\u3059\u304c\u306b\n\u7740\u308b\u306e\u306f\u9060\u616e\u3057\u305f\u3044\u308f\u306d"
     },
     "7183": {
         "0xID": "1C0F",
@@ -61854,7 +61854,7 @@
         "Dialogue_en": "The only thing better than making desserts is watching people tumble into the sea.",
         "Dialogue_fr": "Je jette un \u0153il \u00e0 \u201cPas dans l'tas\u201d entre deux fourn\u00e9es de desserts...",
         "Dialogue_ja": "\u6c37\u83d3\u4f5c\u308a\u306e\u5408\u9593\u306b\n\n\u3061\u3087\u3044\u3068\u9b54\u57ce\u3092\u898b\u7269\u4e2d\u3055",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u6c37\u83d3\u4f5c\u308a\u306e\u5408\u9593\u306b\n\u3061\u3087\u3044\u3068\u9b54\u57ce\u3092\u898b\u7269\u4e2d\u3055"
     },
     "7184": {
         "0xID": "1C10",
@@ -61899,7 +61899,7 @@
         "Dialogue_en": "Why do you suppose they chose here for their lair?",
         "Dialogue_fr": "Qu'est-ce qu'une cr\u00e9ature aussi puissante fait ici?",
         "Dialogue_ja": "\u5f37\u5927\u306a\u5996\u7570\u304c\n\n\u306a\u305c\u3053\u3093\u306a\u5834\u6240\u306b\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uac15\ub825\ud55c \uc694\ub9c8\uac00\n\uc5b4\uc9f8\uc11c \uc774\ub7f0 \uacf3\uc5d0\u2026"
     },
     "7189": {
         "0xID": "1C15",
@@ -61908,7 +61908,7 @@
         "Dialogue_en": "Well, that was a challenge.",
         "Dialogue_fr": "Il \u00e9tait costaud, celui-l\u00e0!",
         "Dialogue_ja": "\u624b\u5f37\u304b\u3063\u305f\u308f\u306d\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uac15\ud588\uc5b4\u2026!"
     },
     "719": {
         "0xID": "2CF",
@@ -61926,7 +61926,7 @@
         "Dialogue_en": "So goes yet another archfiend.",
         "Dialogue_fr": "Encore un g\u00e9n\u00e9ral de Golbez...",
         "Dialogue_ja": "\u3053\u3044\u3064\u3082\n\n\u30b4\u30eb\u30d9\u30fc\u30b6\u56db\u5929\u738b\u3060\u3063\u305f\u304b",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc774 \ub140\uc11d\ub3c4\n\uace8\ubca0\uc790 \uc0ac\ucc9c\uc655\uc774\uc5c8\uad70"
     },
     "7191": {
         "0xID": "1C17",
@@ -61935,7 +61935,7 @@
         "Dialogue_en": "I've never seen a voidsent with such command over water.",
         "Dialogue_fr": "Le \u201cma\u00eetre de l'eau\u201d, hein... Il n'a pas vol\u00e9 son nom.",
         "Dialogue_ja": "\u6c34\u3092\u64cd\u308b\u5996\u7570\u3068\u306f\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ubb3c\uc744 \ub2e4\ub8e8\ub294 \uc694\ub9c8\ub77c\ub2c8"
     },
     "7192": {
         "0xID": "1C18",
@@ -61944,7 +61944,7 @@
         "Dialogue_en": "That they could open so large a gate is troubling.",
         "Dialogue_fr": "Leur porte du n\u00e9ant est aussi grande que pr\u00e9vu.",
         "Dialogue_ja": "\u304b\u306a\u308a\u30c7\u30ab\u3044\n\n\u30f4\u30a9\u30a4\u30c9\u30b2\u30fc\u30c8\u3060",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uaf64 \ud070 \ubcf4\uc774\ub4dc\uc758 \ubb38\uc774\ub2e4"
     },
     "7193": {
         "0xID": "1C19",
@@ -61953,7 +61953,7 @@
         "Dialogue_en": "I feel your presence, Sister. Where are you?",
         "Dialogue_fr": "Je ne vois aucune trace de ma s\u0153ur...",
         "Dialogue_ja": "\u3044\u3063\u305f\u3044\u2026\n\n\u59c9\u3055\u3093\u306f\u3069\u3053\u306b\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ub300\uccb4\u2026\n\ub204\uc774\ub294 \uc5b4\ub514\uc5d0\u2026"
     },
     "7194": {
         "0xID": "1C1A",
@@ -61962,7 +61962,7 @@
         "Dialogue_en": "What if we volunteer to distribute eggs?",
         "Dialogue_fr": "Aidons-les \u00e0 distribuer les Pr\u0153ufs!",
         "Dialogue_ja": "\u30a2\u30eb\u30b3\u30f3\u30a8\u30c3\u30b0\u306e\u914d\u5e03\u306b\n\n\u5354\u529b\u3057\u307e\u3057\u3087\u3046\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud604\uc790\uc758 \uc54c \ub098\ub220\uc8fc\ub294 \uac78\n\ub3c4\uc640\uc8fc\uc790!"
     },
     "7195": {
         "0xID": "1C1B",
@@ -61971,7 +61971,7 @@
         "Dialogue_en": "Time to transform these eggs into adorable tonberries!",
         "Dialogue_fr": "Et si on d\u00e9corrrait les Pr\u0153ufs avec des motifs de tomberrys?",
         "Dialogue_ja": "\u30bf\u30de\u30b4\u3092\u30c8\u30f3\u30d9\u30ea\u67c4\u306b\n\n\u5857\u3063\u3066\u307f\u3088\u3046\u304b\u306a\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc54c\uc744 \ud1a4\ubca0\ub9ac \ubb34\ub2ac\ub85c\n\uce60\ud574\ubcfc\uae4c?"
     },
     "7196": {
         "0xID": "1C1C",
@@ -61980,7 +61980,7 @@
         "Dialogue_en": "Does that make them...toneggies?",
         "Dialogue_fr": "Bonne id\u00e9e! Je vais essayer aussi.",
         "Dialogue_ja": "\u3044\u3044\u306d\n\n\u50d5\u3082\u3084\u3063\u3066\u307f\u3088\u3046",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uadf8\uac70 \uc88b\ub2e4\n\ub098\ub3c4 \ud574\ubd10\uc57c\uc9c0"
     },
     "7197": {
         "0xID": "1C1D",
@@ -61989,7 +61989,7 @@
         "Dialogue_en": "I do wish we could help somehow...",
         "Dialogue_fr": "J'aimerais pr\u00eater main-forte aux organisateurs...",
         "Dialogue_ja": "\u5b9f\u884c\u59d4\u54e1\u3092\n\n\u624b\u4f1d\u3044\u305f\u3044\u306a\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc2e4\ud589\uc704\uc6d0\uc744\n\ub3d5\uace0 \uc2f6\uc740\ub370\u2026"
     },
     "7198": {
         "0xID": "1C1E",
@@ -62232,7 +62232,7 @@
         "Dialogue_en": "Mayhap I'll interview the Thornes while I have the chance...",
         "Dialogue_fr": "H\u00e9h\u00e9... Et si je m'introduisais chez les Thorne\u00a0?\n\nIl y a s\u00fbrement un scoop \u00e0 faire...",
         "Dialogue_ja": "\u30bd\u30fc\u30f3\u5bb6\u306b\n\n\u7a81\u6483\u53d6\u6750\u3057\u3088\u3046\u304b\u3057\u3089",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc190\uc528 \uac00\ubb38\uc744\n\ucde8\uc7ac\ud574 \ubcfc\uae4c"
     },
     "7221": {
         "0xID": "1C35",
@@ -62241,7 +62241,7 @@
         "Dialogue_en": "The Little Ladies' Dance...\n\nI never thought I'd see it...",
         "Dialogue_fr": "L'histoire de la dynastie Thorne est si profonde...",
         "Dialogue_ja": "\u30bd\u30fc\u30f3\u5bb6\u306e\u6b74\u53f2\u2026\n\n\u6df1\u3044\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc190\uc528 \uac00\ubb38\uc758 \uc5ed\uc0ac\u2026\n\uc2ec\uc624\ud558\uad70\u2026"
     },
     "7222": {
         "0xID": "1C36",
@@ -62250,7 +62250,7 @@
         "Dialogue_en": "If only Claudia were alive to see this...",
         "Dialogue_fr": "J'aurais tant aim\u00e9 montrer cela \u00e0 Claudia\u00a0!",
         "Dialogue_ja": "\u30af\u30e9\u30a6\u30c7\u30a3\u30a2\u306b\u3082\n\n\u898b\u305b\u305f\u304b\u3063\u305f\u3067\u3059\u308f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud074\ub77c\uc6b0\ub514\uc544\uc5d0\uac8c\ub3c4\n\ubcf4\uc5ec\uc8fc\uace0 \uc2f6\uc5c8\uc5b4\uc694"
     },
     "7223": {
         "0xID": "1C37",
@@ -62259,7 +62259,7 @@
         "Dialogue_en": "Perhaps this festival's better\n\nthan I gave it credit for.",
         "Dialogue_fr": "Ce festival n'est pas si d\u00e9sagr\u00e9able, finalement.",
         "Dialogue_ja": "\u30d7\u30ea\u30f3\u30bb\u30b9\u30c7\u30fc\u3082\n\n\u60aa\u304f\u3042\u308a\u307e\u305b\u3093\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud504\ub9b0\ub370\uc2a4\ub370\uc774\ub3c4\n\ub098\uc058\uc9c0 \uc54a\ub124\uc694"
     },
     "7224": {
         "0xID": "1C38",
@@ -62268,7 +62268,7 @@
         "Dialogue_en": "Mother, it's beautiful!",
         "Dialogue_fr": "Ouaah, trop beau\u00a0!",
         "Dialogue_ja": "\u308f\u3041\u3001\u304d\u308c\uff5e\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc640, \uc608\uc058\ub2e4~!"
     },
     "7225": {
         "0xID": "1C39",
@@ -62277,7 +62277,7 @@
         "Dialogue_en": "For this year's celebration...",
         "Dialogue_fr": "Ch\u00e8re participants, ch\u00e8res participantes\u00a0! Cette ann\u00e9e...",
         "Dialogue_ja": "\u307f\u3093\u306a\uff5e\uff01\n\n\u4eca\u56de\u306e\u30d7\u30ea\u30f3\u30bb\u30b9\u30c7\u30fc\u306f\uff5e",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc5ec\ub7ec\ubd84~!\n\uc774\ubc88 \ud504\ub9b0\uc138\uc2a4\ub370\uc774\ub294~"
     },
     "7226": {
         "0xID": "1C3A",
@@ -62286,7 +62286,7 @@
         "Dialogue_en": "We'll be distributing gorgeous fans to everyone!",
         "Dialogue_fr": "Nous allons vous distribuer de magnifiques \u00e9ventails\u00a0!",
         "Dialogue_ja": "\u30ad\u30ec\u30a4\u306a\u6247\u3092\u914d\u5e03\u3057\u307e\u3059\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc608\uc05c \ubd80\ucc44\ub97c \ub4dc\ub9bd\ub2c8\ub2e4!"
     },
     "7227": {
         "0xID": "1C3B",
@@ -62295,7 +62295,7 @@
         "Dialogue_en": "Please give us just a moment to prepare!",
         "Dialogue_fr": "Nous vous demandons simplement encore un peu de patience\u00a0!",
         "Dialogue_ja": "\u307e\u3060\u6e96\u5099\u4e2d\u3060\u304b\u3089\n\n\u697d\u3057\u307f\u306b\u5f85\u3063\u3066\u3066\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc544\uc9c1 \uc900\ube44 \uc911\uc774\ub2c8\uae4c\n\uae30\ub2e4\ub824 \uc918"
     },
     "7228": {
         "0xID": "1C3C",
@@ -62304,7 +62304,7 @@
         "Dialogue_en": "Behold, Princess Edvya's\n\nLittle Ladies' Dance!",
         "Dialogue_fr": "Cher public, voici la \u201cdanse des princesses\u201d\u00a0!",
         "Dialogue_ja": "\u30a8\u30c9\u30f4\u30a3\u30a2\u59eb\u306e\n\n\u300c\u59eb\u306e\u821e\u8e0a\u300d\u3060\u3088\uff5e\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc5d0\ub4dc\ube44\uc544 \uacf5\uc8fc\ub2d8\uc774 \ucdc4\ub2e4\ub294\n'\uacf5\uc8fc\ub2d8 \ucda4'\uc774\uc57c~!"
     },
     "7229": {
         "0xID": "1C3D",
@@ -62313,7 +62313,7 @@
         "Dialogue_en": "You are all welcome to join us!",
         "Dialogue_fr": "Allez, dansons tous ensemble\u00a0!",
         "Dialogue_ja": "\u7686\u3055\u3093\u3082\u4e00\u7dd2\u306b\n\n\u8e0a\u308a\u307e\u3057\u3087\u3046\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc5ec\ub7ec\ubd84\ub3c4 \ud568\uaed8\n\ucda4\ucdb0\uc694!"
     },
     "723": {
         "0xID": "2D3",
@@ -62331,7 +62331,7 @@
         "Dialogue_en": "There are enough fans for everyone!",
         "Dialogue_fr": "Et n'oubliez pas de r\u00e9cup\u00e9rer votre \u00e9ventail\u00a0!",
         "Dialogue_ja": "\u6247\u3082\u914d\u5e03\u4e2d\u3088\n\n\u305c\u3072\u53d7\u3051\u53d6\u3063\u3066\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ubd80\ucc44\ub3c4 \ub098\ub220\uc8fc\uace0 \uc788\uc73c\ub2c8\n\uaf2d \ubc1b\uc544\uac00"
     },
     "7231": {
         "0xID": "1C3F",
@@ -62340,7 +62340,7 @@
         "Dialogue_en": "Outfits that better highlight\n\nthe dance...color me intrigued!",
         "Dialogue_fr": "Cette tenue met en valeur leurs mouvements gracieux... C'est bien vu\u00a0!",
         "Dialogue_ja": "\u821e\u304c\u3088\u308a\u6620\u3048\u308b\u8863\u88c5\u2026\n\n\u9762\u767d\u305d\u3046\u306d\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ucda4\uc774 \ub354\uc6b1 \ub3cb\ubcf4\uc774\ub294 \uc758\uc0c1\u2026\n\uc7ac\ubbf8\uc788\uaca0\ub2e4!"
     },
     "7232": {
         "0xID": "1C40",
@@ -62349,7 +62349,7 @@
         "Dialogue_en": "What a cute dance!",
         "Dialogue_fr": "Oooh, quelle danse adorable\u00a0!",
         "Dialogue_ja": "\u304b\u308f\u3044\u3044\uff5e\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uadc0\uc5ec\uc6cc~!"
     },
     "7233": {
         "0xID": "1C41",
@@ -62358,7 +62358,7 @@
         "Dialogue_en": "Do you think I can do it too?",
         "Dialogue_fr": "Tu crois que j'arriverais \u00e0 la danser, moi aussi\u00a0?",
         "Dialogue_ja": "\u79c1\u3082\u8e0a\u308c\u308b\u304b\u306a\u3041\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ub098\ub3c4 \ucd9c \uc218 \uc788\uc744\uae4c?"
     },
     "7234": {
         "0xID": "1C42",
@@ -62367,7 +62367,7 @@
         "Dialogue_en": "Of course, dear. Just take it one step at a time.",
         "Dialogue_fr": "Bien s\u00fbr. Prends ton temps et observe bien leur chor\u00e9graphie.",
         "Dialogue_ja": "\u7121\u7406\u305b\u305a\n\n\u3086\u3063\u304f\u308a\u7df4\u7fd2\u3057\u3066\u307f\u307e\u3057\u3087\u3046\u304b",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ubb34\ub9ac\ud558\uc9c0 \ub9d0\uace0\n\ucc9c\ucc9c\ud788 \uc5f0\uc2b5\ud574 \ubd10\uc694"
     },
     "7235": {
         "0xID": "1C43",
@@ -62376,7 +62376,7 @@
         "Dialogue_en": "What sort of fans, I wonder?",
         "Dialogue_fr": "Quel genre d'\u00e9ventail cela peut \u00eatre\u00a0?",
         "Dialogue_ja": "\u3069\u3093\u306a\u6247\u306a\u306e\u304b\u306a\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc5b4\ub5a4 \ubd80\ucc44\uc77c\uae4c?"
     },
     "7236": {
         "0xID": "1C44",
@@ -62385,7 +62385,7 @@
         "Dialogue_en": "Oooh, I can't wait!",
         "Dialogue_fr": "Il m'en faut un absolument\u00a0!",
         "Dialogue_ja": "\u65e9\u304f\u307b\u3057\u3044\u308f\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ube68\ub9ac \ubc1b\uace0 \uc2f6\uc5b4!"
     },
     "7237": {
         "0xID": "1C45",
@@ -62394,7 +62394,7 @@
         "Dialogue_en": "I wonder what the Songbirds have planned...",
         "Dialogue_fr": "Quel spectacle vont proposer les \u00c9glantines cette ann\u00e9e\u00a0?",
         "Dialogue_ja": "\u4e09\u6b4c\u59eb\u306f\u4f55\u3092\u3059\u308b\u306e\u304b\u3057\u3089\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc138 \uac00\ud76c\uac00 \ubb58 \ud558\ub824\ub294 \uac78\uae4c?"
     },
     "7238": {
         "0xID": "1C46",
@@ -62403,7 +62403,7 @@
         "Dialogue_en": "How very elegant!",
         "Dialogue_fr": "Quelle gr\u00e2ce\u00a0! Quelle \u00e9l\u00e9gance\u00a0!",
         "Dialogue_ja": "\u3068\u3066\u3082\u512a\u96c5\u3060\u306d",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc544\uc8fc \uc6b0\uc544\ud558\uad70"
     },
     "7239": {
         "0xID": "1C47",
@@ -62412,7 +62412,7 @@
         "Dialogue_en": "Perhaps I shall give it a try!",
         "Dialogue_fr": "\u00c7a me donne envie de danser\u00a0!",
         "Dialogue_ja": "\u79c1\u3082\u8e0a\u3063\u3066\u307f\u305f\u3044\u308f\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ub098\ub3c4 \ucdb0\ubcf4\uace0 \uc2f6\uc5b4!"
     },
     "724": {
         "0xID": "2D4",
@@ -62430,7 +62430,7 @@
         "Dialogue_en": "The Songbirds are amazing!",
         "Dialogue_fr": "Bravo les \u00c9glantines, vous \u00eates les meilleures\u00a0!",
         "Dialogue_ja": "\u4e09\u6b4c\u59eb\u3001\u6700\u3063\u9ad8\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc138 \uac00\ud76c, \ucd5c\uace0\uc57c\u2026!"
     },
     "7241": {
         "0xID": "1C49",
@@ -62439,7 +62439,7 @@
         "Dialogue_en": "The day has come, my friends...\n\nPudding has evolved!",
         "Dialogue_fr": "Non\u00a0! Ce serait... un flan d'un nouveau genre\u00a0!?",
         "Dialogue_ja": "\u3053\u308c\u306f\u3082\u3057\u3084\n\n\u65b0\u7a2e\u306e\u30d7\u30c7\u30a3\u30f3\u30b0\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\ud639\uc2dc \uc774\uac74\n\uc2e0\uc885 \ud478\ub529!"
     },
     "7242": {
         "0xID": "1C4A",
@@ -62448,7 +62448,7 @@
         "Dialogue_en": "I want you to make pudding! The best pudding in this realm or any other!",
         "Dialogue_fr": "Je veux qu'il m'apprenne sa meilleure recette de flan!",
         "Dialogue_ja": "\u7a76\u6975\u306e\u2026\n\n\u30d7\u30c7\u30a3\u30f3\u30b0\u4f5c\u3063\u3066\u307b\u3057\u3044\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u7a76\u6975\u306e\u2026\n\u30d7\u30c7\u30a3\u30f3\u30b0\u4f5c\u3063\u3066\u307b\u3057\u3044\uff01"
     },
     "7243": {
         "0xID": "1C4B",
@@ -62466,7 +62466,7 @@
         "Dialogue_en": "These younglings are rooting for your success!",
         "Dialogue_fr": "Au fait, cette famille d'ours blancs tenait absolument \u00e0 vous encourager!",
         "Dialogue_ja": "\u3053\u306e\u5b50\u305f\u3061\u3082\n\n\u30a2\u30f3\u30bf\u3092\u5fdc\u63f4\u3057\u305f\u3044\u307f\u305f\u3044\u3060\u3088",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3053\u306e\u5b50\u305f\u3061\u3082\n\u30a2\u30f3\u30bf\u3092\u5fdc\u63f4\u3057\u305f\u3044\u307f\u305f\u3044\u3060\u3088"
     },
     "7245": {
         "0xID": "1C4D",
@@ -62475,7 +62475,7 @@
         "Dialogue_en": "My, my, you're quite good at this!",
         "Dialogue_fr": "Vous me flattez, mon bon monsieur!",
         "Dialogue_ja": "\u307e\u3042\u3001\u304a\u5ba2\u69d8\u3063\u305f\u3089\n\n\u304a\u4e0a\u624b\u3067\u3059\u3053\u3068",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc5b4\uba38, \uc190\ub2d8\n\uc2e4\ub825\uc774 \uc88b\uc73c\uc2dc\uad70\uc694"
     },
     "7246": {
         "0xID": "1C4E",
@@ -62484,7 +62484,7 @@
         "Dialogue_en": "I shall uncover this slippery secret!",
         "Dialogue_fr": "Je percerai le secret de sa viscosit\u00e9!",
         "Dialogue_ja": "\u3042\u306e\u30cc\u30eb\u30cc\u30eb\u306e\u79d8\u5bc6\n\n\u304d\u3063\u3068\u3053\u3053\u306b\u3042\u308b\u306f\u305a\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uadf8 \ubbf8\ub04c\ubbf8\ub04c\uc758 \ube44\ubc00\uc740\n\ubd84\uba85 \uc5ec\uae30 \uc788\uc744 \uac70\uc57c\u2026!"
     },
     "7247": {
         "0xID": "1C4F",
@@ -62493,7 +62493,7 @@
         "Dialogue_en": "The architect of this space is truly a master of his craft...",
         "Dialogue_fr": "La personne qui a con\u00e7u ce square ne manque pas d'ing\u00e9niosit\u00e9.",
         "Dialogue_ja": "\u3053\u306e\u7a7a\u9593\u3092\u4f5c\u3063\u305f\u65b9\u306f\n\n\u304b\u306a\u308a\u306e\u6280\u8853\u8005\u3067\u3059\u306d\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc774 \uacf5\uac04\uc744 \ub9cc\ub4e0 \ubd84\uc740\n\uc0c1\ub2f9\ud55c \uae30\uc220\uc790\uaca0\uc8e0\u2026"
     },
     "7248": {
         "0xID": "1C50",
@@ -62502,7 +62502,7 @@
         "Dialogue_en": "What frightful mind thought these up, kupo?",
         "Dialogue_fr": "Les humains ont des id\u00e9es effrayantes, kupo...",
         "Dialogue_ja": "\u306a\u3093\u3066\u304a\u305d\u308d\u3057\u3044\u3053\u3068\u3092\n\n\u8003\u3048\u308b\u30af\u30dd\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc5b4\ub5bb\uac8c \uadf8\ub7f0\n\ubb34\uc2dc\ubb34\uc2dc\ud55c \uc77c\uc744\ucfe0\ubf40\u2026"
     },
     "7249": {
         "0xID": "1C51",
@@ -62511,7 +62511,7 @@
         "Dialogue_en": "It's not that bad, kupo.",
         "Dialogue_fr": "Je crois que vous avez mal compris, kupo...",
         "Dialogue_ja": "\u305d\u3046\u3058\u3083\u306a\u3044\u3068\n\n\u601d\u3046\u30af\u30dd\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uadf8\uac8c \uc544\ub2cc \uac83 \uac19\uc740\ub370\ucfe0\ubf40\u2026"
     },
     "725": {
         "0xID": "2D5",
@@ -62529,7 +62529,7 @@
         "Dialogue_en": "Oh, how can I possibly thank you!",
         "Dialogue_fr": "J-je ne sais pas comment vous remercier!",
         "Dialogue_ja": "\u3042\u3042\u3001\u672c\u5f53\u306b\n\n\u306a\u3093\u3066\u304a\u793c\u3092\u8a00\u3048\u3070\u3044\u3044\u304b\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\uc544\uc544, \ubb50\ub77c\uace0 \uac10\uc0ac \uc778\uc0ac\ub97c\n\ub4dc\ub824\uc57c \ud560\uc9c0\u2026!"
     },
     "7251": {
         "0xID": "1C53",
@@ -62610,7 +62610,7 @@
         "Dialogue_en": "I'll climb you good!",
         "Dialogue_fr": "Je vais y arriver!",
         "Dialogue_ja": "\u767b\u3063\u3066\u3084\u308b\u305c\u30a7\u30a7\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u767b\u3063\u3066\u3084\u308b\u305c\u30a7\u30a7\uff01"
     },
     "726": {
         "0xID": "2D6",
@@ -62628,7 +62628,7 @@
         "Dialogue_en": "Hyaaahhh! No one messes with a pirate!",
         "Dialogue_fr": "Par le pouvoir des piraaaates!",
         "Dialogue_ja": "\u3069\u308a\u3083\u3042\uff01\n\n\u6d77\u8cca\u9b42\u3043\u3043\uff01\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u3069\u308a\u3083\u3042\uff01\n\u6d77\u8cca\u9b42\u3043\u3043\uff01\uff01"
     },
     "7261": {
         "0xID": "1C5D",
@@ -62637,7 +62637,7 @@
         "Dialogue_en": "Pace yerself!",
         "Dialogue_fr": "Rel\u00e2che-toi un peu!",
         "Dialogue_ja": "\u529b\u307f\u3059\u304e\u308b\u306a\u3088\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u529b\u307f\u3059\u304e\u308b\u306a\u3088\uff01"
     },
     "7262": {
         "0xID": "1C5E",
@@ -62646,7 +62646,7 @@
         "Dialogue_en": "Why, hello!",
         "Dialogue_fr": "Aloha!",
         "Dialogue_ja": "\u30a2\u30ed\u30cf\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u30a2\u30ed\u30cf\uff01"
     },
     "7263": {
         "0xID": "1C5F",
@@ -62655,7 +62655,7 @@
         "Dialogue_en": "The sea's callin' to ye, ain't she?",
         "Dialogue_fr": "... Ta mer te manque, c'est \u00e7a?",
         "Dialogue_ja": "\u304a\u524d\u3001\u6d77\u304c\u2026\u604b\u3057\u3044\u306e\u304b\uff1f",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u304a\u524d\u3001\u6d77\u304c\u2026\u604b\u3057\u3044\u306e\u304b\uff1f"
     },
     "7264": {
         "0xID": "1C60",
@@ -62664,7 +62664,7 @@
         "Dialogue_en": "...",
         "Dialogue_fr": "...",
         "Dialogue_ja": "\u2026\u2026\u2026\u2026",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u2026\u2026\u2026\u2026"
     },
     "7265": {
         "0xID": "1C61",
@@ -62673,7 +62673,7 @@
         "Dialogue_en": "I can't fall...not again!",
         "Dialogue_fr": "Pas question que je tombe maintenant...",
         "Dialogue_ja": "\u843d\u3061\u3066\u305f\u307e\u308b\u304b\u2026\uff01",
-        "Dialogue_ko": ""
+        "Dialogue_ko": "\u843d\u3061\u3066\u305f\u307e\u308b\u304b\u2026\uff01"
     },
     "7266": {
         "0xID": "1C62",

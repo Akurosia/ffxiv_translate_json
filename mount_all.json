@@ -767,7 +767,7 @@
         "Singular_en": "logistics node",
         "Singular_fr": "module de transport sph\u00e9rique",
         "Singular_ja": "\u8f38\u9001\u30b7\u30b9\u30c6\u30e0",
-        "Singular_ko": ""
+        "Singular_ko": "\uc218\uc1a1 \uc2dc\uc2a4\ud15c"
     },
     "168": {
         "0xID": "A8",
@@ -2087,7 +2087,7 @@
         "Singular_en": "island alligator",
         "Singular_fr": "alligator insulaire",
         "Singular_ja": "\u30a2\u30a4\u30e9\u30f3\u30c9\u30fb\u30a2\u30ea\u30b2\u30fc\u30bf\u30fc",
-        "Singular_ko": ""
+        "Singular_ko": "\uc12c \uc545\uc5b4"
     },
     "287": {
         "0xID": "11F",
@@ -2257,7 +2257,7 @@
         "Singular_en": "magicked umbrella",
         "Singular_fr": "parapluie enchant\u00e9",
         "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30a2\u30f3\u30d6\u30ec\u30e9",
-        "Singular_ko": "\u30de\u30b8\u30c3\u30af\u30a2\u30f3\u30d6\u30ec\u30e9"
+        "Singular_ko": "\ub9c8\ubc95 \uc6b0\uc0b0"
     },
     "301": {
         "0xID": "12D",
@@ -2267,7 +2267,7 @@
         "Singular_en": "magicked parasol",
         "Singular_fr": "parasol enchant\u00e9",
         "Singular_ja": "\u30de\u30b8\u30c3\u30af\u30d1\u30e9\u30bd\u30eb",
-        "Singular_ko": "\u30de\u30b8\u30c3\u30af\u30d1\u30e9\u30bd\u30eb"
+        "Singular_ko": "\ub9c8\ubc95 \uc591\uc0b0"
     },
     "302": {
         "0xID": "12E",
@@ -2367,7 +2367,7 @@
         "Singular_en": "set of ceruleum balloons",
         "Singular_fr": "ballons de c\u00e9ruleum",
         "Singular_ja": "\u30bb\u30eb\u30ea\u30a6\u30e0\u30fb\u30d0\u30eb\u30fc\u30f3",
-        "Singular_ko": ""
+        "Singular_ko": "\uccad\ub9b0 \ud48d\uc120"
     },
     "311": {
         "0xID": "137",
@@ -2377,7 +2377,7 @@
         "Singular_en": "Anden III",
         "Singular_fr": "Anden III",
         "Singular_ja": "\u30a2\u30f3\u30c7\u30f3III\u4e16",
-        "Singular_ko": ""
+        "Singular_ko": "\uc548\ub374 3\uc138"
     },
     "312": {
         "0xID": "138",
@@ -2387,7 +2387,7 @@
         "Singular_en": "Blackjack",
         "Singular_fr": "Blackjack",
         "Singular_ja": "\u30d6\u30e9\u30c3\u30af\u30b8\u30e3\u30c3\u30af\u53f7",
-        "Singular_ko": ""
+        "Singular_ko": "\ube14\ub799\uc7ad\ud638"
     },
     "313": {
         "0xID": "139",
@@ -2397,7 +2397,7 @@
         "Singular_en": "Phaethon",
         "Singular_fr": "Pha\u00e9ton",
         "Singular_ja": "\u30d5\u30a1\u30a8\u30c8\u30f3",
-        "Singular_ko": ""
+        "Singular_ko": "\ud30c\uc5d0\ud1a4"
     },
     "314": {
         "0xID": "13A",
@@ -2407,7 +2407,7 @@
         "Singular_en": "Pinky",
         "Singular_fr": "Pinky",
         "Singular_ja": "\u30d4\u30f3\u30ad\u30fc",
-        "Singular_ko": ""
+        "Singular_ko": "\ubd84\ud64d\uc774"
     },
     "315": {
         "0xID": "13B",
@@ -2417,7 +2417,7 @@
         "Singular_en": "lynx of righteous fire",
         "Singular_fr": "lynx du brasier flamboyant",
         "Singular_ja": "\u30ea\u30f3\u30af\u30b9\u30fb\u30aa\u30d6\u30fb\u30d5\u30a1\u30a4\u30a2",
-        "Singular_ko": ""
+        "Singular_ko": "\ubd88 \uc2a4\ub77c\uc18c\ub2c8"
     },
     "316": {
         "0xID": "13C",
@@ -2427,7 +2427,7 @@
         "Singular_en": "magitek avenger G1",
         "Singular_fr": "vengeur magitek dor\u00e9",
         "Singular_ja": "\u9b54\u5c0e\u30a2\u30f4\u30a7\u30f3\u30b8\u30e3\u30fc\u9ec4\u91d1\u50cf\u4ed5\u69d8",
-        "Singular_ko": ""
+        "Singular_ko": "\ud669\uae08 \ub9c8\ub3c4 \uc5b4\ubca4\uc800"
     },
     "317": {
         "0xID": "13D",
@@ -2437,7 +2437,7 @@
         "Singular_en": "Chrysomallos",
         "Singular_fr": "Chrysomallos",
         "Singular_ja": "\u30af\u30ea\u30e5\u30bd\u30de\u30ed\u30b9",
-        "Singular_ko": ""
+        "Singular_ko": "\ud06c\ub9ac\uc18c\ub9d0\ub85c\uc2a4"
     },
     "318": {
         "0xID": "13E",

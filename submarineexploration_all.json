@@ -1596,13 +1596,13 @@
         "Destination_en": "Drifter's Decay",
         "Destination_fr": "Atoll des exil\u00e9s (N)",
         "Destination_ja": "N\u3000\u653e\u68c4\u3055\u308c\u305f\u6d41\u5211\u5cf6",
-        "Destination_ko": "",
+        "Destination_ko": "N\u3000\ubc84\ub824\uc9c4 \uadc0\uc591\uc9c0",
         "Map_cn": "4",
         "Map_de": "Sirenen-See",
         "Map_en": "Sirensong Sea",
         "Map_fr": "Mer du Chant des sir\u00e8nes",
         "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
-        "Map_ko": "0"
+        "Map_ko": "4"
     },
     "88": {
         "0xID": "58",
@@ -1611,13 +1611,13 @@
         "Destination_en": "Lugat's Landing",
         "Destination_fr": "Plage de Lugat (O)",
         "Destination_ja": "O\u3000\u30eb\u30ac\u30c8\u306e\u6d5c",
-        "Destination_ko": "",
+        "Destination_ko": "O\u3000\ub8e8\uac00\ud2b8\uc758 \ud574\ubcc0",
         "Map_cn": "4",
         "Map_de": "Sirenen-See",
         "Map_en": "Sirensong Sea",
         "Map_fr": "Mer du Chant des sir\u00e8nes",
         "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
-        "Map_ko": "0"
+        "Map_ko": "4"
     },
     "89": {
         "0xID": "59",
@@ -1626,13 +1626,13 @@
         "Destination_en": "the Frozen Spring",
         "Destination_fr": "Source givr\u00e9e (P)",
         "Destination_ja": "P\u3000\u7a4d\u6c37\u6cc9",
-        "Destination_ko": "",
+        "Destination_ko": "P\u3000\uc5bc\uc74c\ubb34\uc9c0 \uc0d8",
         "Map_cn": "4",
         "Map_de": "Sirenen-See",
         "Map_en": "Sirensong Sea",
         "Map_fr": "Mer du Chant des sir\u00e8nes",
         "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
-        "Map_ko": "0"
+        "Map_ko": "4"
     },
     "9": {
         "0xID": "9",
@@ -1656,13 +1656,13 @@
         "Destination_en": "Sirensong Sea 5",
         "Destination_fr": "Mer du Chant des sir\u00e8nes 5 (Q)",
         "Destination_ja": "Q\u3000\u30bb\u30a4\u30ec\u30fc\u30f3\u6d7705",
-        "Destination_ko": "",
+        "Destination_ko": "Q\u3000\uc138\uc774\ub80c \ud574 05",
         "Map_cn": "4",
         "Map_de": "Sirenen-See",
         "Map_en": "Sirensong Sea",
         "Map_fr": "Mer du Chant des sir\u00e8nes",
         "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
-        "Map_ko": "0"
+        "Map_ko": "4"
     },
     "91": {
         "0xID": "5B",
@@ -1671,13 +1671,13 @@
         "Destination_en": "Tidewind Isle",
         "Destination_fr": "\u00cele du tumulte (R)",
         "Destination_ja": "R\u3000\u6e26\u7d0b\u5cf6",
-        "Destination_ko": "",
+        "Destination_ko": "R\u3000\uc18c\uc6a9\ub3cc\uc774 \uc12c",
         "Map_cn": "4",
         "Map_de": "Sirenen-See",
         "Map_en": "Sirensong Sea",
         "Map_fr": "Mer du Chant des sir\u00e8nes",
         "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
-        "Map_ko": "0"
+        "Map_ko": "4"
     },
     "92": {
         "0xID": "5C",
@@ -1686,13 +1686,13 @@
         "Destination_en": "Bloodbreak",
         "Destination_fr": "Colline de sang pourpre (S)",
         "Destination_ja": "S\u3000\u8d64\u8840\u6d77\u4e18",
-        "Destination_ko": "",
+        "Destination_ko": "S\u3000\ubd89\uc740\ud53c \ud574\uad6c",
         "Map_cn": "4",
         "Map_de": "Sirenen-See",
         "Map_en": "Sirensong Sea",
         "Map_fr": "Mer du Chant des sir\u00e8nes",
         "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
-        "Map_ko": "0"
+        "Map_ko": "4"
     },
     "93": {
         "0xID": "5D",
@@ -1701,13 +1701,13 @@
         "Destination_en": "the Crystal Font",
         "Destination_fr": "Source cristalline (T)",
         "Destination_ja": "T\u3000\u6d77\u6676\u6cc9",
-        "Destination_ko": "",
+        "Destination_ko": "T\u3000\ubc14\ub2e4\uc218\uc815 \uc0d8",
         "Map_cn": "4",
         "Map_de": "Sirenen-See",
         "Map_en": "Sirensong Sea",
         "Map_fr": "Mer du Chant des sir\u00e8nes",
         "Map_ja": "\u30bb\u30a4\u30ec\u30fc\u30f3\u6d77",
-        "Map_ko": "0"
+        "Map_ko": "4"
     },
     "94": {
         "0xID": "5E",

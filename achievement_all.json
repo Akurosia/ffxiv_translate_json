@@ -15906,7 +15906,7 @@
         "Description_en": "Clear the 1st through the 200th floors of the Palace of the Dead solo.",
         "Description_fr": "Conqu\u00e9rir le 200e sous-sol du Palais des morts en solo, en commen\u00e7ant par le sous-sol 1.",
         "Description_ja": "\u6b7b\u8005\u306e\u5bae\u6bbf\u306b\u30bd\u30ed\u3067B1\u304b\u3089\u7a81\u5165\u3057B200\u306b\u5230\u9054\u3059\u308b",
-        "Description_ko": "\ub2e8\ub3c5\uc73c\ub85c \ub9dd\uc790\uc758 \uad81\uc804 B1\uc5d0 \uc9c4\uc785\ud558\uc5ec B200 \uc774\ud6c4\uc5d0\uc11c \uc810\uc218 \uae30\ub85d",
+        "Description_ko": "\ub2e8\ub3c5\uc73c\ub85c \ub9dd\uc790\uc758 \uad81\uc804 B1\uc5d0 \uc9c4\uc785\ud558\uc5ec B200 \ub3c4\ub2ec",
         "Name_cn": "\u5b64\u72ec\u7684\u6311\u6218\u80053",
         "Name_de": "Einsamer Tiefenst\u00fcrmer III",
         "Name_en": "Pal-less Palace III",
@@ -17631,7 +17631,7 @@
         "Description_en": "Clear the 1st through the 100th floors of Heaven\u2013on\u2013High solo.",
         "Description_fr": "Obtenir un score en solo dans le Pilier des Cieux en commen\u00e7ant par le 1er \u00e9tage et en s'aventurant jusqu'au 100e.",
         "Description_ja": "\u30a2\u30e1\u30ce\u30df\u30cf\u30b7\u30e9\u306b\u30bd\u30ed\u30671\u5c64\u304b\u3089\u7a81\u5165\u3057100\u5c64\u306b\u5230\u9054\u3059\u308b",
-        "Description_ko": "\ub2e8\ub3c5\uc73c\ub85c \ucc9c\uad81\ud0d1 1\uce35\uc5d0 \uc9c4\uc785\ud558\uc5ec 100\uce35 \uc774\ud6c4\uc5d0\uc11c \uc810\uc218 \uae30\ub85d",
+        "Description_ko": "\ub2e8\ub3c5\uc73c\ub85c \ucc9c\uad81\ud0d1 1\uce35\uc5d0 \uc9c4\uc785\ud558\uc5ec 100\uce35 \ub3c4\ub2ec",
         "Name_cn": "\u5b64\u9ad8\u7684\u6311\u6218\u80052",
         "Name_de": "Einsamer Himmelss\u00e4ulenst\u00fcrmer II",
         "Name_en": "Heaven Is a Lonely Place II",
@@ -34611,7 +34611,7 @@
         "Description_en": "Complete Dragonsong's Reprise (Ultimate).",
         "Description_fr": "Mettre un terme \u00e0 la Guerre du chant des dragons (fatal).",
         "Description_ja": "\u7d76\u7adc\u8a69\u6226\u4e89\u3092\u5e73\u5b9a\u3059\u308b",
-        "Description_ko": "\uc808 \uc6a9\uc2dc\uc804\uc7c1 \uc81c\ud328",
+        "Description_ko": "\uc808 \uc6a9\uc2dc\uc804\uc7c1 \ud3c9\uc815",
         "Name_cn": "\u5f81\u670d\u7edd\u5883\u00b7\u9f99\u8bd7\u6218\u4e89",
         "Name_de": "Befrieder des Drachenkriegs",
         "Name_en": "As Suits a Hero",
@@ -35991,13 +35991,13 @@
         "Description_en": "Complete the main scenario quest \u201cGods Revel, Lands Tremble.\u201d",
         "Description_fr": "Accomplir la qu\u00eate de l'\u00e9pop\u00e9e \u201cLes Dieux festoient, la terre tremble\u201d.",
         "Description_ja": "\u30af\u30a8\u30b9\u30c8\u300c\u5929\u306e\u795d\u796d\u3001\u5730\u306e\u9cf4\u52d5\u300d\u3092\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud018\uc2a4\ud2b8 '\ud558\ub298\uc758 \ucd95\uc81c, \ub545\uc758 \uc804\uc728' \uc644\ub8cc",
         "Name_cn": "\u5929\u4e0a\u6b22\u5e86\uff0c\u5730\u4e0b\u8f70\u9e23",
         "Name_de": "Gods Revel, Lands Tremble",
         "Name_en": "Hallowed and Harrowed",
         "Name_fr": "Les Dieux festoient, la terre tremble",
         "Name_ja": "\u5929\u306e\u795d\u796d\u3001\u5730\u306e\u9cf4\u52d5",
-        "Name_ko": ""
+        "Name_ko": "\ud558\ub298\uc758 \ucd95\uc81c, \ub545\uc758 \uc804\uc728"
     },
     "3158": {
         "0xID": "C56",
@@ -36006,13 +36006,13 @@
         "Description_en": "Discover every location within Lapis Manalis.",
         "Description_fr": "D\u00e9couvrir toute la carte de Lapis Manalis.",
         "Description_ja": "\u30e9\u30d4\u30b9\u30fb\u30de\u30ca\u30ea\u30b9\uff08\u96ea\u5c71\u51a5\u6d1e\uff09\u3092\u8e0f\u7834\u3057\u3001\u30de\u30c3\u30d7\u3092\u3059\u3079\u3066\u958b\u793a\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ub77c\ud53c\uc2a4 \ub9c8\ub0a0\ub9ac\uc2a4\ub97c \ud0d0\ud5d8\ud558\uc5ec \ubaa8\ub4e0 \uc9c0\uc5ed \ubc1c\uacac",
         "Name_cn": "\u8e0f\u904d\u51a5\u9b42\u77f3\u6d1e",
         "Name_de": "Kartograph: Lapis Manalis",
         "Name_en": "Mapping the Realm: Lapis Manalis",
         "Name_fr": "Cartographe du continent : Lapis Manalis",
         "Name_ja": "\u30e9\u30d4\u30b9\u30fb\u30de\u30ca\u30ea\u30b9\u3092\u8e0f\u7834\u305b\u3057\u8005",
-        "Name_ko": ""
+        "Name_ko": "\ub77c\ud53c\uc2a4 \ub9c8\ub0a0\ub9ac\uc2a4 \ud0d0\ud5d8\uac00"
     },
     "3159": {
         "0xID": "C57",
@@ -36021,13 +36021,13 @@
         "Description_en": "Discover every location within Euphrosyne.",
         "Description_fr": "D\u00e9couvrir toute la carte du domaine divin - Euphrosyne.",
         "Description_ja": "\u559c\u3073\u306e\u795e\u57df \u30a8\u30a6\u30d7\u30ed\u30b7\u30e5\u30cd\u3092\u8e0f\u7834\u3057\u3001\u30de\u30c3\u30d7\u3092\u3059\u3079\u3066\u958b\u793a\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud658\ud76c\uc758 \uc2e0\uc5ed \uc5d0\uc6b0\ud504\ub85c\uc2dc\ub124\ub97c \ud0d0\ud5d8\ud558\uc5ec \ubaa8\ub4e0 \uc9c0\uc5ed \ubc1c\uacac",
         "Name_cn": "\u8e0f\u904d\u6b27\u8299\u6d1b\u7eea\u6d85",
         "Name_de": "Kartograph: Euphrosyne",
         "Name_en": "Mapping the Realm: Euphrosyne",
         "Name_fr": "Cartographe du continent : Euphrosyne",
         "Name_ja": "\u30a8\u30a6\u30d7\u30ed\u30b7\u30e5\u30cd\u3092\u8e0f\u7834\u305b\u3057\u8005",
-        "Name_ko": ""
+        "Name_ko": "\uc5d0\uc6b0\ud504\ub85c\uc2dc\ub124 \ud0d0\ud5d8\uac00"
     },
     "316": {
         "0xID": "13C",
@@ -36051,13 +36051,13 @@
         "Description_en": "Defeat Rubicante on Mount Ordeals (Extreme).",
         "Description_fr": "Vaincre Rubicante dans le d\u00e9fi \u201cLe Mont du Supplice (extr\u00eame)\u201d.",
         "Description_ja": "\u6975\u30eb\u30d3\u30ab\u30f3\u30c6\u8a0e\u6ec5\u6226\u3067\u30eb\u30d3\u30ab\u30f3\u30c6\u3092\u8a0e\u4f10\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uadf9 \ub8e8\ube44\uce78\ud14c \ud1a0\ubc8c\uc804\uc5d0\uc11c \ub8e8\ube44\uce78\ud14c \ucc98\uce58",
         "Name_cn": "\u7080\u706b\u7684\u964d\u5996\u8005",
         "Name_de": "Flammenj\u00e4ger",
         "Name_en": "Ordeal by Fire",
         "Name_fr": "Fors l'honneur",
         "Name_ja": "\u30eb\u30d3\u30ab\u30f3\u30c6\u3092\u72e9\u308a\u3057\u8005",
-        "Name_ko": ""
+        "Name_ko": "\ub8e8\ube44\uce78\ud14c\ub97c \uc4f0\ub7ec\ub728\ub9b0 \uc790"
     },
     "3161": {
         "0xID": "C59",
@@ -36066,13 +36066,13 @@
         "Description_en": "Complete Euphrosyne.",
         "Description_fr": "Finir le domaine divin - Euphrosyne.",
         "Description_ja": "\u559c\u3073\u306e\u795e\u57df \u30a8\u30a6\u30d7\u30ed\u30b7\u30e5\u30cd\u3092\u653b\u7565\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud658\ud76c\uc758 \uc2e0\uc5ed \uc5d0\uc6b0\ud504\ub85c\uc2dc\ub124 \uc644\ub8cc",
         "Name_cn": "\u79f0\u9738\u6b27\u8299\u6d1b\u7eea\u6d85",
         "Name_de": "G\u00f6ttliche Freude",
         "Name_en": "Divine Revelry",
         "Name_fr": "Divine all\u00e9gresse",
         "Name_ja": "\u30a8\u30a6\u30d7\u30ed\u30b7\u30e5\u30cd\u3092\u5236\u8987\u305b\u3057\u8005",
-        "Name_ko": ""
+        "Name_ko": "\uc5d0\uc6b0\ud504\ub85c\uc2dc\ub124\ub97c \uc81c\ud328\ud55c \uc790"
     },
     "3162": {
         "0xID": "C5A",
@@ -36096,13 +36096,13 @@
         "Description_en": "Achieve a satisfaction level of 1 with Anden.",
         "Description_fr": "Atteindre le rang 1 de satisfaction aupr\u00e8s d'Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u4fe1\u983c\u30e9\u30f3\u30af\u30921\u306b\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc758 \uc2e0\ub8b0\ub3c4 1\ub2e8\uacc4 \ub2ec\uc131",
         "Name_cn": "\u5b89\u767b\u7684\u4fe1\u4efb1",
         "Name_de": "Schafsfreund I",
         "Name_en": "Satisfaction Guaranteed: Anden I",
         "Name_fr": "Il pleut, il pleut, berger I",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\uff1a\u30e9\u30f3\u30af1",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374: 1\ub2e8\uacc4"
     },
     "3164": {
         "0xID": "C5C",
@@ -36111,13 +36111,13 @@
         "Description_en": "Achieve a satisfaction level of 2 with Anden.",
         "Description_fr": "Atteindre le rang 2 de satisfaction aupr\u00e8s d'Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u4fe1\u983c\u30e9\u30f3\u30af\u30922\u306b\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc758 \uc2e0\ub8b0\ub3c4 2\ub2e8\uacc4 \ub2ec\uc131",
         "Name_cn": "\u5b89\u767b\u7684\u4fe1\u4efb2",
         "Name_de": "Schafsfreund II",
         "Name_en": "Satisfaction Guaranteed: Anden II",
         "Name_fr": "Il pleut, il pleut, berger II",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\uff1a\u30e9\u30f3\u30af2",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374: 2\ub2e8\uacc4"
     },
     "3165": {
         "0xID": "C5D",
@@ -36126,13 +36126,13 @@
         "Description_en": "Achieve a satisfaction level of 3 with Anden.",
         "Description_fr": "Atteindre le rang 3 de satisfaction aupr\u00e8s d'Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u4fe1\u983c\u30e9\u30f3\u30af\u30923\u306b\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc758 \uc2e0\ub8b0\ub3c4 3\ub2e8\uacc4 \ub2ec\uc131",
         "Name_cn": "\u5b89\u767b\u7684\u4fe1\u4efb3",
         "Name_de": "Schafsfreund III",
         "Name_en": "Satisfaction Guaranteed: Anden III",
         "Name_fr": "Il pleut, il pleut, berger III",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\uff1a\u30e9\u30f3\u30af3",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374: 3\ub2e8\uacc4"
     },
     "3166": {
         "0xID": "C5E",
@@ -36141,13 +36141,13 @@
         "Description_en": "Achieve a satisfaction level of 4 with Anden.",
         "Description_fr": "Atteindre le rang 4 de satisfaction aupr\u00e8s d'Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u4fe1\u983c\u30e9\u30f3\u30af\u30924\u306b\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc758 \uc2e0\ub8b0\ub3c4 4\ub2e8\uacc4 \ub2ec\uc131",
         "Name_cn": "\u5b89\u767b\u7684\u4fe1\u4efb4",
         "Name_de": "Schafsfreund IV",
         "Name_en": "Satisfaction Guaranteed: Anden IV",
         "Name_fr": "Il pleut, il pleut, berger IV",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\uff1a\u30e9\u30f3\u30af4",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374: 4\ub2e8\uacc4"
     },
     "3167": {
         "0xID": "C5F",
@@ -36156,13 +36156,13 @@
         "Description_en": "Achieve a satisfaction level of 5 with Anden.",
         "Description_fr": "Atteindre le rang 5 de satisfaction aupr\u00e8s d'Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u4fe1\u983c\u30e9\u30f3\u30af\u30925\u306b\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc758 \uc2e0\ub8b0\ub3c4 5\ub2e8\uacc4 \ub2ec\uc131",
         "Name_cn": "\u5b89\u767b\u7684\u4fe1\u4efb5",
         "Name_de": "Schafsfreund V",
         "Name_en": "Satisfaction Guaranteed: Anden V",
         "Name_fr": "Il pleut, il pleut, berger V",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\uff1a\u30e9\u30f3\u30af5",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374: 5\ub2e8\uacc4"
     },
     "3168": {
         "0xID": "C60",
@@ -36171,13 +36171,13 @@
         "Description_en": "Deliver 36 collectables to Anden.",
         "Description_fr": "\u00c9changer 36 objets collectionnables \u00e0 Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306b\u53ce\u96c6\u54c1\u3092\u8a0836\u56de\u7d0d\u54c1\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc5d0\uac8c \uc18c\uc7a5\ud488 36\ud68c \ub0a9\ud488",
         "Name_cn": "\u5b89\u767b\u7684\u8001\u4e3b\u987e1",
         "Name_de": "Erinnerungslieferung I",
         "Name_en": "The Customer Is Always Right: Anden I",
         "Name_fr": "Fournisseur officiel d'Anden I",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u5f97\u610f\u5148\uff1a\u30e9\u30f3\u30af1",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374\uc758 \ub2e8\uace8: 1\ub2e8\uacc4"
     },
     "3169": {
         "0xID": "C61",
@@ -36186,13 +36186,13 @@
         "Description_en": "Deliver 48 collectables to Anden.",
         "Description_fr": "\u00c9changer 48 objets collectionnables \u00e0 Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306b\u53ce\u96c6\u54c1\u3092\u8a0848\u56de\u7d0d\u54c1\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc5d0\uac8c \uc18c\uc7a5\ud488 48\ud68c \ub0a9\ud488",
         "Name_cn": "\u5b89\u767b\u7684\u8001\u4e3b\u987e2",
         "Name_de": "Erinnerungslieferung II",
         "Name_en": "The Customer Is Always Right: Anden II",
         "Name_fr": "Fournisseur officiel d'Anden II",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u5f97\u610f\u5148\uff1a\u30e9\u30f3\u30af2",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374\uc758 \ub2e8\uace8: 2\ub2e8\uacc4"
     },
     "317": {
         "0xID": "13D",
@@ -36216,13 +36216,13 @@
         "Description_en": "Deliver 60 collectables to Anden.",
         "Description_fr": "\u00c9changer 60 objets collectionnables \u00e0 Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306b\u53ce\u96c6\u54c1\u3092\u8a0860\u56de\u7d0d\u54c1\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc5d0\uac8c \uc18c\uc7a5\ud488 60\ud68c \ub0a9\ud488",
         "Name_cn": "\u5b89\u767b\u7684\u8001\u4e3b\u987e3",
         "Name_de": "Erinnerungslieferung III",
         "Name_en": "The Customer Is Always Right: Anden III",
         "Name_fr": "Fournisseur officiel d'Anden III",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u5f97\u610f\u5148\uff1a\u30e9\u30f3\u30af3",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374\uc758 \ub2e8\uace8: 3\ub2e8\uacc4"
     },
     "3171": {
         "0xID": "C63",
@@ -36231,13 +36231,13 @@
         "Description_en": "Deliver 90 collectables to Anden.",
         "Description_fr": "\u00c9changer 90 objets collectionnables \u00e0 Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306b\u53ce\u96c6\u54c1\u3092\u8a0890\u56de\u7d0d\u54c1\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc5d0\uac8c \uc18c\uc7a5\ud488 90\ud68c \ub0a9\ud488",
         "Name_cn": "\u5b89\u767b\u7684\u8001\u4e3b\u987e4",
         "Name_de": "Erinnerungslieferung IV",
         "Name_en": "The Customer Is Always Right: Anden IV",
         "Name_fr": "Fournisseur officiel d'Anden IV",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u5f97\u610f\u5148\uff1a\u30e9\u30f3\u30af4",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374\uc758 \ub2e8\uace8: 4\ub2e8\uacc4"
     },
     "3172": {
         "0xID": "C64",
@@ -36246,13 +36246,13 @@
         "Description_en": "Deliver 120 collectables to Anden.",
         "Description_fr": "\u00c9changer 120 objets collectionnables \u00e0 Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306b\u53ce\u96c6\u54c1\u3092\u8a08120\u56de\u7d0d\u54c1\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc5d0\uac8c \uc18c\uc7a5\ud488 120\ud68c \ub0a9\ud488",
         "Name_cn": "\u5b89\u767b\u7684\u8001\u4e3b\u987e5",
         "Name_de": "Erinnerungslieferung V",
         "Name_en": "The Customer Is Always Right: Anden V",
         "Name_fr": "Fournisseur officiel d'Anden V",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u5f97\u610f\u5148\uff1a\u30e9\u30f3\u30af5",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374\uc758 \ub2e8\uace8: 5\ub2e8\uacc4"
     },
     "3173": {
         "0xID": "C65",
@@ -36261,13 +36261,13 @@
         "Description_en": "Deliver 150 collectables to Anden.",
         "Description_fr": "\u00c9changer 150 objets collectionnables \u00e0 Anden.",
         "Description_ja": "\u30a2\u30f3\u30c7\u30f3\u306b\u53ce\u96c6\u54c1\u3092\u8a08150\u56de\u7d0d\u54c1\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\uc548\ub374\uc5d0\uac8c \uc18c\uc7a5\ud488 150\ud68c \ub0a9\ud488",
         "Name_cn": "\u5b89\u767b\u7684\u8001\u4e3b\u987e6",
         "Name_de": "Erinnerungslieferung VI",
         "Name_en": "The Customer Is Always Right: Anden VI",
         "Name_fr": "Fournisseur officiel d'Anden VI",
         "Name_ja": "\u30a2\u30f3\u30c7\u30f3\u306e\u5f97\u610f\u5148\uff1a\u30e9\u30f3\u30af6",
-        "Name_ko": ""
+        "Name_ko": "\uc548\ub374\uc758 \ub2e8\uace8: 6\ub2e8\uacc4"
     },
     "3174": {
         "0xID": "C66",
@@ -36471,13 +36471,13 @@
         "Description_en": "Achieve sanctuary rank 12 in your island sanctuary.",
         "Description_fr": "Atteindre le rang 12 sur la F\u00e9licit\u00e9 insulaire.",
         "Description_ja": "\u7121\u4eba\u5cf6\u958b\u62d3\u306b\u3066\u3001\u958b\u62d3\u30e9\u30f3\u30af\u304c12\u306b\u5230\u9054\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubb34\uc778\ub3c4 \uac1c\ucc99 \ub7ad\ud06c 12 \ub2ec\uc131",
         "Name_cn": "\u65e0\u4eba\u5c9b\u7684\u5929\u624d\u5f00\u62d3\u8005",
         "Name_de": "Pfade im Sand",
         "Name_en": "Mammet Is the Architect",
         "Name_fr": "Paix et F\u00e9licit\u00e9",
         "Name_ja": "\u7121\u4eba\u5cf6\u306e\u30ab\u30ea\u30b9\u30de\u958b\u62d3\u8005",
-        "Name_ko": ""
+        "Name_ko": "\ubb34\uc778\ub3c4\uc758 \ube44\ubc94\ud55c \uac1c\ucc99\uc790"
     },
     "3187": {
         "0xID": "C73",
@@ -36486,13 +36486,13 @@
         "Description_en": "Catch 23 different varieties of big fish in areas explored during Endwalker.",
         "Description_fr": "P\u00eacher 23 prises l\u00e9gendaires diff\u00e9rentes dans les zones explor\u00e9es lors de Endwalker.",
         "Description_ja": "\u6681\u6708\u306e\u30d5\u30a3\u30ca\u30fc\u30ec\u306e\u30a8\u30ea\u30a2\u306b\u3044\u308b\u30cc\u30b7\u309223\u7a2e\u985e\u3001\u91e3\u308a\u4e0a\u3052\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud6a8\uc6d4\uc758 \uc885\uc5b8 \uc9c0\uc5ed\uc758 \ud130\uc8fc 23\uc885\ub958 \ub09a\uae30",
         "Name_cn": "\u6653\u6708\u592a\u516c2",
         "Name_de": "Apokalyptische Kapitalbeschaffung II",
         "Name_en": "Go Big Till the End II",
         "Name_fr": "P\u00eacheur de l\u00e9gendes intemporel II",
         "Name_ja": "\u6681\u6708\u306e\u592a\u516c\u671b\uff1a\u30e9\u30f3\u30af2",
-        "Name_ko": ""
+        "Name_ko": "\ud6a8\uc6d4\uc758 \uac15\ud0dc\uacf5: 2\ub2e8\uacc4"
     },
     "3188": {
         "0xID": "C74",
@@ -36786,13 +36786,13 @@
         "Description_en": "Complete the quest \u201cInheritance.\u201d",
         "Description_fr": "Accomplir la qu\u00eate \u201cLa gr\u00e2ce de l'\u00e9ventail\u201d.",
         "Description_ja": "\u30af\u30a8\u30b9\u30c8\u300c\u30d7\u30ea\u30f3\u30bb\u30b9\u30c7\u30fc\u3068\u6247\u306e\u821e\u8e0a\u300d\u3092\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud018\uc2a4\ud2b8 '\ud504\ub9b0\uc138\uc2a4\ub370\uc774\uc640 \ubd80\ucc44\ucda4' \uc644\ub8cc",
         "Name_cn": "\u4f20\u627f\u7684\u6247\u5b50\u4e0e\u821e\u8e48",
         "Name_de": "Tanzende Erinnerungen",
         "Name_en": "Her Greatest Fan",
         "Name_fr": "H\u00e9ritier des traditions",
         "Name_ja": "\u53d7\u3051\u7d99\u304c\u308c\u3057\u6247\u3068\u821e\u8e0a",
-        "Name_ko": ""
+        "Name_ko": "\ubb3c\ub824\ubc1b\uc740 \ubd80\ucc44\uc640 \ucda4"
     },
     "3205": {
         "0xID": "C85",
@@ -36801,13 +36801,13 @@
         "Description_en": "Complete the quest \u201cChaos, Carnage, Eggs.\u201d",
         "Description_fr": "Accomplir la qu\u00eate \u201cAimer les tomberrys \u00e0 la folie\u201d.",
         "Description_ja": "\u30af\u30a8\u30b9\u30c8\u300c\u30a8\u30c3\u30b0\u30cf\u30f3\u30c8\u3067\u30c8\u30f3\u30d9\u30ea\u306b\u611b\u3092\u300d\u3092\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud018\uc2a4\ud2b8 '\uc54c \uc0ac\ub0e5 \ucd95\uc81c\uc5d0\uc11c \ud1a4\ubca0\ub9ac\uc5d0\uac8c \uc0ac\ub791\uc744' \uc644\ub8cc",
         "Name_cn": "\u51ac\u8d1d\u5229\u5b88\u62a4\u7684\u8282\u65e5",
         "Name_de": "Tomberry-H\u00fcter",
         "Name_en": "It's Not Easy Being Green",
         "Name_fr": "Tomberry protecteur",
         "Name_ja": "\u30c8\u30f3\u30d9\u30ea\u304c\u5b88\u308b\u795d\u796d",
-        "Name_ko": ""
+        "Name_ko": "\ud1a4\ubca0\ub9ac\uac00 \uc9c0\ud0a4\ub294 \ucd95\uc81c"
     },
     "3206": {
         "0xID": "C86",
@@ -36816,13 +36816,13 @@
         "Description_en": "Complete the quest \u201cHearts of Gold.\u201d",
         "Description_fr": "Accomplir la qu\u00eate \u201cLes honneurs du Gold Saucer\u201d.",
         "Description_ja": "\u30af\u30a8\u30b9\u30c8\u300c\u30b4\u30fc\u30eb\u30c9\u30bd\u30fc\u30b5\u30fc\u3068\u30b4\u30fc\u30eb\u30c7\u30f3\u306a\u5fc3\u610f\u6c17\uff01\u300d\u3092\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud018\uc2a4\ud2b8 '\uace8\ub4dc \uc18c\uc11c\uc640 \ud669\uae08 \uac19\uc740 \ub9c8\uc74c\uac00\uc9d0' \uc644\ub8cc",
         "Name_cn": "\u91d1\u8272\u7684\u4e13\u8bbf",
         "Name_de": "Goldene Recherche",
         "Name_en": "Everything Gold Can Stay",
         "Name_fr": "Publi-r\u00e9dactionnel",
         "Name_ja": "\u30b4\u30fc\u30eb\u30c7\u30f3\u306a\u72ec\u5360\u53d6\u6750",
-        "Name_ko": ""
+        "Name_ko": "\ud669\uae08 \uac19\uc740 \ub3c5\uc810 \ucde8\uc7ac"
     },
     "3207": {
         "0xID": "C87",
@@ -36831,13 +36831,13 @@
         "Description_en": "Complete the quest \u201cI Am the Sunshine.\u201d",
         "Description_fr": "Accomplir la qu\u00eate \u201cLe ph\u00e9nix et son ange gardien\u201d.",
         "Description_ja": "\u30af\u30a8\u30b9\u30c8\u300c\u7d05\u84ee\u796d\u3068\u5e38\u590f\u306e\u30d2\u30fc\u30ed\u30fc\u58eb\u300d\u3092\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud018\uc2a4\ud2b8 '\ubd88\uaf43\ucd95\uc81c\uc640 \ub298\uc5ec\ub984 \uc6a9\uc0ac\ub2d8' \uc644\ub8cc",
         "Name_cn": "\u706b\u70ed\u7684\u4e0d\u6b7b\u9e1f\uff0c\u706b\u70ed\u7684\u6c99\u6ee9\u82f1\u96c4",
         "Name_de": "Recke des Reigens",
         "Name_en": "Hot Bird Summer",
         "Name_fr": "Ph\u00e9nix de la Mort",
         "Name_ja": "\u4e0d\u6b7b\u9ce5\u306e\u30d2\u30fc\u30ed\u30fc\u58eb",
-        "Name_ko": ""
+        "Name_ko": "\ubd88\uc0ac\uc870 \uc6a9\uc0ac\ub2d8"
     },
     "3208": {
         "0xID": "C88",
@@ -36891,13 +36891,13 @@
         "Description_en": "Raid the Shifting Gymnasion Agonon.",
         "Description_fr": "P\u00e9n\u00e9trer 1 fois dans Elpis Gymnasion.",
         "Description_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306b\u521d\u3081\u3066\u4fb5\u5165\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubcf4\ubb3c\uace0 \uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804 1\ud68c \uce68\uc785",
         "Name_cn": "\u8e0f\u5165\u80b2\u4f53\u5b9d\u6bbf1",
         "Name_de": "Gymnastische Ert\u00fcchtigung I",
         "Name_en": "On the Proteion I",
         "Name_fr": "Visiteur du gymnase I",
         "Name_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306b\u4fb5\u5165\u305b\u3057\u8005\uff1a\u30e9\u30f3\u30af1",
-        "Name_ko": ""
+        "Name_ko": "\uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804\uc5d0 \uce68\uc785\ud55c \uc790: 1\ub2e8\uacc4"
     },
     "3211": {
         "0xID": "C8B",
@@ -36906,13 +36906,13 @@
         "Description_en": "Raid the Shifting Gymnasion Agonon 5 times.",
         "Description_fr": "P\u00e9n\u00e9trer 5 fois dans Elpis Gymnasion.",
         "Description_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306b\u7d2f\u8a085\u56de\u4fb5\u5165\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubcf4\ubb3c\uace0 \uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804 5\ud68c \uce68\uc785",
         "Name_cn": "\u8e0f\u5165\u80b2\u4f53\u5b9d\u6bbf2",
         "Name_de": "Gymnastische Ert\u00fcchtigung II",
         "Name_en": "On the Proteion II",
         "Name_fr": "Visiteur du gymnase II",
         "Name_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306b\u4fb5\u5165\u305b\u3057\u8005\uff1a\u30e9\u30f3\u30af2",
-        "Name_ko": ""
+        "Name_ko": "\uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804\uc5d0 \uce68\uc785\ud55c \uc790: 2\ub2e8\uacc4"
     },
     "3212": {
         "0xID": "C8C",
@@ -36921,13 +36921,13 @@
         "Description_en": "Raid the Shifting Gymnasion Agonon 10 times.",
         "Description_fr": "P\u00e9n\u00e9trer 10 fois dans Elpis Gymnasion.",
         "Description_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306b\u7d2f\u8a0810\u56de\u4fb5\u5165\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubcf4\ubb3c\uace0 \uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804 10\ud68c \uce68\uc785",
         "Name_cn": "\u8e0f\u5165\u80b2\u4f53\u5b9d\u6bbf3",
         "Name_de": "Gymnastische Ert\u00fcchtigung III",
         "Name_en": "On the Proteion III",
         "Name_fr": "Visiteur du gymnase III",
         "Name_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306b\u4fb5\u5165\u305b\u3057\u8005\uff1a\u30e9\u30f3\u30af3",
-        "Name_ko": ""
+        "Name_ko": "\uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804\uc5d0 \uce68\uc785\ud55c \uc790: 3\ub2e8\uacc4"
     },
     "3213": {
         "0xID": "C8D",
@@ -36936,13 +36936,13 @@
         "Description_en": "Raid the Shifting Gymnasion Agonon 20 times.",
         "Description_fr": "P\u00e9n\u00e9trer 20 fois dans Elpis Gymnasion.",
         "Description_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306b\u7d2f\u8a0820\u56de\u4fb5\u5165\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubcf4\ubb3c\uace0 \uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804 20\ud68c \uce68\uc785",
         "Name_cn": "\u8e0f\u5165\u80b2\u4f53\u5b9d\u6bbf4",
         "Name_de": "Gymnastische Ert\u00fcchtigung IV",
         "Name_en": "On the Proteion IV",
         "Name_fr": "Visiteur du gymnase IV",
         "Name_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306b\u4fb5\u5165\u305b\u3057\u8005\uff1a\u30e9\u30f3\u30af4",
-        "Name_ko": ""
+        "Name_ko": "\uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804\uc5d0 \uce68\uc785\ud55c \uc790: 4\ub2e8\uacc4"
     },
     "3214": {
         "0xID": "C8E",
@@ -36951,13 +36951,13 @@
         "Description_en": "Conquer the final trial in the Shifting Gymnasion Agonon.",
         "Description_fr": "Conqu\u00e9rir 1 fois Elpis Gymnasion.",
         "Description_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u3092\u521d\u3081\u3066\u5236\u8987\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubcf4\ubb3c\uace0 \uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804 1\ud68c \uc644\ub8cc",
         "Name_cn": "\u79f0\u9738\u80b2\u4f53\u5b9d\u6bbf1",
         "Name_de": "Zutritt nur f\u00fcr Gymnasiarchen I",
         "Name_en": "Let None but Gymnasts Enter Here I",
         "Name_fr": "Ma\u00eetre du gymnase I",
         "Name_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306e\u8987\u8005\uff1a\u30e9\u30f3\u30af1",
-        "Name_ko": ""
+        "Name_ko": "\uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804\uc744 \uc81c\ud328\ud55c \uc790: 1\ub2e8\uacc4"
     },
     "3215": {
         "0xID": "C8F",
@@ -36966,13 +36966,13 @@
         "Description_en": "Conquer the final trial in the Shifting Gymnasion Agonon 5 times.",
         "Description_fr": "Conqu\u00e9rir 5 fois Elpis Gymnasion.",
         "Description_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u3092\u7d2f\u8a085\u56de\u5236\u8987\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubcf4\ubb3c\uace0 \uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804 5\ud68c \uc644\ub8cc",
         "Name_cn": "\u79f0\u9738\u80b2\u4f53\u5b9d\u6bbf2",
         "Name_de": "Zutritt nur f\u00fcr Gymnasiarchen II",
         "Name_en": "Let None but Gymnasts Enter Here II",
         "Name_fr": "Ma\u00eetre du gymnase II",
         "Name_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306e\u8987\u8005\uff1a\u30e9\u30f3\u30af2",
-        "Name_ko": ""
+        "Name_ko": "\uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804\uc744 \uc81c\ud328\ud55c \uc790: 2\ub2e8\uacc4"
     },
     "3216": {
         "0xID": "C90",
@@ -36981,13 +36981,13 @@
         "Description_en": "Conquer the final trial in the Shifting Gymnasion Agonon 10 times.",
         "Description_fr": "Conqu\u00e9rir 10 fois Elpis Gymnasion.",
         "Description_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u3092\u7d2f\u8a0810\u56de\u5236\u8987\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubcf4\ubb3c\uace0 \uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804 10\ud68c \uc644\ub8cc",
         "Name_cn": "\u79f0\u9738\u80b2\u4f53\u5b9d\u6bbf3",
         "Name_de": "Zutritt nur f\u00fcr Gymnasiarchen III",
         "Name_en": "Let None but Gymnasts Enter Here III",
         "Name_fr": "Ma\u00eetre du gymnase III",
         "Name_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306e\u8987\u8005\uff1a\u30e9\u30f3\u30af3",
-        "Name_ko": ""
+        "Name_ko": "\uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804\uc744 \uc81c\ud328\ud55c \uc790: 3\ub2e8\uacc4"
     },
     "3217": {
         "0xID": "C91",
@@ -36996,13 +36996,13 @@
         "Description_en": "Conquer the final trial in the Shifting Gymnasion Agonon 20 times.",
         "Description_fr": "Conqu\u00e9rir 20 fois Elpis Gymnasion.",
         "Description_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u3092\u7d2f\u8a0820\u56de\u5236\u8987\u3059\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ubcf4\ubb3c\uace0 \uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804 20\ud68c \uc644\ub8cc",
         "Name_cn": "\u79f0\u9738\u80b2\u4f53\u5b9d\u6bbf4",
         "Name_de": "Zutritt nur f\u00fcr Gymnasiarchen IV",
         "Name_en": "Let None but Gymnasts Enter Here IV",
         "Name_fr": "Ma\u00eetre du gymnase IV",
         "Name_ja": "\u30a8\u30eb\u30d4\u30b9\u30fb\u30ae\u30e5\u30e0\u30ca\u30b7\u30aa\u30f3\u796d\u6bbf\u306e\u8987\u8005\uff1a\u30e9\u30f3\u30af4",
-        "Name_ko": ""
+        "Name_ko": "\uc5d8\ud53c\uc2a4 \uae40\ub098\uc2dc\uc628 \uc81c\uc804\uc744 \uc81c\ud328\ud55c \uc790: 4\ub2e8\uacc4"
     },
     "3218": {
         "0xID": "C92",
@@ -37011,13 +37011,13 @@
         "Description_en": "Complete Crystalline Conflict Season Four ranked #1.",
         "Description_fr": "Terminer la saison 4 de Crystalline Conflict \u00e0 la 1re place du classement.",
         "Description_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u30b7\u30fc\u30ba\u30f34\u306b\u3066\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u30671\u4f4d\u306b\u306a\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8 \uc2dc\uc98c 4\uc5d0\uc11c 1\uc704 \uc785\uc0c1",
         "Name_cn": "\u51b2\u7a81\u7684\u738b\u8005\u7b2c4\u8d5b\u5b63",
         "Name_de": "Kristallk\u00f6nig (4. Saison)",
         "Name_en": "Top Tier: Season Four",
         "Name_fr": "Roi du conflit : saison 4",
         "Name_ja": "\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u738b\u8005\uff1a\u30b7\u30fc\u30ba\u30f34",
-        "Name_ko": ""
+        "Name_ko": "\ucee8\ud50c\ub9ad\ud2b8\uc758 \ud328\uc655: \uc2dc\uc98c 4"
     },
     "3219": {
         "0xID": "C93",
@@ -37026,13 +37026,13 @@
         "Description_en": "Complete Crystalline Conflict Season Four ranked within the top 30.",
         "Description_fr": "Terminer la saison 4 de Crystalline Conflict dans les 30 premi\u00e8res places du classement.",
         "Description_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u30b7\u30fc\u30ba\u30f34\u306b\u3066\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u306730\u4f4d\u4ee5\u5185\u306b\u5165\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8 \uc2dc\uc98c 4\uc5d0\uc11c 30\uc704 \uc774\ub0b4 \uc785\uc0c1",
         "Name_cn": "\u51b2\u7a81\u7684\u52c7\u8005\u7b2c4\u8d5b\u5b63",
         "Name_de": "Kristallf\u00fcrst (4. Saison)",
         "Name_en": "Crystal in the Rough: Season Four",
         "Name_fr": "Prince du conflit : saison 4",
         "Name_ja": "\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u52c7\u8005\uff1a\u30b7\u30fc\u30ba\u30f34",
-        "Name_ko": ""
+        "Name_ko": "\ucee8\ud50c\ub9ad\ud2b8\uc758 \uc6a9\uc790: \uc2dc\uc98c 4"
     },
     "322": {
         "0xID": "142",
@@ -37056,13 +37056,13 @@
         "Description_en": "Complete Crystalline Conflict Season Four ranked within the top 100.",
         "Description_fr": "Terminer la saison 4 de Crystalline Conflict dans les 100 premi\u00e8res places du classement.",
         "Description_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u30b7\u30fc\u30ba\u30f34\u306b\u3066\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067100\u4f4d\u4ee5\u5185\u306b\u5165\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8 \uc2dc\uc98c 4\uc5d0\uc11c 100\uc704 \uc774\ub0b4 \uc785\uc0c1",
         "Name_cn": "\u51b2\u7a81\u7684\u83b7\u5956\u8005\u7b2c4\u8d5b\u5b63",
         "Name_de": "Kristallk\u00e4mpfer (4. Saison)",
         "Name_en": "Ranked and Filed: Season Four",
         "Name_fr": "As du conflit : saison 4",
         "Name_ja": "\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u5165\u8cde\u8005\uff1a\u30b7\u30fc\u30ba\u30f34",
-        "Name_ko": ""
+        "Name_ko": "\ucee8\ud50c\ub9ad\ud2b8\uc758 \uc785\uc0c1\uc790: \uc2dc\uc98c 4"
     },
     "3221": {
         "0xID": "C95",
@@ -37071,13 +37071,13 @@
         "Description_en": "Complete Crystalline Conflict Season Five ranked #1.",
         "Description_fr": "Terminer la saison 5 de Crystalline Conflict \u00e0 la 1re place du classement.",
         "Description_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u30b7\u30fc\u30ba\u30f35\u306b\u3066\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u30671\u4f4d\u306b\u306a\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8 \uc2dc\uc98c 5\uc5d0\uc11c 1\uc704 \uc785\uc0c1",
         "Name_cn": "\u51b2\u7a81\u7684\u738b\u8005\u7b2c5\u8d5b\u5b63",
         "Name_de": "Kristallk\u00f6nig (5. Saison)",
         "Name_en": "Top Tier: Season Five",
         "Name_fr": "Roi du conflit : saison 5",
         "Name_ja": "\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u738b\u8005\uff1a\u30b7\u30fc\u30ba\u30f35",
-        "Name_ko": ""
+        "Name_ko": "\ucee8\ud50c\ub9ad\ud2b8\uc758 \ud328\uc655: \uc2dc\uc98c 5"
     },
     "3222": {
         "0xID": "C96",
@@ -37086,13 +37086,13 @@
         "Description_en": "Complete Crystalline Conflict Season Five ranked within the top 30.",
         "Description_fr": "Terminer la saison 5 de Crystalline Conflict dans les 30 premi\u00e8res places du classement.",
         "Description_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u30b7\u30fc\u30ba\u30f35\u306b\u3066\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u306730\u4f4d\u4ee5\u5185\u306b\u5165\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8 \uc2dc\uc98c 5\uc5d0\uc11c 30\uc704 \uc774\ub0b4 \uc785\uc0c1",
         "Name_cn": "\u51b2\u7a81\u7684\u52c7\u8005\u7b2c5\u8d5b\u5b63",
         "Name_de": "Kristallf\u00fcrst (5. Saison)",
         "Name_en": "Crystal in the Rough: Season Five",
         "Name_fr": "Prince du conflit : saison 5",
         "Name_ja": "\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u52c7\u8005\uff1a\u30b7\u30fc\u30ba\u30f35",
-        "Name_ko": ""
+        "Name_ko": "\ucee8\ud50c\ub9ad\ud2b8\uc758 \uc6a9\uc790: \uc2dc\uc98c 5"
     },
     "3223": {
         "0xID": "C97",
@@ -37101,13 +37101,13 @@
         "Description_en": "Complete Crystalline Conflict Season Five ranked within the top 100.",
         "Description_fr": "Terminer la saison 5 de Crystalline Conflict dans les 100 premi\u00e8res places du classement.",
         "Description_ja": "\u30af\u30ea\u30b9\u30bf\u30eb\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u30b7\u30fc\u30ba\u30f35\u306b\u3066\u3001\u30e9\u30f3\u30ad\u30f3\u30b0\u3067100\u4f4d\u4ee5\u5185\u306b\u5165\u308b",
-        "Description_ko": "",
+        "Description_ko": "\ud06c\ub9ac\uc2a4\ud0c8\ub77c\uc778 \ucee8\ud50c\ub9ad\ud2b8 \uc2dc\uc98c 5\uc5d0\uc11c 100\uc704 \uc774\ub0b4 \uc785\uc0c1",
         "Name_cn": "\u51b2\u7a81\u7684\u83b7\u5956\u8005\u7b2c5\u8d5b\u5b63",
         "Name_de": "Kristallk\u00e4mpfer (5. Saison)",
         "Name_en": "Ranked and Filed: Season Five",
         "Name_fr": "As du conflit : saison 5",
         "Name_ja": "\u30b3\u30f3\u30d5\u30ea\u30af\u30c8\u306e\u5165\u8cde\u8005\uff1a\u30b7\u30fc\u30ba\u30f35",
-        "Name_ko": ""
+        "Name_ko": "\ucee8\ud50c\ub9ad\ud2b8\uc758 \uc785\uc0c1\uc790: \uc2dc\uc98c 5"
     },
     "3224": {
         "0xID": "C98",
@@ -37431,13 +37431,13 @@
         "Description_en": "Decipher 20 timeworn ophiotauroskin maps and open the treasure coffers to which they lead.",
         "Description_fr": "D\u00e9chiffrer 20 vieilles cartes en peau d'ophiotauros et ouvrir les coffres auxquels elles conduisent.",
         "Description_ja": "\u53e4\u307c\u3051\u305f\u5730\u56f3G15\u3092\u89e3\u8aad\u3057\u3001\u5b9d\u7bb1\u309220\u56de\u958b\u3051\u308b",
-        "Description_ko": "",
+        "Description_ko": "15\ub4f1\uae09 \uc624\ub798\ub41c \uc9c0\ub3c4\ub97c \ud574\ub3c5\ud558\uc5ec \ubcf4\ubb3c\uc0c1\uc790 20\ud68c \uc5f4\uae30",
         "Name_cn": "\u5bfb\u5b9d\u730e\u4eba14",
         "Name_de": "Wer sucht, der findet XIV",
         "Name_en": "I Can Dig It XIV",
         "Name_fr": "Creuser son trou XIV",
         "Name_ja": "\u30c8\u30ec\u30b8\u30e3\u30fc\u30cf\u30f3\u30bf\u30fc\uff1a\u30e9\u30f3\u30af14",
-        "Name_ko": ""
+        "Name_ko": "\ubcf4\ubb3c \uc0ac\ub0e5\uafbc: 14\ub2e8\uacc4"
     },
     "3244": {
         "0xID": "CAC",
